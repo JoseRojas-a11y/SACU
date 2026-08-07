@@ -1,0 +1,608 @@
+{
+  "course_id": "GE605",
+  "course_name": "Sistema_y_Gestión_Financiera",
+  "id": "1AeLT-aVCDA-LtgETDFJKTi2cT1bAIybo",
+  "scanned_at": "2026-08-07T00:06:51.934041+00:00",
+  "tree": {
+    "name": "Sistema_y_Gestión_Financiera",
+    "type": "folder",
+    "id": "1AeLT-aVCDA-LtgETDFJKTi2cT1bAIybo",
+    "children": [
+      {
+        "name": "Valle",
+        "type": "folder",
+        "id": "1B-5j6LD9qYZBxX5E_ELDe6gyNKoH-x0J",
+        "children": [
+          {
+            "name": "Clases",
+            "type": "folder",
+            "id": "1rXTtt8I0dw2Zdi-X3GCvd0Hj7eABCKe8",
+            "children": [
+              {
+                "name": "Metodos_de_Valorizacion.pdf",
+                "type": "file",
+                "id": "1QlFty90nef4Snq3xxadToCMuW_WqgljL",
+                "mimeType": "application/pdf",
+                "size": "2740133"
+              },
+              {
+                "name": "PPT_Eval_Inversiones_y_Flujo_de_Caja.pdf",
+                "type": "file",
+                "id": "1BcrqxMW8kNpAdHyvTal-KwNHw88Os14J",
+                "mimeType": "application/pdf",
+                "size": "2830853"
+              },
+              {
+                "name": "S12_Proyecciones_EEFF.pdf",
+                "type": "file",
+                "id": "1esOnUQ_Ej4s0SwKyAfMq8ThwmxlrqTUT",
+                "mimeType": "application/pdf",
+                "size": "4297617"
+              },
+              {
+                "name": "S11_Ingenieria_Economica.pdf",
+                "type": "file",
+                "id": "1aGPYf1M3A0p1O1w2oulM_mgkZ2mxLDKC",
+                "mimeType": "application/pdf",
+                "size": "1160223"
+              },
+              {
+                "name": "CASO_COSTO_DE_MATERIA_PRIMA_TALLER.pdf",
+                "type": "file",
+                "id": "15Re2b1oWZFDIGu2f64IHJH1BNs-K9LmH",
+                "mimeType": "application/pdf",
+                "size": "175390"
+              },
+              {
+                "name": "PPT_Costo_Volumen_Utilidad.pdf",
+                "type": "file",
+                "id": "1I5P56nGyvBwP0HdZGkeX4skoYrg_9vUT",
+                "mimeType": "application/pdf",
+                "size": "2175512"
+              },
+              {
+                "name": "S10_Costos_fijos_y_variables_y_ejercicios.pdf",
+                "type": "file",
+                "id": "14fI6gJ5i7z_tCu3D5coWlJiJ02QGVdKk",
+                "mimeType": "application/pdf",
+                "size": "1264057"
+              },
+              {
+                "name": "S9._Costos_y_Gastos_Definiones.pdf",
+                "type": "file",
+                "id": "1m7494H_YiVd3I6KcPYmk9UXBhM7oMyPh",
+                "mimeType": "application/pdf",
+                "size": "1419581"
+              },
+              {
+                "name": "S7._Alicorp_EEFF_rentab_y_dupont_COMPLETO_(2).xlsx",
+                "type": "file",
+                "id": "1IHubBVZq3BLPUrEzKsXG1-WIbijQgUH2",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "61288"
+              },
+              {
+                "name": "S5._Alicorp_EEFF_SOLVECIA_Y_LIQUIDEZ.xlsx",
+                "type": "file",
+                "id": "1CSWcWLrTOAzgbKJedEcMNArb66xMY9hH",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "81687"
+              },
+              {
+                "name": "caso.xlsx",
+                "type": "file",
+                "id": "1n4BkuSuDsda3grF4X7T94DYULXBFaJiF",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "216184"
+              },
+              {
+                "name": "S7._Alicorp_EEFF_rentab_y_dupont_COMPLETO_(1).xlsx",
+                "type": "file",
+                "id": "1sKndJ7KLHIYP1gJD38l0dBww9dJp9Yol",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "61288"
+              },
+              {
+                "name": "Excel_Cronograma_de_financiamiento.xlsx",
+                "type": "file",
+                "id": "1wxHnNOcNNQvda1INDzUFjpIm4tCdMXw0",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "11928"
+              },
+              {
+                "name": "CASO_VIDAL_EXCEL_(1).xlsx",
+                "type": "file",
+                "id": "1jOdD6Ndirhs1COStLY6Z3kvfQCYE_dP1",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "21644"
+              },
+              {
+                "name": "EXCEL_FLUJO_DE_CAJA_ALICORP.xlsx",
+                "type": "file",
+                "id": "1APRDDCxcTcoFpOxxwwvDAJhBj3_U1ffp",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "63686"
+              },
+              {
+                "name": "S14_Valorización_de_empresa_Alicorp_y_Flujo_de_caja_24-28_(1).xlsx",
+                "type": "file",
+                "id": "14uoWSYWvNRTsY8KuMs2o638-aM1a2Id_",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "444201"
+              },
+              {
+                "name": "EXCEL_ALICORP_FINAL_(1).xlsx",
+                "type": "file",
+                "id": "1wiucnl_VMOVA15_WHzU8n3xmZtE86Giq",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "444952"
+              },
+              {
+                "name": "S3_Minicaso_Diario_y_armado_ESF.xlsx",
+                "type": "file",
+                "id": "1XI0QFpsS3lXgX074aP0XlgJJRe4SOkrt",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "9298"
+              }
+            ]
+          },
+          {
+            "name": "Monografias",
+            "type": "folder",
+            "id": "1T8kinksl80UAtSZLhH6-W_zZCK3Wk-lz",
+            "children": [
+              {
+                "name": "Monografia_1",
+                "type": "folder",
+                "id": "1lbGYBb42Ehf-HpYfXQwbF_1fIIiUgsLR",
+                "children": [
+                  {
+                    "name": "Portfolio_Performance_-_LUIS_ENRIQUE_NUNEZ_RAMOS.csv",
+                    "type": "file",
+                    "id": "1_fD8JW6rnANb2Z-EdZSJX_C2iQa31Xp4",
+                    "mimeType": "text/csv",
+                    "size": "1048"
+                  },
+                  {
+                    "name": "Portfolio_Transactions_-_LUIS_ENRIQUE_NUNEZ_RAMOS.csv",
+                    "type": "file",
+                    "id": "1RhqcJdgk3GhB0g3xl8nxjbzVEBUmjY61",
+                    "mimeType": "text/csv",
+                    "size": "811"
+                  },
+                  {
+                    "name": "Monografía_Grupal.pdf",
+                    "type": "file",
+                    "id": "1rI8XcKYCe80gaku2EEtw9fd7621gfVXw",
+                    "mimeType": "application/pdf",
+                    "size": "22236536"
+                  },
+                  {
+                    "name": "Monografía_-_Individual_-_Castañeda.pdf",
+                    "type": "file",
+                    "id": "1Fvd4poRCBA5EX14Q6jEa-QMRfIq9U1Mm",
+                    "mimeType": "application/pdf",
+                    "size": "19099897"
+                  },
+                  {
+                    "name": "Holdings_-_LUIS_ENRIQUE_NUNEZ_RAMOS.csv",
+                    "type": "file",
+                    "id": "1zuRPu3cmk5W-tZwu8s0KPf087bJLk4Nk",
+                    "mimeType": "text/csv",
+                    "size": "437"
+                  },
+                  {
+                    "name": "Holdings_-_Anthony_Castaneda.csv",
+                    "type": "file",
+                    "id": "1yfr0XzypldpVEmVE1AFspwNDvLqu8f3R",
+                    "mimeType": "text/csv",
+                    "size": "601"
+                  },
+                  {
+                    "name": "Portfolio_Transactions_-_Anthony_Castaneda.csv",
+                    "type": "file",
+                    "id": "1PYdifO7hj0vIpEiMrIiKUM8HtuK8Zj5e",
+                    "mimeType": "text/csv",
+                    "size": "1655"
+                  },
+                  {
+                    "name": "Portfolio_Performance_-_Anthony_Castaneda.csv",
+                    "type": "file",
+                    "id": "1MKOyxMNXhkcqdVPYohrKKfg1enAWnHa-",
+                    "mimeType": "text/csv",
+                    "size": "203"
+                  }
+                ]
+              },
+              {
+                "name": "Monografia_2",
+                "type": "folder",
+                "id": "1MY0e79jdyJmnWpSCweVBCtqFFn0LegaH",
+                "children": [
+                  {
+                    "name": "G3_-_Monografía_2_SGF.pdf",
+                    "type": "file",
+                    "id": "1cAhIC8QUHBILX9MY23EYTCZyjG8XVKSw",
+                    "mimeType": "application/pdf",
+                    "size": "5490581"
+                  },
+                  {
+                    "name": "PrediccionVentas_Valorizacion_Block_Inc_(2).ipynb",
+                    "type": "file",
+                    "id": "1ERWA9UYEARNycx0DlznhYDdjie4amgba",
+                    "mimeType": "application/octet-stream",
+                    "size": "326797"
+                  },
+                  {
+                    "name": "G3_-_EXCEL_MONOGRAFIA_2.xlsx",
+                    "type": "file",
+                    "id": "1M_khcj30gi8HQx0klLXSLqyfwKh6RS6E",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "size": "80039"
+                  },
+                  {
+                    "name": "Monografía_2_SGF.pdf",
+                    "type": "file",
+                    "id": "1DKHEAaQRBO5PGUwO6iKIcTXQAnLtcibi",
+                    "mimeType": "application/pdf",
+                    "size": "7636990"
+                  },
+                  {
+                    "name": "Output_IA_para_Valoracion.xlsx",
+                    "type": "file",
+                    "id": "1g7LiC-3c7-H0F8PgDsen7Ju0xj_TAFPu",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "size": "5438"
+                  },
+                  {
+                    "name": "PrediccionVentas_Block_Inc.ipynb",
+                    "type": "file",
+                    "id": "12gEY9MRg4nNozahK18hScHI3tSaUNn5m",
+                    "mimeType": "application/octet-stream",
+                    "size": "374010"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Examenes",
+            "type": "folder",
+            "id": "1rSrHuwWGakcbWmTFhN6OVkuHZMm0zAos",
+            "children": [
+              {
+                "name": "ES",
+                "type": "folder",
+                "id": "1rpYUPQR2YSWTKw7XfH5qF_ZYcUtcvTzp",
+                "children": [
+                  {
+                    "name": "GE605V_ES_21-2.docx",
+                    "type": "file",
+                    "id": "1JpWUD0ZA1SLXJpbAiqEKyTYU7-5XlKBG",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "38362"
+                  }
+                ]
+              },
+              {
+                "name": "EP",
+                "type": "folder",
+                "id": "1YIUFFSLqZqzN5uovCo3sA0A8w4ciE2OU",
+                "children": [
+                  {
+                    "name": "GE605V_EP_22-2.docx",
+                    "type": "file",
+                    "id": "1c2BEYLrru1I_3wuMSkWkbvsTjOK04VMx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "26153"
+                  },
+                  {
+                    "name": "EP_24-2.docx",
+                    "type": "file",
+                    "id": "1DQeva-FXJ1kHVDD6uPbmSDAxm4bSMgUf",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "36547"
+                  },
+                  {
+                    "name": "GE605V_EP_20-1_Solución.docx",
+                    "type": "file",
+                    "id": "1Kqbfddh0-qR8__x27fMrfS2-3c3mtc8H",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "211955"
+                  },
+                  {
+                    "name": "GE605V_EP_21-2.docx",
+                    "type": "file",
+                    "id": "10DDB3ube6eI7k7quz5l1xnc6OXTiW1n2",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "27275"
+                  },
+                  {
+                    "name": "GE605V_EP_23-2.pdf",
+                    "type": "file",
+                    "id": "15qsgXkmyeQ3QW2x8ogKMo7JiVonQpLb1",
+                    "mimeType": "application/pdf",
+                    "size": "135784"
+                  },
+                  {
+                    "name": "GE605V_EP_22-1.docx",
+                    "type": "file",
+                    "id": "1JKg7l-YHeaBn5fHkdcJ0peMWfgrc-oBt",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "43283"
+                  },
+                  {
+                    "name": "GE605V_EP_21-2_Solución.pdf",
+                    "type": "file",
+                    "id": "1vvgMLCUQMb-2ks-rucMH_r0Frp2XDmQ_",
+                    "mimeType": "application/pdf",
+                    "size": "89148"
+                  },
+                  {
+                    "name": "GE605V_EP_24-1.pdf",
+                    "type": "file",
+                    "id": "1x15LYJbXaMhSQ8TMT6nGOH_aXwcrwdt2",
+                    "mimeType": "application/pdf",
+                    "size": "189391"
+                  }
+                ]
+              },
+              {
+                "name": "EF",
+                "type": "folder",
+                "id": "1CNS9O-MZBpKfZP_uVrslOUgJRhw_x7Ic",
+                "children": [
+                  {
+                    "name": "22-1",
+                    "type": "folder",
+                    "id": "1olJ9SQF_y0IlwUogDTpoekqx1-jDKt1v",
+                    "children": [
+                      {
+                        "name": "GE605V_EF_22-1_Solución.docx",
+                        "type": "file",
+                        "id": "1dWb_qDf1ga-9x8keCb6tZJJcZ4NF35r9",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "439869"
+                      },
+                      {
+                        "name": "GE605V_EF_22-1.docx",
+                        "type": "file",
+                        "id": "1HiLOGin-ZEWFR1RLI41zPdu9BPFk2oWK",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "38636"
+                      },
+                      {
+                        "name": "GE605V_EF_22-1_Solución_tablas.xlsx",
+                        "type": "file",
+                        "id": "1TcSKWsXopSXgF1niYC8-OKlotU_keUBs",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                        "size": "32488"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "GE605V_EF_21-2.docx",
+                    "type": "file",
+                    "id": "1f6IZ2PGLF-z1Eas9hqx1vz1LD3bxSBH9",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "38380"
+                  },
+                  {
+                    "name": "GE605V_EF_20-1_+_Solución.pdf",
+                    "type": "file",
+                    "id": "1ndfWi0MYkT_Kegpa_zniU4_-ZcjyAMKb",
+                    "mimeType": "application/pdf",
+                    "size": "166626"
+                  },
+                  {
+                    "name": "GE605V_EF_21-1.docx",
+                    "type": "file",
+                    "id": "1G_ZGyaqtT0MH7atk6Eomvz-YhSNYkVJI",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "26648"
+                  },
+                  {
+                    "name": "GE605V_-_SOLUCIONES_FINAL_2020-2021.xlsx",
+                    "type": "file",
+                    "id": "1AeUgKz7b0pQyqwrRUVgrOIG92tMTHGDV",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "size": "35157"
+                  },
+                  {
+                    "name": "GE605V_EF_20-1.docx",
+                    "type": "file",
+                    "id": "1sIc7ICcQOflzkCaSEmrvcQl914EV5vjv",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "44879"
+                  },
+                  {
+                    "name": "GE605V_EF_20-2.docx",
+                    "type": "file",
+                    "id": "1VGMZTL181FaOdZjH0uNlIuiDphdg8Ub4",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "25560"
+                  },
+                  {
+                    "name": "GE605V_EF_24-1.pdf",
+                    "type": "file",
+                    "id": "1TSd0OX8PIREaLvmLRy2JYury9ubxVlZ3",
+                    "mimeType": "application/pdf",
+                    "size": "224776"
+                  },
+                  {
+                    "name": "GE605V_EF_22-2.docx",
+                    "type": "file",
+                    "id": "1EQt3ece2OA4W5k2ibDLBkhdnWqC-kjaQ",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "38636"
+                  },
+                  {
+                    "name": "GE605V_EF_23-2.pdf",
+                    "type": "file",
+                    "id": "1PFumokCSmhtumDOVEJ9cfZcyjB7sYQ5p",
+                    "mimeType": "application/pdf",
+                    "size": "380552"
+                  }
+                ]
+              },
+              {
+                "name": "PC4_-_GRUPO_3.pdf",
+                "type": "file",
+                "id": "1yFXHtfNAZ2BLu4Lt3gE8VZlzYR2w1mT6",
+                "mimeType": "application/pdf",
+                "size": "12158348"
+              },
+              {
+                "name": "Grupo_3_-_Sistema_Contable_-_SGF.pdf",
+                "type": "file",
+                "id": "1lOn_Xgs7w7DOhJRZjGp4thWe8j-skdw5",
+                "mimeType": "application/pdf",
+                "size": "4115517"
+              },
+              {
+                "name": "PC3-G3-BLOCK_INC.pdf",
+                "type": "file",
+                "id": "1_utj3WcehmdGqjZbS1tiHUzdvs9mBR8q",
+                "mimeType": "application/pdf",
+                "size": "1815412"
+              },
+              {
+                "name": "EF25-1_(2).jpg",
+                "type": "file",
+                "id": "1ae95bUl15_er_E_TsITJIHE5HlkOMi-a",
+                "mimeType": "image/jpeg",
+                "size": "69683"
+              },
+              {
+                "name": "EF25-1.jpg",
+                "type": "file",
+                "id": "15C5SasfFYzGpNaNa5sBSN4ie2ulpkZdu",
+                "mimeType": "image/jpeg",
+                "size": "103706"
+              },
+              {
+                "name": "SGF_24-II_(1).xlsx",
+                "type": "file",
+                "id": "1OPXa1mYuh-cRbMaZ-O3HdW_P6gle7tB0",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "3432613"
+              },
+              {
+                "name": "GE605V_EF_22-1_Solución_tablas.xlsx",
+                "type": "file",
+                "id": "170NblX6GMg7F8OYAUpfWunoED4Tzrvlz",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "32488"
+              },
+              {
+                "name": "GE605V_EF_22-2.docx.pdf",
+                "type": "file",
+                "id": "12TPHRdivbGjcxcxj-_RzLZaoG2qjGyIo",
+                "mimeType": "application/pdf",
+                "size": "287209"
+              },
+              {
+                "name": "GE605V_EF_22-1_Solución.docx.pdf",
+                "type": "file",
+                "id": "1Lh5jJameXLlKpnZ2fJXPi95HAGajiENE",
+                "mimeType": "application/pdf",
+                "size": "609705"
+              },
+              {
+                "name": "GE605V_EF_22-1.docx.pdf",
+                "type": "file",
+                "id": "1BzfrFS1CZrakI58MIiXKg_eCHKV-MKMF",
+                "mimeType": "application/pdf",
+                "size": "287209"
+              },
+              {
+                "name": "Examen_Final_21-2.docx.pdf",
+                "type": "file",
+                "id": "17OWpMQRh7krPl0TYNHcFoFRiadQUFj60",
+                "mimeType": "application/pdf",
+                "size": "276880"
+              },
+              {
+                "name": "GE605V_EF_21-1.docx.pdf",
+                "type": "file",
+                "id": "1RulYE4nAhM6jZPw1aGJ_BF1OSxydudHp",
+                "mimeType": "application/pdf",
+                "size": "356936"
+              },
+              {
+                "name": "SOLUCIONARIO_FINAL_SECCION_V_ING._VALLE.pdf",
+                "type": "file",
+                "id": "1VQRjbzm5JCesUoPDtiHVcKvm6n5sK6eu",
+                "mimeType": "application/pdf",
+                "size": "166626"
+              },
+              {
+                "name": "HUAMAN_DEIVI.docx.pdf",
+                "type": "file",
+                "id": "1nfGlh98yMFWes7CokhotVgMbSbpoCG8r",
+                "mimeType": "application/pdf",
+                "size": "609606"
+              },
+              {
+                "name": "Examen_Final_2020-1.docx.pdf",
+                "type": "file",
+                "id": "1wGkHiDDPiKWV7bLF8EPZM_96wDSE5EmG",
+                "mimeType": "application/pdf",
+                "size": "204701"
+              },
+              {
+                "name": "PC3_Ejercicio_1.xlsx",
+                "type": "file",
+                "id": "1EbRyBADFh6fsHfezUSOzD56rtm3YF3Kq",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "16574"
+              },
+              {
+                "name": "practica3_analisis_sensibilidad.docx",
+                "type": "file",
+                "id": "1ckfUbyARQKB2YSNem9EnRETqMX2QDHzp",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "39225"
+              },
+              {
+                "name": "analisis_sensibilidad_lp.xlsx",
+                "type": "file",
+                "id": "1Ic1d1n1QxCIB-2CFKQKW-Lmnl5gHXcjs",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "5594"
+              },
+              {
+                "name": "Ejercicio_2.xlsx",
+                "type": "file",
+                "id": "1Pm_w2CUm5iqhpvRri-XTwTOgEnrd8cMZ",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "28274"
+              },
+              {
+                "name": "Ejercicio_1.xlsx",
+                "type": "file",
+                "id": "1sCx2cG4NFqzsuJuDtkv535t6d0YsCGK-",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "21128"
+              }
+            ]
+          },
+          {
+            "name": "UNI_25-2_Financiera_-_Grupos_y_Empresas.xlsx",
+            "type": "file",
+            "id": "1GcGbUmqkYiJU0Ah2AScuTPAi6YgPoa_e",
+            "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "size": "1169945"
+          },
+          {
+            "name": "Trabajo_en_Clase.txt",
+            "type": "file",
+            "id": "18W7hW9nP6V7MSIUvr6OwrS309ULgfRgH",
+            "mimeType": "text/plain",
+            "size": "65"
+          }
+        ]
+      }
+    ]
+  }
+}

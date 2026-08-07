@@ -1,0 +1,1678 @@
+{
+  "course_id": "FB202",
+  "course_name": "Química_II",
+  "id": "1UGzmLpXHFlBij8LUOT5UBFdsznMM5MSc",
+  "scanned_at": "2026-08-07T00:10:20.977732+00:00",
+  "tree": {
+    "name": "Química_II",
+    "type": "folder",
+    "id": "1UGzmLpXHFlBij8LUOT5UBFdsznMM5MSc",
+    "children": [
+      {
+        "name": "LABORATORIO",
+        "type": "folder",
+        "id": "1hswnXBkEFwRnd2il4wTor3d9sDM0UOAh",
+        "children": [
+          {
+            "name": "como_presentar_para_el_informe_(3)_(1).pdf",
+            "type": "file",
+            "id": "14SORCriAKExviTIeFYM-dfuRPjzVhx_I",
+            "mimeType": "application/pdf",
+            "size": "242341"
+          },
+          {
+            "name": "MODELO_DE_PREINFORME.pdf",
+            "type": "file",
+            "id": "1YK0XYKhlCQtJXql8n98zAkIJss2Mhb5j",
+            "mimeType": "application/pdf",
+            "size": "559139"
+          },
+          {
+            "name": "LABO_1-6_FB202.pdf",
+            "type": "file",
+            "id": "1dO4WykS0r9PHUyAQdjbtQQa81NUNG3LF",
+            "mimeType": "application/pdf",
+            "size": "338043"
+          }
+        ]
+      },
+      {
+        "name": "LESCANOLIBRO_2.0.pptx",
+        "type": "file",
+        "id": "12pZovC1uIN_rwwcR59crEP6poMrlJlRS",
+        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": "36972512"
+      },
+      {
+        "name": "LIBRO_LESCANO_lol_(1).pdf",
+        "type": "file",
+        "id": "1z7Iwhk07P7mkPfess0apEivi2LgUTY6u",
+        "mimeType": "application/pdf",
+        "size": "27491560"
+      },
+      {
+        "name": "Teoría",
+        "type": "folder",
+        "id": "1hP3B-xK_pLVLi9iOp5s4S8vITNXV2Z-N",
+        "children": [
+          {
+            "name": "Lescano",
+            "type": "folder",
+            "id": "1q-t7wurxCdVWAArLpD9F7Ell0d0wHrFR",
+            "children": [
+              {
+                "name": "FB202U[261]_Sample1a_VW.pdf",
+                "type": "file",
+                "id": "19M0rAHsK7WlZQAIM2cSQhOVuP7R3Gq6a",
+                "mimeType": "application/pdf",
+                "size": "326701"
+              },
+              {
+                "name": "Semana_5_y_6",
+                "type": "folder",
+                "id": "1ChcHH0-VAHN24qu0VK3GuMcwm5jEJaH0",
+                "children": [
+                  {
+                    "name": "FB202U[261]7Alka.pdf",
+                    "type": "file",
+                    "id": "1KUC2NasS4PjXGsEHpdybmjccH7F7qihf",
+                    "mimeType": "application/pdf",
+                    "size": "1653983"
+                  },
+                  {
+                    "name": "alcanos_2020.pdf",
+                    "type": "file",
+                    "id": "1m7YYr2U90Ak94UtJL4NQkpQKTARqV5GN",
+                    "mimeType": "application/pdf",
+                    "size": "968464"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_10_y_11",
+                "type": "folder",
+                "id": "1TpfmLO_eFzO3cCJIFp4NRgqRgQG8ck-K",
+                "children": [
+                  {
+                    "name": "FB202U[261]11Alky.pdf",
+                    "type": "file",
+                    "id": "1o1XojNMRkjQFPm3vbwNoMVVF8gnmVDqN",
+                    "mimeType": "application/pdf",
+                    "size": "709006"
+                  },
+                  {
+                    "name": "ALQUINOS_Y_DIENOS_2020-2.pdf",
+                    "type": "file",
+                    "id": "1_TbHRZFN8vRtojpwFNNL7mBYt-1Uhzx4",
+                    "mimeType": "application/pdf",
+                    "size": "706594"
+                  },
+                  {
+                    "name": "FB202U[261]12Arom.pdf",
+                    "type": "file",
+                    "id": "186EPAs1EcNXvIkH3PYsCa99a2ZONSAUi",
+                    "mimeType": "application/pdf",
+                    "size": "1280534"
+                  },
+                  {
+                    "name": "FB202U[261]13AlcoEterEpox.pdf",
+                    "type": "file",
+                    "id": "1A4P6MEN7DgR6Oua1qdiPOs2CTRp_NALo",
+                    "mimeType": "application/pdf",
+                    "size": "1047051"
+                  },
+                  {
+                    "name": "AROMATICOS_2020-2.pdf",
+                    "type": "file",
+                    "id": "1fRXI_eQMyFmqLZFhlfskfJVR_Mz2RnCc",
+                    "mimeType": "application/pdf",
+                    "size": "177177"
+                  },
+                  {
+                    "name": "ALCOHOLES_2020-2.pdf",
+                    "type": "file",
+                    "id": "1Ejrk5Rfo-2dMCiuXBQNrN08XUzuJG_Rj",
+                    "mimeType": "application/pdf",
+                    "size": "879503"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_7_y_9",
+                "type": "folder",
+                "id": "1Rw8Swjfs4bXd7j36ZIQ6AS9thCIJp5QF",
+                "children": [
+                  {
+                    "name": "FB202U[261]10Alici.pdf",
+                    "type": "file",
+                    "id": "17gWLRZFuyXvs0AcNR-XTReaFOfuMcehu",
+                    "mimeType": "application/pdf",
+                    "size": "1219175"
+                  },
+                  {
+                    "name": "FB202U[261]9Polim.pdf",
+                    "type": "file",
+                    "id": "1Uwa-0qYCCTyWnU4Em6JVEwRcFz0TKVPw",
+                    "mimeType": "application/pdf",
+                    "size": "1235192"
+                  },
+                  {
+                    "name": "Alquenos_(parteII)_2020-2.pdf",
+                    "type": "file",
+                    "id": "1PUHFGGzwf-3skl-0N_ycIUdH_1ClnZls",
+                    "mimeType": "application/pdf",
+                    "size": "777136"
+                  },
+                  {
+                    "name": "FB202U[261]8Alke.pdf",
+                    "type": "file",
+                    "id": "14FkCT81x1sv_lwVRG9Mbf_LRNi3fB-na",
+                    "mimeType": "application/pdf",
+                    "size": "2041025"
+                  },
+                  {
+                    "name": "Ejercicios_de_nomenclatura,_isomería_y_reacciones.pdf",
+                    "type": "file",
+                    "id": "1k0AzBkITTz2w0g5DA3LRH9mjtjNrnuWH",
+                    "mimeType": "application/pdf",
+                    "size": "169508"
+                  },
+                  {
+                    "name": "alquenos_2020_2.pdf",
+                    "type": "file",
+                    "id": "19JCg_lTaeKDm26b3GJBY2aXJC9ZzR3Gq",
+                    "mimeType": "application/pdf",
+                    "size": "224513"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_2_y_3",
+                "type": "folder",
+                "id": "1Uv2wxys348VzSZlhqyD7R89RgiG-vEwq",
+                "children": [
+                  {
+                    "name": "FUNCIONES_QUIMICAS_ORGANICAS.pdf",
+                    "type": "file",
+                    "id": "1vVlxgNC7elBtdfn4ILVK3jOGlPnzftYU",
+                    "mimeType": "application/pdf",
+                    "size": "1263567"
+                  },
+                  {
+                    "name": "FB202U[261]3Isom.pdf",
+                    "type": "file",
+                    "id": "1FgKzyvgUw3vruQriDd9qI5zD_KSoLKjN",
+                    "mimeType": "application/pdf",
+                    "size": "847647"
+                  },
+                  {
+                    "name": "FB202U[261]4Reac.pdf",
+                    "type": "file",
+                    "id": "1CnCvwrRrw58kKfZl65vacXds0CGGMkIp",
+                    "mimeType": "application/pdf",
+                    "size": "1204285"
+                  },
+                  {
+                    "name": "EL_ATOMO_DE_CARBONO.pdf",
+                    "type": "file",
+                    "id": "1toHYHbtFHm2SFadF9fNzjaGpcuMnqiVL",
+                    "mimeType": "application/pdf",
+                    "size": "562117"
+                  },
+                  {
+                    "name": "QUÍMICA_ORGÁNICA,_EJERCICIOS_PROPUESTOS.pdf",
+                    "type": "file",
+                    "id": "1hPBrzC8fAZ2VVgHPLjDM23vRdehdXQHv",
+                    "mimeType": "application/pdf",
+                    "size": "538201"
+                  }
+                ]
+              },
+              {
+                "name": "MATERIAL_DE_APOYO",
+                "type": "folder",
+                "id": "14tVeBYuWZQO2Mr-hTwYOzRUPyu74qK7v",
+                "children": [
+                  {
+                    "name": "LIBRO_WADE_V2.0",
+                    "type": "file",
+                    "id": "1MC7DvGE5f61An5hvjrwbyIfXLdE12Pu6",
+                    "mimeType": "application/pdf",
+                    "size": "90666850"
+                  },
+                  {
+                    "name": "LIBRO_WADE_V1.0",
+                    "type": "file",
+                    "id": "1Ag1e8qrkjeWCyp1HVeW8_OWIvrsOh5e8",
+                    "mimeType": "application/pdf",
+                    "size": "27713905"
+                  },
+                  {
+                    "name": "LIBRO_MORRYSON",
+                    "type": "file",
+                    "id": "1FoFmP6aW00bY3_qV0dZuils0IJGNapUn",
+                    "mimeType": "application/pdf",
+                    "size": "135265952"
+                  },
+                  {
+                    "name": "Book_Note-IUPAC_2000.pdf",
+                    "type": "file",
+                    "id": "1TwMWxJ3_soJi58LLUlZR_z5IknX_L-wH",
+                    "mimeType": "application/pdf",
+                    "size": "470916"
+                  },
+                  {
+                    "name": "01_Guia_y_TP01_Nomenclatura_I.pdf",
+                    "type": "file",
+                    "id": "16Cg0UC6r51tNTDAnzBbD6iwiduKjT1gl",
+                    "mimeType": "application/pdf",
+                    "size": "88098"
+                  }
+                ]
+              },
+              {
+                "name": "FB202U[261]_Sample3.pdf",
+                "type": "file",
+                "id": "1cMWBaWFrv3dbGcuQGrJsT2m-meUphnyW",
+                "mimeType": "application/pdf",
+                "size": "539503"
+              },
+              {
+                "name": "FB202U[261]_Sample2.pdf",
+                "type": "file",
+                "id": "1ZJcIJfd3KeaadgJ2nXH_b5u5TjyuEkmN",
+                "mimeType": "application/pdf",
+                "size": "308630"
+              },
+              {
+                "name": "Semana_15",
+                "type": "folder",
+                "id": "1eIYzF4TmB5XUiIDV3fGxcUIAPAiPGr9S",
+                "children": [
+                  {
+                    "name": "FB202U[253]16Lipi_(1).pdf",
+                    "type": "file",
+                    "id": "1MnT8hK4OKwtNTaPx5iV6rtNHM3uVV5Su",
+                    "mimeType": "application/pdf",
+                    "size": "1140984"
+                  },
+                  {
+                    "name": "FB202U[253]17Carb.pdf",
+                    "type": "file",
+                    "id": "1bnUdq4qpJ7UpK9cxaWxfnbSpX_mR78PH",
+                    "mimeType": "application/pdf",
+                    "size": "858508"
+                  },
+                  {
+                    "name": "FB202U[253]18Amin_(1).pdf",
+                    "type": "file",
+                    "id": "10Yk2rYjTKFHeWwUAM9vqjZRzYJVCyA8n",
+                    "mimeType": "application/pdf",
+                    "size": "1908677"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_4",
+                "type": "folder",
+                "id": "1sCkR468xPlVfRxcPuUleOoOQxpk3rlWm",
+                "children": [
+                  {
+                    "name": "FB202U[261]6Petr_(2).pdf",
+                    "type": "file",
+                    "id": "1Fu-Ji-lbWIjZJ9XZiRJhS9P5i2cprFe7",
+                    "mimeType": "application/pdf",
+                    "size": "8915614"
+                  },
+                  {
+                    "name": "EL_PETROLEO.pdf",
+                    "type": "file",
+                    "id": "1z-mp_zDPEQewqTytZjUk8A3JkrV9T-jb",
+                    "mimeType": "application/pdf",
+                    "size": "1590617"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_13",
+                "type": "folder",
+                "id": "1YpnUgTOK053YO1pXCSpEhrtKZtf_U4iP",
+                "children": [
+                  {
+                    "name": "ACIDOS_CARBOXILICOS_2020-2.pdf",
+                    "type": "file",
+                    "id": "1tK4RNHVHqJUSBTO0lyUdzIz_04U_CssM",
+                    "mimeType": "application/pdf",
+                    "size": "255933"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_12",
+                "type": "folder",
+                "id": "1JkbVNW1Fm6H5OBJlaZXiN2YXCIjr-UEh",
+                "children": [
+                  {
+                    "name": "FB202U_Alde-Ceto_(2).pdf",
+                    "type": "file",
+                    "id": "15kIU7ia1spgRAGzKIMCSVD8qQ4t7_Oc7",
+                    "mimeType": "application/pdf",
+                    "size": "402342"
+                  },
+                  {
+                    "name": "FB202U[261]14AldehídosCetonasU.pdf",
+                    "type": "file",
+                    "id": "1nS6DYVuCFv2nC-QIwNw2v65Rdj8nwOXT",
+                    "mimeType": "application/pdf",
+                    "size": "2689879"
+                  },
+                  {
+                    "name": "hoja_de_problemas_resueltos_alquinos.pdf",
+                    "type": "file",
+                    "id": "1lS67o7Wms1JZNse12x4yq_PxMLlVPuXn",
+                    "mimeType": "application/pdf",
+                    "size": "314555"
+                  },
+                  {
+                    "name": "ALDEHIDOS_Y_CETONAS_2020-2.pdf",
+                    "type": "file",
+                    "id": "1vH_r4a-qqEqPURGUu7Vinr69P7lgosmc",
+                    "mimeType": "application/pdf",
+                    "size": "877133"
+                  },
+                  {
+                    "name": "hoja_de_problemas_resueltos_alquenos.pdf",
+                    "type": "file",
+                    "id": "1saa1J7Orva207tDU3RPhhVh39YiX46bB",
+                    "mimeType": "application/pdf",
+                    "size": "250353"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_14",
+                "type": "folder",
+                "id": "1NbifzJhVZa_hwXA_nazVavG4xjUZGiqy",
+                "children": [
+                  {
+                    "name": "Reporte_Lab_7_Dic2022.pdf",
+                    "type": "file",
+                    "id": "1BX9r8eUIDDP1b304MCX-guf7AQ9DEXOL",
+                    "mimeType": "application/pdf",
+                    "size": "101593"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_1",
+                "type": "folder",
+                "id": "14-Ugtfm46qG9aNxxlyRqEHCJn16uFuJg",
+                "children": [
+                  {
+                    "name": "FB202U[261]5Nome.pdf",
+                    "type": "file",
+                    "id": "1ZbkhM85RAvTLU3P-qtsI4BJfUu-9AMeD",
+                    "mimeType": "application/pdf",
+                    "size": "1025555"
+                  },
+                  {
+                    "name": "FB202U[261]2Prop.pdf",
+                    "type": "file",
+                    "id": "1AwoeEfdk2GSv43YDU5vhg_L0bFBHXOGH",
+                    "mimeType": "application/pdf",
+                    "size": "950804"
+                  },
+                  {
+                    "name": "FB202U[261]1Intro.pdf",
+                    "type": "file",
+                    "id": "1yBKP0XVx-3YhE3YnnsqkbZfnfazzMeOA",
+                    "mimeType": "application/pdf",
+                    "size": "1296654"
+                  },
+                  {
+                    "name": "REPASO_DE_DEFINICIONES.pdf",
+                    "type": "file",
+                    "id": "1THqguj8peEUJpRtXOXxDXrRm8Z3dSVib",
+                    "mimeType": "application/pdf",
+                    "size": "500404"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Carlos_Chafloque",
+            "type": "folder",
+            "id": "1IHqxwdfMIp5H5w-HWdXdVdTxmJ1-5uSu",
+            "children": [
+              {
+                "name": "01._Química_orgánica,_alcanos,_alquenos_y_petróleo.pdf",
+                "type": "file",
+                "id": "1jjeeYEfE8EfD0NZnD0vg8ZoSQyssX-qA",
+                "mimeType": "application/pdf",
+                "size": "9394273"
+              },
+              {
+                "name": "02._Configuración_R-S_(Para_nomenclatura).pdf",
+                "type": "file",
+                "id": "1668GM-yLIcjg1RjmLR2E61p8gTH2M0S9",
+                "mimeType": "application/pdf",
+                "size": "50345"
+              },
+              {
+                "name": "04._Resumen_solo_reacciones.pdf",
+                "type": "file",
+                "id": "1fnXQYxnvdNlmIs2SQIEyFDfeLwJ4eCKO",
+                "mimeType": "application/pdf",
+                "size": "1385910"
+              },
+              {
+                "name": "08._Ácidos_carboxílicos,_esteres_y_nitrilos.pdf",
+                "type": "file",
+                "id": "1ZBtWeV8LHCF-7PeF6IHUXYjjRHMW7nER",
+                "mimeType": "application/pdf",
+                "size": "1109033"
+              },
+              {
+                "name": "05._Aromáticos.pdf",
+                "type": "file",
+                "id": "18Na8c1Gh0ogcRLBC8EFaO0ppSRPggn8S",
+                "mimeType": "application/pdf",
+                "size": "2537376"
+              },
+              {
+                "name": "03._Alquinos.pdf",
+                "type": "file",
+                "id": "12pyKObu6aj6hXUQU1VF5BBiYQcRxDvQC",
+                "mimeType": "application/pdf",
+                "size": "996411"
+              },
+              {
+                "name": "07._Solo_reacciones_aldehídos_y_cetonas.pdf",
+                "type": "file",
+                "id": "1sL78-_5FtYZreCY9UoylCIzrbIYK_arq",
+                "mimeType": "application/pdf",
+                "size": "330168"
+              },
+              {
+                "name": "06._Aldehídos_y_cetonas.pdf",
+                "type": "file",
+                "id": "1mhbNOWuLF5Yphw5Bhk_vJvTTAz5QgwDH",
+                "mimeType": "application/pdf",
+                "size": "555278"
+              },
+              {
+                "name": "Trabajos",
+                "type": "folder",
+                "id": "1M55oAXUcAXHkwgSENhSJffgFPYMhlxlq",
+                "children": [
+                  {
+                    "name": "TRABAJO_2_CHAFLOQUE.pdf",
+                    "type": "file",
+                    "id": "1Z-2GUsCzMQTAsgsWcIuSc3MjXFy14Zoe",
+                    "mimeType": "application/pdf",
+                    "size": "81569181"
+                  },
+                  {
+                    "name": "2da_Monografía_QUIMiCA_II.pptx",
+                    "type": "file",
+                    "id": "1kPjlSsU31DMrAtRj3_FGagUSoAQHichY",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "2517895"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Daniel_Alcántara",
+            "type": "folder",
+            "id": "1Xgm0cPiTTiXhtcthSJLb8iTd_rEQ6N0c",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Alcantaracuaderno_QUIM_II.pdf",
+        "type": "file",
+        "id": "1_PeWUrqzAHxTbCIePZyZKU4LQS9PZ1yv",
+        "mimeType": "application/pdf",
+        "size": "52524058"
+      },
+      {
+        "name": "Chaflocuaderno_QUIM_II.pdf",
+        "type": "file",
+        "id": "1TZfKlGO8bknKDC-1G9flNElcfp20NkIW",
+        "mimeType": "application/pdf",
+        "size": "20345304"
+      },
+      {
+        "name": "Planchas",
+        "type": "folder",
+        "id": "1aJ7SOTPPgN0xoJLSkJjopjJeBmJt8Zbr",
+        "children": [
+          {
+            "name": "EF",
+            "type": "folder",
+            "id": "1e2PjpiItHKQM46J9pr-FMQUnvyMyy2xD",
+            "children": [
+              {
+                "name": "EF_26-1_(SE_CONFNDIERON_AL_PONER_EL_NOMBRE_XD_ES_FINAL)",
+                "type": "file",
+                "id": "1eFO5Jzsx4J9hedVpJPi-TMTm5TdcrPZW",
+                "mimeType": "application/pdf",
+                "size": "3791658"
+              },
+              {
+                "name": "EF_25-II_TODOS.pdf",
+                "type": "file",
+                "id": "1_W9ggGwNxlt-w6chhjQyna3gAD6tckWY",
+                "mimeType": "application/pdf",
+                "size": "282258"
+              },
+              {
+                "name": "EF_20-II_Desconocido.pdf",
+                "type": "file",
+                "id": "1gD24CMN_MNUNvLIG6ac7Re-0cYNfYidk",
+                "mimeType": "application/pdf",
+                "size": "43114"
+              },
+              {
+                "name": "EF_06-I_ALCANTARA.pdf",
+                "type": "file",
+                "id": "14wR-XdS-pPaWsxSpTeJYZF1qv43LBHfk",
+                "mimeType": "application/pdf",
+                "size": "131364"
+              },
+              {
+                "name": "EF_02-II_ALCANTARA.pdf",
+                "type": "file",
+                "id": "1_SakhIDQxKTsXAamsGLboEmNZs9Am6wJ",
+                "mimeType": "application/pdf",
+                "size": "136150"
+              },
+              {
+                "name": "EF_25-I_TODOS.pdf",
+                "type": "file",
+                "id": "19j5Qp5sbAr-O_VLyH0M8LCkBncgi7hLd",
+                "mimeType": "application/pdf",
+                "size": "336508"
+              }
+            ]
+          },
+          {
+            "name": "EP",
+            "type": "folder",
+            "id": "1I38cXLes-gDYpeMnporphUgf4ngtwI51",
+            "children": [
+              {
+                "name": "EP_26-1.pdf",
+                "type": "file",
+                "id": "1GD0z_ijtimUmvd6DXS644KsdFQIkT1ro",
+                "mimeType": "application/pdf",
+                "size": "203488"
+              },
+              {
+                "name": "EP_25-2.pdf",
+                "type": "file",
+                "id": "1XEOHjBSNwwH1euUkXivlFmtAsT9cjDCw",
+                "mimeType": "application/pdf",
+                "size": "124035"
+              }
+            ]
+          },
+          {
+            "name": "Carlos_Chafloque",
+            "type": "folder",
+            "id": "1X4BzgZ9N48V7_txGyk4X8zhiTiQS6eSG",
+            "children": [
+              {
+                "name": "ES",
+                "type": "folder",
+                "id": "1s9ydm8u3aglpkxl12Kh-SQHC_oxfQ36-",
+                "children": [
+                  {
+                    "name": "ES_19-II_Chafloque.pdf",
+                    "type": "file",
+                    "id": "1a84x4Lm52bXvzQlo3KaCAXWBFX3jvy18",
+                    "mimeType": "application/pdf",
+                    "size": "146409"
+                  },
+                  {
+                    "name": "ES_25-I_Chafloque.pdf",
+                    "type": "file",
+                    "id": "1fIJHUl6qsc6euDaHU8GYWDplKpsJjed5",
+                    "mimeType": "application/pdf",
+                    "size": "56729"
+                  },
+                  {
+                    "name": "ES_17-I_(Con_casi_solu)_Chafloque.pdf",
+                    "type": "file",
+                    "id": "1LoVvFzyG7aT3v2JBOZtxM2uKIgetbza1",
+                    "mimeType": "application/pdf",
+                    "size": "2013448"
+                  },
+                  {
+                    "name": "ES_22-II_Chafloque.pdf",
+                    "type": "file",
+                    "id": "1JvJ6EDutccXo7UK9k1bvLWqx9tAGPN-C",
+                    "mimeType": "application/pdf",
+                    "size": "375016"
+                  }
+                ]
+              },
+              {
+                "name": "EF",
+                "type": "folder",
+                "id": "13E3ofPS_0YUrTRiWfknqasjfIrAHD0Wf",
+                "children": [
+                  {
+                    "name": "EF_17-I_CHAFLOQUE.pdf",
+                    "type": "file",
+                    "id": "1bjClUmS2emJDjc-vUIoSN3xKV_Z38Im8",
+                    "mimeType": "application/pdf",
+                    "size": "1674820"
+                  },
+                  {
+                    "name": "EF_19-II_CHAFLOQUE.pdf",
+                    "type": "file",
+                    "id": "1vCYs4MUqQCfmrhVg4ttESGOVRfq8PT1s",
+                    "mimeType": "application/pdf",
+                    "size": "162320"
+                  },
+                  {
+                    "name": "EF_20-I_CHAFLOQUE.pdf",
+                    "type": "file",
+                    "id": "1eKXv7Wn6Ervd1vYWebadRLvKsdBmExds",
+                    "mimeType": "application/pdf",
+                    "size": "171360"
+                  },
+                  {
+                    "name": "EF_21-II_CHAFLOQUE.pdf",
+                    "type": "file",
+                    "id": "1JPyuAjmymFWxLIR-T2zFcliAHlKGTtVI",
+                    "mimeType": "application/pdf",
+                    "size": "2249032"
+                  },
+                  {
+                    "name": "EF_22-II_CHAFLOQUE.pdf",
+                    "type": "file",
+                    "id": "1aj9QAXTOxKfv2xCY1vSAM0yIak95v3rz",
+                    "mimeType": "application/pdf",
+                    "size": "1208250"
+                  },
+                  {
+                    "name": "EF_24-II_CHAFLOQUE.pdf",
+                    "type": "file",
+                    "id": "1l1zZMtOnAvDrs_2HLby2pATqodWiuOwz",
+                    "mimeType": "application/pdf",
+                    "size": "235763"
+                  }
+                ]
+              },
+              {
+                "name": "EP",
+                "type": "folder",
+                "id": "1oYokqHNAg92CPZhhOcaCY8s6gzcZkGxh",
+                "children": [
+                  {
+                    "name": "EP_21-1_Chafloque.docx.pdf",
+                    "type": "file",
+                    "id": "1chiBRVuYy1ZhgSnK1cPOSN8b7OfEQZcR",
+                    "mimeType": "application/pdf",
+                    "size": "152027"
+                  },
+                  {
+                    "name": "EP_22-2_Chafloque.jpg",
+                    "type": "file",
+                    "id": "1CabmGUapyqznKeCaMPFm9D2EqtwFx4Da",
+                    "mimeType": "image/jpeg",
+                    "size": "53583"
+                  }
+                ]
+              },
+              {
+                "name": "PC4",
+                "type": "folder",
+                "id": "1OkzpNV5fxvox7Ivj1O32NRA0OQEHvcLy",
+                "children": [
+                  {
+                    "name": "PC4_y_algo_más_XD",
+                    "type": "file",
+                    "id": "13RFBbQyyAni3vPUlSZZQzkgNwYQjKgMK",
+                    "mimeType": "application/pdf",
+                    "size": "3567849"
+                  },
+                  {
+                    "name": "PC_4_2018-2_Fukuda.jpg",
+                    "type": "file",
+                    "id": "1AWAMqIjKz4W6GRHQWoj_6zwL_VwJLO5U",
+                    "mimeType": "image/jpeg",
+                    "size": "36858"
+                  },
+                  {
+                    "name": "PC_4_2020-I_Chafoque_SOLUCION_(1).pdf",
+                    "type": "file",
+                    "id": "1j6FwwTnLUi5TWawTqR4-Z_QD5zpz-1jT",
+                    "mimeType": "application/pdf",
+                    "size": "1290428"
+                  },
+                  {
+                    "name": "PC_4_2022-II_Chafloque_Charito.pdf",
+                    "type": "file",
+                    "id": "11amtFxJ_tYUQ1vJAhO8iVjVf07XdhwA-",
+                    "mimeType": "application/pdf",
+                    "size": "80807"
+                  },
+                  {
+                    "name": "PC_4_2024-I_Chafloque.pdf",
+                    "type": "file",
+                    "id": "1OeCIgz_ajkFTMOXAga0fOWzIycd0NRE9",
+                    "mimeType": "application/pdf",
+                    "size": "973359"
+                  },
+                  {
+                    "name": "PC4_26-1_Chafloque_(1).pdf",
+                    "type": "file",
+                    "id": "1NpZguP4BhYoXF337RaBBJ4JBIlbW1fAF",
+                    "mimeType": "application/pdf",
+                    "size": "775281"
+                  },
+                  {
+                    "name": "PC4_25-II.pdf",
+                    "type": "file",
+                    "id": "1mv3z8B8gG30sDCfAx-UmykCsxfqy44IF",
+                    "mimeType": "application/pdf",
+                    "size": "74257"
+                  }
+                ]
+              },
+              {
+                "name": "PC3",
+                "type": "folder",
+                "id": "1KY1hHcss5JaozRo34uzheYTbBfKzgPOv",
+                "children": [
+                  {
+                    "name": "PC3_20-1_Chafloque.pdf",
+                    "type": "file",
+                    "id": "18ioCltVwOPjyUtQwaimjvy5uN201dTpn",
+                    "mimeType": "application/pdf",
+                    "size": "114887"
+                  },
+                  {
+                    "name": "PC3_22-2_Chafloque-Rosario.jpg",
+                    "type": "file",
+                    "id": "1-3kDOCTxl7E3OZwKkOMaeXgg29PxfUm1",
+                    "mimeType": "image/jpeg",
+                    "size": "46902"
+                  },
+                  {
+                    "name": "PC3_26-1_Chafloque.jpeg",
+                    "type": "file",
+                    "id": "1DqRJROtMah4wNnnt4etACouAwEcbg0zh",
+                    "mimeType": "image/jpeg",
+                    "size": "263039"
+                  },
+                  {
+                    "name": "PC3_25-II_Chafloque.pdf",
+                    "type": "file",
+                    "id": "1vX-cL6E4a6hIs-YLEmQ8_uxIB08rWCbQ",
+                    "mimeType": "application/pdf",
+                    "size": "192887"
+                  },
+                  {
+                    "name": "PC_3_Chafloque_desde_20-1_hasta_25-1.pdf",
+                    "type": "file",
+                    "id": "1iZiKKOKnDLuqEg6497EyqsjOritUMWx6",
+                    "mimeType": "application/pdf",
+                    "size": "2105097"
+                  }
+                ]
+              },
+              {
+                "name": "PC2",
+                "type": "folder",
+                "id": "11P0rF6JihmSn08InoHF_ya79zD4q49hX",
+                "children": [
+                  {
+                    "name": "PC2_25-II_Chaflo.pdf",
+                    "type": "file",
+                    "id": "1N1i6f0gJ2ZeX_HdA111e-guxHa0_-CCV",
+                    "mimeType": "application/pdf",
+                    "size": "281087"
+                  },
+                  {
+                    "name": "PC2_Química_II_Planchas.pdf",
+                    "type": "file",
+                    "id": "1O8AnjAIgDM4n0iQ4ZQxc68KFCO91hs-_",
+                    "mimeType": "application/pdf",
+                    "size": "5752562"
+                  }
+                ]
+              },
+              {
+                "name": "PC1",
+                "type": "folder",
+                "id": "1QCaEhyzIltVt_IOgXWhyRAwy0o5termq",
+                "children": [
+                  {
+                    "name": "PC_1_2020-I.pdf",
+                    "type": "file",
+                    "id": "1uaOFmXi6LvIATpzHZ_14z8vttxlXZrgg",
+                    "mimeType": "application/pdf",
+                    "size": "420697"
+                  },
+                  {
+                    "name": "1pc_2018-II_fukuda.jpg",
+                    "type": "file",
+                    "id": "1HaDF0xijpzexGJdOmkzczRt9ZvT1BgQh",
+                    "mimeType": "image/jpeg",
+                    "size": "44669"
+                  },
+                  {
+                    "name": "1pc_2022-II_Chafloque.jpg",
+                    "type": "file",
+                    "id": "1WbSRIqsxB9WS67aEaSc9w-KRRw0LQPxp",
+                    "mimeType": "image/jpeg",
+                    "size": "30650"
+                  },
+                  {
+                    "name": "PC1_Química_II_Planchas.pdf",
+                    "type": "file",
+                    "id": "1enec9wmNGtNnFbobp1ySL-Z73BKeUQ4c",
+                    "mimeType": "application/pdf",
+                    "size": "8245159"
+                  },
+                  {
+                    "name": "PC1_25-2.jpg",
+                    "type": "file",
+                    "id": "14_cjBnpN0DbP5IbqCclCwDBbFruxgwR4",
+                    "mimeType": "image/jpeg",
+                    "size": "381026"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Luis_Lescano",
+            "type": "folder",
+            "id": "1-ZZegfFkJ1k80Su_TpsGER2R-mwKZfP5",
+            "children": [
+              {
+                "name": "MISCELANEA_Pt.1",
+                "type": "file",
+                "id": "10b9RtFfEdqe_MpNcAJBNIAd6qnIEXiSl",
+                "mimeType": "application/pdf",
+                "size": "5363855"
+              },
+              {
+                "name": "MISCELANEA_Pt.2",
+                "type": "file",
+                "id": "1JsyrXqlpTxk-m-uOAySOExWptORdLwjU",
+                "mimeType": "application/pdf",
+                "size": "3776939"
+              },
+              {
+                "name": "ES",
+                "type": "folder",
+                "id": "1DOnbuGsHCRj_sV_PFRvZ0wGwDvef6_NK",
+                "children": [
+                  {
+                    "name": "ES_25-2",
+                    "type": "file",
+                    "id": "1lVC3GG_OzzCiXqSZpMZXccmSwR1BAyJA",
+                    "mimeType": "application/pdf",
+                    "size": "622076"
+                  },
+                  {
+                    "name": "SUSTI_Pt.2",
+                    "type": "file",
+                    "id": "1buJ-pLEoNBONFKvbcZHqFx7TjjUg7wDO",
+                    "mimeType": "image/jpeg",
+                    "size": "120062"
+                  },
+                  {
+                    "name": "SUSTI_Pt.1",
+                    "type": "file",
+                    "id": "1imZZGPKuHD8VvuKJ5ClndktgARje_wQj",
+                    "mimeType": "image/jpeg",
+                    "size": "167128"
+                  },
+                  {
+                    "name": "ES_12-1_Pt.2",
+                    "type": "file",
+                    "id": "1cWkQavL8l6Xupa_fqjcAm_51C95HP9UI",
+                    "mimeType": "image/jpeg",
+                    "size": "116691"
+                  },
+                  {
+                    "name": "ES_12-1_Pt.1",
+                    "type": "file",
+                    "id": "1FNKRcUUUmFURj19nZAJeVXktEK4BFpUS",
+                    "mimeType": "image/jpeg",
+                    "size": "159795"
+                  },
+                  {
+                    "name": "ES_13-2_Pt2.",
+                    "type": "file",
+                    "id": "1YGW8eQb2y87KdqK9EgMDjnFP_v0FDif7",
+                    "mimeType": "image/jpeg",
+                    "size": "175523"
+                  },
+                  {
+                    "name": "ES_13-2_Pt.1",
+                    "type": "file",
+                    "id": "1k2s2-CAtjp0EH15_-vKgUTDkosXg9sNJ",
+                    "mimeType": "image/jpeg",
+                    "size": "174755"
+                  },
+                  {
+                    "name": "ES_11-1_Pt2.",
+                    "type": "file",
+                    "id": "1S9FxodIquqVmNkMH9TVfNGfqDqql-2TB",
+                    "mimeType": "image/jpeg",
+                    "size": "135443"
+                  },
+                  {
+                    "name": "ES_11-1_Pt1.",
+                    "type": "file",
+                    "id": "17UPL5eeo9lQPHYI3kUhdzOVdCar4tGtm",
+                    "mimeType": "image/jpeg",
+                    "size": "162678"
+                  },
+                  {
+                    "name": "SUSTITUTORIO_22-II.pdf",
+                    "type": "file",
+                    "id": "1AyKnUoPxKwDZR6haQc-s6zdSDQRN3mni",
+                    "mimeType": "application/pdf",
+                    "size": "586557"
+                  }
+                ]
+              },
+              {
+                "name": "EF",
+                "type": "folder",
+                "id": "1kSRuaOLiTlkc_VW5tznOYUi1ti3MmDkE",
+                "children": [
+                  {
+                    "name": "FINAL_QUIMICA_II_LESCANO_(SOLUCION.pdf",
+                    "type": "file",
+                    "id": "1J2qU8gHG4xoPMBo5lgvDQnZ2hCSh-sRq",
+                    "mimeType": "application/pdf",
+                    "size": "1103780"
+                  },
+                  {
+                    "name": "EF_20-II_LESCANO.pdf",
+                    "type": "file",
+                    "id": "15OyjGNojle72qZxEFMhrGiCjM5syhBl2",
+                    "mimeType": "application/pdf",
+                    "size": "855202"
+                  },
+                  {
+                    "name": "EF_24-1_LESVAGO.pdf",
+                    "type": "file",
+                    "id": "1E5TTHDaV1YhnPDGKg0-Q9mtzkFVN0weZ",
+                    "mimeType": "application/pdf",
+                    "size": "2821425"
+                  },
+                  {
+                    "name": "EF_23-II_LESVAGO.pdf",
+                    "type": "file",
+                    "id": "1h05cex6epwZdgke6xbME0fi00gwh0v7Y",
+                    "mimeType": "application/pdf",
+                    "size": "2982082"
+                  },
+                  {
+                    "name": "EF_22-I_desconocido.pdf",
+                    "type": "file",
+                    "id": "1Rl9a_2Ok7S9bjPIdCNLv1v-NX8NbHMWo",
+                    "mimeType": "application/pdf",
+                    "size": "476135"
+                  },
+                  {
+                    "name": "EF_23-I_LESVAGO.pdf",
+                    "type": "file",
+                    "id": "1pXZeG5DfxV7nX1fOfTUii_1NhCFxn-t_",
+                    "mimeType": "application/pdf",
+                    "size": "372413"
+                  }
+                ]
+              },
+              {
+                "name": "EP",
+                "type": "folder",
+                "id": "1PA2rfm4DCqptN3Rqj7fssu56ySVFlG3d",
+                "children": [
+                  {
+                    "name": "EP_21-1_Virtual.pdf",
+                    "type": "file",
+                    "id": "1iMfD6X4mKxVyVjfiDO9f6QHuGih7GUyz",
+                    "mimeType": "application/pdf",
+                    "size": "676322"
+                  },
+                  {
+                    "name": "EP_23-1_X.pdf",
+                    "type": "file",
+                    "id": "13u2w5zrcHb9Q2OfI34tm_lg9Fpa8ClLt",
+                    "mimeType": "application/pdf",
+                    "size": "155093"
+                  },
+                  {
+                    "name": "EP_24-1_(2).pdf",
+                    "type": "file",
+                    "id": "1VkuidACCCw4fRCMzrOML5V3V1gFXoq11",
+                    "mimeType": "application/pdf",
+                    "size": "1776668"
+                  }
+                ]
+              },
+              {
+                "name": "PC4",
+                "type": "folder",
+                "id": "1IflwKoAK8ug-QWohvSEnJr_NGu0LaAXQ",
+                "children": [
+                  {
+                    "name": "PC-4",
+                    "type": "file",
+                    "id": "1XuFgRJ4m5_0uxGZmym3EOUw30Lj5EQP-",
+                    "mimeType": "application/pdf",
+                    "size": "802859"
+                  },
+                  {
+                    "name": "PC_4_X_2023-I_(parte_2)_(1).jpg",
+                    "type": "file",
+                    "id": "14RsPot-C_W5seJ-qNeOu8sM3Vy579dT-",
+                    "mimeType": "image/jpeg",
+                    "size": "146555"
+                  },
+                  {
+                    "name": "PC_4_2020-II.pdf",
+                    "type": "file",
+                    "id": "1pZV5GX6KmqiSDQa-eq-qIWPrLWwJmb2u",
+                    "mimeType": "application/pdf",
+                    "size": "739557"
+                  },
+                  {
+                    "name": "PC_4_X_2023-I_(parte_1)_(1).jpg",
+                    "type": "file",
+                    "id": "1GJpsv7v_F7SD7YKXVe3p4bW5Yo69xxLb",
+                    "mimeType": "image/jpeg",
+                    "size": "203936"
+                  },
+                  {
+                    "name": "PC-4_Virtual.pdf",
+                    "type": "file",
+                    "id": "1sMZn_WUrwBKmHuk1t1ddyUk8ZnLyuyFi",
+                    "mimeType": "application/pdf",
+                    "size": "739557"
+                  },
+                  {
+                    "name": "PC4_24-1_Lescano.pdf",
+                    "type": "file",
+                    "id": "1kWwlupABaB8r8fFlnQ8z2IiYrVw0aa5O",
+                    "mimeType": "application/pdf",
+                    "size": "1117444"
+                  },
+                  {
+                    "name": "PC4_V_23-1.jpg",
+                    "type": "file",
+                    "id": "1Hr5XjKSjcZAuwuMIPxIf0FqEPQOLmWIN",
+                    "mimeType": "image/jpeg",
+                    "size": "398988"
+                  },
+                  {
+                    "name": "PC4_X_23-1.jpg",
+                    "type": "file",
+                    "id": "1gevEJP9_N42l9Nnx5Bi_A108X-GygRN_",
+                    "mimeType": "image/jpeg",
+                    "size": "147636"
+                  }
+                ]
+              },
+              {
+                "name": "PC3",
+                "type": "folder",
+                "id": "1VMi7hNrTBGtmx5Tfy-6-IB151Q6kauKC",
+                "children": [
+                  {
+                    "name": "PC3_2022-I.pdf",
+                    "type": "file",
+                    "id": "1Gw1VcRwUZp2sxnCEJK1SYDi6Dx_Oq5pD",
+                    "mimeType": "application/pdf",
+                    "size": "698843"
+                  },
+                  {
+                    "name": "3ra_Pc_1_libro.jpg",
+                    "type": "file",
+                    "id": "1as6JzzmbTTIeq4WURqC6tVT63zmP5rGj",
+                    "mimeType": "image/jpeg",
+                    "size": "105089"
+                  },
+                  {
+                    "name": "3ra_Pc_2_libro.jpg",
+                    "type": "file",
+                    "id": "1VBsODKIDtUz4ds5FzLGUkqXW59mByHUU",
+                    "mimeType": "image/jpeg",
+                    "size": "126067"
+                  },
+                  {
+                    "name": "3ra_Pc_3_libro.jpg",
+                    "type": "file",
+                    "id": "1frvUqczgmfe89jVTT8lrtSQ7XbOCJJ_e",
+                    "mimeType": "image/jpeg",
+                    "size": "113035"
+                  },
+                  {
+                    "name": "3ra_Pc_4_libro.jpg",
+                    "type": "file",
+                    "id": "1LNwDsQ1YahFTgxoL4CVtgkJOp7Cq5Mav",
+                    "mimeType": "image/jpeg",
+                    "size": "119473"
+                  },
+                  {
+                    "name": "3ra_Pc_5_libro.jpg",
+                    "type": "file",
+                    "id": "1Ax37BsU1ngqqTv24ejkvszeoEGCGZRjT",
+                    "mimeType": "image/jpeg",
+                    "size": "33762"
+                  },
+                  {
+                    "name": "PC3_20-2_Lescano.pdf",
+                    "type": "file",
+                    "id": "1oQHw3gBZdphM0MZRkJ6g0ymxZm8FfzES",
+                    "mimeType": "application/pdf",
+                    "size": "405553"
+                  },
+                  {
+                    "name": "PC3_22-1_Lescano.jpeg",
+                    "type": "file",
+                    "id": "1C1WBoi2s-lRQW2AP-qrfosXho0wsE_Oa",
+                    "mimeType": "image/jpeg",
+                    "size": "203604"
+                  },
+                  {
+                    "name": "PC3_22-2_Virtual.pdf",
+                    "type": "file",
+                    "id": "176e00EM8-9C6hDDdTU6knyljIy8mf6am",
+                    "mimeType": "application/pdf",
+                    "size": "395103"
+                  },
+                  {
+                    "name": "PC3_23-1_Lescano.pdf",
+                    "type": "file",
+                    "id": "1YvM7EfRRpCTLrY4Z-eUoV4UU2Yv1_ZAM",
+                    "mimeType": "application/pdf",
+                    "size": "424262"
+                  },
+                  {
+                    "name": "PC3_24-1_Lescano.pdf",
+                    "type": "file",
+                    "id": "1BxJD6YGQQPu1sRDlwgCUepQN_Jxqob-2",
+                    "mimeType": "application/pdf",
+                    "size": "1062791"
+                  },
+                  {
+                    "name": "PC3_26-1_Lescano.pdf",
+                    "type": "file",
+                    "id": "1TRAfDAHFDJRHVpsIAHlKPLkifPKNRTDj",
+                    "mimeType": "application/pdf",
+                    "size": "114203"
+                  }
+                ]
+              },
+              {
+                "name": "PC2",
+                "type": "folder",
+                "id": "1SHE9Yuh6hIaHJs9zqM2BY9cyTYND4cbv",
+                "children": [
+                  {
+                    "name": "PC2_virtual.pdf",
+                    "type": "file",
+                    "id": "1glRjY4MmDA_OqdAT_LRMbNlNL6j9OQCs",
+                    "mimeType": "application/pdf",
+                    "size": "894071"
+                  },
+                  {
+                    "name": "PC2_26-1_Lescano.pdf",
+                    "type": "file",
+                    "id": "1jUb7lMnm22yT8Inegme64WKpZAbXpW4d",
+                    "mimeType": "application/pdf",
+                    "size": "365690"
+                  },
+                  {
+                    "name": "PC2_25-2_Lescano.pdf",
+                    "type": "file",
+                    "id": "1SaY-urJm5JrTt8f4fBkyL_wY1U9SaQ8E",
+                    "mimeType": "application/pdf",
+                    "size": "94511"
+                  },
+                  {
+                    "name": "PC2_24-1_Lescano_(1).pdf",
+                    "type": "file",
+                    "id": "1qWWQ7b2egxHiFiC6fKWfPnByZwMET-Zd",
+                    "mimeType": "application/pdf",
+                    "size": "2183311"
+                  },
+                  {
+                    "name": "PC2_21-1_Lescano.pdf",
+                    "type": "file",
+                    "id": "1DP6zVDQ4iV44UlNyEP8-_skJLFFpBwXk",
+                    "mimeType": "application/pdf",
+                    "size": "405553"
+                  }
+                ]
+              },
+              {
+                "name": "PC1",
+                "type": "folder",
+                "id": "1T6V2k_W_WgG1SUe46xTXttQQl-5nXMzn",
+                "children": [
+                  {
+                    "name": "PC1_26-1",
+                    "type": "file",
+                    "id": "1XdtfB_HqeeydXGNg9QKJRJN8_F3VmspH",
+                    "mimeType": "application/pdf",
+                    "size": "1147877"
+                  },
+                  {
+                    "name": "WhatsApp_Image_2026-07-12_at_12.54.21_AM_(4).jpeg",
+                    "type": "file",
+                    "id": "1XcW09oY3IgBOATSlJYnJMTKdWeGI6Ad3",
+                    "mimeType": "image/jpeg",
+                    "size": "205059"
+                  },
+                  {
+                    "name": "WhatsApp_Image_2026-07-12_at_12.54.21_AM_(3).jpeg",
+                    "type": "file",
+                    "id": "1MVFHyIEiXDdp_NIRchfMhtH3EwVT9ZUq",
+                    "mimeType": "image/jpeg",
+                    "size": "198138"
+                  },
+                  {
+                    "name": "WhatsApp_Image_2026-07-12_at_12.54.21_AM_(2).jpeg",
+                    "type": "file",
+                    "id": "1UPJC-BFKs0GjdtCyhSxNHTt45HGZ6XUI",
+                    "mimeType": "image/jpeg",
+                    "size": "177543"
+                  },
+                  {
+                    "name": "WhatsApp_Image_2026-07-12_at_12.54.21_AM_(1).jpeg",
+                    "type": "file",
+                    "id": "1Wyi7_SyeqpNVuQan3yHWf9Ah1nlBLhjn",
+                    "mimeType": "image/jpeg",
+                    "size": "159573"
+                  },
+                  {
+                    "name": "WhatsApp_Image_2026-07-12_at_12.54.21_AM.jpeg",
+                    "type": "file",
+                    "id": "1AD-AZZJBiEx_ayaiahhSheo0ppw3Wrgj",
+                    "mimeType": "image/jpeg",
+                    "size": "156553"
+                  },
+                  {
+                    "name": "WhatsApp_Image_2026-07-12_at_12.54.20_AM_(1).jpeg",
+                    "type": "file",
+                    "id": "1KQdUEjvtXV6QVfw7z13RwylfL8fPWNvr",
+                    "mimeType": "image/jpeg",
+                    "size": "196443"
+                  },
+                  {
+                    "name": "WhatsApp_Image_2026-07-12_at_12.54.20_AM.jpeg",
+                    "type": "file",
+                    "id": "1NOiKagQmhjRw-C7_flElkx9r36nUT3LF",
+                    "mimeType": "image/jpeg",
+                    "size": "161826"
+                  },
+                  {
+                    "name": "WhatsApp_Image_2026-07-12_at_12.54.19_AM.jpeg",
+                    "type": "file",
+                    "id": "105UKBdHPaZsoeUaoHJ1_CKQZSz7r4N-9",
+                    "mimeType": "image/jpeg",
+                    "size": "163270"
+                  },
+                  {
+                    "name": "PC1_24-1_Lescano_(2).pdf",
+                    "type": "file",
+                    "id": "1heJRJw8ilV-EQhZWJi9zRkINQLR3_81_",
+                    "mimeType": "application/pdf",
+                    "size": "2263670"
+                  },
+                  {
+                    "name": "1ra_PC_libro.jpg",
+                    "type": "file",
+                    "id": "1tg7fLZ4drZSdR73vDvWggLqap2FqDVC4",
+                    "mimeType": "image/jpeg",
+                    "size": "150376"
+                  },
+                  {
+                    "name": "1ra_Pc_2015_-2_libro.jpg",
+                    "type": "file",
+                    "id": "19hdcAqEiJlWSmU1ShBSh6DJEGnBbQDO3",
+                    "mimeType": "image/jpeg",
+                    "size": "199715"
+                  },
+                  {
+                    "name": "1ra_PC_2011_libro.jpg",
+                    "type": "file",
+                    "id": "1dekyIZMREbuso74G_V9UrRLTm1DSa2bD",
+                    "mimeType": "image/jpeg",
+                    "size": "205391"
+                  },
+                  {
+                    "name": "1ra_Pc_2011_2_libro.jpg",
+                    "type": "file",
+                    "id": "1mF_eRro9XaojfQnDY8IRbIJdloZInAWo",
+                    "mimeType": "image/jpeg",
+                    "size": "139663"
+                  },
+                  {
+                    "name": "1ra_PC_3_libro.jpg",
+                    "type": "file",
+                    "id": "1MDuGLgmAqYcQo4GqgBcdgt4UDSg9FbG0",
+                    "mimeType": "image/jpeg",
+                    "size": "150470"
+                  },
+                  {
+                    "name": "1ra_PC_2_libro.jpg",
+                    "type": "file",
+                    "id": "1SmM9_zaJcDwwCbk4hJYB6djQrtixDCYA",
+                    "mimeType": "image/jpeg",
+                    "size": "171643"
+                  },
+                  {
+                    "name": "1ra_PC_1_libro.jpg",
+                    "type": "file",
+                    "id": "1kd3QKhLWhqGT3T0r-mulUwW7OR9oO9bq",
+                    "mimeType": "image/jpeg",
+                    "size": "170452"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Daniel_Alcántara",
+            "type": "folder",
+            "id": "1lIvaKjG7bfAky6emJlrlFHVVpNED1Lyk",
+            "children": [
+              {
+                "name": "ES",
+                "type": "folder",
+                "id": "1IgHEe-i0_aWH5zT5N8H39IA4jZsHf0c0",
+                "children": [
+                  {
+                    "name": "ES_25-2",
+                    "type": "file",
+                    "id": "1bAdDma3YY-V2A87nVrZtHruTXxeb9_yS",
+                    "mimeType": "image/jpeg",
+                    "size": "85069"
+                  },
+                  {
+                    "name": "ES_22-I_alcantara.jpg",
+                    "type": "file",
+                    "id": "18qrsvg3TQuyuVmdqkn7m8DqXu4d316Ar",
+                    "mimeType": "image/jpeg",
+                    "size": "66963"
+                  }
+                ]
+              },
+              {
+                "name": "EF",
+                "type": "folder",
+                "id": "14ftIbc5shRRVX2jlwcPlTVdntPJPLq4g",
+                "children": [
+                  {
+                    "name": "EF_08-I_ALCANTARA.pdf",
+                    "type": "file",
+                    "id": "1wUJaDv7OJOi7SRtzm4VpuHts1nRzvzoq",
+                    "mimeType": "application/pdf",
+                    "size": "109923"
+                  },
+                  {
+                    "name": "EF_19-II_ALCANTARA.pdf",
+                    "type": "file",
+                    "id": "1sNTmBefOJtl_jjVd05nG76haGR9Tl5Oc",
+                    "mimeType": "application/pdf",
+                    "size": "71938"
+                  },
+                  {
+                    "name": "EF_19-III_ALCANTARA.pdf",
+                    "type": "file",
+                    "id": "1w5tRj1frYoth50-fLtPWXGBQakWRTYrM",
+                    "mimeType": "application/pdf",
+                    "size": "145356"
+                  },
+                  {
+                    "name": "EF_23-1_ALCANTARA.pdf",
+                    "type": "file",
+                    "id": "1N7F4LdXabl5J4WQ8uk8upWN6PMMs50XW",
+                    "mimeType": "application/pdf",
+                    "size": "86520"
+                  },
+                  {
+                    "name": "EF_23-II_ALCANTARA.pdf",
+                    "type": "file",
+                    "id": "15lDj9qXNx6gH2oEJP_ZxfNpiCzE7OuXI",
+                    "mimeType": "application/pdf",
+                    "size": "244196"
+                  },
+                  {
+                    "name": "EF-24-1.jpg",
+                    "type": "file",
+                    "id": "1keXGk-ALfDgVGdvcMPGIsEwXx9Q5ElK1",
+                    "mimeType": "image/jpeg",
+                    "size": "77314"
+                  }
+                ]
+              },
+              {
+                "name": "EP",
+                "type": "folder",
+                "id": "1Pna5tTnTlB5nKV6HjeHr3sBDfffShNtg",
+                "children": [
+                  {
+                    "name": "EP_18-2_Alcantara-Fukuda_(1).pdf",
+                    "type": "file",
+                    "id": "1vt3mBuKa0h0qo8enjCTHp8u0ewnDMOZ3",
+                    "mimeType": "application/pdf",
+                    "size": "1488325"
+                  }
+                ]
+              },
+              {
+                "name": "PC4",
+                "type": "folder",
+                "id": "1fuoAt94Bl3pA51X7UIGwyPfYCrm_pDR4",
+                "children": [
+                  {
+                    "name": "4pc_alcantara.jpg",
+                    "type": "file",
+                    "id": "1wIy9FStuhqLi3NkmnSCOFnxRvCuZBCpW",
+                    "mimeType": "image/jpeg",
+                    "size": "103183"
+                  }
+                ]
+              },
+              {
+                "name": "PC3",
+                "type": "folder",
+                "id": "1X-cRhwx81XIDtc1z_XupE1CD4Ofs96_m",
+                "children": [
+                  {
+                    "name": "PC3_23-1_Alcántara.jpg",
+                    "type": "file",
+                    "id": "1EkkWsgwIL7geD6kJQLYQRoH35QB6txUl",
+                    "mimeType": "image/jpeg",
+                    "size": "206650"
+                  },
+                  {
+                    "name": "PC3_26-1_Alcántara.pdf",
+                    "type": "file",
+                    "id": "1tkQ5ZZf-xIc3_kJZc5lZw4opdjg7yIKb",
+                    "mimeType": "application/pdf",
+                    "size": "227617"
+                  },
+                  {
+                    "name": "PC3_25-II.pdf",
+                    "type": "file",
+                    "id": "1kE_1DW14P0kqptnvBLf9Trxoy5dR_Q4k",
+                    "mimeType": "application/pdf",
+                    "size": "174591"
+                  }
+                ]
+              },
+              {
+                "name": "PC2",
+                "type": "folder",
+                "id": "1EGbVZ60A4AWkJqvNCv6MXumbVV5D2fWS",
+                "children": [
+                  {
+                    "name": "PC2_23-1_Alcántara.jpg",
+                    "type": "file",
+                    "id": "1oTEmNzx-PwZ5VSmXO2BVOsS_d3cUh0X_",
+                    "mimeType": "image/jpeg",
+                    "size": "58250"
+                  },
+                  {
+                    "name": "PC2_25-2_Alcántara.pdf",
+                    "type": "file",
+                    "id": "10aul7lCcD57_-jfl8T9k2tB6qOQACyQ6",
+                    "mimeType": "application/pdf",
+                    "size": "1122562"
+                  }
+                ]
+              },
+              {
+                "name": "PC1",
+                "type": "folder",
+                "id": "1FoXGa0v5Sf4hZZvGugqVypW2d_QbAetO",
+                "children": [
+                  {
+                    "name": "FB202_PC1_26-1_Alcántara.jpg",
+                    "type": "file",
+                    "id": "1DajSynefcups5fyMMMoFlETlOZCrcoY9",
+                    "mimeType": "image/jpeg",
+                    "size": "153401"
+                  },
+                  {
+                    "name": "PC1_25-2.jpg",
+                    "type": "file",
+                    "id": "1BLPA5jSgZnx_r6PsL23myNZhdZbaeopf",
+                    "mimeType": "image/jpeg",
+                    "size": "121521"
+                  },
+                  {
+                    "name": "PC1_QUIM_2_22-1.pdf",
+                    "type": "file",
+                    "id": "1n4P_xoyHPU1yVrGkveGB0BN-5O3A1ajM",
+                    "mimeType": "application/pdf",
+                    "size": "258181"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Seminarios",
+            "type": "folder",
+            "id": "10cuLrXU_wz9tFzjmJbEmdztQzffp--SY",
+            "children": [
+              {
+                "name": "40_EJERCICIOS-_LESCANO.pptx",
+                "type": "file",
+                "id": "1XKqRIyjYnDf39C1ZnUW3tcXyS2qcgKAf",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "13313489"
+              },
+              {
+                "name": "segundo_seminario_Chafloque.pptx",
+                "type": "file",
+                "id": "1Ndsg6kVZkGpgdbgrH3e0524eZVNZn_oy",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "2291552"
+              },
+              {
+                "name": "Seminario_Química_II_(sin_resolucion).docx",
+                "type": "file",
+                "id": "10F71Xvg-zqj7XyiejCy5ro5Fi3JqG5BF",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "30702"
+              },
+              {
+                "name": "PROBLEMAS_PROPUESTOS_ALCANTARA.doc",
+                "type": "file",
+                "id": "1m_jO-0IQPeqP0GQ37d-8vXmaNrInqGoT",
+                "mimeType": "application/msword",
+                "size": "69120"
+              },
+              {
+                "name": "preguntas_respuesta_pc_4_quimica.docx",
+                "type": "file",
+                "id": "1kAnKaOwA5L0B6Z6LyqNjUoPFG0o-9JdF",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "18630"
+              },
+              {
+                "name": "Seminario_Quim_II_Lescano.pdf",
+                "type": "file",
+                "id": "1JzGM1LjOCnbVCO36sz-WlbqLa7XOY1U8",
+                "mimeType": "application/pdf",
+                "size": "314579"
+              },
+              {
+                "name": "Problemas_resueltos_Lescano.pdf",
+                "type": "file",
+                "id": "17_7Ic-Kpy2RgLaMg96kHKbGcFjvQb8Bj",
+                "mimeType": "application/pdf",
+                "size": "525950"
+              },
+              {
+                "name": "SEMINARIOS_DE_QUÍMICA_II_-_1.pdf",
+                "type": "file",
+                "id": "1aRGOIiL-RxNqp9sC6-upPhKmO5nV85es",
+                "mimeType": "application/pdf",
+                "size": "4923891"
+              },
+              {
+                "name": "SEMINARIOS_DE_QUÍMICA_II_-_2.pdf",
+                "type": "file",
+                "id": "1B00IX0HA-8BeiIj6fUyXTRZub9k67r6c",
+                "mimeType": "application/pdf",
+                "size": "921574"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Libros",
+        "type": "folder",
+        "id": "1-CEnz6Je7Vhk-Iktd2il4Gp71z_RRzWf",
+        "children": [
+          {
+            "name": "Química_Orgánica(Volumen_1)_-_L._G._Wade.pdf",
+            "type": "file",
+            "id": "1NFcYE328cxE6oFtF68L8qGhh_21YxRgs",
+            "mimeType": "application/pdf",
+            "size": "10842977"
+          },
+          {
+            "name": "Química_Orgánica(Volumen_2)_-_L._G._Wade_.pdf",
+            "type": "file",
+            "id": "1fOWoz-5NCGuzaGnlgzoXLwpRGHDdPlHI",
+            "mimeType": "application/pdf",
+            "size": "10266777"
+          }
+        ]
+      },
+      {
+        "name": "silabo_quimica_2.pdf",
+        "type": "file",
+        "id": "1RUdbsmflfL0lz9LtSgHsj-JqchaPeIGB",
+        "mimeType": "application/pdf",
+        "size": "503376"
+      }
+    ]
+  }
+}

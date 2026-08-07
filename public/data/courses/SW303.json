@@ -1,0 +1,657 @@
+{
+  "course_id": "SW303",
+  "course_name": "Lenguajes_de_Programación_I_(Imperativo)",
+  "id": "1LleuD-Ic62mv1t7sexW2ju2i0BgH2hpP",
+  "scanned_at": "2026-08-07T00:03:30.060834+00:00",
+  "tree": {
+    "name": "Lenguajes_de_Programación_I_(Imperativo)",
+    "type": "folder",
+    "id": "1LleuD-Ic62mv1t7sexW2ju2i0BgH2hpP",
+    "children": [
+      {
+        "name": "Planchas",
+        "type": "folder",
+        "id": "185Vu7D5yTzXhzaXyFq-w4gGOsC4oZzFJ",
+        "children": [
+          {
+            "name": "ES",
+            "type": "folder",
+            "id": "1bEE-x0ecjwNXjb7pdKZBA2_cVs_aFald",
+            "children": [
+              {
+                "name": "SW303_ES_26-1.pdf",
+                "type": "file",
+                "id": "1ZE0OAQkdVgh2pfl_vFmheYbXA53OnDsl",
+                "mimeType": "application/pdf",
+                "size": "317757"
+              }
+            ]
+          },
+          {
+            "name": "EF",
+            "type": "folder",
+            "id": "1HV2lQHEBwqNfwawncJ9wWdZ0n50phu2t",
+            "children": [
+              {
+                "name": "SW303_EF_26-1_SOL.pdf",
+                "type": "file",
+                "id": "1FpZYhHdvQXViU9VXZX06P6-Fzb5wqznK",
+                "mimeType": "application/pdf",
+                "size": "655202"
+              }
+            ]
+          },
+          {
+            "name": "EP",
+            "type": "folder",
+            "id": "1sYn-UstK8Nu-YiGVB8Nvd4RlC8MH_peD",
+            "children": [
+              {
+                "name": "SW303-EP-26-1.pdf",
+                "type": "file",
+                "id": "1xCU1fdUit7nFiPthvv8V5qBC7dIg-HEj",
+                "mimeType": "application/pdf",
+                "size": "242830"
+              }
+            ]
+          },
+          {
+            "name": "PC3",
+            "type": "folder",
+            "id": "1juTfg89Bj9mmI_YSWfp2-TKUHeMwXB-o",
+            "children": [
+              {
+                "name": "SW303-PC3-26-1.pdf",
+                "type": "file",
+                "id": "1qwHodQe5CZeB3XW7ndNCSTv5LEWrytDx",
+                "mimeType": "application/pdf",
+                "size": "277076"
+              }
+            ]
+          },
+          {
+            "name": "PC1",
+            "type": "folder",
+            "id": "1yS5UT4Ss8UL5yYMFTKwS5CyOSY57V73J",
+            "children": [
+              {
+                "name": "SW303-PC1-26-1.pdf",
+                "type": "file",
+                "id": "1kF0NVoEqt6FveS6S_ZT4GPluaI44VLLv",
+                "mimeType": "application/pdf",
+                "size": "331625"
+              },
+              {
+                "name": "SW303-PD01-Pract_Dirigida.pdf",
+                "type": "file",
+                "id": "10W2BexPXqrZLZWh_3r5g08wDk9Stef0d",
+                "mimeType": "application/pdf",
+                "size": "322723"
+              }
+            ]
+          },
+          {
+            "name": "PC2",
+            "type": "folder",
+            "id": "1B-EMef4i5W0xSZklq-boWIWfxeuIDmhH",
+            "children": [
+              {
+                "name": "PC2-26_1.pdf",
+                "type": "file",
+                "id": "1Y_OdPXdEdWIvwAZ3F6gDlkqEssqHhjWt",
+                "mimeType": "application/pdf",
+                "size": "180104"
+              },
+              {
+                "name": "SW303-PD02-Pract_Dirigida.pdf",
+                "type": "file",
+                "id": "1je6Kgnx7LkxO95-vvTSnNMJpDq0TOTfP",
+                "mimeType": "application/pdf",
+                "size": "318943"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Material_de_la_profesora_Marlene",
+        "type": "folder",
+        "id": "1w9zOk3pX9YdmMsCcggHZLzHe_HpfO58s",
+        "children": [
+          {
+            "name": "Semana_12",
+            "type": "folder",
+            "id": "1GrnfVRFM-m3-MZ-mKj9ImK_iLewMjhKB",
+            "children": [
+              {
+                "name": "sesion14.pdf",
+                "type": "file",
+                "id": "1vYvNJYFnp6MEFojTDDX-Fhq-DMwasYFV",
+                "mimeType": "application/pdf",
+                "size": "427821"
+              }
+            ]
+          },
+          {
+            "name": "Semana_13",
+            "type": "folder",
+            "id": "13TBDSZqPCZ1dHi-jay1wl9maF65gmcBg",
+            "children": [
+              {
+                "name": "Sesion_15.pdf",
+                "type": "file",
+                "id": "1rOx-b8OhYDzwa5-NiQSAX4629v-vxlDP",
+                "mimeType": "application/pdf",
+                "size": "676631"
+              }
+            ]
+          },
+          {
+            "name": "Semana_14",
+            "type": "folder",
+            "id": "16jpV1onztA125-8ntJ5T3cSd6hXyPgKY",
+            "children": [
+              {
+                "name": "Caso_practico_agencia_(1).pdf",
+                "type": "file",
+                "id": "194OlMgHfBCjghxSxMEO5o6LZud3hIxBS",
+                "mimeType": "application/pdf",
+                "size": "86762"
+              },
+              {
+                "name": "Caso_practico_agencia.pdf",
+                "type": "file",
+                "id": "16FIixtITRNqKuRyNTgI_ai-IlbkYsMiI",
+                "mimeType": "application/pdf",
+                "size": "243893"
+              },
+              {
+                "name": "sesion_16_Parte_I.pdf",
+                "type": "file",
+                "id": "1RcQkULGiJhonxLuUnuHU5TALdcpjYC9c",
+                "mimeType": "application/pdf",
+                "size": "653012"
+              }
+            ]
+          },
+          {
+            "name": "Semana_06",
+            "type": "folder",
+            "id": "14G2TBWRotQxJBrnMT4e9ZmXXc1yGYRNO",
+            "children": [
+              {
+                "name": "Ejercicios_desarrollados_funciones_Parte_I_sesion_08.pdf",
+                "type": "file",
+                "id": "1n56_3AbA4H-M86AtlQ07QwUo7MpsGtPe",
+                "mimeType": "application/pdf",
+                "size": "300164"
+              },
+              {
+                "name": "Sesion_08.pdf",
+                "type": "file",
+                "id": "1Qapxp1iC21Ma-bVUEElAibigdFNY5vdQ",
+                "mimeType": "application/pdf",
+                "size": "575784"
+              }
+            ]
+          },
+          {
+            "name": "Semana_07",
+            "type": "folder",
+            "id": "1gef4vqEsjp3g0JpY5lHsMgtuDWa3wAJm",
+            "children": [
+              {
+                "name": "sesion_09_Parte_I_.pdf",
+                "type": "file",
+                "id": "1hN8OGKMVrbLSlYSV-Lbp3DKIG-3-0S9_",
+                "mimeType": "application/pdf",
+                "size": "478803"
+              }
+            ]
+          },
+          {
+            "name": "Semana_04",
+            "type": "folder",
+            "id": "1mDv2toJVajpjkN1TPuT3SVG2j_2epAOS",
+            "children": [
+              {
+                "name": "caso_practico_admision_v1.pdf",
+                "type": "file",
+                "id": "1a6HID6Svm_1RdS50BSFgFdnO0f0yJU-_",
+                "mimeType": "application/pdf",
+                "size": "87645"
+              },
+              {
+                "name": "caso_practico_admision.pdf",
+                "type": "file",
+                "id": "1j4JFs9MDMPez_CFjbm6RJ5dGOIJnJRrW",
+                "mimeType": "application/pdf",
+                "size": "82923"
+              },
+              {
+                "name": "Ejercicios_desarrollados_estructuras_repetitivas.pdf",
+                "type": "file",
+                "id": "1ULcH4JcMctMX32DlZ74e2ZFi0nHpbtft",
+                "mimeType": "application/pdf",
+                "size": "75682"
+              },
+              {
+                "name": "Sesión_4-02.pdf",
+                "type": "file",
+                "id": "1By8m897L4QuKqfkKCN4nH1D5EDhYtKzF",
+                "mimeType": "application/pdf",
+                "size": "459494"
+              }
+            ]
+          },
+          {
+            "name": "Semana_10",
+            "type": "folder",
+            "id": "1QReZ9GTxs1EZG6AYBO5ldanz5mKHBhbJ",
+            "children": [
+              {
+                "name": "script.rar",
+                "type": "file",
+                "id": "1ErUQQvYfxPGSNSAlvSYp-iDrTrhE8_Om",
+                "mimeType": "application/x-rar",
+                "size": "1541"
+              },
+              {
+                "name": "bdacademico.rar",
+                "type": "file",
+                "id": "1ZLulUJebsn5kD9ZUEZWc2OS89HmT0pBe",
+                "mimeType": "application/x-rar",
+                "size": "26123"
+              },
+              {
+                "name": "sesion11_caso_MYSQL.xlsx",
+                "type": "file",
+                "id": "14lKQa_8reZ-d-RSuf_t5-E2vrP_GEK14",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "363770"
+              },
+              {
+                "name": "ejercicio_sesion11_caso_access.xlsx",
+                "type": "file",
+                "id": "1yRkgHoQJ4UAnKWAgIZB_t0urBwWtH3mB",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "15811"
+              },
+              {
+                "name": "sesion_11.pdf",
+                "type": "file",
+                "id": "1V1CEJouDLSfsmyeboUSHVRZRXUd7QRqG",
+                "mimeType": "application/pdf",
+                "size": "316012"
+              },
+              {
+                "name": "Ejercicios_desarrollados_archivos.pdf",
+                "type": "file",
+                "id": "1GPxp0vfFGw5fJhLkR8dBsIAwDT2-erVR",
+                "mimeType": "application/pdf",
+                "size": "178911"
+              },
+              {
+                "name": "Sesion_10-1.pdf",
+                "type": "file",
+                "id": "18ZocsngOxfS4Wwcoof9FsigPpkZ7LzOl",
+                "mimeType": "application/pdf",
+                "size": "335266"
+              }
+            ]
+          },
+          {
+            "name": "Semana_01",
+            "type": "folder",
+            "id": "1mp57BTvZyhdQQ9SicJaQkZaPrvtLpi7i",
+            "children": [
+              {
+                "name": "ejercicios_desarrollados_001.pdf",
+                "type": "file",
+                "id": "1On16fMoj8CEJeleKTC6winbYAwRWnJid",
+                "mimeType": "application/pdf",
+                "size": "1178433"
+              },
+              {
+                "name": "sesion_02.pdf",
+                "type": "file",
+                "id": "10Q2ads7qkyHmT9Y6mrOZPgdLwSAhmgvA",
+                "mimeType": "application/pdf",
+                "size": "1646484"
+              },
+              {
+                "name": "sesion_01.pdf",
+                "type": "file",
+                "id": "1RJjUgwrFv6L1MxraSvRGFtiQ8maPFjHK",
+                "mimeType": "application/pdf",
+                "size": "444711"
+              }
+            ]
+          },
+          {
+            "name": "Semana_11",
+            "type": "folder",
+            "id": "14P-i46K8-Wd-XsDzta2x0Af8g3UQo21H",
+            "children": [
+              {
+                "name": "consultas_caso_practico_planilla.pdf",
+                "type": "file",
+                "id": "185uMY-3p987SxvVKpbf87NTgNmhv84hQ",
+                "mimeType": "application/pdf",
+                "size": "245147"
+              },
+              {
+                "name": "caso_practico_planilla.rar",
+                "type": "file",
+                "id": "1G_HYtgbi-5MIDAKd7UJJiyKZ6hcBLlBq",
+                "mimeType": "application/x-rar",
+                "size": "239864"
+              }
+            ]
+          },
+          {
+            "name": "Semana_03",
+            "type": "folder",
+            "id": "1CopbInVPwh5D8QNhNBz6N6Sx6875hKzy",
+            "children": [
+              {
+                "name": "Ejercicios_desarrollados_estructuras_selectivas.pdf",
+                "type": "file",
+                "id": "1ooHeQnNoTIb8e7W4ZjxbKG9zwkEzRPB2",
+                "mimeType": "application/pdf",
+                "size": "90245"
+              },
+              {
+                "name": "boleta_de_pago.xlsx",
+                "type": "file",
+                "id": "1K5-QCpyXYKNmiCb_KvvRRKueFUvXwCoj",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "10447"
+              },
+              {
+                "name": "caso_practico.pdf",
+                "type": "file",
+                "id": "1culPtQPn-jkBsAR_Ft8pJL0nd1R0QRQu",
+                "mimeType": "application/pdf",
+                "size": "71351"
+              },
+              {
+                "name": "Algoritmos_PSeInt.pdf",
+                "type": "file",
+                "id": "11UZcQdq9PBT4aNu47HTta2efY-6DpkFY",
+                "mimeType": "application/pdf",
+                "size": "842421"
+              },
+              {
+                "name": "Sesión_4-01.pdf",
+                "type": "file",
+                "id": "1smSmWqUKubxoj1jcmdZbSFHk6xUS-qmZ",
+                "mimeType": "application/pdf",
+                "size": "896255"
+              }
+            ]
+          },
+          {
+            "name": "Semana_05",
+            "type": "folder",
+            "id": "1AagxaUhXfK44OZvdIpt9ATtd1Yq3s4pj",
+            "children": [
+              {
+                "name": "Sesion_07.pdf",
+                "type": "file",
+                "id": "1t0Yt0wWxcrMBzQdhmtWvWPcjxxbSo2Wa",
+                "mimeType": "application/pdf",
+                "size": "540570"
+              },
+              {
+                "name": "caso_practico_planilla.xlsx",
+                "type": "file",
+                "id": "13wUDVEyp7CWtDZavWxyzJ3lWt_eRVAMB",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "11712"
+              },
+              {
+                "name": "caso_practico_planilla.pdf",
+                "type": "file",
+                "id": "1FUov4VwZDVZlR2eaAz-AeuBjsQm8GIxp",
+                "mimeType": "application/pdf",
+                "size": "93137"
+              }
+            ]
+          },
+          {
+            "name": "Semana_09",
+            "type": "folder",
+            "id": "12GxvExonZGLiz1FKpDy5d05zvSj_JxVG",
+            "children": [
+              {
+                "name": "Actividad_Estructura_de_Datos.pdf",
+                "type": "file",
+                "id": "1qHWZ_8Yrlu-talFY6AmQUqkJGiAWwpnj",
+                "mimeType": "application/pdf",
+                "size": "124394"
+              },
+              {
+                "name": "Ejercicios_desarrollados_listas.pdf",
+                "type": "file",
+                "id": "1pCkrZa8UiHMyT3gLNYZykNdTQMUeFfEG",
+                "mimeType": "application/pdf",
+                "size": "129582"
+              },
+              {
+                "name": "sesion_09_Parte_II.pdf",
+                "type": "file",
+                "id": "1bZpuapEWzwK0aXLYYBTMMX0M567ejYLK",
+                "mimeType": "application/pdf",
+                "size": "410844"
+              }
+            ]
+          },
+          {
+            "name": "Semana_02",
+            "type": "folder",
+            "id": "1CsCwKtt_o3K6l4SEE6H21JrnwufLnsW1",
+            "children": [
+              {
+                "name": "Ejercicios_desarrollados_estructuras_selectivas.pdf",
+                "type": "file",
+                "id": "1r7ArawMrd2IjiFQcCWkCgbrXUHimc-5b",
+                "mimeType": "application/pdf",
+                "size": "90245"
+              },
+              {
+                "name": "sesion_03.pdf",
+                "type": "file",
+                "id": "1NyPLBrDvjgxKEcOh5mCX7nvaBWQ6FV6M",
+                "mimeType": "application/pdf",
+                "size": "580382"
+              },
+              {
+                "name": "Actividad_01.pdf",
+                "type": "file",
+                "id": "1wFwWTHZhCpg4fw-qvvAydQ2zwgh4YxtB",
+                "mimeType": "application/pdf",
+                "size": "136475"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "LP1_jose_rojas_github.txt",
+        "type": "file",
+        "id": "1bMI7tHKrlt2TPZ-3QjEq_ZPPr2PcOKhS",
+        "mimeType": "text/plain",
+        "size": "58"
+      },
+      {
+        "name": "Libros_de_C",
+        "type": "folder",
+        "id": "1p-Uhox5kjb8ONGxYcvwgpjhUjkC0EIMl",
+        "children": [
+          {
+            "name": "El-lenguaje-de-programacion-C-2-ed-kernighan-amp-ritchie.pdf",
+            "type": "file",
+            "id": "1p8I-GTzb7a_Cb2kiUeUJVlGhqv6n59jr",
+            "mimeType": "application/pdf",
+            "size": "9788251"
+          }
+        ]
+      },
+      {
+        "name": "Material_Herencia",
+        "type": "folder",
+        "id": "1C9Rk9Qq0wDn094_qXLAdyrgC-Qh5UW4W",
+        "children": [
+          {
+            "name": "Unidad_6",
+            "type": "folder",
+            "id": "1F9c7WnG-MPvVaOt1B5roc_KAm00fy2vt",
+            "children": [
+              {
+                "name": "RayLib_C_-_Introduction_to_Programming.pdf",
+                "type": "file",
+                "id": "11q2XfhSUoKE7YqtxNl_EMJp30OnzMnbW",
+                "mimeType": "application/pdf",
+                "size": "466610"
+              },
+              {
+                "name": "ficheros2013.pdf",
+                "type": "file",
+                "id": "19omsT9l5YxrypvYhOx5MgRxStLhY2-XF",
+                "mimeType": "application/pdf",
+                "size": "316398"
+              }
+            ]
+          },
+          {
+            "name": "Unidad_5",
+            "type": "folder",
+            "id": "1ZSGRXlY36LWujK-gwGDtzQo0IfLg6y2X",
+            "children": [
+              {
+                "name": "punteros_C.pdf",
+                "type": "file",
+                "id": "15BgG0XRQFokmbICQxiCtOzaJPQi-Vwdt",
+                "mimeType": "application/pdf",
+                "size": "231929"
+              },
+              {
+                "name": "Punteros-Deitel_y_Deitel.pdf",
+                "type": "file",
+                "id": "19LDtgtfScMcNJ9MvTcESEAQUe-qQ9X7P",
+                "mimeType": "application/pdf",
+                "size": "942592"
+              },
+              {
+                "name": "Arreglos-Deitel_y_Deitel.pdf",
+                "type": "file",
+                "id": "1-aVXw2qYRTGxeQS9aPStu77GEtqjTQzr",
+                "mimeType": "application/pdf",
+                "size": "701535"
+              }
+            ]
+          },
+          {
+            "name": "Unidad_3",
+            "type": "folder",
+            "id": "131nisNq2PfXK_-_DE0xOm7KR9OGGNH1c",
+            "children": [
+              {
+                "name": "01-Intro-Operadores-Decisiones-while-for.pdf",
+                "type": "file",
+                "id": "1aFGLsckoZ5246O0iUDvEBQy2RacfPkIx",
+                "mimeType": "application/pdf",
+                "size": "3814805"
+              }
+            ]
+          },
+          {
+            "name": "Material_extra",
+            "type": "folder",
+            "id": "1H6aMGuwAjummyAG4CzNB1LZjlX3p1BpJ",
+            "children": [
+              {
+                "name": "deitel-c-how-to-program-6th-edition.pdf",
+                "type": "file",
+                "id": "1PmHYLmk3EGE-k5pk-7mcAylmhMFC_kuC",
+                "mimeType": "application/pdf",
+                "size": "14612536"
+              },
+              {
+                "name": "El-lenguaje-de-programacion-C-2-ed-kernighan-amp-ritchie.pdf",
+                "type": "file",
+                "id": "1srZiuqRJzybwLZS3y1Mdrsdz104hfA2X",
+                "mimeType": "application/pdf",
+                "size": "9788251"
+              },
+              {
+                "name": "modernC.pdf",
+                "type": "file",
+                "id": "1zU4C4feoldHtiqTLo9tfrYNdt81M5qeY",
+                "mimeType": "application/pdf",
+                "size": "3929516"
+              }
+            ]
+          },
+          {
+            "name": "Unidad_2",
+            "type": "folder",
+            "id": "1kP4ZoQtH_1dk91XtPUvWocK0qBulrYf9",
+            "children": [
+              {
+                "name": "SW303_Unidad2_Programas_en_C.pdf",
+                "type": "file",
+                "id": "1b_0CdcfADl3qG4yf62cLeCqFzEKpOi3Z",
+                "mimeType": "application/pdf",
+                "size": "4380129"
+              }
+            ]
+          },
+          {
+            "name": "Unidad_4",
+            "type": "folder",
+            "id": "1ipD8AjiqsMj3wIHS1s18BamFJ35Utrio",
+            "children": [
+              {
+                "name": "Funciones_Deitel_y_Deitel.pdf",
+                "type": "file",
+                "id": "1seXdsX0Lh4WTd-d-FxgQrDvJ4s0STMsW",
+                "mimeType": "application/pdf",
+                "size": "1170743"
+              },
+              {
+                "name": "SW303-Unidad04-Funciones.pdf",
+                "type": "file",
+                "id": "1FZd4svPzsvAktET5WiwyeWmlHPeqt9DH",
+                "mimeType": "application/pdf",
+                "size": "3642172"
+              }
+            ]
+          },
+          {
+            "name": "Unidad_1",
+            "type": "folder",
+            "id": "1xmIGwrkAOyMxhAi3bKwhvCDg2weYl8i7",
+            "children": [
+              {
+                "name": "SW303_Unidad1_Presentacion.pdf",
+                "type": "file",
+                "id": "1LwhEV6CTD4Euyp86oAHuoWIxik8Wmlfc",
+                "mimeType": "application/pdf",
+                "size": "4521199"
+              }
+            ]
+          },
+          {
+            "name": "SW303_LP_1_Silabo.pdf",
+            "type": "file",
+            "id": "1-NGRinnRPAhneOgw1detvVdtmAErolp3",
+            "mimeType": "application/pdf",
+            "size": "146602"
+          }
+        ]
+      }
+    ]
+  }
+}

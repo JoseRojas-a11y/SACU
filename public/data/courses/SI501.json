@@ -1,0 +1,3051 @@
+{
+  "course_id": "SI501",
+  "course_name": "Investigación_de_Operaciones_I",
+  "id": "1Wq39RYAw1pY2eT97MHUxu48WtvcFZzX_",
+  "scanned_at": "2026-08-06T23:58:56.545023+00:00",
+  "tree": {
+    "name": "Investigación_de_Operaciones_I",
+    "type": "folder",
+    "id": "1Wq39RYAw1pY2eT97MHUxu48WtvcFZzX_",
+    "children": [
+      {
+        "name": "Material_Extra",
+        "type": "folder",
+        "id": "1XpnM-UQzYQmh06Dx6ArCaN-6ugG9AfK1",
+        "children": [
+          {
+            "name": "Investigacion_de_operaciones_cuarta_edic.pdf",
+            "type": "file",
+            "id": "1oNwXZJxznjfsf1sbl4wJ3kWEO-TN7cOF",
+            "mimeType": "application/pdf",
+            "size": "64791060"
+          },
+          {
+            "name": "Resumen_1.jpg",
+            "type": "file",
+            "id": "1Vs6Jmz0JVQgd_C0w0CykKAcsax19QeK2",
+            "mimeType": "image/jpeg",
+            "size": "52699"
+          },
+          {
+            "name": "resumen_3.jpg",
+            "type": "file",
+            "id": "1pHwouh32G0sEYAxkl0eVgAJfecsOvmrr",
+            "mimeType": "image/jpeg",
+            "size": "45137"
+          },
+          {
+            "name": "resumen_6.jpg",
+            "type": "file",
+            "id": "1A_nRBTzNfiMbgIDJbtiVQGOWzhfgjcPH",
+            "mimeType": "image/jpeg",
+            "size": "33622"
+          },
+          {
+            "name": "Eyzaguirre-IO1_LIBRO.pdf",
+            "type": "file",
+            "id": "1ZKsAVth2DlWDY10fVlRbOy2c0YEN38Ba",
+            "mimeType": "application/pdf",
+            "size": "3806893"
+          },
+          {
+            "name": "resumen_4.jpg",
+            "type": "file",
+            "id": "15V9hWwxG0ZzxbTLWL-4REiZz3YMdWUir",
+            "mimeType": "image/jpeg",
+            "size": "41516"
+          },
+          {
+            "name": "resumen_2.jpg",
+            "type": "file",
+            "id": "1bAu7uLBqiQ-Z7cjBqQdeF8oGM607u0tS",
+            "mimeType": "image/jpeg",
+            "size": "43074"
+          },
+          {
+            "name": "RESUMEN_SI501V_-_INVESTIGACIÓN_DE_OPERACIONES_I_(1).pdf",
+            "type": "file",
+            "id": "1TAOEWiOyBbf0GK62r6aFNedG9SRZWSNi",
+            "mimeType": "application/pdf",
+            "size": "10910949"
+          },
+          {
+            "name": "resumen_5.jpg",
+            "type": "file",
+            "id": "1mesPBc77YOgYQCEadT4Z4RTrby5gD7LE",
+            "mimeType": "image/jpeg",
+            "size": "43851"
+          },
+          {
+            "name": "Cuaderno_SI501V_-_INVESTIGACIÓN_DE_OPERACIONES_I.pdf",
+            "type": "file",
+            "id": "1ee9p33jrrsc1Vrngjwb-Dj22T2VyT_MK",
+            "mimeType": "application/pdf",
+            "size": "10910949"
+          },
+          {
+            "name": "cuaderno_de_Investigación_de_Operaciones_v_3.0.pdf",
+            "type": "file",
+            "id": "1w0aPTSylzaG1wIebfrNIIOuJR65cJxi8",
+            "mimeType": "application/pdf",
+            "size": "43704549"
+          }
+        ]
+      },
+      {
+        "name": "Teoría",
+        "type": "folder",
+        "id": "1R538vZZqnS2KdHm2jXZEyS5aao58uh3h",
+        "children": [
+          {
+            "name": "Material_Lostanau",
+            "type": "folder",
+            "id": "1lnesEP0Faanr_kPsK38nDJ__yERB7nWT",
+            "children": [
+              {
+                "name": "dirigida_pc4_io.pdf",
+                "type": "file",
+                "id": "1rnXYRis2vfWfZDbqrU5caScENAzQZKhC",
+                "mimeType": "application/pdf",
+                "size": "2585482"
+              },
+              {
+                "name": "Programación_de_Metas.pptx",
+                "type": "file",
+                "id": "15iZJ4TphZwzTTvNLqE3oZHVbWUkYYsM6",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "41155"
+              },
+              {
+                "name": "IO1_Guia_de_Problemas_N°1_v100421.docx",
+                "type": "file",
+                "id": "1HiOYZhQbK4nF1Y77BezK_oYT6mYqTzVK",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "61934"
+              },
+              {
+                "name": "Semana_1_Conceptos_generales.pptx",
+                "type": "file",
+                "id": "1NqZuwT4H71SmZG4eoG8vpJIbOZBR7LNg",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "888834"
+              }
+            ]
+          },
+          {
+            "name": "Material_Medina",
+            "type": "folder",
+            "id": "1F-sGOKUtZQx_3l6gSQXkfJhsLSTMZJD7",
+            "children": [
+              {
+                "name": "ST_113U_silabo_2016-1.docx",
+                "type": "file",
+                "id": "1U2HCe1Oul4b6Xja8pJutvxIBpx2yhgRU",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "68624"
+              },
+              {
+                "name": "Solucionario_PC2_2013-2.pptx",
+                "type": "file",
+                "id": "1_SnS-ZJAGVit2dhnX5FLB_px7KEDdhZo",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "63009"
+              },
+              {
+                "name": "METODO_SIMPLEX.docx",
+                "type": "file",
+                "id": "1esfYsjigCzb5U7sPpiYy2gby0mTHPZZl",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "205734"
+              },
+              {
+                "name": "problemas_PLE_(1).doc",
+                "type": "file",
+                "id": "104U1OIFJEJYQd16rRg45osB1OPbn2mFW",
+                "mimeType": "application/msword",
+                "size": "50176"
+              },
+              {
+                "name": "DUALIDAD_Y_ANALISIS_SIMPLEX.xls",
+                "type": "file",
+                "id": "1nJ754N_rHUbAeSd33rWQ41Dh-blymp3f",
+                "mimeType": "application/vnd.ms-excel",
+                "size": "49664"
+              },
+              {
+                "name": "ST_113U_VERANO_2015-3.docx",
+                "type": "file",
+                "id": "1CxF8c_7LnmVMx6rL0-Hb24HSQjfXprkQ",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "68281"
+              },
+              {
+                "name": "Metodo_Simplex_3.ppsx",
+                "type": "file",
+                "id": "1yuWuKCxMqZLtXUGfFiYt2ZrFMmjtok4L",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "808295"
+              },
+              {
+                "name": "Solver_Guia_para_UNI.docx",
+                "type": "file",
+                "id": "11yg1k6ZVHX0ULgnCP8rd33xLyVakYe0u",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "249083"
+              },
+              {
+                "name": "SIMPLEX_SRS.txt",
+                "type": "file",
+                "id": "10xBbnIbLpmJ1NWLRDfMOqfvSND_SS8mc",
+                "mimeType": "text/plain",
+                "size": "144"
+              },
+              {
+                "name": "Metodo_Simplex_1.ppsx",
+                "type": "file",
+                "id": "198wkfZrzvqGuMW1EuhxD-CxSuxl3WSO7",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "536782"
+              },
+              {
+                "name": "Metodo_Simplex_2.ppsx",
+                "type": "file",
+                "id": "1JlfQti2IHY2NU0eoN_ithLeDGqLa0Kbs",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "619052"
+              },
+              {
+                "name": "Programacion_Lineal_Entera.ppt",
+                "type": "file",
+                "id": "1TeiEs9h9m76AjSsRbEsixvVMSRjy8dH5",
+                "mimeType": "application/vnd.ms-powerpoint",
+                "size": "696320"
+              },
+              {
+                "name": "Solucionario_ST113_2PC.pptx",
+                "type": "file",
+                "id": "1_6ZpNHFA96oDHQv0c8xMwoRqrBgROKIV",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "1211056"
+              },
+              {
+                "name": "Analisis_de_Sensibilidad.ppt",
+                "type": "file",
+                "id": "1aPQ7X--7vrr_l5Pq5HKgm2yFIq-NIC4o",
+                "mimeType": "application/vnd.ms-powerpoint",
+                "size": "1822720"
+              },
+              {
+                "name": "S05_Método_Simplex_v310116.pptx",
+                "type": "file",
+                "id": "1KA0XhgVKOroNCRgGYNoF-Vrqtns21028",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "876097"
+              },
+              {
+                "name": "Formulacion_de_problemas_de_PL.pptx",
+                "type": "file",
+                "id": "19Taswt6wUu1FgS71TxX8KBpETxu2VrQf",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "831304"
+              },
+              {
+                "name": "Metodo_Simplex_4.ppsx",
+                "type": "file",
+                "id": "1TBVYeYxB26l-sFUtHlyJQvgzgHJp6_S6",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "910987"
+              },
+              {
+                "name": "PROBLEMAS_SOLVER1.docx",
+                "type": "file",
+                "id": "12jW15m4iilFy5uhaEEFHwfeikmGY3-v3",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "215495"
+              },
+              {
+                "name": "AS.xlsx",
+                "type": "file",
+                "id": "1IV_7ji3LBpV1QSc1O_tChByyYzQIOyvi",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "13582"
+              },
+              {
+                "name": "Problemas_de_Formulación.docx",
+                "type": "file",
+                "id": "1af4HsaerRZGbEKgUBnMOjR8lumf4M98m",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "44825"
+              }
+            ]
+          },
+          {
+            "name": "Material_Pacheco",
+            "type": "folder",
+            "id": "1S1VRw1mFMz7gG_i5f2AQaEQxAATZbb1N",
+            "children": [
+              {
+                "name": "SEMANA_12.pptx",
+                "type": "file",
+                "id": "1xCpY2oU0PqHJBDTopLgfI9rzL4cQzQcU",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "255794"
+              },
+              {
+                "name": "SEMANA_6.pptx",
+                "type": "file",
+                "id": "16mPK_FxHngQG3rbYURVURpHlh8-_87L-",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "1060577"
+              },
+              {
+                "name": "SEMANA_11.pptx",
+                "type": "file",
+                "id": "1q0c41bHMihLQ4jFdfOcpLnT000EpE1jS",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "241737"
+              },
+              {
+                "name": "SEMANA_7.pptx",
+                "type": "file",
+                "id": "1ugrRryAsYaRRWQK8JGDoJqYksTBirwMj",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "923565"
+              },
+              {
+                "name": "SEMANA_4.pptx",
+                "type": "file",
+                "id": "1JAgF2AHAK6eFKnHnOceLPdzSkojxbWfB",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "325381"
+              },
+              {
+                "name": "SEMANA_10_.pptx",
+                "type": "file",
+                "id": "1MgJF0kVKdhNdt2KpMEVVLO1PYNfrm09v",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "767709"
+              },
+              {
+                "name": "SEMANA_1.pptx",
+                "type": "file",
+                "id": "1rLRsmXppdoELgejfb_FSnIQyQAhJ6yMG",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "588174"
+              },
+              {
+                "name": "SEMANA_15.pptx",
+                "type": "file",
+                "id": "1awBUTxnEQCoV2eJiscH3cjteMwoOfw2r",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "357195"
+              },
+              {
+                "name": "SEMANA_5.pptx",
+                "type": "file",
+                "id": "1JX3o_MExGH5PceykQT1TXSGqeylIpBgT",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "382607"
+              },
+              {
+                "name": "SEMANA_14.pptx",
+                "type": "file",
+                "id": "1o0jlmxvb8AcMZkIOe5nh--rGNPdHdFhz",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "280523"
+              },
+              {
+                "name": "SEMANA_2.pptx",
+                "type": "file",
+                "id": "1Ik-m-ZvuyAEdKw-yadZdfk9TPpniWCcA",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "366278"
+              },
+              {
+                "name": "SEMANA_3.pptx",
+                "type": "file",
+                "id": "1hCrqyIEmyNRV6AF--yd_NwuDtekt4Nji",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "417459"
+              },
+              {
+                "name": "SEMANA_13.pptx",
+                "type": "file",
+                "id": "1-emWYsymjAymBwgjV2SgqHW_1GCTVZvP",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "411846"
+              },
+              {
+                "name": "SEMANA_9.pptx",
+                "type": "file",
+                "id": "1dZfdZESm4uuhikOqfZ5xJweybwDWvLop",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "1774822"
+              }
+            ]
+          },
+          {
+            "name": "Material_Canelo",
+            "type": "folder",
+            "id": "1VDuyVy4wMUXlhYVzE-YfXfOG2LpjArO9",
+            "children": [
+              {
+                "name": "SEMANA_15",
+                "type": "folder",
+                "id": "17ULT2MTOq5EiVpkgQ-R4V-Wn6eU0H2oe",
+                "children": [
+                  {
+                    "name": "SI501_ExF_23II.pdf",
+                    "type": "file",
+                    "id": "14Tm2Wyn1iXCAe4Frg0Pkq2sWbKR340Nl",
+                    "mimeType": "application/pdf",
+                    "size": "72396"
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_14",
+                "type": "folder",
+                "id": "1lZ9mA--QqQLCxvUgTdzap6eoD4hEyb0j",
+                "children": [
+                  {
+                    "name": "Prob_propuesto_Programacion_de_metas.pdf",
+                    "type": "file",
+                    "id": "1zYLXpf0ghw7Oel0Ap48_KAlNgaglzlX-",
+                    "mimeType": "application/pdf",
+                    "size": "129495"
+                  },
+                  {
+                    "name": "Programacion_de_metas.pdf",
+                    "type": "file",
+                    "id": "1Kt76f13lTVVtQ_JtPHU7GKh8J3ryEeny",
+                    "mimeType": "application/pdf",
+                    "size": "247871"
+                  },
+                  {
+                    "name": "Prob_programación_lineal_entera_solución.pdf",
+                    "type": "file",
+                    "id": "12nThg7nlb56w0k_2WnarKqF3G-6SxUz0",
+                    "mimeType": "application/pdf",
+                    "size": "172164"
+                  },
+                  {
+                    "name": "PLE_Solución.pdf",
+                    "type": "file",
+                    "id": "1QfheF8OftrlZ9B0cJEExH3MWhMZs66Zp",
+                    "mimeType": "application/pdf",
+                    "size": "909498"
+                  },
+                  {
+                    "name": "Prob_programación_lineal_entera_x_solución.pdf",
+                    "type": "file",
+                    "id": "1R894_hZUENQknc4bi0F9ZTBukm9RNLN0",
+                    "mimeType": "application/pdf",
+                    "size": "67126"
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_13",
+                "type": "folder",
+                "id": "1OlPffqtoNg0X_gdNo8VQPrB4sLnhq4oT",
+                "children": [
+                  {
+                    "name": "Modelos_PLE.pdf",
+                    "type": "file",
+                    "id": "1A4F_HyhEianOayRkKQnZn4df4u_uMo_m",
+                    "mimeType": "application/pdf",
+                    "size": "825594"
+                  },
+                  {
+                    "name": "PLE_Formulación.pdf",
+                    "type": "file",
+                    "id": "1BpgzYo8aB7moyInD1vCv6MqzqzoAWS8x",
+                    "mimeType": "application/pdf",
+                    "size": "232164"
+                  },
+                  {
+                    "name": "Prob_Formulac_PLE_Solución.pdf",
+                    "type": "file",
+                    "id": "1zDJyW6tsixDA4qPWXDBmDZ6XHmVwS-fB",
+                    "mimeType": "application/pdf",
+                    "size": "131219"
+                  },
+                  {
+                    "name": "Prob_prop_Formulación_PLEnteros.pdf",
+                    "type": "file",
+                    "id": "1gjNwgmy_auYjHfAaSwcEW0-FGjSQcVj3",
+                    "mimeType": "application/pdf",
+                    "size": "108440"
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_12",
+                "type": "folder",
+                "id": "1MS_IC842No7AnqH1AHhQMxy5j63gxEE2",
+                "children": [
+                  {
+                    "name": "Prob_Dual_Sensibilidad_Solucion.pdf",
+                    "type": "file",
+                    "id": "1Ylfl3G1cQb4_Y7h3p3nZEWzlodLa9buZ",
+                    "mimeType": "application/pdf",
+                    "size": "386903"
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_11",
+                "type": "folder",
+                "id": "1cYSgQGwTMEnYE6K4XK5rmO2itzFQEUT_",
+                "children": [
+                  {
+                    "name": "Probs_Dual_Sensibilidad.pdf",
+                    "type": "file",
+                    "id": "1U_w8xOoNVS2JiS7TNtetLNVZHmPHowqe",
+                    "mimeType": "application/pdf",
+                    "size": "110895"
+                  },
+                  {
+                    "name": "Lindo.pdf",
+                    "type": "file",
+                    "id": "1GegHLKRLZqbewb6zS4ulcUAIKa258vWq",
+                    "mimeType": "application/pdf",
+                    "size": "138331"
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_10",
+                "type": "folder",
+                "id": "1xAvNKqezpSyD687VsQluQok4qQwxiRfK",
+                "children": [
+                  {
+                    "name": "Analisis_Sensibilidad.pdf",
+                    "type": "file",
+                    "id": "11DkLhDU5vSKz6N_nsaTXH7tmum56xjkk",
+                    "mimeType": "application/pdf",
+                    "size": "598580"
+                  },
+                  {
+                    "name": "Lindo_x_solución.pdf",
+                    "type": "file",
+                    "id": "1w1QWxrU04eXDo7JhpDuKg0skN2mM02dP",
+                    "mimeType": "application/pdf",
+                    "size": "134392"
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_9",
+                "type": "folder",
+                "id": "1L9vqQhSqWNhoRfLNaMV1AaMaNGAq1Kpx",
+                "children": [
+                  {
+                    "name": "Reglas_transform_Primal-Dual.pdf",
+                    "type": "file",
+                    "id": "1SUNaWOjOg4vksN7lYrFWnx7XAisp1D3P",
+                    "mimeType": "application/pdf",
+                    "size": "84918"
+                  },
+                  {
+                    "name": "Dualidad.pdf",
+                    "type": "file",
+                    "id": "18tuerW0OjMeBT2d4_HugYDwdO6lx0cZr",
+                    "mimeType": "application/pdf",
+                    "size": "366860"
+                  },
+                  {
+                    "name": "Metodo_Simplex_Matricial.pdf",
+                    "type": "file",
+                    "id": "10MhQt5x7avnxM2HIy98q_AUHd-sPwtYC",
+                    "mimeType": "application/pdf",
+                    "size": "313649"
+                  },
+                  {
+                    "name": "Sep_Dual_Sensibildad.pdf",
+                    "type": "file",
+                    "id": "1t3mp--GJYNV5ZHk3-w8WgDIcV2hssbRm",
+                    "mimeType": "application/pdf",
+                    "size": "293153"
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_7",
+                "type": "folder",
+                "id": "16se26PAkR2YG5kXH1RBYji9U8yZ6l5UC",
+                "children": [
+                  {
+                    "name": "Casos_Especiales_Simplex_Solucion.pdf",
+                    "type": "file",
+                    "id": "1I7KN-LSzGMHCIk05HvJzWLl5_JTzrtQe",
+                    "mimeType": "application/pdf",
+                    "size": "150240"
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_6",
+                "type": "folder",
+                "id": "1eFE-sp2T28tQlgoUmzHZxTCyWGSHfPTY",
+                "children": [
+                  {
+                    "name": "Prob_Dos_fases.pdf",
+                    "type": "file",
+                    "id": "1hX_EqLAtildDnI3ejETApNiXI5Bn5H6b",
+                    "mimeType": "application/pdf",
+                    "size": "399215"
+                  },
+                  {
+                    "name": "Prob_Prop_Simplex.pdf",
+                    "type": "file",
+                    "id": "1m3yc20kCmLV-llIqvJWvBC4PPYI_FNa8",
+                    "mimeType": "application/pdf",
+                    "size": "144300"
+                  },
+                  {
+                    "name": "Prob_Simplex_solución.pdf",
+                    "type": "file",
+                    "id": "15XcBgFQ82ItqUROmdw7PtrwixRPg-AuT",
+                    "mimeType": "application/pdf",
+                    "size": "313423"
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_5",
+                "type": "folder",
+                "id": "1ilLOPBxsb2msTm9LzIxc-U_1wGRH0HDw",
+                "children": [
+                  {
+                    "name": "Metodo_Simplex_02.pdf",
+                    "type": "file",
+                    "id": "1jSHwxz5LZidb9xnAAC2rBPLnaS4y3sRM",
+                    "mimeType": "application/pdf",
+                    "size": "773194"
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_4",
+                "type": "folder",
+                "id": "1AObbCaOzQK47geZK8mHSlSu6wZ7X792B",
+                "children": [
+                  {
+                    "name": "Método_Simplex.pdf",
+                    "type": "file",
+                    "id": "1wF46oktHjFJSK_itinxMI5pDpGOlSFru",
+                    "mimeType": "application/pdf",
+                    "size": "385828"
+                  },
+                  {
+                    "name": "Metodo_Simplex_01.pdf",
+                    "type": "file",
+                    "id": "1h7GV7z0g2gWn0UQT6B_gRQfPocQocU3E",
+                    "mimeType": "application/pdf",
+                    "size": "651830"
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_3",
+                "type": "folder",
+                "id": "1g8qYPJ9yaLytsBo-nEkWonivpBit75Hk",
+                "children": [
+                  {
+                    "name": "Formulación_de_prob_de_Transporte_y_prob_de_Asignación.pdf",
+                    "type": "file",
+                    "id": "17D4fGgAiNPivhJ5i1I6z3wESRQgjXGpy",
+                    "mimeType": "application/pdf",
+                    "size": "536438"
+                  },
+                  {
+                    "name": "Prob_Transporte_Prob_Asignación_Modelos_PL.pdf",
+                    "type": "file",
+                    "id": "1qoJDdjsgWilNW1jcYSalTEh1jqqfwCTj",
+                    "mimeType": "application/pdf",
+                    "size": "203407"
+                  },
+                  {
+                    "name": "Transporte_Asignación_Prob_prop_Modelos_PL.pdf",
+                    "type": "file",
+                    "id": "1DpI0obTtrUjo5_qh4uFdZzoMKWev4bhV",
+                    "mimeType": "application/pdf",
+                    "size": "179811"
+                  },
+                  {
+                    "name": "Metodo_Grafico.pdf",
+                    "type": "file",
+                    "id": "1sOuiK_IH_ru625_Qw7nJZ5G8q22eCMTS",
+                    "mimeType": "application/pdf",
+                    "size": "412954"
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_2",
+                "type": "folder",
+                "id": "1AcCOlvq9jpWfwDjWj3DoGkVFaQsNufhX",
+                "children": [
+                  {
+                    "name": "Prob_prop_Formulación_de_modelos_PL.pdf",
+                    "type": "file",
+                    "id": "1EDbI_8j_VNksylMfIn4ggwxzGBLNNF8y",
+                    "mimeType": "application/pdf",
+                    "size": "145896"
+                  },
+                  {
+                    "name": "Formulación_modelos_PL_Solución_01.pdf",
+                    "type": "file",
+                    "id": "12xgULHOPjtNCyn86Q0UnMjDMRG_0BSK8",
+                    "mimeType": "application/pdf",
+                    "size": "3946715"
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_1",
+                "type": "folder",
+                "id": "1Lum30fFsA_IuOh9a0AlCynD7yTNvOn67",
+                "children": [
+                  {
+                    "name": "IO_Inicio.pdf",
+                    "type": "file",
+                    "id": "1EX0vrNgvb3Y6QaXV7L9hZe5TOTZ_d83-",
+                    "mimeType": "application/pdf",
+                    "size": "15045"
+                  },
+                  {
+                    "name": "IO_Introduccion.pdf",
+                    "type": "file",
+                    "id": "1fqqyoAbhxF3YqqTZ9sKmXwp-pQIoITMC",
+                    "mimeType": "application/pdf",
+                    "size": "419925"
+                  },
+                  {
+                    "name": "Programacion_Lineal.pdf",
+                    "type": "file",
+                    "id": "1GFROjJTLBak0JUv__t_uhgXnK6MJaYzZ",
+                    "mimeType": "application/pdf",
+                    "size": "418524"
+                  }
+                ]
+              },
+              {
+                "name": "SI501U_Investigación_de_Operaciones_I",
+                "type": "folder",
+                "id": "1TgJWXqtjA6pDustn9V--UKUoRBq6b9cM",
+                "children": [
+                  {
+                    "name": "13.Problemas_de_Programación_por_metas1.pdf",
+                    "type": "file",
+                    "id": "18upOLxk2nEa1uf1tmr9NWTJXctTTHXiL",
+                    "mimeType": "application/pdf",
+                    "size": "139757"
+                  },
+                  {
+                    "name": "11.Separata_Dualidad-Análisis_de_Sensibilidad.pdf",
+                    "type": "file",
+                    "id": "1CaQnx7j71RUHKgahWedXRb1nfgSZxJeo",
+                    "mimeType": "application/pdf",
+                    "size": "436906"
+                  },
+                  {
+                    "name": "11.Problemas_Dualidad-Análisis_de_sensibilidad1.pdf",
+                    "type": "file",
+                    "id": "14Wgc7Gd04fuSkREDsHD19jb9aVQOLnlR",
+                    "mimeType": "application/pdf",
+                    "size": "147292"
+                  },
+                  {
+                    "name": "1.Introducción.pdf",
+                    "type": "file",
+                    "id": "1vuJq08p4FCGYerVnSd26xxIlnk9kHAtv",
+                    "mimeType": "application/pdf",
+                    "size": "419129"
+                  },
+                  {
+                    "name": "3.Problemas_de_Transporte_y_Asignación.pdf",
+                    "type": "file",
+                    "id": "1AC9hMRfluU50nelgYqjIzRI8lcFXaY3Z",
+                    "mimeType": "application/pdf",
+                    "size": "203355"
+                  },
+                  {
+                    "name": "1.Presentación_del_curso1.pdf",
+                    "type": "file",
+                    "id": "1UGZvhGSviKxLpLToO29RIVNy5sUytmCg",
+                    "mimeType": "application/pdf",
+                    "size": "11633"
+                  },
+                  {
+                    "name": "2.Problema_propuestos_de_P.L1.pdf",
+                    "type": "file",
+                    "id": "15gCNtNaB9wVNSuUuiLbICvAAKGxN0yZa",
+                    "mimeType": "application/pdf",
+                    "size": "194602"
+                  },
+                  {
+                    "name": "2.Problemas_formulación_modelos_PL-Solución.pdf",
+                    "type": "file",
+                    "id": "10tHdZn_7gYKASvXL3dofaavAYR151G-J",
+                    "mimeType": "application/pdf",
+                    "size": "3946715"
+                  },
+                  {
+                    "name": "8.Instrucciones1.pdf",
+                    "type": "file",
+                    "id": "11Ze6nVeFpOHXQyAeb3ENsp3C85bZQJtN",
+                    "mimeType": "application/pdf",
+                    "size": "10324"
+                  },
+                  {
+                    "name": "9.Método_Simplex_matricial.pdf",
+                    "type": "file",
+                    "id": "1qeu4I7Pc3BgHp1kTqMmAtXsYinoRDgFh",
+                    "mimeType": "application/pdf",
+                    "size": "500543"
+                  },
+                  {
+                    "name": "9.Método_Simplex_matricial1.pdf",
+                    "type": "file",
+                    "id": "1seAdfmcnhc30z-Ul2OmlNu8X-7koGY3C",
+                    "mimeType": "application/pdf",
+                    "size": "500543"
+                  },
+                  {
+                    "name": "9.Dualidad_y_Análisis_de_Sensibilidad1.pdf",
+                    "type": "file",
+                    "id": "1YdPPmCZ41lgM4scmM619sKFxmAjd2_Bg",
+                    "mimeType": "application/pdf",
+                    "size": "436906"
+                  },
+                  {
+                    "name": "9.Transformación_Primal-Dual.pdf",
+                    "type": "file",
+                    "id": "1psP5OK5VSkOT7K69gtJNrwjX2v6HpSTb",
+                    "mimeType": "application/pdf",
+                    "size": "101835"
+                  },
+                  {
+                    "name": "6.Problemas_propuestos-Método_Simplex1.pdf",
+                    "type": "file",
+                    "id": "189z0Moj6_Ne_hrQTNz8Xa-o8tJ8URgzi",
+                    "mimeType": "application/pdf",
+                    "size": "144300"
+                  },
+                  {
+                    "name": "9.Dualidad_y_Análisis_de_Sensibilidad.pdf",
+                    "type": "file",
+                    "id": "1nYNO6YjNf7jBRYCloG0qM7B3pPxigNlX",
+                    "mimeType": "application/pdf",
+                    "size": "436906"
+                  },
+                  {
+                    "name": "16.Instrucciones_Examen_Final.pdf",
+                    "type": "file",
+                    "id": "19WUfr-TFrrivtbXJTXvSj1nt5YVwLjsX",
+                    "mimeType": "application/pdf",
+                    "size": "9188"
+                  },
+                  {
+                    "name": "12.Programación_Lineal_Entera1.pdf",
+                    "type": "file",
+                    "id": "1ow3_WMF-CbOYH6x_BMRwFC_5BcCnTfSp",
+                    "mimeType": "application/pdf",
+                    "size": "232164"
+                  },
+                  {
+                    "name": "16.Instrucciones_Examen_Final1.pdf",
+                    "type": "file",
+                    "id": "1CNJugM0UR4fpm1f-zQJgLms9wNRCVMO8",
+                    "mimeType": "application/pdf",
+                    "size": "9188"
+                  },
+                  {
+                    "name": "3.El_método_gráfico.pdf",
+                    "type": "file",
+                    "id": "1xWKAFjBhBd5qgOOU1LhzymW9LtuQWjMd",
+                    "mimeType": "application/pdf",
+                    "size": "983510"
+                  },
+                  {
+                    "name": "2.Modelos_de_PLE.pdf",
+                    "type": "file",
+                    "id": "1Yx__3oxKWUPe-pKv35lbbOvVN5bad_Ie",
+                    "mimeType": "application/pdf",
+                    "size": "148079"
+                  },
+                  {
+                    "name": "2.Prob_Formulación_PLEnteros.pdf",
+                    "type": "file",
+                    "id": "1HQ1CjrPRT-wIxpQmNUEvJNU5-Nnr3Idq",
+                    "mimeType": "application/pdf",
+                    "size": "159155"
+                  },
+                  {
+                    "name": "1.Programación_lineal1.pdf",
+                    "type": "file",
+                    "id": "1lGkYkdZ9jSu-5T3CyCLe78RgKKIzvXTX",
+                    "mimeType": "application/pdf",
+                    "size": "418524"
+                  },
+                  {
+                    "name": "3.Formulación_de_problemas_de_Transporte_y_Asignación1.pdf",
+                    "type": "file",
+                    "id": "1eay2pLgEfvQu2vQ4jTQgdxnCI32pX4TC",
+                    "mimeType": "application/pdf",
+                    "size": "536438"
+                  },
+                  {
+                    "name": "9.El_problema_Dual1.pdf",
+                    "type": "file",
+                    "id": "1xmIgdkmn7cpLyGRxLq-BuOFqmVMumaw-",
+                    "mimeType": "application/pdf",
+                    "size": "592896"
+                  },
+                  {
+                    "name": "2.Modelos_de_PLE1.pdf",
+                    "type": "file",
+                    "id": "1QvMpY2vBMn7HZZrRTtlupBtO7y-3euSd",
+                    "mimeType": "application/pdf",
+                    "size": "148079"
+                  },
+                  {
+                    "name": "11.Problemas_Dualidad-Análisis_de_sensibilidad.pdf",
+                    "type": "file",
+                    "id": "1erqclZjDlLOgzmiYcRPgsTwm1cmJEFYb",
+                    "mimeType": "application/pdf",
+                    "size": "147292"
+                  },
+                  {
+                    "name": "7.Simplex_Casos_especiales.pdf",
+                    "type": "file",
+                    "id": "1J5zQEKj7vqJAqFf_cCuqwg0wsxAxmeIF",
+                    "mimeType": "application/pdf",
+                    "size": "67702"
+                  },
+                  {
+                    "name": "12.Problemas_Dualidad-Sensibilidad_Solución1.pdf",
+                    "type": "file",
+                    "id": "1dYT_rbbvNtLLnpAv3x0ZR97ZovUlfiL-",
+                    "mimeType": "application/pdf",
+                    "size": "434714"
+                  },
+                  {
+                    "name": "6.Problemas_propuestos-Método_Simplex.pdf",
+                    "type": "file",
+                    "id": "1iCb_Q8f9buDHQ-gvwVYKAdDfyZ494Py2",
+                    "mimeType": "application/pdf",
+                    "size": "144300"
+                  },
+                  {
+                    "name": "12.Problemas_Dualidad-Sensibilidad_Solución.pdf",
+                    "type": "file",
+                    "id": "1LtIFhD3Di620YMNJ8IntP3xjvXSnWlRQ",
+                    "mimeType": "application/pdf",
+                    "size": "434714"
+                  },
+                  {
+                    "name": "10.Uso_de_Software_de_PL.pdf",
+                    "type": "file",
+                    "id": "1JXjaax-lfYgKhrTxVGnNHNx5FANq3Twk",
+                    "mimeType": "application/pdf",
+                    "size": "138331"
+                  },
+                  {
+                    "name": "6.Método_de_Dos_fases_-_Ejemplos1.pdf",
+                    "type": "file",
+                    "id": "1eXsFgaLCClCvUz9s1_KS28HCRq_FxSN1",
+                    "mimeType": "application/pdf",
+                    "size": "261803"
+                  },
+                  {
+                    "name": "001-MAPA_DE_TODOS_LOS_RECURSOS.pdf",
+                    "type": "file",
+                    "id": "1rdT-3mxR4tYG9lsY1l6_xTKBkOEgbyUO",
+                    "mimeType": "application/pdf",
+                    "size": "5497078"
+                  },
+                  {
+                    "name": "5.Método_Simplex_Ejemplos.pdf",
+                    "type": "file",
+                    "id": "1rYBUpuftZa8N9gX_AzkzbnMl9SVNlh57",
+                    "mimeType": "application/pdf",
+                    "size": "313423"
+                  },
+                  {
+                    "name": "1.Introducción1.pdf",
+                    "type": "file",
+                    "id": "1fLn0_jusYZDhrjBrgVP-8rbosyn3NlCV",
+                    "mimeType": "application/pdf",
+                    "size": "419129"
+                  },
+                  {
+                    "name": "1.Silabo_del_curso1.pdf",
+                    "type": "file",
+                    "id": "1WESv9vrUkj1Ead8smttu0VuFrmYu-yqC",
+                    "mimeType": "application/pdf",
+                    "size": "600411"
+                  },
+                  {
+                    "name": "12.Programación_Lineal_Entera.pdf",
+                    "type": "file",
+                    "id": "1AaBJGjZvZFekt5FziM_QXOPGVjv9pdzN",
+                    "mimeType": "application/pdf",
+                    "size": "232164"
+                  },
+                  {
+                    "name": "13.Programación_por_metas1.pdf",
+                    "type": "file",
+                    "id": "1lsZ7TZjMFEs5iXj7zqqYMEHg-S8XgwBh",
+                    "mimeType": "application/pdf",
+                    "size": "606045"
+                  },
+                  {
+                    "name": "9.Transformación_Primal-Dual1.pdf",
+                    "type": "file",
+                    "id": "1OQ86qkh1qArLov8AlOx3jbHFwmXLELRr",
+                    "mimeType": "application/pdf",
+                    "size": "101835"
+                  },
+                  {
+                    "name": "001-MAPA_DE_TODOS_LOS_RECURSOS1.pdf",
+                    "type": "file",
+                    "id": "1RTF8ld5eR9dMp7VvVqppD0Qq-9s72ZxH",
+                    "mimeType": "application/pdf",
+                    "size": "5497078"
+                  },
+                  {
+                    "name": "5.Método_Simplex_Ejemplos1.pdf",
+                    "type": "file",
+                    "id": "1Y_m3bJkuCdsRSQRfrz4osMjf1TCN5r6k",
+                    "mimeType": "application/pdf",
+                    "size": "313423"
+                  },
+                  {
+                    "name": "5.Método_Simplex_con_variables_artificiales1.pdf",
+                    "type": "file",
+                    "id": "12hST7RPdDD-PhSgUL4rYo885AUdzquQg",
+                    "mimeType": "application/pdf",
+                    "size": "768998"
+                  },
+                  {
+                    "name": "3.Problemas_de_Transporte_y_Asignación1.pdf",
+                    "type": "file",
+                    "id": "1FhFHSPnoS_8JDGkDyViFTO3rNbFnc3zb",
+                    "mimeType": "application/pdf",
+                    "size": "203355"
+                  },
+                  {
+                    "name": "4.Método_Simplex_011.pdf",
+                    "type": "file",
+                    "id": "10K7UoDP4mE7mPZKWXt8tEkANKcNOBJrw",
+                    "mimeType": "application/pdf",
+                    "size": "1155796"
+                  },
+                  {
+                    "name": "5.Método_Simplex_con_variables_artificiales.pdf",
+                    "type": "file",
+                    "id": "1euU3fLGJbS89okoygiSLM79K-eiZEQ1E",
+                    "mimeType": "application/pdf",
+                    "size": "768998"
+                  },
+                  {
+                    "name": "8.Instrucciones.pdf",
+                    "type": "file",
+                    "id": "1PyiHR08PGo4KWUGoS0hq1dTmE2yO6r_t",
+                    "mimeType": "application/pdf",
+                    "size": "10324"
+                  },
+                  {
+                    "name": "13.Problemas_de_Programación_por_metas.pdf",
+                    "type": "file",
+                    "id": "1KVz-uRIOMwx2J1jrVEoAId9l9z9sGnU3",
+                    "mimeType": "application/pdf",
+                    "size": "139757"
+                  },
+                  {
+                    "name": "1.Programación_lineal.pdf",
+                    "type": "file",
+                    "id": "1Ncv3M1u6F_vN8uSkEdtkdVMYT3Apt1IO",
+                    "mimeType": "application/pdf",
+                    "size": "418524"
+                  },
+                  {
+                    "name": "13.Programación_por_metas.pdf",
+                    "type": "file",
+                    "id": "1Htz5c7umQ0uhLWJwCuALQpcjLwv5IrGy",
+                    "mimeType": "application/pdf",
+                    "size": "606045"
+                  },
+                  {
+                    "name": "2.Problema_propuestos_de_P.L.pdf",
+                    "type": "file",
+                    "id": "1ys-8soiMTH3B1nDguU8v5PMojstqhu0A",
+                    "mimeType": "application/pdf",
+                    "size": "194602"
+                  },
+                  {
+                    "name": "15.Problema_Lineal_Entero_-_Solución.pdf",
+                    "type": "file",
+                    "id": "1r-AclNhabY-DD3hTKsogk1HUSbDLH8CR",
+                    "mimeType": "application/pdf",
+                    "size": "1084754"
+                  },
+                  {
+                    "name": "17.Recomendaciones_para_el_Examen_Sustitutorio.pdf",
+                    "type": "file",
+                    "id": "1l8LSyPSiwYO-1RJZw56SqPZlu3rxma9h",
+                    "mimeType": "application/pdf",
+                    "size": "423145"
+                  },
+                  {
+                    "name": "10.Análisis_de_sensibilidad1.pdf",
+                    "type": "file",
+                    "id": "1BBQZeTq_RjtidJWVcPnxIPwSKlhgtRdP",
+                    "mimeType": "application/pdf",
+                    "size": "1187741"
+                  },
+                  {
+                    "name": "2.Prob_Formulación_PLEnteros1.pdf",
+                    "type": "file",
+                    "id": "1Byn5hP5VCu2eNXnP3kLV2fQ-rqJ8xS3z",
+                    "mimeType": "application/pdf",
+                    "size": "159155"
+                  },
+                  {
+                    "name": "6.Método_de_Dos_fases_-_Ejemplos.pdf",
+                    "type": "file",
+                    "id": "19vbXySVbJLdGLFivnyLLQoTgRD00wrAg",
+                    "mimeType": "application/pdf",
+                    "size": "261803"
+                  },
+                  {
+                    "name": "1.Presentación_del_curso.pdf",
+                    "type": "file",
+                    "id": "1Nw11Lhuk_6XaouKk4KlL3m7yv81WkbOW",
+                    "mimeType": "application/pdf",
+                    "size": "11633"
+                  },
+                  {
+                    "name": "17.Recomendaciones_para_el_Examen_Sustitutorio1.pdf",
+                    "type": "file",
+                    "id": "1Fs5vo382xsvw_Lw9DA-tnQLcEx9B8tko",
+                    "mimeType": "application/pdf",
+                    "size": "423145"
+                  },
+                  {
+                    "name": "4.Método_Simplex_01.pdf",
+                    "type": "file",
+                    "id": "1DktjAUtKOy_lHRwoPK2A-3g1oYxRs_HY",
+                    "mimeType": "application/pdf",
+                    "size": "1155796"
+                  },
+                  {
+                    "name": "10.Análisis_de_sensibilidad.pdf",
+                    "type": "file",
+                    "id": "1-gT0SqqiE_CtLq4FuE9FtWik0PXGMkF0",
+                    "mimeType": "application/pdf",
+                    "size": "1187741"
+                  },
+                  {
+                    "name": "10.Uso_de_Software_de_PL1.pdf",
+                    "type": "file",
+                    "id": "1fKePmsLU425PALfPZwi8naMvJh377rC9",
+                    "mimeType": "application/pdf",
+                    "size": "138331"
+                  },
+                  {
+                    "name": "3.El_método_gráfico1.pdf",
+                    "type": "file",
+                    "id": "1A2tzhJ7iYBsrDC80Z7vnpeaCyPYH_Gld",
+                    "mimeType": "application/pdf",
+                    "size": "983510"
+                  },
+                  {
+                    "name": "7.Simplex_Casos_especiales1.pdf",
+                    "type": "file",
+                    "id": "1smR_WpBviSQwyhjJqjUKslorkkDqvk6f",
+                    "mimeType": "application/pdf",
+                    "size": "67702"
+                  },
+                  {
+                    "name": "3.Formulación_de_problemas_de_Transporte_y_Asignación.pdf",
+                    "type": "file",
+                    "id": "1tVrL6mugl9z64QXhd-q4Kv4ElnNGKFy6",
+                    "mimeType": "application/pdf",
+                    "size": "536438"
+                  },
+                  {
+                    "name": "2.Problemas_formulación_modelos_PL-Solución1.pdf",
+                    "type": "file",
+                    "id": "1SwnmbilWsr-0WermcOPXOP3nISJzPKPK",
+                    "mimeType": "application/pdf",
+                    "size": "3946715"
+                  },
+                  {
+                    "name": "11.Separata_Dualidad-Análisis_de_Sensibilidad1.pdf",
+                    "type": "file",
+                    "id": "1f_k2rrWSDlPFPQYWO7bxttMpAv0zVq4I",
+                    "mimeType": "application/pdf",
+                    "size": "436906"
+                  },
+                  {
+                    "name": "15.Problema_Lineal_Entero_-_Solución1.pdf",
+                    "type": "file",
+                    "id": "1QwDJeHc5nVv7o2i6ewx1q2eWsliT3pQS",
+                    "mimeType": "application/pdf",
+                    "size": "1084754"
+                  },
+                  {
+                    "name": "1.Silabo_del_curso.pdf",
+                    "type": "file",
+                    "id": "1fr5uIwLf_Uz9EU6N5V637owBJkSzyaI0",
+                    "mimeType": "application/pdf",
+                    "size": "600411"
+                  },
+                  {
+                    "name": "9.El_problema_Dual.pdf",
+                    "type": "file",
+                    "id": "1rD0lBDL7JjY5RTupaFjJaHbStRpybT3S",
+                    "mimeType": "application/pdf",
+                    "size": "592896"
+                  }
+                ]
+              },
+              {
+                "name": "Planchas_Canelo",
+                "type": "folder",
+                "id": "1Sd9Rj4Ti7RZYgzwh6YTrmXMn60mayhYM",
+                "children": [
+                  {
+                    "name": "ES",
+                    "type": "folder",
+                    "id": "18L6jIk9l5x0BDglpX9UkwB4B7iX1-BBq",
+                    "children": [
+                      {
+                        "name": "SI501_ExSust_25II_Solución_Orce.pdf",
+                        "type": "file",
+                        "id": "1v6tmpbOqfJFbl2sahjWeu0jmhWjGFRmh",
+                        "mimeType": "application/pdf",
+                        "size": "12139"
+                      },
+                      {
+                        "name": "SI501_ExSust_21II.docx",
+                        "type": "file",
+                        "id": "1H6ARBVkKgxfmPQKqi0nGBQJby2yPWjyJ",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "66557"
+                      },
+                      {
+                        "name": "SI501_ExSust_23II_Solución_Orce_(1).pdf",
+                        "type": "file",
+                        "id": "1gtv_ApSU8Ao-PfMZWCj11VHLX8hKHSqt",
+                        "mimeType": "application/pdf",
+                        "size": "114071"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "EF",
+                    "type": "folder",
+                    "id": "1BhaWvm-kiuwCKLvsWv6LzruWYXOuyxov",
+                    "children": [
+                      {
+                        "name": "SI501_ExF_25II_Solucionario.pdf",
+                        "type": "file",
+                        "id": "1K6HqsT-Xb1mjrhzon181ULaxbpbqVWEM",
+                        "mimeType": "application/pdf",
+                        "size": "68497"
+                      },
+                      {
+                        "name": "SI501_EF_25-II_Canelo.pdf",
+                        "type": "file",
+                        "id": "1T3d37ppsxHmPoc6ukwt2qD1vWBE1Mu0D",
+                        "mimeType": "application/pdf",
+                        "size": "648048"
+                      },
+                      {
+                        "name": "Finales-IO1.pdf",
+                        "type": "file",
+                        "id": "1Nn_wpsr72niT8IgUbFAGdZC95i4FJGW0",
+                        "mimeType": "application/pdf",
+                        "size": "12405901"
+                      },
+                      {
+                        "name": "PLANCHAS_TOTALES_FINAL_(4).pdf",
+                        "type": "file",
+                        "id": "1-Fuh_O48_DybHbeKo70X9lgs1LRSVv7j",
+                        "mimeType": "application/pdf",
+                        "size": "1425538"
+                      },
+                      {
+                        "name": "Planchas_EF_IO1.pdf",
+                        "type": "file",
+                        "id": "1kH7eiyEZcGZQjKiLDwFfs087qaLmlSr7",
+                        "mimeType": "application/pdf",
+                        "size": "494372"
+                      },
+                      {
+                        "name": "SI501_ExF_21II_SOLU_(2).docx",
+                        "type": "file",
+                        "id": "1is-TilL-t2ZU6kELC2FnaWdWepTqihRn",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "860962"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "EP",
+                    "type": "folder",
+                    "id": "13m9rklT4t2fHVS5uR_BOJXcfOWe8imMt",
+                    "children": [
+                      {
+                        "name": "SI501_ExP_25II_Solucion_Orce.pdf",
+                        "type": "file",
+                        "id": "1RznLVpB65Zq54f5JUN93ixLx2iwN5bDk",
+                        "mimeType": "application/pdf",
+                        "size": "90830"
+                      },
+                      {
+                        "name": "SI501_EP_25-II_Canelo.pdf",
+                        "type": "file",
+                        "id": "1nYab2aGydKmNjq-dzUsqieQUZHXdj1jR",
+                        "mimeType": "application/pdf",
+                        "size": "548100"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "PC4",
+                    "type": "folder",
+                    "id": "16eJNQuvpaoHBr4LwTM41SFgX7OuO7oIZ",
+                    "children": [
+                      {
+                        "name": "SI501_PC4_25-II_Canelo.pdf",
+                        "type": "file",
+                        "id": "1Dbzdbjr0M49MB9I6tIVSr9WAFQMTCQYV",
+                        "mimeType": "application/pdf",
+                        "size": "604762"
+                      },
+                      {
+                        "name": "SI501_4PC_(4).docx",
+                        "type": "file",
+                        "id": "10yS_E1VEBWDc413nWnq2ws-tuJiFpjuu",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "63753"
+                      },
+                      {
+                        "name": "SI501_4PC_22I_(4).docx",
+                        "type": "file",
+                        "id": "1WO1hEtegSIrteL3FICnoAbS-kJ1kTRUT",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "95428"
+                      },
+                      {
+                        "name": "SI501_4PC_21II_(3).docx",
+                        "type": "file",
+                        "id": "1xkbNePpYWGNALU9cZeuOzq-jK4mWepdE",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "64879"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "PC3",
+                    "type": "folder",
+                    "id": "1IOMzTZN7quwWGlaFjnkaLVjmpw2LN-mN",
+                    "children": [
+                      {
+                        "name": "SI501_PC3_25-II_Canelo.pdf",
+                        "type": "file",
+                        "id": "1f7U-T0wM7v3W8_cGWAeqMtVzdthN14zM",
+                        "mimeType": "application/pdf",
+                        "size": "582505"
+                      },
+                      {
+                        "name": "SI501_3PC_21I.docx",
+                        "type": "file",
+                        "id": "1MZ39zS5SmXgH5wJ1ZJreBPnrpGhN25eY",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "67293"
+                      },
+                      {
+                        "name": "SI501_3PC_21II_(1).docx",
+                        "type": "file",
+                        "id": "1drAnvsqhOQuBFPDbKZ33DSgcPvbq0eOM",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "64120"
+                      },
+                      {
+                        "name": "SI501_3PC_22II_(3).docx",
+                        "type": "file",
+                        "id": "1TiyimdNkolrHApH6YzDEicJC_zkT1H28",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "64439"
+                      },
+                      {
+                        "name": "SI501_3PC_22I_(2).docx",
+                        "type": "file",
+                        "id": "1bPLLPqIg9K-4ioIkpfVPmmXJU4CGCvop",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "63169"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "PC2",
+                    "type": "folder",
+                    "id": "1P-TRtIWybsFlZXESCbsSaEhtShDUUMdg",
+                    "children": [
+                      {
+                        "name": "SI501_PC2_25-II_Canelo.pdf",
+                        "type": "file",
+                        "id": "172vBVuBHI6y_fFwFs1GEcg1R4l8oxvtl",
+                        "mimeType": "application/pdf",
+                        "size": "546024"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "PC1",
+                    "type": "folder",
+                    "id": "1wZigG-EyRQEf5k0ln8MozJIKTHf0eiZT",
+                    "children": [
+                      {
+                        "name": "SI501_PC1_25-II_Canelo.pdf",
+                        "type": "file",
+                        "id": "1DVw6gGA3B9Kr6fyQbc4nRaGfH_Awon4S",
+                        "mimeType": "application/pdf",
+                        "size": "636385"
+                      },
+                      {
+                        "name": "Solución_1ra_Práctica_(1).pdf",
+                        "type": "file",
+                        "id": "1UXsic5civeg9w3BHT_eTdTZTcqeeBVsp",
+                        "mimeType": "application/pdf",
+                        "size": "112011"
+                      },
+                      {
+                        "name": "Solución_1ra_Práctica.pdf",
+                        "type": "file",
+                        "id": "1d0DtA3nrQ_gsnR8o1K7MCK6IPq79xMJi",
+                        "mimeType": "application/pdf",
+                        "size": "112011"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "IO1_Canelo_y_Medina.pdf",
+                "type": "file",
+                "id": "1ulQtUkI05bmTbbdNWLRe7HV9dvcZIkTV",
+                "mimeType": "application/pdf",
+                "size": "2604067"
+              }
+            ]
+          },
+          {
+            "name": "Material_Eyzaguirre",
+            "type": "folder",
+            "id": "1s0hsq6KjuX-c4SXLd6a5VuQAHtQXlxKu",
+            "children": [
+              {
+                "name": "Teoria_de_la_Dualidad.pdf",
+                "type": "file",
+                "id": "1MWog__mJtTfW7oROaNxsZtKZuSFIHtix",
+                "mimeType": "application/pdf",
+                "size": "386853"
+              },
+              {
+                "name": "Int._Econ._de_Dualidad.pdf",
+                "type": "file",
+                "id": "1qmlcJsRI5tGo9mFsrAzKiaH8F0zWa83o",
+                "mimeType": "application/pdf",
+                "size": "82705"
+              },
+              {
+                "name": "LIBRO_OPE_I_2009_0.pdf",
+                "type": "file",
+                "id": "1UgqpRymXw1lqUxYugu9T6ABm5KoAhR0q",
+                "mimeType": "application/pdf",
+                "size": "6820586"
+              },
+              {
+                "name": "Teoria_de_la_DUALIDAD.ppt",
+                "type": "file",
+                "id": "12BrcrfhZ-qhSqrKVlqxn2AXUdUn0wE30",
+                "mimeType": "application/vnd.ms-powerpoint",
+                "size": "214016"
+              },
+              {
+                "name": "PROG._ENTERA(6)_Eyzagirre.doc",
+                "type": "file",
+                "id": "1NcLi2YeMJmD_BYoIyDXYxH-60nwLc-VP",
+                "mimeType": "application/msword",
+                "size": "271360"
+              },
+              {
+                "name": "MANUAL_LINGO_2013-2.docx",
+                "type": "file",
+                "id": "1j363dQvwY4g-PiGz_HoXY08174evfLNr",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "2887695"
+              },
+              {
+                "name": "a_SENSIBILIDAD.docx",
+                "type": "file",
+                "id": "1SRA8SEuEs9VqpnEZ7FWs4td-TtjNi7f1",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "17062"
+              },
+              {
+                "name": "Monografia_DUALIDAD.pdf",
+                "type": "file",
+                "id": "1Wo1SP3ESg5zEK4novUDhgkGZ88W0a0eT",
+                "mimeType": "application/pdf",
+                "size": "442126"
+              }
+            ]
+          },
+          {
+            "name": "Material_Álvarez",
+            "type": "folder",
+            "id": "1PYUkRhDGEZiWFTRktEKoV7ZvgMcuv5H0",
+            "children": [
+              {
+                "name": "Sesiones",
+                "type": "folder",
+                "id": "19DtCKDEcWjJQ86j2ThCH9vnpwwlgaa3J",
+                "children": [
+                  {
+                    "name": "Semana_1",
+                    "type": "folder",
+                    "id": "1jYDYZ2QeaWI0mEeauzeGttcEsDfVWLKC",
+                    "children": [
+                      {
+                        "name": "Sesión_2_Capturas.docx",
+                        "type": "file",
+                        "id": "1XhJYlFYBVAxarI4gYx3EmvWeNl9TtU2h",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "4497216"
+                      },
+                      {
+                        "name": "Clase_2.pptx",
+                        "type": "file",
+                        "id": "1tqIP8Rgx2Y4UIa0uMpGCjXeJ1ewM4P9L",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "1437864"
+                      },
+                      {
+                        "name": "MODELO_DE_DECISIÓN_SIMPLE_2020_I.pdf",
+                        "type": "file",
+                        "id": "1y0DX12P56vB22Rs7ppki0BV3W3Wl0W7L",
+                        "mimeType": "application/pdf",
+                        "size": "539717"
+                      },
+                      {
+                        "name": "CLASE_01.pptx",
+                        "type": "file",
+                        "id": "1UL8PEB-XYNPjrDX25al5zARk51KKfYSg",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "1540795"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Semana_4",
+                    "type": "folder",
+                    "id": "1zgnxzlKTsyH5V64iUKKsCRpmd6Rp8-SA",
+                    "children": [
+                      {
+                        "name": "Semana_4_clase_8_Capturas.docx",
+                        "type": "file",
+                        "id": "1Z6H8ptCsv1w4zDH8TmdPoFH-TcUnO11f",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "2998429"
+                      },
+                      {
+                        "name": "CLASE_07_Y_PRIMERA_PRÁCTICA_CALIFICADA_Y_(1).docx",
+                        "type": "file",
+                        "id": "1gr0S-J93xUGryn09CLgb0VVANOfYC3xP",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "21933"
+                      },
+                      {
+                        "name": "MÉTODO_SIMPLEX_TABULAR_-_plataforma.pdf",
+                        "type": "file",
+                        "id": "112xLiq5v3OMcF0dfwJzToSTu1PK1f2ZM",
+                        "mimeType": "application/pdf",
+                        "size": "185128"
+                      },
+                      {
+                        "name": "CLASE_08_W.pptx",
+                        "type": "file",
+                        "id": "1VEnfSP0ktR6fPV6ZrDxi30s_3vOj45TM",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "1196744"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Semana_3",
+                    "type": "folder",
+                    "id": "1nOjSQM2opYmqxDpn8kp1UkENWCuo4l7p",
+                    "children": [
+                      {
+                        "name": "Sesión_6_Capturas.docx",
+                        "type": "file",
+                        "id": "1F-0QviC6nH_sVrbHGQ8rjwGiYBkYEsTE",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "4244887"
+                      },
+                      {
+                        "name": "CLASE_O6_ALUMNOS.pptx",
+                        "type": "file",
+                        "id": "1slzMAWYt3EOZwjhR6klCqk3i_NP3DnjT",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "1066413"
+                      },
+                      {
+                        "name": "Sesión_5_Capturas.docx",
+                        "type": "file",
+                        "id": "1f-uD6P-9VuL8LJDGDGSzPFM_DX8sqTnl",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "4199012"
+                      },
+                      {
+                        "name": "PROBLEMA_PROGRAMA_LINEAL.pdf",
+                        "type": "file",
+                        "id": "1xs0I5UUZ3su4moF4sqyOOa0bM4tSC9gA",
+                        "mimeType": "application/pdf",
+                        "size": "408559"
+                      },
+                      {
+                        "name": "CLASE_05.pptx",
+                        "type": "file",
+                        "id": "1sgS4Hz3nqjRWH-o0NE0999ysqyW3l-7R",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "1072924"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Semana_2",
+                    "type": "folder",
+                    "id": "1PRimKsApVopSkxfsUhVGxe6GmjtbXM65",
+                    "children": [
+                      {
+                        "name": "CLASE_04.pptx",
+                        "type": "file",
+                        "id": "18JC8TkLINk8BAdj0VF0MBGuj41bMYyF8",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "1134643"
+                      },
+                      {
+                        "name": "Solucionario_Clase_3.pdf",
+                        "type": "file",
+                        "id": "1l747JJ4iMHYlFW8z4vSAv1ytn6ZA-ml3",
+                        "mimeType": "application/pdf",
+                        "size": "736999"
+                      },
+                      {
+                        "name": "CLASE_03.pptx",
+                        "type": "file",
+                        "id": "1og_ZWza9u7teqwK-U72yyVpKp-nam7Ui",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "1201359"
+                      },
+                      {
+                        "name": "Sesión_3_Capturas.docx",
+                        "type": "file",
+                        "id": "15oPNtHBEkJ1-KBacqwNIWnpKsI3sP1IL",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "4434949"
+                      },
+                      {
+                        "name": "Sesión_4_Capturas.docx",
+                        "type": "file",
+                        "id": "1F9eRi5vPe_3f_ITWv5GdsM2rRZwQPn7n",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "4267857"
+                      },
+                      {
+                        "name": "CLASE_03_Solución.pptx",
+                        "type": "file",
+                        "id": "1E8Q1Ly7adQNbb2Lc1Jg71FqmsDKlvN0q",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "1334925"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Pruebas",
+                "type": "folder",
+                "id": "1URoyZK8qi8ugZ9sHmX95axFhb7i7a8Gp",
+                "children": [
+                  {
+                    "name": "PC1_W.docx",
+                    "type": "file",
+                    "id": "1bCcduTGGvzeL6nIgdAP7zZ7zzEF97WrY",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "23704"
+                  },
+                  {
+                    "name": "Solución_2.docx",
+                    "type": "file",
+                    "id": "1UZxPby5zCxKpPv9QB28532dNlZEflk6G",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "529350"
+                  },
+                  {
+                    "name": "Solución_1.docx",
+                    "type": "file",
+                    "id": "1huH6saB4NZC2JdOb0tK8PTPV2NzIYg77",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "459632"
+                  }
+                ]
+              },
+              {
+                "name": "Alvarez",
+                "type": "folder",
+                "id": "1zP_5rJeP5gtMwihQsH6ZJObauvLJNClP",
+                "children": [
+                  {
+                    "name": "ANÁLISIS_DE_SENSIBILIDAD_-_alumno_IMPRIMIR.pdf",
+                    "type": "file",
+                    "id": "1HclXDrZlyYrSxEpnn6oirwmBqcwJaVKK",
+                    "mimeType": "application/pdf",
+                    "size": "4414588"
+                  },
+                  {
+                    "name": "SEMINARIO_DE_SENSIBILIDAD_-_alumno.pdf",
+                    "type": "file",
+                    "id": "13Ol8giUIllySjvHWQjz0cb4BTUOqh3eT",
+                    "mimeType": "application/pdf",
+                    "size": "4261884"
+                  },
+                  {
+                    "name": "PROGRAMACION_LINEAL_ENTERA_-_SEMINARIO_ALUMNOS.pdf",
+                    "type": "file",
+                    "id": "1MwAnXPnEBCxZ7oT_ir9OLiwChiDxrJUB",
+                    "mimeType": "application/pdf",
+                    "size": "2959635"
+                  },
+                  {
+                    "name": "SI501_Investigación_de_operaciones_I.html",
+                    "type": "file",
+                    "id": "1PZNu4xc21Rla548yvfRStINhi5QIDiPX",
+                    "mimeType": "text/html",
+                    "size": "464"
+                  },
+                  {
+                    "name": "cuaderno_de_Investigación_de_Operaciones_v_3.0.pdf",
+                    "type": "file",
+                    "id": "1v4PBQkbTE7vbCeqZ5iPbF0YODjC-1Dk9",
+                    "mimeType": "application/pdf",
+                    "size": "43704549"
+                  },
+                  {
+                    "name": "CAMBIOS_EN_LOS_COEFICIENTES_TECNOLOGICOS_ALUMNO.pdf",
+                    "type": "file",
+                    "id": "11Z2jYV-V_OpQ9Xz1C4QfrzzMS-yOBpJc",
+                    "mimeType": "application/pdf",
+                    "size": "1263363"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Planchas",
+        "type": "folder",
+        "id": "1oSWM0lQcXlgTtoftOXAs-7HRxlqqYhLk",
+        "children": [
+          {
+            "name": "PC4",
+            "type": "folder",
+            "id": "1Y0C9PNDMyjYtUX9JRUxazHMdmsTP7ezo",
+            "children": [
+              {
+                "name": "SI501_PC4_25-II_Canelo.pdf",
+                "type": "file",
+                "id": "1aReEe8hALqqFcOyEXHLcEiRvupMo9Xgy",
+                "mimeType": "application/pdf",
+                "size": "604762"
+              },
+              {
+                "name": "SI501_PC4_26-1_U.jpeg",
+                "type": "file",
+                "id": "1zZNckDarDL5HKLAb_SCENZ4FQJIArQay",
+                "mimeType": "image/jpeg",
+                "size": "161943"
+              },
+              {
+                "name": "4PCs-IO1.pdf",
+                "type": "file",
+                "id": "1pFErQSEJY7NCKzez98r-68BDAq9zI1T7",
+                "mimeType": "application/pdf",
+                "size": "4677515"
+              },
+              {
+                "name": "Medina_pc4.jpg",
+                "type": "file",
+                "id": "1Bwf5ehMstoVh3wdy8R1zzkAF5pZRYfHl",
+                "mimeType": "image/jpeg",
+                "size": "56860"
+              },
+              {
+                "name": "Medina_PRACTICA_CALIFICA_N°4_.pdf",
+                "type": "file",
+                "id": "1_SHVZYtlUMZkkwh4QxE08HQ7YTtIAMEE",
+                "mimeType": "application/pdf",
+                "size": "169995"
+              },
+              {
+                "name": "PC4_Alvarez.pdf",
+                "type": "file",
+                "id": "1PuJdE3JJZr9UbFx4CdlraCUxNMtEyqd8",
+                "mimeType": "application/pdf",
+                "size": "769270"
+              },
+              {
+                "name": "Lostanau_4pc1.jpg",
+                "type": "file",
+                "id": "1PBvIzKPFDDVZjKPU0lRlRY1wr_IEC66e",
+                "mimeType": "image/jpeg",
+                "size": "58592"
+              },
+              {
+                "name": "Lostanau_4pc.jpg",
+                "type": "file",
+                "id": "1DOS2I1l0Bw-T8QngPwT-JG6YttqmYT1p",
+                "mimeType": "image/jpeg",
+                "size": "63619"
+              },
+              {
+                "name": "PC4_Lostanau.pdf",
+                "type": "file",
+                "id": "1ajNuyIzhXOLKnEhWhJ5DgXw-97W1vqzD",
+                "mimeType": "application/pdf",
+                "size": "7081016"
+              }
+            ]
+          },
+          {
+            "name": "EP",
+            "type": "folder",
+            "id": "17jSccxmxgpBWWgr6x2D1a9IjXHHGnynS",
+            "children": [
+              {
+                "name": "SI501_EP_25-II_Canelo.pdf",
+                "type": "file",
+                "id": "167IYRJaLl5CdThlVHTcsMjYOQ2Yc5MGe",
+                "mimeType": "application/pdf",
+                "size": "548100"
+              },
+              {
+                "name": "SI501_ExP_25II_Solucion_Orce.pdf",
+                "type": "file",
+                "id": "1s8fptoCZdLxjm_c-3P1Thh5dlK13s81F",
+                "mimeType": "application/pdf",
+                "size": "90830"
+              },
+              {
+                "name": "IO1_PARCIAL.pdf",
+                "type": "file",
+                "id": "1iB6DK6DOSJ57n8_M9QYsYJYK1DCoJeNH",
+                "mimeType": "application/pdf",
+                "size": "17491958"
+              },
+              {
+                "name": "IO_Alvarez_EP.pdf",
+                "type": "file",
+                "id": "1Ldzz3PZmQrY3kTWh2B6bzXpSZcY0_Y9v",
+                "mimeType": "application/pdf",
+                "size": "11835550"
+              },
+              {
+                "name": "EP_Medina.pdf",
+                "type": "file",
+                "id": "178M1CGvklmeTRMPLhzwgteQuIoy0Lmtq",
+                "mimeType": "application/pdf",
+                "size": "19610167"
+              },
+              {
+                "name": "Parciales-IO1.pdf",
+                "type": "file",
+                "id": "1znAdoufspwT-sCSX0JubGaGkIFy24Qk6",
+                "mimeType": "application/pdf",
+                "size": "10237078"
+              },
+              {
+                "name": "IO_Eizaguirre_EP(1).pdf",
+                "type": "file",
+                "id": "13F_pCeJEVSNLJaHcTIQBPe9aS-XXRhcM",
+                "mimeType": "application/pdf",
+                "size": "4639992"
+              },
+              {
+                "name": "Alvarez_parcial_2_(1).jpg",
+                "type": "file",
+                "id": "1YqWsuwhmuScJYeNgk5uZsH73TX1vlf4k",
+                "mimeType": "image/jpeg",
+                "size": "44260"
+              },
+              {
+                "name": "Alvarez_parcial_2.jpg",
+                "type": "file",
+                "id": "1UMy6VogWCdlpNeHRTj8012-vAXCpGH0f",
+                "mimeType": "image/jpeg",
+                "size": "64539"
+              },
+              {
+                "name": "IO1_PARCIAL_19-1.pdf",
+                "type": "file",
+                "id": "1vImyiftG24Ra90Zx29hiDc2_NhWu6VB7",
+                "mimeType": "application/pdf",
+                "size": "142893"
+              },
+              {
+                "name": "EP_Alvarez.pdf",
+                "type": "file",
+                "id": "18yHfk3ZwATt5zOdtAl4AkIC1xuwGr-rm",
+                "mimeType": "application/pdf",
+                "size": "11835550"
+              },
+              {
+                "name": "IO_Medina_EP(1).pdf",
+                "type": "file",
+                "id": "1sE9pEHoASfzDn0x07oUTPs7KgSjezg1X",
+                "mimeType": "application/pdf",
+                "size": "19610167"
+              },
+              {
+                "name": "IO1_PARCIAL_17-2_V.jpg",
+                "type": "file",
+                "id": "1kWmAUwNadmZMu22nScu_uH8eUNxembvH",
+                "mimeType": "image/jpeg",
+                "size": "4204659"
+              },
+              {
+                "name": "IO1_PARCIAL_17-2_V_2.jpg",
+                "type": "file",
+                "id": "1cuVd9u9zGjYj9Dli8YNjDM4U1cFf_lG6",
+                "mimeType": "image/jpeg",
+                "size": "2678062"
+              },
+              {
+                "name": "Alvarez_EXAMEN_PARCIAL_INVESTIGACION_DE_OPERACIONES_I.pdf",
+                "type": "file",
+                "id": "1aIWiZG9FP7jhKni7jM_RLUohyI2_x6fn",
+                "mimeType": "application/pdf",
+                "size": "129742"
+              },
+              {
+                "name": "Alvarez_pacial_1.jpg",
+                "type": "file",
+                "id": "1N_wJitOLQjo-LnHRX7CSA1LwPN8O-ttq",
+                "mimeType": "image/jpeg",
+                "size": "81118"
+              },
+              {
+                "name": "EP_Eyzaguirre.pdf",
+                "type": "file",
+                "id": "1NajtzYe9uHFReo30px1TWoFiHxfc6Twn",
+                "mimeType": "application/pdf",
+                "size": "4639992"
+              },
+              {
+                "name": "Alvarez_Parcial_1.jpg",
+                "type": "file",
+                "id": "1B7upM_IqmGuaZaATtdu57_se7uUDB-_x",
+                "mimeType": "image/jpeg",
+                "size": "89380"
+              },
+              {
+                "name": "Alvarez_EXAMEN_PARCIAL_INVESTIGACION_DE_OPERACIONES_I.docx",
+                "type": "file",
+                "id": "1gTzRjS_bw5ZO60_ZbqZocy7G98RXvWXg",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "28186"
+              },
+              {
+                "name": "Eyzaguirre-ExamenParcial-ST113X.pdf",
+                "type": "file",
+                "id": "1Ts8N9Sb0rF-quQrWL90l_apqn7xPWwFE",
+                "mimeType": "application/pdf",
+                "size": "106511"
+              },
+              {
+                "name": "Medina_EXAMEN_PARCIAL_IO_1_2020-I_SOLUCION.pdf",
+                "type": "file",
+                "id": "1_CZie7kIGpDkRlvR32xqZxeyWe4JvDmm",
+                "mimeType": "application/pdf",
+                "size": "266382"
+              },
+              {
+                "name": "EP_Eizaguirre.pdf",
+                "type": "file",
+                "id": "1Jbb_0vbgsOdIOVQHKJ0IaUAPxCMNO5cf",
+                "mimeType": "application/pdf",
+                "size": "3332260"
+              },
+              {
+                "name": "Alvarez_parcial_3.jpg",
+                "type": "file",
+                "id": "1LZx3OFfYhd0mo2v6lh5hZGvEbv2iXW44",
+                "mimeType": "image/jpeg",
+                "size": "44952"
+              },
+              {
+                "name": "Parcial_19-2.jpg",
+                "type": "file",
+                "id": "1Z7CLSioVkvCcSicTOdI9cEkRyG9nJ4Oz",
+                "mimeType": "image/jpeg",
+                "size": "57410"
+              },
+              {
+                "name": "pacial_19-2_2.jpg",
+                "type": "file",
+                "id": "1BxOL7MqKcbRpu_cUY1Rn17z-XDjHDIV8",
+                "mimeType": "image/jpeg",
+                "size": "62516"
+              },
+              {
+                "name": "EP_Eyzaguirre_18-2.jpeg",
+                "type": "file",
+                "id": "1ddHAWErBzcYD8S8_MG88Pbbn8E51RPfx",
+                "mimeType": "image/jpeg",
+                "size": "53992"
+              },
+              {
+                "name": "IO_Medina_EP.pdf",
+                "type": "file",
+                "id": "1bsPYrEPANOxAbiVp9q4YXnqsuA8AClrG",
+                "mimeType": "application/pdf",
+                "size": "19610167"
+              },
+              {
+                "name": "IO_Eizaguirre_EP.pdf",
+                "type": "file",
+                "id": "1dmvHwxd8pAYgNDFmDml3RKm-Lv1lw4NI",
+                "mimeType": "application/pdf",
+                "size": "4639992"
+              }
+            ]
+          },
+          {
+            "name": "EF",
+            "type": "folder",
+            "id": "1Ft2m-TI-HQUGLVPooYtkrkclrsVUOnh2",
+            "children": [
+              {
+                "name": "SI501_EF_25-II_Canelo.pdf",
+                "type": "file",
+                "id": "14c--Zl-b5O_SGAgyyP7NO1B9IMPvC4Qz",
+                "mimeType": "application/pdf",
+                "size": "648048"
+              },
+              {
+                "name": "SI501_ExF_25II_Solucionario.pdf",
+                "type": "file",
+                "id": "1qFfKLfzPrDOxxlQbmhqsiq4wbMGJLWxw",
+                "mimeType": "application/pdf",
+                "size": "68497"
+              },
+              {
+                "name": "EXAMEN_FINAL_IO1_(1).docx",
+                "type": "file",
+                "id": "1I0yRAfVYdwuKnIM-0mGzkXPwgqMQUveI",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "33424"
+              },
+              {
+                "name": "4fd6df4a-3d4c-4acd-ab67-c760f5696038.jpg",
+                "type": "file",
+                "id": "1W5_y5ko1fdHOsyl-p3RRkccEfQS6louq",
+                "mimeType": "image/jpeg",
+                "size": "288478"
+              },
+              {
+                "name": "Medina_EXAMEN_FINAL_SI-501_V_2020_-_II_PREGUNTA_1_SOLUCIONARIO.xlsx",
+                "type": "file",
+                "id": "1v6PUSxLTfgPB4FvNZ6WKHBT0lJKJ8kBb",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "58014"
+              },
+              {
+                "name": "Medina_EXAMEN_FINAL_IO1_.docx",
+                "type": "file",
+                "id": "1ZD5sdFAZjrsjmdL6xHnVyez_1O70EuQK",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "30394"
+              },
+              {
+                "name": "Lostanau_final_5.jpg",
+                "type": "file",
+                "id": "1Yv1sJbkKiC0Su2UDkLlowCFfaQio8pwl",
+                "mimeType": "image/jpeg",
+                "size": "39867"
+              },
+              {
+                "name": "EX_FINAL-UNMSM_00-2.doc",
+                "type": "file",
+                "id": "1RgMZDOFPI_McA2nhOmy05h7beqksWyJa",
+                "mimeType": "application/msword",
+                "size": "32768"
+              },
+              {
+                "name": "Final_19-2_2.jpg",
+                "type": "file",
+                "id": "1aWvrjJ79UNq6X3LnB59L2hNnc7X7q-f1",
+                "mimeType": "image/jpeg",
+                "size": "69367"
+              },
+              {
+                "name": "Final_19-2_1.jpg",
+                "type": "file",
+                "id": "1puGibe3Vui0Tcuqd8f0l85guJchOIQsT",
+                "mimeType": "image/jpeg",
+                "size": "106640"
+              },
+              {
+                "name": "IO1_FINAL_18-1_V.jpg",
+                "type": "file",
+                "id": "1EkY389XmryphvoANQxemK7Sb0BJaKsI0",
+                "mimeType": "image/jpeg",
+                "size": "4630869"
+              },
+              {
+                "name": "Lostanau_final_3.jpg",
+                "type": "file",
+                "id": "1hlQBPpUBYopPg8cb2bFKXJ906XPkVq8w",
+                "mimeType": "image/jpeg",
+                "size": "53070"
+              },
+              {
+                "name": "IO1_FINAL_17-2_V.jpg",
+                "type": "file",
+                "id": "1X7EThvxLumCaEPk4PAz1rijuCYpalAPU",
+                "mimeType": "image/jpeg",
+                "size": "4031823"
+              },
+              {
+                "name": "Medina_3_final.jpg",
+                "type": "file",
+                "id": "1D641N_ZcRCDA2DskjnF58MrydVfFi871",
+                "mimeType": "image/jpeg",
+                "size": "341031"
+              },
+              {
+                "name": "Lostanau_final.jpg",
+                "type": "file",
+                "id": "1lpqbch9lewNsZj0DO4MkQKi6pf2VNRuU",
+                "mimeType": "image/jpeg",
+                "size": "53555"
+              },
+              {
+                "name": "EF_Alvarez_2.pdf",
+                "type": "file",
+                "id": "1NiOCbbUNaHklwers4o6SsUt4Sy16IPh7",
+                "mimeType": "application/pdf",
+                "size": "12249846"
+              },
+              {
+                "name": "4296986c-15fd-4ef1-a78a-068affea4454.jpg",
+                "type": "file",
+                "id": "1AEC0EeN5i8Q-w4J-SNn2Wj8CjvhzuPjG",
+                "mimeType": "image/jpeg",
+                "size": "75760"
+              },
+              {
+                "name": "EX_FIN_verano_01.doc",
+                "type": "file",
+                "id": "1LynVVvLi7NfAruIJyPs1Zb_9fETu4F1c",
+                "mimeType": "application/msword",
+                "size": "33792"
+              },
+              {
+                "name": "Eyzaguirre_final_2.jpg",
+                "type": "file",
+                "id": "1yEZbJnKZ_ZJfd-e080uEUtbBABPsbDza",
+                "mimeType": "image/jpeg",
+                "size": "74554"
+              },
+              {
+                "name": "Alvarez_Finales-IO1.pdf",
+                "type": "file",
+                "id": "1Yo1YuLPyoOxg-z1e5ldqatjdfyU74xzp",
+                "mimeType": "application/pdf",
+                "size": "12405901"
+              },
+              {
+                "name": "IO1_FINAL_19-1.pdf",
+                "type": "file",
+                "id": "14rmBEvjgA4qG8qdKlZYWJPgLiBL4T_qB",
+                "mimeType": "application/pdf",
+                "size": "296253"
+              },
+              {
+                "name": "IO1_FINAL_18-1_V2.jpg",
+                "type": "file",
+                "id": "1sLBCzD1WpT2LlJ44mXTNqCOr0_brn9Sr",
+                "mimeType": "image/jpeg",
+                "size": "3824165"
+              },
+              {
+                "name": "Medina_EXAMEN_FINAL_SI-501_V_2020_-_II_PREGUNTA_1_SOLUCIONARIO-DESKTOP-CA2C41H.xlsx",
+                "type": "file",
+                "id": "1MobJZjab6zux3Q1Jl3_p64lm0JPglicC",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "56967"
+              },
+              {
+                "name": "Lostanau_final_2.jpg",
+                "type": "file",
+                "id": "13Ab5E1-5u_CU5cHlSnhnanmcyHkkCI_Z",
+                "mimeType": "image/jpeg",
+                "size": "53016"
+              },
+              {
+                "name": "Final_19-2_3.jpg",
+                "type": "file",
+                "id": "1ZcnnLhttcCWUKATCAH4q4hVE57Lc9ASL",
+                "mimeType": "image/jpeg",
+                "size": "103077"
+              },
+              {
+                "name": "Alvarez_Finales_sustis_io1_Álvarez.pdf",
+                "type": "file",
+                "id": "1uV6XErDPQy_9iBjJHFunAirWXmcnNEmO",
+                "mimeType": "application/pdf",
+                "size": "13430392"
+              },
+              {
+                "name": "Eyzaguirre_final_1.jpg",
+                "type": "file",
+                "id": "1yahXYiLAolSsfs22TsOarh299BlX_-Rb",
+                "mimeType": "image/jpeg",
+                "size": "53523"
+              },
+              {
+                "name": "Lostanau_final_4.jpg",
+                "type": "file",
+                "id": "1eQ7rcwBjLyVlluocPLkcpljpmvfMi-SZ",
+                "mimeType": "image/jpeg",
+                "size": "75721"
+              },
+              {
+                "name": "EX_FIN_IO1_2018-1.docx",
+                "type": "file",
+                "id": "13UlEO7z6WocEkzh1dZyLnEiCYsrKu9eX",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "17710"
+              },
+              {
+                "name": "Medina_4_final.jpg",
+                "type": "file",
+                "id": "1FHp1x9EN160WotAN7EiYLZwQzNKIh_5n",
+                "mimeType": "image/jpeg",
+                "size": "272713"
+              },
+              {
+                "name": "Medina_1_final.jpg",
+                "type": "file",
+                "id": "12XUCjEt5gjGsSHuJqpVGW7rQ-ey_E1XW",
+                "mimeType": "image/jpeg",
+                "size": "325141"
+              },
+              {
+                "name": "IO1_FINAL_17-2_V_2.jpg",
+                "type": "file",
+                "id": "1g0_5pW4HIaZkGOlSQE723Hmpa1YEvyhg",
+                "mimeType": "image/jpeg",
+                "size": "3248568"
+              },
+              {
+                "name": "EF_Alvarez.pdf",
+                "type": "file",
+                "id": "1OiI5fG_4ZnoxeyHfl1xXiZirTBeC0Ncm",
+                "mimeType": "application/pdf",
+                "size": "1542998"
+              },
+              {
+                "name": "Eyzaguirre_final_3.jpg",
+                "type": "file",
+                "id": "1jiWShhtzMmEULASWI1G7UOTv_0n9QR1u",
+                "mimeType": "image/jpeg",
+                "size": "21329"
+              },
+              {
+                "name": "Finales-IO1.pdf",
+                "type": "file",
+                "id": "16fMSHuNlpMzaSOMRCm74qCz8S0bMN17a",
+                "mimeType": "application/pdf",
+                "size": "12405901"
+              },
+              {
+                "name": "Medina_2_final.jpg",
+                "type": "file",
+                "id": "1yg1GviaZiLrs2TJboRgWmDi-A7YvoDXU",
+                "mimeType": "image/jpeg",
+                "size": "130983"
+              },
+              {
+                "name": "EF.pdf",
+                "type": "file",
+                "id": "1ZT3TNtPrZMjJSMj221JpZOEV_pDF929U",
+                "mimeType": "application/pdf",
+                "size": "1614987"
+              }
+            ]
+          },
+          {
+            "name": "ES",
+            "type": "folder",
+            "id": "1Kpzjm6zfPSJroOsnaPjQhbhWxkhx7Lc4",
+            "children": [
+              {
+                "name": "SI501_ExSust_25II_Solución_Orce.pdf",
+                "type": "file",
+                "id": "1OptkCFVpwkjfshzeX9hM25QJ0o9T_lu1",
+                "mimeType": "application/pdf",
+                "size": "12139"
+              },
+              {
+                "name": "ES_Alvarez.pdf",
+                "type": "file",
+                "id": "16aUteFM4kuw49Gcij9qyV4vyoNOFmlBa",
+                "mimeType": "application/pdf",
+                "size": "9667823"
+              },
+              {
+                "name": "IO1_SUSTI_17-2_V.jpg",
+                "type": "file",
+                "id": "1kJPGSYxbKpDR1ZyzqDKSs73YSvp6MyuX",
+                "mimeType": "image/jpeg",
+                "size": "5078742"
+              },
+              {
+                "name": "IO1_SUSTI_18-1_V.pdf",
+                "type": "file",
+                "id": "1Q6aQo1GHMRGtZM_ZZfIUNakMxwqVEABu",
+                "mimeType": "application/pdf",
+                "size": "179637"
+              },
+              {
+                "name": "Alvarez_Susti_20-1_4.jpg",
+                "type": "file",
+                "id": "1vDduDXpc5dgeHMcVqsup-I6KHXL--5qf",
+                "mimeType": "image/jpeg",
+                "size": "131028"
+              },
+              {
+                "name": "Susti-IO1.pdf",
+                "type": "file",
+                "id": "1VIEvHX0B8qwdbU9zkKxt4ceRKbRYs85i",
+                "mimeType": "application/pdf",
+                "size": "1029174"
+              },
+              {
+                "name": "Alvarez_Susti_20-1_3.jpg",
+                "type": "file",
+                "id": "120Glq0SF8qiRg0hE3286XyCAVq0yLBRQ",
+                "mimeType": "image/jpeg",
+                "size": "240985"
+              },
+              {
+                "name": "Eyzagirre-ExamenSustitutorio-ST113X-061020v01.pdf",
+                "type": "file",
+                "id": "1N-OX0USH4oGtd1WrHdfxj6g2csQn7jUr",
+                "mimeType": "application/pdf",
+                "size": "109630"
+              },
+              {
+                "name": "Alvarez_Susti_20-1_2.jpg",
+                "type": "file",
+                "id": "16TndYBJXeOk03kzMlmeMjTb9WvhqAVYU",
+                "mimeType": "image/jpeg",
+                "size": "16595"
+              },
+              {
+                "name": "Alvarez_Susti_20-1_5.jpg",
+                "type": "file",
+                "id": "1P1RhOIPxuKp7-dAHILk4MpyHURIfovSP",
+                "mimeType": "image/jpeg",
+                "size": "94354"
+              },
+              {
+                "name": "IO1_SUSTI_17-2_V_2.jpg",
+                "type": "file",
+                "id": "1LxbRkLJm1x9skUXAyaJB0WMubwReb3Ma",
+                "mimeType": "image/jpeg",
+                "size": "4083467"
+              },
+              {
+                "name": "Alvarez_Susti_20-1_6.jpg",
+                "type": "file",
+                "id": "1fybpLGsQAI6UZvGW1WLxXT4TmIlwALDK",
+                "mimeType": "image/jpeg",
+                "size": "162989"
+              },
+              {
+                "name": "IO1_SUSTI_19-1_X.pdf",
+                "type": "file",
+                "id": "1GEgROuOZmX52Dic5P1Nnfh7DxZ7wECat",
+                "mimeType": "application/pdf",
+                "size": "107686"
+              }
+            ]
+          },
+          {
+            "name": "PC3",
+            "type": "folder",
+            "id": "1AoJwiKAc6TXr3_ypvDAKwUrctHdiYK8U",
+            "children": [
+              {
+                "name": "SI501_PC3_25-II_Canelo.pdf",
+                "type": "file",
+                "id": "13CBGSMKPQRPyjt46sIJGDYK1ngKTwXze",
+                "mimeType": "application/pdf",
+                "size": "582505"
+              },
+              {
+                "name": "Alvarez_pc3",
+                "type": "folder",
+                "id": "1UzLHTwkvNFDOUQYtCJ6VamnLPZW5SXr6",
+                "children": [
+                  {
+                    "name": "SI501_PC3_25-II_Canelo.pdf",
+                    "type": "file",
+                    "id": "1F9y6c8Hyq30oXlzXoxvndrzpmiDagu5l",
+                    "mimeType": "application/pdf",
+                    "size": "582505"
+                  },
+                  {
+                    "name": "Alvarez_pc3_8.jpg",
+                    "type": "file",
+                    "id": "1bmrbyV_wGiW5rMromT75NhH3c6YVu-7K",
+                    "mimeType": "image/jpeg",
+                    "size": "180001"
+                  },
+                  {
+                    "name": "Alvarez_pc3_2.jpg",
+                    "type": "file",
+                    "id": "13Ds5RJ7hVem3cDoZ2CW0WE9-6714Bof4",
+                    "mimeType": "image/jpeg",
+                    "size": "260002"
+                  },
+                  {
+                    "name": "Alvarez_pc3_13.jpg",
+                    "type": "file",
+                    "id": "1ITHNfBqWtXy9Nrd6AyiQqi4oW-5XZXtt",
+                    "mimeType": "image/jpeg",
+                    "size": "235436"
+                  },
+                  {
+                    "name": "Alvarez_pc3_11.jpg",
+                    "type": "file",
+                    "id": "1hSG6kfnhLZaDuVDHEdmVAOruhOoIv0Tl",
+                    "mimeType": "image/jpeg",
+                    "size": "245044"
+                  },
+                  {
+                    "name": "Alvarez_pc3_6.jpg",
+                    "type": "file",
+                    "id": "1H8eW8zbjIO3F90NAgk0IyqfLqrFoONOd",
+                    "mimeType": "image/jpeg",
+                    "size": "587432"
+                  },
+                  {
+                    "name": "Alvarez_pc3_10.jpg",
+                    "type": "file",
+                    "id": "1whahOsNdt6gomN0ZmaKUREi3DlrpxEEV",
+                    "mimeType": "image/jpeg",
+                    "size": "262498"
+                  },
+                  {
+                    "name": "Alvarez_pc3_4.jpg",
+                    "type": "file",
+                    "id": "1vd1f-AtvHbzpVSHi-Xr2-UjIZTwsFlgb",
+                    "mimeType": "image/jpeg",
+                    "size": "529785"
+                  },
+                  {
+                    "name": "Alvarez_pc3_9.jpg",
+                    "type": "file",
+                    "id": "1Wi6w-mKSE3jY4KdzOpc2kXrzJsRqU339",
+                    "mimeType": "image/jpeg",
+                    "size": "114883"
+                  },
+                  {
+                    "name": "Alvarez_pc3_7.jpg",
+                    "type": "file",
+                    "id": "1aYpMEyXh9OYb8eEPIA1YyetVSNcS_ftX",
+                    "mimeType": "image/jpeg",
+                    "size": "523541"
+                  },
+                  {
+                    "name": "Alvarez_pc3_1.jpg",
+                    "type": "file",
+                    "id": "1MwyXHvcT9t_d-Ai3-qcMt730vuRLrb_l",
+                    "mimeType": "image/jpeg",
+                    "size": "308752"
+                  },
+                  {
+                    "name": "Alvarez_pc3_3.jpg",
+                    "type": "file",
+                    "id": "1PY8inWzMJVIvGmn9WjKSmvLmWgbTFdeF",
+                    "mimeType": "image/jpeg",
+                    "size": "156122"
+                  },
+                  {
+                    "name": "Alvarez_pc3_14.jpg",
+                    "type": "file",
+                    "id": "1UAdOTr987v7djDGe1Y2XoWFienEcHIst",
+                    "mimeType": "image/jpeg",
+                    "size": "263365"
+                  },
+                  {
+                    "name": "Alvarez_pc3_5.jpg",
+                    "type": "file",
+                    "id": "16wb-plmOj6-ybTrW-XoDFjW9Mfbkl6HP",
+                    "mimeType": "image/jpeg",
+                    "size": "560753"
+                  },
+                  {
+                    "name": "Alvarez_pc3_12.jpg",
+                    "type": "file",
+                    "id": "1cHK_Z2-tLHib4KswMFKZ3tyB3FQHTkYF",
+                    "mimeType": "image/jpeg",
+                    "size": "300129"
+                  }
+                ]
+              },
+              {
+                "name": "Lostanau_3pc_1.jpg",
+                "type": "file",
+                "id": "19uh03ckkkNNfKRXzdqAXvlaFhtwwsPsi",
+                "mimeType": "image/jpeg",
+                "size": "45226"
+              },
+              {
+                "name": "Lostanau_3pc.jpg",
+                "type": "file",
+                "id": "1kuzzNxOPffgMUYWDiQZOEWlcp__zTj0v",
+                "mimeType": "image/jpeg",
+                "size": "45058"
+              },
+              {
+                "name": "PC3_Alvarez.pdf",
+                "type": "file",
+                "id": "1rdRKsoCBeZxG27zP8TOoYn9CKYCGytPr",
+                "mimeType": "application/pdf",
+                "size": "11533204"
+              },
+              {
+                "name": "Alvarez_TERCERA_PRÁCTICA_CALIFICADA_SALON_Y.docx",
+                "type": "file",
+                "id": "1ZL0XD1KJmLULfNUTlFaiqS6-hTWEA6bL",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "23757"
+              },
+              {
+                "name": "PR_3_2017-2.docx",
+                "type": "file",
+                "id": "1qsKxZhrDQV1TFATeNTAeM4nJTmEkQKBe",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "20204"
+              },
+              {
+                "name": "PC3_15-3.pdf",
+                "type": "file",
+                "id": "1H0MR2W9GB7mcy2RXVpjaT6gmm1lxHthh",
+                "mimeType": "application/pdf",
+                "size": "1414731"
+              },
+              {
+                "name": "PC03_IO1_2017-2.docx",
+                "type": "file",
+                "id": "1dHX-_BczAEm-mgcsWHA6py1Z0HLHX6ez",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "16071"
+              },
+              {
+                "name": "3PCs-IO1.pdf",
+                "type": "file",
+                "id": "1rkb8i8YTMy-rXiWowCQqDIWONDQ7GvXd",
+                "mimeType": "application/pdf",
+                "size": "14213045"
+              },
+              {
+                "name": "PRAC_3_IO1_2017-2.docx",
+                "type": "file",
+                "id": "1jYhqn4YiyIabqcPp0clrndtIxFtDpmM7",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "16071"
+              },
+              {
+                "name": "PC03_2017-2.docx",
+                "type": "file",
+                "id": "1k2lQcdZOmvfuJQc4bX-4oaEnIE6SjCVf",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "20204"
+              },
+              {
+                "name": "PC3_Lost.pdf",
+                "type": "file",
+                "id": "1Fw6_Em5-4RC5Jgq8xNQmXUC_7sRaLglA",
+                "mimeType": "application/pdf",
+                "size": "25235686"
+              }
+            ]
+          },
+          {
+            "name": "PC2",
+            "type": "folder",
+            "id": "1QNpNR6FaFsDnZzgbb1vJ16ovQIwRIWy0",
+            "children": [
+              {
+                "name": "SI501_PC2_25-II_Canelo.pdf",
+                "type": "file",
+                "id": "1sgARxocm66-uuSaGO9auzERz5orWfLie",
+                "mimeType": "application/pdf",
+                "size": "546024"
+              },
+              {
+                "name": "Alvarez_pc2",
+                "type": "folder",
+                "id": "1vY2MITxtH5WE3IbFQVt4aJVq2UQ_4KgC",
+                "children": [
+                  {
+                    "name": "Alvarez_2pc.jpg",
+                    "type": "file",
+                    "id": "1bRI5NxgPkOplXaL9wK2WTQ5C_lwWy8X1",
+                    "mimeType": "image/jpeg",
+                    "size": "62683"
+                  },
+                  {
+                    "name": "Alvarez_2pc_2.jpg",
+                    "type": "file",
+                    "id": "15g7FXKiUpW0zg6RGtlYLdJtQfV0-Hupy",
+                    "mimeType": "image/jpeg",
+                    "size": "60295"
+                  },
+                  {
+                    "name": "Alvarez_2pc_3.jpg",
+                    "type": "file",
+                    "id": "1dPawx-mP0FDduUSGs_SDrZRgi3XGHez0",
+                    "mimeType": "image/jpeg",
+                    "size": "29378"
+                  }
+                ]
+              },
+              {
+                "name": "Lostanau_2pc2.jpg",
+                "type": "file",
+                "id": "1BPL0obq0FcaBDrzZyMzznJRKY2yCq0PP",
+                "mimeType": "image/jpeg",
+                "size": "534988"
+              },
+              {
+                "name": "PC2_comp.pdf",
+                "type": "file",
+                "id": "1Fxpmmzy7t7Y1HTdGgoLAMylzqiuGUN4m",
+                "mimeType": "application/pdf",
+                "size": "6656236"
+              },
+              {
+                "name": "Medina_SOLUCIONARIO-PC2-202-IO1.xlsx",
+                "type": "file",
+                "id": "1b9YEC5a5jud8A1L_E-Vp4JM7O1I2gysY",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "41259"
+              },
+              {
+                "name": "PC2_Lost_18-2.jpg",
+                "type": "file",
+                "id": "1fCMHsOiijV-fKQK6NeoI7lNTXa7-EOdX",
+                "mimeType": "image/jpeg",
+                "size": "309223"
+              },
+              {
+                "name": "Medina_Práctica_N°2_IO1_2020-1_solucion_(1).xlsx",
+                "type": "file",
+                "id": "1NIWlWyXCWDWUxkjU1f_IS7GpYAujYQUx",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "111863"
+              },
+              {
+                "name": "PC2_Lost_18-2_1.jpg",
+                "type": "file",
+                "id": "1yGAWns4AHLE-d2AA_MVvrD7OqTXyG-7G",
+                "mimeType": "image/jpeg",
+                "size": "294842"
+              },
+              {
+                "name": "PC2_lost.pdf",
+                "type": "file",
+                "id": "1eP6wLLm4W0z5RJ0kl3xMPCdqjSs4regn",
+                "mimeType": "application/pdf",
+                "size": "12852324"
+              },
+              {
+                "name": "IO1_PC2_17-2_V.jpg",
+                "type": "file",
+                "id": "15c_WOCvw5Ubu4lwVjpmBKEjlD4Q08hxf",
+                "mimeType": "image/jpeg",
+                "size": "3222623"
+              },
+              {
+                "name": "IO_PC2(1).pdf",
+                "type": "file",
+                "id": "1OOw9LNbmUJ3JQ2qxZSmTJejy3TeLbxG7",
+                "mimeType": "application/pdf",
+                "size": "12852324"
+              },
+              {
+                "name": "Lostanau_1pc2.jpg",
+                "type": "file",
+                "id": "1X3JrP0y_Ocx4T1eqGpdUp98Vv_Y-nfit",
+                "mimeType": "image/jpeg",
+                "size": "525892"
+              },
+              {
+                "name": "Lostanau_3pc2.jpg",
+                "type": "file",
+                "id": "1umVNKS5epKZoyouImOrFpIdnd2FyR7_L",
+                "mimeType": "image/jpeg",
+                "size": "404868"
+              },
+              {
+                "name": "IO_PC2.pdf",
+                "type": "file",
+                "id": "1IRge6_XPdUtg-kHF3E4fbf2xjYlGVBOD",
+                "mimeType": "application/pdf",
+                "size": "12852324"
+              },
+              {
+                "name": "IO1_PC2_19-2_X.pdf",
+                "type": "file",
+                "id": "1sl7OuOM2Jfl3T2vah6YVgRJGLp0FcJV5",
+                "mimeType": "application/pdf",
+                "size": "105080"
+              },
+              {
+                "name": "Lostanau_pc2.jpg",
+                "type": "file",
+                "id": "1ft4kxGGGDx5yzaHc7nrJHzS3gZWuEYQy",
+                "mimeType": "image/jpeg",
+                "size": "45132"
+              },
+              {
+                "name": "IO1_PC2_17-2_V(1).jpg",
+                "type": "file",
+                "id": "18itX4c_acTApbNr2b_jWl8-tNnqYa7Vw",
+                "mimeType": "image/jpeg",
+                "size": "3222623"
+              },
+              {
+                "name": "2PCs-IO1.pdf",
+                "type": "file",
+                "id": "1zdqxw-fv48GJPWMJBfDgRHgnVR3l8mTz",
+                "mimeType": "application/pdf",
+                "size": "6656236"
+              },
+              {
+                "name": "Alvarez_Práctica_N°2_IO1_2020-1_solucion.xlsx",
+                "type": "file",
+                "id": "16BWJi9jBZpdvZ-rs7Pt5jk-JFtSx7goD",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "111863"
+              },
+              {
+                "name": "IO1_PC2_20-1_Y.pdf",
+                "type": "file",
+                "id": "1gGXJyQwuejojlVBpSJX-Hu_iCqc407Sv",
+                "mimeType": "application/pdf",
+                "size": "497008"
+              }
+            ]
+          },
+          {
+            "name": "PC1",
+            "type": "folder",
+            "id": "16dWMRxTttgDZE1GwOGC4-Z41LAEYdP6X",
+            "children": [
+              {
+                "name": "SI501_PC1_25-II_Canelo.pdf",
+                "type": "file",
+                "id": "1o2zHIFKJGHZ8fmh13e9g07MaUZU32kV4",
+                "mimeType": "application/pdf",
+                "size": "636385"
+              },
+              {
+                "name": "Alvarez_PRIMERA_PRÁCTICA_CALIFICADA_U.docx",
+                "type": "file",
+                "id": "182OWW91O4QivFjyzd2ZZCaRJuUbLAfmq",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "23118"
+              },
+              {
+                "name": "Lostanau_3_pc1.jpg",
+                "type": "file",
+                "id": "1kotNrv7Ov2UjEPcFyJ_kxr-3N-3Dl3lS",
+                "mimeType": "image/jpeg",
+                "size": "497530"
+              },
+              {
+                "name": "Lostanau_1_pc1.jpg",
+                "type": "file",
+                "id": "1jGNIrSOe-nwKoK78l8UIqxH6uNGrQTd_",
+                "mimeType": "image/jpeg",
+                "size": "520860"
+              },
+              {
+                "name": "Lostanau_PC1_IO1_X.pdf",
+                "type": "file",
+                "id": "1Rf6rwBbHeA0r7SndS2D75s4hiFIr-TCY",
+                "mimeType": "application/pdf",
+                "size": "127341"
+              },
+              {
+                "name": "IO1_PC1_17-2_V_2.jpg",
+                "type": "file",
+                "id": "1GkBbkkPE6blE1-Mo9iuGRrvi3PHWvdDE",
+                "mimeType": "image/jpeg",
+                "size": "3050999"
+              },
+              {
+                "name": "Lostanau_2_pc1.jpg",
+                "type": "file",
+                "id": "1RicAyICFPXvJBdxzX-t8PFH0SplXJlwb",
+                "mimeType": "image/jpeg",
+                "size": "537966"
+              },
+              {
+                "name": "Medina_PRACTICA_CALIFICA_N°1_SOLUCIÓN.pdf",
+                "type": "file",
+                "id": "1wEBIOcEUMPkfFKidV2oQLihuWebBcBC0",
+                "mimeType": "application/pdf",
+                "size": "266524"
+              },
+              {
+                "name": "Medina_PRACTICA_CALIFICA_N°1.pdf",
+                "type": "file",
+                "id": "1I7siUcXI0zQ-h1FZbKFGjOv020ZXWCNK",
+                "mimeType": "application/pdf",
+                "size": "232338"
+              },
+              {
+                "name": "IO1_PC1_17-2_V.jpg",
+                "type": "file",
+                "id": "1gDQ87vgD7zfG8BaVgix8pgccyZSgjKyg",
+                "mimeType": "image/jpeg",
+                "size": "3498917"
+              },
+              {
+                "name": "Alvarez_IO1_PROBLEMAS_PC1_18-1_U-W.jpg",
+                "type": "file",
+                "id": "19_PZl3dkL5iAJAlcFJpputFuhWqc1HDO",
+                "mimeType": "image/jpeg",
+                "size": "4002899"
+              },
+              {
+                "name": "1PCs-IO1.pdf",
+                "type": "file",
+                "id": "1gqVpibk9iTDYpI7jSKhfy_N06kIGVFlk",
+                "mimeType": "application/pdf",
+                "size": "6819507"
+              }
+            ]
+          },
+          {
+            "name": "Pc_s_y_examenes_IO_I_-_Lostaunau.pdf",
+            "type": "file",
+            "id": "1nTHFz_KHXCPCEwyFF_e4MVPnEhIEEGYM",
+            "mimeType": "application/pdf",
+            "size": "6392611"
+          },
+          {
+            "name": "Problemas_Alvarez.pdf",
+            "type": "file",
+            "id": "1PIwSjg6wuZW6KwcsINiGpo0128pQDFlY",
+            "mimeType": "application/pdf",
+            "size": "4675574"
+          },
+          {
+            "name": "Alvarez_Problemas_y_examenes.pdf",
+            "type": "file",
+            "id": "1x-ddFfHojuq-byMeDvjtgK8QnTn7j-lx",
+            "mimeType": "application/pdf",
+            "size": "36753869"
+          },
+          {
+            "name": "Alvarez_IO1_MODELO_DE_TRANSPORTE.jpg",
+            "type": "file",
+            "id": "1b0V6120LBNmMARnsz_aeFnI6ohRto5PI",
+            "mimeType": "image/jpeg",
+            "size": "3338496"
+          },
+          {
+            "name": "IO_COMPENDIO_sin_pc3.pdf",
+            "type": "file",
+            "id": "1MUNWsVY-ELERm1N8nuTkC8nZqxXjVvEF",
+            "mimeType": "application/pdf",
+            "size": "73613844"
+          },
+          {
+            "name": "Pc_s_y_examenes_IO_I_-_Inga.pdf",
+            "type": "file",
+            "id": "18RLYI9E-FQ9JF2tuRZnU-nNZi_Db6erB",
+            "mimeType": "application/pdf",
+            "size": "10009287"
+          },
+          {
+            "name": "Alvarez_SOLUCIONARIO_EJERCICIOS_SI501-Y.docx",
+            "type": "file",
+            "id": "1LCEEuWFExh7TJ6vo-WogYaWpK7UTKfAy",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "13912393"
+          },
+          {
+            "name": "Lostanau_IO1_Guia_de_problemasSEM2.docx",
+            "type": "file",
+            "id": "10RJpPHoewqxMvemBJRx97TStmM2gY-X6",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "112849"
+          },
+          {
+            "name": "a_SENSIBILIDAD.docx",
+            "type": "file",
+            "id": "12tOjeCAEAtDwxPrt-a0PnDwYnKeN-2nA",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "17062"
+          }
+        ]
+      },
+      {
+        "name": "Libros",
+        "type": "folder",
+        "id": "12Y8UdkjDrd3kBd7IRU3gBnyoE2_Fy6Hf",
+        "children": [
+          {
+            "name": "Problemas_Solucionados.pdf",
+            "type": "file",
+            "id": "1HDdIP2AaEDBW_mX82wobS0EBK0Emb9vH",
+            "mimeType": "application/pdf",
+            "size": "5709841"
+          },
+          {
+            "name": "IO_en_la_ciencia_administrativa.pdf",
+            "type": "file",
+            "id": "136eVPqL9gOWzxjFmCFnqmKdfwdmzkDyg",
+            "mimeType": "application/pdf",
+            "size": "12698088"
+          },
+          {
+            "name": "UWLGEC8891.pdf",
+            "type": "file",
+            "id": "1a3YwLAJ0KsvE1Vyx2p225SmJ7vD9quP6",
+            "mimeType": "application/pdf",
+            "size": "5709841"
+          },
+          {
+            "name": "bookXPRESSMP.pdf",
+            "type": "file",
+            "id": "157BttOqIAhkPjuJF4ascwdOLLV3hGzo0",
+            "mimeType": "application/pdf",
+            "size": "1845149"
+          },
+          {
+            "name": "thaja-investigacion-de-operaciones-by-k9.pdf",
+            "type": "file",
+            "id": "1HXv5Ya4gp7C1JnCEGAgPFgXWwScyeinQ",
+            "mimeType": "application/pdf",
+            "size": "7281453"
+          },
+          {
+            "name": "Investigacion_de_operaciones_cuarta_edic.pdf",
+            "type": "file",
+            "id": "1BbAyML5T6a7BgnwbTG8FmqwzlvnY1VoN",
+            "mimeType": "application/pdf",
+            "size": "64791060"
+          },
+          {
+            "name": "LibroCompleto_INTERNET.pdf",
+            "type": "file",
+            "id": "1XkR1YI4hltHRBwLGeb_sBpZWtLukP3LF",
+            "mimeType": "application/pdf",
+            "size": "3704090"
+          },
+          {
+            "name": "IO._Aplicaciones-y-algoritmos-Winston.pdf",
+            "type": "file",
+            "id": "1ox6H-Pl9BPXzbrtY4lSOdvQcnwd3EAwp",
+            "mimeType": "application/pdf",
+            "size": "64897257"
+          },
+          {
+            "name": "Taha_Investigacion_de_operaciones.pdf",
+            "type": "file",
+            "id": "1pIq5Uc89HXWNQMB2Ueq06ChuqHOo0q7C",
+            "mimeType": "application/pdf",
+            "size": "7541754"
+          },
+          {
+            "name": "ExplicacionResultadosLINDO.pdf",
+            "type": "file",
+            "id": "1PxMeIoD3twV1hC9f2NApABB9qFPo02ks",
+            "mimeType": "application/pdf",
+            "size": "46154"
+          },
+          {
+            "name": "Precio_Dual_y_Costo_Reducido.pdf",
+            "type": "file",
+            "id": "163UjBBT4wrVQAGZHvEQ8GQCcZ8DGOGk1",
+            "mimeType": "application/pdf",
+            "size": "213564"
+          },
+          {
+            "name": "Manual_de_Lingo.pdf",
+            "type": "file",
+            "id": "1HV_4wGhS7EGMb8oaau63y66UH85oypxS",
+            "mimeType": "application/pdf",
+            "size": "12084365"
+          },
+          {
+            "name": "Libro_de_Investigacion_Operativa.pdf",
+            "type": "file",
+            "id": "15S6QqbSWkbQkMfHb6CJxY0zpAa0AB1YT",
+            "mimeType": "application/pdf",
+            "size": "3188776"
+          },
+          {
+            "name": "MANUAL_LINDO,LINGO_y_What_Best!.PDF",
+            "type": "file",
+            "id": "1kESNOSoz1DX-Ooyddpv1fTptcTnd2sJp",
+            "mimeType": "application/pdf",
+            "size": "3358946"
+          },
+          {
+            "name": "Manual_Lingo.pdf",
+            "type": "file",
+            "id": "1oIQjDrocbG1PhDo6DOVHmwocCY-2T2M0",
+            "mimeType": "application/pdf",
+            "size": "82291"
+          }
+        ]
+      }
+    ]
+  }
+}

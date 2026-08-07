@@ -1,0 +1,2162 @@
+{
+  "course_id": "BMA02",
+  "course_name": "Cálculo_integral",
+  "id": "1vkilNaHxEiHxMWsXblkWiI6g-fkfsur6",
+  "scanned_at": "2026-08-07T00:13:23.599528+00:00",
+  "tree": {
+    "name": "Cálculo_integral",
+    "type": "folder",
+    "id": "1vkilNaHxEiHxMWsXblkWiI6g-fkfsur6",
+    "children": [
+      {
+        "name": "Teoría",
+        "type": "folder",
+        "id": "1zK6Fdjapy7dYiRNw44018-G2dzAXC5kg",
+        "children": [
+          {
+            "name": "Cuaderno_de_Arámbulo.pdf",
+            "type": "file",
+            "id": "1w1p2D8ASsGNfpEYt4P9iL9C1MC33q1ZA",
+            "mimeType": "application/pdf",
+            "size": "46581163"
+          },
+          {
+            "name": "Diana_Flores",
+            "type": "folder",
+            "id": "1cHDmZOH8d7N2utYmESS5PTjrDjqafst1",
+            "children": [
+              {
+                "name": "L11.pdf",
+                "type": "file",
+                "id": "1rtUuU-48WptGXGN4e6KIDG-h9ErCIIgP",
+                "mimeType": "application/pdf",
+                "size": "172671"
+              },
+              {
+                "name": "L7.pdf",
+                "type": "file",
+                "id": "1usS-Z9GifoIKSRjwTthxv5oy36eHefhA",
+                "mimeType": "application/pdf",
+                "size": "181646"
+              },
+              {
+                "name": "L9.pdf",
+                "type": "file",
+                "id": "11KAOpWF1XFJAa_cAr5UkO7w1LByGQLvK",
+                "mimeType": "application/pdf",
+                "size": "167070"
+              },
+              {
+                "name": "L13.pdf",
+                "type": "file",
+                "id": "1TY5jhcCruyYO4XPuz_NVaTjVv4Kh9jS_",
+                "mimeType": "application/pdf",
+                "size": "218509"
+              },
+              {
+                "name": "L14.pdf",
+                "type": "file",
+                "id": "16JGXFbt1axyfGghZT3VPahGy09RDOeUw",
+                "mimeType": "application/pdf",
+                "size": "192290"
+              },
+              {
+                "name": "L10.pdf",
+                "type": "file",
+                "id": "1ralBAfyIMaN5_YDmdAvApHkZbT1T-38q",
+                "mimeType": "application/pdf",
+                "size": "147140"
+              },
+              {
+                "name": "L15.pdf",
+                "type": "file",
+                "id": "1vJHtFQlRwPiIJrmlT9L2h01dcQrSsrZd",
+                "mimeType": "application/pdf",
+                "size": "174020"
+              },
+              {
+                "name": "L2.pdf",
+                "type": "file",
+                "id": "17AWqRSlDjMLmD4UE4FIIBu7kYvxCorQy",
+                "mimeType": "application/pdf",
+                "size": "158961"
+              },
+              {
+                "name": "L12.pdf",
+                "type": "file",
+                "id": "1sVzNHHePOLOd6MVF8wEh3-0fQg-DVnch",
+                "mimeType": "application/pdf",
+                "size": "173801"
+              },
+              {
+                "name": "L6.pdf",
+                "type": "file",
+                "id": "1QajU1ZbJZ2ACsYPoM3vdICJOiXNDjRC1",
+                "mimeType": "application/pdf",
+                "size": "166991"
+              },
+              {
+                "name": "L3.pdf",
+                "type": "file",
+                "id": "1raiSpqOZXkDmCLfexwq5hVpBTViZkfTR",
+                "mimeType": "application/pdf",
+                "size": "186154"
+              },
+              {
+                "name": "L4.pdf",
+                "type": "file",
+                "id": "174LuzPBVmKLKxzVwOuR8VvZGzwgnHXKm",
+                "mimeType": "application/pdf",
+                "size": "169273"
+              },
+              {
+                "name": "L1.pdf",
+                "type": "file",
+                "id": "1v8x3tUx-pHuWmst64_52ybbRC1WpHu5l",
+                "mimeType": "application/pdf",
+                "size": "164927"
+              },
+              {
+                "name": "L5.pdf",
+                "type": "file",
+                "id": "1VC-kh3Vhbskb7h-K5H31bB7URj_CN6Fb",
+                "mimeType": "application/pdf",
+                "size": "177361"
+              }
+            ]
+          },
+          {
+            "name": "PPT_s_UNI",
+            "type": "folder",
+            "id": "1bdiZ6LeTWFRO2LHkoyjRA0E1P1zDgjCM",
+            "children": [
+              {
+                "name": "Semana_2-1.pdf",
+                "type": "file",
+                "id": "1CEF8D1oXX46ehxtF86hKUpLKtkc7jjzz",
+                "mimeType": "application/pdf",
+                "size": "547322"
+              },
+              {
+                "name": "Semana_2-2.pdf",
+                "type": "file",
+                "id": "1oshe6oXR6KwFf2wUPVXp3tH9-i1WdQCf",
+                "mimeType": "application/pdf",
+                "size": "523850"
+              },
+              {
+                "name": "Semana_5-2.pdf",
+                "type": "file",
+                "id": "1WUzClpxZ95A0Mwl8Y3eBS_3vIJMk7ivU",
+                "mimeType": "application/pdf",
+                "size": "719933"
+              },
+              {
+                "name": "Semana_15-1.pdf",
+                "type": "file",
+                "id": "1VseSwyaK6ipbach7JxZlIIz9jnuFqQdO",
+                "mimeType": "application/pdf",
+                "size": "760142"
+              },
+              {
+                "name": "Semana_11-2.pdf",
+                "type": "file",
+                "id": "1Y0FG9dicpnoVEwV_EM4b32ETqjGuSqT7",
+                "mimeType": "application/pdf",
+                "size": "761857"
+              },
+              {
+                "name": "Semana_11-1.pdf",
+                "type": "file",
+                "id": "1iagwaaQGKkHYuELYfszr-gkC8TxbyoAh",
+                "mimeType": "application/pdf",
+                "size": "702317"
+              },
+              {
+                "name": "Semana_14-1.pdf",
+                "type": "file",
+                "id": "1KQmCErV5HKeuH5nXWYsJz_QxNxEjhkdM",
+                "mimeType": "application/pdf",
+                "size": "1473488"
+              },
+              {
+                "name": "Semana_4-1.pdf",
+                "type": "file",
+                "id": "1Euypn7ij1cts0548429fBc_9yFk0xOkF",
+                "mimeType": "application/pdf",
+                "size": "934778"
+              },
+              {
+                "name": "Semana_7.pdf",
+                "type": "file",
+                "id": "1ad7jMhLrMCevYLIcMoQOWdxQQJBCK48l",
+                "mimeType": "application/pdf",
+                "size": "709525"
+              },
+              {
+                "name": "Semana_4-2.pdf",
+                "type": "file",
+                "id": "1jCYA-M18mGjAXj3fQPwkD9-Lgco2C3Cf",
+                "mimeType": "application/pdf",
+                "size": "704935"
+              },
+              {
+                "name": "Semana_12-1.pdf",
+                "type": "file",
+                "id": "14O0EgbCPYXmvhgi3mF015VO6mZRxPX4M",
+                "mimeType": "application/pdf",
+                "size": "590986"
+              },
+              {
+                "name": "Semana_3-1.pdf",
+                "type": "file",
+                "id": "1AsGOEedrc7254PgFftBSqbM2dWC5YzVk",
+                "mimeType": "application/pdf",
+                "size": "1126562"
+              },
+              {
+                "name": "Semana_9-1.pdf",
+                "type": "file",
+                "id": "1VRTbt5FlQaSZHuUiPL6eCOc6l_1SVErO",
+                "mimeType": "application/pdf",
+                "size": "982143"
+              },
+              {
+                "name": "Semana_13.pdf",
+                "type": "file",
+                "id": "1dHK5urUtihjDaZB0d65hDjjplejmW7Ju",
+                "mimeType": "application/pdf",
+                "size": "1695494"
+              },
+              {
+                "name": "Semana_5-1.pdf",
+                "type": "file",
+                "id": "1fIVzxpkC30EiyJt49W5OUGeIdhmK5Luk",
+                "mimeType": "application/pdf",
+                "size": "615829"
+              },
+              {
+                "name": "Semana_10-1.pdf",
+                "type": "file",
+                "id": "1YnejrJ7dK1IbBRym6RcpY2S_90ZgcInL",
+                "mimeType": "application/pdf",
+                "size": "564711"
+              },
+              {
+                "name": "Semana_1-1.pdf",
+                "type": "file",
+                "id": "1vUOnvDE4_E4KHegaGRJJmCdhUQpq9Zb6",
+                "mimeType": "application/pdf",
+                "size": "759638"
+              },
+              {
+                "name": "Semana_1-2.pdf",
+                "type": "file",
+                "id": "1tBV1Vq0ykqzwHqHZBC9mw3TfTydGyttO",
+                "mimeType": "application/pdf",
+                "size": "604119"
+              },
+              {
+                "name": "Semana_12-2.pdf",
+                "type": "file",
+                "id": "1uMWwgNpsNwkFg4ilmE4Y6GJjoJIoI2ae",
+                "mimeType": "application/pdf",
+                "size": "1072311"
+              },
+              {
+                "name": "Semana_10-2.pdf",
+                "type": "file",
+                "id": "1clmHyYtxISaVtXBiIFo87DGUmIJEsBAy",
+                "mimeType": "application/pdf",
+                "size": "642722"
+              },
+              {
+                "name": "Semana_9-2.pdf",
+                "type": "file",
+                "id": "17-Dt7aSBTL4Cp_xnoHvZ_7xUdhmgUuYX",
+                "mimeType": "application/pdf",
+                "size": "633139"
+              },
+              {
+                "name": "Semana_14-2.pdf",
+                "type": "file",
+                "id": "1OAC1aqpKKEFB1AcB-NKiCI_V2wWe2SKx",
+                "mimeType": "application/pdf",
+                "size": "588207"
+              },
+              {
+                "name": "Semana_6.pdf",
+                "type": "file",
+                "id": "1FVj7dPFvs3-cCujtoVOh1slSCv_tSr_V",
+                "mimeType": "application/pdf",
+                "size": "867125"
+              },
+              {
+                "name": "Semana_3-2.pdf",
+                "type": "file",
+                "id": "1TYR8ToEY9NYrp3tv6PkAq5xORGj5-E0y",
+                "mimeType": "application/pdf",
+                "size": "878955"
+              }
+            ]
+          },
+          {
+            "name": "PPT_s_Gladys_Cruz",
+            "type": "folder",
+            "id": "12khhzk_PTV5X7DtjTy6TL2RLijqOpwzf",
+            "children": [
+              {
+                "name": "Metodo_de_Ostrogradski_func_rac_seno_y_coseno_UNI_17(1).pdf",
+                "type": "file",
+                "id": "1tObQqwxWCE_Kl2QhQI_O6YPGQAuAVXtz",
+                "mimeType": "application/pdf",
+                "size": "5174690"
+              },
+              {
+                "name": "Metodo_de_Ostrogradski_func_rac_seno_y_coseno_UNI_17.pdf",
+                "type": "file",
+                "id": "12hXi8ZGYB0Rv8vPW1CPlMzHEcIx_t_tR",
+                "mimeType": "application/pdf",
+                "size": "5174690"
+              },
+              {
+                "name": "Integracion_por_Partes_Uni_2017.pdf",
+                "type": "file",
+                "id": "1Ee439OM5ypoFgXlg1RUUG6OQReDfs4wG",
+                "mimeType": "application/pdf",
+                "size": "2670175"
+              },
+              {
+                "name": "Integral_Indefinida_Uni_2017.pdf",
+                "type": "file",
+                "id": "1uzhkpS7aQW3Hdn6zMdLjBHqya82505N0",
+                "mimeType": "application/pdf",
+                "size": "2927414"
+              }
+            ]
+          },
+          {
+            "name": "Broncano",
+            "type": "folder",
+            "id": "1DIKg3XHN03fojXJYlxmoA1M582m39TYP",
+            "children": [
+              {
+                "name": "Dirigidas",
+                "type": "folder",
+                "id": "1-_0b5qwkb-hdpelZE7ih0ANwFrSu3odE",
+                "children": [
+                  {
+                    "name": "SIMULACRO_PC4.pdf",
+                    "type": "file",
+                    "id": "1qbWylu8JxRUwt7HljSn_Sq_8-69oRWUC",
+                    "mimeType": "application/pdf",
+                    "size": "437327"
+                  },
+                  {
+                    "name": "SOLUCIONARIO_SIMULACRO_PC3.pdf",
+                    "type": "file",
+                    "id": "1enYZ9mt7Sg-a6oTvkoN0MUC6dqbvXEYA",
+                    "mimeType": "application/pdf",
+                    "size": "55960151"
+                  },
+                  {
+                    "name": "SIMULACRO_PC3_(ALUMNOS_EN_RIESGO).pdf",
+                    "type": "file",
+                    "id": "1-hXYtEBPXf4ahQz2Ce_BaSSb7OpYdydC",
+                    "mimeType": "application/pdf",
+                    "size": "155006"
+                  },
+                  {
+                    "name": "SIMULACRO_PC3.pdf",
+                    "type": "file",
+                    "id": "1UELg_UQ_MnwJqxRZCJ2wRSX_aLO1a4I8",
+                    "mimeType": "application/pdf",
+                    "size": "195628"
+                  },
+                  {
+                    "name": "SEMINARIO_EXTRAORDINARIO_(FIJAS).pptx",
+                    "type": "file",
+                    "id": "1xlFLFb4Xia13T7Kiip8uQsaGVkObJU2m",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "1296970"
+                  },
+                  {
+                    "name": "SIMULACRO_EXTRA_EP.pdf",
+                    "type": "file",
+                    "id": "1NyBcAUlRjkKR42zwfC-idLH_1SYoGNri",
+                    "mimeType": "application/pdf",
+                    "size": "167237"
+                  },
+                  {
+                    "name": "SIMULACRO_EP.pdf",
+                    "type": "file",
+                    "id": "1G8x_iy1d9C34rwxx4PBy9Xu-WBKq9z9d",
+                    "mimeType": "application/pdf",
+                    "size": "191118"
+                  },
+                  {
+                    "name": "SIMULACRO_PC1.pdf",
+                    "type": "file",
+                    "id": "1UZXAvamzH9OcSBvgpJK-p2HcRd5m4Xoh",
+                    "mimeType": "application/pdf",
+                    "size": "260844"
+                  },
+                  {
+                    "name": "SIMULACRO_PC2.pdf",
+                    "type": "file",
+                    "id": "1XWjnuITHQMdY_Kkb4PWQSkTjFQx3POTp",
+                    "mimeType": "application/pdf",
+                    "size": "216651"
+                  }
+                ]
+              },
+              {
+                "name": "Asesorias",
+                "type": "folder",
+                "id": "1VMEczLscKkaWRLbuj0mKeCpk1Kqpuf4o",
+                "children": [
+                  {
+                    "name": "Asesoria_Broncano_EP_.pdf",
+                    "type": "file",
+                    "id": "1XOP_l-yEtaJ0SO6aScFgq8freWUrEBcA",
+                    "mimeType": "application/pdf",
+                    "size": "2480699"
+                  }
+                ]
+              },
+              {
+                "name": "Material",
+                "type": "folder",
+                "id": "1cD-IKWOlyDKTsRwohp9_MNChdwpM-Coa",
+                "children": [
+                  {
+                    "name": "semana_[S10].pdf",
+                    "type": "file",
+                    "id": "1thZT4r5awRQcHiPbqbfJeLK3Q673--rA",
+                    "mimeType": "application/pdf",
+                    "size": "2604378"
+                  },
+                  {
+                    "name": "semana_[S7].pdf",
+                    "type": "file",
+                    "id": "1L5-va1JGrmDqPURUWQe2gt9HFF042Ypq",
+                    "mimeType": "application/pdf",
+                    "size": "3565713"
+                  },
+                  {
+                    "name": "semana_[S5].pdf",
+                    "type": "file",
+                    "id": "1NBqQJGWmbDycTqDSiVnoHF-fwwWoiYBt",
+                    "mimeType": "application/pdf",
+                    "size": "2825723"
+                  },
+                  {
+                    "name": "semana_[S2].pdf",
+                    "type": "file",
+                    "id": "102hV52b5RtC5tX9Xif35LrCB7llc0ZXv",
+                    "mimeType": "application/pdf",
+                    "size": "1836351"
+                  },
+                  {
+                    "name": "semana_[S1].pdf",
+                    "type": "file",
+                    "id": "10wreumTs-bCRzDddrRl6iA4sAkT7elV0",
+                    "mimeType": "application/pdf",
+                    "size": "2538621"
+                  },
+                  {
+                    "name": "15_-_APLICACIÓN_DE_LA_INTEGRAL_III_-_PPT_ARAMBULU.pdf",
+                    "type": "file",
+                    "id": "1SgCoG3aSa3vnpE4YL-dbpPNy89qIq3al",
+                    "mimeType": "application/pdf",
+                    "size": "2549591"
+                  },
+                  {
+                    "name": "semana_[S14]_-_copia.pdf",
+                    "type": "file",
+                    "id": "1E2YMYfaxCmxrwHE1wE1D7_tDcj3VYKZW",
+                    "mimeType": "application/pdf",
+                    "size": "2152270"
+                  },
+                  {
+                    "name": "semana_[S13].pdf",
+                    "type": "file",
+                    "id": "1HQ8qWlMVKplx22rKq2LXq-K7DCwdJwWI",
+                    "mimeType": "application/pdf",
+                    "size": "2347202"
+                  },
+                  {
+                    "name": "semana_[S11].pdf",
+                    "type": "file",
+                    "id": "1r0AwBkF4fBP6YfU2bg_WZO2KP9iHDn2b",
+                    "mimeType": "application/pdf",
+                    "size": "3361537"
+                  },
+                  {
+                    "name": "semana_[S12]_-_copia.pdf",
+                    "type": "file",
+                    "id": "1ZsOUTOMfronenP_E87NUjvtFAJNnlU15",
+                    "mimeType": "application/pdf",
+                    "size": "4753943"
+                  },
+                  {
+                    "name": "semana_[S9].pdf",
+                    "type": "file",
+                    "id": "1xbcGB--3X7_7-vk6x6spw9G8yWuy7Y40",
+                    "mimeType": "application/pdf",
+                    "size": "5283478"
+                  },
+                  {
+                    "name": "semana_[S4].pdf",
+                    "type": "file",
+                    "id": "1GJu4qUZEX4f6s7cZCNkEsQLEVgSM6NTl",
+                    "mimeType": "application/pdf",
+                    "size": "3279891"
+                  },
+                  {
+                    "name": "semana_[S6].pdf",
+                    "type": "file",
+                    "id": "1_QDk-MQ6qIzWITV32IzNmVghCH28Yjxc",
+                    "mimeType": "application/pdf",
+                    "size": "3533529"
+                  },
+                  {
+                    "name": "semana_[S3-S4].pdf",
+                    "type": "file",
+                    "id": "1xUX0D5-6SO3lPrfxgNZsAiyt9B-D-7xH",
+                    "mimeType": "application/pdf",
+                    "size": "3117985"
+                  },
+                  {
+                    "name": "semana_[S3].pdf",
+                    "type": "file",
+                    "id": "1nHVNagrfvXyNq-H86fGeeoJYp4CJZSg8",
+                    "mimeType": "application/pdf",
+                    "size": "2785692"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bibliografía_recomendada",
+        "type": "folder",
+        "id": "1xIODpzIS4klYdc1Tz57g01wP1torFU0I",
+        "children": [
+          {
+            "name": "Integral_Lázaro.pdf",
+            "type": "file",
+            "id": "1miFv43F7BjPbUyGYqg0H0f-XPSRwdzoV",
+            "mimeType": "application/pdf",
+            "size": "50316308"
+          },
+          {
+            "name": "Cálculo_diferencial_e_integral_-_Schaum_y_Frank_Ayres.pdf",
+            "type": "file",
+            "id": "11mGOhUooIc9hKDnP0pndn-niPDne1eN4",
+            "mimeType": "application/pdf",
+            "size": "14755014"
+          },
+          {
+            "name": "Cálculo_integral_-_Álvaro_Pinzon.pdf",
+            "type": "file",
+            "id": "187omRotPnAGBUZqqlDPvHoUfDRXzrOz-",
+            "mimeType": "application/pdf",
+            "size": "19189223"
+          },
+          {
+            "name": "Análisis_Matemático_II_-_Espinosa_Ramos.pdf",
+            "type": "file",
+            "id": "1kKppS-ggXLq8DRE4HmT5yPMIUKIRFlDk",
+            "mimeType": "application/pdf",
+            "size": "24303021"
+          },
+          {
+            "name": "COQUILLAT-CÁLCULO_INTEGRAL._METODOLOGÍA_Y_PROBLEMAS_.pdf",
+            "type": "file",
+            "id": "1k0tFpeDvp6_DxfTa5LD-Fp7he7u_y2E5",
+            "mimeType": "application/pdf",
+            "size": "9585081"
+          },
+          {
+            "name": "Cálculo._Una_variable.pdf",
+            "type": "file",
+            "id": "1WOxfa40sXpw_OTbw-_cM4VI_nbs6aGVz",
+            "mimeType": "application/pdf",
+            "size": "16287604"
+          },
+          {
+            "name": "Cálculo_de_una_variable.pdf",
+            "type": "file",
+            "id": "1vcoftxbb6Musef9FoCZyMmx7ulHsgaL7",
+            "mimeType": "application/pdf",
+            "size": "16918216"
+          },
+          {
+            "name": "Análisis_Matemático_2_-_J._Armando_Venero_B..pdf",
+            "type": "file",
+            "id": "1Dn5Omc-s_kYLH62rNMvy5f_bNEubmyBy",
+            "mimeType": "application/pdf",
+            "size": "66136211"
+          }
+        ]
+      },
+      {
+        "name": "Planchas",
+        "type": "folder",
+        "id": "1X4lUcCXZR2i5ZGhdsUOhMHJimb4z4eWx",
+        "children": [
+          {
+            "name": "PC4",
+            "type": "folder",
+            "id": "18vxYvuZt_4NPiEaZjKnzPEe8-w261-bR",
+            "children": [
+              {
+                "name": "Planchas_antiguas_PC4.pdf",
+                "type": "file",
+                "id": "1anSzg06mc4IKmObzdgX4js-CAqsu2NaH",
+                "mimeType": "application/pdf",
+                "size": "1567264"
+              },
+              {
+                "name": "PC4_20-II.pdf",
+                "type": "file",
+                "id": "1n5q1NTfHjmOMbr7P7UdFBnisu5HrPLoq",
+                "mimeType": "application/pdf",
+                "size": "136303"
+              },
+              {
+                "name": "PC4_21-II_todos.pdf",
+                "type": "file",
+                "id": "1XBEFhj5EDV15tLPTEBHOHIiV-NlsLFlu",
+                "mimeType": "application/pdf",
+                "size": "119328"
+              },
+              {
+                "name": "PC4_19-II.pdf",
+                "type": "file",
+                "id": "1BxwAckHzp6crbgtPB0YX3vUDuQLLsSRd",
+                "mimeType": "application/pdf",
+                "size": "142912"
+              },
+              {
+                "name": "PC4_18-I.pdf",
+                "type": "file",
+                "id": "11kKGO4a-0xG2mtiNuJvGkLzNYXL8l6R7",
+                "mimeType": "application/pdf",
+                "size": "56780"
+              },
+              {
+                "name": "PC4_17-II.pdf",
+                "type": "file",
+                "id": "1ko9ABGZ3xb0F9-kFW1bbzKBfECUc9dl0",
+                "mimeType": "application/pdf",
+                "size": "246171"
+              },
+              {
+                "name": "PC4_21-II_solo_arambulo.pdf",
+                "type": "file",
+                "id": "1LnpwYcIrdiYCvMoXg7ow_ZyVhx8dgabK",
+                "mimeType": "application/pdf",
+                "size": "111621"
+              },
+              {
+                "name": "PC4_19-II_solo_arambulo.pdf",
+                "type": "file",
+                "id": "1B90l78PD_GESSJlBofi9ubRS43S6r-JN",
+                "mimeType": "application/pdf",
+                "size": "94820"
+              },
+              {
+                "name": "PC4_20-I.pdf",
+                "type": "file",
+                "id": "1GxqwDD3bLBr5RuLd30rTjNE90zEeBW3p",
+                "mimeType": "application/pdf",
+                "size": "225696"
+              },
+              {
+                "name": "PC4_22-I.pdf",
+                "type": "file",
+                "id": "1Y24AWZaDynSjUIzSz1WKh2SSaU9eX3uJ",
+                "mimeType": "application/pdf",
+                "size": "157772"
+              },
+              {
+                "name": "PC4_18-II.pdf",
+                "type": "file",
+                "id": "10wuGQm-LWtqEe0sUKVc9gYLN-rqCKZ47",
+                "mimeType": "application/pdf",
+                "size": "453168"
+              },
+              {
+                "name": "PC4_17-I.pdf",
+                "type": "file",
+                "id": "1zspKGdwaCNgmvNUzClDRF-JhrYNaS-Nw",
+                "mimeType": "application/pdf",
+                "size": "283769"
+              },
+              {
+                "name": "PC4_17-II_solo_arambulo.pdf",
+                "type": "file",
+                "id": "1LBNlE2Vq7_DnqCpT8yNSihpn1f0sJ1dn",
+                "mimeType": "application/pdf",
+                "size": "215945"
+              },
+              {
+                "name": "PC4_25-II.pdf",
+                "type": "file",
+                "id": "1_OkNS79ava0Zha43HZAiyBFEY9XLhZ-N",
+                "mimeType": "application/pdf",
+                "size": "62803"
+              },
+              {
+                "name": "PC4_24-II.jpg",
+                "type": "file",
+                "id": "1WPrHl1mFpDuaQ5qVWw5YF_fBeZAYsHSj",
+                "mimeType": "image/jpeg",
+                "size": "191211"
+              },
+              {
+                "name": "PC4_25-I.jpg",
+                "type": "file",
+                "id": "1XL8DVNMc_gO47JNwebRlrvsZno5_TSs3",
+                "mimeType": "image/jpeg",
+                "size": "107622"
+              },
+              {
+                "name": "PC4_22_II_a_24_I.pdf",
+                "type": "file",
+                "id": "1L6HhKS-3ehZVgMgi71vObzGSljicvIwe",
+                "mimeType": "application/pdf",
+                "size": "622119"
+              },
+              {
+                "name": "PC4_23-I_solo_arambulo.jpg",
+                "type": "file",
+                "id": "16PQwYjZQfi3ADavEkLSY-7vTqL0vOj5K",
+                "mimeType": "image/jpeg",
+                "size": "259989"
+              },
+              {
+                "name": "PC4_23-I.jpg",
+                "type": "file",
+                "id": "1rQJOg1c8796BcFxfHJ7Am5q8OzTU1O9b",
+                "mimeType": "image/jpeg",
+                "size": "140112"
+              },
+              {
+                "name": "PC4_22-II.pdf",
+                "type": "file",
+                "id": "1TxhWv4wT6aqO3RBO4MevTg0oq07Yh0dg",
+                "mimeType": "application/pdf",
+                "size": "131980"
+              },
+              {
+                "name": "PC4_23-II.jpg",
+                "type": "file",
+                "id": "1uB72jD5vwtT2PfEedefByAd0PgDPvxWS",
+                "mimeType": "image/jpeg",
+                "size": "394753"
+              },
+              {
+                "name": "PC4_24-I.jpg",
+                "type": "file",
+                "id": "14k0xaK3xlvVlQ0Jrt5xbSW5TX6VaEK-a",
+                "mimeType": "image/jpeg",
+                "size": "126659"
+              },
+              {
+                "name": "Solucionario_PC4_BMA02X_22-1.pdf",
+                "type": "file",
+                "id": "1jF9rtI-awwK_1GLOgFjsi9QSHyA42K3r",
+                "mimeType": "application/pdf",
+                "size": "776332"
+              }
+            ]
+          },
+          {
+            "name": "Compendio_hasta_22-1",
+            "type": "file",
+            "id": "1xZomWgbVpRA5NXn-M7ial51Hcrk4d9nu",
+            "mimeType": "application/pdf",
+            "size": "26324526"
+          },
+          {
+            "name": "ES",
+            "type": "folder",
+            "id": "10kBe89AVn4Sv7UplgE0PkDpWbZ7RgX7V",
+            "children": [
+              {
+                "name": "ES_26-1",
+                "type": "file",
+                "id": "11V6Y5BWdBr9NS6kogTM_FNeCrFcWDe0E",
+                "mimeType": "application/pdf",
+                "size": "318962"
+              },
+              {
+                "name": "ES_24-2_solucionario",
+                "type": "file",
+                "id": "18gGmBe5RCK9QjytblB79X6j4YfuKx6vd",
+                "mimeType": "application/pdf",
+                "size": "221938"
+              },
+              {
+                "name": "ES_24-1_solucionario",
+                "type": "file",
+                "id": "1NrBSEM3fhAX63kVrtq9-a7uyQly_bmEx",
+                "mimeType": "application/pdf",
+                "size": "205179"
+              },
+              {
+                "name": "ES_25-2_solucionario",
+                "type": "file",
+                "id": "1uhFWPIL4birNJYK6C6jI-US5p7oCbrBt",
+                "mimeType": "application/pdf",
+                "size": "218619"
+              },
+              {
+                "name": "ES_23-1_solucionario",
+                "type": "file",
+                "id": "1NbZ1U2Ivrefe936nfQ2XyESh5P7BtSN7",
+                "mimeType": "application/pdf",
+                "size": "396482"
+              },
+              {
+                "name": "Integral_con_Solu_ES_24-1.pdf",
+                "type": "file",
+                "id": "116CvkLuNQRcCvSDxzO7_3nmT0obgz1sI",
+                "mimeType": "application/pdf",
+                "size": "1886066"
+              },
+              {
+                "name": "ES_24-2_Sol..pdf",
+                "type": "file",
+                "id": "1U-EQZSswmDE2VUkHjIO_VTdPAjQp4JJE",
+                "mimeType": "application/pdf",
+                "size": "809024"
+              },
+              {
+                "name": "ES_24-2.pdf",
+                "type": "file",
+                "id": "1nHiaXYsqP4TIJ3g3bPS2rRzZQ8ahlsqc",
+                "mimeType": "application/pdf",
+                "size": "322813"
+              },
+              {
+                "name": "Solucionario_ES_BMA02_22-1.pdf",
+                "type": "file",
+                "id": "1N8x9kDQ-YKO5I_XowiLDF73fhp96zegJ",
+                "mimeType": "application/pdf",
+                "size": "1844404"
+              },
+              {
+                "name": "ES_22-2.pdf",
+                "type": "file",
+                "id": "1XgoCfFyXDb6EmxCWBv1I20uTWtfIZY-D",
+                "mimeType": "application/pdf",
+                "size": "27287"
+              }
+            ]
+          },
+          {
+            "name": "EF",
+            "type": "folder",
+            "id": "1raFw9rGXQa3h4vu0zd0NEDtNZTpl3s3z",
+            "children": [
+              {
+                "name": "EF_25-II",
+                "type": "file",
+                "id": "1hDW2mAXVHySl4-6NVj-g0S1x2suT3Ev2",
+                "mimeType": "image/jpeg",
+                "size": "5062113"
+              },
+              {
+                "name": "EF_23-II.pdf",
+                "type": "file",
+                "id": "1SwSfWTU9Ft8L4cW2x__Q4Or7_OKslSAv",
+                "mimeType": "application/pdf",
+                "size": "87121"
+              },
+              {
+                "name": "EF_10-I_y_09-III.pdf",
+                "type": "file",
+                "id": "1pzK25zqf2jvftoid1nGCYdxvzn2uzWqD",
+                "mimeType": "application/pdf",
+                "size": "63244"
+              },
+              {
+                "name": "EF_21-II.pdf",
+                "type": "file",
+                "id": "1DiTwCb5S9L5xO_J1CjHpz9H96qM0uBLd",
+                "mimeType": "application/pdf",
+                "size": "128390"
+              },
+              {
+                "name": "EF_17-II_(Echeandia_y_gladys).pdf",
+                "type": "file",
+                "id": "1No3aB5iD4TpGOBobO1t9v2IIuFsqroQ4",
+                "mimeType": "application/pdf",
+                "size": "68979"
+              },
+              {
+                "name": "EF_22-I.pdf",
+                "type": "file",
+                "id": "1Wr_v_LLwbH6SludYS4ikiwthJnqzgfru",
+                "mimeType": "application/pdf",
+                "size": "107536"
+              },
+              {
+                "name": "EF_11-II_y_11-I.pdf",
+                "type": "file",
+                "id": "1ykQw6VWS7B71VlatXQSJ2IT5eHXrIBTm",
+                "mimeType": "application/pdf",
+                "size": "73375"
+              },
+              {
+                "name": "EF_18-II.pdf",
+                "type": "file",
+                "id": "1OmvGtnv_F46BnRFAJ408shU-1AqIKVLn",
+                "mimeType": "application/pdf",
+                "size": "140998"
+              },
+              {
+                "name": "EF_19-II.pdf",
+                "type": "file",
+                "id": "1feXaG-LNlKbXQXF_Ux7BGCypvH26rQPb",
+                "mimeType": "application/pdf",
+                "size": "99377"
+              },
+              {
+                "name": "EF_06-II_y_06-I.pdf",
+                "type": "file",
+                "id": "1aevvihEgzJrTy9xG9XJypbjanVD7zMgO",
+                "mimeType": "application/pdf",
+                "size": "76504"
+              },
+              {
+                "name": "EF_17-I_(Solo_arambulo).pdf",
+                "type": "file",
+                "id": "1LfF-BDxj71hpMXeyN-y-QOLLnN0tHOdF",
+                "mimeType": "application/pdf",
+                "size": "109638"
+              },
+              {
+                "name": "EF_20-I.pdf",
+                "type": "file",
+                "id": "1L3RHz7OXjB3hu196OhBCaw4juoc-xGZp",
+                "mimeType": "application/pdf",
+                "size": "159246"
+              },
+              {
+                "name": "EF_16-I.pdf",
+                "type": "file",
+                "id": "11arCjelohMdktnIlK9aE7JUl76sxNZr4",
+                "mimeType": "application/pdf",
+                "size": "104187"
+              },
+              {
+                "name": "EF_21-I.pdf",
+                "type": "file",
+                "id": "1jPMph9sYkMaLtM56Mz1WV3mSgcVb3iIf",
+                "mimeType": "application/pdf",
+                "size": "117931"
+              },
+              {
+                "name": "EF_10-III_y_10-II.pdf",
+                "type": "file",
+                "id": "1L_wMUtOubDknFuKtpOVkOYrEhEHEo1Hh",
+                "mimeType": "application/pdf",
+                "size": "68178"
+              },
+              {
+                "name": "EF_15-II.pdf",
+                "type": "file",
+                "id": "16ObEfJkV92VkCnzrTV3OYjJF7YmHlvmm",
+                "mimeType": "application/pdf",
+                "size": "97575"
+              },
+              {
+                "name": "EF_18-I.pdf",
+                "type": "file",
+                "id": "1Bg9NO5s_aX0TpEjMN_OObvEzrA8-wgfi",
+                "mimeType": "application/pdf",
+                "size": "123028"
+              },
+              {
+                "name": "EF_05-II_y_05-I.pdf",
+                "type": "file",
+                "id": "17fzuP7nLoRJZHT46ekkd0dXT1MbrSt_X",
+                "mimeType": "application/pdf",
+                "size": "108986"
+              },
+              {
+                "name": "EF_08-II_y_08-I.pdf",
+                "type": "file",
+                "id": "1RXCEtGsyVFyMdl6-Ppb3P8P2I8-lxNWR",
+                "mimeType": "application/pdf",
+                "size": "78411"
+              },
+              {
+                "name": "EF_20-II.pdf",
+                "type": "file",
+                "id": "1NaI9mieb12DGuBZtPM-fCEHTjzVdoq1R",
+                "mimeType": "application/pdf",
+                "size": "131765"
+              },
+              {
+                "name": "EF_12-I_y_11-III.pdf",
+                "type": "file",
+                "id": "142x6BfOmc5GaUcqm45WyPX1-MS9uvP68",
+                "mimeType": "application/pdf",
+                "size": "98921"
+              },
+              {
+                "name": "EF_16-II.pdf",
+                "type": "file",
+                "id": "1oSc0vjfWbvRcI4fPe7z17rL1SW5wVJQp",
+                "mimeType": "application/pdf",
+                "size": "107378"
+              },
+              {
+                "name": "EF_13-II_y_13-I.pdf",
+                "type": "file",
+                "id": "1DFGHcFgAAaYaPt56yQrmZKDbiLyuB-EB",
+                "mimeType": "application/pdf",
+                "size": "74032"
+              },
+              {
+                "name": "EF_12-III_y_12-II.pdf",
+                "type": "file",
+                "id": "1einMfGAWv1WUHcv1ZIQwd5224hF3sj0m",
+                "mimeType": "application/pdf",
+                "size": "74817"
+              },
+              {
+                "name": "EF_17-II_(Solo_arambulo).pdf",
+                "type": "file",
+                "id": "1R_pSqc6bk5MY0kFAQEkNLPFYz0Eh_aDA",
+                "mimeType": "application/pdf",
+                "size": "158378"
+              },
+              {
+                "name": "EF_09-II_y_09-I.pdf",
+                "type": "file",
+                "id": "1grmFQw_ViKmlvXpwog_pN5jdfifsxPmr",
+                "mimeType": "application/pdf",
+                "size": "70391"
+              },
+              {
+                "name": "EF_07-II_y_07-I.pdf",
+                "type": "file",
+                "id": "1T-sjTo6HgI2RfsyQ_-LC6zOyNVj1s3pZ",
+                "mimeType": "application/pdf",
+                "size": "72941"
+              },
+              {
+                "name": "EF_24-I_solu.pdf",
+                "type": "file",
+                "id": "16uEbyz2LJMYZnnXmPsuw0-VGx0FZ6y8-",
+                "mimeType": "application/pdf",
+                "size": "1367983"
+              },
+              {
+                "name": "EF_25-I_solu.pdf",
+                "type": "file",
+                "id": "1B0RzzjKrSh8wHnnn3V_QbesEsMxxT0mK",
+                "mimeType": "application/pdf",
+                "size": "719097"
+              },
+              {
+                "name": "EF_24-II_solu.pdf",
+                "type": "file",
+                "id": "1q_UQjSeDTKbFrbNDvajPyU0jhkuzmUV5",
+                "mimeType": "application/pdf",
+                "size": "1448723"
+              },
+              {
+                "name": "EF_23-I.pdf",
+                "type": "file",
+                "id": "1TbT1y0SB7JryP0GtBmjNJvpQf1n7dC2g",
+                "mimeType": "application/pdf",
+                "size": "113497"
+              },
+              {
+                "name": "EF_22-2.pdf",
+                "type": "file",
+                "id": "1iJDbu-ZN5lPBUocSmEC6cGowoJuxqLWh",
+                "mimeType": "application/pdf",
+                "size": "202226"
+              },
+              {
+                "name": "Soluciones",
+                "type": "folder",
+                "id": "1PDGpDi_lNyES02omzdp6qgXG7di4Kg9N",
+                "children": [
+                  {
+                    "name": "22-1",
+                    "type": "folder",
+                    "id": "1V8u0gnBHWU4MJxv4yH2pDYOxI83sEdbt",
+                    "children": [
+                      {
+                        "name": "CamScanner_08-12-2022_07.54(1)_compressed.pdf",
+                        "type": "file",
+                        "id": "1G47o86YPes8bVRc3kmzz_Qs1TC0KbRIW",
+                        "mimeType": "application/pdf",
+                        "size": "1897320"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "22-2",
+                    "type": "folder",
+                    "id": "1rVgRRC6U8OaflSLhTgDqEGmBBjE4iBL9",
+                    "children": [
+                      {
+                        "name": "Ej_Examen_final_uni_2022_2_mig.docx",
+                        "type": "file",
+                        "id": "17XeAWEebPK8AQ-W2SJ6SdvjlogWonaGG",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "270858"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "EP",
+            "type": "folder",
+            "id": "1TKZYhzlXCYIizl64W5F1UHbxggsdNhaN",
+            "children": [
+              {
+                "name": "EP_26-1.pdf",
+                "type": "file",
+                "id": "1dKA_GGedT2I2ASddsDr5Lnsd3mm19pr6",
+                "mimeType": "application/pdf",
+                "size": "500239"
+              },
+              {
+                "name": "EP_25-3",
+                "type": "file",
+                "id": "1GvfgoSuuVRO30yvq0ZRUkmD9_xMYFjVp",
+                "mimeType": "image/jpeg",
+                "size": "5900165"
+              },
+              {
+                "name": "Dirigida_EP_26-1.pdf",
+                "type": "file",
+                "id": "1lGr5NR-MO5BYYyFk9t4ZL5iHVNoXx3Tc",
+                "mimeType": "application/pdf",
+                "size": "331541"
+              },
+              {
+                "name": "EP_24-1_Sol.pdf",
+                "type": "file",
+                "id": "1f2eyFXj2ges3hGdCD4dTIYm_KsWzz5cy",
+                "mimeType": "application/pdf",
+                "size": "1495303"
+              },
+              {
+                "name": "EP_24-1.pdf",
+                "type": "file",
+                "id": "1vuIsInsRWb6k7PIui0lxGw1vsDbxQWvR",
+                "mimeType": "application/pdf",
+                "size": "154119"
+              },
+              {
+                "name": "COMPENDIO_EP2013-III.doc",
+                "type": "file",
+                "id": "1eNcug3LeFX7n5L6gMnlgZwkdXtKCiN8j",
+                "mimeType": "application/msword",
+                "size": "674304"
+              },
+              {
+                "name": "EP_25-2",
+                "type": "file",
+                "id": "1aD0GDakb1_qHHRWn0CqVB53OOEqPCqXS",
+                "mimeType": "image/jpeg",
+                "size": "6940739"
+              },
+              {
+                "name": "22-2",
+                "type": "folder",
+                "id": "1yF1WJpzfeOfUZ5JrYXoDz8GRyDvIuFoy",
+                "children": [
+                  {
+                    "name": "20221109_145118.jpg",
+                    "type": "file",
+                    "id": "1SaeGOKopb6BAtI6HWeyU-AezRjDYtHXE",
+                    "mimeType": "image/jpeg",
+                    "size": "1928687"
+                  }
+                ]
+              },
+              {
+                "name": "22-1",
+                "type": "folder",
+                "id": "1Lcegki0PQWCS_lduekUAH8WE1UXKq5y5",
+                "children": [
+                  {
+                    "name": "Solucionario_EP.pdf",
+                    "type": "file",
+                    "id": "19fG7_yQX1cvzjWS079_fp4EqweRJ6j_N",
+                    "mimeType": "application/pdf",
+                    "size": "689571"
+                  }
+                ]
+              },
+              {
+                "name": "21-2",
+                "type": "folder",
+                "id": "15K1WiDECPp6Fqlk_v0Uzad4tt1-3YZxX",
+                "children": [
+                  {
+                    "name": "BMA-02_EX_PARCIAL2021-II-solucionario.pdf",
+                    "type": "file",
+                    "id": "15p1S1w6yJ6GmIyKukklmeqiZerMMj-fQ",
+                    "mimeType": "application/pdf",
+                    "size": "290984"
+                  }
+                ]
+              },
+              {
+                "name": "20-1",
+                "type": "folder",
+                "id": "1PKc0EEP_dZ2HRe6pCf6cSVIRHW7ITHUS",
+                "children": [
+                  {
+                    "name": "SOLUCIONARIO_-_BMA02-_2020-1.docx",
+                    "type": "file",
+                    "id": "1n_zm5gklc4ED2mI2K9NAcI7PlzwSh1To",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "245639"
+                  }
+                ]
+              },
+              {
+                "name": "EP_24-2_Sol..pdf",
+                "type": "file",
+                "id": "16TkfHJU6R6HmOzqT5w43qrc1ibWtoJvB",
+                "mimeType": "application/pdf",
+                "size": "1326497"
+              },
+              {
+                "name": "EP_24-2.pdf",
+                "type": "file",
+                "id": "13wrrFkEnism-IBLqZ1DpecyxTQ1b3d3f",
+                "mimeType": "application/pdf",
+                "size": "110992"
+              },
+              {
+                "name": "EP_[03-3_-_24-1].pdf",
+                "type": "file",
+                "id": "19TcjNZjpjSSpvgTPuomUWSzSOZ89gSsU",
+                "mimeType": "application/pdf",
+                "size": "8475796"
+              }
+            ]
+          },
+          {
+            "name": "PC2",
+            "type": "folder",
+            "id": "1ZYkqLLomxw6M2mOTSF0QAhEzJf_Q3r02",
+            "children": [
+              {
+                "name": "PC2_26-1.jpeg",
+                "type": "file",
+                "id": "1V-pKfuP6AYgDMgP8-h02rY_pAMeIvnbO",
+                "mimeType": "image/jpeg",
+                "size": "112142"
+              },
+              {
+                "name": "PC2_25-2_(Simulacro).pdf",
+                "type": "file",
+                "id": "1srfydmdyG8HuVy9ejYOry8hOplEYDNo_",
+                "mimeType": "application/pdf",
+                "size": "216651"
+              },
+              {
+                "name": "PC2_25-1_(Simulacro).pdf",
+                "type": "file",
+                "id": "1DYkkxqDhLxY99Q5LVfgd4sIEJ2l3AyH2",
+                "mimeType": "application/pdf",
+                "size": "213704"
+              },
+              {
+                "name": "PC2_Antiguas.pdf",
+                "type": "file",
+                "id": "1psRF8nasgvHdrvKjr5bPW02-efsVzp4t",
+                "mimeType": "application/pdf",
+                "size": "2576502"
+              },
+              {
+                "name": "PC2_25-3.jpeg",
+                "type": "file",
+                "id": "1An3vE7PVkkhYwlAyoTM3d94oftyyrn3R",
+                "mimeType": "image/jpeg",
+                "size": "77393"
+              },
+              {
+                "name": "PC2_21-2_Solo_arambulo.pdf",
+                "type": "file",
+                "id": "16pFiRKBMPND4PixH1V79Jra-Jy6RTHd7",
+                "mimeType": "application/pdf",
+                "size": "82059"
+              },
+              {
+                "name": "PC2_20-1.pdf",
+                "type": "file",
+                "id": "1SKjp6JIktebK62_ruq33dvMIzjio0VOF",
+                "mimeType": "application/pdf",
+                "size": "185948"
+              },
+              {
+                "name": "PC2_21-2_todos.pdf",
+                "type": "file",
+                "id": "1_xwBK69RVhXAXfq0g5ZuqBpMqR8WYEgQ",
+                "mimeType": "application/pdf",
+                "size": "352763"
+              },
+              {
+                "name": "PC2_20-2_todos.pdf",
+                "type": "file",
+                "id": "1Sn--Agao0N7mGGdFq44Ts-vjSJlgNTmm",
+                "mimeType": "application/pdf",
+                "size": "451540"
+              },
+              {
+                "name": "PC2_19-2.pdf",
+                "type": "file",
+                "id": "1QfmezbwHqtRtfICdvEAqQsdmA4J0Mhdi",
+                "mimeType": "application/pdf",
+                "size": "139054"
+              },
+              {
+                "name": "PC2_19-1.pdf",
+                "type": "file",
+                "id": "1lOqgLgXYr6UR4eqBdf6v1NlhuYnzqmnB",
+                "mimeType": "application/pdf",
+                "size": "89934"
+              },
+              {
+                "name": "PC2_20-2_Solo_arambulo.pdf",
+                "type": "file",
+                "id": "1PmoiVsg51rMebBZgqlWReEAOlfMGvly3",
+                "mimeType": "application/pdf",
+                "size": "446079"
+              },
+              {
+                "name": "PC2_22-1.pdf",
+                "type": "file",
+                "id": "1LWRXbP8JaSdMjCa-O3aB_SSBwuYe1O3p",
+                "mimeType": "application/pdf",
+                "size": "192397"
+              },
+              {
+                "name": "PC2_23-2.pdf",
+                "type": "file",
+                "id": "1gy4JCorbTB49ekqp3uSfDi440FCTCcr-",
+                "mimeType": "application/pdf",
+                "size": "175629"
+              },
+              {
+                "name": "PC2_24-1_Solo_arambulo.pdf",
+                "type": "file",
+                "id": "1Fly86AHwa0n4SUF6RGFnz8Q7Hpn4WCkj",
+                "mimeType": "application/pdf",
+                "size": "198808"
+              },
+              {
+                "name": "PC2_24-II.pdf",
+                "type": "file",
+                "id": "1ffRnikqy13tcPcKAspnppAfYXDgcKPuR",
+                "mimeType": "application/pdf",
+                "size": "169874"
+              },
+              {
+                "name": "PC2_25-1.pdf",
+                "type": "file",
+                "id": "10La4wDK-tkIJ_JmiBbzvH95jtG7YPbAp",
+                "mimeType": "application/pdf",
+                "size": "186427"
+              },
+              {
+                "name": "PC2_24-1.pdf",
+                "type": "file",
+                "id": "1puCqSG_LX3T-DfJf2HUDUP4NSKemiuN8",
+                "mimeType": "application/pdf",
+                "size": "1090342"
+              },
+              {
+                "name": "Soluciones",
+                "type": "folder",
+                "id": "161pMCYxVtG9HpQO20CpXKqrkTq32tQEt",
+                "children": [
+                  {
+                    "name": "Solucionario_PC2_BMA02X_22-1.pdf",
+                    "type": "file",
+                    "id": "1XSQPnZlXPej0-OwGd5M5VnAX0aRFzGlU",
+                    "mimeType": "application/pdf",
+                    "size": "1060630"
+                  },
+                  {
+                    "name": "solucionario_pc2_2023-1.pdf",
+                    "type": "file",
+                    "id": "1CLw7H0Ory8_7RtOlufTWndPl1sQX_A2u",
+                    "mimeType": "application/pdf",
+                    "size": "5393190"
+                  }
+                ]
+              },
+              {
+                "name": "PC2_25-2.jpg",
+                "type": "file",
+                "id": "10DjlGxQp3O8KgwYNANHa26TbiUvempbD",
+                "mimeType": "image/jpeg",
+                "size": "4741117"
+              },
+              {
+                "name": "Ejercicios_2PC-1.pdf",
+                "type": "file",
+                "id": "1a47MLBCVaL2dotjtkoe1xYDjjqGeaAfb",
+                "mimeType": "application/pdf",
+                "size": "1074087"
+              },
+              {
+                "name": "PC2_23-1.jpg",
+                "type": "file",
+                "id": "1-8Tpk65zhNDYRslb1DtfiWOCRpH8Izx0",
+                "mimeType": "image/jpeg",
+                "size": "140889"
+              },
+              {
+                "name": "PC2_22-2.pdf",
+                "type": "file",
+                "id": "1-BySvdtNQZDh9Gys5E3dmEpIWLyLwxF0",
+                "mimeType": "application/pdf",
+                "size": "22578"
+              }
+            ]
+          },
+          {
+            "name": "PC3",
+            "type": "folder",
+            "id": "1_fYxRfhmEL-AgWPGpcgsn9_0BBMnoBcX",
+            "children": [
+              {
+                "name": "PC3_26-I.jpeg",
+                "type": "file",
+                "id": "1wtP7gr5SgE8rV3zpaCVtj_i_gA_pbe3T",
+                "mimeType": "image/jpeg",
+                "size": "83912"
+              },
+              {
+                "name": "PC3_25-II.pdf",
+                "type": "file",
+                "id": "11e9Sd5_vGAFDq_XvvaGYWDdNTuYQIvth",
+                "mimeType": "application/pdf",
+                "size": "228697"
+              },
+              {
+                "name": "PC3_17-I.pdf",
+                "type": "file",
+                "id": "1xeEG4jHpGc7jhTNTjTNTNgUUvsrE3iit",
+                "mimeType": "application/pdf",
+                "size": "15307794"
+              },
+              {
+                "name": "PC3_21-II.pdf",
+                "type": "file",
+                "id": "1dm-clp_WHDTNTyllwPkMYA8_nuHE9kax",
+                "mimeType": "application/pdf",
+                "size": "111913"
+              },
+              {
+                "name": "PC3_24-I.jpeg",
+                "type": "file",
+                "id": "19eWzlOHJbhrw0qhquMjN5fhzeAFcmAMl",
+                "mimeType": "image/jpeg",
+                "size": "534620"
+              },
+              {
+                "name": "PC3_24-II.pdf",
+                "type": "file",
+                "id": "1sLjYVZsTqo-W8v0xqEwZkmRNm5ljFJzR",
+                "mimeType": "application/pdf",
+                "size": "513596"
+              },
+              {
+                "name": "Planchas_antiguas_PC3.pdf",
+                "type": "file",
+                "id": "1Nkwre7Tl8CHV6m2rf7TUjIGuScJzPPs4",
+                "mimeType": "application/pdf",
+                "size": "1318028"
+              },
+              {
+                "name": "PC3_19-I.pdf",
+                "type": "file",
+                "id": "1ZpL7hK0_sIAqQsQkYzOEIi6UpWiPqHxp",
+                "mimeType": "application/pdf",
+                "size": "73123"
+              },
+              {
+                "name": "PC3_17-II.pdf",
+                "type": "file",
+                "id": "1pq3RC9BHjOoLV1Why_bvizmcwuU3JuT8",
+                "mimeType": "application/pdf",
+                "size": "362540"
+              },
+              {
+                "name": "PC3_20-I.pdf",
+                "type": "file",
+                "id": "1BOklKn8XZhNhhNaXyIilWiNfHg7PzxxB",
+                "mimeType": "application/pdf",
+                "size": "66862"
+              },
+              {
+                "name": "PC3_20-II.pdf",
+                "type": "file",
+                "id": "1N4DRFakRU3DhDpEksY-WMZGTKvdP-xtD",
+                "mimeType": "application/pdf",
+                "size": "120511"
+              },
+              {
+                "name": "PC3_23-II.jpg",
+                "type": "file",
+                "id": "1JiouuvKa8DB3GeYOVbhmViUjpVkAq26m",
+                "mimeType": "image/jpeg",
+                "size": "434772"
+              },
+              {
+                "name": "PC3_22-I_solo_arámbulo.jpg",
+                "type": "file",
+                "id": "1Rx09nMV9tDs2Ny2u4Jxvf2V95vJ_pzWF",
+                "mimeType": "image/jpeg",
+                "size": "63893"
+              },
+              {
+                "name": "PC3_21-I_solo_arámbulo.jpg",
+                "type": "file",
+                "id": "1uZ2vOkj-reDINP3T6D3_CtCqtArmNX4J",
+                "mimeType": "image/jpeg",
+                "size": "56279"
+              },
+              {
+                "name": "PC3_23-I_solo_arámbulo.jpg",
+                "type": "file",
+                "id": "14DDecHgrq9p050v773mi_dNYMfRPm-qm",
+                "mimeType": "image/jpeg",
+                "size": "59199"
+              },
+              {
+                "name": "PC3_16-II.pdf",
+                "type": "file",
+                "id": "1Wsv4-EqSQ1EQwaTCnvnprFXcVPrJmNOV",
+                "mimeType": "application/pdf",
+                "size": "198051"
+              },
+              {
+                "name": "PC3_18-I.pdf",
+                "type": "file",
+                "id": "16TVvbk1i5zdWRenrfzp1rZTWbfqn6yfS",
+                "mimeType": "application/pdf",
+                "size": "50275"
+              },
+              {
+                "name": "PC3_22-I.pdf",
+                "type": "file",
+                "id": "1e7qtI1UpK1yCNbowzYCUB2dJuSx8zc6D",
+                "mimeType": "application/pdf",
+                "size": "236551"
+              },
+              {
+                "name": "PC3_22-II.pdf",
+                "type": "file",
+                "id": "1wyaghluKU6D-b1Z37IIQCEZXrTtzOzoQ",
+                "mimeType": "application/pdf",
+                "size": "171351"
+              },
+              {
+                "name": "PC3_23-I.pdf",
+                "type": "file",
+                "id": "17JNhit1bKDghrmwWVhqhGfS2j5KH0z7G",
+                "mimeType": "image/jpeg",
+                "size": "243322"
+              },
+              {
+                "name": "PC3_23-II_solo_arámbulo.jpg",
+                "type": "file",
+                "id": "118as5B1yEVB-Xuy88aWlwaSTLGEtYRYj",
+                "mimeType": "image/jpeg",
+                "size": "61617"
+              },
+              {
+                "name": "PC3_25-I.jpg",
+                "type": "file",
+                "id": "1raj9KvP9f_ONDxkySgOmuIpBMNi2rXVC",
+                "mimeType": "image/jpeg",
+                "size": "58276"
+              },
+              {
+                "name": "Soluciones",
+                "type": "folder",
+                "id": "1tpeu8yfbmXjXGdm655SsrSCOgPPiuaTI",
+                "children": [
+                  {
+                    "name": "22-1_V,W_X",
+                    "type": "folder",
+                    "id": "1gQE6rQlZ6yj6tSZPBRXjKA_6Mj5u2rrQ",
+                    "children": [
+                      {
+                        "name": "Solucionario_PC3_BMA02_V,W,X_22-1.pdf",
+                        "type": "file",
+                        "id": "1tJ_bAXlKasf1nutvAjZKbWUYSqXZDRcQ",
+                        "mimeType": "application/pdf",
+                        "size": "937333"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "21-2_U",
+                    "type": "folder",
+                    "id": "18FXTuXWaZVfDYlixbd_m3zANgDVVPFKg",
+                    "children": [
+                      {
+                        "name": "Terceras_Practica_Solucionario_Ciclo_2021-2_Piero_Alexander_Baca_Guerrero_(20211206B).pptx",
+                        "type": "file",
+                        "id": "1c0JQ9ZqkMwAI_vR0f26_6F26YklC8PCB",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "1490878"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "PC1",
+            "type": "folder",
+            "id": "1g6RdyjZ7YP_bIptjGNp7JVT5foYlYtIS",
+            "children": [
+              {
+                "name": "PC1_26-1_BMA02.jpg",
+                "type": "file",
+                "id": "1sT9VrPwa6RQftgJ6GxHU6GtjLzSzuZjb",
+                "mimeType": "image/jpeg",
+                "size": "3193695"
+              },
+              {
+                "name": "PC1_25-II",
+                "type": "file",
+                "id": "15U_Hb8TI0qwjLuSh_Gm8eZDRyw8e7KcP",
+                "mimeType": "image/jpeg",
+                "size": "4300600"
+              },
+              {
+                "name": "PC1_25-I.pdf",
+                "type": "file",
+                "id": "17-4fa5-0pC8x4tXx4nbFITuJvgE8zQG-",
+                "mimeType": "application/pdf",
+                "size": "185686"
+              },
+              {
+                "name": "Soluciones",
+                "type": "folder",
+                "id": "1yCAhlIKjcoagiuK_IpGUvEWzAp2BcQLX",
+                "children": [
+                  {
+                    "name": "2017-2",
+                    "type": "folder",
+                    "id": "1-1n18qVE_OvqIhW1fkc6HV2Tkq-I2TVB",
+                    "children": [
+                      {
+                        "name": "IMG_20221005_001150.jpg",
+                        "type": "file",
+                        "id": "1yLJ-OsOX4z1jXRSUoGhDfuN9dsZfeerO",
+                        "mimeType": "image/jpeg",
+                        "size": "3221159"
+                      },
+                      {
+                        "name": "IMG_20221005_001129.jpg",
+                        "type": "file",
+                        "id": "11Ut_UoN7_Ewi3LB5kWR5mNXQxAD5n2uJ",
+                        "mimeType": "image/jpeg",
+                        "size": "3707808"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "20-1_U",
+                    "type": "folder",
+                    "id": "1hOANvIBP8J6YHupHG6cuu-P5YiwoWs-O",
+                    "children": [
+                      {
+                        "name": "SOLUCIONARIO_1ra_PC-_BMA02_-_ARAMBUGOD.docx",
+                        "type": "file",
+                        "id": "1e-FUx824RkaP6K7YT2m30LYQ3j4ijpcp",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "151359"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "2018-1",
+                    "type": "folder",
+                    "id": "1BUgHiCh2YFChrg7NL3gVHltWtWAncgya",
+                    "children": [
+                      {
+                        "name": "IMG_20221005_010552.jpg",
+                        "type": "file",
+                        "id": "1A5kkdj_IzyQwByFPZbkY-jo7wkZZtjEt",
+                        "mimeType": "image/jpeg",
+                        "size": "3540902"
+                      },
+                      {
+                        "name": "IMG_20221005_093827.jpg",
+                        "type": "file",
+                        "id": "1T6DKbzfWaJ4rzJ4ABS2jVHqE0gfowlRL",
+                        "mimeType": "image/jpeg",
+                        "size": "3342776"
+                      },
+                      {
+                        "name": "IMG_20221005_010543.jpg",
+                        "type": "file",
+                        "id": "1qfAAMVEgr29s4RU5EhFx4tQAnfbyU0BW",
+                        "mimeType": "image/jpeg",
+                        "size": "3452875"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "2017-1",
+                    "type": "folder",
+                    "id": "1UB1pYc1kLCj-S4HTkrPOKEI76WFSTlWw",
+                    "children": [
+                      {
+                        "name": "IMG_20221004_225802.jpg",
+                        "type": "file",
+                        "id": "1nqKIGiag4JtQbFSFV6geTK472ySim1m3",
+                        "mimeType": "image/jpeg",
+                        "size": "3656490"
+                      },
+                      {
+                        "name": "IMG_20221004_225822.jpg",
+                        "type": "file",
+                        "id": "17i1jiHE2jzm7-kgkzc5QU92zsN2dCpy7",
+                        "mimeType": "image/jpeg",
+                        "size": "3535086"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "2016-11",
+                    "type": "folder",
+                    "id": "1wzM0pGmhLoAoKxf--HLaq-OBrWR-UbOO",
+                    "children": [
+                      {
+                        "name": "IMG_20221004_213441.jpg",
+                        "type": "file",
+                        "id": "1jIHZoK4ebq_7X9q1q3L9KJjEuVxg1Cwb",
+                        "mimeType": "image/jpeg",
+                        "size": "3121257"
+                      },
+                      {
+                        "name": "IMG_20221004_213356.jpg",
+                        "type": "file",
+                        "id": "1J7UGysch9VZpseT4gYNme3CYEhmUJTRY",
+                        "mimeType": "image/jpeg",
+                        "size": "2836735"
+                      },
+                      {
+                        "name": "IMG_20221004_213424.jpg",
+                        "type": "file",
+                        "id": "1l4QKia-z6L4YYid8sT8-ObBoBszAVb6I",
+                        "mimeType": "image/jpeg",
+                        "size": "2801267"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "22-1_V,W,X",
+                    "type": "folder",
+                    "id": "1uTnr7kfyM_5KX635Vgi24Ur7AIZOpO05",
+                    "children": [
+                      {
+                        "name": "Solucionario_PC1_BMA02_V,W,X_22-1.pdf",
+                        "type": "file",
+                        "id": "1TS-3PxWMKw27wwJImEAHHkC_FBOM5bAo",
+                        "mimeType": "application/pdf",
+                        "size": "791557"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "22-2",
+                    "type": "folder",
+                    "id": "1S6HaF9LJcRIxTeW1eWs0qJk8rJK-qTps",
+                    "children": [
+                      {
+                        "name": "1PC_22-2_BMA02_Solucionario.pdf",
+                        "type": "file",
+                        "id": "1kI0N2a-tLB4c3foig1dVyKJ_Xk9gmLeQ",
+                        "mimeType": "application/pdf",
+                        "size": "2849980"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "PC1_hasta_24-2.pdf",
+                "type": "file",
+                "id": "1mEx-ciMYh7zd9avxmNVVdoqQqjBDPLkY",
+                "mimeType": "application/pdf",
+                "size": "7602490"
+              },
+              {
+                "name": "Cálculo_Integral_PC1_Arámbulo07092025.pdf",
+                "type": "file",
+                "id": "1nqE0GQuEXFhyzbf-3cbgZj9n82EAaXZS",
+                "mimeType": "application/pdf",
+                "size": "304709638"
+              },
+              {
+                "name": "BMA-02_PC1_2024_2.pdf",
+                "type": "file",
+                "id": "1WOv-Zv3hD44lYt_2YhN2iaOylWRuoXld",
+                "mimeType": "application/pdf",
+                "size": "101942"
+              },
+              {
+                "name": "PC1_19-1_V,W.pdf",
+                "type": "file",
+                "id": "1GmS97tSV_A5cqsbL0bmx823rQu8pdz4w",
+                "mimeType": "application/pdf",
+                "size": "49425"
+              },
+              {
+                "name": "PC1_18-1.pdf",
+                "type": "file",
+                "id": "1p1JFrp7kX5BoOD1-uwiMHVSXIAwwiWKX",
+                "mimeType": "application/pdf",
+                "size": "49973"
+              },
+              {
+                "name": "PC1_17-1_V,W.pdf",
+                "type": "file",
+                "id": "1hFQQON9YTn57ZaOVIZ4I09_IBnXU9uSo",
+                "mimeType": "application/pdf",
+                "size": "230998"
+              },
+              {
+                "name": "PC1_18-2.pdf",
+                "type": "file",
+                "id": "1SrMOJljHahegxZrej80yNC9n0czz2H10",
+                "mimeType": "application/pdf",
+                "size": "243514"
+              },
+              {
+                "name": "PC1_17-2_U.pdf",
+                "type": "file",
+                "id": "18xCPeOyJeqBxzlLhpBHDjFmpboRFrYmf",
+                "mimeType": "application/pdf",
+                "size": "46104"
+              },
+              {
+                "name": "PC1_22-1_V,W,X.pdf",
+                "type": "file",
+                "id": "1-8aCq1a8Uw8GBSJnHKz3fLvwRYuC3qdo",
+                "mimeType": "application/pdf",
+                "size": "508218"
+              },
+              {
+                "name": "PC1_20-1.pdf",
+                "type": "file",
+                "id": "1DG190MAVej3fP0gGoWkQGjVTYevki4T3",
+                "mimeType": "application/pdf",
+                "size": "97373"
+              },
+              {
+                "name": "PC1_17-2_V,W.jpg",
+                "type": "file",
+                "id": "1FUegNQ3aq0HMpKam873vqtoI_R9pTsEJ",
+                "mimeType": "image/jpeg",
+                "size": "142866"
+              },
+              {
+                "name": "PC1_20-2_U.pdf",
+                "type": "file",
+                "id": "1TSgnDzyB7GB0m6eZiA8BMPSc0vMfzJ-D",
+                "mimeType": "application/pdf",
+                "size": "58005"
+              },
+              {
+                "name": "PC1_21-2_U.pdf",
+                "type": "file",
+                "id": "1UCxlDaqmdizTKFLyBrp9eHGbrmSIdYaO",
+                "mimeType": "application/pdf",
+                "size": "292516"
+              },
+              {
+                "name": "PC1_17-1_U.pdf",
+                "type": "file",
+                "id": "1P5tluItkGNEMtUbdsUBlq0Q0YFDSqC6C",
+                "mimeType": "application/pdf",
+                "size": "295224"
+              },
+              {
+                "name": "PC1_20-2_V,W.pdf",
+                "type": "file",
+                "id": "1ANRMgxXmSzt6sRBIrBGOAV6nEmqxjqrO",
+                "mimeType": "application/pdf",
+                "size": "432404"
+              },
+              {
+                "name": "PC1_20-2_X.pdf",
+                "type": "file",
+                "id": "13KFbnAhIBlSk5lQw6cMIbvBcvEI9gHoh",
+                "mimeType": "application/pdf",
+                "size": "435344"
+              },
+              {
+                "name": "PC1_21-1_V.pdf",
+                "type": "file",
+                "id": "1Vqvb6Ruhy006YTef05VD6RzAVWeFTZZm",
+                "mimeType": "application/pdf",
+                "size": "137365"
+              },
+              {
+                "name": "PC1_21-2_V,W,X.pdf",
+                "type": "file",
+                "id": "1f-AGhvqmZT4ovFy7DDxyTdu-P9PVQxXJ",
+                "mimeType": "application/pdf",
+                "size": "235701"
+              },
+              {
+                "name": "PC1_21-1_U.pdf",
+                "type": "file",
+                "id": "1EXrnu5eqJUt3hnqtKmTNbWlwoCUhlcFs",
+                "mimeType": "application/pdf",
+                "size": "150028"
+              }
+            ]
+          },
+          {
+            "name": "PE",
+            "type": "folder",
+            "id": "1kycm8yWZXLDzIe4xTButcosan8jjtfTU",
+            "children": [
+              {
+                "name": "PE_25-II.pdf",
+                "type": "file",
+                "id": "13HbEgZvBS8p7CcnibgeKBW_TyaIp1SZA",
+                "mimeType": "application/pdf",
+                "size": "256375"
+              },
+              {
+                "name": "22-1_V,W,X",
+                "type": "folder",
+                "id": "1OK-PBoEMae6R5-xfPz86u7ir_9Fvt8iI",
+                "children": [
+                  {
+                    "name": "1-B.pdf",
+                    "type": "file",
+                    "id": "1z3JV7fQmg41Rz_QjWSkb_4esPJshSj7Y",
+                    "mimeType": "application/pdf",
+                    "size": "443332"
+                  },
+                  {
+                    "name": "4.jpg",
+                    "type": "file",
+                    "id": "154Q0VpEki8FvcBBC85WWLmjGHNQEw72-",
+                    "mimeType": "image/jpeg",
+                    "size": "4215751"
+                  },
+                  {
+                    "name": "1-C.jpg",
+                    "type": "file",
+                    "id": "1skicfDK2eDthloIFTIibCaB--3ZECsWg",
+                    "mimeType": "image/jpeg",
+                    "size": "2676028"
+                  },
+                  {
+                    "name": "3.jpg",
+                    "type": "file",
+                    "id": "1q3dJD1_Uo4n4ff2jDbVRrCWH0aUs80bB",
+                    "mimeType": "image/jpeg",
+                    "size": "4014266"
+                  },
+                  {
+                    "name": "2.jpg",
+                    "type": "file",
+                    "id": "12NwBJjss6MMnesPij7zRePIAJN4kvhM1",
+                    "mimeType": "image/jpeg",
+                    "size": "101274"
+                  }
+                ]
+              },
+              {
+                "name": "22-1_U",
+                "type": "folder",
+                "id": "1zIcThKsp_dKpWRwuXUmBEGFUcmtRvRxv",
+                "children": [
+                  {
+                    "name": "2.jpg",
+                    "type": "file",
+                    "id": "1ROvd55INsC46b_8nSDQ9vYwUDLOxcUGn",
+                    "mimeType": "image/jpeg",
+                    "size": "837996"
+                  },
+                  {
+                    "name": "3.pdf",
+                    "type": "file",
+                    "id": "1vVtcNs1UEUHbuYh_fqqMrBzHuG9Mlgnx",
+                    "mimeType": "application/pdf",
+                    "size": "359517"
+                  }
+                ]
+              },
+              {
+                "name": "21-2",
+                "type": "folder",
+                "id": "1dlEHITRBZyEosDyHdXmSbSMizKPYx8qt",
+                "children": [
+                  {
+                    "name": "2.pdf",
+                    "type": "file",
+                    "id": "1hE57RGw_vI9bH4c-V_PW_UEHoTmffGl6",
+                    "mimeType": "application/pdf",
+                    "size": "1152356"
+                  },
+                  {
+                    "name": "1.jpg",
+                    "type": "file",
+                    "id": "1P-PPxaLU_VC4VQTo-Zr-aJct51pma9Et",
+                    "mimeType": "image/jpeg",
+                    "size": "4700830"
+                  }
+                ]
+              },
+              {
+                "name": "18-1",
+                "type": "folder",
+                "id": "1tdbGMYjw7xif9lEr7YDLDlou1EdPc1LR",
+                "children": [
+                  {
+                    "name": "3.jpg",
+                    "type": "file",
+                    "id": "1F1ltZ6QOBE2X4OR_jCyOqgrUBZTHA5HA",
+                    "mimeType": "image/jpeg",
+                    "size": "4603190"
+                  },
+                  {
+                    "name": "2.jpg",
+                    "type": "file",
+                    "id": "1pqSK5a82l9NKt0xrAsYaMmX83KOuV5Yv",
+                    "mimeType": "image/jpeg",
+                    "size": "519444"
+                  },
+                  {
+                    "name": "2_v1.2_.jpg",
+                    "type": "file",
+                    "id": "1zii0rz9P7mJ1d-bVXFiEf7-a1bcFqFwM",
+                    "mimeType": "image/jpeg",
+                    "size": "4279782"
+                  },
+                  {
+                    "name": "5.jpg",
+                    "type": "file",
+                    "id": "1K84DPl9BjdVw_JS9kBb0eDLfwdobmWvZ",
+                    "mimeType": "image/jpeg",
+                    "size": "4492225"
+                  },
+                  {
+                    "name": "1.jpg",
+                    "type": "file",
+                    "id": "1Uv0tebM4EgLv-jPal0IlpWfvIEnhdVhb",
+                    "mimeType": "image/jpeg",
+                    "size": "2388922"
+                  }
+                ]
+              },
+              {
+                "name": "21-1_U",
+                "type": "folder",
+                "id": "1aYaqSoLSMYSyLBSBqAQpb3Ipl0mk2lDd",
+                "children": [
+                  {
+                    "name": "3.jpg",
+                    "type": "file",
+                    "id": "1upBgYOBmvp90f_w7G-R6KCiMTXaTiEGi",
+                    "mimeType": "image/jpeg",
+                    "size": "4093985"
+                  },
+                  {
+                    "name": "2.jpg",
+                    "type": "file",
+                    "id": "1KhgHjPtRDOPeBmx6HuMTokPyAzYR5sCk",
+                    "mimeType": "image/jpeg",
+                    "size": "3086183"
+                  },
+                  {
+                    "name": "4.jpg",
+                    "type": "file",
+                    "id": "1344tcAaX4PCnB6r0vxafE50dzMjbzFCl",
+                    "mimeType": "image/jpeg",
+                    "size": "3839385"
+                  }
+                ]
+              },
+              {
+                "name": "PE_hasta_24-2.pdf",
+                "type": "file",
+                "id": "1h0jwNvpm5R8g0ulY8ikl3naJtZUulXuD",
+                "mimeType": "application/pdf",
+                "size": "4035401"
+              },
+              {
+                "name": "PE_BMA02_25-2",
+                "type": "file",
+                "id": "10L8Z2IOQRMrweWk842S4l96dyu-eg2uq",
+                "mimeType": "image/jpeg",
+                "size": "4438296"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sílabo_Cálculo_Integral.pdf",
+        "type": "file",
+        "id": "1Oln6fxsVmntAhbpInpaP2SaYHEnsWRba",
+        "mimeType": "application/pdf",
+        "size": "129366"
+      },
+      {
+        "name": "Tabla_de_funciones_hiperbólicas.pdf",
+        "type": "file",
+        "id": "1Qz6N6_5gxuqbpkF7Vz9WKisurEcF-QeJ",
+        "mimeType": "application/pdf",
+        "size": "439192"
+      },
+      {
+        "name": "Gráficas_Polares.pdf",
+        "type": "file",
+        "id": "1v8KUmxWjFSHTtTp38DrRebvnsGmjNwiA",
+        "mimeType": "application/pdf",
+        "size": "687610"
+      },
+      {
+        "name": "Tabla_de_integrales.pdf",
+        "type": "file",
+        "id": "1lCz3LZteUCAE1BvLZZE6G0EC2xDdnSUp",
+        "mimeType": "application/pdf",
+        "size": "437284"
+      }
+    ]
+  }
+}

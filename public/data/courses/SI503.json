@@ -1,0 +1,440 @@
+{
+  "course_id": "SI503",
+  "course_name": "Ingeniería_de_procesos",
+  "id": "1W91TqxLCMGai1M2h4Tq0Xs-KgmfvIRad",
+  "scanned_at": "2026-08-06T23:54:53.743976+00:00",
+  "tree": {
+    "name": "Ingeniería_de_procesos",
+    "type": "folder",
+    "id": "1W91TqxLCMGai1M2h4Tq0Xs-KgmfvIRad",
+    "children": [
+      {
+        "name": "04_Libros",
+        "type": "folder",
+        "id": "19esQDlNb24r8gfnFwDb6cfhPODaqYKLz",
+        "children": []
+      },
+      {
+        "name": "03_Trabajos_y_Laboratorios",
+        "type": "folder",
+        "id": "1jEz7KHp1gmDl3XAq6F8MOUL7dT0zdAMi",
+        "children": []
+      },
+      {
+        "name": "02_Material_de_Clase",
+        "type": "folder",
+        "id": "10XmSEK10YgwRjTyc50fL-lbVpE6_qhET",
+        "children": []
+      },
+      {
+        "name": "01_Evaluaciones",
+        "type": "folder",
+        "id": "15bHWOzw3OxPGoEqrnmZv6ROyysyCgGSB",
+        "children": [
+          {
+            "name": "PC3",
+            "type": "folder",
+            "id": "19HpAn3Pu-eaZl9-7NlB6AspenpdTbu2m",
+            "children": [
+              {
+                "name": "SI503_PC3_2025-2_Molina.pdf",
+                "type": "file",
+                "id": "1jUErQaRvKjKQfYYbidelho80U8CxF80h",
+                "mimeType": "application/pdf",
+                "size": "2077115"
+              }
+            ]
+          },
+          {
+            "name": "PC4",
+            "type": "folder",
+            "id": "1Ot798JZmSvGuGgSGETTff0KK44CzEj9r",
+            "children": [
+              {
+                "name": "SI503_PC4_2025-2_Molina_Nota.pdf",
+                "type": "file",
+                "id": "1CssOzbpqFNUwVRKxsxad2kELg58qOBB_",
+                "mimeType": "text/plain",
+                "size": "323"
+              }
+            ]
+          },
+          {
+            "name": "EP",
+            "type": "folder",
+            "id": "1t5nHE-5wqEQaPoP8vJY_snhOd3PAva0T",
+            "children": [
+              {
+                "name": "SI503_EP_2025-2_Molina.pdf",
+                "type": "file",
+                "id": "1q4rOvAi39_LsPmYeGuCJVDUZ-HPyqQqT",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "66055"
+              }
+            ]
+          },
+          {
+            "name": "EF",
+            "type": "folder",
+            "id": "1lIUS9NHmh_VD5zyAojKDH7UFptHKWqoq",
+            "children": [
+              {
+                "name": "SI503_EF_2025-2_Molina-Solucionario.pdf",
+                "type": "file",
+                "id": "1yEJCLhzaW2dcBt8sWje8kT02VC3D468g",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "15423"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Oscar_Vento",
+        "type": "folder",
+        "id": "1OAHckD5Rk47BxfCyyQF_KSe9vilDmq6r",
+        "children": []
+      },
+      {
+        "name": "Julio_Talaverano",
+        "type": "folder",
+        "id": "1sunH_OHoz5TyBiHsAhVPq5Al80JBqK_L",
+        "children": []
+      },
+      {
+        "name": "Ninoska_Molina",
+        "type": "folder",
+        "id": "1jKDvO_J7FSikVUFkcKyrQ9quAAdAJ6nT",
+        "children": [
+          {
+            "name": "Evaluaciones",
+            "type": "folder",
+            "id": "1Vb1gK3qZRcatCp0b1RBZBzbaGFecM7aX",
+            "children": [
+              {
+                "name": "EF",
+                "type": "folder",
+                "id": "1al1uJZsrTkmZWC4LZwAZa1kQLpA5SOoq",
+                "children": [
+                  {
+                    "name": "Solucionario_EF_25-II.docx",
+                    "type": "file",
+                    "id": "1_MzvuAoCun2_FCuFYL2LIl5egoB6HIyh",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "15423"
+                  }
+                ]
+              },
+              {
+                "name": "EP",
+                "type": "folder",
+                "id": "1R3MRCt3RBtIZutvkrFgUESsOvXKTd901",
+                "children": [
+                  {
+                    "name": "SI503_EP_25-II.docx",
+                    "type": "file",
+                    "id": "1SMlBC4jCCOYXQo9CnHeup52C5kzXR5RE",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "66055"
+                  }
+                ]
+              },
+              {
+                "name": "PC4",
+                "type": "folder",
+                "id": "1jT-ItCuEvsuKgzs307BQgOD9eQ0U5iWw",
+                "children": [
+                  {
+                    "name": "Nota_PC4_25-II.txt",
+                    "type": "file",
+                    "id": "1peQZnnCnEwBv4DxrGPDYOopT71yh6m1h",
+                    "mimeType": "text/plain",
+                    "size": "323"
+                  }
+                ]
+              },
+              {
+                "name": "PC3",
+                "type": "folder",
+                "id": "1XOj1I6sv4dZjdL-2e9AL3_tfeMIFRfFo",
+                "children": [
+                  {
+                    "name": "SI503_PC3_25-II.pdf",
+                    "type": "file",
+                    "id": "1MhMgUlwHmqgRLsACUrV7oOgyc86_MqB_",
+                    "mimeType": "application/pdf",
+                    "size": "2077115"
+                  }
+                ]
+              },
+              {
+                "name": "PC2",
+                "type": "folder",
+                "id": "1zT85LmDYC7AWhUreKoKpToyiKlVQpX0m",
+                "children": [
+                  {
+                    "name": "Nota_PC2_25-II.txt",
+                    "type": "file",
+                    "id": "1I0X2lkwzeGmqobaRNCgGudoGfgz7Bz4i",
+                    "mimeType": "text/plain",
+                    "size": "180"
+                  },
+                  {
+                    "name": "SI503_25-II_PC_2_-_Parte_2.pdf",
+                    "type": "file",
+                    "id": "1cHwAkwEB-m6PnU8fX4alRQ02wqlySgUl",
+                    "mimeType": "application/pdf",
+                    "size": "1155912"
+                  }
+                ]
+              },
+              {
+                "name": "PE",
+                "type": "folder",
+                "id": "1AW9E90Ooj3DWooAeoOK99ZV5kXmHcIgB",
+                "children": [
+                  {
+                    "name": "SI503_PE_25-II.pdf",
+                    "type": "file",
+                    "id": "1jWe83Bg9rny44fpPqLmT6YvtGgNA477r",
+                    "mimeType": "application/pdf",
+                    "size": "521281"
+                  }
+                ]
+              },
+              {
+                "name": "PC1",
+                "type": "folder",
+                "id": "1g20f8oLMNHgCGR_YLmTzAAPGqJfnJbmu",
+                "children": [
+                  {
+                    "name": "Nota_PC1_25-II.txt",
+                    "type": "file",
+                    "id": "1L5xq7ceGNKb2rxIZVxF5RSfzXQiLPiSZ",
+                    "mimeType": "text/plain",
+                    "size": "118"
+                  }
+                ]
+              },
+              {
+                "name": "Monografía",
+                "type": "folder",
+                "id": "1dOU4VKA8cLOPul9Hwa_h6OuFokRMYxyq",
+                "children": [
+                  {
+                    "name": "Implementación_de_Kardex_en_el_almacén_de_un_albergue_para_niños_en_Lima_-_PPT.pdf",
+                    "type": "file",
+                    "id": "1X0CQ7NAOj-HDQwRbQ-hhGwnag15DhPwO",
+                    "mimeType": "application/pdf",
+                    "size": "24067533"
+                  },
+                  {
+                    "name": "Implementación_de_Kardex_en_el_almacén_de_un_albergue_para_niños_en_Lima_-_PDF.pdf",
+                    "type": "file",
+                    "id": "1AWfE44ByLBQGQQ_C0QPRPDIxhkNdC0KW",
+                    "mimeType": "application/pdf",
+                    "size": "563625"
+                  },
+                  {
+                    "name": "KARDEX.xlsm",
+                    "type": "file",
+                    "id": "1RaJVxPFHTDgVgHvdlq1bVxfi6NSFWzHn",
+                    "mimeType": "application/vnd.ms-excel.sheet.macroenabled.12",
+                    "size": "751020"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Material",
+            "type": "folder",
+            "id": "12GaDPsq0q4yscT42H6TQQ8jGEXyxaOVo",
+            "children": [
+              {
+                "name": "Exposiciones",
+                "type": "folder",
+                "id": "1-lPJo1SkUeEM51DMXe6EmZXDcjARpaYM",
+                "children": [
+                  {
+                    "name": "Exposiciones_S5&S6",
+                    "type": "folder",
+                    "id": "1yNBYAz9od_meJWx6NfxvmyRntef93NOY",
+                    "children": [
+                      {
+                        "name": "SI503W-MODELO_DE_PROCESOS_CON_BPMN_EN_BIZAGI.pdf",
+                        "type": "file",
+                        "id": "1iZ8QGo32sIRC-4lfV40wiRbxOCUjbDAz",
+                        "mimeType": "application/pdf",
+                        "size": "4224128"
+                      },
+                      {
+                        "name": "ISO_9001,_4001,_27001,_37001.pdf",
+                        "type": "file",
+                        "id": "1QctzAAM1Ao2oQQifks2DUANQY8kVgAsb",
+                        "mimeType": "application/pdf",
+                        "size": "9597575"
+                      },
+                      {
+                        "name": "ISO_9001,_4001,_27001,_37001.pptx",
+                        "type": "file",
+                        "id": "1L2sDGZ2RSpbAf0XUf5Jf9VLbkf59J6tp",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "52977635"
+                      },
+                      {
+                        "name": "GRUPO_4_-_MODELADO_DE_PROCESOS_CON_BPMN_-_SISTEMAS_DE_INFORMACION.pdf",
+                        "type": "file",
+                        "id": "1dWQToVvOSO6_UWt1JU-sq5hy8oU5_lD9",
+                        "mimeType": "application/pdf",
+                        "size": "27061772"
+                      },
+                      {
+                        "name": "Gestion_de_Procesos_BPM,_EFQM.pdf",
+                        "type": "file",
+                        "id": "1jkNp6hjdStzS09MBxh3ai8mxjuptmvvL",
+                        "mimeType": "application/pdf",
+                        "size": "1762360"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "CICLO_PHVA_&_5S.pdf",
+                    "type": "file",
+                    "id": "1ywn7GNMtBy8Lu8c-RXxe9fat6-V7LUvU",
+                    "mimeType": "application/pdf",
+                    "size": "21647055"
+                  },
+                  {
+                    "name": "ISO_-_Expo_G2.pdf",
+                    "type": "file",
+                    "id": "1kOXNXewbrSoYgFl22H2KxngLQY163JPs",
+                    "mimeType": "application/pdf",
+                    "size": "9599474"
+                  }
+                ]
+              },
+              {
+                "name": "Teoría_de_la_profesora",
+                "type": "folder",
+                "id": "12fCc0ZjE5fFFse34CNkmKVUIgxoRdnRF",
+                "children": [
+                  {
+                    "name": "Diapositivas_finales",
+                    "type": "folder",
+                    "id": "1UCZRlaPZEfrTeqH_Eq6Cw6lSmoVP-q4a",
+                    "children": [
+                      {
+                        "name": "DOCUMENTACIÓN_DE_PROCESOS.pptx",
+                        "type": "file",
+                        "id": "1wmCLXUuERW1eld3Hc8ZmGp2gzBFLPu5y",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "2396107"
+                      },
+                      {
+                        "name": "Recolección_y_análisis_de_datos.pptx",
+                        "type": "file",
+                        "id": "1BlvIj58HaOazFM_k2Nja2CEdtiHR-IvM",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "1103410"
+                      },
+                      {
+                        "name": "LIDERAZGO,_CAMBIO,_TE[1].pptx",
+                        "type": "file",
+                        "id": "13Ay_8FxB6byuZBJgPd_NpLM2GBF7zHqj",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "9439486"
+                      },
+                      {
+                        "name": "Solucionario_FINAL_IP_25.docx",
+                        "type": "file",
+                        "id": "1-L1JALiCQ7BuKyOYgj9Qh5XSoMLqj-ft",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "2270151"
+                      },
+                      {
+                        "name": "RESUMEN_ARQUITECTURA_EMPRESARIAL_CON_TOGAF_UNI.pptx",
+                        "type": "file",
+                        "id": "1ZgOLfpP-88VLTUlA7iZblXZKeBHgNB1_",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "4651939"
+                      },
+                      {
+                        "name": "DMAIC-_Herramientas_de_diagnóstico_y_mejora_completas.pptx",
+                        "type": "file",
+                        "id": "1yAR5PchOgw-6hY6jCEeHhHvQ78P9zirS",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "5551270"
+                      },
+                      {
+                        "name": "SESIÓN_9._VoP_VoC.pptx",
+                        "type": "file",
+                        "id": "1BP4Pf4emBLfWbnh9iPVN5i4b1IINQZYX",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "476130"
+                      },
+                      {
+                        "name": "Fundamentos_de_reingeniería.pptx",
+                        "type": "file",
+                        "id": "1bweyxZAB5NRXgMBbiZP1oC4iGRqk4yz_",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "524453"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_Estructura_y_diseño_organizacional_(13.09).pptx",
+                    "type": "file",
+                    "id": "1KYmyFI-Qhr7EUwiUut-RtU3LIhyiv59-",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "2044546"
+                  },
+                  {
+                    "name": "Sesión_Estructua_organizacional_y_Gestión_por_procesos.pptx",
+                    "type": "file",
+                    "id": "1N_gkKIQB0GNIfPH80nriwsRJJn-7OOwM",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "3081484"
+                  },
+                  {
+                    "name": "Sesión_Estructura_y_diseño_organizacional_(12.09.2025).pptx",
+                    "type": "file",
+                    "id": "15sWcdGfGcYD78j875FNDxnNcHYsEDJFY",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "2689180"
+                  },
+                  {
+                    "name": "Sesión_Estructura_y_diseño_organizacional_(28.03.2025).pptx",
+                    "type": "file",
+                    "id": "118ddzu97bJGdEjo2Pm8og8NKEJwQ5Rc-",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "2689180"
+                  }
+                ]
+              },
+              {
+                "name": "Nota.txt",
+                "type": "file",
+                "id": "18nDYfjK1nV9D3HGtLHTOub05OGthl--a",
+                "mimeType": "text/plain",
+                "size": "645"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Eliana_Rizabal",
+        "type": "folder",
+        "id": "1ALAM7tGk0dkLHSJK_A6x4aVCA-W-1It6",
+        "children": []
+      },
+      {
+        "name": "Alejandrina_Huarcaya",
+        "type": "folder",
+        "id": "1EPpuxSU9BU51orsUX53Q3Oa2__StWrib",
+        "children": []
+      }
+    ]
+  }
+}

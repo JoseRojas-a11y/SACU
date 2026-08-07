@@ -1,0 +1,97 @@
+{
+  "course_id": "SI405",
+  "course_name": "Modelado_conceptual_de_datos",
+  "id": "1yoUJNHPm3l7rLNJM471YcaanK80zG9hi",
+  "scanned_at": "2026-08-07T00:03:48.012055+00:00",
+  "tree": {
+    "name": "Modelado_conceptual_de_datos",
+    "type": "folder",
+    "id": "1yoUJNHPm3l7rLNJM471YcaanK80zG9hi",
+    "children": [
+      {
+        "name": "6243b3d93686ac0df4ef20106f9b4ee566dd[1].pdf",
+        "type": "file",
+        "id": "1RRBOW-AkQ4LgylLpLzldSePpexhlfH-p",
+        "mimeType": "application/pdf",
+        "size": "195881"
+      },
+      {
+        "name": "3-conceptual[1].pdf",
+        "type": "file",
+        "id": "1WNbyU6Xg2_BU0Il7WFj7rBW_Q0dg_92a",
+        "mimeType": "application/pdf",
+        "size": "532263"
+      },
+      {
+        "name": "Tino",
+        "type": "folder",
+        "id": "1tHioySxcGRXi7o9ZioTUQWM29wK7zpVQ",
+        "children": [
+          {
+            "name": "LA_GUIA_DEFINITIVA_PARA_SOBREVIVIR_CON_TINO_EN_MCD.pdf",
+            "type": "file",
+            "id": "1owX8UEyf2B6xOygtmpAUPjOgUZ3YgNfz",
+            "mimeType": "application/pdf",
+            "size": "344174"
+          },
+          {
+            "name": "MD_Misael_Tino.pdf",
+            "type": "file",
+            "id": "1lnx00VpcaT_QyQW1cHHXH6RsiHu_HuSg",
+            "mimeType": "application/pdf",
+            "size": "12965824"
+          },
+          {
+            "name": "Libro_MCD.pdf",
+            "type": "file",
+            "id": "174_MKnkVrfQn98a-lkMGIwBgy2IdqrkQ",
+            "mimeType": "application/pdf",
+            "size": "8022701"
+          }
+        ]
+      },
+      {
+        "name": "Planchas",
+        "type": "folder",
+        "id": "1nqOH_AN58lGPjpDwTJgOl8zUBL7nvXKZ",
+        "children": [
+          {
+            "name": "EP",
+            "type": "folder",
+            "id": "16EiFi84nNU2eo7HAY_EFQNwyAP_Ui5vo",
+            "children": [
+              {
+                "name": "EP_19-2.pdf",
+                "type": "file",
+                "id": "1jgyierjC_HK3IR5Y7H1sWM1RALQ1TqMw",
+                "mimeType": "application/pdf",
+                "size": "2053595"
+              },
+              {
+                "name": "EP_19-2_+_Solución.pdf",
+                "type": "file",
+                "id": "1e46uOxEXtJQZ5L1t2JOxodQUk-jskEK5",
+                "mimeType": "application/pdf",
+                "size": "2109610"
+              },
+              {
+                "name": "EP_24-1.pdf",
+                "type": "file",
+                "id": "1guqvkxmyM-TWOEfWcE2HfPE76IBITepW",
+                "mimeType": "application/pdf",
+                "size": "399508"
+              },
+              {
+                "name": "EP_23-1.pdf",
+                "type": "file",
+                "id": "1l59tcRuGXXWwvNb0gML1fkj7rr6ryKLK",
+                "mimeType": "application/pdf",
+                "size": "307956"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

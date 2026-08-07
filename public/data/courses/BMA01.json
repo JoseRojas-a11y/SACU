@@ -1,0 +1,2281 @@
+{
+  "course_id": "BMA01",
+  "course_name": "Cálculo_diferencial",
+  "id": "1CTy2N2wPCscglbg4gaM8O0zNv6DS948t",
+  "scanned_at": "2026-08-07T00:13:42.179142+00:00",
+  "tree": {
+    "name": "Cálculo_diferencial",
+    "type": "folder",
+    "id": "1CTy2N2wPCscglbg4gaM8O0zNv6DS948t",
+    "children": [
+      {
+        "name": "BMA01_Silabus.pdf",
+        "type": "file",
+        "id": "1mWIFIf1deLvpllhEMXwGKS2wbJgSPlhx",
+        "mimeType": "application/pdf",
+        "size": "177282"
+      },
+      {
+        "name": "Profesores",
+        "type": "folder",
+        "id": "1-vJAt4-dC0sb-X2wfzLNuHTnlVhseoo_",
+        "children": [
+          {
+            "name": "Bermeo",
+            "type": "folder",
+            "id": "13XIVXD6BOPH6rDmsjIQDCeuOomHYz-cK",
+            "children": [
+              {
+                "name": "DERIVADA_COMO_RAZON_DE_CAMBIO.pdf",
+                "type": "file",
+                "id": "1EtTr5qMCCwz1FHdBhG-OidVWCGYvA4LK",
+                "mimeType": "application/pdf",
+                "size": "1766208"
+              },
+              {
+                "name": "DERIVADA_LATERALES_Y_REGLAS_DE_DERIVACION.pptx",
+                "type": "file",
+                "id": "1Nby4abR4l2URO48iZQ_YDKI5AYAhdV_Y",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "366325"
+              },
+              {
+                "name": "LIMITE_INFINITOS_Y_ASINTOTAS.pdf",
+                "type": "file",
+                "id": "19IL8-_JZsn0E_Usb3Dy9GKJTuzzIF68Q",
+                "mimeType": "application/pdf",
+                "size": "3099718"
+              },
+              {
+                "name": "LIMITE_DE_FUNCIONES_REALES_1.pdf",
+                "type": "file",
+                "id": "1zM2XU4vDBCmJdx7VcGMLU6-NRrfn1JUm",
+                "mimeType": "application/pdf",
+                "size": "3295793"
+              },
+              {
+                "name": "NÚMEROS_REALES_2.pptx",
+                "type": "file",
+                "id": "1PHPWkrJYjGKgU12RXo7-4hc0X2TAejsi",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "1449866"
+              },
+              {
+                "name": "NÚMEROS_REALES_1.pptx",
+                "type": "file",
+                "id": "17yf7WMAUp-n8gNe0mqmqAAK-T3_bfwoV",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "532166"
+              },
+              {
+                "name": "LEYES_DEL_ALGEBRA_PROPOSICIONAL.pdf",
+                "type": "file",
+                "id": "1de1QCiWtJa-aWtq4TuG0BOh0f2eF6e4f",
+                "mimeType": "application/pdf",
+                "size": "1079117"
+              },
+              {
+                "name": "GRUPO_5_PROBLEMAS.docx",
+                "type": "file",
+                "id": "1pZfQdwjzV1ZmOyDiH0cmOqgrxTFR6QPs",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "895312"
+              },
+              {
+                "name": "REGLA_DE_LA_CADENA,_CONTINUIDAD_Y_DERIVADA.pdf",
+                "type": "file",
+                "id": "13FaFzv6H0QIdggjoP_o-4a25rkKcJ35-",
+                "mimeType": "application/pdf",
+                "size": "1737663"
+              },
+              {
+                "name": "CONTIUIDAD_DE_FUNCIONES_REALES.pdf",
+                "type": "file",
+                "id": "1RgayRk98tOnMFtT5x0Jj5O_TagrDJNYZ",
+                "mimeType": "application/pdf",
+                "size": "1958117"
+              },
+              {
+                "name": "CONTINUIDAD_DE_FUNCIONES_EN_INTERVALOS_CERRADOS.pdf",
+                "type": "file",
+                "id": "1sYdN3FkaxfIBNXHxOa2LpKWOrkRhyX1a",
+                "mimeType": "application/pdf",
+                "size": "1941942"
+              },
+              {
+                "name": "NÚMEROS_REALES.pdf",
+                "type": "file",
+                "id": "1NoB_wFD406eKh5-VKisPOuFHQZ1Vb0_i",
+                "mimeType": "application/pdf",
+                "size": "401807"
+              },
+              {
+                "name": "LIMITE_DE_FUNCIONES_REALES_PARTE_2.pdf",
+                "type": "file",
+                "id": "1-51tF-qWT5X34XZewIfJkuH9HaCdWF_9",
+                "mimeType": "application/pdf",
+                "size": "1121824"
+              },
+              {
+                "name": "TEOREMA_DE_L_HOSPITAL.pdf",
+                "type": "file",
+                "id": "1NJrNC23yIBhtaohlVHo3h2s78fiLJ9QY",
+                "mimeType": "application/pdf",
+                "size": "816266"
+              },
+              {
+                "name": "EXTREMOS_RELATIVOS_Y_ABSOLUTOS.pdf",
+                "type": "file",
+                "id": "17qcFFbE6UElzRAR_7ZZL5NRVAkP7z-fX",
+                "mimeType": "application/pdf",
+                "size": "2095969"
+              },
+              {
+                "name": "FUNCIONES_REALES_1.pdf",
+                "type": "file",
+                "id": "1y3IR2IE5wbHfWcYV1MAqQlQxFf9ExHew",
+                "mimeType": "application/pdf",
+                "size": "2082338"
+              },
+              {
+                "name": "CONJUNTOS_Y_OPERACIONES_1.pdf",
+                "type": "file",
+                "id": "1dzDOHc8M7T-Y2eFspP0mJ-63NbkWpXhv",
+                "mimeType": "application/pdf",
+                "size": "1015868"
+              },
+              {
+                "name": "FUNCIONES_INYECTIVA_,_SOBREYECTIVA,_BIYECTIVA_Y_INVERSA.pdf",
+                "type": "file",
+                "id": "1148Ir2qCzSx4HeaoMfkuk6I4dfwCL8WV",
+                "mimeType": "application/pdf",
+                "size": "1723589"
+              },
+              {
+                "name": "CONJUNTOS_Y_OPERACIONES_2.pdf",
+                "type": "file",
+                "id": "1rCrEVFXtdbz5AtP1weU3_ZW2SCSPTnLr",
+                "mimeType": "application/pdf",
+                "size": "560296"
+              },
+              {
+                "name": "DERIVADA_DE_UNA_FUNCION_REAL.pdf",
+                "type": "file",
+                "id": "1NSyvrvF0W7KmaDDZeeldVCOxBdLw-wIK",
+                "mimeType": "application/pdf",
+                "size": "916200"
+              },
+              {
+                "name": "CONCAVIDAD,_PUNTOS_DE_INFLEXION_GRAFICAS_Y_APLICACIONES.pdf",
+                "type": "file",
+                "id": "1Qi1fIy-E-peJOmaDXwM6YEZxWGo3kt4N",
+                "mimeType": "application/pdf",
+                "size": "2351206"
+              },
+              {
+                "name": "DERIVACION_IMPLICITA,_DERIVADA_DE_ORDEN_SUPERIOR_Y_TEOREMAS.pdf",
+                "type": "file",
+                "id": "1e9o-Zg8tnzZ_A2xATN7OAqzH7ug7qxyt",
+                "mimeType": "application/pdf",
+                "size": "1806963"
+              },
+              {
+                "name": "2020-08-05_12-16-42.mp4",
+                "type": "file",
+                "id": "1rqXn15cfcUKTw_vPM3J-mlEedl0yuM8Q",
+                "mimeType": "video/mp4",
+                "size": "226028343"
+              },
+              {
+                "name": "LÓGICA_PROPOSICIONAL_1.pdf",
+                "type": "file",
+                "id": "1zGKGmZ5lGrUgkwDI64Bs8bODC1LI0dwy",
+                "mimeType": "application/pdf",
+                "size": "334224"
+              },
+              {
+                "name": "LOGICA_PROPOSICIONAL_2.pdf",
+                "type": "file",
+                "id": "1jXMnGei1NzKVxv2oe9WlwzZfhW5heiw2",
+                "mimeType": "application/pdf",
+                "size": "554981"
+              }
+            ]
+          },
+          {
+            "name": "Cernades",
+            "type": "folder",
+            "id": "1jruo7uQZwsw29krHc7XYJ6bVCUmTEdN2",
+            "children": [
+              {
+                "name": "Prácticas_dirigidas",
+                "type": "folder",
+                "id": "1WlDdde7VT4e7SH4IMmFjw064Fvy4BTxQ",
+                "children": [
+                  {
+                    "name": "Dirigida3-BMA01.pdf",
+                    "type": "file",
+                    "id": "1C99KTzXfBi7_IbZo1kSptC6lywrqoRi-",
+                    "mimeType": "application/pdf",
+                    "size": "454835"
+                  },
+                  {
+                    "name": "Dirigida1-BMA01.pdf",
+                    "type": "file",
+                    "id": "1lCf8vnLi3bCZJEhr53YOiNSyJ4X6SYvE",
+                    "mimeType": "application/pdf",
+                    "size": "183886"
+                  },
+                  {
+                    "name": "PD2-BMA01.pdf",
+                    "type": "file",
+                    "id": "1Oow1Mn1ILJs-6zmxOSK2eaXYd16IFQLw",
+                    "mimeType": "application/pdf",
+                    "size": "329545"
+                  },
+                  {
+                    "name": "Dirigida2-BMA01.pdf",
+                    "type": "file",
+                    "id": "1agRgRjmbOJEMxRht0yZL01FZe_TQJ9Ss",
+                    "mimeType": "application/pdf",
+                    "size": "462854"
+                  }
+                ]
+              },
+              {
+                "name": "S10_Diferenciales.pdf",
+                "type": "file",
+                "id": "1e3KOs-v6ZB99w0F_yvrIUTXE0JY02UPT",
+                "mimeType": "application/pdf",
+                "size": "305987"
+              },
+              {
+                "name": "S03_Numeros_reales.pdf",
+                "type": "file",
+                "id": "1dKkxBNysJ49VNxsDAtV5sJGD09WAInOV",
+                "mimeType": "application/pdf",
+                "size": "667129"
+              },
+              {
+                "name": "TEORÍA_GENERAL_Calculo_Diferencial.pdf",
+                "type": "file",
+                "id": "1TbR-eGmdI4tnwWlcIKqd9PI18KzMwz36",
+                "mimeType": "application/pdf",
+                "size": "9160008"
+              },
+              {
+                "name": "S04_Funciones_reales.pdf",
+                "type": "file",
+                "id": "1O3OqogjB7RmrmGe7iUIexOz1L2uo9pC4",
+                "mimeType": "application/pdf",
+                "size": "590658"
+              },
+              {
+                "name": "S05_Limites_de_una_funcion.pdf",
+                "type": "file",
+                "id": "1H7d8ZF5n2YPMgSPkjRZHXCR2lRLrCWek",
+                "mimeType": "application/pdf",
+                "size": "777807"
+              },
+              {
+                "name": "S07_Continuidad.pdf",
+                "type": "file",
+                "id": "1Py7b-NBpIumB2ZwvlZz64f8IQns0gWVy",
+                "mimeType": "application/pdf",
+                "size": "1175927"
+              },
+              {
+                "name": "S11_Aplicaciones_a_la_derivada.pdf",
+                "type": "file",
+                "id": "17ZbGaNNa9L2-jclJpC1p-v8YJWWE-9dY",
+                "mimeType": "application/pdf",
+                "size": "661898"
+              },
+              {
+                "name": "S06_Asíntota.pdf",
+                "type": "file",
+                "id": "1wRBK_XJZATfkA5-2P67wzOOdLmyXbL6r",
+                "mimeType": "application/pdf",
+                "size": "229834"
+              },
+              {
+                "name": "S09_Derivadas.pdf",
+                "type": "file",
+                "id": "1UsH3P4y8mGpU_qbIfjA5MNk7_CaSxmhK",
+                "mimeType": "application/pdf",
+                "size": "466270"
+              },
+              {
+                "name": "S02_Teoria_de_conjuntos.pdf",
+                "type": "file",
+                "id": "1PKVdShii7wZWG5uIWd-5iuX65Q5BrFTj",
+                "mimeType": "application/pdf",
+                "size": "408897"
+              },
+              {
+                "name": "S01_Lógica_proposicional.pdf",
+                "type": "file",
+                "id": "1hxMhHSkb70MdyhIjt_0MmeAbUL7HEATp",
+                "mimeType": "application/pdf",
+                "size": "390401"
+              }
+            ]
+          },
+          {
+            "name": "Huamán",
+            "type": "folder",
+            "id": "1V5zk4DjO8rf0cvZEzabcYk5nl3W_e6dX",
+            "children": [
+              {
+                "name": "Material_del_profesor",
+                "type": "folder",
+                "id": "1QODTxvU-sKDzeIJf-Uqo_3unOv-Fe8TW",
+                "children": [
+                  {
+                    "name": "LA_DERIVADA_17_DE_FEBRERO.docx",
+                    "type": "file",
+                    "id": "1E7GAHje2GGBQlAyjPYwbXmvv45W9DY2I",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "364695"
+                  },
+                  {
+                    "name": "CONTINUIDAD_24_DE_NOVIEMBRE_2021.docx",
+                    "type": "file",
+                    "id": "1vSphfwPmOE2BxvwJ7Py2WKuzXzYWcAFw",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "155971"
+                  },
+                  {
+                    "name": "LIMITES_INFINITOS_17_DE_NOVIEMBRE_2021.docx",
+                    "type": "file",
+                    "id": "1Q0o6UxT6HL0osMnOy7Y3eydgstNfT0x_",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "84581"
+                  },
+                  {
+                    "name": "LIMITES_(14_DE_ENERO).docx",
+                    "type": "file",
+                    "id": "1eXIXs6dWQu4kyzLp-OzWTloaKzx4q_xs",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "68823"
+                  },
+                  {
+                    "name": "FUNCIONES_UNIVALENTE_(_20_DE_OCTUBRE_2021_).docx",
+                    "type": "file",
+                    "id": "1seXh5DjWYgV6TPrvZ10Jwn6vkECMyOxH",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "101641"
+                  },
+                  {
+                    "name": "LIMITES_TRIGONOMETRICOS_EJEMPLOS_(1).docx",
+                    "type": "file",
+                    "id": "1Dxup3lUoFjy_-HkyROBv8KY0wST72erq",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "27117"
+                  },
+                  {
+                    "name": "FUNCIONES_20_DE_MAYO_2021.docx",
+                    "type": "file",
+                    "id": "1FLGm8zTPCh4tRzVtgOejEGFCghaeUkCB",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "103159"
+                  },
+                  {
+                    "name": "CALCULO_DIFERENCIAL_(EJERCICIOS_DE_FUNCIONES_)_9_DE_JULIO.docx",
+                    "type": "file",
+                    "id": "1twzDXoveBJ1agTYBOYHc_17N3G0qRAI9",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "24959"
+                  },
+                  {
+                    "name": "INTRODUCCION_A_LAS_PROPOSICIONES_Y_CONJUNTOS_(_14_DE_SETIEMBRE_2021).docx",
+                    "type": "file",
+                    "id": "1Og3TaxYkK5xItgvzGeQD1ofAUb-S_gye",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "51480"
+                  },
+                  {
+                    "name": "NUMEROS_REALES_22_DE_ABRIL.docx",
+                    "type": "file",
+                    "id": "1ka8nduH5JubQ0d2ofez9p6f9FvuhnXMX",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "109470"
+                  },
+                  {
+                    "name": "MAXIMO_ENTERO_29_DE_SETIEMBRE_DEL_2021.docx",
+                    "type": "file",
+                    "id": "1LWhfZVP1LVhNhkE-47JxS0_Ad8vH61D8",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "22889"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Ricardo_Chung_Ching",
+            "type": "folder",
+            "id": "1-SUk8QWRAUcog-2_V82IjXP8mYCHU9H6",
+            "children": [
+              {
+                "name": "Material_del_profesor",
+                "type": "folder",
+                "id": "1F4eR1LXjobxafkJ0l9QQTQSVGRQBFSFY",
+                "children": [
+                  {
+                    "name": "Límites_y_continuidad_de_una_función_real.pdf",
+                    "type": "file",
+                    "id": "1OEGomWB9Ep-lHdl5ZhZABEKuXD_wlZoj",
+                    "mimeType": "application/pdf",
+                    "size": "2501773"
+                  }
+                ]
+              },
+              {
+                "name": "Tareas_para_Chung",
+                "type": "folder",
+                "id": "1xPAmrsPmr73NdTb9m06FUP8HkPOoEDI1",
+                "children": [
+                  {
+                    "name": "EF",
+                    "type": "folder",
+                    "id": "15gBvucFM_7vt2QzadjlARCswVONVqIP4",
+                    "children": [
+                      {
+                        "name": "3T_Berrospi_2.jpg",
+                        "type": "file",
+                        "id": "1wxnkU_08vcUsCzgCGmn-VzXyjNW4v6rc",
+                        "mimeType": "image/jpeg",
+                        "size": "1900543"
+                      },
+                      {
+                        "name": "3T_Berrospi_1.jpg",
+                        "type": "file",
+                        "id": "1rCz3HdCnUy5IKSlV4KZqgfNhGDRFc9tw",
+                        "mimeType": "image/jpeg",
+                        "size": "2145158"
+                      },
+                      {
+                        "name": "2T_Berrospi_2.jpg",
+                        "type": "file",
+                        "id": "1SSCtvv6I0wUcDsgFVHTAigfIJ9eEMIZE",
+                        "mimeType": "image/jpeg",
+                        "size": "766578"
+                      },
+                      {
+                        "name": "2T_Berrospi_1.jpg",
+                        "type": "file",
+                        "id": "1L7wJh42g-Zmy5ll14vQdz16YNc65Q_Wa",
+                        "mimeType": "image/jpeg",
+                        "size": "1583207"
+                      },
+                      {
+                        "name": "1T_Berrospi_2.jpg",
+                        "type": "file",
+                        "id": "1mtHDl-_v0QraHNgIBTl7hZe4H9vxG-_C",
+                        "mimeType": "image/jpeg",
+                        "size": "997054"
+                      },
+                      {
+                        "name": "1T_Berrospi_1.jpg",
+                        "type": "file",
+                        "id": "17_-5o8XCu1Hc4eSeAxOTZf3e1J7YZpuk",
+                        "mimeType": "image/jpeg",
+                        "size": "1801872"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "4PC",
+                    "type": "folder",
+                    "id": "1A-RJ93so4c4k8hHfyHFu3UN6_IkXDcoo",
+                    "children": [
+                      {
+                        "name": "Sol_Berrospi_4.jpg",
+                        "type": "file",
+                        "id": "1xgRjJje71urFCOaSMqTAHCjuV03Xrzrs",
+                        "mimeType": "image/jpeg",
+                        "size": "1883093"
+                      },
+                      {
+                        "name": "Sol_Berrospi_3.jpg",
+                        "type": "file",
+                        "id": "1BfkpWFC5J4YsEoaZ0iG5PDJeUHgkFhfq",
+                        "mimeType": "image/jpeg",
+                        "size": "2011831"
+                      },
+                      {
+                        "name": "Sol_Berrospi_2.jpg",
+                        "type": "file",
+                        "id": "1sOqhX_VjEKXxwqB02xDrCzG4NuUBr_zm",
+                        "mimeType": "image/jpeg",
+                        "size": "1989512"
+                      },
+                      {
+                        "name": "Sol_Berrospi_1.jpg",
+                        "type": "file",
+                        "id": "11XEho-A1do-ZogTGM-gsglrqW7Uf20EZ",
+                        "mimeType": "image/jpeg",
+                        "size": "2189626"
+                      },
+                      {
+                        "name": "3T_Berrospi_3.jpg",
+                        "type": "file",
+                        "id": "1r3sdV699dgjcZ518ibkvFh-TE1s8jXb0",
+                        "mimeType": "image/jpeg",
+                        "size": "1641774"
+                      },
+                      {
+                        "name": "3T_Berrospi_2.jpg",
+                        "type": "file",
+                        "id": "1G2pNEeOYs7g2oAFYI47a4xfwP__c8vcU",
+                        "mimeType": "image/jpeg",
+                        "size": "1933928"
+                      },
+                      {
+                        "name": "3T_Berrospi_1.jpg",
+                        "type": "file",
+                        "id": "1KJHBheC0yzFrScJcOwDpiy9o64ofWuNq",
+                        "mimeType": "image/jpeg",
+                        "size": "1552232"
+                      },
+                      {
+                        "name": "2T_Berrospi.jpg",
+                        "type": "file",
+                        "id": "1bKcU3KRWhBOhWZ8uZJLKxqJnbCnY4d5a",
+                        "mimeType": "image/jpeg",
+                        "size": "1479514"
+                      },
+                      {
+                        "name": "1T_Berrospi_3.jpg",
+                        "type": "file",
+                        "id": "1p5z47kQRDr738SGiHQ3X5myuHikkDIpf",
+                        "mimeType": "image/jpeg",
+                        "size": "1868680"
+                      },
+                      {
+                        "name": "1T_Berrospi_2.jpg",
+                        "type": "file",
+                        "id": "1laMQF2am0H9V72LqHBsn8ZQQaaXzLqvx",
+                        "mimeType": "image/jpeg",
+                        "size": "2376226"
+                      },
+                      {
+                        "name": "1T_Berrospi_1.jpg",
+                        "type": "file",
+                        "id": "1MPotz-u8YsCwkTJjcrpqXLHF3owFivqw",
+                        "mimeType": "image/jpeg",
+                        "size": "2091809"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "2PC",
+                    "type": "folder",
+                    "id": "1N2G1zFaEFnhLft8PRKKo_0VinXIVm6K4",
+                    "children": [
+                      {
+                        "name": "Tarea3_Berrospi_3.jpg",
+                        "type": "file",
+                        "id": "15RKSVeK1ho5K3-Ls7mMwUnuAmMTWjl62",
+                        "mimeType": "image/jpeg",
+                        "size": "690150"
+                      },
+                      {
+                        "name": "Tarea3_Berrospi_2.jpg",
+                        "type": "file",
+                        "id": "1MaTnqC6nCL_SRsp1beIjIG9F0XlsbUqq",
+                        "mimeType": "image/jpeg",
+                        "size": "2536153"
+                      },
+                      {
+                        "name": "Tarea3_Berrospi_1.jpg",
+                        "type": "file",
+                        "id": "1C97OSj1GIYq6obLLhElkUw77mAwTIDa4",
+                        "mimeType": "image/jpeg",
+                        "size": "699364"
+                      },
+                      {
+                        "name": "2Tarea_Berrospi_2.jpg",
+                        "type": "file",
+                        "id": "130ZIsEmrISv9fs94rO-MdB46vMGEWxw9",
+                        "mimeType": "image/jpeg",
+                        "size": "600012"
+                      },
+                      {
+                        "name": "2Tarea_Berrospi_1.jpg",
+                        "type": "file",
+                        "id": "1-gPphFDWB4PEouhPCZG5IERM6kTl2RcD",
+                        "mimeType": "image/jpeg",
+                        "size": "1329679"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "3PC",
+                    "type": "folder",
+                    "id": "1JYHtQdB24e8H1pe4SG0PeDk2TG1hHzSZ",
+                    "children": [
+                      {
+                        "name": "Sol_Berrospi_5.jpg",
+                        "type": "file",
+                        "id": "13uSz6psgq4WSMLH6psTs4z_i6RWwqoEc",
+                        "mimeType": "image/jpeg",
+                        "size": "1796084"
+                      },
+                      {
+                        "name": "Sol_Berrospi_4.jpg",
+                        "type": "file",
+                        "id": "1VSTd2wqG9qTji9TgQoBxJ2H_HCmgSjMk",
+                        "mimeType": "image/jpeg",
+                        "size": "2207224"
+                      },
+                      {
+                        "name": "Sol_Berrospi_3.jpg",
+                        "type": "file",
+                        "id": "1QQ-f7lnRsVv_tNEEqrdLB3Qd2iXW8Zus",
+                        "mimeType": "image/jpeg",
+                        "size": "2012770"
+                      },
+                      {
+                        "name": "Sol_Berrospi_2.jpg",
+                        "type": "file",
+                        "id": "1-E9f15aLpAzxuecHo7LdnIAv4IhNfLpn",
+                        "mimeType": "image/jpeg",
+                        "size": "1970736"
+                      },
+                      {
+                        "name": "Sol_Berrospi_1.jpg",
+                        "type": "file",
+                        "id": "1gbB8mljK3FfvDuwigF4t4bRZ9ECOSkt4",
+                        "mimeType": "image/jpeg",
+                        "size": "2166370"
+                      },
+                      {
+                        "name": "2T_Berrospi.jpg",
+                        "type": "file",
+                        "id": "1pFhQidxE6rjIWFD33b5CyNUPY4GKYFlW",
+                        "mimeType": "image/jpeg",
+                        "size": "290483"
+                      },
+                      {
+                        "name": "1T_Berrospi_5.jpg",
+                        "type": "file",
+                        "id": "1uabuhc3htZSCMP8igdjlPnVt6_eZJFYV",
+                        "mimeType": "image/jpeg",
+                        "size": "541056"
+                      },
+                      {
+                        "name": "1T_Berrospi_4.jpg",
+                        "type": "file",
+                        "id": "1vXgyd-07xICr7URXUF5X6BE5n-MJmnl7",
+                        "mimeType": "image/jpeg",
+                        "size": "577924"
+                      },
+                      {
+                        "name": "1T_Berrospi_3.jpg",
+                        "type": "file",
+                        "id": "18fi9wmRb9_E1c9RgT5h74CF1NRY--lgf",
+                        "mimeType": "image/jpeg",
+                        "size": "617502"
+                      },
+                      {
+                        "name": "1T_Berrospi_2.jpg",
+                        "type": "file",
+                        "id": "1sK0r4YIRq32HhnVGy_WremPRWFTXo-JI",
+                        "mimeType": "image/jpeg",
+                        "size": "617687"
+                      },
+                      {
+                        "name": "1T_Berrospi_1.jpg",
+                        "type": "file",
+                        "id": "1rlhEi66C-INGmGDGqJrnFHl27et2nIXA",
+                        "mimeType": "image/jpeg",
+                        "size": "630363"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "EP",
+                    "type": "folder",
+                    "id": "1uJ1t2tmC81W2bG_gl4c-TnUOblh_Ab8c",
+                    "children": [
+                      {
+                        "name": "Sol_Berrospi_4.jpg",
+                        "type": "file",
+                        "id": "1D8ADqRjU4y6Kgqk58d5Sx0uDdYrRTKkw",
+                        "mimeType": "image/jpeg",
+                        "size": "188023"
+                      },
+                      {
+                        "name": "Sol_Berrospi_3.jpg",
+                        "type": "file",
+                        "id": "1lVGFkgdhzcUA1rNZ5wlh7CTMBK0lRJxd",
+                        "mimeType": "image/jpeg",
+                        "size": "241894"
+                      },
+                      {
+                        "name": "Sol_Berrospi_2.jpg",
+                        "type": "file",
+                        "id": "1aE88rl5JLBVBfW_eyTRJZnzve-yE4RW7",
+                        "mimeType": "image/jpeg",
+                        "size": "211809"
+                      },
+                      {
+                        "name": "Sol_Berrospi_1.jpg",
+                        "type": "file",
+                        "id": "1ZdRZOEIyEz1alu02jq2vrEnHONeAkL4s",
+                        "mimeType": "image/jpeg",
+                        "size": "228633"
+                      },
+                      {
+                        "name": "5T_Berrospi_2.jpg",
+                        "type": "file",
+                        "id": "1zOJSR2mC3Y-1lC_c_k0D1ULhoPQVXj6O",
+                        "mimeType": "image/jpeg",
+                        "size": "203374"
+                      },
+                      {
+                        "name": "5T_Berrospi_1.jpg",
+                        "type": "file",
+                        "id": "1PgTxny8bM_Y5pHj2fJcnBPos8jb2LUGM",
+                        "mimeType": "image/jpeg",
+                        "size": "205788"
+                      },
+                      {
+                        "name": "4T_Berrospi_3.jpg",
+                        "type": "file",
+                        "id": "1xSSE9CkJIxEbBBboLoEMRaG-FqWtyRcS",
+                        "mimeType": "image/jpeg",
+                        "size": "932601"
+                      },
+                      {
+                        "name": "4T_Berrospi_2.jpg",
+                        "type": "file",
+                        "id": "19T0PeTS_JqcHwGwD8UllvkjtjdEsVCVZ",
+                        "mimeType": "image/jpeg",
+                        "size": "926432"
+                      },
+                      {
+                        "name": "4T_Berrospi_1.jpg",
+                        "type": "file",
+                        "id": "1Ok9rm-BxvOz0PznHIwIU4PlpJs9ti3YY",
+                        "mimeType": "image/jpeg",
+                        "size": "849720"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "1PC",
+                    "type": "folder",
+                    "id": "1DLnCHS_WOoe1uYc2brmq1EhPXvLv70VT",
+                    "children": [
+                      {
+                        "name": "Resolución_1PC_Berrospi_page-0003.jpg",
+                        "type": "file",
+                        "id": "1Dj6NTKHlf8nus7h0Ox57eXjcEGysTb_H",
+                        "mimeType": "image/jpeg",
+                        "size": "1092878"
+                      },
+                      {
+                        "name": "Resolución_1PC_Berrospi_page-0002.jpg",
+                        "type": "file",
+                        "id": "1_GR2LZicR1j_gnfLFh5JBCBqhMdbw0sG",
+                        "mimeType": "image/jpeg",
+                        "size": "1019278"
+                      },
+                      {
+                        "name": "Resolución_1PC_Berrospi_page-0001.jpg",
+                        "type": "file",
+                        "id": "1h4VbHYfnprlvps4bM13D4f5MnlhDhKlM",
+                        "mimeType": "image/jpeg",
+                        "size": "1053221"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Prácticas_dirigidas",
+        "type": "folder",
+        "id": "1zeLQBJksO2bOMaq29mUu1RceILtrBqc8",
+        "children": [
+          {
+            "name": "Compendio_PC4.pdf",
+            "type": "file",
+            "id": "169qCRKTa_kLHRco_VbYpxCv-3l-U9OS8",
+            "mimeType": "application/pdf",
+            "size": "704686"
+          },
+          {
+            "name": "Practica_Dirigida_PC4.pdf",
+            "type": "file",
+            "id": "1x5qEfp60IeKiHSkDAAVTWLsNx4GXRqCV",
+            "mimeType": "application/pdf",
+            "size": "548903"
+          },
+          {
+            "name": "Practica_Dirigida_PC2_y_PC3.pdf",
+            "type": "file",
+            "id": "1ypI8d0d71yLwf6UDGSXrYSHpYGk5-qtR",
+            "mimeType": "application/pdf",
+            "size": "183158"
+          },
+          {
+            "name": "Practica_Dirgida_EF.pdf",
+            "type": "file",
+            "id": "1sYmRcvpZ_fpquRYZEarVEo1aVDGgHjHB",
+            "mimeType": "application/pdf",
+            "size": "124088"
+          },
+          {
+            "name": "Compendio_EF.pdf",
+            "type": "file",
+            "id": "1gae_pVO87M8c4TisE5L-CYTt_TXQs-Qd",
+            "mimeType": "application/pdf",
+            "size": "307388"
+          },
+          {
+            "name": "Problemas_de_optimizacion.pdf",
+            "type": "file",
+            "id": "1BbkQSNbBJeXf2CTZ7l1XZFlagMFSBw0-",
+            "mimeType": "application/pdf",
+            "size": "77643"
+          },
+          {
+            "name": "Problemas_de_lógica_proposicional.pdf",
+            "type": "file",
+            "id": "1m0tKzQJ_qB-fQqsz2aKFowd_iP3cGYAC",
+            "mimeType": "application/pdf",
+            "size": "210918"
+          },
+          {
+            "name": "Compendio_PC3.pdf",
+            "type": "file",
+            "id": "1Oa_YOKCMp00tcFTScy-1xhlenqUTl6Kr",
+            "mimeType": "application/pdf",
+            "size": "321940"
+          },
+          {
+            "name": "Compendio_PC2.pdf",
+            "type": "file",
+            "id": "1TWTzPO3LotjqSkcTO7L2iBzs9mUncrN5",
+            "mimeType": "application/pdf",
+            "size": "387020"
+          },
+          {
+            "name": "Compendio_EP.pdf",
+            "type": "file",
+            "id": "1d7M185_QQ2K43Z-OHdrBwD9igWGshzfh",
+            "mimeType": "application/pdf",
+            "size": "331565"
+          },
+          {
+            "name": "Compendio_PC1.pdf",
+            "type": "file",
+            "id": "1B1qs5_2hRLmFELOFGJy1QnCstFDLQhv9",
+            "mimeType": "application/pdf",
+            "size": "307460"
+          }
+        ]
+      },
+      {
+        "name": "Tabla_de_derivadas.pdf",
+        "type": "file",
+        "id": "1q4Le1uK2IWZVSbZZ9-ud9FQ8JT7g-j-I",
+        "mimeType": "application/pdf",
+        "size": "182808"
+      },
+      {
+        "name": "Bibliografía_Recomendada",
+        "type": "folder",
+        "id": "11V1J5iYYiwkxGYv2tOWy3rKLlztMcBi5",
+        "children": [
+          {
+            "name": "Cálculo_una_variable-Thomas.pdf",
+            "type": "file",
+            "id": "1KrjyCrGC0ywAYNc4Y2K493bVSSnC5lR5",
+            "mimeType": "application/pdf",
+            "size": "16287604"
+          },
+          {
+            "name": "Cálculo_de_una_variable-Stewart",
+            "type": "file",
+            "id": "1FiD1fHLbu_lN_at-khG49LDXJIjVC0XO",
+            "mimeType": "application/pdf",
+            "size": "16918216"
+          },
+          {
+            "name": "Análisis_Matemático_I-Espinosa_Ramos.pdf",
+            "type": "file",
+            "id": "1CjSw7e-sKHFSom9Y-i3jSwGbFKk6DmfL",
+            "mimeType": "application/pdf",
+            "size": "18327252"
+          },
+          {
+            "name": "Análisis_Matemático_I_-_A._Venero_-2da_Ed.-.pdf",
+            "type": "file",
+            "id": "1avZpVJyv6PGmS0r-q17TXYstNLUuh_zS",
+            "mimeType": "application/pdf",
+            "size": "11812730"
+          },
+          {
+            "name": "Analisis_matematico_1_-_Moizes_Lazaro.pdf",
+            "type": "file",
+            "id": "1QhG8e09dEq7phihc_63EAKo8Jd-BfyNV",
+            "mimeType": "application/pdf",
+            "size": "83887557"
+          },
+          {
+            "name": "Análisis_Matemático_I_-_Figueroa.pdf",
+            "type": "file",
+            "id": "1XqwnMd6B_IivYphnyJfvRQtSJMjrdurB",
+            "mimeType": "application/pdf",
+            "size": "14140444"
+          },
+          {
+            "name": "CD._Calculo_1._De_una_variable.pdf",
+            "type": "file",
+            "id": "1y6GbPlXW_gfiH5RopRqbtFl7iCFwZNln",
+            "mimeType": "application/pdf",
+            "size": "23927122"
+          }
+        ]
+      },
+      {
+        "name": "Planchas",
+        "type": "folder",
+        "id": "11JnB4ZNbuoaAdOttrcqVg_7kZqCHuGGw",
+        "children": [
+          {
+            "name": "Recopilatorio_Antiguo_(No_necesaria_su_revisión).pdf",
+            "type": "file",
+            "id": "1j9ABi4gYwmCHe3W6Fp64zJr2y87SJ1OI",
+            "mimeType": "application/pdf",
+            "size": "24280593"
+          },
+          {
+            "name": "ES",
+            "type": "folder",
+            "id": "1ci1tIYa4Hoy9BlzhYO8iCP4QZDSm2Okt",
+            "children": [
+              {
+                "name": "Planchas_antiguas",
+                "type": "folder",
+                "id": "1thtsR2xBPk7z11lCpG67DUFwVtN2p2w5",
+                "children": [
+                  {
+                    "name": "BMA01_ES_16-1.pdf",
+                    "type": "file",
+                    "id": "1tJHVbJzyFz0MHtSZFUua5ooOVCLC5HIy",
+                    "mimeType": "application/pdf",
+                    "size": "678694"
+                  },
+                  {
+                    "name": "BMA01_ES_16-2",
+                    "type": "file",
+                    "id": "1yPWalZtu8JwVGL9-qOUZGFlCtyqdnGCr",
+                    "mimeType": "application/pdf",
+                    "size": "712885"
+                  },
+                  {
+                    "name": "BMA01_ES_19-1.pdf",
+                    "type": "file",
+                    "id": "1F76_4MjidWQ_EaOUI6WKMlZavag5DJVX",
+                    "mimeType": "application/pdf",
+                    "size": "123215"
+                  },
+                  {
+                    "name": "BMA01_ES_18-1.jpg",
+                    "type": "file",
+                    "id": "1O7mLcEha5vzi2wEUaiNFE13_dBxktbCU",
+                    "mimeType": "image/jpeg",
+                    "size": "41131"
+                  }
+                ]
+              },
+              {
+                "name": "BMA01_ES_20-2.pdf",
+                "type": "file",
+                "id": "1Z-quwfWhpwGqvjpYLrDx-9CFiEmVf-NN",
+                "mimeType": "application/pdf",
+                "size": "126761"
+              },
+              {
+                "name": "BMA01_ES_21-2.pdf",
+                "type": "file",
+                "id": "1A_sTGcu3aqpDnN3TnZKy7PX0Y0d6ByUK",
+                "mimeType": "application/pdf",
+                "size": "346826"
+              },
+              {
+                "name": "BMA01_ES_22-1.pdf",
+                "type": "file",
+                "id": "1cUAkz-fCtCbyEL-MJml18mQFuf9qdB-b",
+                "mimeType": "application/pdf",
+                "size": "31149"
+              },
+              {
+                "name": "BMA01_ES_24-1.jpg",
+                "type": "file",
+                "id": "1ayUu4HPbtEUxSNSMG2Y5MDYV10nWgGP_",
+                "mimeType": "image/jpeg",
+                "size": "45185"
+              },
+              {
+                "name": "BMA01_ES_23-2.jpg",
+                "type": "file",
+                "id": "1nrBomnFxNhNfAHfwNOt5SMPRcro1XL3v",
+                "mimeType": "image/jpeg",
+                "size": "67044"
+              },
+              {
+                "name": "BMA01_ES_23-1.jpg",
+                "type": "file",
+                "id": "1lOX3UstnliZeC9ikqJ8enq_flqcKPd5p",
+                "mimeType": "image/jpeg",
+                "size": "53543"
+              },
+              {
+                "name": "BMA01_ES_22-2.jpg",
+                "type": "file",
+                "id": "1H_LzsYujpux_KVy775SCfvgdpzu4kcLg",
+                "mimeType": "image/jpeg",
+                "size": "32836"
+              },
+              {
+                "name": "BMA01_ES_21-1",
+                "type": "file",
+                "id": "1S0Rp5zPdoRHh_JKEvQhpuoi1vymJmisV",
+                "mimeType": "application/pdf",
+                "size": "350393"
+              },
+              {
+                "name": "BMA01_ES_20-1.pdf",
+                "type": "file",
+                "id": "1cdbhXB2VMJ141ryYvZYaIY2Vnndcw94l",
+                "mimeType": "application/pdf",
+                "size": "110652"
+              },
+              {
+                "name": "BMA01_ES_24-2.jpg",
+                "type": "file",
+                "id": "1sfb96myEojlKxvWJSc9JE1zGwZylxvpk",
+                "mimeType": "image/jpeg",
+                "size": "70978"
+              },
+              {
+                "name": "BMA01_ES_25-1.pdf",
+                "type": "file",
+                "id": "1Ysw0RwQ83jOJMrI44gFagpRrhpj4WNQC",
+                "mimeType": "application/pdf",
+                "size": "128592"
+              },
+              {
+                "name": "BMA01_ES_24-1_Sol.pdf",
+                "type": "file",
+                "id": "1wdpZmJIihO7yRAPqMlG45Nyy5NTkcgrK",
+                "mimeType": "application/pdf",
+                "size": "626369"
+              }
+            ]
+          },
+          {
+            "name": "EP",
+            "type": "folder",
+            "id": "1TbGIsrIe-NI2iA8AQ5FfbFzQkUKw2tOl",
+            "children": [
+              {
+                "name": "Planchas_antiguas",
+                "type": "folder",
+                "id": "11PNpo-jsG_mK4LCP4AyxdWncm0RZ-UrL",
+                "children": [
+                  {
+                    "name": "BMA01_EP_18-2.pdf",
+                    "type": "file",
+                    "id": "19HVpdhBjjdAZPffVq0vuECk0wD8r9_Hr",
+                    "mimeType": "application/pdf",
+                    "size": "52227"
+                  },
+                  {
+                    "name": "BMA01_EP_17-1.pdf",
+                    "type": "file",
+                    "id": "1-9q4wi84TTjHk9rZgISEkoD_Ehekxr4Y",
+                    "mimeType": "application/pdf",
+                    "size": "140389"
+                  },
+                  {
+                    "name": "BMA01_EP_13-3_-_06-1.pdf",
+                    "type": "file",
+                    "id": "1JdP7sD0z72NU3XCyLwar2w02PuqIzt86",
+                    "mimeType": "application/pdf",
+                    "size": "408454"
+                  },
+                  {
+                    "name": "BMA01_EP_16-1.pdf",
+                    "type": "file",
+                    "id": "1hq2zNSy_ba2KUWP-wIlZVgoXoIkOZS-Y",
+                    "mimeType": "application/pdf",
+                    "size": "167697"
+                  },
+                  {
+                    "name": "BMA01_EP_17-2.pdf",
+                    "type": "file",
+                    "id": "1WNEJ4EUAymZTcnBMePXix7tahzZLBLbG",
+                    "mimeType": "application/pdf",
+                    "size": "96003"
+                  },
+                  {
+                    "name": "BMA01_EP_19-2.pdf",
+                    "type": "file",
+                    "id": "1uS8YrIkOrdTC7fxibYm4hkQ3dEIcfTbQ",
+                    "mimeType": "application/pdf",
+                    "size": "138939"
+                  },
+                  {
+                    "name": "BMA01_EP_16-2.pdf",
+                    "type": "file",
+                    "id": "1fFfMY2rMCgGg4E_AwYcAYsBQLKqrk8L4",
+                    "mimeType": "application/pdf",
+                    "size": "197917"
+                  },
+                  {
+                    "name": "BMA01_EP_19-1.pdf",
+                    "type": "file",
+                    "id": "14HdPAjVQLUNndS4uSjhbR2S54xL1qvlX",
+                    "mimeType": "application/pdf",
+                    "size": "90092"
+                  },
+                  {
+                    "name": "BMA01_EP_18-1.pdf",
+                    "type": "file",
+                    "id": "1IIzVBdH8xMDH41gwGBQAtVpY5jrYUX0T",
+                    "mimeType": "application/pdf",
+                    "size": "118659"
+                  }
+                ]
+              },
+              {
+                "name": "BMA01_EP_22-2.pdf",
+                "type": "file",
+                "id": "1Z2AxqmkaRIXP-PdbsZ6I0UECHyIkn62Y",
+                "mimeType": "application/pdf",
+                "size": "527331"
+              },
+              {
+                "name": "BMA01_EP_23-2.pdf",
+                "type": "file",
+                "id": "10RLtacNc1aOzwethaUF2al8FTNu6I5L0",
+                "mimeType": "application/pdf",
+                "size": "101644"
+              },
+              {
+                "name": "BMA01_EP_21-2.pdf",
+                "type": "file",
+                "id": "1ImMSY4QNKUixVu4vwYAcKVSkuSc9hJtW",
+                "mimeType": "application/pdf",
+                "size": "346654"
+              },
+              {
+                "name": "BMA01_EP_24-1.pdf",
+                "type": "file",
+                "id": "1jamtn03bPTK3c4FWcKQTa1WpLESPM5Cj",
+                "mimeType": "application/pdf",
+                "size": "505605"
+              },
+              {
+                "name": "BMA01_EP_24-1_Sol.pdf",
+                "type": "file",
+                "id": "1uS20Td1ju5yrR8j-XhrNCKXwX2zQeKAa",
+                "mimeType": "application/pdf",
+                "size": "2081833"
+              },
+              {
+                "name": "BMA01_EP_24-2.jpg",
+                "type": "file",
+                "id": "1qlfmQzo9NhkOsQePBRqdxa-zErEFtGDI",
+                "mimeType": "image/jpeg",
+                "size": "823206"
+              },
+              {
+                "name": "BMA01_EP_26-1_Sol.pdf",
+                "type": "file",
+                "id": "1-vQbb0EPkDWBp0jlNVpSoJbfy3lmQwrH",
+                "mimeType": "application/pdf",
+                "size": "195925"
+              },
+              {
+                "name": "BMA01_EP_26-1.jpg",
+                "type": "file",
+                "id": "11wm9YTOHHhlEyoY03yFRKCIzjs2PLLyj",
+                "mimeType": "image/jpeg",
+                "size": "4309491"
+              },
+              {
+                "name": "BMA01_EP_25-2.jpg",
+                "type": "file",
+                "id": "1Mh8HBMEeRnqBlNT9_69xNOuy6cg60X1M",
+                "mimeType": "image/jpeg",
+                "size": "124630"
+              },
+              {
+                "name": "BMA01_EP_25-1_Sol_Berrospi.pdf",
+                "type": "file",
+                "id": "1YBkW8-naDrkIvg9JJXUwPIbVSSfh0pyL",
+                "mimeType": "application/pdf",
+                "size": "759854"
+              },
+              {
+                "name": "BMA01_EP_25-1.jpg",
+                "type": "file",
+                "id": "1VnWhH89hABhjrh8LDZbSIREInglgRDCc",
+                "mimeType": "image/jpeg",
+                "size": "6072895"
+              },
+              {
+                "name": "BMA01_EP_23-1.jpg",
+                "type": "file",
+                "id": "1UqgKgT6DKcKi6j9K0BuJ2OLuumspWPar",
+                "mimeType": "image/jpeg",
+                "size": "50866"
+              },
+              {
+                "name": "BMA01_EP_21-1.pdf",
+                "type": "file",
+                "id": "1uQLR5zpzEMMRlUl9CFB0x3EHGigOXLrQ",
+                "mimeType": "application/pdf",
+                "size": "193476"
+              },
+              {
+                "name": "BMA01_EP_20-1.pdf",
+                "type": "file",
+                "id": "1UpI1hGt6IYQFNbJCnMdyc27g2g2drR1o",
+                "mimeType": "application/pdf",
+                "size": "121201"
+              },
+              {
+                "name": "BMA01_EP_25-3.jpeg",
+                "type": "file",
+                "id": "14iXAlcWO5zzOYdQsbPjw-rdZFMs-YgLW",
+                "mimeType": "image/jpeg",
+                "size": "128259"
+              }
+            ]
+          },
+          {
+            "name": "PC3",
+            "type": "folder",
+            "id": "1PnQ1ClmYuMSAvjcmAyLnDymSBA9Elx-d",
+            "children": [
+              {
+                "name": "Planchas_antiguas",
+                "type": "folder",
+                "id": "1L-L51wCgGb769FwYYcccNpQooInWLJFB",
+                "children": [
+                  {
+                    "name": "BMA01_PC3_17-2_08-1.pdf",
+                    "type": "file",
+                    "id": "1IQTZjy_sSi6-hsDys4485btLk528ZjXd",
+                    "mimeType": "application/pdf",
+                    "size": "397402"
+                  },
+                  {
+                    "name": "BMA01_PC3_18-1.pdf",
+                    "type": "file",
+                    "id": "1yoPOf7NuMSWhcQow_wlQ7IvRpqGlNrZK",
+                    "mimeType": "application/pdf",
+                    "size": "108609"
+                  },
+                  {
+                    "name": "BMA01_PC3_18-2.pdf",
+                    "type": "file",
+                    "id": "1WAbCg9FB0Natj9nWKUDYtlnIDMOJK3bt",
+                    "mimeType": "application/pdf",
+                    "size": "125719"
+                  },
+                  {
+                    "name": "BMA01_PC3_19-1.pdf",
+                    "type": "file",
+                    "id": "16437g3RfsfDdMKdlUm8wk0zqlfY-k5Y9",
+                    "mimeType": "application/pdf",
+                    "size": "77172"
+                  }
+                ]
+              },
+              {
+                "name": "BMA01_PC3_24-1.pdf",
+                "type": "file",
+                "id": "1HhmDY1u5MlfroequPXB1-Ylu-M4b2oFI",
+                "mimeType": "application/pdf",
+                "size": "757816"
+              },
+              {
+                "name": "BMA01_PC3_25-2.pdf",
+                "type": "file",
+                "id": "138TtTSwUXEqcJrtn4OcRukXfmnyZCjRX",
+                "mimeType": "application/pdf",
+                "size": "121318"
+              },
+              {
+                "name": "BMA01_PC3_23-2.pdf",
+                "type": "file",
+                "id": "1thkvGucBZB02WzBiItjC0zFVcWUvN8AW",
+                "mimeType": "application/pdf",
+                "size": "145382"
+              },
+              {
+                "name": "BMA01_PC3_22-1.pdf",
+                "type": "file",
+                "id": "15eHUc1ic5tqntb-R-L11bGZz8WVtbwp6",
+                "mimeType": "application/pdf",
+                "size": "114535"
+              },
+              {
+                "name": "BMA01_PC3_24-2.pdf",
+                "type": "file",
+                "id": "1YBqZF4WZLtDTIe2PQKrr87CbuSH6LVGe",
+                "mimeType": "application/pdf",
+                "size": "150273"
+              },
+              {
+                "name": "BMA01_PC3_23-1.pdf",
+                "type": "file",
+                "id": "1CzmXHMLgbkirriW3h2WiVZjdjqY5DY7Y",
+                "mimeType": "application/pdf",
+                "size": "145905"
+              },
+              {
+                "name": "BMA01_PC3_23-2_Sol.pdf",
+                "type": "file",
+                "id": "1C81zLw_aZ2KpHUXyBgJ4xU2dGc8jfr-_",
+                "mimeType": "application/pdf",
+                "size": "1260116"
+              },
+              {
+                "name": "BMA01_PC3_23-1_Sol.pdf",
+                "type": "file",
+                "id": "1ZR_ZCBmflqcwVSO7O2GY6gGy2txoaigU",
+                "mimeType": "application/pdf",
+                "size": "1208884"
+              },
+              {
+                "name": "BMA01_PC3_24-3.pdf",
+                "type": "file",
+                "id": "12-pUzoilpv5AcoOfnBnp1NvhXcVE3OTs",
+                "mimeType": "application/pdf",
+                "size": "139061"
+              },
+              {
+                "name": "BMA01_PC3_25-2_Sol.pdf",
+                "type": "file",
+                "id": "1Ask-70B1vTZ-kDRYZNoucaqguQoq6tt6",
+                "mimeType": "application/pdf",
+                "size": "626013"
+              },
+              {
+                "name": "BMA01_PC3_22-2.pdf",
+                "type": "file",
+                "id": "1TdWBqYYVvOXgenXZwwo82poYH1dMdJJS",
+                "mimeType": "application/pdf",
+                "size": "107216"
+              },
+              {
+                "name": "BMA01_PC3_25-1_Sol_Berrospi.pdf",
+                "type": "file",
+                "id": "1mD0ncFpr8ftdc095J7HUZ8L0H8ennhuW",
+                "mimeType": "application/pdf",
+                "size": "1190047"
+              },
+              {
+                "name": "BMA01_PC3_21-1.pdf",
+                "type": "file",
+                "id": "1kajmiiNOhYWhrE0cCKr7xNFwWTnKvRe3",
+                "mimeType": "application/pdf",
+                "size": "196484"
+              },
+              {
+                "name": "BMA01_PC3_21-2.pdf",
+                "type": "file",
+                "id": "1aTyFATqs9FxBcAGlSAK_pwP2jd9nb2Ku",
+                "mimeType": "application/pdf",
+                "size": "172752"
+              },
+              {
+                "name": "BMA01_PC3_26-1",
+                "type": "file",
+                "id": "18hDA_wjP7TzWG_TjqoQDEMAlP5skY3c2",
+                "mimeType": "image/jpeg",
+                "size": "516513"
+              },
+              {
+                "name": "BMA01_PC3_25-1",
+                "type": "file",
+                "id": "1gbI1lwl3E78cCqalegugXBmLPiGz-xYC",
+                "mimeType": "image/jpeg",
+                "size": "5955238"
+              },
+              {
+                "name": "BMA01_PC3_20-1.pdf",
+                "type": "file",
+                "id": "1o-v-ccYAorQIZskWMvMgWUFzSMofEqCS",
+                "mimeType": "application/pdf",
+                "size": "83968"
+              }
+            ]
+          },
+          {
+            "name": "PC4",
+            "type": "folder",
+            "id": "178ZwXIk1Fg3FKqx9zr_7CEBIvGxQ-3Yk",
+            "children": [
+              {
+                "name": "Planchas_antiguas",
+                "type": "folder",
+                "id": "1Tmv5kSIqsO9qu05_Y3AhZwQ4xgt5mPiY",
+                "children": [
+                  {
+                    "name": "BMA01_PC4_15-1_-_05-2.pdf",
+                    "type": "file",
+                    "id": "1oOp9suXmco5-X_Kh81p4NrrYsrhv4FeX",
+                    "mimeType": "application/pdf",
+                    "size": "385100"
+                  },
+                  {
+                    "name": "BMA01_PC4_16-2.pdf",
+                    "type": "file",
+                    "id": "197VoT3DPC244PyQ6p3uqy7SoyvW-B_eo",
+                    "mimeType": "application/pdf",
+                    "size": "148830"
+                  },
+                  {
+                    "name": "BMA01_PC4_17-1.pdf",
+                    "type": "file",
+                    "id": "1UgFTHetLLg4maBgmBKigSPULB9FZGaTm",
+                    "mimeType": "application/pdf",
+                    "size": "139681"
+                  },
+                  {
+                    "name": "BMA01_PC4_17-2.pdf",
+                    "type": "file",
+                    "id": "1vXgwHW5a8t9L33BGCLw01riP3jcxUCSE",
+                    "mimeType": "application/pdf",
+                    "size": "160995"
+                  },
+                  {
+                    "name": "BMA01_PC4_19-1.pdf",
+                    "type": "file",
+                    "id": "1pobhkNnwdK2YddH9an0RZKYn59FYv58u",
+                    "mimeType": "application/pdf",
+                    "size": "112367"
+                  }
+                ]
+              },
+              {
+                "name": "BMA01_PC4_26-1.jpg",
+                "type": "file",
+                "id": "1b5VSjWY7JqsprLUwcWvgUb8LbCPYZzqv",
+                "mimeType": "image/jpeg",
+                "size": "611560"
+              },
+              {
+                "name": "BMA01_PC4_22-2_Sol.pdf",
+                "type": "file",
+                "id": "16qjYYKRgforGKsxPZA-J2h9ja4fTXMKv",
+                "mimeType": "application/pdf",
+                "size": "314794"
+              },
+              {
+                "name": "BMA01_PC4_23-1.pdf",
+                "type": "file",
+                "id": "15tCll_vGVxIt-fxl7cNnq4u73JYH9MOv",
+                "mimeType": "application/pdf",
+                "size": "182409"
+              },
+              {
+                "name": "BMA01_PC4_23-2_Sol.pdf",
+                "type": "file",
+                "id": "1ik0HfruzwDwPOpwCVfwDkg9Mnl74qkFB",
+                "mimeType": "application/pdf",
+                "size": "1220016"
+              },
+              {
+                "name": "BMA01_PC4_23-2",
+                "type": "file",
+                "id": "1Q24cqEXrfzCkFfVrCGwOX6N7wTfv6-sO",
+                "mimeType": "application/pdf",
+                "size": "160670"
+              },
+              {
+                "name": "BMA01_PC4_24-2_Sol.pdf",
+                "type": "file",
+                "id": "1oTI043RCA2fZW6zWR7s4KFHQfjpJQb_v",
+                "mimeType": "application/pdf",
+                "size": "956387"
+              },
+              {
+                "name": "BMA01_PC4_24-1.pdf",
+                "type": "file",
+                "id": "1n4fDu-64NhxIXssJfnz7DiSQ1InOkAd0",
+                "mimeType": "application/pdf",
+                "size": "169611"
+              },
+              {
+                "name": "BMA01_PC4_24-3_Sol.pdf",
+                "type": "file",
+                "id": "18sX0Zf53c1LrkjRWjXkNEWYA8zRndGCR",
+                "mimeType": "application/pdf",
+                "size": "1116522"
+              },
+              {
+                "name": "BMA01_PC4_24-3.pdf",
+                "type": "file",
+                "id": "1OfeFCyByQPt0px7ZfZlJ0bQ7wD8sF98c",
+                "mimeType": "application/pdf",
+                "size": "156595"
+              },
+              {
+                "name": "BMA01_PC4_25-1_Sol_Berrospi.pdf",
+                "type": "file",
+                "id": "19-mtIcOSMDVgfqpqG8w1sBa-qNMqLMvz",
+                "mimeType": "application/pdf",
+                "size": "763649"
+              },
+              {
+                "name": "BMA01_PC4_22-2.pdf",
+                "type": "file",
+                "id": "1kc3DBemc1AuxOVQBaP90-z7QJ8ZJO3fn",
+                "mimeType": "application/pdf",
+                "size": "156547"
+              },
+              {
+                "name": "BMA01_PC4_24-2.jpg",
+                "type": "file",
+                "id": "1EYbVK366t25c_QUmFQYu3CFxkcJXmYTA",
+                "mimeType": "image/jpeg",
+                "size": "765727"
+              },
+              {
+                "name": "BMA01_PC4_21-2.pdf",
+                "type": "file",
+                "id": "1Z_GXUREhlJpIOvwqzyw_uQqHW2Jm-kJQ",
+                "mimeType": "application/pdf",
+                "size": "168512"
+              },
+              {
+                "name": "BMA01_PC4_21-1.pdf",
+                "type": "file",
+                "id": "1ls5ai1Kv2opn2bCMpYBPLScP-9Bv38M5",
+                "mimeType": "application/pdf",
+                "size": "468980"
+              },
+              {
+                "name": "BMA01_PC4_20-1.pdf",
+                "type": "file",
+                "id": "1coJliWKsPxbEWZxwuVCsFKzXQzlij3rL",
+                "mimeType": "application/pdf",
+                "size": "109950"
+              },
+              {
+                "name": "BMA01_PC4_25-1",
+                "type": "file",
+                "id": "1eXe6bc9CC-O9T6BJOLu3QgeDOEgqDqcT",
+                "mimeType": "image/jpeg",
+                "size": "4704926"
+              },
+              {
+                "name": "BMA01_PC4_25-2.jpg",
+                "type": "file",
+                "id": "10nJ4Z_YDHV59Cre29si3mRMmt70Q8J5D",
+                "mimeType": "image/jpeg",
+                "size": "3514167"
+              }
+            ]
+          },
+          {
+            "name": "PC1",
+            "type": "folder",
+            "id": "1iVsdU_wuL2Jy0fEFIIs4dPBj8vz8gaE2",
+            "children": [
+              {
+                "name": "Planchas_antiguas",
+                "type": "folder",
+                "id": "1wy9u94-1t1sN1NIwK4M3zhVTgO47x0qR",
+                "children": [
+                  {
+                    "name": "BMA01_PC1_19-2.pdf",
+                    "type": "file",
+                    "id": "1A8S0DDuKwZP-ghkZRWLiGZGKTwOesJb4",
+                    "mimeType": "application/pdf",
+                    "size": "62350"
+                  },
+                  {
+                    "name": "BMA01_PC1_18-1.pdf",
+                    "type": "file",
+                    "id": "1kARLGMhSCxcJCto89Y-dbp2JuUNSvLH-",
+                    "mimeType": "application/pdf",
+                    "size": "65240"
+                  },
+                  {
+                    "name": "BMA01_PC1_17-2.pdf",
+                    "type": "file",
+                    "id": "1xQvousuvzcRsK7FquJ1Kew2P0fy5n_oP",
+                    "mimeType": "application/pdf",
+                    "size": "97122"
+                  },
+                  {
+                    "name": "BMA01_PC1_16-2_-_08-2.pdf",
+                    "type": "file",
+                    "id": "1BXTiHKBiTfUg-97HpcQRBN7Ouvzoigm1",
+                    "mimeType": "application/pdf",
+                    "size": "359519"
+                  },
+                  {
+                    "name": "BMA01_PC1_17-1.pdf",
+                    "type": "file",
+                    "id": "1_dY9PkVejiW4FINIUe23oj4iFYP6T294",
+                    "mimeType": "application/pdf",
+                    "size": "112028"
+                  },
+                  {
+                    "name": "BMA01_PC1_19-1.pdf",
+                    "type": "file",
+                    "id": "1ppAGvdxBHfIxsgoxRYzcNHc_w_XHvzmW",
+                    "mimeType": "application/pdf",
+                    "size": "77569"
+                  },
+                  {
+                    "name": "BMA01_PC1_18-2.pdf",
+                    "type": "file",
+                    "id": "1xH0T-ss1mwwZjwf_tDezKHOz_7V46h9F",
+                    "mimeType": "application/pdf",
+                    "size": "158771"
+                  }
+                ]
+              },
+              {
+                "name": "BMA01_PC1_25-1_Sol_Berrospi.jpg",
+                "type": "file",
+                "id": "1c_YrhP_OYO_1n9BlEb-foytxhuCrhzLU",
+                "mimeType": "application/pdf",
+                "size": "455996"
+              },
+              {
+                "name": "BMA01_PC1_25-1.jpg",
+                "type": "file",
+                "id": "189JpDGgFt-UxPqEPBikVTbR1qA74fsFM",
+                "mimeType": "image/jpeg",
+                "size": "5023278"
+              },
+              {
+                "name": "BMA01_PC1_24-2.jpg",
+                "type": "file",
+                "id": "1Jd0WgCNdcBOh_pXho8cWSmCQy2U9mgNX",
+                "mimeType": "image/jpeg",
+                "size": "43837"
+              },
+              {
+                "name": "BMA01_PC1_22-3.jpg",
+                "type": "file",
+                "id": "1VMuuH-kAb9_c3Ja0OgwgZUkARFgyrW6f",
+                "mimeType": "image/jpeg",
+                "size": "48725"
+              },
+              {
+                "name": "BMA01_PC1_22-2.jpg",
+                "type": "file",
+                "id": "1SCCsMbkdGY2gqACCsxV6zkX1JcGEGvfg",
+                "mimeType": "image/jpeg",
+                "size": "32617"
+              },
+              {
+                "name": "BMA01_PC1_20-1.pdf",
+                "type": "file",
+                "id": "1Z_2ZjhuDyCDFKvRWpa8ZhQ6sCO4t9jY9",
+                "mimeType": "application/pdf",
+                "size": "99223"
+              },
+              {
+                "name": "BMA01_PC1_22-1.pdf",
+                "type": "file",
+                "id": "14F3JsW4f2eb5BqgJYwqJApQYGEGWHIZ-",
+                "mimeType": "application/pdf",
+                "size": "29463"
+              },
+              {
+                "name": "BMA01_PC1_24-1.pdf",
+                "type": "file",
+                "id": "1mbOMhrvYpyR2QXq_aE1rPmZYjevMSQdd",
+                "mimeType": "application/pdf",
+                "size": "802344"
+              },
+              {
+                "name": "BMA01_PC1_21-2.pdf",
+                "type": "file",
+                "id": "1xlvy_vRJEITnB5SQKZTleZBKt7V7rj9A",
+                "mimeType": "application/pdf",
+                "size": "60308"
+              },
+              {
+                "name": "BMA01_PC1_23-1.pdf",
+                "type": "file",
+                "id": "1DIH-SMpvCIPtpjDK7hAO5_ek4480b0VY",
+                "mimeType": "application/pdf",
+                "size": "63129"
+              },
+              {
+                "name": "BMA01_PC1_26-1.jpg",
+                "type": "file",
+                "id": "1KYPtCPMRThFZtV62MZS0BuxRXvPSDlh8",
+                "mimeType": "image/jpeg",
+                "size": "4491172"
+              },
+              {
+                "name": "BMA01_PC1_25-3.jpg",
+                "type": "file",
+                "id": "148ngs79vYUnOHd1ilG8D44oUSBi1FcGY",
+                "mimeType": "image/jpeg",
+                "size": "122945"
+              },
+              {
+                "name": "BMA01_PC1_25-2.jpg",
+                "type": "file",
+                "id": "1q4LstecfXUHLhL41uOXbGxXBftloyP_C",
+                "mimeType": "image/jpeg",
+                "size": "1475104"
+              },
+              {
+                "name": "BMA01_PC1_21-1.jpg",
+                "type": "file",
+                "id": "1lb5RdSrUhj1BNrSUVlsZsp6V_HVyWRZC",
+                "mimeType": "image/jpeg",
+                "size": "81806"
+              }
+            ]
+          },
+          {
+            "name": "PE",
+            "type": "folder",
+            "id": "1wY8FKgFstptxynxJ-fusR_gjgsIKK3IL",
+            "children": [
+              {
+                "name": "BMA01_PE_26-1.jpg",
+                "type": "file",
+                "id": "1IsDaVsi1ikD0_WtgYwuKmr3SoWjOgw2H",
+                "mimeType": "image/jpeg",
+                "size": "4964342"
+              },
+              {
+                "name": "BMA01_PE_25-1.jpg",
+                "type": "file",
+                "id": "1p7gsSIUOYE_d1BW73s83LN8jdhI57IJY",
+                "mimeType": "image/jpeg",
+                "size": "4893825"
+              },
+              {
+                "name": "BMA01_PE_25-2.jpg",
+                "type": "file",
+                "id": "1ZVKZmUlDpODr6XCHJsI_fVU-ad0pML0N",
+                "mimeType": "image/jpeg",
+                "size": "1507429"
+              },
+              {
+                "name": "BMA01_PE_24-2.jpg",
+                "type": "file",
+                "id": "1qmhShVa2lTpMARo0e9VJdMbM7PLZ9tA4",
+                "mimeType": "image/jpeg",
+                "size": "47354"
+              },
+              {
+                "name": "BMA01_PE_23-1.jpg",
+                "type": "file",
+                "id": "1klZ8geIMAdff4P6MzUbHeb_XBLQtD2uH",
+                "mimeType": "image/jpeg",
+                "size": "38494"
+              },
+              {
+                "name": "BMA01_PE_22-2.jpg",
+                "type": "file",
+                "id": "16QJH5L54B3pbRaBo-GMy2zPD8aBQrpsf",
+                "mimeType": "image/jpeg",
+                "size": "39522"
+              },
+              {
+                "name": "BMA01_PE_22-1.jpg",
+                "type": "file",
+                "id": "1Slsk6w6PwQ1STukThOYSURojMR26UuLy",
+                "mimeType": "image/jpeg",
+                "size": "35998"
+              }
+            ]
+          },
+          {
+            "name": "PC2",
+            "type": "folder",
+            "id": "1QttVtLTxdoH1pAsg23jK9fjsJ5nnWU9M",
+            "children": [
+              {
+                "name": "Planchas_antiguas",
+                "type": "folder",
+                "id": "11QjFxJCJ1XsH0xAkdjPeB1wCtKlXkAj2",
+                "children": [
+                  {
+                    "name": "BMA01_PC2_15-1_-_01-1.pdf",
+                    "type": "file",
+                    "id": "1DpEZ3SAMlBHtSs5xYxD7SRnjGI5JlE1s",
+                    "mimeType": "application/pdf",
+                    "size": "621039"
+                  },
+                  {
+                    "name": "BMA01_PC2_16-2.pdf",
+                    "type": "file",
+                    "id": "1sQvpKGCFUYL6aLQCrqYkWE_lL4zIDuiL",
+                    "mimeType": "application/pdf",
+                    "size": "132340"
+                  },
+                  {
+                    "name": "BMA01_PC2_17-1.pdf",
+                    "type": "file",
+                    "id": "1pkVrQJmFpr7lbxbmTNZl2-LauIrHl1lG",
+                    "mimeType": "application/pdf",
+                    "size": "157677"
+                  },
+                  {
+                    "name": "BMA01_PC2_17-2.pdf",
+                    "type": "file",
+                    "id": "1vDobrN32ko_Gra010WT1uYD0mWzNeMpN",
+                    "mimeType": "application/pdf",
+                    "size": "98816"
+                  },
+                  {
+                    "name": "BMA01_PC2_18-1.pdf",
+                    "type": "file",
+                    "id": "1Vc1Jgddir57L1Kfx9MEQTZ9Q0PSpuXb5",
+                    "mimeType": "application/pdf",
+                    "size": "124358"
+                  },
+                  {
+                    "name": "BMA01_PC2_18-2.pdf",
+                    "type": "file",
+                    "id": "1fZALDUYwezXxXUMcSeEKsa2jBwyxOL4z",
+                    "mimeType": "application/pdf",
+                    "size": "117987"
+                  },
+                  {
+                    "name": "BMA01_PC2_19-1.pdf",
+                    "type": "file",
+                    "id": "1dCZvWKq17qut2C88lHiZNx_C1Ee5iPpz",
+                    "mimeType": "application/pdf",
+                    "size": "90454"
+                  },
+                  {
+                    "name": "BMA01_PC2_19-2.pdf",
+                    "type": "file",
+                    "id": "1Bz4JFg6yOtIqxAGH6sWlMO2VmGdEF1X_",
+                    "mimeType": "application/pdf",
+                    "size": "47467"
+                  },
+                  {
+                    "name": "BMA01_PC2_19-2.jpg",
+                    "type": "file",
+                    "id": "15oCJC4kJGelOvRmSbHUGTGEugrWtC6ME",
+                    "mimeType": "image/jpeg",
+                    "size": "44045"
+                  }
+                ]
+              },
+              {
+                "name": "BMA01_PC2_23-2.pdf",
+                "type": "file",
+                "id": "18h3My5ZH8YcMqib3qPMUv2veCZUwBbxN",
+                "mimeType": "application/pdf",
+                "size": "439488"
+              },
+              {
+                "name": "BMA01_PC2_25-2.pdf",
+                "type": "file",
+                "id": "1cRQHQWKIZ17k4zxEvC-uWEZA3_SBDJv9",
+                "mimeType": "application/pdf",
+                "size": "125839"
+              },
+              {
+                "name": "BMA01_PC2_24-3.pdf",
+                "type": "file",
+                "id": "1vCTpQ7dePYshAs4fOkggKm1HfC06pcrw",
+                "mimeType": "application/pdf",
+                "size": "105910"
+              },
+              {
+                "name": "BMA01_PC2_24-2.pdf",
+                "type": "file",
+                "id": "1W59iccqjqCNQLzA6O5nERddBhEgOmhyb",
+                "mimeType": "application/pdf",
+                "size": "136255"
+              },
+              {
+                "name": "BMA01_PC2_24-2_Sol.pdf",
+                "type": "file",
+                "id": "1lQfgs6NP6TnH3U5J7kmHsLB9jtMFO7de",
+                "mimeType": "application/pdf",
+                "size": "1414813"
+              },
+              {
+                "name": "BMA01_PC2_22-1.pdf",
+                "type": "file",
+                "id": "1ZIFchieFVj1nIo5c6wbO1qpI27sKbwHl",
+                "mimeType": "application/pdf",
+                "size": "107229"
+              },
+              {
+                "name": "BMA01_PC2_23-1_Sol.pdf",
+                "type": "file",
+                "id": "1u75gNtlJiVPpfnTFI7kHX1pmCmDtSmK8",
+                "mimeType": "application/pdf",
+                "size": "300526"
+              },
+              {
+                "name": "BMA01_PC2_24-1.pdf",
+                "type": "file",
+                "id": "1uoLIpLhHHZpI5BCourT5ed9L6BnLWQNw",
+                "mimeType": "application/pdf",
+                "size": "136046"
+              },
+              {
+                "name": "BMA01_PC2_23-2_Sol.pdf",
+                "type": "file",
+                "id": "1qH5wW45Sgcj1xX7fPbrrvfeBYda6LJ7i",
+                "mimeType": "application/pdf",
+                "size": "1299422"
+              },
+              {
+                "name": "BMA01_PC2_23-1.pdf",
+                "type": "file",
+                "id": "1VTtwVtAFmzv2s6NzC1EL_Gv6Cri5iEaf",
+                "mimeType": "application/pdf",
+                "size": "171939"
+              },
+              {
+                "name": "BMA01_PC2_22-2.pdf",
+                "type": "file",
+                "id": "163gJ3gydYh96dNrnNJrtVV1qt2GTnTai",
+                "mimeType": "application/pdf",
+                "size": "110143"
+              },
+              {
+                "name": "BMA01_PC2_25-3.jpg",
+                "type": "file",
+                "id": "1CWo7dlS9uDyZuHl89U2TYPgmlD2032K1",
+                "mimeType": "image/jpeg",
+                "size": "94997"
+              },
+              {
+                "name": "BMA01_PC2_25-2.jpg",
+                "type": "file",
+                "id": "127eKJV00iw27x3ozTSpd-dz3KfrHmp-k",
+                "mimeType": "image/jpeg",
+                "size": "1453439"
+              },
+              {
+                "name": "BMA01_PC2_25-1.jpg",
+                "type": "file",
+                "id": "1sN_ObEuqbCCX38IdGCE4frGZhLIX9P0x",
+                "mimeType": "image/jpeg",
+                "size": "5244782"
+              },
+              {
+                "name": "BMA01_PC2_21-1.jpg",
+                "type": "file",
+                "id": "1q5qDU5hC3B4cy2yqLrbDpDqb9rdbd8Y2",
+                "mimeType": "image/jpeg",
+                "size": "39885"
+              },
+              {
+                "name": "BMA01_PC2_21-2.pdf",
+                "type": "file",
+                "id": "1OFLzMhnvLY2BU-FFL09kSGmdXo72Z2Yt",
+                "mimeType": "application/pdf",
+                "size": "170320"
+              },
+              {
+                "name": "BMA01_PC2_20-1.pdf",
+                "type": "file",
+                "id": "1jsL5AX94pZg848aa86TmjXPRL_FOdZPf",
+                "mimeType": "application/pdf",
+                "size": "130550"
+              },
+              {
+                "name": "BMA01_PC2_25-1_Sol_Berrospi.pdf",
+                "type": "file",
+                "id": "1M69VkAieuxXpcbwz5ZadflukUAn5WfzR",
+                "mimeType": "application/pdf",
+                "size": "1442900"
+              },
+              {
+                "name": "BMA01_PC2_26-1.jpg",
+                "type": "file",
+                "id": "1h95EFQWN2XHDHoFyZso_p_u58tknbSls",
+                "mimeType": "image/jpeg",
+                "size": "117841"
+              }
+            ]
+          },
+          {
+            "name": "EF",
+            "type": "folder",
+            "id": "1YQQkXFdYWotf9sw_RTbxCArcTyBhCCoR",
+            "children": [
+              {
+                "name": "BMA01_EF_23-1.pdf",
+                "type": "file",
+                "id": "16r2o2_Yvn8bvCag-0uyScXEJDT_52pr-",
+                "mimeType": "application/pdf",
+                "size": "168097"
+              },
+              {
+                "name": "BMA01_EF_24-3_Sol.pdf",
+                "type": "file",
+                "id": "1oej5dwH6PqX6kHz_3fVjI76O-_1bMKyf",
+                "mimeType": "application/pdf",
+                "size": "1452220"
+              },
+              {
+                "name": "BMA01_EF_24-3.pdf",
+                "type": "file",
+                "id": "1-8vH6TIITgC6G8e88Ys_mlwW5uIc77V0",
+                "mimeType": "application/pdf",
+                "size": "141810"
+              },
+              {
+                "name": "Planchas_antiguas",
+                "type": "folder",
+                "id": "1xRgyNSAkd0qFimuU5rXM5zNQnJYAoVKE",
+                "children": [
+                  {
+                    "name": "BMA01_EF_18-2.pdf",
+                    "type": "file",
+                    "id": "1y-uzaUZNL6dqTnk2qq9JbcEbdUjGmh8Q",
+                    "mimeType": "application/pdf",
+                    "size": "158714"
+                  },
+                  {
+                    "name": "BMA01_EF_16-2.pdf",
+                    "type": "file",
+                    "id": "1_seQFg_iIIVglIQehgBDoc_oSQJIg-5w",
+                    "mimeType": "application/pdf",
+                    "size": "88355"
+                  },
+                  {
+                    "name": "BMA01_EF_19-1.pdf",
+                    "type": "file",
+                    "id": "1TK3nDExoEnkLHcFsrqqLSd1u7hLIQJRF",
+                    "mimeType": "application/pdf",
+                    "size": "159952"
+                  },
+                  {
+                    "name": "BMA01_EF_19-3.pdf",
+                    "type": "file",
+                    "id": "1X0UwniWJr_2IDxJd4Lwvoerv48eplZW-",
+                    "mimeType": "application/pdf",
+                    "size": "97017"
+                  },
+                  {
+                    "name": "BMA01_EF_17-2.pdf",
+                    "type": "file",
+                    "id": "1OHooWkjLBqPsIhgkntzOV493XtqQ4Pvk",
+                    "mimeType": "application/pdf",
+                    "size": "156659"
+                  },
+                  {
+                    "name": "BMA01_EF_17-1.pdf",
+                    "type": "file",
+                    "id": "1QaZ70R0MdxvKssZOVAo2uHLvdaOQb1Wd",
+                    "mimeType": "application/pdf",
+                    "size": "154471"
+                  },
+                  {
+                    "name": "BMA01_EF_05-1_-_11-1.pdf",
+                    "type": "file",
+                    "id": "1E7TgUDAUgZVeSmnM0bAvrKPDzFkpNkBD",
+                    "mimeType": "application/pdf",
+                    "size": "291246"
+                  },
+                  {
+                    "name": "BMA01_EF_18-1.pdf",
+                    "type": "file",
+                    "id": "182O6QQjpUkm_S8IedHlJcz-Tnzuqbu1Z",
+                    "mimeType": "application/pdf",
+                    "size": "106603"
+                  },
+                  {
+                    "name": "BMA01_EF_16-1.pdf",
+                    "type": "file",
+                    "id": "1o8A7SIT-mvJXLcwwsBd3JkMu9LhqCtd7",
+                    "mimeType": "application/pdf",
+                    "size": "470641"
+                  },
+                  {
+                    "name": "BMA01_EF_15-2.pdf",
+                    "type": "file",
+                    "id": "1W-htO4JmGOCfBA0xDMxy5c6I7oaeAOd6",
+                    "mimeType": "application/pdf",
+                    "size": "67800"
+                  },
+                  {
+                    "name": "BMA01_EF_19-2",
+                    "type": "file",
+                    "id": "1gYnm2OlPytlXgXFhK6l9dU6uUrMxbGSI",
+                    "mimeType": "image/jpeg",
+                    "size": "57124"
+                  }
+                ]
+              },
+              {
+                "name": "BMA01_EF_22-1.pdf",
+                "type": "file",
+                "id": "1s1e7uSQiyOQ_TZRlIuRV54VhMln-tcnS",
+                "mimeType": "application/pdf",
+                "size": "171761"
+              },
+              {
+                "name": "BMA01_EF_24-1_Sol.pdf",
+                "type": "file",
+                "id": "1gjOTX8hWWs0_aVkxfzAGWyjzAwTp_Qcf",
+                "mimeType": "application/pdf",
+                "size": "498986"
+              },
+              {
+                "name": "BMA01_EF_22-1_Sol.pdf",
+                "type": "file",
+                "id": "15UEYHt8FLVOZxYUp8K7cMfGCN4WwnnpQ",
+                "mimeType": "application/pdf",
+                "size": "247321"
+              },
+              {
+                "name": "BMA01_EF_20-2.pdf",
+                "type": "file",
+                "id": "17n97IYBAVPeGn2S8RxhhIlAWX0xrr2WL",
+                "mimeType": "application/pdf",
+                "size": "103991"
+              },
+              {
+                "name": "BMA01_EF_24-1.pdf",
+                "type": "file",
+                "id": "10o80QDCQ6vEkyW-_-Qfj5bzEnz8PdljP",
+                "mimeType": "application/pdf",
+                "size": "781535"
+              },
+              {
+                "name": "BMA01_EF_23-2_Sol.pdf",
+                "type": "file",
+                "id": "1fSsvOV0bJ-tT8dqQ1_5uClwnhkt8Mnzu",
+                "mimeType": "application/pdf",
+                "size": "970044"
+              },
+              {
+                "name": "BMA01_EF_23-2.pdf",
+                "type": "file",
+                "id": "1nsVBaIdRSldkPmKrgDt74EjFfDd9RbRn",
+                "mimeType": "application/pdf",
+                "size": "249006"
+              },
+              {
+                "name": "BMA01_EF_20-1.pdf",
+                "type": "file",
+                "id": "1n3H4QGYnBr8f8SSfMHIuxC7iyZpLto3R",
+                "mimeType": "application/pdf",
+                "size": "111571"
+              },
+              {
+                "name": "BMA01_EF_25-2.jpg",
+                "type": "file",
+                "id": "1mJ43BYLH-FbpT-2fXZBEiAVwtnOQvIRD",
+                "mimeType": "image/jpeg",
+                "size": "1392446"
+              },
+              {
+                "name": "BMA01_EF_25-1_Sol_Berrospi.pdf",
+                "type": "file",
+                "id": "1Kt2w7Xtdx7CD2ONpCe8Kt5fW1K3KNcS1",
+                "mimeType": "application/pdf",
+                "size": "998687"
+              },
+              {
+                "name": "BMA01_EF_25-1.jpg",
+                "type": "file",
+                "id": "1R46zH5454kuq35aLU3VrLhyOOh8EXxwt",
+                "mimeType": "image/jpeg",
+                "size": "5142943"
+              },
+              {
+                "name": "BMA01_EF_24-2.jpg",
+                "type": "file",
+                "id": "1r-lQ7m5LGj3MHQNtV_nQLiZYxOoT5Fo1",
+                "mimeType": "image/jpeg",
+                "size": "60657"
+              },
+              {
+                "name": "BMA01_EF_22-2.jpg",
+                "type": "file",
+                "id": "1ELs6U5P4YEwRkcXSbNUAM-09EtPTk2D7",
+                "mimeType": "image/jpeg",
+                "size": "44040"
+              },
+              {
+                "name": "BMA01_EF_21-2.pdf",
+                "type": "file",
+                "id": "18tpJoAkUdecZr0GjaSyeX5Ur7TXZ5cXs",
+                "mimeType": "application/pdf",
+                "size": "346387"
+              },
+              {
+                "name": "BMA01_EF_26-1_Sol.pdf",
+                "type": "file",
+                "id": "1lrZvnqlB1Ma1v4EPH4Z1JfxY3LSEY6Y-",
+                "mimeType": "application/pdf",
+                "size": "292266"
+              },
+              {
+                "name": "BMA01_EF_26-1.jpg",
+                "type": "file",
+                "id": "1kI3bcKxGQBY3nlSr1pkw__eGjIhO7A0a",
+                "mimeType": "image/jpeg",
+                "size": "189817"
+              },
+              {
+                "name": "BMA01_EF_21-1.pdf",
+                "type": "file",
+                "id": "1H-teX_cyQHZDQuH_x2m9pFu4P1lBgJAQ",
+                "mimeType": "application/pdf",
+                "size": "257990"
+              },
+              {
+                "name": "BMA01_EF_24-2_Sol.pdf",
+                "type": "file",
+                "id": "1ZNWDG-wzTWPoBQlDiroOZw4YzZFF0unf",
+                "mimeType": "application/pdf",
+                "size": "202849"
+              },
+              {
+                "name": "BMA01_EF_25-3.jpg",
+                "type": "file",
+                "id": "1Gbw524npUgnaoAYigxSTEADg80RxR35j",
+                "mimeType": "image/jpeg",
+                "size": "102157"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Riquelmer_Diferencial_24-2.pdf",
+        "type": "file",
+        "id": "1A0bwAoApf8kTJkHNi9Hpn1COwY02RWd2",
+        "mimeType": "application/pdf",
+        "size": "15457510"
+      }
+    ]
+  }
+}

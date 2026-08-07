@@ -1,0 +1,1588 @@
+{
+  "course_id": "BRC01",
+  "course_name": "Redacción_y_comunicación",
+  "id": "1tugS8kQiKAQCAAwWGgm87WRxbWttcb-9",
+  "scanned_at": "2026-08-07T00:11:11.428321+00:00",
+  "tree": {
+    "name": "Redacción_y_comunicación",
+    "type": "folder",
+    "id": "1tugS8kQiKAQCAAwWGgm87WRxbWttcb-9",
+    "children": [
+      {
+        "name": "Libros_(Literatura)",
+        "type": "folder",
+        "id": "1zWLVWUkxfI9ADSNWaicLxXsf16x4yuxR",
+        "children": [
+          {
+            "name": "Semana_1_Lectura_de_novelas.pptx",
+            "type": "file",
+            "id": "16-iNkH08LDckJ8tfMHDq4SZzdwE47iS3",
+            "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "size": "1538736"
+          },
+          {
+            "name": "9._Primer_amor.pdf",
+            "type": "file",
+            "id": "1ZjEnLsb2kn0svFWS327ZMNjhBnQbRxPq",
+            "mimeType": "application/pdf",
+            "size": "1179508"
+          },
+          {
+            "name": "8.La_tía_Tula.pdf",
+            "type": "file",
+            "id": "1fRhDTAde-HGeMj27DRjMLRpselkjctFC",
+            "mimeType": "application/pdf",
+            "size": "499337"
+          },
+          {
+            "name": "7.Mario-vargas-llosa-los-cachorros.pdf",
+            "type": "file",
+            "id": "1bJeGFrwUOTzAsWJnFWagA0phUsuBpoVx",
+            "mimeType": "application/pdf",
+            "size": "85798"
+          },
+          {
+            "name": "27.Hemingway,_Ernest_-_Adios_A_Las_Armas.pdf",
+            "type": "file",
+            "id": "1viMzAb8B0OkDeyEreBTAbMlPR_4U_pFc",
+            "mimeType": "application/pdf",
+            "size": "1097145"
+          },
+          {
+            "name": "24.Las_aventuras_de_Huckleberry.pdf",
+            "type": "file",
+            "id": "1pcs-pJgXFZ9zXBpp7r8H5biMsag3Uk4n",
+            "mimeType": "application/pdf",
+            "size": "3497228"
+          },
+          {
+            "name": "12.El_retrato_de_Dorian_Gray.pdf",
+            "type": "file",
+            "id": "1F291g0_MJcIGkdWtYLAc8d6kWDlNN0nD",
+            "mimeType": "application/pdf",
+            "size": "2842312"
+          },
+          {
+            "name": "22.Abril_rojo.pdf",
+            "type": "file",
+            "id": "1DeWru2uRTKek-Ee5JRUHQEERP_GTbtBi",
+            "mimeType": "application/pdf",
+            "size": "1263040"
+          },
+          {
+            "name": "1.Bola_de_Sebo.pdf",
+            "type": "file",
+            "id": "1RGwtWGp8ehh4HCIEHaq8eUIYQcEmpwqU",
+            "mimeType": "application/pdf",
+            "size": "291670"
+          },
+          {
+            "name": "11.La_hija_del_capitán.pdf",
+            "type": "file",
+            "id": "1QRDes3SCNEkc_Rt0bZ3LX2DoQ4eEWHGg",
+            "mimeType": "application/pdf",
+            "size": "463210"
+          },
+          {
+            "name": "30.Madame_Bovary.pdf",
+            "type": "file",
+            "id": "1UWztbrh1n-HIo9mrZ7mdXW4Zab5qL4Km",
+            "mimeType": "application/pdf",
+            "size": "1224830"
+          },
+          {
+            "name": "19.Papá_Goriot.pdf",
+            "type": "file",
+            "id": "1_IxWXBuOo7k-qlDtqnigG8_hYtAFxQy9",
+            "mimeType": "application/pdf",
+            "size": "957940"
+          },
+          {
+            "name": "23.Las_aventuras_de_Tom_S..pdf",
+            "type": "file",
+            "id": "15vDP-j2V3JlNNfd8sz8AWymNevs_qyrD",
+            "mimeType": "application/pdf",
+            "size": "1134624"
+          },
+          {
+            "name": "37.El_jardín_de_los_cerezos.pdf",
+            "type": "file",
+            "id": "1lUAEbZdgjMfM14_BgU_26k_0jqioMvhf",
+            "mimeType": "application/pdf",
+            "size": "516552"
+          },
+          {
+            "name": "29.El_gran_Gatsby.pdf",
+            "type": "file",
+            "id": "1OcMBwei3NltmnetnpocMXgFn002PsRoP",
+            "mimeType": "application/pdf",
+            "size": "589593"
+          },
+          {
+            "name": "21.La_casa_de_los_espiritus.pdf",
+            "type": "file",
+            "id": "1-waDzK2wP1JWqHP39NJ3uoydEdtQlrYx",
+            "mimeType": "application/pdf",
+            "size": "1615466"
+          },
+          {
+            "name": "3.Del_amor_y_otros_demonios.pdf",
+            "type": "file",
+            "id": "1EN3nelGnxJgk9RT_U4zv0H-ugOSWyvIC",
+            "mimeType": "application/pdf",
+            "size": "433544"
+          },
+          {
+            "name": "28.El_amor_en_los_tiempos_del_colera.pdf",
+            "type": "file",
+            "id": "1dDx203_1k0_9fWXJaeNat9UcEwoGcDXn",
+            "mimeType": "application/pdf",
+            "size": "1541551"
+          },
+          {
+            "name": "40.Demian.pdf",
+            "type": "file",
+            "id": "1Xh0kVmAvGHbjhU1Tr7V0WIj5w_iiVdc7",
+            "mimeType": "application/pdf",
+            "size": "543638"
+          },
+          {
+            "name": "38.El_corazon_de_las_tinieblas.pdf",
+            "type": "file",
+            "id": "1-UPNdPHi_9yxEC6aQ7PQTMSQ_06YCvyK",
+            "mimeType": "application/pdf",
+            "size": "806976"
+          },
+          {
+            "name": "15.Un_mundo_feliz_by_Aldous_Huxley.pdf",
+            "type": "file",
+            "id": "1iJXqPuJf3VOZJaSb7_ZTOqm9vSlPs2eJ",
+            "mimeType": "application/pdf",
+            "size": "375791"
+          },
+          {
+            "name": "31.El_amande_de_Lady_Chatterley.pdf",
+            "type": "file",
+            "id": "13R-PULT5Z8eyUZwTiNamgvDMgVdRYrgD",
+            "mimeType": "application/pdf",
+            "size": "1544736"
+          },
+          {
+            "name": "41.Lavuelta_de_tuerca.pdf",
+            "type": "file",
+            "id": "1_IQbMZeQeqyKHtSPTREVKe56tws45K3o",
+            "mimeType": "application/pdf",
+            "size": "503548"
+          },
+          {
+            "name": "39.Noches_blancas.pdf",
+            "type": "file",
+            "id": "1XKPC1pQraBlkRuaqRHcwZY3N_rwhSrgC",
+            "mimeType": "application/pdf",
+            "size": "259562"
+          },
+          {
+            "name": "4.El_jugador.pdf",
+            "type": "file",
+            "id": "12xlBfRdOEBC7F0q4Xaz5YFz1oBHf5Bw_",
+            "mimeType": "application/pdf",
+            "size": "892647"
+          },
+          {
+            "name": "5.Tolstoi_Leon_-_La_Sonata_A_Kreutzer.PDF",
+            "type": "file",
+            "id": "1sZkTsOktXZQmmzW7AaidvbPR2gkAqiMr",
+            "mimeType": "application/pdf",
+            "size": "285752"
+          },
+          {
+            "name": "18.El_perfume.pdf",
+            "type": "file",
+            "id": "1McXBNs5BHZ00C9H1hTzlw_7Lv1fDadST",
+            "mimeType": "application/pdf",
+            "size": "419033"
+          },
+          {
+            "name": "33.Hammett,_Dashiell_-_Cosecha_Roja.pdf",
+            "type": "file",
+            "id": "1rNb5XW8Sn-C4WzJZcd2j7bMSdPZc1_WV",
+            "mimeType": "application/pdf",
+            "size": "998375"
+          },
+          {
+            "name": "16.Pedro_Páramo.pdf",
+            "type": "file",
+            "id": "14aBzZLbx2DC1gynto1bGa4RvVHc30y5c",
+            "mimeType": "application/pdf",
+            "size": "233583"
+          },
+          {
+            "name": "32.El_lobo_estepario.pdf",
+            "type": "file",
+            "id": "1JCLksERltAShnxSlVM0P504Seop90uaG",
+            "mimeType": "application/pdf",
+            "size": "806349"
+          },
+          {
+            "name": "20.Frankenstein.pdf",
+            "type": "file",
+            "id": "10b1sHoJZ9QZndq1Gsui-9w8DMTeY61f-",
+            "mimeType": "application/pdf",
+            "size": "2682226"
+          },
+          {
+            "name": "36.Paula.pdf",
+            "type": "file",
+            "id": "1_hG7GlUf72DACsTTmNMytuFirZJjdUqo",
+            "mimeType": "application/pdf",
+            "size": "1450066"
+          },
+          {
+            "name": "6.Buenos_dias,_tristeza.docx",
+            "type": "file",
+            "id": "1sV6Gh44AredfbKRh7Gs2cjLaVvoinfGV",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "6369"
+          },
+          {
+            "name": "35.Orgullo_y_prejuicio.pdf",
+            "type": "file",
+            "id": "1of-FAEC5S_q_ZF_y_UoI0lSDDSUkBbl2",
+            "mimeType": "application/pdf",
+            "size": "1172131"
+          },
+          {
+            "name": "13.Eugenia_Grandet.pdf",
+            "type": "file",
+            "id": "1Zj2TExns7XR11yFEJaTTXIakj8dldnIk",
+            "mimeType": "application/pdf",
+            "size": "872498"
+          },
+          {
+            "name": "25.Sandokán.pdf",
+            "type": "file",
+            "id": "12WjJ7hWbwluuqxIeb51zTIlsC9nwuGD4",
+            "mimeType": "application/pdf",
+            "size": "649672"
+          },
+          {
+            "name": "34.Ensayo_sobre_la_ceguera.pdf",
+            "type": "file",
+            "id": "13VKyfxTypOu_2MahycmVslz-UbUQr0KT",
+            "mimeType": "application/pdf",
+            "size": "936361"
+          },
+          {
+            "name": "14.La_isla_del_tesoro.pdf",
+            "type": "file",
+            "id": "11TPBFBnN1hTJFE-fJkRoYiEXXMuo48eT",
+            "mimeType": "application/pdf",
+            "size": "2615980"
+          },
+          {
+            "name": "10.La_importancia_de_llamarse_Ernesto.pdf",
+            "type": "file",
+            "id": "1bXXlpve3Yl37ZvdIB05ukCW-_DJpN9-K",
+            "mimeType": "application/pdf",
+            "size": "394190"
+          },
+          {
+            "name": "2.Doctor_Jeckyll_y_mister_Hyde.pdf",
+            "type": "file",
+            "id": "11IF31ccFSPHQYz_Nh2rbw7zWChgAvYdI",
+            "mimeType": "application/pdf",
+            "size": "1423031"
+          },
+          {
+            "name": "26.Rojo_y_negro.pdf",
+            "type": "file",
+            "id": "1QJzyMflL15tlq6gUeeH0dShSUZC7peG1",
+            "mimeType": "application/pdf",
+            "size": "1770063"
+          },
+          {
+            "name": "17.christie,_agatha_-_el_asesinato_de_roger_ackroyd.pdf",
+            "type": "file",
+            "id": "1tMjabFsxlz57hUmykySZ0e-0HtxcfouO",
+            "mimeType": "application/pdf",
+            "size": "881803"
+          }
+        ]
+      },
+      {
+        "name": "Chávarri",
+        "type": "folder",
+        "id": "1HJgKK2KmC1WTK0zZ4MhmRsNu2PR0vR3g",
+        "children": [
+          {
+            "name": "PC4",
+            "type": "folder",
+            "id": "1dLe4dLYV__pBJEjRtJ4O-oRUCCa7LvaA",
+            "children": [
+              {
+                "name": "BRC01_PC4_20-1_Chavarri.docx",
+                "type": "file",
+                "id": "1ORN-zh0NGMPrbUF0njv1Qm8YWnRe7KIM",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "91387"
+              }
+            ]
+          },
+          {
+            "name": "PC3",
+            "type": "folder",
+            "id": "1p2lR5OIpnOUmCmRDeLnbX9W8QiNVqpS2",
+            "children": [
+              {
+                "name": "BRC01_PC3_20-1_Chavarri.docx",
+                "type": "file",
+                "id": "19RcuqclZXQfKsJk2AJXn7Vww1L_tAjNZ",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "39319"
+              }
+            ]
+          },
+          {
+            "name": "PC2",
+            "type": "folder",
+            "id": "1BExeI5EFGr1eZF6ObAepkhxzy9QJYKoZ",
+            "children": [
+              {
+                "name": "BRC01_PC2_20-1_Chavarri.docx",
+                "type": "file",
+                "id": "1R2lYfAP6OnZgT4a3a8Pm0uvNbO9ZwyC1",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "20680"
+              }
+            ]
+          },
+          {
+            "name": "PC1",
+            "type": "folder",
+            "id": "1VPpOSt2mymVcik1LGmN3uGd8RcKmNE8c",
+            "children": [
+              {
+                "name": "BRC01_PC1_20-1_Chavarri.pdf",
+                "type": "file",
+                "id": "1BkxYPUADOz6Yfi3-qsr2EC9Q2oFRFm_V",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "1163789"
+              },
+              {
+                "name": "BRC01_PC1_24-2_Chavarri.pdf",
+                "type": "file",
+                "id": "1h2yIAfviIZepvE4bPYej4ZBXNAbP_9rP",
+                "mimeType": "application/pdf",
+                "size": "855745"
+              },
+              {
+                "name": "BRC01_PC1_21-1_Chavarri.pdf",
+                "type": "file",
+                "id": "1n5nmPnrDF19gizv0HsgbzaSCLKLLlFT_",
+                "mimeType": "application/pdf",
+                "size": "138972"
+              }
+            ]
+          },
+          {
+            "name": "Práctica_de_mapas_conceptuales",
+            "type": "folder",
+            "id": "18-wwEIMIYfs_dpsJqs-qO9CBEWaOXPht",
+            "children": [
+              {
+                "name": "PM_24-2_Chavrri.docx",
+                "type": "file",
+                "id": "1dSjHJMDHa-f_ky5Csij79USSFNvny8-o",
+                "mimeType": "application/pdf",
+                "size": "941473"
+              }
+            ]
+          },
+          {
+            "name": "Práctica_de_normativa",
+            "type": "folder",
+            "id": "157Fx6oPVa76JdpUiVbd_HqrtEw7TayAd",
+            "children": [
+              {
+                "name": "PN_24-2_Chavarri",
+                "type": "file",
+                "id": "1Q8OPcvIjiiZKfr1VKeVXfwFVisvYmzKV",
+                "mimeType": "application/pdf",
+                "size": "631458"
+              }
+            ]
+          },
+          {
+            "name": "Teoría",
+            "type": "folder",
+            "id": "1GDdZ6JVPLv-bsoPFLTaSR_fd6oJ4UcAH",
+            "children": [
+              {
+                "name": "Semana_15",
+                "type": "folder",
+                "id": "1U2ny0NJAm5TbI_PRLlFY8bGhBS9ju54E",
+                "children": [
+                  {
+                    "name": "01_ACTIVIDADES_SESIÓN_15.pptx",
+                    "type": "file",
+                    "id": "1tVE9_nAdQ0TXdfkMZehHUCPeLMPYQjE9",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "146003"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_14",
+                "type": "folder",
+                "id": "12_rY7tMKfbrXbHQcS4Mdcw7MncBt-roR",
+                "children": [
+                  {
+                    "name": "02_TEORÍA_EL_INFORME.ppt",
+                    "type": "file",
+                    "id": "10lYU6ZYao_bdy7hDvnf8bFGXxcYukaT5",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "5742080"
+                  },
+                  {
+                    "name": "04_CUADRO_DE_COMPARACIÓN.pptx",
+                    "type": "file",
+                    "id": "1CM147oWU_UjKAA85HOgE_m5-XSLTEksD",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "3078767"
+                  },
+                  {
+                    "name": "PRÁCTICA_DE_ESTRUCTURA,_RESUMEN,LECTURA_CRÍTICA.docx",
+                    "type": "file",
+                    "id": "1L7xeE1XOlTL6CMf2liCy9T1bzcYsk6z6",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "64720"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_13",
+                "type": "folder",
+                "id": "1tEcjLnDIt7Fp-TdCcaefh9kvvCdylLYM",
+                "children": [
+                  {
+                    "name": "01_ACTIVIDADES_SESIÓN_13.pptx",
+                    "type": "file",
+                    "id": "1yW2gfaBtdLzfW5B8E9y1_6Edw6Y4f6fz",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "192101"
+                  },
+                  {
+                    "name": "06_PRÁCTICA_DE_CORRESPONDENCIA.pdf",
+                    "type": "file",
+                    "id": "1mXsJCfPik8wB11NUtwZKjYT67M9lmE8s",
+                    "mimeType": "application/pdf",
+                    "size": "31247"
+                  },
+                  {
+                    "name": "05_PRACTICA_DE_CORRESPONDENCIA.pdf",
+                    "type": "file",
+                    "id": "1AX8WlscYu9QujpJVkKBrrTVlfG6yK-es",
+                    "mimeType": "application/pdf",
+                    "size": "78845"
+                  },
+                  {
+                    "name": "PRACTICA_DE_ESTRUCTURA_DE_TEXTO.docx",
+                    "type": "file",
+                    "id": "148oB_0Qx0HoYlbnJs6Lb62SjP8q6RUUL",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "23398"
+                  },
+                  {
+                    "name": "03_TEORÍA_CORRESPONDENCIA.pdf",
+                    "type": "file",
+                    "id": "19Pr1VLQPi-oI3WMuhUtQLIQCxc3VvtHL",
+                    "mimeType": "application/pdf",
+                    "size": "256439"
+                  },
+                  {
+                    "name": "APORTE.docx",
+                    "type": "file",
+                    "id": "1P3y9EFgEd8Agyas707eDm3vnpXq2Qelm",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "540146"
+                  },
+                  {
+                    "name": "04_PRÁCTICA_DE_CORRESPONDENCIA.pdf",
+                    "type": "file",
+                    "id": "13OqDVbtjCTXUxRDc5tEmxZCbwzH-Eh-V",
+                    "mimeType": "application/pdf",
+                    "size": "123639"
+                  },
+                  {
+                    "name": "02_TEORÍA_CORRESPONDENCIA.ppt",
+                    "type": "file",
+                    "id": "1Vol7bYFP1DX7vauFbBQ_bHUbtigXoPqq",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "3927552"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_12",
+                "type": "folder",
+                "id": "1MDgFf0-WN4N-vFZr-cRcDdp3aisWKea7",
+                "children": [
+                  {
+                    "name": "01_ACTIVIDADES_SESIÓN_12.pptx",
+                    "type": "file",
+                    "id": "15RFf_jx7r1AvHi_wP7Ph4q7HUQQt6Txt",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "494351"
+                  },
+                  {
+                    "name": "02_TEORÍA_LECTURA_CRÍTICA.ppt",
+                    "type": "file",
+                    "id": "18HJvTgTAsvoCTNsVUU_bWX99nkGae6uX",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "4146688"
+                  },
+                  {
+                    "name": "04_PRÁCTICA_DE_LECTURA_CRÍTICA.pdf",
+                    "type": "file",
+                    "id": "1B399bHrkZxQqkIFnngaly9YB3jzEa3JQ",
+                    "mimeType": "application/pdf",
+                    "size": "119388"
+                  },
+                  {
+                    "name": "03_TEORÍA_LECTURA_CRÍTICA.pdf",
+                    "type": "file",
+                    "id": "1OAKmjejKPDAp-s72ztYwrdWdCTEbkSli",
+                    "mimeType": "application/pdf",
+                    "size": "251952"
+                  },
+                  {
+                    "name": "06_PRÁCTICA_LECTURA_CRÍTICA.pdf",
+                    "type": "file",
+                    "id": "194yYGI1LVRcFUJDqrd3jGnZ11QGaqlou",
+                    "mimeType": "application/pdf",
+                    "size": "314709"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_11",
+                "type": "folder",
+                "id": "1km--phmXxqkBvtDusLGaFVuZj8_Od3Cp",
+                "children": [
+                  {
+                    "name": "02_TEORÍA_LA_COHERENCIA_EN_EL_TEXTO.ppt",
+                    "type": "file",
+                    "id": "163FHrObJb8pbxnAxQKJ5mb4xd9o_KwvE",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "1169408"
+                  },
+                  {
+                    "name": "05_PRÁCTICA_DE_CONECTORES.pdf",
+                    "type": "file",
+                    "id": "1E_BYj_8ij_LAx8bZVCFwakk_XNuoqKdA",
+                    "mimeType": "application/pdf",
+                    "size": "146186"
+                  },
+                  {
+                    "name": "06CORRECCIÓN_PRÁCTICA_DE_CONECTORES.pdf",
+                    "type": "file",
+                    "id": "1YV6gW1ywgBjxBdYtSA823ByvipzQXX1i",
+                    "mimeType": "application/pdf",
+                    "size": "147173"
+                  },
+                  {
+                    "name": "03_TEORÍA_LA_COHERENCIA_EN_EL_TEXTO.pdf",
+                    "type": "file",
+                    "id": "1IVD9sDttAHzXCh5GSg5K9Nmb9dXbhnBT",
+                    "mimeType": "application/pdf",
+                    "size": "65702"
+                  },
+                  {
+                    "name": "01_ACTIVIDADES_SESIÓN_11.pptx",
+                    "type": "file",
+                    "id": "1IruYNeKsx-bpC7syli2SNLJY1u8ckJMa",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "568463"
+                  },
+                  {
+                    "name": "06_PRÁCTICA_ESTRATEGIAS_DE_LECTURA.pptx",
+                    "type": "file",
+                    "id": "1rPb0dhshlyoif6ygueM0EkUYf-4qoWrH",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "6744452"
+                  },
+                  {
+                    "name": "04_CONECTORES_TABLA.pdf",
+                    "type": "file",
+                    "id": "1MGvwKA6Rf1RfrEQxuwKc8-0LxG2v_xCu",
+                    "mimeType": "application/pdf",
+                    "size": "55845"
+                  },
+                  {
+                    "name": "07_PRÁCTICA_DE_COHERENCIA_Y_CONECTORES.pdf",
+                    "type": "file",
+                    "id": "1CkeVIOyYASgBJRje_ABEqc8Qgd3UCFEr",
+                    "mimeType": "application/pdf",
+                    "size": "111941"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_10",
+                "type": "folder",
+                "id": "1DeI2fjNt5VMmVIzpAEtH5-gfEcoVcRuj",
+                "children": [
+                  {
+                    "name": "01_ACTIVIDADES_SESIÓN_10.pptx",
+                    "type": "file",
+                    "id": "1QPJdn0XQfXLPJuabfuY20H9y9VCdFuDt",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "269658"
+                  },
+                  {
+                    "name": "05_PRÁCTICA_DE_RESUMEN.pdf",
+                    "type": "file",
+                    "id": "1rACG3Mir6-XYptOsw8F7i2gVy9rKyZok",
+                    "mimeType": "application/pdf",
+                    "size": "74468"
+                  },
+                  {
+                    "name": "03_TEORÍA_ESTRUCTURA_DE_TEXTO_Y_RESUMEN.pdf",
+                    "type": "file",
+                    "id": "1aQmJ7LORLmJxUsjzeObWDic722mPhftc",
+                    "mimeType": "application/pdf",
+                    "size": "210900"
+                  },
+                  {
+                    "name": "06_PRÁCTICA_ESTRATEGIAS_DE_LECTURA.pptx",
+                    "type": "file",
+                    "id": "1NQgsLl4pJOafjEUgtaS7qugp3ioAfcGw",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "6744452"
+                  },
+                  {
+                    "name": "04_PRÁCTICA_DE_ESTRUCTURA_DE_TEXTO.pdf",
+                    "type": "file",
+                    "id": "1D_ncOHm_BHse7Hcc-d-8JBzY99ICB3z8",
+                    "mimeType": "application/pdf",
+                    "size": "150170"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_8",
+                "type": "folder",
+                "id": "1Uh-eaUWEjjzy9iZGAz6exMq0QB1X9gFH",
+                "children": [
+                  {
+                    "name": "05_PRÁCTICA_DE_COMPRENSIÓN_LECTORA_02.pdf",
+                    "type": "file",
+                    "id": "1ghWD2MCRRQKPZMdx2F7v3vmjce3SBlAg",
+                    "mimeType": "application/pdf",
+                    "size": "203711"
+                  },
+                  {
+                    "name": "04_PRÁCTICA_DE_COMPRENSIÓN_LECTORA_01.pdf",
+                    "type": "file",
+                    "id": "1h6Vi-2554SXBBlHyJPLpiy2RStpIYfMZ",
+                    "mimeType": "application/pdf",
+                    "size": "226873"
+                  },
+                  {
+                    "name": "06_PRÁCTICA_ESTRATEGIAS_DE_LECTURA.pptx",
+                    "type": "file",
+                    "id": "1j0ldE5PppZud47MY8batwZq2Y3x8HM7M",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "6703670"
+                  },
+                  {
+                    "name": "05_PRÁCTICA_DE_COMPRENSIÓN_LECTORA_02-convertido.docx",
+                    "type": "file",
+                    "id": "1m3otHHQvJvYM0DPgyqfU2TfH06eEYiUI",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "49826"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_7",
+                "type": "folder",
+                "id": "1efAT6KJ6AgjGu-3fdEAuPZCz9_-h0D1r",
+                "children": [
+                  {
+                    "name": "02_TEORÍA_FUENTES_BIBLIOGRÁFICAS.ppt",
+                    "type": "file",
+                    "id": "1D4aYxzKwjUZ49Bq8yMNK9_tiAK-JVYP9",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "2721792"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_6",
+                "type": "folder",
+                "id": "13dE0J4RsFaMpZRUgTlrAuq_2o7zf5CR3",
+                "children": [
+                  {
+                    "name": "03_TEORÍA_NORMATIVA.pdf",
+                    "type": "file",
+                    "id": "1BoP-VIWDFsFLIHyov1fZqanG0yXKjE8t",
+                    "mimeType": "application/pdf",
+                    "size": "153243"
+                  },
+                  {
+                    "name": "02_TEORÍA_NORMATIVA.ppt",
+                    "type": "file",
+                    "id": "1oDb38UW6hu73-eO7nGgD5oSus7GXFmx5",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "5249024"
+                  },
+                  {
+                    "name": "01_ACTIVIDADES_SESIÓN_06_(1).pptx",
+                    "type": "file",
+                    "id": "1ypmPR2dz5lFG0HZ5BrM39D46fYEYTv6u",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "291641"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_5",
+                "type": "folder",
+                "id": "13PYqtqNvAsLZ8mIr1bOW1WAMrmsGDS-g",
+                "children": [
+                  {
+                    "name": "02_TEORÍA_PUNTUACIÓN_ORTOGRÁFICA.ppt",
+                    "type": "file",
+                    "id": "1YKnSXnytZPuW4GcMjOa1ZmsSySaxEU-r",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "2116096"
+                  },
+                  {
+                    "name": "03_TEORÍA_PUNTUACIÓN_ORTOGRÁFICA.pdf",
+                    "type": "file",
+                    "id": "1v7g--GE6yb5Fri2zhsrLVvBpGoMFHR5C",
+                    "mimeType": "application/pdf",
+                    "size": "100804"
+                  },
+                  {
+                    "name": "06_PRÁCTICA_MAPAS_CONCEPTUALES.pdf",
+                    "type": "file",
+                    "id": "1nMixaY6Bn8BXd7CAb7RdxFkpINR_jDsX",
+                    "mimeType": "application/pdf",
+                    "size": "151459"
+                  },
+                  {
+                    "name": "04_PRÁCTICA_DE_PUNTUACIÓN.pdf",
+                    "type": "file",
+                    "id": "1UlWTBc-Qttw_h-iJgVn2qZf7bSgjM37e",
+                    "mimeType": "application/pdf",
+                    "size": "145764"
+                  },
+                  {
+                    "name": "01_ACTIVIDADES_DE_LA_SESIÓN_05.pptx",
+                    "type": "file",
+                    "id": "1LOTk-ecZnKxooo3As30-Q5-iJmTYicX0",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "280811"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_4",
+                "type": "folder",
+                "id": "1zxsEFu2H1ZCNwsybZgxoi7Ugl1lRuDE2",
+                "children": [
+                  {
+                    "name": "03_TEORÍA_LA_ORTOGRAFIA.pdf",
+                    "type": "file",
+                    "id": "1AlQA1BnyD6mERqS806RdJxrCeBRNPM-L",
+                    "mimeType": "application/pdf",
+                    "size": "248562"
+                  },
+                  {
+                    "name": "04_PRÁCTICA_DE_ORTOGRAFÍA.pdf",
+                    "type": "file",
+                    "id": "1TcwVGXh4zL6UIwhbP2XGD04bk11wYawo",
+                    "mimeType": "application/pdf",
+                    "size": "212605"
+                  },
+                  {
+                    "name": "01_ACTIVIDADES_SESIÓN_04.pptx",
+                    "type": "file",
+                    "id": "1l2_pCswhbnn5nDiqocOW09pNSNVz4pTo",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "547304"
+                  },
+                  {
+                    "name": "02_TEORÍA_LA_ORTOGRAFÍA.ppt",
+                    "type": "file",
+                    "id": "1EwvsrVOItqGrV-6eC-Er8KbrDqTMYABp",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "6757376"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_3",
+                "type": "folder",
+                "id": "1llVq3Vq1imw00BDfPpEvP6YV_PFkOC1J",
+                "children": [
+                  {
+                    "name": "ENSAYO.docx",
+                    "type": "file",
+                    "id": "1i3JOPjOPMe-qjy7CibaHjn-5BJNCwB04",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "386876"
+                  },
+                  {
+                    "name": "03_SEPARATA_LÉXICO_ACADÉMICO.pdf",
+                    "type": "file",
+                    "id": "1Alxn3SrYO5Rt2WpPOBY28y7qiCYdG6ps",
+                    "mimeType": "application/pdf",
+                    "size": "263993"
+                  },
+                  {
+                    "name": "05_INDICACIONES_PARA_ENSAYO.pdf",
+                    "type": "file",
+                    "id": "16wFENVJht1DW9GCQ2fUj_djYmcE3WONy",
+                    "mimeType": "application/pdf",
+                    "size": "97785"
+                  },
+                  {
+                    "name": "04_EL_ENSAYO.pdf",
+                    "type": "file",
+                    "id": "1ldOJruGU5W1J5TtirMHIyIqfABKw8Cgv",
+                    "mimeType": "application/pdf",
+                    "size": "210405"
+                  },
+                  {
+                    "name": "06_PRÁCTICA_DE_ENSAYO.pdf",
+                    "type": "file",
+                    "id": "1_JQljbETcCeG_X4qAUWnMQX-oCYlKZAM",
+                    "mimeType": "application/pdf",
+                    "size": "126711"
+                  },
+                  {
+                    "name": "01_ACTIVIDADES_SESIÓN_03.pptx",
+                    "type": "file",
+                    "id": "114r1Resu5wVEZTssiG5ZRXFuil-sucSE",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "438732"
+                  },
+                  {
+                    "name": "02_TEORÍA_LEXICO_ACADÉMICO.ppt",
+                    "type": "file",
+                    "id": "1rp35Rqz8UUiQjt4gPRLMCJ61EVTijxSx",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "9565184"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_2",
+                "type": "folder",
+                "id": "1bCkJK1Ufgd3yRfip4sgIBik133MszEqy",
+                "children": [
+                  {
+                    "name": "06_SEPARATA_LENGUAJE_ESCRITO.pdf",
+                    "type": "file",
+                    "id": "1vql7k5cLF3pxCP5q4r6N377BlH1xnkvX",
+                    "mimeType": "application/pdf",
+                    "size": "88198"
+                  },
+                  {
+                    "name": "02_EJERCICIOS_DE_ORTOGRAFÍA.pdf",
+                    "type": "file",
+                    "id": "1Tpz0DcLnT33hUcanG1Dh-d-NIkgCOvsB",
+                    "mimeType": "application/pdf",
+                    "size": "56019"
+                  },
+                  {
+                    "name": "01_ACTIVIDADES_SESIÓN_02.pptx",
+                    "type": "file",
+                    "id": "19pZQFMBW-I1mwp5DFuvOOlEuZTqO8LNb",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "2587121"
+                  },
+                  {
+                    "name": "05_TEORÍA_LENGUAJE_ESCRITO.ppt",
+                    "type": "file",
+                    "id": "1i9ec3hjPN1Qf0TJhCsHgyKRcrBqLAWC5",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "23955456"
+                  },
+                  {
+                    "name": "07_PRÁCTICA_DE_LENGUAJE_Y_ESCRITURA.pdf",
+                    "type": "file",
+                    "id": "1B4gVRmSFw8XIfNrnOa_86Vdj-DWrh2aZ",
+                    "mimeType": "application/pdf",
+                    "size": "217808"
+                  },
+                  {
+                    "name": "04_TEORÍA_LENGUAJE_Y_PENSAMIENTO.pdf",
+                    "type": "file",
+                    "id": "1JJ9OZJK3YBJ5JI6vC8dcqMI9toZ5d74j",
+                    "mimeType": "application/pdf",
+                    "size": "142016"
+                  },
+                  {
+                    "name": "03_TEORÍA_LENGUAJE_Y_PENSAMIENTO.pptx",
+                    "type": "file",
+                    "id": "1-vLwt0ufkhMGInja2qTRFK8-USpHmeB9",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "4295753"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_1",
+                "type": "folder",
+                "id": "1taDamY4PxAtWBVrAQcrLc5iKCUi37xf4",
+                "children": [
+                  {
+                    "name": "05_PRÁCTICA_MAPAS_CONCEPTUALES.ppt",
+                    "type": "file",
+                    "id": "1AkOw_xd3fQn09rFKES5_DFiOD92fM80o",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "14652928"
+                  },
+                  {
+                    "name": "04_SEPARATA_MAPAS_CONCEPTUALES.pdf",
+                    "type": "file",
+                    "id": "1-Xb6A2llHljgPvlhdGSl4D61WtUgJD-5",
+                    "mimeType": "application/pdf",
+                    "size": "472613"
+                  },
+                  {
+                    "name": "01_ACTIVIDADES_DE_LA_SESIÓN_01.pptx",
+                    "type": "file",
+                    "id": "1s3w3pDdPZ2xFQJulscKccF1ov0dIKkNq",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "390184"
+                  },
+                  {
+                    "name": "03_SEPARATA_ORIGEN_DEL_LENGUAJE.pdf",
+                    "type": "file",
+                    "id": "1RASYoapp0OxHSzhPuEiMHYM2dBa0pTYP",
+                    "mimeType": "application/pdf",
+                    "size": "364963"
+                  },
+                  {
+                    "name": "02_TEORÍA_ORIGEN_DEL_LENGUAJE.pptx",
+                    "type": "file",
+                    "id": "1C0wurVWbzsB9S_X_qIKo2qfoBwm5Kf95",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "19216364"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Saúl_Acevedo",
+        "type": "folder",
+        "id": "1lQi2nsA2mcAckSWpeTgAsB-iGnl1-vUN",
+        "children": [
+          {
+            "name": "Formato_de_PC3_y_PC4",
+            "type": "file",
+            "id": "1oSvlL3H4VNqoVoPP-ompkIhQypbgS85u",
+            "mimeType": "text/plain",
+            "size": "538"
+          },
+          {
+            "name": "PC2",
+            "type": "folder",
+            "id": "1-HtfMJdUIxkp-T532rihurEs8alAl3CM",
+            "children": [
+              {
+                "name": "BRC01_PC2_Acevedo_26-I.pdf",
+                "type": "file",
+                "id": "1kYrJnrfrX0fj8f6qrVW_KF8zv9rDjW3A",
+                "mimeType": "application/pdf",
+                "size": "465098"
+              },
+              {
+                "name": "Lectura_Lenguaje_y_pensamiento_Víctor_Montoya.docx.pdf",
+                "type": "file",
+                "id": "1T-crj5dLS62xqbEaX_w7-WsIVfh47yec",
+                "mimeType": "application/pdf",
+                "size": "138772"
+              }
+            ]
+          },
+          {
+            "name": "Teoría_y_tareas",
+            "type": "folder",
+            "id": "17Y00H7dBeEt2gN9GFz_2KjbfEX-tVq00",
+            "children": [
+              {
+                "name": "Semana_14",
+                "type": "folder",
+                "id": "1aENUctuxlFPaw1Ob5UBfhA2-MykP9dSy",
+                "children": [
+                  {
+                    "name": "Actividad_Semana_14",
+                    "type": "file",
+                    "id": "1lLVuVbxsGFuWtVfhzGztxFxoC2KVIjHb",
+                    "mimeType": "image/jpeg",
+                    "size": "528313"
+                  },
+                  {
+                    "name": "REVISTA_SIKURI_Entrevista_a_Ricardo_Bedoya.pdf",
+                    "type": "file",
+                    "id": "1QHlRDXGg3EZr9ddOdQSUG-fzCkdgrT16",
+                    "mimeType": "application/pdf",
+                    "size": "13039423"
+                  },
+                  {
+                    "name": "Sesión_14_Clases_de_expresión_oral_el_debate.pptx",
+                    "type": "file",
+                    "id": "1kH6RRsHQNJRlJJYoZwocQ92s1tyXcODk",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "6094123"
+                  },
+                  {
+                    "name": "Semana_14_Análisis_del_lenguaje_del_cine.pptx",
+                    "type": "file",
+                    "id": "1qkBp43DAVkSzASVnbc0JXSKZdShreGQR",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "13295793"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_13",
+                "type": "folder",
+                "id": "1Pj58wbaw7PZyMhbpDufvRHZo6JxOZvv0",
+                "children": [
+                  {
+                    "name": "Actividad_Semana_13",
+                    "type": "file",
+                    "id": "1GJ4bQ8Rhg05jRi8EkgVStWtto_wYX9-5",
+                    "mimeType": "application/pdf",
+                    "size": "1340774"
+                  },
+                  {
+                    "name": "Sesión_13_El_ensayo.pptx",
+                    "type": "file",
+                    "id": "1vAnzu_S2-DiAnY2ShXY8TOXVCSiPL7ID",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "3111399"
+                  },
+                  {
+                    "name": "Semana_13_Discurso-_Práctica.doc",
+                    "type": "file",
+                    "id": "1gqUkSoyVlYoj_qjgHMqTmgrTniJrUHu9",
+                    "mimeType": "application/msword",
+                    "size": "818688"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_12",
+                "type": "folder",
+                "id": "1n06uITDa2-cK66neOSaK8eXVkJe7nuHm",
+                "children": [
+                  {
+                    "name": "Sesión_12_Exposición_y_evaluación_de_monografías.pptx",
+                    "type": "file",
+                    "id": "1d7ZKvSd72XzYNbRhQfy0JCRcJt-o7Fxo",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "1620610"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_11",
+                "type": "folder",
+                "id": "1_oEQK06uWb2m0LOdS2auY3FG0bMq5niA",
+                "children": [
+                  {
+                    "name": "Sesión_11_Las_falacias.pptx",
+                    "type": "file",
+                    "id": "1hn73CYbEgcGFtJnlJLGxIhlF5dbQdoQW",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "623036"
+                  },
+                  {
+                    "name": "Sesión_11_La_argumentación.pptx",
+                    "type": "file",
+                    "id": "1xtuBrML8kh8FGP1p8992t3yEiQeuetGP",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "2424795"
+                  },
+                  {
+                    "name": "Semana_11_Redacción_de_documentos_administrativos.ppt",
+                    "type": "file",
+                    "id": "13AP-IbCLnh38vmcU75YcanKPqJ-0gH2L",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "826368"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_10",
+                "type": "folder",
+                "id": "1Aue4PTugipNp1DWrRL9wXQZvTgOugKTI",
+                "children": [
+                  {
+                    "name": "Tarea.txt",
+                    "type": "file",
+                    "id": "1h5nHt35-cGomXu6RlanBsay4XF9KpoFn",
+                    "mimeType": "text/plain",
+                    "size": "209"
+                  },
+                  {
+                    "name": "Sesión_10_Uso_de_la_tilde_diacrítica_-_Ejercicios.docx",
+                    "type": "file",
+                    "id": "1QCns0wW3_9Mug0xvcnLe5I6Cf-EF8XHH",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "43973"
+                  },
+                  {
+                    "name": "Sesión_10_Tildación_diacrítica.pptx",
+                    "type": "file",
+                    "id": "1wWyq1doKBvgLhk60D_6j1yARVKG1ZaQQ",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "461574"
+                  },
+                  {
+                    "name": "3._Propuesta_técnica.docx",
+                    "type": "file",
+                    "id": "1yB4jkvk6yita63sfOY0bHvliJBk7kfAB",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "11086"
+                  },
+                  {
+                    "name": "2._Memorando.docx",
+                    "type": "file",
+                    "id": "1Nl__JijvrzV3DSBGk-dYgoxu44w07UNO",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "8442"
+                  },
+                  {
+                    "name": "1._Carta_de_postulación.docx",
+                    "type": "file",
+                    "id": "1f5_r6fj6ArmrP_wsnQLTpOGPNJ7aP0B9",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "8593"
+                  },
+                  {
+                    "name": "Sesión_10_Correspondencia_profesional.pptx",
+                    "type": "file",
+                    "id": "1PJQc2wtsvwzkNJoeqTHiP9_vc3DD_4vr",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "2722644"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_9",
+                "type": "folder",
+                "id": "16yckEm0xVT2OvwQIhLwvVVdx7TXkFFt6",
+                "children": [
+                  {
+                    "name": "Ejercicios_sobre_conectores_lógicos-textuales",
+                    "type": "file",
+                    "id": "1OCnz_ZXUNgdMdcpPRNXpHtzs4Ifeqgml",
+                    "mimeType": "application/pdf",
+                    "size": "253858"
+                  },
+                  {
+                    "name": "Semana_9_Conectores_lógicos.docx",
+                    "type": "file",
+                    "id": "1bjYjLB6FynKqlS1SFFtNQnpb1IgzZKzG",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "363372"
+                  },
+                  {
+                    "name": "Tarea_Semana_9.txt",
+                    "type": "file",
+                    "id": "19JzzYvBg099Ll_tHSf578Fm4Hd2vjkeg",
+                    "mimeType": "text/plain",
+                    "size": "244"
+                  },
+                  {
+                    "name": "Ejemplo_de_Informe_Técnico.pdf",
+                    "type": "file",
+                    "id": "1gvzXXDK1SsMlOgbzQlXhmiZiKT6_OKnZ",
+                    "mimeType": "application/pdf",
+                    "size": "9702061"
+                  },
+                  {
+                    "name": "Sesión_9_Redacción_de_informes_y_actividad_4.pptx",
+                    "type": "file",
+                    "id": "1EiMXde6i0aTsKbg0k4k7MXgqC2E-EFHE",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "294150"
+                  },
+                  {
+                    "name": "Semana_9_Conectores_lógicos.ppt",
+                    "type": "file",
+                    "id": "1sd47BSIfDFVbwi5RlBI2jPbIXyxLsSP-",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "4661248"
+                  },
+                  {
+                    "name": "Semana_9_Temas_y_Técnicas_de_estudio.pptx",
+                    "type": "file",
+                    "id": "1KPeBpAA6cxZIo7a_oNB6XLwHz3y37S7j",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "5794541"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_7",
+                "type": "folder",
+                "id": "1dXUXWZ-gd05keXNvfIt5RcZNxfqMSquD",
+                "children": [
+                  {
+                    "name": "Sesión_7_Lectura_y_comprensión_de_textos.pptx",
+                    "type": "file",
+                    "id": "1mR_B2nNTjimLxHoG9FRI75WZvIHdnZOz",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "5006775"
+                  },
+                  {
+                    "name": "Sesión_7_Actividad_la_lectura_y_comprensión_de_textos.docx",
+                    "type": "file",
+                    "id": "1tnDm4N3yJ5MVhSWgtrQmRP82W1KptjBH",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "11648"
+                  },
+                  {
+                    "name": "Sesión_7_Niveles_de_encabezados_y_redacción_de_la_introducción_.pptx",
+                    "type": "file",
+                    "id": "1rEiesn2HmcRF-L7Eexdz61f8ZvsOeHNV",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "1332977"
+                  },
+                  {
+                    "name": "Semana_7_Actividad_la_lectura_y_comprensión_de_textos.docx",
+                    "type": "file",
+                    "id": "1KHHnN0G4GQ8D17PWKBf8KMDCjxOU_bCg",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "16340"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_6",
+                "type": "folder",
+                "id": "1fZSMSCaAhOzUOEE_DM6KdXdRkWZDLH2w",
+                "children": [
+                  {
+                    "name": "Tarea_Semana_6.txt",
+                    "type": "file",
+                    "id": "1dm8ArqIEv_JfYuA7E1ZwjCrkhld_J5Sd",
+                    "mimeType": "text/plain",
+                    "size": "218"
+                  },
+                  {
+                    "name": "Rúbrica_de_la_monografía.docx",
+                    "type": "file",
+                    "id": "1UvI_NMRqbUtaUS07ggFpbinB9PMhH5wB",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "317891"
+                  },
+                  {
+                    "name": "Semana_6_Gerundio_y_queísmo.ppt",
+                    "type": "file",
+                    "id": "1JEa3ziCIUGDfZ8lFuNnVM1TeTpB1ijNL",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "1665536"
+                  },
+                  {
+                    "name": "Semana_6_Tildación_diacrítica.pptx",
+                    "type": "file",
+                    "id": "1hZCvxhfXiRaIq9hHomib7kWe8ZQ5WnSW",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "348884"
+                  },
+                  {
+                    "name": "Semana_6_Gerundios,_queísmos_y_dequeísmos.doc",
+                    "type": "file",
+                    "id": "1S2xYHHvcnspUemPkiuVv0w_zwVDt2gSo",
+                    "mimeType": "application/msword",
+                    "size": "100352"
+                  },
+                  {
+                    "name": "Semana_6_Redacción_de_la_Monografía_II.pptx",
+                    "type": "file",
+                    "id": "1DPvmjDVTQ3aQYqJoMoIPjXbvyS0qPBfe",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "3122898"
+                  },
+                  {
+                    "name": "Semana_6_Uso_de_la_tilde_diacrítica.docx",
+                    "type": "file",
+                    "id": "1ohAfdOdQbYrlDwfC9nCfIJ4NpoYkZn6_",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "53255"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_5",
+                "type": "folder",
+                "id": "1R23gsMyx2prilLyi_qCS8uprCAXzvCEl",
+                "children": [
+                  {
+                    "name": "Tarea_Semana_5.txt",
+                    "type": "file",
+                    "id": "1JqqnlupN-Bg8tYovMD33wJKbDk7Q1gWM",
+                    "mimeType": "text/plain",
+                    "size": "202"
+                  },
+                  {
+                    "name": "Sesión_5_Uso_de_mayúsculas.pptx",
+                    "type": "file",
+                    "id": "19ckHPcAv1UiObQl5dEcVQPjwmQwp9tAp",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "2856662"
+                  },
+                  {
+                    "name": "Semana_5_Uso_de_las_mayúsculas_-_Actividad.docx",
+                    "type": "file",
+                    "id": "132Qb0SAOIXSjvnd95mnlBZTwPP72v-nw",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "362998"
+                  },
+                  {
+                    "name": "Sesión_5_Tablas_y_figuras_(Monografía_IV).pptx",
+                    "type": "file",
+                    "id": "1OkGRfC8HHMUJ9KAKRBos9dgMs47BBoH4",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "2241882"
+                  },
+                  {
+                    "name": "Semana_5_Signos_de_puntuación.doc",
+                    "type": "file",
+                    "id": "1q1cYekYfyulpyBrnCL_NsvtlMR6vEwxx",
+                    "mimeType": "application/msword",
+                    "size": "91648"
+                  },
+                  {
+                    "name": "Semana_5_Uso_de_grafías.pptx",
+                    "type": "file",
+                    "id": "1tVfxm-FTS0r8uX1ZlDpRkLZTnvAlhUXy",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "815123"
+                  },
+                  {
+                    "name": "Semana_5_Signos_de_puntuación.pptx",
+                    "type": "file",
+                    "id": "1BhB_WNflx47J6Vz0d3qIQLLnbtEtT9Yr",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "313395"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_4",
+                "type": "folder",
+                "id": "17r0Bfqy2RYRuuiLeCaSwkTFmOVc1d4U9",
+                "children": [
+                  {
+                    "name": "Tarea_Semana_4.txt",
+                    "type": "file",
+                    "id": "1aa2m2MJ4WDeMjgBYn4ibRgwCdrLuRNl4",
+                    "mimeType": "text/plain",
+                    "size": "231"
+                  },
+                  {
+                    "name": "Sesión_4_Técnicas_de_expresión_oral_II.pptx",
+                    "type": "file",
+                    "id": "1aGG-hpD6U8o4bvhkhdmq_KwN_xQE1sst",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "2284556"
+                  },
+                  {
+                    "name": "Semana_4_Estructura_silábica,_secuencias_y_acentuación.docx",
+                    "type": "file",
+                    "id": "1oxVDhLsp8IAwUEbPL3aMaygflPmZoCtK",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "45113"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_3",
+                "type": "folder",
+                "id": "1X8yp_e9A9uQzqp5BbGGHhmZznsRzF4JX",
+                "children": [
+                  {
+                    "name": "Tarea_Semana_3",
+                    "type": "file",
+                    "id": "1t9Ki7Jb7wlXgyPsITeXrG9t876LcXiqY",
+                    "mimeType": "text/plain",
+                    "size": "206"
+                  },
+                  {
+                    "name": "Semana_3_Actividad:_El_mapa_conceptual",
+                    "type": "file",
+                    "id": "1Dhow_TWRacmzp4NDKyxd9XC7qVbaGaFy",
+                    "mimeType": "application/pdf",
+                    "size": "266159"
+                  },
+                  {
+                    "name": "Semana_3_Técnicas_de_expresión_oral_I.pptx",
+                    "type": "file",
+                    "id": "1WuT0G74NRsKQLvaoInXdmhFhLKNAHOO6",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "5536677"
+                  },
+                  {
+                    "name": "Semana_3_Léxico_y_textos_académicos.pptx",
+                    "type": "file",
+                    "id": "1mFgYtxdDp9nZfQ4dylJ7C_X0i4pm9GJ_",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "739470"
+                  },
+                  {
+                    "name": "Sesión_3_Léxico_académico_y_organizadores_gráficos.pptx",
+                    "type": "file",
+                    "id": "1PoCvgJgC0sfm5DJeofYMtOd-wQ08-Wo4",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "1058440"
+                  },
+                  {
+                    "name": "Normas_APA_Septima_Edicion_2020_en_español.pdf",
+                    "type": "file",
+                    "id": "1J81z2OweD-Hm_qJHGlWKjtZkrUBilVjx",
+                    "mimeType": "application/pdf",
+                    "size": "1264720"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_2",
+                "type": "folder",
+                "id": "1IvefvLjLkuRt85OuwQfe_3aJvNxw4P-1",
+                "children": [
+                  {
+                    "name": "Tarea_Semana_2.txt",
+                    "type": "file",
+                    "id": "1QWsyvvUNjVvjJ4hOy_IjnO79TXJKT2An",
+                    "mimeType": "text/plain",
+                    "size": "291"
+                  },
+                  {
+                    "name": "Artículo_de_Vargas_Llosa.pdf",
+                    "type": "file",
+                    "id": "1-AOOtc7GXs06Rv8lvoksrfYLgj2STU3z",
+                    "mimeType": "application/pdf",
+                    "size": "79941"
+                  },
+                  {
+                    "name": "Sesión_2_La_escritura_y_variedades_de_la_lengua.pptx.pdf",
+                    "type": "file",
+                    "id": "1dJUFSwB_hWBWCr7wdBgRk3bYnAQ0xQeG",
+                    "mimeType": "application/pdf",
+                    "size": "891547"
+                  },
+                  {
+                    "name": "Sesión_2_El_trabajo_monográfico_II.pptx.pdf",
+                    "type": "file",
+                    "id": "1jy-gZ4bYUOxaMYDrYMzejveojo74NPt8",
+                    "mimeType": "application/pdf",
+                    "size": "438931"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_1",
+                "type": "folder",
+                "id": "1vydOs1cfEoO5LAmlMRc4lQ1ncHfuQsVn",
+                "children": [
+                  {
+                    "name": "Lectura_Lenguaje_y_pensamiento_Víctor_Montoya.docx.pdf",
+                    "type": "file",
+                    "id": "1Rn_-W_s5ZXCX3FoEoVqwcRSUYni8HDS5",
+                    "mimeType": "application/pdf",
+                    "size": "138772"
+                  },
+                  {
+                    "name": "Entrev._prof._Acevedo_FIIS_News_N°_84_(pp._3_y_4).pdf",
+                    "type": "file",
+                    "id": "1F6Wncz4y4cCw3xTTZLlMMsBVRvG9ISBK",
+                    "mimeType": "application/pdf",
+                    "size": "8693105"
+                  },
+                  {
+                    "name": "Sesión_1_La_monografía_I.pptx.pdf",
+                    "type": "file",
+                    "id": "1bdYIs7X6wjveu7LPOUV3t-QWOCLXFkOd",
+                    "mimeType": "application/pdf",
+                    "size": "534239"
+                  },
+                  {
+                    "name": "Semana_1_La_comunicación_y_el_lenguaje_humano.pptx.pdf",
+                    "type": "file",
+                    "id": "1dDouzhOtE7PwVWjmrCEwSNrlhFNZqnpg",
+                    "mimeType": "application/pdf",
+                    "size": "786627"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Monografía_(Industria_de_la_telefonía_móvil)",
+            "type": "folder",
+            "id": "1Neta0hzPJEc2jpdyvNmgglpQXxq9sv4a",
+            "children": [
+              {
+                "name": "Industria_de_la_Telefonia_Movil.docx",
+                "type": "file",
+                "id": "1BH1Jd7j3xku_72xgP-SF7sytg5gKruhh",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "3927572"
+              },
+              {
+                "name": "Industria_de_la_Telefonia_Movil.pptx",
+                "type": "file",
+                "id": "1HXrZVp7trzL1H4te3c9VjfRp4OjmzmFh",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "19621983"
+              },
+              {
+                "name": "Actividad_Discurso_de_Steve_Jobs.docx",
+                "type": "file",
+                "id": "1TbrCuGKe1LI7bmeGyOvDUIhF4_7aVI6W",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "93744"
+              }
+            ]
+          },
+          {
+            "name": "PC1",
+            "type": "folder",
+            "id": "1Pixn7YzzVAt7GOYIyfqkygaNAPR948L_",
+            "children": [
+              {
+                "name": "BRC01_PC1_26-1_Acevedo.pdf",
+                "type": "file",
+                "id": "1zwJgq3VgrC416xRKqMGtc-gpuy74-dbQ",
+                "mimeType": "application/pdf",
+                "size": "1257616"
+              },
+              {
+                "name": "BRC01_PC1_25-1_Acevedo.pdf",
+                "type": "file",
+                "id": "1-DVisrT7n3jj6x-QFzGSeCbkiHwJ-XjK",
+                "mimeType": "application/pdf",
+                "size": "482847"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "course_id": "GP235",
+  "course_name": "Gestión_Financiera",
+  "id": "1vhEq_ABfyNXBarpqwc2XTRCFmXo7AK3g",
+  "scanned_at": "2026-08-06T23:59:16.150339+00:00",
+  "tree": {
+    "name": "Gestión_Financiera",
+    "type": "folder",
+    "id": "1vhEq_ABfyNXBarpqwc2XTRCFmXo7AK3g",
+    "children": [
+      {
+        "name": "Preguntas_-_GP235U_-_Examen_Final_-_2021-1.doc",
+        "type": "file",
+        "id": "1-gfoEIeR-kgmvy6wXvmWxcpVdDjoFJDZ",
+        "mimeType": "application/msword",
+        "size": "90112"
+      },
+      {
+        "name": "PC_4_GP235W.pdf",
+        "type": "file",
+        "id": "1otJOOXhH_sEINiFIZVdkgGt6jQK9xkdL",
+        "mimeType": "application/pdf",
+        "size": "132686"
+      },
+      {
+        "name": "Preguntas_-_GP235U_-_Examen_Sustitutorio_-_2021-1.doc",
+        "type": "file",
+        "id": "1tD2DCimGVix5s-17FxhsY1CkAca492GP",
+        "mimeType": "application/msword",
+        "size": "65024"
+      },
+      {
+        "name": "Soluciones_-_GP235U_-Examen_Final_-_2021-1.doc",
+        "type": "file",
+        "id": "14WTKB3m8NlxXJnofOKtAv5bHzNxy1RIn",
+        "mimeType": "application/msword",
+        "size": "151552"
+      },
+      {
+        "name": "Preguntas_-_GP235U_-_Examen_Parcial_-_2021-1.doc",
+        "type": "file",
+        "id": "1jYvG8t-_MERy6rAk07mCn7vhs-SDY_TC",
+        "mimeType": "application/msword",
+        "size": "77312"
+      },
+      {
+        "name": "Soluciones_-_GP235U_-_Examen_Sustitutorio_-_2021-1.doc",
+        "type": "file",
+        "id": "1J37M3p0NYV2xFLArKCHVyQg0r37XAvQX",
+        "mimeType": "application/msword",
+        "size": "144384"
+      },
+      {
+        "name": "Prueba_Entrada_Gestion_Financiera_2020-2.pdf",
+        "type": "file",
+        "id": "1SMh_0SdQUTeG1U7_8umRaBRUK1NTVR5L",
+        "mimeType": "application/pdf",
+        "size": "238682"
+      },
+      {
+        "name": "Soluciones_-_GP235U_-_Examen_Parcial_-_2021-1.doc",
+        "type": "file",
+        "id": "1YEDxld9I_qcNuOAvvYlvsLqa6vtxskIh",
+        "mimeType": "application/msword",
+        "size": "243712"
+      },
+      {
+        "name": "1_PC_Preg_1_GP235W.pdf",
+        "type": "file",
+        "id": "1Pts3jZkZqWwVbgJlXa4rGW6bBrDZEC4k",
+        "mimeType": "application/pdf",
+        "size": "155136"
+      },
+      {
+        "name": "GF_PC4_16-2_U.pdf",
+        "type": "file",
+        "id": "1WviVS7nICFzOAXKws7xVdWQq0bJAbIGt",
+        "mimeType": "application/pdf",
+        "size": "21950"
+      },
+      {
+        "name": "GF_PARCIAL_20-1_U_RES.pdf",
+        "type": "file",
+        "id": "1I-5_O-Psp8swyYK6HsuDL1ETm9--Zj92",
+        "mimeType": "application/pdf",
+        "size": "527621"
+      },
+      {
+        "name": "GF_EP_18-3_U-1.jpg",
+        "type": "file",
+        "id": "1r_DaAluP3yk4dhCqGJ6zk-DeL0-a7BWu",
+        "mimeType": "image/jpeg",
+        "size": "171777"
+      },
+      {
+        "name": "GF_SUSTI_19-2_U.pdf",
+        "type": "file",
+        "id": "1oPYSBNETRPJGcAjlb0kmYAmHAZj7Roq7",
+        "mimeType": "application/pdf",
+        "size": "326289"
+      },
+      {
+        "name": "GF_EP_18-3_U-2.jpg",
+        "type": "file",
+        "id": "1Qk2qNFq1q3DBYBVZT0VWEAHvEmkB2Hzc",
+        "mimeType": "image/jpeg",
+        "size": "186552"
+      },
+      {
+        "name": "GF_ENTRADA_19-1_U.pdf",
+        "type": "file",
+        "id": "1UQaI2bixFetEzlPcxLOAoOxO_8yZMD2K",
+        "mimeType": "application/pdf",
+        "size": "488991"
+      },
+      {
+        "name": "GF_PC3_20-1_U.pdf",
+        "type": "file",
+        "id": "1anZo-xS4I7BbjwldTHpWYQBFjhz9iQsq",
+        "mimeType": "application/pdf",
+        "size": "226055"
+      },
+      {
+        "name": "EXAMEN-PARCIAL-GP235V-2020-1.pdf",
+        "type": "file",
+        "id": "1TV9AQajH1Bo62FgCNhlKZ6Jl1qQHx0X-",
+        "mimeType": "application/pdf",
+        "size": "368444"
+      },
+      {
+        "name": "GF_ENTRADA_20-1_U.pdf",
+        "type": "file",
+        "id": "1YUbY29VYtNjaSUskau6hrpq-zpH38O3R",
+        "mimeType": "application/pdf",
+        "size": "223767"
+      },
+      {
+        "name": "GF_FINAL_19-1_U.pdf",
+        "type": "file",
+        "id": "1j-ZAMu6sunEwtTX_9uMjoCgdJJoaaUjW",
+        "mimeType": "application/pdf",
+        "size": "136988"
+      },
+      {
+        "name": "GF_PARCIAL_20-1_V.pdf",
+        "type": "file",
+        "id": "1LKcTGiaknc6202m0dRHsJHSeDxzaMYcI",
+        "mimeType": "application/pdf",
+        "size": "368444"
+      },
+      {
+        "name": "2da_PC_Parte_2_GP_235_V_2020-2.pdf",
+        "type": "file",
+        "id": "18zN_HG6oRpL5CiZBsxmEK0Znsp-r3Ywq",
+        "mimeType": "application/pdf",
+        "size": "170339"
+      },
+      {
+        "name": "GF_SUSTI_20-1_U.pdf",
+        "type": "file",
+        "id": "1gtflKOwHbA5POAudOj-v_5IUM5SCr3ra",
+        "mimeType": "application/pdf",
+        "size": "223667"
+      },
+      {
+        "name": "COMPILADO_PRUEBAS_GF_GE906_23-2.pdf",
+        "type": "file",
+        "id": "1XrLw2zLdRkCDm6PAWBlwxHLuN30eu6Co",
+        "mimeType": "application/pdf",
+        "size": "9216270"
+      },
+      {
+        "name": "GF_PARCIAL_20-1_V_SOL.pdf",
+        "type": "file",
+        "id": "1x_y14zXsZgWpCvW1h1yLgvDOEOHJ5nxU",
+        "mimeType": "application/pdf",
+        "size": "58635"
+      },
+      {
+        "name": "1_PC_Preg_1_GP235V.pdf",
+        "type": "file",
+        "id": "1Y-cXRqngAb08qfG1O6evfBV2-wwjtobE",
+        "mimeType": "application/pdf",
+        "size": "220555"
+      },
+      {
+        "name": "GF_SUSTI_20-1_U_SOL.pdf",
+        "type": "file",
+        "id": "1UdQeG8uYK_V7E6fNcP4QG0b1aQqBHeeC",
+        "mimeType": "application/pdf",
+        "size": "350541"
+      },
+      {
+        "name": "GF_FINAL_19-2_U.pdf",
+        "type": "file",
+        "id": "1JeZdKf6rSZXyB_UT_knGSEh3DWnDKgU-",
+        "mimeType": "application/pdf",
+        "size": "1652975"
+      },
+      {
+        "name": "GF_PARCIAL_19-1.pdf",
+        "type": "file",
+        "id": "19GdgGHgJ9jtjiiwkDyqDesncpJhlk8zu",
+        "mimeType": "application/pdf",
+        "size": "359538"
+      },
+      {
+        "name": "GF_ENTRADA_16-2_U.pdf",
+        "type": "file",
+        "id": "1sKSCwV0VTixK6STmp9Q9_TvQyLoie1bO",
+        "mimeType": "application/pdf",
+        "size": "25651"
+      },
+      {
+        "name": "GF_PC1_20-1_U.pdf",
+        "type": "file",
+        "id": "1QgARp1wg5bN7jS4cH275V9aoKucyttTw",
+        "mimeType": "application/pdf",
+        "size": "228101"
+      },
+      {
+        "name": "GF_PC4_19-1_U.pdf",
+        "type": "file",
+        "id": "1hS6vxrDhP_BbpZ-jYkRFwLANYfpkzOU-",
+        "mimeType": "application/pdf",
+        "size": "260459"
+      },
+      {
+        "name": "GF_PC4_20-1_U.pdf",
+        "type": "file",
+        "id": "1_y4RP7Nm1-T5us46XFqQcRnK9_72MtmQ",
+        "mimeType": "application/pdf",
+        "size": "232010"
+      },
+      {
+        "name": "EXAMEN_PARCIAL_GP235V_2020-2.pdf",
+        "type": "file",
+        "id": "1PN10EVDVqNYSeRBITVQvvccdRdMAdIqK",
+        "mimeType": "application/pdf",
+        "size": "311494"
+      },
+      {
+        "name": "GF_PC2_20-1_U.pdf",
+        "type": "file",
+        "id": "13nIiwGVSPlfjJB3sUcaPglfoAqzHIKEc",
+        "mimeType": "application/pdf",
+        "size": "237719"
+      },
+      {
+        "name": "GF_FINAL_20-1_U.pdf",
+        "type": "file",
+        "id": "1943kJ4lE63TYj_WO6O1ItX47O7VsxoRS",
+        "mimeType": "application/pdf",
+        "size": "227718"
+      },
+      {
+        "name": "GF_FINAL_20-1_U_SOL.pdf",
+        "type": "file",
+        "id": "19reu-aRmlJrSlWJiZqU7mJzHDcw4mDWR",
+        "mimeType": "application/pdf",
+        "size": "435351"
+      },
+      {
+        "name": "GF_PC2_19-1_U.pdf",
+        "type": "file",
+        "id": "1-8q0s7ojBbvJMNKtklIwt8wwz4bCFahZ",
+        "mimeType": "application/pdf",
+        "size": "85458"
+      },
+      {
+        "name": "2da_PC_Parte_2_GP_235_W_2020-2.pdf",
+        "type": "file",
+        "id": "13lMZIl-Xpjz4igxfimsU-289dRW96XoZ",
+        "mimeType": "application/pdf",
+        "size": "170724"
+      },
+      {
+        "name": "GF_PC2_19-2_U.pdf",
+        "type": "file",
+        "id": "1Vu4S6xEwejGbdkUzDlzpK8Qepyvo2NTK",
+        "mimeType": "application/pdf",
+        "size": "356701"
+      },
+      {
+        "name": "GF_PC1_16-2_U.pdf",
+        "type": "file",
+        "id": "1hR5qMeXgLOOAmpuYElntKeJ2FWuJVEz9",
+        "mimeType": "application/pdf",
+        "size": "206643"
+      }
+    ]
+  }
+}

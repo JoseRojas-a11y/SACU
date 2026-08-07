@@ -1,0 +1,440 @@
+{
+  "course_id": "GE604",
+  "course_name": "Administración_y_Organización",
+  "id": "1ShPDiH6npYSy7XI1sN45XGSeOd0YG7_-",
+  "scanned_at": "2026-08-06T23:58:28.032067+00:00",
+  "tree": {
+    "name": "Administración_y_Organización",
+    "type": "folder",
+    "id": "1ShPDiH6npYSy7XI1sN45XGSeOd0YG7_-",
+    "children": [
+      {
+        "name": "TEORÍA_Y_PLANCHITAS",
+        "type": "folder",
+        "id": "1HMYc0IvOILOO7ncTECXKQHYD-nAhhCzM",
+        "children": [
+          {
+            "name": "Morillo",
+            "type": "folder",
+            "id": "1JTBFhIXGCsw3bcOZUJjfA8UY4Wb4bOkv",
+            "children": [
+              {
+                "name": "Cuarta_Practica_-_GE604W.pdf",
+                "type": "file",
+                "id": "1rmaGjxN2wDjHgH9_hQODnkos8QPBRygr",
+                "mimeType": "application/pdf",
+                "size": "182798"
+              },
+              {
+                "name": "Segunda_Practica_GE_604.pdf",
+                "type": "file",
+                "id": "1uRE3bbfBf7I-NjzEcHmM2NTp7Q-1rNQJ",
+                "mimeType": "application/pdf",
+                "size": "113132"
+              },
+              {
+                "name": "Tercera_Practica_GE_604_W.pdf",
+                "type": "file",
+                "id": "1UDTHbauSecKt7SkCMtq2734vrFskYUGD",
+                "mimeType": "application/pdf",
+                "size": "160469"
+              },
+              {
+                "name": "Primera_Practica_GE604V.pdf",
+                "type": "file",
+                "id": "1udjUQArqVjV26UK2b4jKps1fuWnO_iFV",
+                "mimeType": "application/pdf",
+                "size": "78633"
+              },
+              {
+                "name": "Examen_Final_GE_604_(1).pdf",
+                "type": "file",
+                "id": "18mPXNXCl7PyNMsXcvpeQkO7Zu092m8Wp",
+                "mimeType": "application/pdf",
+                "size": "757845"
+              },
+              {
+                "name": "Primera_Practica_GE_604.docx",
+                "type": "file",
+                "id": "1uoWyG1oMibCbLJy6fxmEmfClkFC_UNwM",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "326550"
+              },
+              {
+                "name": "2PC_-_GE604.pdf",
+                "type": "file",
+                "id": "1rRoL1Zzsen_sPyXmSkQ4t6ds5Op_Z4DZ",
+                "mimeType": "application/pdf",
+                "size": "141283"
+              },
+              {
+                "name": "Tercera_Practica_GE_604.docx",
+                "type": "file",
+                "id": "14yWALjZcqpr3BgDA0eKE9J8QhQ8aoOjm",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "225853"
+              },
+              {
+                "name": "Solucionario-Examen_Parcial_GE_604-2021.docx",
+                "type": "file",
+                "id": "1MZTbwXLb_mdFowwPTZwmo2Uzkl1tnpTV",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "34798"
+              },
+              {
+                "name": "GE604_MORILLO_PC4_20-2.pdf",
+                "type": "file",
+                "id": "1UOcYN5ngkdvYvmiNq8VEVeIBum_YHT4f",
+                "mimeType": "application/pdf",
+                "size": "182798"
+              },
+              {
+                "name": "GE604_MORILLO_PC2_20-2.pdf",
+                "type": "file",
+                "id": "1X9XsSpshvUDkje7yS2EfbT-GRh-NgBzr",
+                "mimeType": "application/pdf",
+                "size": "141283"
+              }
+            ]
+          },
+          {
+            "name": "Quinteros",
+            "type": "folder",
+            "id": "1Zc_SZFjEgFHfCAeaqp428YTNRHp0binQ",
+            "children": [
+              {
+                "name": "AO-ADM_Y_ORG_SILABO_21-1_-_SILVIO_QUINTEROS.doc",
+                "type": "file",
+                "id": "1XuOPaXuZtWvbEjSz45dIOtE9cMXfBGE1",
+                "mimeType": "application/msword",
+                "size": "117248"
+              },
+              {
+                "name": "TRABAJO_GRUPAL_-_AO-_2021-2.xlsx",
+                "type": "file",
+                "id": "1YSplNNeEFsRPbhlhLlbBlVu8DJvDhket",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "9705"
+              },
+              {
+                "name": "AO-ADM_Y_ORG_SILABO_21-1_-_SILVIO_QUINTEROS_(1).doc",
+                "type": "file",
+                "id": "1IZB3ZoyIEN0AoyYyAneAk2i5wWAq_FCm",
+                "mimeType": "application/msword",
+                "size": "117248"
+              },
+              {
+                "name": "AO-EXPARC-V-21.xlsx",
+                "type": "file",
+                "id": "1IYzyifqglQXvhIfyPrZT3DOgsMQKzkDx",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "14099"
+              }
+            ]
+          },
+          {
+            "name": "CAICEDO",
+            "type": "folder",
+            "id": "1eTV8lJelgj9KmtdYLhrjpqa3b6UpuETr",
+            "children": [
+              {
+                "name": "indicaciones_para_el_trabajo_final",
+                "type": "folder",
+                "id": "1LOB4K9v5-LdhmrsWw0wvQGDQ6wba-y0t",
+                "children": [
+                  {
+                    "name": "FORMAT_1.DOC",
+                    "type": "file",
+                    "id": "1V7hMpcWYCTunawFVGAtJfJxGM88EkDys",
+                    "mimeType": "application/msword",
+                    "size": "18100"
+                  },
+                  {
+                    "name": "PAUTAS_1.DOC",
+                    "type": "file",
+                    "id": "129DMqOz-CnrjEI6TTr7ONVmJr8Ho5YqQ",
+                    "mimeType": "application/msword",
+                    "size": "19052"
+                  }
+                ]
+              },
+              {
+                "name": "clases",
+                "type": "folder",
+                "id": "1PxmfBWik43eiyvZD2Ki0Ccz2owNJjIy4",
+                "children": [
+                  {
+                    "name": "2da_pc",
+                    "type": "folder",
+                    "id": "100GniVZpTrgPf5MzVMqvtqGLbBA3SUAK",
+                    "children": [
+                      {
+                        "name": "SESION_05-MINTZBERG-TEORÍA_DE_ESTRUCTURA_ORGÁNICA_DE_HENRY_MINTZBERG.pptx",
+                        "type": "file",
+                        "id": "14__szaW_s3UzRfuMzT1A2pwa91i4yhVT",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "965025"
+                      },
+                      {
+                        "name": "SESION_04-PETER_DRUCKER-Modelo_Funcional_de_Peter_Drucker.pptx",
+                        "type": "file",
+                        "id": "1IqHjyzVmB-glpLS6pzd9gWpSC0usuJ7h",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "354062"
+                      },
+                      {
+                        "name": "SESION_07-ORGANIGRAMAS_(2).ppt",
+                        "type": "file",
+                        "id": "14Z63grYlDKLn2I3pLJIE7jBaNmFOk2M6",
+                        "mimeType": "application/vnd.ms-powerpoint",
+                        "size": "2243072"
+                      },
+                      {
+                        "name": "SESION_06-GIBSON_-_IVANCEVICH-Teorias_de_la_estructura_organizacional_-Ivancevich_(1).pptx",
+                        "type": "file",
+                        "id": "1G8bACwWfQ7MVlJ8nNUyKzpjflmxiGscI",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "1036611"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Diseño_otrganizacional_Robbins_Cap_09.pdf",
+                    "type": "file",
+                    "id": "1Ko2Q9cIzpesVpth5xSxMaD1HUjuU6xVe",
+                    "mimeType": "application/pdf",
+                    "size": "1345350"
+                  },
+                  {
+                    "name": "SESION_3_DIAGNOSTICO_ORGANIZACIONAL_FIIS_20-1.pptx",
+                    "type": "file",
+                    "id": "1BLE3pCSbn24RoWMdsI0TaPWqHhKfkS6l",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "1872731"
+                  },
+                  {
+                    "name": "SESION_01_-A_y_O.pptx",
+                    "type": "file",
+                    "id": "1nphfr5sQqqbkahILSWyh0sccSuG1mDQ6",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "2437264"
+                  },
+                  {
+                    "name": "clase_07-06_ROF,_MOF,_MAPRO,_CAP.docx",
+                    "type": "file",
+                    "id": "12xEPqiM1CUDJ1NLgTVMuYo0t9kDlKIOn",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "7251623"
+                  },
+                  {
+                    "name": "MEDICION_Y_ANALISIS_DEL_PROCESO_PCM_2018.pdf",
+                    "type": "file",
+                    "id": "1tWi0Cqi8t9CaTeSWQp9xIRMO7MFoDd0e",
+                    "mimeType": "application/pdf",
+                    "size": "2508097"
+                  },
+                  {
+                    "name": "CASO_1_MGM_GRAND_AMPLIADO_Y_CON_PREGUNTAS.pdf",
+                    "type": "file",
+                    "id": "1Noyci8McSDPd8cXcO1cS4Xnkh7m3fR2V",
+                    "mimeType": "application/pdf",
+                    "size": "1183776"
+                  },
+                  {
+                    "name": "Sesion_02_ESTRUCTURA_ORGÁNICA_Y_FUNCIONAL.pptx",
+                    "type": "file",
+                    "id": "1ApgRwYMv-XZqqYelTsCjqvBspsrbn4ks",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "4138684"
+                  }
+                ]
+              },
+              {
+                "name": "evaluaciones",
+                "type": "folder",
+                "id": "1qYS_tvnXTkJ6EmZWiVqun_kIiGtRqRPz",
+                "children": [
+                  {
+                    "name": "PC4_A_y_O_2020-2.docx",
+                    "type": "file",
+                    "id": "1DISdmnKLg4mtbaFnbZDpMPyMfXKcZJE5",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "21356"
+                  },
+                  {
+                    "name": "Prueba_de_Entrada_A_y_O_GE604.docx",
+                    "type": "file",
+                    "id": "1AZxQiWVmtT2lo9E1gPVO0Drb2L2ZsOyT",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "28471"
+                  },
+                  {
+                    "name": "EX_FINAL_GE604U_2020-2.docx",
+                    "type": "file",
+                    "id": "1o0qd9615uI-UMyTfm6p8_wGm0McfY0wo",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "46186"
+                  },
+                  {
+                    "name": "PC1_A_y_O_GE604_U_20-2.docx",
+                    "type": "file",
+                    "id": "1nuUd4tBRUZ8S6AT5dfOAPSLlE0FcumIh",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "21751"
+                  },
+                  {
+                    "name": "PC2_A_y_O_FIIS_2020-2.docx",
+                    "type": "file",
+                    "id": "11rF1lZtCNQkX2zA-TMiocQ-NG6s5EDx1",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "40538"
+                  },
+                  {
+                    "name": "PC3_A_y_O_FIIS_2020-2.docx",
+                    "type": "file",
+                    "id": "13GQjTTZvA94RCg6YF4koW42BDgGxdSbD",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "21949"
+                  },
+                  {
+                    "name": "EX_PARCIAL_GE604_U_2020-2.docx",
+                    "type": "file",
+                    "id": "1Arf4UBIgMfO4f5dco8v_eGjiMHzj5pyX",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "40613"
+                  }
+                ]
+              },
+              {
+                "name": "SOLUCIONARIO_EXAMEN_PARCIAL_A_y_O_2021_(1).docx",
+                "type": "file",
+                "id": "1Z07U3t_2Um1zwAIyC2KCqoalZrwJD16d",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "131894"
+              },
+              {
+                "name": "EX_PARCIAL_GE604_U_2020-2.docx",
+                "type": "file",
+                "id": "1sJoLYA54xY6YwMsl3BSjr6iwO-NsCAIw",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "40613"
+              },
+              {
+                "name": "SOLUCIONARIO_EXAMEN_FINAL_A_y_O_2020-2.docx",
+                "type": "file",
+                "id": "1XiUoOO1zn89BzNrITlQ8WiPA5nLfBERP",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "23124"
+              },
+              {
+                "name": "GE604_U_CAICEDO_PC4_20-2.pdf",
+                "type": "file",
+                "id": "19GFxsHsLL9t7tNDGvcZf-9jsxb2tosQh",
+                "mimeType": "application/pdf",
+                "size": "537756"
+              },
+              {
+                "name": "GE604_U_CAICEDO_PC4_20-2_(2).pdf",
+                "type": "file",
+                "id": "18wO1pIEd5p7yrxYdxmeFgOXkpbOzre3v",
+                "mimeType": "application/pdf",
+                "size": "157576"
+              }
+            ]
+          },
+          {
+            "name": "Sedano",
+            "type": "folder",
+            "id": "1E8-xkcfiYUyG2uFh7zGUDQeZULXthJoY",
+            "children": [
+              {
+                "name": "PRACTICA_1.pdf",
+                "type": "file",
+                "id": "1E_-QUwQAnD_1w4xOo-8uksvx3-2iJ8Ek",
+                "mimeType": "application/pdf",
+                "size": "1616188"
+              },
+              {
+                "name": "SOLUCIONARIO_EXA_PAR_2DA_PARTE_-_copia.docx",
+                "type": "file",
+                "id": "1AleIQIZKnEf8ta2lA3n1crWRGOsecH6s",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "19783"
+              }
+            ]
+          },
+          {
+            "name": "matriz_de_procesos.docx",
+            "type": "file",
+            "id": "1H4XFiOk7s-oIJJkW5-trlDqxuObHDPUY",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "15961"
+          },
+          {
+            "name": "WhatsApp_Image_2021-08-21_at_12.55.45_AM.jpeg",
+            "type": "file",
+            "id": "1Q7bP6RP02nQTeryow0iP8xeHgffx6Bc8",
+            "mimeType": "image/jpeg",
+            "size": "107461"
+          },
+          {
+            "name": "matriz-de-procesos.jpg",
+            "type": "file",
+            "id": "1vOLuEWJH5A2v26RrLqYZSScduB1ujwqo",
+            "mimeType": "image/jpeg",
+            "size": "576544"
+          },
+          {
+            "name": "WhatsApp_Image_2021-08-19_at_8.52.52_PM.jpeg",
+            "type": "file",
+            "id": "1Io2eqDsyM7daYmyKAawUe4Fj6029Boam",
+            "mimeType": "image/jpeg",
+            "size": "49419"
+          },
+          {
+            "name": "pc3_llance.docx",
+            "type": "file",
+            "id": "1VvBUDw0ijB5--psdm_FU3N0pzzN9Up5F",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "28024"
+          }
+        ]
+      },
+      {
+        "name": "LIBROS",
+        "type": "folder",
+        "id": "1xKQg4iHiZ27Rf5yanPHG46Yea7AY6OWn",
+        "children": [
+          {
+            "name": "LIBRO_1-1_-_MINTZBERG.pdf",
+            "type": "file",
+            "id": "1d8A7ui_3NbQWBgDgzEfRf4GB3zTomZ38",
+            "mimeType": "application/pdf",
+            "size": "10985113"
+          },
+          {
+            "name": "Sampieri_6ta_edición.pdf",
+            "type": "file",
+            "id": "1ydmy0iQvM4ig6rmn7QKQh2ELA_A9227j",
+            "mimeType": "application/pdf",
+            "size": "6892025"
+          },
+          {
+            "name": "LIBRO_1_-_INTROD_ADMINIST_ORGANIZAC.-_CESAR_BERNAL.pdf",
+            "type": "file",
+            "id": "1-DZBmBcVyGsDLErkn4iD2dXFOg9m8AyD",
+            "mimeType": "application/pdf",
+            "size": "51237485"
+          },
+          {
+            "name": "02-_ADMINISTRACION-Lourdes-Munch-2a-edic.pdf",
+            "type": "file",
+            "id": "16Oo21vto55n_CxlKd75fiZG3lcLRPdou",
+            "mimeType": "application/pdf",
+            "size": "18131173"
+          }
+        ]
+      }
+    ]
+  }
+}

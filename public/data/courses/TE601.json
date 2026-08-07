@@ -1,0 +1,1084 @@
+{
+  "course_id": "TE601",
+  "course_name": "Ingeniería_de_materiales",
+  "id": "1B-tXb_pxnrPC7sZlWFcBADc6a7J8XysP",
+  "scanned_at": "2026-08-06T23:59:15.537736+00:00",
+  "tree": {
+    "name": "Ingeniería_de_materiales",
+    "type": "folder",
+    "id": "1B-tXb_pxnrPC7sZlWFcBADc6a7J8XysP",
+    "children": [
+      {
+        "name": "Cruz",
+        "type": "folder",
+        "id": "15dTn8CIn1N5hN5kMdE9C9P2pwIv8_axu",
+        "children": [
+          {
+            "name": "PC03",
+            "type": "folder",
+            "id": "1FPSs555qyR4zJikcELWOpDd8n6H_knfr",
+            "children": [
+              {
+                "name": "PC_3_CRUZ_W.pdf",
+                "type": "file",
+                "id": "1WnUCP6fJ9yOPJTIFgiRDnfrpYhFSwLzQ",
+                "mimeType": "application/pdf",
+                "size": "244308"
+              },
+              {
+                "name": "PC3_-_ING_MATERIALES_-_CRUZ_-_U.pdf",
+                "type": "file",
+                "id": "15-2omkSjCMZawop6SqaGGroSm2By9N1f",
+                "mimeType": "application/pdf",
+                "size": "439652"
+              }
+            ]
+          },
+          {
+            "name": "FINAL",
+            "type": "folder",
+            "id": "19Py7BUnIwSVfCg-p_fuxjk9nJxvrcnTC",
+            "children": [
+              {
+                "name": "F_inal.jpg",
+                "type": "file",
+                "id": "1zU0wKJSZLY_e__lzwneJgOc2XoW3tkmD",
+                "mimeType": "image/jpeg",
+                "size": "138383"
+              },
+              {
+                "name": "FINAL_ING_MATERIALES_W_SOLUCIONARIO.pdf",
+                "type": "file",
+                "id": "1uuB_PzHA4hilPESAV4HNa6HyH8peiwIg",
+                "mimeType": "application/pdf",
+                "size": "287674"
+              },
+              {
+                "name": "EF_TE601U_21-I.pdf",
+                "type": "file",
+                "id": "1RtPj4fqF7XfCfHcVHyhhdXSXm-tOqKst",
+                "mimeType": "application/pdf",
+                "size": "1048183"
+              }
+            ]
+          },
+          {
+            "name": "PARCIAL",
+            "type": "folder",
+            "id": "1tMNecOowhjfZxzCAbuICxPUBtGxogpFK",
+            "children": [
+              {
+                "name": "Parcial_6.jpg",
+                "type": "file",
+                "id": "18182pCvQyeMfFYIrBl0nLhKYN9rQ0F_Y",
+                "mimeType": "image/jpeg",
+                "size": "39036"
+              },
+              {
+                "name": "parcial_19-2.jpg",
+                "type": "file",
+                "id": "1O45kOwPwlSOMYQwkuqkPzts04zKy2ZzV",
+                "mimeType": "image/jpeg",
+                "size": "142355"
+              },
+              {
+                "name": "PARCIAL_-_CRUZ_-_W.pdf",
+                "type": "file",
+                "id": "1_6tUgHOO7J5x7UWUziM1bn3PnX4SM0yD",
+                "mimeType": "application/pdf",
+                "size": "523899"
+              },
+              {
+                "name": "Parcial_2.jpg",
+                "type": "file",
+                "id": "1QjinQlbcGhI9G5D63jzVag4Sk_kDXM6S",
+                "mimeType": "image/jpeg",
+                "size": "59395"
+              },
+              {
+                "name": "Parcial_3.jpg",
+                "type": "file",
+                "id": "1GOZTaneD_IBnjXzut6XXT5HsN0AdW_gy",
+                "mimeType": "image/jpeg",
+                "size": "31663"
+              },
+              {
+                "name": "Parcial_4.jpg",
+                "type": "file",
+                "id": "1XLA1mMk9zIsPwlFe3fpyZWIubh1PMadg",
+                "mimeType": "image/jpeg",
+                "size": "49947"
+              },
+              {
+                "name": "Parcial_5.jpg",
+                "type": "file",
+                "id": "12sfTjExhM_2YxKrAp794TcShq-D_P-ke",
+                "mimeType": "image/jpeg",
+                "size": "67480"
+              },
+              {
+                "name": "Parcial_1.jpg",
+                "type": "file",
+                "id": "1DQbhCVoVD4y8hgrUGXh9kDJ9oGmYvPC9",
+                "mimeType": "image/jpeg",
+                "size": "46768"
+              }
+            ]
+          },
+          {
+            "name": "PC01",
+            "type": "folder",
+            "id": "1o4CbA-1Md1x-cRN98r7iZnsknOPcqZm6",
+            "children": [
+              {
+                "name": "PC1.pdf",
+                "type": "file",
+                "id": "1rBYJ0BINUsQdRyHXNgXBhz6XTulWDHuF",
+                "mimeType": "application/pdf",
+                "size": "755382"
+              },
+              {
+                "name": "PRIMERA_PC_ING._MATERIALES_TE601_2020-2.pdf",
+                "type": "file",
+                "id": "1S1cy2htNtomu5wBt56DDTsaFIgcxAUG0",
+                "mimeType": "application/pdf",
+                "size": "256277"
+              },
+              {
+                "name": "pc1_1.jpg",
+                "type": "file",
+                "id": "1-T1_ymowsipsEjPbQlGYTa-g0VxAU4Ye",
+                "mimeType": "image/jpeg",
+                "size": "41449"
+              },
+              {
+                "name": "pc1_8.jpg",
+                "type": "file",
+                "id": "1RlUpbsfqYiYEY979k1ReiE3QkQzR6Ovn",
+                "mimeType": "image/jpeg",
+                "size": "58320"
+              },
+              {
+                "name": "pc1_9.jpg",
+                "type": "file",
+                "id": "15ibj9QGpDPI6BszB9Y3QPBoODkFvMOFL",
+                "mimeType": "image/jpeg",
+                "size": "64997"
+              },
+              {
+                "name": "pc1_6.jpg",
+                "type": "file",
+                "id": "18JbCr4Tfrnifek1MgG9h8Sk3q48j_L9G",
+                "mimeType": "image/jpeg",
+                "size": "21649"
+              },
+              {
+                "name": "pc1_3.jpg",
+                "type": "file",
+                "id": "1OWYYrWcmBOGeYcSnZc5kw5k4F-hZo63C",
+                "mimeType": "image/jpeg",
+                "size": "83962"
+              },
+              {
+                "name": "pc1_4.jpg",
+                "type": "file",
+                "id": "1q_b6uWdTmgh18_7z8u9f-rlU540U-pUq",
+                "mimeType": "image/jpeg",
+                "size": "40812"
+              },
+              {
+                "name": "pc1_5.jpg",
+                "type": "file",
+                "id": "1-oksM_hYdzbSWkMOmutO_I2eoYBrIYC8",
+                "mimeType": "image/jpeg",
+                "size": "58793"
+              },
+              {
+                "name": "pc1_7.jpg",
+                "type": "file",
+                "id": "129-DhP16HuUiQFGCkhygIiuLJfzBhXXa",
+                "mimeType": "image/jpeg",
+                "size": "36169"
+              },
+              {
+                "name": "pc1_2.jpg",
+                "type": "file",
+                "id": "1tyrYeWi9FwEeC2uqKbCHsg_qiB_6ehQ5",
+                "mimeType": "image/jpeg",
+                "size": "27935"
+              }
+            ]
+          },
+          {
+            "name": "PC04",
+            "type": "folder",
+            "id": "1TSMrTw2Wj_A4b5AnPX_jJ-nr4x5v7Xht",
+            "children": [
+              {
+                "name": "S14._Practica_Calificada_4._Cuestionario_20-2_W_(página_1_de_2).pdf",
+                "type": "file",
+                "id": "1Vv4JrzEVIAdQ29hSaqeCy7-qsQBsUQBl",
+                "mimeType": "application/pdf",
+                "size": "153173"
+              },
+              {
+                "name": "S14._Practica_Calificada_4._Cuestionario_20-2_W_(página_2_de_2).pdf",
+                "type": "file",
+                "id": "1tPSO8JoFjg_XGxQcm345mIPS0EZVh21C",
+                "mimeType": "application/pdf",
+                "size": "137227"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Aguero",
+        "type": "folder",
+        "id": "1xYjHf-vB1ZnAcvR2n2N1r1iSZ_c49C9A",
+        "children": [
+          {
+            "name": "TEORÍA",
+            "type": "folder",
+            "id": "1TOb4LApKAsu6wzRl0yzyYrv2V3xK6r_K",
+            "children": [
+              {
+                "name": "PPT_s",
+                "type": "folder",
+                "id": "1Yid_yggrtsJ02KBdNtywh8XyGD-3YnW3",
+                "children": [
+                  {
+                    "name": "Semana_04",
+                    "type": "folder",
+                    "id": "16fW3CNH5_P-i3ZYZf5TI-B3ab97pOZ30",
+                    "children": [
+                      {
+                        "name": "_La_estructura_mOLECULAR.pdf",
+                        "type": "file",
+                        "id": "1Uu3Pf4-_SyyzuzqHuf_zNzhyz_B9DP-V",
+                        "mimeType": "application/pdf",
+                        "size": "303911"
+                      },
+                      {
+                        "name": "estruct_cubica.pdf",
+                        "type": "file",
+                        "id": "16R8hvBLFcikqK4NzCAhOxQwQesqmNnHZ",
+                        "mimeType": "application/pdf",
+                        "size": "183994"
+                      },
+                      {
+                        "name": "DIAGRAM_PHASES.ppt",
+                        "type": "file",
+                        "id": "1PEwG7epJVHRq0-BqoMnIfiMXOBT0Q88N",
+                        "mimeType": "application/vnd.ms-powerpoint",
+                        "size": "3172864"
+                      },
+                      {
+                        "name": "DEFECTOS_CRISTALINOS.pdf",
+                        "type": "file",
+                        "id": "14A5A7WMWqwnm-DKW9ugnPaO2Geo_LXJI",
+                        "mimeType": "application/pdf",
+                        "size": "312253"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Semana_10",
+                    "type": "folder",
+                    "id": "18SjbkVZttXR1rLXTM95Pc02M_ObI39Ic",
+                    "children": [
+                      {
+                        "name": "106_MAGNESIO.ppt",
+                        "type": "file",
+                        "id": "1_qDmBCW_ubV0tq8t420h_oH0THjG0uhR",
+                        "mimeType": "application/vnd.ms-powerpoint",
+                        "size": "609792"
+                      },
+                      {
+                        "name": "Metales_no_ferrosos.pdf",
+                        "type": "file",
+                        "id": "1Kkho3uNyz9An7mcGs-3FOSXsks0kIdVx",
+                        "mimeType": "application/pdf",
+                        "size": "4324798"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Semana_05",
+                    "type": "folder",
+                    "id": "12MbsJyo4nea2Ki014HdWK38rFnPEMJHK",
+                    "children": [
+                      {
+                        "name": "diagramas_de_equilibrio_o_fases_del_hierro.pdf",
+                        "type": "file",
+                        "id": "1Sik9aNTQNOwYc5NxOFNxBt_BK80D5bK2",
+                        "mimeType": "application/pdf",
+                        "size": "155864"
+                      },
+                      {
+                        "name": "ACEROS_ESTRUCTURALES.pdf",
+                        "type": "file",
+                        "id": "1M6Hs5_iQX-0PvvazmtwowqdWpMdpp002",
+                        "mimeType": "application/pdf",
+                        "size": "1238619"
+                      },
+                      {
+                        "name": "principios_de_diagrama_de_fases.pdf",
+                        "type": "file",
+                        "id": "1_nTz-xvb_Ah5cj2i6RWkE4Irtw_Qx9_w",
+                        "mimeType": "application/pdf",
+                        "size": "125854"
+                      },
+                      {
+                        "name": "Materiales_Ferrosos_-_exposición.ppt",
+                        "type": "file",
+                        "id": "1LkmZ35vTeaMpC54SkvCtqojGKISstQXW",
+                        "mimeType": "application/vnd.ms-powerpoint",
+                        "size": "4556800"
+                      },
+                      {
+                        "name": "Aleaciones_Ferrosas.ppt",
+                        "type": "file",
+                        "id": "1qhTQYLoftZftFE6IgxyIuxJMhypR0DbZ",
+                        "mimeType": "application/vnd.ms-powerpoint",
+                        "size": "839168"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Semana_09",
+                    "type": "folder",
+                    "id": "1y6K8jQnwrruwvlhg7IgShMhn6j_TXs8B",
+                    "children": [
+                      {
+                        "name": "EL_ALUMINIO_2_CONSTRUCC_NAUTICAS.pdf",
+                        "type": "file",
+                        "id": "10YFduIJjLQvK8hj5rv6slfiEF5tO8B9m",
+                        "mimeType": "application/pdf",
+                        "size": "5309231"
+                      },
+                      {
+                        "name": "EL_ALUMINIO_1.pdf",
+                        "type": "file",
+                        "id": "1OD8Xj6rOt2-5aGeN2fNEyl7OrBaSPzQ_",
+                        "mimeType": "application/pdf",
+                        "size": "580114"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Semana_02",
+                    "type": "folder",
+                    "id": "1QYxZsJYYnpgJ1pn4IHtj6P8wiOepdUaQ",
+                    "children": [
+                      {
+                        "name": "PROPIEDADES_DE_LOS_MATERIALES.pdf",
+                        "type": "file",
+                        "id": "1YUu7DFxCYLNne9aigWmlmM3KXTpCdmE_",
+                        "mimeType": "application/pdf",
+                        "size": "795674"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Semana_07",
+                    "type": "folder",
+                    "id": "1_B7lvhAoR9_pccvCmsO8ojFtRqVWwTgj",
+                    "children": [
+                      {
+                        "name": "6-Oxidacion.pdf",
+                        "type": "file",
+                        "id": "1IChWrJ1MartAZoYU6CJt1nzEJpGNrwLX",
+                        "mimeType": "application/pdf",
+                        "size": "2311619"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Semana_06",
+                    "type": "folder",
+                    "id": "1fl4xxFxqLu__OGhCSi8PZcLbwub9cxA2",
+                    "children": [
+                      {
+                        "name": "7.-_PRESENTACION_ACEPESAC_-_ING._JORGE_MUÑOZ-NAJAR.ppt",
+                        "type": "file",
+                        "id": "1PBGjxaDMfohUX8uVtb2RtmxJqYI3yaOV",
+                        "mimeType": "application/vnd.ms-powerpoint",
+                        "size": "46627328"
+                      },
+                      {
+                        "name": "Tratamientos_Térmicos_y_Termoquímicos.ppt",
+                        "type": "file",
+                        "id": "1_qNg2S1v7c_2IG1MwibLRRBaAP2-qotA",
+                        "mimeType": "application/vnd.ms-powerpoint",
+                        "size": "967168"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Semana_03",
+                    "type": "folder",
+                    "id": "1GpRKUii6E5xDnm5prmm3-m7UKfEy0rsz",
+                    "children": [
+                      {
+                        "name": "ensayos-de-las-propiedades-de-los-materiales.ppt",
+                        "type": "file",
+                        "id": "1oPlwsHSp0QfSegtOzJyDJT8alA2oYC93",
+                        "mimeType": "application/vnd.ms-powerpoint",
+                        "size": "1187840"
+                      },
+                      {
+                        "name": "dureza_vickers-_ing._luis_gomez.pdf",
+                        "type": "file",
+                        "id": "1DyxvUjultLWMMfRLLsXJxOfsmR-2y7mJ",
+                        "mimeType": "application/pdf",
+                        "size": "1988260"
+                      },
+                      {
+                        "name": "ALEACIONE_FERREAS_FINAL.doc",
+                        "type": "file",
+                        "id": "15NYm87TT7HoYj7YBSBZnc3ToLoikmvvD",
+                        "mimeType": "application/msword",
+                        "size": "2892800"
+                      },
+                      {
+                        "name": "ingeniera_de_materiales_2014-1.ppt",
+                        "type": "file",
+                        "id": "1czntUJHmGIu-LPYFgoiDjiETc5BsDBO1",
+                        "mimeType": "application/vnd.ms-powerpoint",
+                        "size": "1773568"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Semana_01",
+                    "type": "folder",
+                    "id": "1rSUMf9F-tH3iWqbPnP7BGTQYbUNRMJ8B",
+                    "children": [
+                      {
+                        "name": "PROPIEDADES_DE_LOS_MATERIALES_EN_INGENIERIA.pdf",
+                        "type": "file",
+                        "id": "1SKIg3RNv3viWv-bdM4XP-jYRrQD41EjH",
+                        "mimeType": "application/pdf",
+                        "size": "5160785"
+                      },
+                      {
+                        "name": "ESTRUCTURA_DE_LOS_MATERIALES.pdf",
+                        "type": "file",
+                        "id": "1_ildNEDeoO4xRpJ6GZv8JS74XOZaT_62",
+                        "mimeType": "application/pdf",
+                        "size": "795674"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Material_PC4",
+                "type": "folder",
+                "id": "1_5HD3fjty4nS0b3ZfeaR84R90MQn04TS",
+                "children": [
+                  {
+                    "name": "LAMADERA.ppt",
+                    "type": "file",
+                    "id": "1nd5gtJt_31k6roDOg0bLeCSFB8pzNO3Y",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "562688"
+                  },
+                  {
+                    "name": "La_madera_como_fuente_de_energia..pdf",
+                    "type": "file",
+                    "id": "1Q6pD8PlSfqsuHSAiEgJ-lRLW6Y2AtoYH",
+                    "mimeType": "application/pdf",
+                    "size": "1523459"
+                  },
+                  {
+                    "name": "FIBRAS-OP[1].._(1).ppt",
+                    "type": "file",
+                    "id": "1_wgJx8vwrLeF5ZaDpjJbKjPkhy2egMe5",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "417792"
+                  },
+                  {
+                    "name": "la_madera_1.ppt",
+                    "type": "file",
+                    "id": "1TGKaMbrUZmkE5ksYot_3lSa9VzXlqIu8",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "4376576"
+                  },
+                  {
+                    "name": "la_era_de_la_nanotec_(1).ppt",
+                    "type": "file",
+                    "id": "100cZgHmGJImsVIwVMGWQJJOETqpdsTIg",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "2696704"
+                  },
+                  {
+                    "name": "los-plasticos_(1).ppt",
+                    "type": "file",
+                    "id": "1odMqRB26d55TvPr7TjyO-84awxzG7CSy",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "3136000"
+                  },
+                  {
+                    "name": "Nanotecnologia[1]_(1).ppt",
+                    "type": "file",
+                    "id": "1aIAVbbfU5C3jQUd7OWIi1QBceYrOVTG0",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "4113920"
+                  },
+                  {
+                    "name": "plasticos_(1).pps",
+                    "type": "file",
+                    "id": "1GpOock_7vUTN7h1zDT8ZCEzTGbLc56ED",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "2774016"
+                  },
+                  {
+                    "name": "Tema2.AleacionesNoFerreas.pdf",
+                    "type": "file",
+                    "id": "1PcGlxnnMkQxNkZ5-NgNTQGfwMJ16W55X",
+                    "mimeType": "application/pdf",
+                    "size": "9891931"
+                  },
+                  {
+                    "name": "El_mundo_mágico_del_vidrio.ppt",
+                    "type": "file",
+                    "id": "1HSiXD5bHfhm9pPv4gYC0WM4_RTsHkJsY",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "9417216"
+                  },
+                  {
+                    "name": "ESTUDIO_DEL_VIDRIO_(1).ppt",
+                    "type": "file",
+                    "id": "1RjkE76uMLYdjpMVR_3d7DnlmbDC40HmQ",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "2213376"
+                  }
+                ]
+              },
+              {
+                "name": "Material_PC3",
+                "type": "folder",
+                "id": "1kIFki77JqPFs3MqRRRU9v5XZwEFjWg9Q",
+                "children": [
+                  {
+                    "name": "latones_(1).ppt",
+                    "type": "file",
+                    "id": "1srvP138-NIB5CMPBbnZACmmyEIyCOBJc",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "197120"
+                  },
+                  {
+                    "name": "aluminio_(1).ppt",
+                    "type": "file",
+                    "id": "1-vrpE8q1m8jPoRF3NOgZIQKNoNrhjFLC",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "350208"
+                  },
+                  {
+                    "name": "bronces.ppt",
+                    "type": "file",
+                    "id": "1zNqxKpPGkoU3qmrOeuSP2Q1BFm-39vci",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "347136"
+                  },
+                  {
+                    "name": "materiales_no_ferrosos2009_(1).ppt",
+                    "type": "file",
+                    "id": "1KiHWBurCVnUZ3nqWuKUrv6Vp94Plk9XU",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "10008064"
+                  },
+                  {
+                    "name": "magnesio_(1).ppt",
+                    "type": "file",
+                    "id": "1PBtbXXlX0TrGAnySGcpkzbVP3izLaXIo",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "404992"
+                  },
+                  {
+                    "name": "CUoxidado_(1).ppt",
+                    "type": "file",
+                    "id": "1gxaAT5Fwy3aOk2fpELGWLTe9bo_0mjFk",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "7297024"
+                  },
+                  {
+                    "name": "Aluminio2009_(1).ppt",
+                    "type": "file",
+                    "id": "1kcQcO19DQtnD1vz3gMY-4PvKO5G-COXa",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "7590912"
+                  },
+                  {
+                    "name": "cobre.pdf",
+                    "type": "file",
+                    "id": "1KkY89F9A9Y31cYuxQ7myf7KhLrTU3p5I",
+                    "mimeType": "application/pdf",
+                    "size": "2434497"
+                  }
+                ]
+              },
+              {
+                "name": "Manuales",
+                "type": "folder",
+                "id": "1RBBlEyDc5S02kXjcdRIc2ueLvK5z4KzS",
+                "children": [
+                  {
+                    "name": "MANUAL_BOHLER.pdf",
+                    "type": "file",
+                    "id": "1wyXXZ-oqDwB9enFzwSjfGYiguKVAXOuL",
+                    "mimeType": "application/pdf",
+                    "size": "12682014"
+                  },
+                  {
+                    "name": "MANUAL_DE_CIPESA.pdf",
+                    "type": "file",
+                    "id": "1dVvZ8O9Av7owxhU_yVWr1oEV_rIc_BuT",
+                    "mimeType": "application/pdf",
+                    "size": "3323314"
+                  },
+                  {
+                    "name": "docdownloader.com_aceros-especiales-y-tratamientos-termicos-catalogo.pdf",
+                    "type": "file",
+                    "id": "1_MUe0F4QxRqty3je7Q0Ig3R8YGftWy87",
+                    "mimeType": "application/pdf",
+                    "size": "8883121"
+                  }
+                ]
+              },
+              {
+                "name": "Documento_sin_título.docx",
+                "type": "file",
+                "id": "1uclZzZjhWgiB4ykhDNn28FGw5QQ5AOuh",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "6489"
+              },
+              {
+                "name": "aceros_bohler_15062016.pdf",
+                "type": "file",
+                "id": "1GqWhKBGS7Qmetx9zFSjj7a8n2mfFLuuv",
+                "mimeType": "application/pdf",
+                "size": "7875233"
+              }
+            ]
+          },
+          {
+            "name": "PLANCHITAS",
+            "type": "folder",
+            "id": "1ys_GpbUhQW52BkeytVk9fECk0SxYpwJq",
+            "children": [
+              {
+                "name": "Susti",
+                "type": "folder",
+                "id": "1ViOCS7N9oKtJehPsh_GbvmQgmWU8BINq",
+                "children": [
+                  {
+                    "name": "TE601V_SUSTI_2020-2_SOLUCIONARIO.docx",
+                    "type": "file",
+                    "id": "1AODRXOal4AVuho9JiOA_dgQt5uQEELMP",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "26077"
+                  },
+                  {
+                    "name": "TE601V_SUSTI_2021-1.docx",
+                    "type": "file",
+                    "id": "11It_Y_63yDfNA9a_IhC2JpXSkVLqge1c",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "25709"
+                  }
+                ]
+              },
+              {
+                "name": "Parcial",
+                "type": "folder",
+                "id": "1QU9P0bKmnIylwda9qmx_dmcF6PKqzvrF",
+                "children": [
+                  {
+                    "name": "Material_EX_PARCIAL",
+                    "type": "folder",
+                    "id": "1WupBdoP0tN3EKAl4EPL50PjSFP81nm0s",
+                    "children": [
+                      {
+                        "name": "Material_1ra_PC",
+                        "type": "folder",
+                        "id": "1d6ImgzB2-1i1OXoO18pWz5qFBfbT1Pdu",
+                        "children": [
+                          {
+                            "name": "ingeniera_de_materiales_2014-1_(1).ppt",
+                            "type": "file",
+                            "id": "1Bco1UM7Qgq57DQrAL_rjsTowpMVl4Wmx",
+                            "mimeType": "application/vnd.ms-powerpoint",
+                            "size": "1784832"
+                          },
+                          {
+                            "name": "DEFECTOS_CRISTALINOS_(1).pdf",
+                            "type": "file",
+                            "id": "1yphb-GF0pAALStvlCKVvFTxtg-7L4kZD",
+                            "mimeType": "application/pdf",
+                            "size": "312253"
+                          },
+                          {
+                            "name": "_La_estructura_mOLECULAR_(1).pdf",
+                            "type": "file",
+                            "id": "1ozxxOyYHW1UFvSE1awIMGMG-X1-GzOgd",
+                            "mimeType": "application/pdf",
+                            "size": "303911"
+                          },
+                          {
+                            "name": "estruct_cubica_(1).pdf",
+                            "type": "file",
+                            "id": "1T9Pc78kjxcv7VYIJT3sHbe1pPO0DHzRh",
+                            "mimeType": "application/pdf",
+                            "size": "183994"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Material_2da_PC",
+                        "type": "folder",
+                        "id": "1dIKHEffxbpaAO7YJXXB0Rs4EkfH-7GTY",
+                        "children": [
+                          {
+                            "name": "temp_conv_1IOJ9fZjRTmZ3XXvuK5n4ZGOsJ4RRQ-EE",
+                            "type": "file",
+                            "id": "1H3YJP7DFsVvCwvrBWmZybj_3sXSL_wVQzOBgQos5MyM",
+                            "mimeType": "application/vnd.google-apps.presentation",
+                            "size": "24206263"
+                          },
+                          {
+                            "name": "diagramas_de_equilibrio_o_fases_del_hierro_(2).pdf",
+                            "type": "file",
+                            "id": "1S3uaq-ZkFja0FKDyE3kJJFEq3KCgecwi",
+                            "mimeType": "application/pdf",
+                            "size": "155864"
+                          },
+                          {
+                            "name": "DIAGRAM_PHASES_(1).ppt",
+                            "type": "file",
+                            "id": "1QqcQ8mY4zkzLeqGehMDDPepOO5bFUggk",
+                            "mimeType": "application/vnd.ms-powerpoint",
+                            "size": "3299840"
+                          },
+                          {
+                            "name": "Tratamientos_Térmicos_y_Termoquímicos.ppt",
+                            "type": "file",
+                            "id": "147P0rP-opr7hmq4kiRS10SP8igj3acm7",
+                            "mimeType": "application/vnd.ms-powerpoint",
+                            "size": "967168"
+                          },
+                          {
+                            "name": "Aleaciones_Ferrosas_(1).ppt",
+                            "type": "file",
+                            "id": "1Gxs0X1sFI24bKtT6CeP0r2s_RE5joD5o",
+                            "mimeType": "application/vnd.ms-powerpoint",
+                            "size": "839168"
+                          },
+                          {
+                            "name": "Materiales_Ferrosos_-_exposición_(1).ppt",
+                            "type": "file",
+                            "id": "1w7mqJeKJ-ML74B4VRAMXxid38lkNFiVJ",
+                            "mimeType": "application/vnd.ms-powerpoint",
+                            "size": "4556800"
+                          },
+                          {
+                            "name": "7.-_PRESENTACION_ACEPESAC_-_ING._JORGE_MUÑOZ-NAJAR_(1).ppt",
+                            "type": "file",
+                            "id": "1IOJ9fZjRTmZ3XXvuK5n4ZGOsJ4RRQ-EE",
+                            "mimeType": "application/vnd.ms-powerpoint",
+                            "size": "46627328"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "PARCIAL_MATERIALES_2021-1_(1).doc",
+                    "type": "file",
+                    "id": "1NuRXBfh7zyVZs656sLV5_nfuKd01AruF",
+                    "mimeType": "application/msword",
+                    "size": "31744"
+                  },
+                  {
+                    "name": "EP_20-1.pdf",
+                    "type": "file",
+                    "id": "11QQjVU-4lHKBWqbOqacTc0h1Oj_WTA25",
+                    "mimeType": "application/pdf",
+                    "size": "309835"
+                  },
+                  {
+                    "name": "EX._PARCIAL,_TE601V,_20-2.docx",
+                    "type": "file",
+                    "id": "1WNl_-YLl378Zo83cWw_2m-rAVTu-8O2o",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "19664"
+                  },
+                  {
+                    "name": "20-1_2.jpg",
+                    "type": "file",
+                    "id": "1gIWOqvJfWcXuc9CAVLa3Wh8NF8dFdilc",
+                    "mimeType": "image/jpeg",
+                    "size": "177443"
+                  },
+                  {
+                    "name": "20-1.jpg",
+                    "type": "file",
+                    "id": "16OqZsviSIBh4j4fxMatnXmBIG-vwznBI",
+                    "mimeType": "image/jpeg",
+                    "size": "260094"
+                  },
+                  {
+                    "name": "SOLUCIONARIO_EXAMEN_PARCIAL_TE601_X_2020-2.docx",
+                    "type": "file",
+                    "id": "1GktDxos2aZbA4Z07OBXj_gWeeKBYJnYV",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "18252"
+                  }
+                ]
+              },
+              {
+                "name": "Final",
+                "type": "folder",
+                "id": "1dPY2NBHEofII3nqC_1JkWExvI-GBIcy1",
+                "children": [
+                  {
+                    "name": "TE601_V_EXAMEN_FINAL_-_VILLACORTA_CASMA_EDUARDO.docx",
+                    "type": "file",
+                    "id": "1eBLD4_AAwh7A8JFqrt6Tni7qe6-brstU",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "21832"
+                  },
+                  {
+                    "name": "EXAMEN_FINAL_MATERIALES_2021-1.docx",
+                    "type": "file",
+                    "id": "1kTE5oIC0OhsGjXVLgoLpAoRPaOMFtseR",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "19680"
+                  },
+                  {
+                    "name": "te601x_examen_final.docx",
+                    "type": "file",
+                    "id": "1Gmrk2pq-6aqvqaIUz5yl1RRdSmTLMo6I",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "12415"
+                  },
+                  {
+                    "name": "TE601_V_EXAMEN_FINAL_SOLUCIONARIO.docx",
+                    "type": "file",
+                    "id": "1aem1LXSeFEUzPJj6FIiEVEDGpJYUVWCX",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "21404"
+                  }
+                ]
+              },
+              {
+                "name": "2pc",
+                "type": "folder",
+                "id": "19hYt_rTfc04Ld69icaKa9e_eV76-NA9Z",
+                "children": [
+                  {
+                    "name": "PC_2_2.jpg",
+                    "type": "file",
+                    "id": "1S79swK1g1_C-UonXjSej9Iu-L5SMcoCC",
+                    "mimeType": "image/jpeg",
+                    "size": "148591"
+                  },
+                  {
+                    "name": "PC_2_20-1.pdf",
+                    "type": "file",
+                    "id": "1mxbjwaBxd8F2cOSXkSEGb91h4iWce1vp",
+                    "mimeType": "application/pdf",
+                    "size": "237201"
+                  },
+                  {
+                    "name": "pc2_1.jpg",
+                    "type": "file",
+                    "id": "1dxKX7ruDBFjSi11L8XpWBIWb7PjYQzyG",
+                    "mimeType": "image/jpeg",
+                    "size": "187938"
+                  },
+                  {
+                    "name": "PRACTICA_2_TE601X.pdf",
+                    "type": "file",
+                    "id": "1PlNeH1qqNCoZCGJM45_TQWcnin3Hjrj5",
+                    "mimeType": "application/pdf",
+                    "size": "198398"
+                  },
+                  {
+                    "name": "2da._practica_materiales_2021-1.doc",
+                    "type": "file",
+                    "id": "11n60l1kdqGahj7v9x8ovuwQ3vl-P3d6r",
+                    "mimeType": "application/msword",
+                    "size": "30720"
+                  }
+                ]
+              },
+              {
+                "name": "3pc",
+                "type": "folder",
+                "id": "1P-GvoRBsKLx6FqJLtU3oqp6XUz6-_oj2",
+                "children": [
+                  {
+                    "name": "practica_3_TE601_V_2021-1_(1).doc",
+                    "type": "file",
+                    "id": "1YQS9NJSEOquf3KXDCFM6T9SIVlDkiiOx",
+                    "mimeType": "application/msword",
+                    "size": "31744"
+                  },
+                  {
+                    "name": "3PC_Ing_Materiales.pdf",
+                    "type": "file",
+                    "id": "1idrzuhkHxAnj5fzAm7qPzxsC_aIZXpmf",
+                    "mimeType": "application/pdf",
+                    "size": "238499"
+                  }
+                ]
+              },
+              {
+                "name": "4pc",
+                "type": "folder",
+                "id": "15fzJT_OtKOhQCLninADOEHZz9cgw9P6w",
+                "children": [
+                  {
+                    "name": "PC4.pdf",
+                    "type": "file",
+                    "id": "1pqEZGd33I0kvCj3r3YByAXCV6cVX5_37",
+                    "mimeType": "application/pdf",
+                    "size": "1003451"
+                  },
+                  {
+                    "name": "4ta_pc_2.jpg",
+                    "type": "file",
+                    "id": "1WQ8yx4ZnOvxXucwio1qP--BYS_NoT0Hk",
+                    "mimeType": "image/jpeg",
+                    "size": "73141"
+                  },
+                  {
+                    "name": "4PC_19-1.pdf",
+                    "type": "file",
+                    "id": "1ANNO0KzXFQVwLcZXid0OvYu_oYNs8Qky",
+                    "mimeType": "application/pdf",
+                    "size": "178926"
+                  },
+                  {
+                    "name": "4ta_pc_1.jpg",
+                    "type": "file",
+                    "id": "1rFjV4pAEaGBT5uRyhjdzHA2j-5K7WFMl",
+                    "mimeType": "image/jpeg",
+                    "size": "67214"
+                  },
+                  {
+                    "name": "TE601V_-_Aguero_-_Solucionario_PC4_-_Ingeniería_de_Materiales.pdf",
+                    "type": "file",
+                    "id": "1uGSIa_RWcEgG-ghfDgjqRAJIgsm3G9p_",
+                    "mimeType": "application/pdf",
+                    "size": "599217"
+                  },
+                  {
+                    "name": "4ta_pc_aguero.jpg",
+                    "type": "file",
+                    "id": "1hWfB5QUCKyrI5CnN6TbeQAC2CpQoesM6",
+                    "mimeType": "image/jpeg",
+                    "size": "46827"
+                  }
+                ]
+              },
+              {
+                "name": "1pc",
+                "type": "folder",
+                "id": "176EJfCNWQqxFur92ZNuRamgE5gyACdQx",
+                "children": [
+                  {
+                    "name": "pc1_4.jpg",
+                    "type": "file",
+                    "id": "1-fhQFj2yMeguC6K8KEHKUdRe2A34ouED",
+                    "mimeType": "image/jpeg",
+                    "size": "64211"
+                  },
+                  {
+                    "name": "Pc1_6.jpg",
+                    "type": "file",
+                    "id": "1sUr3MBhcpz9O4fRHQIHd55nujxRxiDs9",
+                    "mimeType": "image/jpeg",
+                    "size": "64172"
+                  },
+                  {
+                    "name": "pc1_1.jpg",
+                    "type": "file",
+                    "id": "1ckK8YLe_JNTgBQ1kmaUYfb1cmbBdZCyA",
+                    "mimeType": "image/jpeg",
+                    "size": "59771"
+                  },
+                  {
+                    "name": "pc1_5.jpg",
+                    "type": "file",
+                    "id": "1NihtZ_lLtymLHxQu3TqewrSETMXC_-kb",
+                    "mimeType": "image/jpeg",
+                    "size": "60379"
+                  },
+                  {
+                    "name": "Pc1_2.jpg",
+                    "type": "file",
+                    "id": "1Jjav8rjl8cXPTk-_-z-mVhNvfK-f3xqN",
+                    "mimeType": "image/jpeg",
+                    "size": "62310"
+                  },
+                  {
+                    "name": "PRUEBA_DE_ENTRADA_AGUERO_V.pdf",
+                    "type": "file",
+                    "id": "1aUEq21dIxouA1GVqVHMBMJXNawrL11h7",
+                    "mimeType": "application/pdf",
+                    "size": "219923"
+                  },
+                  {
+                    "name": "practica_1_TE601_V_2020-2.doc",
+                    "type": "file",
+                    "id": "1fHw8m3RTw59ANrCMoi7jww4ApP5eEmwJ",
+                    "mimeType": "application/msword",
+                    "size": "28672"
+                  },
+                  {
+                    "name": "pc1_3.jpg",
+                    "type": "file",
+                    "id": "18he-JlMiWemaWQf1djoBoNN38-grPql2",
+                    "mimeType": "image/jpeg",
+                    "size": "65464"
+                  },
+                  {
+                    "name": "PC1.pdf",
+                    "type": "file",
+                    "id": "1dnk0h32vKMok19MtxgUvvOqbcFqBeor0",
+                    "mimeType": "application/pdf",
+                    "size": "378539"
+                  },
+                  {
+                    "name": "1da._practica_de_materiales_2021-1_(1).doc",
+                    "type": "file",
+                    "id": "1Nc-H18L1fpLexhxIX9_klzUXG5lCWfLr",
+                    "mimeType": "application/msword",
+                    "size": "27648"
+                  },
+                  {
+                    "name": "Pc1_7.jpg",
+                    "type": "file",
+                    "id": "1eVR0PVBfZ4X68U3DvuMCZbvmDP9L3Zif",
+                    "mimeType": "image/jpeg",
+                    "size": "65102"
+                  }
+                ]
+              },
+              {
+                "name": "EVALUACIONES_PCs-18-2.pdf",
+                "type": "file",
+                "id": "1IDCxTCROqWMFpmxA6nQU38moObTJl_SR",
+                "mimeType": "application/pdf",
+                "size": "2430972"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

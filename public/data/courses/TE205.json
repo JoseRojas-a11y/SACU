@@ -1,0 +1,1343 @@
+{
+  "course_id": "TE205",
+  "course_name": "Dibujo_Técnico_y_Geometría_Descriptiva",
+  "id": "1oL0s4f3q-j2f7n4IYfzs1UVw0MdXM9ph",
+  "scanned_at": "2026-08-06T23:55:25.751096+00:00",
+  "tree": {
+    "name": "Dibujo_Técnico_y_Geometría_Descriptiva",
+    "type": "folder",
+    "id": "1oL0s4f3q-j2f7n4IYfzs1UVw0MdXM9ph",
+    "children": [
+      {
+        "name": "PLANCHAS",
+        "type": "folder",
+        "id": "1brau5y73VVte-zolIFFzNyLr6S0jScXt",
+        "children": [
+          {
+            "name": "PC5",
+            "type": "folder",
+            "id": "1jHbmPFetCCfK6774xfJAL4IR4Oau4QGm",
+            "children": [
+              {
+                "name": "5aPC_2020-1_FIIS_(2).pdf",
+                "type": "file",
+                "id": "1MEePGjE94gEZmB7l_PfBNnMxecJvrf-j",
+                "mimeType": "application/pdf",
+                "size": "183741"
+              },
+              {
+                "name": "PC5-24-2_CALLO.doc",
+                "type": "file",
+                "id": "1x-_FrSMZaMM4hKqje7PQiZUjeYW6SYiT",
+                "mimeType": "application/msword",
+                "size": "62464"
+              }
+            ]
+          },
+          {
+            "name": "PC1",
+            "type": "folder",
+            "id": "1LlSSwXS2x7fF-qtPfpZk8MOLhtYEjuvy",
+            "children": [
+              {
+                "name": "PC1_21-1_merged.pdf",
+                "type": "file",
+                "id": "1i6joJA_dDQBye4nUa2EIyLNXiFi2nJjK",
+                "mimeType": "application/pdf",
+                "size": "52983"
+              },
+              {
+                "name": "CB-501-2013-1-PC1.doc",
+                "type": "file",
+                "id": "1ITANnJEj_TkmkuRP049rYHWlwH-L_k6q",
+                "mimeType": "application/msword",
+                "size": "38400"
+              },
+              {
+                "name": "1aPC_2016-1_FIIS.docx",
+                "type": "file",
+                "id": "1vkR0F_8t7tFamdXPopWmBDWETms6D5GH",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "71159"
+              },
+              {
+                "name": "Resolución_de_la_Primera_PC_(alumno_xd)_22-II.pdf",
+                "type": "file",
+                "id": "1BzChmHCQ-0JjFL0TjqIgmPN2p9AsqKJy",
+                "mimeType": "application/pdf",
+                "size": "479299"
+              },
+              {
+                "name": "1aPC_2015-2_FIIS.docx",
+                "type": "file",
+                "id": "1nisf2YAXSrHTyA03kBKCDOw38jRq4aTe",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "52608"
+              },
+              {
+                "name": "1aPC_2014-2_FIIS.doc",
+                "type": "file",
+                "id": "15weVnU-gv83Q8HVr4TiQ3UtlBJE66s5M",
+                "mimeType": "application/msword",
+                "size": "109056"
+              },
+              {
+                "name": "1aPC_2017-1_FIIS.docx",
+                "type": "file",
+                "id": "1PKH2Zu8frAUg8KCX_1WA_b-DaL0jtz9A",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "68398"
+              },
+              {
+                "name": "Resolución_de_la_Primera_PC_22-II.pdf",
+                "type": "file",
+                "id": "1ok-SEc2bszuM408ZqN4NldylofJm5oNG",
+                "mimeType": "application/pdf",
+                "size": "713328"
+              },
+              {
+                "name": "1aPC_2019-1_FIIS.docx",
+                "type": "file",
+                "id": "1n6FP3RwfoVt5PPy-VXm_ZYmf5KmMY1J-",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "63070"
+              },
+              {
+                "name": "1aPC_2015-3_FIIS.docx",
+                "type": "file",
+                "id": "1GfTmf12ovwQ-wIfo0NUkjfinxGnGzvZX",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "69182"
+              },
+              {
+                "name": "1aPC_2019-2_FIIS.docx",
+                "type": "file",
+                "id": "119ZFjxvMjAPNqNbsuPNzgZxNCpznUNsY",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "71205"
+              },
+              {
+                "name": "1aPC_2014-1_FIIS.doc",
+                "type": "file",
+                "id": "17JWtMlkIQ6KEmtQXVKw1O7Cx01gLWsh-",
+                "mimeType": "application/msword",
+                "size": "43520"
+              },
+              {
+                "name": "1aPC_2017-2_FIIS.docx",
+                "type": "file",
+                "id": "14921BOVJax_Pya-tEL1jUuKLgvlVyLo_",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "47268"
+              },
+              {
+                "name": "CB-501-20122-PC1.doc",
+                "type": "file",
+                "id": "1FaSHtnLuSprFhPv0pZxXRqwJoHhQ4SCF",
+                "mimeType": "application/msword",
+                "size": "41984"
+              },
+              {
+                "name": "1aPC_Dibujo_UNI.docx",
+                "type": "file",
+                "id": "1nBQySJvccaswrMDmR571JOaYRsfKbf5V",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "87397"
+              },
+              {
+                "name": "1aPC_Tarea_2015-3_FIIS.docx",
+                "type": "file",
+                "id": "1L2bXCD9MTNYTD3UV_fDJXZlqws_kqaNR",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "69070"
+              },
+              {
+                "name": "1aPC_2014-2_FIIS.docx",
+                "type": "file",
+                "id": "1HXLAuXQFMu1v-UXeSat-w7E-NGFTxeFk",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "70069"
+              },
+              {
+                "name": "1aEC_2016-3_FIIS.docx",
+                "type": "file",
+                "id": "1cMAjydEd6HfhQmLWkKBo-2gNY3kSwG7Y",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "42165"
+              },
+              {
+                "name": "1aPC_Tarea_2016-2_FIIS.docx",
+                "type": "file",
+                "id": "1-aQbVTHbsdpCRRkXiOLffMMjxS26uQP7",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "59376"
+              },
+              {
+                "name": "1aPC_2022-3_FIIS_Problemas.pdf",
+                "type": "file",
+                "id": "1e_SwXobcBOm-4-BPHdukux8CV4qmCVV1",
+                "mimeType": "application/pdf",
+                "size": "220424"
+              },
+              {
+                "name": "1aPC_2023-1_FIIS_UNI.pdf",
+                "type": "file",
+                "id": "14how_-QsQHfk4hSPBiKXFcaNC6xVCAO6",
+                "mimeType": "application/pdf",
+                "size": "96998"
+              },
+              {
+                "name": "PC1_24-1_CALLO_parte_1.jpeg",
+                "type": "file",
+                "id": "1kHGjzJPXa-uXQ1UBXWNXLCoz9bNDrlUk",
+                "mimeType": "image/jpeg",
+                "size": "54213"
+              },
+              {
+                "name": "PC1_24-1_CALLO_parte_2.jpeg",
+                "type": "file",
+                "id": "1g_ggn-Ts-SBrL3hB7OZqlU2iq8jwN-65",
+                "mimeType": "image/jpeg",
+                "size": "175521"
+              },
+              {
+                "name": "1aPCs_y_PE_2022.pdf",
+                "type": "file",
+                "id": "1K0dlgIGiGi53sJIdI4zKAEZoL1I6-9sd",
+                "mimeType": "application/pdf",
+                "size": "2939072"
+              },
+              {
+                "name": "Solucionario_1aPC_Dibujo_22-2.pdf",
+                "type": "file",
+                "id": "11QkzG6iH_3vgaKftwP8whn-V2GcYFglj",
+                "mimeType": "application/pdf",
+                "size": "594374"
+              },
+              {
+                "name": "PC1_2021-1_(60_)_(1)_CALLO.docx",
+                "type": "file",
+                "id": "1Dalco5OFeD85GFgEI_vbz7qTDDMhKrRO",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "40089"
+              },
+              {
+                "name": "PC1_19-3_2.jpg",
+                "type": "file",
+                "id": "14DabNSCCspq0AwYdWQadTrFsHz0GkjqZ",
+                "mimeType": "image/jpeg",
+                "size": "20672"
+              },
+              {
+                "name": "PC1_19-3_1.jpg",
+                "type": "file",
+                "id": "18PQui512nbZU05fol9PmM2eKWUCmB8q9",
+                "mimeType": "image/jpeg",
+                "size": "18900"
+              },
+              {
+                "name": "PC1_2021-2_(60_)_CALLO.docx",
+                "type": "file",
+                "id": "1nlkxFZ_3z8C6obqhziSU-k7uUJgCs8JU",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "297412"
+              }
+            ]
+          },
+          {
+            "name": "PC6",
+            "type": "folder",
+            "id": "1HW_zN3WIYrc8bLrfTBCTb52qqSbYBYjb",
+            "children": [
+              {
+                "name": "Copia_de_6aPC_2021-2_FIIS.pdf",
+                "type": "file",
+                "id": "183pYa2ikdpGFnMmGWvl2sRpDX-lcg3ej",
+                "mimeType": "application/pdf",
+                "size": "38384"
+              },
+              {
+                "name": "6aPC_2019-2_FIIS_Domiciliaria.doc",
+                "type": "file",
+                "id": "1fr7tzDykZ8SSPyeMOp6ZfXNZMIpcyvFF",
+                "mimeType": "application/msword",
+                "size": "57856"
+              },
+              {
+                "name": "6aPC_2019-3_FIIS_(1).docx",
+                "type": "file",
+                "id": "13E20a9KXoraeFDEgKPKHHCE-bkfTecHc",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "54996"
+              },
+              {
+                "name": "6aPC_2019-1_FIIS_(1).doc",
+                "type": "file",
+                "id": "1vpmTPSkAxMEBfQCkEphYo6syGYxSij5c",
+                "mimeType": "application/msword",
+                "size": "143872"
+              },
+              {
+                "name": "6aPC_2018-2_FIIS_(1).docx",
+                "type": "file",
+                "id": "1MTdnfWqjzPzoeMjIViW9HQ4tvpMjtQUZ",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "85808"
+              }
+            ]
+          },
+          {
+            "name": "PE",
+            "type": "folder",
+            "id": "18Pl6sKchFk-kQp1eKgcVYHaWXSI4NBLl",
+            "children": [
+              {
+                "name": "Prueba_de_Entrada_FIIS.docx",
+                "type": "file",
+                "id": "1ZUgCGc9D3N0QNhGjAb1d-_IoCuqd-nNF",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "46645"
+              },
+              {
+                "name": "Prueba_de_Entrada_2016-2_FIIS.docx",
+                "type": "file",
+                "id": "1TM6KXwQNpohnw4VsBu0U30OhIczIR1Vd",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "45833"
+              },
+              {
+                "name": "Resolución_Prueba_de_entrada_2020-1.pdf",
+                "type": "file",
+                "id": "1ZHhLja8EC9NbkuRoQ_mMe2Ay48ck8xHU",
+                "mimeType": "application/pdf",
+                "size": "390975"
+              },
+              {
+                "name": "Prueba_de_Entrada_2017-2_FIIS.docx",
+                "type": "file",
+                "id": "1BJtWZ-nsA8W-o6nwPBJhjhE_CoaHaO9D",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "63178"
+              },
+              {
+                "name": "Prueba_de_Entrada_2019-1_FIIS.docx",
+                "type": "file",
+                "id": "1sLgYbiMM30HchSVCjESdxXFuEQVCvdKJ",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "48184"
+              },
+              {
+                "name": "(Mi)_Resolución_Prueba_de_entrada_2020-1.pdf",
+                "type": "file",
+                "id": "1yY06y3gn6P8wZmE77hk0elFoPLJsece3",
+                "mimeType": "application/pdf",
+                "size": "390975"
+              },
+              {
+                "name": "PE_2023-2_FIIS.pdf",
+                "type": "file",
+                "id": "1t0a2s9DNixFyT3Ay0pLKPUyDBeeEVzaf",
+                "mimeType": "application/pdf",
+                "size": "90313"
+              },
+              {
+                "name": "PE-24-2_MONCADA-PARTE1.jpg",
+                "type": "file",
+                "id": "1Qmt8ZTYeX1CWZSRYZtiFUFXBAWwGQzbi",
+                "mimeType": "image/jpeg",
+                "size": "108245"
+              },
+              {
+                "name": "PE-24-2_MONCADA-PARTE2.jpg",
+                "type": "file",
+                "id": "1JPVrVvVZWf_zvtETC6ydTZFfFvqevv25",
+                "mimeType": "image/jpeg",
+                "size": "144922"
+              },
+              {
+                "name": "PE_21-2_CALLO.docx.pdf",
+                "type": "file",
+                "id": "1lVwCvSs51maInAlwyh3y1pDnzOx_g9cT",
+                "mimeType": "application/pdf",
+                "size": "82042"
+              },
+              {
+                "name": "PE_2021-2_CALLO_2.pdf",
+                "type": "file",
+                "id": "1QyDhDRzY2Y92FHDOZnT_OYfCpHi54sSC",
+                "mimeType": "application/pdf",
+                "size": "97213"
+              }
+            ]
+          },
+          {
+            "name": "PC4",
+            "type": "folder",
+            "id": "1bRtOy1j9bPLyqdRsscxWgTe6mSmUbY_y",
+            "children": [
+              {
+                "name": "4aPC_2018-3_FIIS.docx",
+                "type": "file",
+                "id": "1uqNLdFfdbvUBPf1dEDdCGusSuS_Wp5yq",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "80057"
+              },
+              {
+                "name": "4aPC_2017-2_FIIS.docx",
+                "type": "file",
+                "id": "1iG1rV-mbU163GhCSu2vey7O0e_pMxKc4",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "101263"
+              },
+              {
+                "name": "4aPC_2019-2_FIIS.docx",
+                "type": "file",
+                "id": "1MUhNhbM4DT5nSNWPnk-Usi7q9UoD8CCN",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "79684"
+              },
+              {
+                "name": "4aPC_2018-2_FIIS.docx",
+                "type": "file",
+                "id": "1Tv0RYbQUgeGZ9sXYbmIPhaW_2pvF1QiD",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "116783"
+              },
+              {
+                "name": "4aPC_2020-1_FIIS_Tarea.pdf",
+                "type": "file",
+                "id": "10_rC2H1jfcTnz7WwReXUFVFky-6SzUF2",
+                "mimeType": "application/pdf",
+                "size": "517176"
+              },
+              {
+                "name": "4aPC_2019-3_FIIS.docx",
+                "type": "file",
+                "id": "1TQjsFAvSNFrNVKLBfIyz5T-chc8oSwJT",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "78892"
+              },
+              {
+                "name": "4aPC_2019-1_FIIS.docx",
+                "type": "file",
+                "id": "1ejd7KlVfN9h_1eXgupMPskxhVdh8QP3V",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "88608"
+              },
+              {
+                "name": "4aPC_2020-1_FIIS.docx",
+                "type": "file",
+                "id": "1rQObWvKfO0cCigqZib3pgmFLA8fsgA_e",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "78391"
+              },
+              {
+                "name": "4aPC_2022-3_FIIS_Problemas.pdf",
+                "type": "file",
+                "id": "1soUajsHqE3Awo190U98ytcoz3UyKfMLw",
+                "mimeType": "application/pdf",
+                "size": "303429"
+              },
+              {
+                "name": "4aPC_2022-2_FIIS.pdf",
+                "type": "file",
+                "id": "19TaIh5u5I_6AKnXd3b24jUrW7aru8K7W",
+                "mimeType": "application/pdf",
+                "size": "26721"
+              },
+              {
+                "name": "4aPC_y_La_Recta_2022-2.pdf",
+                "type": "file",
+                "id": "1t6X3d90WRQtzf8ZJaPGwzJZyRv1ImHyd",
+                "mimeType": "application/pdf",
+                "size": "4592256"
+              },
+              {
+                "name": "PC4_2021-1-_(100_)_CALLO.doc",
+                "type": "file",
+                "id": "1fjfTvxX0njfx8-Lm6wjdD-1kEdqjzuIx",
+                "mimeType": "application/msword",
+                "size": "75264"
+              },
+              {
+                "name": "4aPC_Dibujo_2021-2_FIIS_completo.pdf",
+                "type": "file",
+                "id": "1GZhpG6rKVfeKXbisemB9mizA_sH3bMpG",
+                "mimeType": "application/pdf",
+                "size": "35050"
+              }
+            ]
+          },
+          {
+            "name": "PC3",
+            "type": "folder",
+            "id": "1OnyMR6MopFqyXdGxMqBE92dVu3ySuVyk",
+            "children": [
+              {
+                "name": "3aPC_2015-2a_FIIS.doc",
+                "type": "file",
+                "id": "1zuWvgwCoOGErjWkUGNucN0fpNAgt9he-",
+                "mimeType": "application/msword",
+                "size": "276480"
+              },
+              {
+                "name": "3aPC_2019-1_FIIS.docx",
+                "type": "file",
+                "id": "1HRXkj-z_XPTIZe_XCkh6IhJNIHeiFhM3",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "81155"
+              },
+              {
+                "name": "3aPC_2019-2_FIIS.docx",
+                "type": "file",
+                "id": "10gRwZ4TX1YoSh3LAW7McHlK7BQ2LXKBF",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "40521"
+              },
+              {
+                "name": "3aPC_2016-1_FIIS.docx",
+                "type": "file",
+                "id": "19Qc6ALzKT1kcvTKUVjJMHDV5haDdJiDN",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "72356"
+              },
+              {
+                "name": "3aPC_2014-2_FIIS.doc",
+                "type": "file",
+                "id": "10M8dWl0Bl7ceUzysALbKwcCrOl8xz3sO",
+                "mimeType": "application/msword",
+                "size": "97280"
+              },
+              {
+                "name": "3aPC_2014-2a_FIIS.doc",
+                "type": "file",
+                "id": "1DMFJwQRUCB-vlURQjj9U8rdZQcCxiLVp",
+                "mimeType": "application/msword",
+                "size": "123904"
+              },
+              {
+                "name": "3aPC_2020-1_FIIS_UNI.docx",
+                "type": "file",
+                "id": "1UHaqP_BKyWaTwbiQIcPPwYruokUfO4JS",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "81919"
+              },
+              {
+                "name": "3aPC_2020-1_FIIS_Tarea.pdf",
+                "type": "file",
+                "id": "1wkpP7ZgiWcLyu5K1l3cUbKUsq0_GDznM",
+                "mimeType": "application/pdf",
+                "size": "75548"
+              },
+              {
+                "name": "recopilación_de_pc3.doc",
+                "type": "file",
+                "id": "1eRZ8LES7ZOPb6ezEZ9oiuwgPHpyTFkG0",
+                "mimeType": "application/msword",
+                "size": "905216"
+              },
+              {
+                "name": "3aPC_LA_RECTA_(1).pdf",
+                "type": "file",
+                "id": "1w-4aGWjSlGwD6TiDjfMYmff3BNdKIaxG",
+                "mimeType": "application/pdf",
+                "size": "122204"
+              },
+              {
+                "name": "3aPC_2020-1_FIIS_UNI.pdf",
+                "type": "file",
+                "id": "1pY3bWAsWwQkIEv4ZHmBsMF3MvwD8b7l-",
+                "mimeType": "application/pdf",
+                "size": "56980"
+              },
+              {
+                "name": "3aPC_2006-1_FIIS.docx",
+                "type": "file",
+                "id": "1RzvE22_7auL8Uxw55ntjAMibRmL8Zq9g",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "12765"
+              },
+              {
+                "name": "3aPC_2018-2_FIIS.docx",
+                "type": "file",
+                "id": "1DhAdh5vFoGBRuDY-y-k_8IdliPui75Im",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "63301"
+              },
+              {
+                "name": "3aPC_2006-1_FIIS.doc",
+                "type": "file",
+                "id": "13t9PCTXPdJDYa7xxi01eGWMjkWUgqYHI",
+                "mimeType": "application/msword",
+                "size": "36864"
+              },
+              {
+                "name": "3aPC_2022-3_FIIS_UNI.pdf",
+                "type": "file",
+                "id": "1F0_P3R9skJdSttvyoxTwiPdq3Jb8BQSh",
+                "mimeType": "application/pdf",
+                "size": "36578"
+              },
+              {
+                "name": "3aPC_2022-3_FIIS_Problemas.pdf",
+                "type": "file",
+                "id": "1oPBkPrDCMNCVj6VKEL3Z_sqnR96oIzRy",
+                "mimeType": "application/pdf",
+                "size": "152740"
+              },
+              {
+                "name": "3aPC_2022-3_FIIS_Problemas_2023.pdf",
+                "type": "file",
+                "id": "1KNqp4x_ETGt8HvcVOnyUei3dvTp_3YrK",
+                "mimeType": "application/pdf",
+                "size": "216338"
+              },
+              {
+                "name": "3aPC_2015-2_FIIS.doc",
+                "type": "file",
+                "id": "1bplwMmxU6utK_cuMZmoO55VdOP13g7ty",
+                "mimeType": "application/msword",
+                "size": "104448"
+              },
+              {
+                "name": "3aPC_2019-1_FIIS_UNI.docx",
+                "type": "file",
+                "id": "1iZHquEQPnKqPlf3YFlVnRqj4aAcxK-J8",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "81155"
+              },
+              {
+                "name": "3aPC_2017-1_FIIS.docx",
+                "type": "file",
+                "id": "1_i8YXtFesAFQvS-UJnA08WqhnW2hw5vW",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "94013"
+              },
+              {
+                "name": "3aPC_2017-2_FIIS.docx",
+                "type": "file",
+                "id": "1m7hC3_T2toPdqP8DO-Wh5WBnozParuJx",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "90000"
+              },
+              {
+                "name": "3aPC_2020-1_FIIS_Tarea.docx",
+                "type": "file",
+                "id": "18ZfSNVMpQcHoYcRzMwoxQAaot6gHbvgb",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "106069"
+              },
+              {
+                "name": "3aPC_2021-2_FIIS_(1).pdf",
+                "type": "file",
+                "id": "1wrc0xQ2DQNr9RbKIo-lIVMoKIATF-v0j",
+                "mimeType": "application/pdf",
+                "size": "34103"
+              },
+              {
+                "name": "PC3_21-2_CALLO.docx",
+                "type": "file",
+                "id": "1pXz_5nljqz6I3DPkX1zSCl33Vstbzx2Y",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "77665"
+              }
+            ]
+          },
+          {
+            "name": "PC2",
+            "type": "folder",
+            "id": "1NJnfHOukL-enA_dhFVntk_rpuTdjeJkZ",
+            "children": [
+              {
+                "name": "CB-501-2011-2-PC2.doc",
+                "type": "file",
+                "id": "1CB19TkD9MLA3cpTG2GxyFpUJTtPAQ6j6",
+                "mimeType": "application/msword",
+                "size": "36352"
+              },
+              {
+                "name": "CB-501-20111-PC2.doc",
+                "type": "file",
+                "id": "1FzXQW_HTiPFuOE9Rk0AauKQa1lsISWvO",
+                "mimeType": "application/msword",
+                "size": "37376"
+              },
+              {
+                "name": "2aPC_2016-1_FIIS.docx",
+                "type": "file",
+                "id": "1T5WgkP5n1uBdhMRSK-BX-irBTFn7jg6f",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "88355"
+              },
+              {
+                "name": "2aPC_2015-2_UNI.doc",
+                "type": "file",
+                "id": "1nanSd1X3HI5YuY7vglghyPEDLJfLhLhr",
+                "mimeType": "application/msword",
+                "size": "114176"
+              },
+              {
+                "name": "CB-501-2013-1-2aPC.doc",
+                "type": "file",
+                "id": "1ZLgSw4bB0-DtIQRhmVbV-sBC8iTaayy-",
+                "mimeType": "application/msword",
+                "size": "69632"
+              },
+              {
+                "name": "CB-501-201202-PC2.doc",
+                "type": "file",
+                "id": "1SIgrgzdVqmdIWOJM0tMAkbmzxO_UHP6D",
+                "mimeType": "application/msword",
+                "size": "83456"
+              },
+              {
+                "name": "2aPC_2015-3_FIIS.docx",
+                "type": "file",
+                "id": "1rWDaz9A2xg8hBXVYlxml3CJ8cIKDdTHo",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "156006"
+              },
+              {
+                "name": "2aPC_2017-1_FIIS.docx",
+                "type": "file",
+                "id": "1Fp8aORHtz-HCPKZ4BJyNC7uZxDWzDdqr",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "15546"
+              },
+              {
+                "name": "2aPC_2019-2_FIIS.docx",
+                "type": "file",
+                "id": "1j25wJNG1WIiCTUwhL3nwbUIDFLP252oC",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "54238"
+              },
+              {
+                "name": "2PCs-Dibujo.pdf",
+                "type": "file",
+                "id": "1M616qXxQ4I0bwPFfTceYjJAoH02tJZhv",
+                "mimeType": "application/pdf",
+                "size": "6542547"
+              },
+              {
+                "name": "2aPC_2019-3_FIIS_Verano.docx",
+                "type": "file",
+                "id": "1nTUhgv9qH9mspvn2gK_AV1_yopO83Hsl",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "133403"
+              },
+              {
+                "name": "2aPC_2017-2_FIIS.docx",
+                "type": "file",
+                "id": "1zfAEibBL3MjbTrYIxAgOJh_7kVgVGS_6",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "79812"
+              },
+              {
+                "name": "2aPC_2016-2_FIIS.docx",
+                "type": "file",
+                "id": "11LAVlVdTgND59CMqte0_GQw2nQpHZdol",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "134121"
+              },
+              {
+                "name": "CB-501-2011-1_PC2.doc",
+                "type": "file",
+                "id": "1xZrMndAuhiRAugk2yih8wp4eJ7de_rNr",
+                "mimeType": "application/msword",
+                "size": "59392"
+              },
+              {
+                "name": "2aPC_2016-3_FIIS.docx",
+                "type": "file",
+                "id": "1u6wbIr8MK-YwMLuV2LP7nVsmCavLfVcw",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "73803"
+              },
+              {
+                "name": "2aPC_2016-2a_FIIS.docx",
+                "type": "file",
+                "id": "1bEViT86OmoLzyV4u4JdVNQ88i_3DIn1D",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "131658"
+              },
+              {
+                "name": "2aPC_2017-1a_FIIS.docx",
+                "type": "file",
+                "id": "1q73PGtujUX8L9-acEbBoxex80WrXG9C6",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "68727"
+              },
+              {
+                "name": "2aPC_2014-2a_FIIS.docx",
+                "type": "file",
+                "id": "1FfX1_-0wkTlK9Kzj17cfqUPClgiGoHv6",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "75448"
+              },
+              {
+                "name": "2aPC_2014-2_FIIS.docx",
+                "type": "file",
+                "id": "1hg-y2_1Bdeyk15oPl9ZaJ4omGHyWw2e5",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "66491"
+              },
+              {
+                "name": "2DA_PC",
+                "type": "folder",
+                "id": "1qIv80o0sGFyVEnyj_-ZIPysWnWpm3GdD",
+                "children": [
+                  {
+                    "name": "PC2-_2022-1Dibujo.docx",
+                    "type": "file",
+                    "id": "1psaHTYx7X1EOEEdOkpXQ_HqdMVybBzf7",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "45274"
+                  },
+                  {
+                    "name": "3ERA_PREGUNTA_2DA_PC.fig",
+                    "type": "file",
+                    "id": "1072H2M0xBAnOMpASKNQ1sPGcElxCAxsl",
+                    "mimeType": "application/x-xfig",
+                    "size": "3494"
+                  },
+                  {
+                    "name": "2DA_PREGUNTA_2DA_PC.fig",
+                    "type": "file",
+                    "id": "1gHuCQ9bST-6pU38ARrSfKfWMIPoP4SCG",
+                    "mimeType": "application/x-xfig",
+                    "size": "6173"
+                  },
+                  {
+                    "name": "1ERA_PREGUNTA_2DA_PC.fig",
+                    "type": "file",
+                    "id": "1xqeJP-QX9HB3xKUgqGs1PVLSIFQXYkfG",
+                    "mimeType": "application/x-xfig",
+                    "size": "3093"
+                  }
+                ]
+              },
+              {
+                "name": "2aPC_2022-3_FIIS_Problemas.pdf",
+                "type": "file",
+                "id": "1vSqefFep5LoQPVbcQSXhy_HWZSWOA_Vx",
+                "mimeType": "application/pdf",
+                "size": "394095"
+              },
+              {
+                "name": "2aPC_Dibujo_2021-3_FIIS_UNI.pdf",
+                "type": "file",
+                "id": "1GxfQd828F7a9UXU9y6XUEKg60P2lQw6X",
+                "mimeType": "application/pdf",
+                "size": "58711"
+              },
+              {
+                "name": "2aPC_Dibujo_2020-2.pdf",
+                "type": "file",
+                "id": "17Eh0jLqPHgBK7jWnTP1bGyujrxRFM3yi",
+                "mimeType": "application/pdf",
+                "size": "160505"
+              },
+              {
+                "name": "2aPC_2022-1_FIIS.pdf",
+                "type": "file",
+                "id": "1MtSuTtYoL4zz7MnlthU2uOnZZcy-ORAU",
+                "mimeType": "application/pdf",
+                "size": "56930"
+              },
+              {
+                "name": "2aPC_2021-2_FIIS.pdf",
+                "type": "file",
+                "id": "1-fDjdWo9swtpCJXwEH1Fw5AA1OIo_j7G",
+                "mimeType": "application/pdf",
+                "size": "53033"
+              },
+              {
+                "name": "2aPC_2021-1_FIIS.pdf",
+                "type": "file",
+                "id": "1RosJL3HoryYvma0O1nL1XQjE-RUKybF_",
+                "mimeType": "application/pdf",
+                "size": "157672"
+              },
+              {
+                "name": "2aPC_2020-1_FIIS_UNI.pdf",
+                "type": "file",
+                "id": "1D3N_I_TiYlqjepVKfxxm60pAN-Vkxrzq",
+                "mimeType": "application/pdf",
+                "size": "88381"
+              },
+              {
+                "name": "2aPC_2019-2_FIIS.pdf",
+                "type": "file",
+                "id": "1vqncikh2MGHu51X-WcU5RW4TKb21ui4g",
+                "mimeType": "application/pdf",
+                "size": "40738"
+              },
+              {
+                "name": "PC2-24-2_CALLO_-PARTE1.jpg",
+                "type": "file",
+                "id": "1gORVh78H3eGDw-6x19ZMPzMh5OOKy1IE",
+                "mimeType": "image/jpeg",
+                "size": "346518"
+              },
+              {
+                "name": "PC2-24-2_CALLO_-PARTE2.jpg",
+                "type": "file",
+                "id": "1yYy9hi78JNMliKSu8hSpL_fILr6EUXE_",
+                "mimeType": "image/jpeg",
+                "size": "673820"
+              },
+              {
+                "name": "PC2_21-2_CALLO.pdf",
+                "type": "file",
+                "id": "1XCWmXNFKVFSWqclWJnRsSwHaUNl6kCfZ",
+                "mimeType": "application/pdf",
+                "size": "483471"
+              },
+              {
+                "name": "PC2_2021-1-_(40_)_CALLO.doc",
+                "type": "file",
+                "id": "1SSCpQK4dHu1Re5eUr-WDbmsr77WifJtW",
+                "mimeType": "application/msword",
+                "size": "382464"
+              },
+              {
+                "name": "2da_PC_de_dibujo_(1).pdf",
+                "type": "file",
+                "id": "1gxRA3I0WzUvSUoCgn49CPAXQNTBSAGzj",
+                "mimeType": "application/pdf",
+                "size": "790645"
+              },
+              {
+                "name": "PC2_2021-1_(60_)_(4)_CALLO.docx",
+                "type": "file",
+                "id": "1MF2hHVjQHpP8olTG1nNE7n3PXSZ0sGTA",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "316973"
+              },
+              {
+                "name": "PC2_19-2_2.jpg",
+                "type": "file",
+                "id": "15V5VoUirCUdQN5l-bOY7cwaCLGI64eMf",
+                "mimeType": "image/jpeg",
+                "size": "19364"
+              },
+              {
+                "name": "PC2_19-2_1.jpg",
+                "type": "file",
+                "id": "1_U5yOsTvZNiRVTD8pQXVN6yeSVhvmJLg",
+                "mimeType": "image/jpeg",
+                "size": "31317"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Teoría",
+        "type": "folder",
+        "id": "18QGwRAyojDx9zuSAOYWrFjoqVw8KHeSp",
+        "children": [
+          {
+            "name": "LIBROS",
+            "type": "folder",
+            "id": "11dRTz4lIN1HIkvQJVDdNuLR_vdrOVc61",
+            "children": [
+              {
+                "name": "Geometría_Descriptiva_-_Jorge_Nakamura.pdf",
+                "type": "file",
+                "id": "1qdprBZ37Ssa0aQOpfHcc5qfgI2xw7-Hs",
+                "mimeType": "application/pdf",
+                "size": "134207818"
+              },
+              {
+                "name": "Diseño_Dibujo_de_Ingeniería_Jensen.pdf",
+                "type": "file",
+                "id": "1I-AzCKXDCqPbKXTzoK4XwhUhui4ZCSB2",
+                "mimeType": "application/pdf",
+                "size": "40418624"
+              },
+              {
+                "name": "La_montaña_del_movimiento_LIBRO.pdf",
+                "type": "file",
+                "id": "1E9kskgHHHhBrdJkKcRPs3sQ1y8S4L9bU",
+                "mimeType": "application/pdf",
+                "size": "43677281"
+              },
+              {
+                "name": "DIBUJO_Y_COMUNIC_GRAFICA_GIESECKE.pdf",
+                "type": "file",
+                "id": "1Ye2Ilq8L7BGFica85UyC0Q3I-ttIUwVn",
+                "mimeType": "application/pdf",
+                "size": "24501749"
+              }
+            ]
+          },
+          {
+            "name": "Descriptiva_(vistas_planos_etc)",
+            "type": "folder",
+            "id": "1aSc1k7-iQr1OLKeTwCC6NU18Z2vd2so2",
+            "children": [
+              {
+                "name": "PDF_teoria_Geometria_descriptiva.pdf",
+                "type": "file",
+                "id": "1q99kXofElDZCGOH-uojaJDk-pOe0bQmM",
+                "mimeType": "application/pdf",
+                "size": "10067964"
+              },
+              {
+                "name": "Teoria_de_INTERSECCIONES.docx",
+                "type": "file",
+                "id": "1o7KSco9pj-vJ_bVnhOTMwIBHBGaRPY3u",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "1408131"
+              },
+              {
+                "name": "TEORIA_INTERSECCIONES_I.pdf",
+                "type": "file",
+                "id": "1V8Hi9PeIFwuIE_zXmzeNbJnNE__GSlt4",
+                "mimeType": "application/pdf",
+                "size": "369788"
+              },
+              {
+                "name": "teoria_3a_PC_Proyecciones_y_El_Punto.pdf",
+                "type": "file",
+                "id": "1C-njGcR7Lu1YJC8QuhBprSOzwHkcpRtA",
+                "mimeType": "application/pdf",
+                "size": "5247479"
+              },
+              {
+                "name": "Problemas_resueltos_El_Punto_y_Proyecciones.pdf",
+                "type": "file",
+                "id": "1ZMp72Liw8cuCAWgEb4CjBoLGSwXEyI9a",
+                "mimeType": "application/pdf",
+                "size": "828877"
+              },
+              {
+                "name": "Teoría_Proyecciones_y_el_Punto.pdf",
+                "type": "file",
+                "id": "1-0ZnT18SUkOaaLoIb1lYnKhb88BMs73e",
+                "mimeType": "application/pdf",
+                "size": "2222294"
+              },
+              {
+                "name": "Problemas_resueltos_Recta_y_Planos.pdf",
+                "type": "file",
+                "id": "1l3PeBBb-e_79okmnKOIpr0YHdQg8-23S",
+                "mimeType": "application/pdf",
+                "size": "2957173"
+              },
+              {
+                "name": "Problema_de_sólidos_en_vistas.pdf",
+                "type": "file",
+                "id": "1V-hIQqXzzoVBZkv5Emgf9wwlLphAcmKb",
+                "mimeType": "application/pdf",
+                "size": "135122"
+              },
+              {
+                "name": "Teoría_de_PLANOS.pdf",
+                "type": "file",
+                "id": "1HxQ6kwzpZPXlEgnWq5y9jNJGh8X29CP8",
+                "mimeType": "application/pdf",
+                "size": "1327178"
+              },
+              {
+                "name": "Teoría_basica_de_rectas-Dibujo.pdf",
+                "type": "file",
+                "id": "1x3K4YK4V97SRLcxSl5cud15h4zpWkk4u",
+                "mimeType": "application/pdf",
+                "size": "2053189"
+              },
+              {
+                "name": "problemas_de_Intersecciones.pdf",
+                "type": "file",
+                "id": "1q2iP1VxpMF2Va5aZhtug66Vb8KedDHf2",
+                "mimeType": "application/pdf",
+                "size": "1311064"
+              },
+              {
+                "name": "Problemas_de_VISTAS_SUCESIVAS.pdf",
+                "type": "file",
+                "id": "1Pch38hD3Y-GN5PaB88qXOuUd3cWczSxq",
+                "mimeType": "application/pdf",
+                "size": "587968"
+              },
+              {
+                "name": "Intersecciones_problema_resuelto.pdf",
+                "type": "file",
+                "id": "1YC6jatTd-tnOFdOKNMRnC42-7p8TWCCz",
+                "mimeType": "application/pdf",
+                "size": "1020225"
+              },
+              {
+                "name": "Intersección_Prisma-Piramide.pdf",
+                "type": "file",
+                "id": "1BhQ85QCcZjGGsIUX2P8rBDZDt2V7uy1L",
+                "mimeType": "application/pdf",
+                "size": "321415"
+              },
+              {
+                "name": "Teoría_de_RECTA_(descriptiva).pdf",
+                "type": "file",
+                "id": "1hzCOnP2AvEWwdjo_6eig_yLBzYnC9Gfq",
+                "mimeType": "application/pdf",
+                "size": "1478626"
+              },
+              {
+                "name": "Intersección_de_pirámides.pdf",
+                "type": "file",
+                "id": "1po9qijQxJ3RsTCIu34OhMkJuDLIwoBzX",
+                "mimeType": "application/pdf",
+                "size": "396788"
+              },
+              {
+                "name": "Teoría_básica_de_planos.pdf",
+                "type": "file",
+                "id": "1WzhKV7Xs54htEadONKSpto5UJ3kFujAQ",
+                "mimeType": "application/pdf",
+                "size": "1581066"
+              },
+              {
+                "name": "Problemas_de_PLANOS.pdf",
+                "type": "file",
+                "id": "1YJeXzhcsXlkQinWuRc6S1BVkHD8HxOoh",
+                "mimeType": "application/pdf",
+                "size": "530283"
+              },
+              {
+                "name": "Teoría_de_PUNTOS_y_EJEMPLOS_(planchas_resueltas).pdf",
+                "type": "file",
+                "id": "1_uBNGK_MAvI6lZy5-fMAFxont32iHy4l",
+                "mimeType": "application/pdf",
+                "size": "1819475"
+              },
+              {
+                "name": "Intersección_de_prismas.pdf",
+                "type": "file",
+                "id": "1tVH88fXI1J7okG0drCY96CtygTsusWjF",
+                "mimeType": "application/pdf",
+                "size": "396923"
+              },
+              {
+                "name": "Teoría_intersección_de_planos.pdf",
+                "type": "file",
+                "id": "1MruMJK7wU5V3uTrmb4d7JvMWq7gyUZH0",
+                "mimeType": "application/pdf",
+                "size": "1096426"
+              },
+              {
+                "name": "Problemas_Intersecciones.pdf",
+                "type": "file",
+                "id": "1L5a-RIUppJTygfjoQVIAwF0OfuYn0O-z",
+                "mimeType": "application/pdf",
+                "size": "1597228"
+              },
+              {
+                "name": "Resoluciones_Intersecciones.pdf",
+                "type": "file",
+                "id": "1E9tBJVJBXMkOjUdKSZsMddEciLNOdToU",
+                "mimeType": "application/pdf",
+                "size": "401117"
+              },
+              {
+                "name": "Intersecciones_2021-2.pdf",
+                "type": "file",
+                "id": "1L5Na_kmD6yzfkOwgsfsJcwwa2rrFQelm",
+                "mimeType": "application/pdf",
+                "size": "1951081"
+              },
+              {
+                "name": "Intersecciones_problemas_de_ejemplo.pdf",
+                "type": "file",
+                "id": "1KqW4PqLT2XZ01SL8DPhAiCxm8WfoOuPj",
+                "mimeType": "application/pdf",
+                "size": "705893"
+              },
+              {
+                "name": "Intersecciones_resolución.pdf",
+                "type": "file",
+                "id": "1tv1pyIVjMEr11IOs8noEz2eTajKv51Ee",
+                "mimeType": "application/pdf",
+                "size": "1096386"
+              },
+              {
+                "name": "Prob_de_Rectas_y_Planos.pdf",
+                "type": "file",
+                "id": "1bagMRsqBDpHrthbI1KfbMcdaWA4gCf_4",
+                "mimeType": "application/pdf",
+                "size": "450687"
+              },
+              {
+                "name": "Prob_de_Planos.pdf",
+                "type": "file",
+                "id": "1kXAQPEdW253Qp7MSwZlpBRktsev8Pjnb",
+                "mimeType": "application/pdf",
+                "size": "634401"
+              },
+              {
+                "name": "El_Plano_y_4aPC_resueltos.pdf",
+                "type": "file",
+                "id": "1CmKvv08sXhVLBz977IJZviWcVmi9_VSa",
+                "mimeType": "application/pdf",
+                "size": "3680954"
+              },
+              {
+                "name": "El_Plano_Teorìa.pdf",
+                "type": "file",
+                "id": "1u2q5nlN6k42s7r0Z7KCJPU0623YAOK36",
+                "mimeType": "application/pdf",
+                "size": "1327178"
+              }
+            ]
+          },
+          {
+            "name": "Geometría_Dibujo_(Construcciones_y_cónicas)",
+            "type": "folder",
+            "id": "1FcwTQ7Rtp6WFDwtWsKPAslz9orbk6Dlp",
+            "children": [
+              {
+                "name": "Teoría_de_ELIPSE_y_PARÁBOLA.pdf",
+                "type": "file",
+                "id": "1nEvIR9FdJBNAs-jZMCTlHnVTRarVkrlY",
+                "mimeType": "application/pdf",
+                "size": "1365046"
+              },
+              {
+                "name": "Teoría_Cónicas_y_Tangencias.pdf",
+                "type": "file",
+                "id": "1_5q2swKr-utbUQLgEpUs7s5Den9fOzXD",
+                "mimeType": "application/pdf",
+                "size": "656716"
+              },
+              {
+                "name": "Teoria_tangencias,_cónicas_y_plancha_resuelta.pdf",
+                "type": "file",
+                "id": "1K7YdQQ0mMcDuuf2jit0jgT4w-Bu_XvKq",
+                "mimeType": "application/pdf",
+                "size": "1175312"
+              },
+              {
+                "name": "Proporcionalidad_de_segmentos.pdf",
+                "type": "file",
+                "id": "1XgBGUds2ujMGy2utnDi4yJD1Pt5gTdEr",
+                "mimeType": "application/pdf",
+                "size": "1203011"
+              },
+              {
+                "name": "Circunf_Apolonio.ppsx",
+                "type": "file",
+                "id": "1K4PF1tGnSdoySVRilsVtKKJ9ghJoNv4R",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.slideshow",
+                "size": "706455"
+              },
+              {
+                "name": "Cónicas_y_tangentes_a_cónicas.ppt",
+                "type": "file",
+                "id": "1C79jMfrsSxSr12DnWdrIzLvQz4yNvPfz",
+                "mimeType": "application/vnd.ms-powerpoint",
+                "size": "6743040"
+              },
+              {
+                "name": "Mediatriz,_rectas,_angulos_y_poligonos_regulares.ppt",
+                "type": "file",
+                "id": "1NBaSHDEClumLRkaok9CMBHPHY81JAGbl",
+                "mimeType": "application/vnd.ms-powerpoint",
+                "size": "1358848"
+              },
+              {
+                "name": "Circunferencia_y_tangentes.pptx",
+                "type": "file",
+                "id": "1fE1HqCony6qhVj35OVurCYzO-gXv-RdK",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "1193766"
+              },
+              {
+                "name": "Solución_PC_1_17-II.pdf",
+                "type": "file",
+                "id": "1qvQOQ2UGNfZsDCGlwZCi8XApGMLYW9Bg",
+                "mimeType": "application/pdf",
+                "size": "2093687"
+              },
+              {
+                "name": "INSTRUMENTOS_para_dibujo.pdf",
+                "type": "file",
+                "id": "1jDsLYjydchHmYTTS_CtDe9V356nLGJ4r",
+                "mimeType": "application/pdf",
+                "size": "229726"
+              },
+              {
+                "name": "Teoría_PUNTO_POTENCIA_(circunferencia).pdf",
+                "type": "file",
+                "id": "10hjrlIjF8Spr3IKeXfjXmI16uEx9KwLP",
+                "mimeType": "application/pdf",
+                "size": "1934473"
+              },
+              {
+                "name": "Construcciones_geométricas_con_regla_y_compás.pdf",
+                "type": "file",
+                "id": "1biCergbueduR4KvrDuIDLiZqRYnP__em",
+                "mimeType": "application/pdf",
+                "size": "132173"
+              },
+              {
+                "name": "Construcciones_Geometricas.pdf",
+                "type": "file",
+                "id": "1O7vbcNoBzwcymYQN5_JoddHyVPCEYa6e",
+                "mimeType": "application/pdf",
+                "size": "530095"
+              }
+            ]
+          },
+          {
+            "name": "TAREA_DIBUJO_FORMATO_3.docx",
+            "type": "file",
+            "id": "1PV4BIjF81TMRtdIeJYA8dQM0nkJzCKsp",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "19367"
+          },
+          {
+            "name": "FORMATO_TAREA2.docx",
+            "type": "file",
+            "id": "1JykUhKtWn2_KzqfWda7FLGmSJTBy0tFh",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "23084"
+          },
+          {
+            "name": "FORMATO_TAREA.docx",
+            "type": "file",
+            "id": "1Tl9ALKZpDDdgI8DiWfg56MZkrdbMgqwm",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "21982"
+          }
+        ]
+      },
+      {
+        "name": "TE-101_DIBUJO_DE_INGENIERIA_SILABO_POR_COMPETENCIA_2020-1[1820].pdf",
+        "type": "file",
+        "id": "1Dm27RuJa84f8qm01KB34YaCjbHO0Nd9x",
+        "mimeType": "application/pdf",
+        "size": "104409"
+      },
+      {
+        "name": "Instrumentos_de_Dibujo.docx",
+        "type": "file",
+        "id": "1cXPiA_lsbaTZkwVfacmYiQ707hMmzduG",
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size": "283916"
+      },
+      {
+        "name": "Letras_y_números.pdf",
+        "type": "file",
+        "id": "1JTIKPzlmwb6mDrmvrK6vhSFVVecG5K0a",
+        "mimeType": "application/pdf",
+        "size": "695928"
+      },
+      {
+        "name": "Dibujo_y_Diseño_en_Ingeniería_por_Jensen_Original.pdf",
+        "type": "file",
+        "id": "1bZYFXf5ABJYwUP5LZlYhpQmWKOuHFN09",
+        "mimeType": "application/pdf",
+        "size": "40418624"
+      }
+    ]
+  }
+}

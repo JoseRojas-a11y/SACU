@@ -1,0 +1,146 @@
+{
+  "course_id": "SI603",
+  "course_name": "Modelado_de_Ciclo_de_Vida",
+  "id": "1uLpmf_y9Yns6i530IgLwFwON7DcaiPsi",
+  "scanned_at": "2026-08-07T00:03:01.851916+00:00",
+  "tree": {
+    "name": "Modelado_de_Ciclo_de_Vida",
+    "type": "folder",
+    "id": "1uLpmf_y9Yns6i530IgLwFwON7DcaiPsi",
+    "children": [
+      {
+        "name": "Un_Jan",
+        "type": "folder",
+        "id": "1X51eav67xo7zj-WA5dOb8aCmVeMSTzpl",
+        "children": [
+          {
+            "name": "Clases",
+            "type": "folder",
+            "id": "1P6vbv7ZElgzOf2rwRlsvqCAK0LorCy1u",
+            "children": [
+              {
+                "name": "Semana_11.pptx",
+                "type": "file",
+                "id": "19FBU8HxFb7W4Q1ARSTIk9VvssWdInqdK",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "50417"
+              },
+              {
+                "name": "Semana_09.pptx",
+                "type": "file",
+                "id": "1VnfiYfQCE-0KIuepI7tuqC5XLpxAlDQL",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "50447"
+              },
+              {
+                "name": "Semana_10.pptx",
+                "type": "file",
+                "id": "1BduwWFc6bGSN4iB-Bm7LJODT0f_MqxUI",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "50263"
+              },
+              {
+                "name": "Semana_07.pptx",
+                "type": "file",
+                "id": "1hzcJssVlJ3jVCtjLPNBi8apCc6oKA2W3",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "50042"
+              },
+              {
+                "name": "Semana_06.pptx",
+                "type": "file",
+                "id": "13zIgEqkeMYdodVBL-yl4mJsGptAmNbcc",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "1061393"
+              },
+              {
+                "name": "Semana_05.pptx",
+                "type": "file",
+                "id": "1cxOhCqBvEUjPJFUS11OEHnxYcoRxlj6R",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "1119864"
+              },
+              {
+                "name": "Semana_04.pptx",
+                "type": "file",
+                "id": "1NwB_m0HQjXEenr34RBUvD2Frb2Xelt35",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "21763005"
+              },
+              {
+                "name": "Referencias.ppt",
+                "type": "file",
+                "id": "1PQX04oZYEzV1gAH0s2KwalLfN0SuEAs-",
+                "mimeType": "application/vnd.ms-powerpoint",
+                "size": "824832"
+              },
+              {
+                "name": "Citas_y_referencias.ppt",
+                "type": "file",
+                "id": "1j5OpjHJJEGu1hjLzRtV3HN_JoUz6aLfT",
+                "mimeType": "application/vnd.ms-powerpoint",
+                "size": "1556992"
+              },
+              {
+                "name": "SI603_sem00.ppt",
+                "type": "file",
+                "id": "1kfz0HLh-7efJ6qwwC2nbf68Kij74dPC-",
+                "mimeType": "application/vnd.ms-powerpoint",
+                "size": "1737216"
+              },
+              {
+                "name": "Demana_01.pptx",
+                "type": "file",
+                "id": "1cLLzYjBrq0XJLYNwWFIrtEghEUxIy7eW",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "98499"
+              }
+            ]
+          },
+          {
+            "name": "PC4_-_Modelado_de_Procesos_-_Plaza_Vea.pdf",
+            "type": "file",
+            "id": "1S2QJZ38Gwj54V0gcx8Wb9BS0kh8RIXlO",
+            "mimeType": "application/pdf",
+            "size": "5980788"
+          },
+          {
+            "name": "Art_29_-_Modelado_de_Procesos_PC4.pdf",
+            "type": "file",
+            "id": "1TlFdwEogzdAlGEODDIgipXI6AM9aWg4Q",
+            "mimeType": "application/pdf",
+            "size": "24315181"
+          },
+          {
+            "name": "ArnaoCastañedaIbarraNuñezOliva.pdf",
+            "type": "file",
+            "id": "1njRkUyOgUROybzvEUjGkHQkRV_7aQkMF",
+            "mimeType": "application/pdf",
+            "size": "14638168"
+          },
+          {
+            "name": "ISO_IEC_IEEE_15288.pdf",
+            "type": "file",
+            "id": "1fpb1M2piTF3dq1bGCrwf7jLxAYO1128X",
+            "mimeType": "application/pdf",
+            "size": "780225"
+          },
+          {
+            "name": "31_Digital_Transformation_Capability_Maturity_Model_Framework.pdf",
+            "type": "file",
+            "id": "1psLTfiePKsstR7v1zNG6ox9b3ONHVRCf",
+            "mimeType": "application/pdf",
+            "size": "354797"
+          },
+          {
+            "name": "SI603_PC2.rar",
+            "type": "file",
+            "id": "1AbnjP4nCzqbPysbP7uRe5dC1YqsH13Xs",
+            "mimeType": "application/x-compressed",
+            "size": "10769446"
+          }
+        ]
+      }
+    ]
+  }
+}

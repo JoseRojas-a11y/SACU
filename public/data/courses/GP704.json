@@ -1,0 +1,34 @@
+{
+  "course_id": "GP704",
+  "course_name": "Contabilidad_de_Costos_y_Presupuestos",
+  "id": "1ZSYeDIb60BcKoDEDD8wpzCfEsGk48nCU",
+  "scanned_at": "2026-08-06T23:55:38.014414+00:00",
+  "tree": {
+    "name": "Contabilidad_de_Costos_y_Presupuestos",
+    "type": "folder",
+    "id": "1ZSYeDIb60BcKoDEDD8wpzCfEsGk48nCU",
+    "children": [
+      {
+        "name": "Planchas",
+        "type": "folder",
+        "id": "1_fETfZv2KiT-PB1peEZB1gIjDEVb2IiW",
+        "children": [
+          {
+            "name": "GP704_PC1_26-1.pdf",
+            "type": "file",
+            "id": "1hK6KpgKxEXujA6nyXif_k9QWmWDm34SK",
+            "mimeType": "application/pdf",
+            "size": "454237"
+          },
+          {
+            "name": "GP704_PC1_26-1_Leyton.pdf",
+            "type": "file",
+            "id": "1s8bd3DtBbEg27shaQ2S7PWLAlYI9m4nn",
+            "mimeType": "application/pdf",
+            "size": "445659"
+          }
+        ]
+      }
+    ]
+  }
+}

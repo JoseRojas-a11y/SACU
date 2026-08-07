@@ -1,0 +1,4598 @@
+{
+  "course_id": "BFI01",
+  "course_name": "Física_1",
+  "id": "1Iit498I9f36ubsriUaMnSQjUIDm9j3_B",
+  "scanned_at": "2026-08-07T00:14:37.451018+00:00",
+  "tree": {
+    "name": "Física_1",
+    "type": "folder",
+    "id": "1Iit498I9f36ubsriUaMnSQjUIDm9j3_B",
+    "children": [
+      {
+        "name": "Silabo_2026_1.pdf",
+        "type": "file",
+        "id": "1LXAMlsgQVK6W2xAND7ZpD-PZApzJCYqe",
+        "mimeType": "application/pdf",
+        "size": "767947"
+      },
+      {
+        "name": "Apuntes_Física_1_(Cañote_24-2).pdf",
+        "type": "file",
+        "id": "1KuNMzS_p94KMz61OFWL_ayhIC7ItdnT-",
+        "mimeType": "application/pdf",
+        "size": "161213622"
+      },
+      {
+        "name": "Planchas",
+        "type": "folder",
+        "id": "1l3UpjRLr0ofhv7QCW4Rad7nRbYFDG2tl",
+        "children": [
+          {
+            "name": "Adicionales",
+            "type": "folder",
+            "id": "1244FmwapW885KTgmb1p1tdrjUrPTud3f",
+            "children": [
+              {
+                "name": "ES",
+                "type": "folder",
+                "id": "1NQISlyqS44Yha02jPObVG9ROaISIHmhG",
+                "children": [
+                  {
+                    "name": "susti_2009-1.jpg",
+                    "type": "file",
+                    "id": "1F2Pbn0IOQn9I4THRRcnTfzzZ4xrEz7wP",
+                    "mimeType": "image/jpeg",
+                    "size": "65439"
+                  },
+                  {
+                    "name": "susti_2013-2_sol.jpg",
+                    "type": "file",
+                    "id": "1F1e3PbtOWgAituOzgrmqr3FyvzLSksS_",
+                    "mimeType": "image/jpeg",
+                    "size": "47413"
+                  },
+                  {
+                    "name": "susti_2009-1_sol.jpg",
+                    "type": "file",
+                    "id": "1wvhBlYAOOWeEooKv5pANF5n3SLnIcy-R",
+                    "mimeType": "image/jpeg",
+                    "size": "39911"
+                  },
+                  {
+                    "name": "susti_2013-2.jpg",
+                    "type": "file",
+                    "id": "1KKgr7JJAq1FUrMCqGshBOO29AOfpIDJq",
+                    "mimeType": "image/jpeg",
+                    "size": "68312"
+                  }
+                ]
+              },
+              {
+                "name": "BFI01_Aplazados_22-3_Cañote.jpeg",
+                "type": "file",
+                "id": "1_Rliqjews9vn9KZfw1s933Qyn8vCgycp",
+                "mimeType": "image/jpeg",
+                "size": "158591"
+              },
+              {
+                "name": "BFI01_PE_17-2_U,V.pdf",
+                "type": "file",
+                "id": "1a-MTZxWba2Q8x0qxs42iig8enRNphqdg",
+                "mimeType": "application/pdf",
+                "size": "153356"
+              },
+              {
+                "name": "BFI01_PE_18-2.pdf",
+                "type": "file",
+                "id": "1IookjOlSy2uplvKjrwJg9CV36JFr7gAn",
+                "mimeType": "application/pdf",
+                "size": "3883338"
+              },
+              {
+                "name": "BFI01_PE_19-2.pdf",
+                "type": "file",
+                "id": "1KUsdRF6x5WZjEjOsxC8ac_nevwSrUmm3",
+                "mimeType": "application/pdf",
+                "size": "38030"
+              }
+            ]
+          },
+          {
+            "name": "Prof._Salcedo",
+            "type": "folder",
+            "id": "12CiosyVyvcNkxLCyNIFeD5pB4SC6RcKm",
+            "children": [
+              {
+                "name": "PE",
+                "type": "folder",
+                "id": "13LuNwkzecNXwPF6ho3i0p85jd4REmBBo",
+                "children": [
+                  {
+                    "name": "BFI01_PE_17-1_U.pdf",
+                    "type": "file",
+                    "id": "1BW-jjgKkNRyXHmf61LKZKl92S1WxG_0_",
+                    "mimeType": "application/pdf",
+                    "size": "600306"
+                  }
+                ]
+              },
+              {
+                "name": "PC2",
+                "type": "folder",
+                "id": "1QPW-_xhziSkjW_pIzVu-zjqhZs7-PuvS",
+                "children": [
+                  {
+                    "name": "BFI01_PC1_17-2_U.pdf",
+                    "type": "file",
+                    "id": "1TwpSmjpCSrKlo1uFel-5C1dvCishD8IT",
+                    "mimeType": "application/pdf",
+                    "size": "334699"
+                  },
+                  {
+                    "name": "BFI01_PC1_17-1_U.pdf",
+                    "type": "file",
+                    "id": "1rEHXLdAL_TixUoam53megOd6W9N5SO8I",
+                    "mimeType": "application/pdf",
+                    "size": "377755"
+                  }
+                ]
+              },
+              {
+                "name": "PC1",
+                "type": "folder",
+                "id": "1zF7V10TbfQWiCvdQJb1QneHKXbh6SZHa",
+                "children": [
+                  {
+                    "name": "BFI01_PC1_17-2_U.pdf",
+                    "type": "file",
+                    "id": "1YkxovaSkTrfAA-46_o26XzZsL1HpUvl1",
+                    "mimeType": "application/pdf",
+                    "size": "207708"
+                  },
+                  {
+                    "name": "BFI01_PC1_18-1_U.pdf",
+                    "type": "file",
+                    "id": "1GftXPDxmD0KckBdQ6W1FLuWNOjbdsDWY",
+                    "mimeType": "application/pdf",
+                    "size": "175065"
+                  },
+                  {
+                    "name": "BFI01_PC1_16-2_U.pdf",
+                    "type": "file",
+                    "id": "1hPd-mOxhIbghDGWlTXCKD7lWvbCcW3-8",
+                    "mimeType": "application/pdf",
+                    "size": "292525"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Prof._Peña",
+            "type": "folder",
+            "id": "1PKItJ64aKfYw5p_dZAFvUONJAnaAEnJx",
+            "children": [
+              {
+                "name": "PC1",
+                "type": "folder",
+                "id": "1vxN2Xj97Trgg2MWCGDTVqKTuN5whBKoR",
+                "children": [
+                  {
+                    "name": "BFI01_PC1_20-1_U.pdf",
+                    "type": "file",
+                    "id": "1oshRt75RLSgrhHvoIb95j79ViVR3M9Im",
+                    "mimeType": "application/pdf",
+                    "size": "178954"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Prof._Valdivia",
+            "type": "folder",
+            "id": "1Ut5YK84lvn9wobTlMh8xBfpUcABc-Ire",
+            "children": [
+              {
+                "name": "PE",
+                "type": "folder",
+                "id": "1hsWLk-9rkImKlJqtB92rOf18nzLtWkuc",
+                "children": [
+                  {
+                    "name": "BFI01_PE_26-1_X.jpg",
+                    "type": "file",
+                    "id": "1xw7pTGjxBSgELRNbQm6ZBBkxuf09DfZ8",
+                    "mimeType": "image/jpeg",
+                    "size": "9236305"
+                  },
+                  {
+                    "name": "BFI01_PE_25-2_W.pdf",
+                    "type": "file",
+                    "id": "157WEWuIxCsIcLenudQG-lzqRULddcE5K",
+                    "mimeType": "application/pdf",
+                    "size": "148477"
+                  },
+                  {
+                    "name": "BFI01_PE_24-1_Valdivia_X",
+                    "type": "file",
+                    "id": "1piiAU_HQTq4QY6yyGl5V9faG3B2vGaWc",
+                    "mimeType": "image/jpeg",
+                    "size": "366200"
+                  },
+                  {
+                    "name": "BFI01_PE_20-1_Valdivia_W.pdf",
+                    "type": "file",
+                    "id": "1_apVyMheDoVa03IPcC65N2gJ460Ph2Gj",
+                    "mimeType": "application/pdf",
+                    "size": "167474"
+                  },
+                  {
+                    "name": "BFI01_PE_22-1_Valdivia_X.pdf",
+                    "type": "file",
+                    "id": "1WzT_WWBMs8AcG3nlm6WVpXnIQ919N_VP",
+                    "mimeType": "application/pdf",
+                    "size": "282315"
+                  },
+                  {
+                    "name": "BFI01_PE_22-1_W.pdf",
+                    "type": "file",
+                    "id": "1fLxh48xflUqZmhmMKlVPX8vI3PKoBEBo",
+                    "mimeType": "application/pdf",
+                    "size": "129082"
+                  },
+                  {
+                    "name": "BFI01_PE_22-2_W.pdf",
+                    "type": "file",
+                    "id": "15-8limyE_1HtDFrRgLIF0PSgzNfjlKKq",
+                    "mimeType": "application/pdf",
+                    "size": "264307"
+                  },
+                  {
+                    "name": "BFI01_PE_22-2_X.pdf",
+                    "type": "file",
+                    "id": "1_FL0_qQTkk0EXVrF-6uZJUv0NKXfuHWp",
+                    "mimeType": "application/pdf",
+                    "size": "270172"
+                  },
+                  {
+                    "name": "BFI01_PE_23-1_X.pdf",
+                    "type": "file",
+                    "id": "1NsmKdGk9ahtwemdcpsnHDOyrvDkOxyPv",
+                    "mimeType": "application/pdf",
+                    "size": "245907"
+                  },
+                  {
+                    "name": "BFI01_PE_23-1_W.pdf",
+                    "type": "file",
+                    "id": "1zW2gcy1FfXyYUT4bbJ6bLNkLwRoxjLBL",
+                    "mimeType": "application/pdf",
+                    "size": "242984"
+                  },
+                  {
+                    "name": "BFI01_PE_23-2_W.jpg",
+                    "type": "file",
+                    "id": "17aNKLqPvYHH6kOTV0cyUeqMdFCiUgbtb",
+                    "mimeType": "image/png",
+                    "size": "1256754"
+                  },
+                  {
+                    "name": "BFI01_PE_23-2_X.jpg",
+                    "type": "file",
+                    "id": "1a74zuCCIqIB_11Q2A9IHsvEWl4989Aju",
+                    "mimeType": "image/png",
+                    "size": "1864047"
+                  },
+                  {
+                    "name": "BFI01_PE_21-2_X.pdf",
+                    "type": "file",
+                    "id": "1NaAsCkA3guModUiHtC5AEAcy-BI3Ji_F",
+                    "mimeType": "application/pdf",
+                    "size": "85299"
+                  },
+                  {
+                    "name": "BFI01_PE_17-2_W.pdf",
+                    "type": "file",
+                    "id": "1Ilcjc7gQFk02_NWPcNrTVFK57Vq1rAMD",
+                    "mimeType": "application/pdf",
+                    "size": "791700"
+                  },
+                  {
+                    "name": "BFI01_PE_18-1_W.pdf",
+                    "type": "file",
+                    "id": "1k2Q18SmFeK-uEa4kdkgpkMt7CxS5K0Y6",
+                    "mimeType": "application/pdf",
+                    "size": "510384"
+                  },
+                  {
+                    "name": "BFI01_PE_21-1_X.pdf",
+                    "type": "file",
+                    "id": "1_bo6aQ1_QSQc6rOn1uAhcVKAiu4shdua",
+                    "mimeType": "application/pdf",
+                    "size": "574462"
+                  },
+                  {
+                    "name": "BFI01_PE_20-1_X.pdf",
+                    "type": "file",
+                    "id": "1yjCMCSEPObn9KesPUtopP5m1kWZmipBA",
+                    "mimeType": "application/pdf",
+                    "size": "505359"
+                  },
+                  {
+                    "name": "BFI01_PE_20-2_X.pdf",
+                    "type": "file",
+                    "id": "1s3mbLoQG4zI2Cs5D9Z7etfRqTag8A1CK",
+                    "mimeType": "application/pdf",
+                    "size": "592822"
+                  },
+                  {
+                    "name": "BFI01_PE_21-1_W.pdf",
+                    "type": "file",
+                    "id": "1QX3Yx237FX6f9C4Qj8V4_2DWHMMJxOjp",
+                    "mimeType": "application/pdf",
+                    "size": "541385"
+                  }
+                ]
+              },
+              {
+                "name": "PC5",
+                "type": "folder",
+                "id": "1Rt6i5pwF86U7yBDO6oV0_PazcohNWsbQ",
+                "children": [
+                  {
+                    "name": "BFI01_PC5_26-1_W_Sol.pdf",
+                    "type": "file",
+                    "id": "1TZQxVv4Uj_5aQfhVRq9saLKLE82WWpXM",
+                    "mimeType": "application/pdf",
+                    "size": "1374371"
+                  },
+                  {
+                    "name": "BFI01_PC5_26-1_W.pdf",
+                    "type": "file",
+                    "id": "1gCeU6kqWa3wCN7eQ62-T72-z_qgl0gV5",
+                    "mimeType": "application/pdf",
+                    "size": "326272"
+                  },
+                  {
+                    "name": "BFI01_PC5_26-1_X_Sol.pdf",
+                    "type": "file",
+                    "id": "1XIYWlrOkVL7x77fYUKZb2p2ZCxbAZgKV",
+                    "mimeType": "application/pdf",
+                    "size": "1306068"
+                  },
+                  {
+                    "name": "BFI01_PC5_26-1_X.pdf",
+                    "type": "file",
+                    "id": "178Xhi6qKEqNkeJ9metEu0pbnxL_tfkqs",
+                    "mimeType": "application/pdf",
+                    "size": "350797"
+                  },
+                  {
+                    "name": "BFI01_PC5_25-2_Valdivia_X.pdf",
+                    "type": "file",
+                    "id": "1eGhRuwGgtmvY5ptAF7WsFzLUXCtor0gd",
+                    "mimeType": "application/pdf",
+                    "size": "209298"
+                  },
+                  {
+                    "name": "BFI01_PC5_25-2_W.pdf",
+                    "type": "file",
+                    "id": "1m0SKxV7HeKBgrrZtFfZ5KB9pFm2Uzw4a",
+                    "mimeType": "application/pdf",
+                    "size": "189599"
+                  },
+                  {
+                    "name": "BFI01_PC5_23-2_Valdivia_W",
+                    "type": "file",
+                    "id": "1MAOvqg73Ynqtmu-b-_TF5B-5ybPoVACK",
+                    "mimeType": "application/pdf",
+                    "size": "353170"
+                  },
+                  {
+                    "name": "BFI01_PC5_20-1_Valdivia_W.pdf",
+                    "type": "file",
+                    "id": "1R303Sm7MN_Krz9TLcYTChcXobQreEGtL",
+                    "mimeType": "application/pdf",
+                    "size": "578499"
+                  },
+                  {
+                    "name": "BFI01_PC5_23-1_Valdivia_X.pdf",
+                    "type": "file",
+                    "id": "1HaxRYtgnabJXZcwb8NYTvbLYmIaFz-qY",
+                    "mimeType": "application/pdf",
+                    "size": "319419"
+                  },
+                  {
+                    "name": "BFI01_PC5_23-1_Valdivia_W.pdf",
+                    "type": "file",
+                    "id": "1I3LUBdbcTXRU2jPNLbp4VVwZAsOdN3zc",
+                    "mimeType": "application/pdf",
+                    "size": "251994"
+                  },
+                  {
+                    "name": "BFI01_PC5_21-2_W.pdf",
+                    "type": "file",
+                    "id": "1xG7ILC2ZM_rufEOT0bXtn6f9MC10vDEo",
+                    "mimeType": "application/pdf",
+                    "size": "112999"
+                  },
+                  {
+                    "name": "BFI01_PC5_22-1_X.pdf",
+                    "type": "file",
+                    "id": "1zANHm0y5hSbv3X8JGUoDy6kR3LVQ_VB-",
+                    "mimeType": "application/pdf",
+                    "size": "104013"
+                  },
+                  {
+                    "name": "BFI01_PC5_21-1_W.pdf",
+                    "type": "file",
+                    "id": "1_ttD8QbEJde0KhDrhjCNoqNlDRIEF22l",
+                    "mimeType": "application/pdf",
+                    "size": "340070"
+                  },
+                  {
+                    "name": "BFI01_PC5_21-2_X.pdf",
+                    "type": "file",
+                    "id": "1nQd4DZMaUVsExEFqOR_rPtmN8GBgFGOJ",
+                    "mimeType": "application/pdf",
+                    "size": "113788"
+                  },
+                  {
+                    "name": "BFI01_PC5_21-1_X.pdf",
+                    "type": "file",
+                    "id": "1pPZJuqr-fjTD84D0vwv-O0DcKb7Aulz3",
+                    "mimeType": "application/pdf",
+                    "size": "329764"
+                  },
+                  {
+                    "name": "BFI01_PC5_22-2_W.pdf",
+                    "type": "file",
+                    "id": "1mtV0YpMV2NKIxo9x296VddIKCQF22d9A",
+                    "mimeType": "application/pdf",
+                    "size": "227147"
+                  },
+                  {
+                    "name": "BFI01_PC5_22-2_X.pdf",
+                    "type": "file",
+                    "id": "1tMbH3NUHTPONPeH1Ydk5FUQTgNn-1oZQ",
+                    "mimeType": "application/pdf",
+                    "size": "317391"
+                  },
+                  {
+                    "name": "BFI01_PC5_22-1_W.pdf",
+                    "type": "file",
+                    "id": "1IeFK-7rWuRUz5P2CunTJKj517bRNQd5R",
+                    "mimeType": "application/pdf",
+                    "size": "124544"
+                  },
+                  {
+                    "name": "BFI01_PC5_19-1_W.pdf",
+                    "type": "file",
+                    "id": "1zgrTJMnjje0s2f1rNjgsj9CAUQ4vd2vF",
+                    "mimeType": "application/pdf",
+                    "size": "255585"
+                  },
+                  {
+                    "name": "BFI01_PC5_20-2_W.pdf",
+                    "type": "file",
+                    "id": "1OkKXaQBYqgJIeVfBKZFz6QX33P8FDWyV",
+                    "mimeType": "application/pdf",
+                    "size": "371385"
+                  },
+                  {
+                    "name": "BFI01_PC5_20-2_X.pdf",
+                    "type": "file",
+                    "id": "1k8mJteyz9eRu1IEJ7BgQ9ODpFia-SeP3",
+                    "mimeType": "application/pdf",
+                    "size": "526850"
+                  },
+                  {
+                    "name": "BFI01_PC5_20-1_X.pdf",
+                    "type": "file",
+                    "id": "1KlMt-UVmvRrehvrm8HkZS7i13sxWJKX5",
+                    "mimeType": "application/pdf",
+                    "size": "439293"
+                  }
+                ]
+              },
+              {
+                "name": "PC4",
+                "type": "folder",
+                "id": "1oWb8Nf4rJwD5hC4XHYBFl7a267Y8lvvJ",
+                "children": [
+                  {
+                    "name": "BFI01_PC4_26-1_W.pdf",
+                    "type": "file",
+                    "id": "1PGPnWwoNG_1p2HhvSI-iJcJX_Oo7Ng1y",
+                    "mimeType": "application/pdf",
+                    "size": "290147"
+                  },
+                  {
+                    "name": "BFI01_PC4_26-1_W_Sol.pdf",
+                    "type": "file",
+                    "id": "1r7HYE7qKlBx0tX1shS6O7-o43XidQA9Y",
+                    "mimeType": "application/pdf",
+                    "size": "1639518"
+                  },
+                  {
+                    "name": "BFI01_PC4_26-1_X_Sol.pdf",
+                    "type": "file",
+                    "id": "1HdHkrxMDizhGb44HyYFIFlYKevkNucIq",
+                    "mimeType": "application/pdf",
+                    "size": "1836500"
+                  },
+                  {
+                    "name": "BFI01_PC4_26-1_X.pdf",
+                    "type": "file",
+                    "id": "10f0LIn6tKOPClmnEgexqC4a4G7pphXnG",
+                    "mimeType": "application/pdf",
+                    "size": "323932"
+                  },
+                  {
+                    "name": "BFI01_PC4_25-2_Valdivia_X.pdf",
+                    "type": "file",
+                    "id": "10x0oxRFGZOVXC2eNfeJryJBIldv8I7LG",
+                    "mimeType": "application/pdf",
+                    "size": "230233"
+                  },
+                  {
+                    "name": "BFI01_PC4_25-2_W.pdf",
+                    "type": "file",
+                    "id": "16tCbbZk4PEBhJ8dfxb9r20nygHrx6pAS",
+                    "mimeType": "application/pdf",
+                    "size": "214594"
+                  },
+                  {
+                    "name": "BFI01_PC4_23-1_Valdivia_W.pdf",
+                    "type": "file",
+                    "id": "1vE3XnrZqx9GlpBqyCLS_RRTkSUX7kSQz",
+                    "mimeType": "application/pdf",
+                    "size": "308406"
+                  },
+                  {
+                    "name": "BFI01_PC4_23-1_Valdivia_X.pdf",
+                    "type": "file",
+                    "id": "1Q-_6iPZZF4B-QcY847fC8QvtvWIEkqpG",
+                    "mimeType": "application/pdf",
+                    "size": "238150"
+                  },
+                  {
+                    "name": "BFI01_PC4_23-2_Valdivia_W.pdf",
+                    "type": "file",
+                    "id": "1BZuhhp1acSl1AG6n3fOswNYnjdW_r2eR",
+                    "mimeType": "application/pdf",
+                    "size": "243842"
+                  },
+                  {
+                    "name": "BFI01_PC4_23-2_Valdivia_X.pdf",
+                    "type": "file",
+                    "id": "1Yz8Ih7LrtjcwMSiSMWxuwmai8oJ_rHWr",
+                    "mimeType": "application/pdf",
+                    "size": "132828"
+                  },
+                  {
+                    "name": "BFI01_PC4_21-2_W.pdf",
+                    "type": "file",
+                    "id": "12eAhc3fTz0A90-uXqO4dtC93xZ7D2gz_",
+                    "mimeType": "application/pdf",
+                    "size": "131867"
+                  },
+                  {
+                    "name": "BFI01_PC4_21-1_W.pdf",
+                    "type": "file",
+                    "id": "11qbcxSX9ArPmbjKcaNQQzrtfb84Fxqre",
+                    "mimeType": "application/pdf",
+                    "size": "528275"
+                  },
+                  {
+                    "name": "BFI01_PC4_21-2_X.pdf",
+                    "type": "file",
+                    "id": "19paLtXTC2i_CIylME13X_CZzzYs9lL2T",
+                    "mimeType": "application/pdf",
+                    "size": "106806"
+                  },
+                  {
+                    "name": "BFI01_PC4_22-1_X.pdf",
+                    "type": "file",
+                    "id": "1iYCm4wCDZ_K-6KXH3oMzuCOfLHuXwM0I",
+                    "mimeType": "application/pdf",
+                    "size": "149953"
+                  },
+                  {
+                    "name": "BFI01_PC4_21-1_X.pdf",
+                    "type": "file",
+                    "id": "1PFfcTiOJZRrRjQGMsmz4rdp2m2LjMZNZ",
+                    "mimeType": "application/pdf",
+                    "size": "553476"
+                  },
+                  {
+                    "name": "BFI01_PC4_22-1_W.pdf",
+                    "type": "file",
+                    "id": "1lrW_VEPAbA5JMgaulVqAGub3UuGA-lck",
+                    "mimeType": "application/pdf",
+                    "size": "195339"
+                  },
+                  {
+                    "name": "BFI01_PC4_18-1_W.jpeg",
+                    "type": "file",
+                    "id": "1y5dQnii56oSQxFil0qt-UYw8hvfMYpfe",
+                    "mimeType": "image/jpeg",
+                    "size": "529066"
+                  },
+                  {
+                    "name": "BFI01_PC4_20-2_X.pdf",
+                    "type": "file",
+                    "id": "1FQh-KXuDwX_Ma9V3ufp2yPwiWZ-n8yb0",
+                    "mimeType": "application/pdf",
+                    "size": "259923"
+                  },
+                  {
+                    "name": "BFI01_PC4_20-2_W.pdf",
+                    "type": "file",
+                    "id": "1ZRHOWZRQhlJ3xe17yUYuYJfsvAR0FHbz",
+                    "mimeType": "application/pdf",
+                    "size": "677176"
+                  },
+                  {
+                    "name": "BFI01_PC4_22-2_X.pdf",
+                    "type": "file",
+                    "id": "1H7HOdndJKVmTXT0_6d6zGqjMCUy9gm_q",
+                    "mimeType": "application/pdf",
+                    "size": "344893"
+                  }
+                ]
+              },
+              {
+                "name": "PC3",
+                "type": "folder",
+                "id": "1bVoGFTLqe_qnVRqpzT4K8xvpwQux6k43",
+                "children": [
+                  {
+                    "name": "BFI01_PC3_26-1_W.pdf",
+                    "type": "file",
+                    "id": "1ri8mMQsJZvtDz2dHaGQjpvmXpE0NOpMY",
+                    "mimeType": "application/pdf",
+                    "size": "360081"
+                  },
+                  {
+                    "name": "BFI01_PC3_26-1_W_Sol.pdf",
+                    "type": "file",
+                    "id": "1T4s0WqYkD6zLdlLUeNEiaXFXwtxJdfVn",
+                    "mimeType": "application/pdf",
+                    "size": "1428141"
+                  },
+                  {
+                    "name": "BFI01_PC3_26-1_X_Sol.pdf",
+                    "type": "file",
+                    "id": "1sG_yTGdruptT0jrFnMP-pUp7T1_dFyoV",
+                    "mimeType": "application/pdf",
+                    "size": "1949991"
+                  },
+                  {
+                    "name": "BFI01_PC3_26-1_X.pdf",
+                    "type": "file",
+                    "id": "1mDLja3pLHl9Tgfeo1PphAU4V0g3ZWI9i",
+                    "mimeType": "application/pdf",
+                    "size": "323258"
+                  },
+                  {
+                    "name": "BFI01_PC3_24-2_Valdivia_W.pdf",
+                    "type": "file",
+                    "id": "1uH8HilLTPA6Z0-DP29wVuRzrVroia02V",
+                    "mimeType": "application/pdf",
+                    "size": "335043"
+                  },
+                  {
+                    "name": "BFI01_PC3_25-2_W.pdf",
+                    "type": "file",
+                    "id": "1irFeYQXvwGTJsYgOO9qYN5lWyCGsfYIZ",
+                    "mimeType": "application/pdf",
+                    "size": "126525"
+                  },
+                  {
+                    "name": "BFI01_PC3_23-2_Valdivia_X",
+                    "type": "file",
+                    "id": "103MeM2vr8VJT3uDqze7GohCnb2D0tbBL",
+                    "mimeType": "application/pdf",
+                    "size": "154770"
+                  },
+                  {
+                    "name": "BFI01_PC3_22-2_Valdivia_X.pdf",
+                    "type": "file",
+                    "id": "1JXz2Ju9oxF-zVhYPMA5aBRkLk70UcUQt",
+                    "mimeType": "application/pdf",
+                    "size": "310725"
+                  },
+                  {
+                    "name": "BFI01_PC3_25-1_Valdivia_W",
+                    "type": "file",
+                    "id": "1hYh_qtE1SL0RJSZ-yi6jOEiMLir8XC_5",
+                    "mimeType": "application/pdf",
+                    "size": "119564"
+                  },
+                  {
+                    "name": "BFI01_PC3_23-2_Valdivia_W.pdf",
+                    "type": "file",
+                    "id": "1GANrrBLxOZydq5kCCo2JSE3Y-i788duI",
+                    "mimeType": "application/pdf",
+                    "size": "549845"
+                  },
+                  {
+                    "name": "BFI01_PC3_23-1_Valdivia_X.pdf",
+                    "type": "file",
+                    "id": "1AstUlojpdE0tunXRhC_lduQgkBxygvM_",
+                    "mimeType": "application/pdf",
+                    "size": "240183"
+                  },
+                  {
+                    "name": "BFI01_PC3_23-1_Valdivia_W.pdf",
+                    "type": "file",
+                    "id": "1peheDf2cqZHjKk_Z860j6XkE4PtL6WwG",
+                    "mimeType": "application/pdf",
+                    "size": "237794"
+                  },
+                  {
+                    "name": "BFI01_PC3_23-3_Valdivia.pdf",
+                    "type": "file",
+                    "id": "180WbcRu8eciJZGKY0ufUzMUwtfwFni45",
+                    "mimeType": "application/pdf",
+                    "size": "342166"
+                  },
+                  {
+                    "name": "BFI01_PC3_21-2_W.pdf",
+                    "type": "file",
+                    "id": "1cSnsqPmOpOmL5tOyOw8qxijSr-aEHivU",
+                    "mimeType": "application/pdf",
+                    "size": "119826"
+                  },
+                  {
+                    "name": "BFI01_PC3_21-1_X.pdf",
+                    "type": "file",
+                    "id": "12vigyE6Sy1bqiL0-M-Q9lZm4xg0U3t78",
+                    "mimeType": "application/pdf",
+                    "size": "641377"
+                  },
+                  {
+                    "name": "BFI01_PC3_21-2_X.pdf",
+                    "type": "file",
+                    "id": "1J_sj317W3APAsPy64AJSVKBcaG732tY2",
+                    "mimeType": "application/pdf",
+                    "size": "117148"
+                  },
+                  {
+                    "name": "BFI01_PC3_21-1_W.pdf",
+                    "type": "file",
+                    "id": "1TS1VVbOOqpvXYpEypsxAQ8scsSYUvBxh",
+                    "mimeType": "application/pdf",
+                    "size": "618466"
+                  },
+                  {
+                    "name": "BFI01_PC3_22-1_W.pdf",
+                    "type": "file",
+                    "id": "1HU5WEjQTZwLSxneuFUIW2utvColFCsxg",
+                    "mimeType": "application/pdf",
+                    "size": "130954"
+                  },
+                  {
+                    "name": "BFI01_PC3_22-1_X.pdf",
+                    "type": "file",
+                    "id": "18B7i8AtYvaChYuQ1UAAS3QZ-_8dH2426",
+                    "mimeType": "application/pdf",
+                    "size": "151106"
+                  },
+                  {
+                    "name": "BFI01_PC3_20-2_X.pdf",
+                    "type": "file",
+                    "id": "1VcB8_Cv9ePFFd-jeK2YUUMfhIEsnuxAq",
+                    "mimeType": "application/pdf",
+                    "size": "542122"
+                  },
+                  {
+                    "name": "BFI01_PC3_20-2_W.pdf",
+                    "type": "file",
+                    "id": "1sLxuWpBoF3gt9cZh5A98Wprr0QGj7Y7Z",
+                    "mimeType": "application/pdf",
+                    "size": "672465"
+                  },
+                  {
+                    "name": "BFI01_PC3_20-1_X.pdf",
+                    "type": "file",
+                    "id": "1icUvlVVXBBSMXX0fFj29cI-mULU_Ic7K",
+                    "mimeType": "application/pdf",
+                    "size": "656245"
+                  }
+                ]
+              },
+              {
+                "name": "PC1",
+                "type": "folder",
+                "id": "1aKokAO8h93xveh0H9NMOxnuMXPkE7LJN",
+                "children": [
+                  {
+                    "name": "BFI01_PC1_26-1_X_Sol.pdf",
+                    "type": "file",
+                    "id": "1hZmjnvV_iqG_e-xss3jxR9_vYhuy0jcS",
+                    "mimeType": "application/pdf",
+                    "size": "2274460"
+                  },
+                  {
+                    "name": "BFI01_PC1_26-1_X.jpg",
+                    "type": "file",
+                    "id": "1iZYA1XjM31v-CTTor6r-Ts80Mp5B7_H7",
+                    "mimeType": "image/jpeg",
+                    "size": "5448647"
+                  },
+                  {
+                    "name": "BFI01_PC1_26-1_W.pdf",
+                    "type": "file",
+                    "id": "1BCDt1REcfD2T_owuJu51Fez7FTqD0bOT",
+                    "mimeType": "application/pdf",
+                    "size": "234005"
+                  },
+                  {
+                    "name": "BFI01_PC1_25-2_Valdivia_X.pdf",
+                    "type": "file",
+                    "id": "1zLo5p1CjFxRo4S1Ri8ckq0bn3taCuR0Q",
+                    "mimeType": "application/pdf",
+                    "size": "346790"
+                  },
+                  {
+                    "name": "BFI01_PC1_25-2_W.pdf",
+                    "type": "file",
+                    "id": "1X-S3gZUa1APe_JCPE8ifINFz6vap4hrS",
+                    "mimeType": "application/pdf",
+                    "size": "209097"
+                  },
+                  {
+                    "name": "BFI01_PC1_24-2_Valdivia_W",
+                    "type": "file",
+                    "id": "112oJSS_uj3UmimBkl_sheJW2HBB7z0pd",
+                    "mimeType": "image/jpeg",
+                    "size": "401078"
+                  },
+                  {
+                    "name": "BFI01_PC1_24-1_Valdivia_W",
+                    "type": "file",
+                    "id": "1wYlmoQpDM8YnqgM__jmY7ohxisXarTHB",
+                    "mimeType": "application/pdf",
+                    "size": "483967"
+                  },
+                  {
+                    "name": "BFI01_PC1_19-2_W.pdf",
+                    "type": "file",
+                    "id": "1jxMo6n971VfqiMYbqB9TrSbwJHxLxrEu",
+                    "mimeType": "application/pdf",
+                    "size": "134616"
+                  },
+                  {
+                    "name": "BFI01_PC1_20-1_Valdivia_X.pdf",
+                    "type": "file",
+                    "id": "1WX-g7H0fmbWBHk8z9sR_HnaE0_c7WmB9",
+                    "mimeType": "application/pdf",
+                    "size": "553146"
+                  },
+                  {
+                    "name": "BFI01_PC1_20-2_Valdivia_W.pdf",
+                    "type": "file",
+                    "id": "1G6kg35oPn1cmFnBXX39uJnLBBIhkWNSw",
+                    "mimeType": "application/pdf",
+                    "size": "418059"
+                  },
+                  {
+                    "name": "BFI01_PC1_20-2_Valdivia_X.pdf",
+                    "type": "file",
+                    "id": "1pyIxVZhjrsDDSfPcd-bW-PYYqsFKszp_",
+                    "mimeType": "application/pdf",
+                    "size": "636178"
+                  },
+                  {
+                    "name": "BFI01_PC1_21-1_Valdivia_W.pdf",
+                    "type": "file",
+                    "id": "1GBCoXb9AwlmuVpKDq_O6kroOuFGlQnLn",
+                    "mimeType": "application/pdf",
+                    "size": "517242"
+                  },
+                  {
+                    "name": "BFI01_PC1_21-1_Valdivia_X.pdf",
+                    "type": "file",
+                    "id": "1-hu_KJHYV8bn0E03sPAgM0aef0AX_UPB",
+                    "mimeType": "application/pdf",
+                    "size": "530502"
+                  },
+                  {
+                    "name": "BFI01_PC1_21-2_Valdivia_W.pdf",
+                    "type": "file",
+                    "id": "1PdZ29DqAxYZlNrWxFprzReIdM8gli6Th",
+                    "mimeType": "application/pdf",
+                    "size": "95893"
+                  },
+                  {
+                    "name": "BFI01_PC1_21-2_Valdivia_X.pdf",
+                    "type": "file",
+                    "id": "1iufqf97y4GFHojWOfVKx6UXS_xmGJgta",
+                    "mimeType": "application/pdf",
+                    "size": "146441"
+                  },
+                  {
+                    "name": "BFI01_PC1_22-1_Valdivia_W.pdf",
+                    "type": "file",
+                    "id": "1cmuKf-1rIyBdqkkD-6jnpbh6irZp2Axf",
+                    "mimeType": "application/pdf",
+                    "size": "95296"
+                  },
+                  {
+                    "name": "BFI01_PC1_22-1_Valdivia_X.pdf",
+                    "type": "file",
+                    "id": "1ImtE73jYlKnXg3offfO4NQb3YasVVjQi",
+                    "mimeType": "application/pdf",
+                    "size": "106483"
+                  },
+                  {
+                    "name": "BFI01_PC1_22-2_Valdivia_W.pdf",
+                    "type": "file",
+                    "id": "1o1XH5lmRWB1zEbE6-EpX0U5qU0bqre4L",
+                    "mimeType": "application/pdf",
+                    "size": "127646"
+                  },
+                  {
+                    "name": "BFI01_PC1_22-2_Valdivia_X.pdf",
+                    "type": "file",
+                    "id": "1b3LImIqIktc7ACFFqNjIbAWQT0UHbgcK",
+                    "mimeType": "application/pdf",
+                    "size": "135187"
+                  },
+                  {
+                    "name": "BFI01_PC1_25-1_Valdivia_X.pdf",
+                    "type": "file",
+                    "id": "1luBANZ1SppU7FcKp4-aglPngB6zaW5y4",
+                    "mimeType": "application/pdf",
+                    "size": "192420"
+                  },
+                  {
+                    "name": "BFI01_PC1_23-2_Valdivia_X",
+                    "type": "file",
+                    "id": "1pO-DLJw-zS1akXiAHsOSr9kpZJPXcjRs",
+                    "mimeType": "application/pdf",
+                    "size": "307612"
+                  },
+                  {
+                    "name": "BFI01_PC1_25-1_Valdivia_W",
+                    "type": "file",
+                    "id": "1yXjq7MqwPYcTthapXzqKfIRIPLPm3QVP",
+                    "mimeType": "application/pdf",
+                    "size": "269913"
+                  },
+                  {
+                    "name": "BFI01_PC1_23-1_Valdivia_W.pdf",
+                    "type": "file",
+                    "id": "1AfNz4P9ctKyGmYnjuuQeoeYhdDikWovm",
+                    "mimeType": "application/pdf",
+                    "size": "157648"
+                  },
+                  {
+                    "name": "BFI01_PC1_23-2_Valdivia_W.pdf",
+                    "type": "file",
+                    "id": "1yIDVFcjM3M-XfH0zPtCbhbMTsyymsV-T",
+                    "mimeType": "application/pdf",
+                    "size": "264303"
+                  },
+                  {
+                    "name": "BFI01_PC1_23-1_Valdivia_X.pdf",
+                    "type": "file",
+                    "id": "1SLpPR8jk69QdgiqeRYcM8-ynl385PVbC",
+                    "mimeType": "application/pdf",
+                    "size": "185000"
+                  },
+                  {
+                    "name": "BFI01_PC1_17-2_X.pdf",
+                    "type": "file",
+                    "id": "1Wmmm7vh8aegVDLYlVHxIQdkYLMuH2vsr",
+                    "mimeType": "application/pdf",
+                    "size": "163454"
+                  },
+                  {
+                    "name": "BFI01_PC1_18-3.pdf",
+                    "type": "file",
+                    "id": "1V-a2QPp1x_nOR6c9_abAMmJ6Z44tI2Wi",
+                    "mimeType": "application/pdf",
+                    "size": "100098"
+                  },
+                  {
+                    "name": "BFI01_PC1_16-2_W.pdf",
+                    "type": "file",
+                    "id": "10Qo6GMTf8k2nor9h8tZRJJc023GTiLx8",
+                    "mimeType": "application/pdf",
+                    "size": "132374"
+                  },
+                  {
+                    "name": "BFI01_PC1_17-1_W.pdf",
+                    "type": "file",
+                    "id": "1H4ubW5bXodx81WsQyXt1zYpo056ZSqUV",
+                    "mimeType": "application/pdf",
+                    "size": "915662"
+                  },
+                  {
+                    "name": "BFI01_PC1_18-1_W.pdf",
+                    "type": "file",
+                    "id": "1-YndcrKYDUx5WqOiLujDir5xA5d3hFsB",
+                    "mimeType": "application/pdf",
+                    "size": "430095"
+                  },
+                  {
+                    "name": "BFI01_PC1_19-1_W.pdf",
+                    "type": "file",
+                    "id": "1U5wolwIoZ_6pWt5EUFoEKpV-ywQrcrsN",
+                    "mimeType": "application/pdf",
+                    "size": "933399"
+                  },
+                  {
+                    "name": "BFI01_PC1_15-2_U.pdf",
+                    "type": "file",
+                    "id": "1_7VUWCwTZAa3N3wOPnWcK5duaohR-7vN",
+                    "mimeType": "application/pdf",
+                    "size": "209917"
+                  },
+                  {
+                    "name": "BFI01_PC1_10-1_W.pdf",
+                    "type": "file",
+                    "id": "1txnW2OZI9N4PTqiAeX2veq7OwbA8qCYA",
+                    "mimeType": "application/pdf",
+                    "size": "267363"
+                  }
+                ]
+              },
+              {
+                "name": "PC2",
+                "type": "folder",
+                "id": "1XNF-chFuXguGTe5llfiFd50kk7Oq_ZLj",
+                "children": [
+                  {
+                    "name": "BFI01_PC2_26-1_W_Sol.pdf",
+                    "type": "file",
+                    "id": "1LwAvnL7GpG-4kNkUgAVrZyYlkA0JYa8f",
+                    "mimeType": "application/pdf",
+                    "size": "2785882"
+                  },
+                  {
+                    "name": "BFI01_PC2_26-1_X_Sol.pdf",
+                    "type": "file",
+                    "id": "1yxQazNNm870JFqswrWgaUvwi4Ehgk-k5",
+                    "mimeType": "application/pdf",
+                    "size": "2984969"
+                  },
+                  {
+                    "name": "BFI01_PC2_26-1_X",
+                    "type": "file",
+                    "id": "1bVpS75aZeybKH2pOA8aCnIdyeHg-5_vi",
+                    "mimeType": "application/pdf",
+                    "size": "1182083"
+                  },
+                  {
+                    "name": "BFI01_PC2_26-1_W",
+                    "type": "file",
+                    "id": "1rel7mA4yRTSOIQAdi1Z4uyzRlFqdsO_f",
+                    "mimeType": "application/pdf",
+                    "size": "1829420"
+                  },
+                  {
+                    "name": "BFI01_PC2_25-2_Valdivia_X.pdf",
+                    "type": "file",
+                    "id": "1Yi6HKVtxDYFj1qAUqMl6P_XUX_0WttPB",
+                    "mimeType": "application/pdf",
+                    "size": "186128"
+                  },
+                  {
+                    "name": "BFI01_PC2_25-2_W.pdf",
+                    "type": "file",
+                    "id": "1KgtSWn7JaSkAhOlRdUnjuPHLS9dAYg75",
+                    "mimeType": "application/pdf",
+                    "size": "190544"
+                  },
+                  {
+                    "name": "BFI01_PC2_24-1_Valdivia_X",
+                    "type": "file",
+                    "id": "1bClXgFHGrvo2f9pktDrZ_njSQOSpa0cz",
+                    "mimeType": "application/pdf",
+                    "size": "197195"
+                  },
+                  {
+                    "name": "BFI01_PC2_22-2_Valdivia_X.pdf",
+                    "type": "file",
+                    "id": "1Ll8KhHf00i7KxQm8PBOUs3ZK8ztCThDn",
+                    "mimeType": "application/pdf",
+                    "size": "247687"
+                  },
+                  {
+                    "name": "BFI01_PC2_23-1_Valdivia_X.pdf",
+                    "type": "file",
+                    "id": "1QVKRhtEli8C0v8SVzWchG4hXAcH2IRbq",
+                    "mimeType": "application/pdf",
+                    "size": "360649"
+                  },
+                  {
+                    "name": "BFI01_PC2_23-2_Valdivia_W.pdf",
+                    "type": "file",
+                    "id": "1hV1dMPtQdjrV8OnkFPfLPjbRBboLlWFj",
+                    "mimeType": "application/pdf",
+                    "size": "264613"
+                  },
+                  {
+                    "name": "BFI01_PC2_23-2_Valdivia_X.pdf",
+                    "type": "file",
+                    "id": "18Rb1bnXnRi00IAkus4oQlJCUOBGNbIPf",
+                    "mimeType": "application/pdf",
+                    "size": "176351"
+                  },
+                  {
+                    "name": "BFI01_PC2_24-2_Valdivia.pdf",
+                    "type": "file",
+                    "id": "14XmhSrwuICLMt1codQYAdOEEt8e9BtzT",
+                    "mimeType": "application/pdf",
+                    "size": "288275"
+                  },
+                  {
+                    "name": "BFI01_PC2_24-1_Valdivia_W.pdf",
+                    "type": "file",
+                    "id": "1zNN9oXLHuGUA3ieeinEMXqi4G025ij_-",
+                    "mimeType": "application/pdf",
+                    "size": "183149"
+                  },
+                  {
+                    "name": "BFI01_PC2_23-3_Valdivia.jpeg",
+                    "type": "file",
+                    "id": "1OxXg_tHDLgk4qv9HcWn7vt8PT9Ccccxy",
+                    "mimeType": "image/jpeg",
+                    "size": "548138"
+                  },
+                  {
+                    "name": "BFI01_PC2_25-1_Valdivia.pdf",
+                    "type": "file",
+                    "id": "1TltUR-T9R-34HW7UY4i2i58mmH8jaDie",
+                    "mimeType": "application/pdf",
+                    "size": "213628"
+                  },
+                  {
+                    "name": "BFI01_PC2_21-2_W.pdf",
+                    "type": "file",
+                    "id": "17rbhDWSBmk6lBZB9_cBojBal1xISoKg0",
+                    "mimeType": "application/pdf",
+                    "size": "93050"
+                  },
+                  {
+                    "name": "BFI01_PC2_22-1_X.pdf",
+                    "type": "file",
+                    "id": "1JIxqOHauQEgn6IoiF5cPT8dtqsNdEgqY",
+                    "mimeType": "application/pdf",
+                    "size": "172131"
+                  },
+                  {
+                    "name": "BFI01_PC2_22-1_W.pdf",
+                    "type": "file",
+                    "id": "1zgSzIAx_7sg2s6wi-97Y32BptLomA8XB",
+                    "mimeType": "application/pdf",
+                    "size": "128626"
+                  },
+                  {
+                    "name": "BFI01_PC2_17-1_W.pdf",
+                    "type": "file",
+                    "id": "13xEVNLEoHS3ThejGJ2Xun7xbNNfmcJLT",
+                    "mimeType": "application/pdf",
+                    "size": "293820"
+                  },
+                  {
+                    "name": "BFI01_PC2_17-2_W.pdf",
+                    "type": "file",
+                    "id": "1k2kNVG_CvSfa05s9eRIc72Z7p5EmyO9f",
+                    "mimeType": "application/pdf",
+                    "size": "290882"
+                  },
+                  {
+                    "name": "BFI01_PC2_16-2_W.pdf",
+                    "type": "file",
+                    "id": "1Z3sr4zt1aBiJTP_1eczMLMzIxrCTDok3",
+                    "mimeType": "application/pdf",
+                    "size": "264062"
+                  },
+                  {
+                    "name": "BFI01_PC2_16-1_W.pdf",
+                    "type": "file",
+                    "id": "1p-mfbV0kkLfIuaUCa-J3idsrK_DDmedx",
+                    "mimeType": "application/pdf",
+                    "size": "330815"
+                  },
+                  {
+                    "name": "BFI01_PC2_15-2_W.pdf",
+                    "type": "file",
+                    "id": "1XRLRLSQH8JHT0p2oA8BXtozEihklFm2L",
+                    "mimeType": "application/pdf",
+                    "size": "268613"
+                  },
+                  {
+                    "name": "BFI01_PC2_11-3_U.jpg",
+                    "type": "file",
+                    "id": "15xf58oJhzgkouOIsfZYwAI2RpRtXSz0s",
+                    "mimeType": "image/jpeg",
+                    "size": "5554748"
+                  },
+                  {
+                    "name": "BFI01_PC2_21-2_X.pdf",
+                    "type": "file",
+                    "id": "1Q_O37qh41OhUSdrFa6WgICUbijL53nnV",
+                    "mimeType": "application/pdf",
+                    "size": "118021"
+                  },
+                  {
+                    "name": "BFI01_PC2_20-1_X.pdf",
+                    "type": "file",
+                    "id": "1M2lswade4I7J4kXgnfrekl95S79nFRtW",
+                    "mimeType": "application/pdf",
+                    "size": "522298"
+                  },
+                  {
+                    "name": "BFI01_PC2_20-2_W.pdf",
+                    "type": "file",
+                    "id": "1GEhcWRWv6Wfao9rPJDGVaKa84KlTVV_V",
+                    "mimeType": "application/pdf",
+                    "size": "539447"
+                  },
+                  {
+                    "name": "BFI01_PC2_20-2_X.pdf",
+                    "type": "file",
+                    "id": "1g8s5j1FlGZp7OUtsXgFcM93XcgnOA5uW",
+                    "mimeType": "application/pdf",
+                    "size": "451288"
+                  },
+                  {
+                    "name": "BFI01_PC2_21-1_W.pdf",
+                    "type": "file",
+                    "id": "1HuGqt-TXN2yrqOvA74_OyiIaZJ-12xsM",
+                    "mimeType": "application/pdf",
+                    "size": "607754"
+                  },
+                  {
+                    "name": "BFI01_PC2_20-1_W.pdf",
+                    "type": "file",
+                    "id": "1PPTU-jCArCFMLMtH-bu32HCTOxYyOoIa",
+                    "mimeType": "application/pdf",
+                    "size": "307067"
+                  },
+                  {
+                    "name": "BFI01_PC2_19-1_W.pdf",
+                    "type": "file",
+                    "id": "1i04iuymgeipuF0YpoIefbaVb4qqcuTAg",
+                    "mimeType": "application/pdf",
+                    "size": "845701"
+                  },
+                  {
+                    "name": "BFI01_PC2_21-1_X.pdf",
+                    "type": "file",
+                    "id": "1nORpFbEgECOB41YeLD3LnHJ-FfWEA2Xu",
+                    "mimeType": "application/pdf",
+                    "size": "529999"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Prof._Romero",
+            "type": "folder",
+            "id": "1nihNzPlHkGUPWjefD_JyzNFAJV8YE648",
+            "children": [
+              {
+                "name": "PE",
+                "type": "folder",
+                "id": "1rxvN7Z7sfS3mHTXgdG-XMU9IMVypmf3c",
+                "children": [
+                  {
+                    "name": "BFI01_PE_25-1.jpeg",
+                    "type": "file",
+                    "id": "18IktYXTUzC97O2c9xClTMtk9P3t1UWVv",
+                    "mimeType": "image/jpeg",
+                    "size": "120649"
+                  },
+                  {
+                    "name": "BFI01_PE_26-1_Romero.jpeg",
+                    "type": "file",
+                    "id": "1PcVVYTLU7YjeLGUV6H1i2rX-9aZ7DL47",
+                    "mimeType": "image/jpeg",
+                    "size": "184021"
+                  },
+                  {
+                    "name": "BFI01_PE_23-2_Romero.pdf",
+                    "type": "file",
+                    "id": "1oOJftL3sXCLb8mPTEoptTxVkIC7_laCJ",
+                    "mimeType": "application/pdf",
+                    "size": "459070"
+                  },
+                  {
+                    "name": "BFI01_PE_23-1_Romero.jpeg",
+                    "type": "file",
+                    "id": "1f1VWhScXbmfuy6qIa68vlDaDw4rJC9qO",
+                    "mimeType": "image/jpeg",
+                    "size": "136287"
+                  }
+                ]
+              },
+              {
+                "name": "PC5",
+                "type": "folder",
+                "id": "1nnAFRRBKJQwshqrS_j1DIA2FUmmw9XJD",
+                "children": [
+                  {
+                    "name": "BFI01_PC5_25-1_Romero.pdf",
+                    "type": "file",
+                    "id": "1NNKu3qrdvD61GUxRBYdZGD6cpJNQHqmI",
+                    "mimeType": "application/pdf",
+                    "size": "355610"
+                  },
+                  {
+                    "name": "BFI01_PC5_26-1_Romero.pdf",
+                    "type": "file",
+                    "id": "1JY-LP_IcmBcIfDZvgy3eLF_ZqO7eRKln",
+                    "mimeType": "application/pdf",
+                    "size": "906332"
+                  },
+                  {
+                    "name": "BFI01_PC5_23-1_Romero.pdf",
+                    "type": "file",
+                    "id": "1joZ_BjubdGNrjpR11_iabM9bszvNHm5z",
+                    "mimeType": "application/pdf",
+                    "size": "451333"
+                  },
+                  {
+                    "name": "BFI01_PC5_23-2_Romero.pdf",
+                    "type": "file",
+                    "id": "17ja_w5VfstkGUv1WKRJBb6O-OELKYQVY",
+                    "mimeType": "application/pdf",
+                    "size": "430651"
+                  }
+                ]
+              },
+              {
+                "name": "PC3",
+                "type": "folder",
+                "id": "14_NKWHwfyVP26PdoZ5i7n2Zk79XMT75R",
+                "children": [
+                  {
+                    "name": "BFI01_PC3_26-1_Romero.pdf",
+                    "type": "file",
+                    "id": "1cMeRmQOlw0-rBJt-4vMIHVdbfy7GLn9j",
+                    "mimeType": "application/pdf",
+                    "size": "1194141"
+                  },
+                  {
+                    "name": "BFI01_PC3_25-1_Romero.pdf",
+                    "type": "file",
+                    "id": "1Oq7b2EXN6ZiRqayC7McqQaMi50cRoZdx",
+                    "mimeType": "application/pdf",
+                    "size": "290471"
+                  },
+                  {
+                    "name": "BFI01_PC3_23-1_Romero.pdf",
+                    "type": "file",
+                    "id": "1y-jFRZL_avZZUaMYBBOxvwX-49WZFAZz",
+                    "mimeType": "application/pdf",
+                    "size": "1440634"
+                  },
+                  {
+                    "name": "BFI01_PC3_23-2_Romero.pdf",
+                    "type": "file",
+                    "id": "1NZBYprM3U-RacvSy4rAOmNdP5itea6G3",
+                    "mimeType": "application/pdf",
+                    "size": "450257"
+                  }
+                ]
+              },
+              {
+                "name": "PC4",
+                "type": "folder",
+                "id": "1XVz1YMu3UDj7pq5QjhgzizXhQxsJ8LNr",
+                "children": [
+                  {
+                    "name": "BFI01_PC4_26-1_Romero.pdf",
+                    "type": "file",
+                    "id": "1D4LlwaF6P5D8UWR1L9dNJEyF6sCDMFS-",
+                    "mimeType": "application/pdf",
+                    "size": "761251"
+                  },
+                  {
+                    "name": "BFI01_PC4_25-1_Romero.pdf",
+                    "type": "file",
+                    "id": "1v10IwIdWkAcQUrcHvXQ_ITYDgUyb_TUb",
+                    "mimeType": "application/pdf",
+                    "size": "241531"
+                  },
+                  {
+                    "name": "BFI01_PC4_23-1_Romero",
+                    "type": "file",
+                    "id": "1dP7gwXiJD7i26B_VnrOu0ZgQNdqLDaIi",
+                    "mimeType": "application/pdf",
+                    "size": "670869"
+                  },
+                  {
+                    "name": "BFI01_PC4_23-2_Romero.jpeg",
+                    "type": "file",
+                    "id": "1GLe7DIHxCvemCQH2GpAFpYJ5Isr_NG08",
+                    "mimeType": "image/jpeg",
+                    "size": "580848"
+                  }
+                ]
+              },
+              {
+                "name": "PC1",
+                "type": "folder",
+                "id": "1NGR1bx9XF6k7_9zkdZnCilPMx1kQCkK6",
+                "children": [
+                  {
+                    "name": "BFI01_PC1_26-1_Romero.pdf",
+                    "type": "file",
+                    "id": "11VlGasSP8DynMK45BbOkwcpd4epZkC5I",
+                    "mimeType": "application/pdf",
+                    "size": "169836"
+                  },
+                  {
+                    "name": "BFI01_PC1_25-1_Romero",
+                    "type": "file",
+                    "id": "1MQIKc0YBK23ieqsfeXhFa7bg_4lvz4F0",
+                    "mimeType": "image/jpeg",
+                    "size": "142485"
+                  },
+                  {
+                    "name": "BFI01_PC1_24-2_Romero.jpeg",
+                    "type": "file",
+                    "id": "1DoNquKqpKCSKefV0JB7m6S0TppUc_21O",
+                    "mimeType": "image/jpeg",
+                    "size": "338709"
+                  },
+                  {
+                    "name": "BFI01_PC1_24-1_Romero.jpeg",
+                    "type": "file",
+                    "id": "1Pvz3sxEv4QEX7Wn86j_-8f47ytY-p9Kz",
+                    "mimeType": "image/jpeg",
+                    "size": "169810"
+                  },
+                  {
+                    "name": "BFI01_PC1_23-2_Romero.jpeg",
+                    "type": "file",
+                    "id": "15KlDIk_wFJzf47V-J2j-WxCUE_eK351E",
+                    "mimeType": "image/jpeg",
+                    "size": "557207"
+                  }
+                ]
+              },
+              {
+                "name": "PC2",
+                "type": "folder",
+                "id": "1NdzCrPJZqkxeq6DU65AzyOBgqqsCsQ_f",
+                "children": [
+                  {
+                    "name": "BFI01_PC2_26-1_Romero.pdf",
+                    "type": "file",
+                    "id": "1D19MTGKVFQ9Vfr_o9afnq9ujQyzqxvwd",
+                    "mimeType": "application/pdf",
+                    "size": "204661"
+                  },
+                  {
+                    "name": "BFI01_PC2_25-1_Romero",
+                    "type": "file",
+                    "id": "1o7LjHijvpupyPI53VNbgAa5Ff-A8uPcO",
+                    "mimeType": "image/jpeg",
+                    "size": "223529"
+                  },
+                  {
+                    "name": "BFI01_PC2_23-1_Romero.jpeg",
+                    "type": "file",
+                    "id": "1VLF_EdaGhPDqEl26ZHfgvYV6DHiwLL8K",
+                    "mimeType": "image/jpeg",
+                    "size": "97308"
+                  },
+                  {
+                    "name": "BFI01_PC2_23-2_Romero.jpeg",
+                    "type": "file",
+                    "id": "1LreW4s00ZBzGCzMu3WBkXgRk6OqKuzgT",
+                    "mimeType": "image/jpeg",
+                    "size": "639356"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Prof._Mosquera",
+            "type": "folder",
+            "id": "1_kFkhEohc2w-2XMozBTtbzxc-SRnaomG",
+            "children": [
+              {
+                "name": "PE",
+                "type": "folder",
+                "id": "1LtXKLWUnWZuX5WX4RRcdIBu9w63bMQ2j",
+                "children": [
+                  {
+                    "name": "BFI01_PE_23-2_Mosquera.jpeg",
+                    "type": "file",
+                    "id": "1tmoBBfNbva1YuCEywYYQ2bS95La_sVWT",
+                    "mimeType": "image/jpeg",
+                    "size": "236595"
+                  }
+                ]
+              },
+              {
+                "name": "PC4",
+                "type": "folder",
+                "id": "1tEIRKXFr7dT2FWLm6yGIa-hnn1fxPBWu",
+                "children": [
+                  {
+                    "name": "BFI01_PC4_23-1_Z.pdf",
+                    "type": "file",
+                    "id": "1rp52xqomvoxsRoQwEpFQXIGLrNXIQptH",
+                    "mimeType": "application/pdf",
+                    "size": "202050"
+                  },
+                  {
+                    "name": "BFI01_PC4_22-1_U.pdf",
+                    "type": "file",
+                    "id": "1OtPvbw1Kr4gqmR9zHPZifKMen_bDlVg0",
+                    "mimeType": "application/pdf",
+                    "size": "187395"
+                  }
+                ]
+              },
+              {
+                "name": "PC3",
+                "type": "folder",
+                "id": "1Md_xbRtmmU0dvxHNbl71kU9S3Z_tgpW5",
+                "children": [
+                  {
+                    "name": "BFI01_PC3_24-1_Mosquera.pdf",
+                    "type": "file",
+                    "id": "1uOZ6U5esyljPDgONbDtwKrxj1UbAijuo",
+                    "mimeType": "application/pdf",
+                    "size": "209552"
+                  },
+                  {
+                    "name": "BFI01_PC3_23-1_Z.pdf",
+                    "type": "file",
+                    "id": "19fkCEgWpeXOBVZf_OD7QqtkJXDoJFPIE",
+                    "mimeType": "application/pdf",
+                    "size": "163807"
+                  },
+                  {
+                    "name": "BFI01_PC3_20-2_U.pdf",
+                    "type": "file",
+                    "id": "17ZCULOvZfqLiKQGxPXRgiQMieXtviaRu",
+                    "mimeType": "application/pdf",
+                    "size": "227767"
+                  },
+                  {
+                    "name": "BFI01_PC3_22-1_U.pdf",
+                    "type": "file",
+                    "id": "1VpRdMLpbF0aAEDGSErz7vmDsJ1F8RPjW",
+                    "mimeType": "application/pdf",
+                    "size": "887306"
+                  }
+                ]
+              },
+              {
+                "name": "PC5",
+                "type": "folder",
+                "id": "1-5T4MNQDcomjRaaPWzXrKbn9Hgzokj1w",
+                "children": [
+                  {
+                    "name": "BFI01_PC5_21-1_Mosquera.pdf",
+                    "type": "file",
+                    "id": "1RgQknEgfgNCaZ5XBCBycQB0pWdDWK9Oa",
+                    "mimeType": "application/pdf",
+                    "size": "93667"
+                  },
+                  {
+                    "name": "mosquera_23_2.pdf",
+                    "type": "file",
+                    "id": "13RKbf-aTssm0AfdNAnqza5tDC8lhqoMn",
+                    "mimeType": "application/pdf",
+                    "size": "198121"
+                  },
+                  {
+                    "name": "BFI01_PC5_22-2_U.pdf",
+                    "type": "file",
+                    "id": "1p95sdLLpqnr0DKxhfSXmIJX6tSnkbGRb",
+                    "mimeType": "application/pdf",
+                    "size": "178244"
+                  },
+                  {
+                    "name": "BFI01_PC5_22-1_U.pdf",
+                    "type": "file",
+                    "id": "16Lr1FpFCG_3BA1GjS9tBSPzUM8WukepS",
+                    "mimeType": "application/pdf",
+                    "size": "194353"
+                  }
+                ]
+              },
+              {
+                "name": "PC2",
+                "type": "folder",
+                "id": "1ROjs5WW6E9Z2HwE-bpOxp6Qgcj6NvPbL",
+                "children": [
+                  {
+                    "name": "BFI01_PC2_22-2_Mosquera",
+                    "type": "file",
+                    "id": "1JmvM0NXy53AxQFg9xOCkJnYr6_Zv1hHH",
+                    "mimeType": "application/pdf",
+                    "size": "277513"
+                  },
+                  {
+                    "name": "BFI01_PC2_20-1_Mosquera.pdf",
+                    "type": "file",
+                    "id": "1Rj9mJ7pxrnMCMZcMz-2X3gVIDm4yJ-xI",
+                    "mimeType": "application/pdf",
+                    "size": "1837878"
+                  },
+                  {
+                    "name": "BFI01_PC2_21-1_Mosquera.pdf",
+                    "type": "file",
+                    "id": "1rRoL9alyLSP4W-XCXYazc8joOWEnwcWw",
+                    "mimeType": "application/pdf",
+                    "size": "82870"
+                  },
+                  {
+                    "name": "BFI01_PC2_20-2_U.pdf",
+                    "type": "file",
+                    "id": "13eRR0dQvYMNwbSfoeFlVlJl3sR6dM-ys",
+                    "mimeType": "application/pdf",
+                    "size": "968344"
+                  }
+                ]
+              },
+              {
+                "name": "PC1",
+                "type": "folder",
+                "id": "15TH05WLjWdVcJpb7I6wLKJieNjUGGUqc",
+                "children": [
+                  {
+                    "name": "BFI01_PC1_22-1_Mosquera.pdf",
+                    "type": "file",
+                    "id": "1YWfFUqp2Sx8yrvOAInmhSlyC1I_oEPWb",
+                    "mimeType": "application/pdf",
+                    "size": "258153"
+                  },
+                  {
+                    "name": "BFI01_PC1_22-2_Mosquera.pdf",
+                    "type": "file",
+                    "id": "1gNM1CfA6Z90mEG9kcPJhxBxk7lfblMlB",
+                    "mimeType": "application/pdf",
+                    "size": "186121"
+                  },
+                  {
+                    "name": "BFI01_PC1_23-2_Mosquera.pdf",
+                    "type": "file",
+                    "id": "1oV8GB3JcZqbH_Pa3uCLnFthQbx2dHtyz",
+                    "mimeType": "application/pdf",
+                    "size": "221749"
+                  },
+                  {
+                    "name": "BFI01_PC1_24-1_Mosquera.pdf",
+                    "type": "file",
+                    "id": "15AMF39a4Qu56VkjF8dxYL5Y4klU_nPSk",
+                    "mimeType": "application/pdf",
+                    "size": "527962"
+                  },
+                  {
+                    "name": "BFI01_PC1_23-1_Z.pdf",
+                    "type": "file",
+                    "id": "1F3ENyZN8uzU2y67n8AvEJNGyIjcBJhq4",
+                    "mimeType": "application/pdf",
+                    "size": "251315"
+                  },
+                  {
+                    "name": "BFI01_PC1_21-1_U.pdf",
+                    "type": "file",
+                    "id": "1J2C_GwEJgGQV-iQ3cRAX00fY6nfKme5m",
+                    "mimeType": "application/pdf",
+                    "size": "99700"
+                  },
+                  {
+                    "name": "BFI01_PC1_20-2_U.pdf",
+                    "type": "file",
+                    "id": "1nSo-Ff-sGXanj8lcLWXSI9T1hlsIop9P",
+                    "mimeType": "application/pdf",
+                    "size": "219157"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Prof._Cañote",
+            "type": "folder",
+            "id": "1Xx2s4aw3PhoCPv_qO8dxO0pCwev-wlH2",
+            "children": [
+              {
+                "name": "PE",
+                "type": "folder",
+                "id": "1tMDnqki6c0bRS8nE3Swg-LQ-u1ulXqPT",
+                "children": [
+                  {
+                    "name": "BFI01_PE_22-1_V.pdf",
+                    "type": "file",
+                    "id": "1jVfrffXfmTRffdXYP9Julvo1wtA2rDUU",
+                    "mimeType": "application/pdf",
+                    "size": "341299"
+                  },
+                  {
+                    "name": "BFI01_PE_20-2_Y.pdf",
+                    "type": "file",
+                    "id": "1GRSlNRo_MVIvWqPetLRcXlEgvHt8E0ry",
+                    "mimeType": "application/pdf",
+                    "size": "161046"
+                  },
+                  {
+                    "name": "BFI01_PE_22-2_V.pdf",
+                    "type": "file",
+                    "id": "16ckRotKJRT6Nohj4RXoAQDvxnvaIMef0",
+                    "mimeType": "application/pdf",
+                    "size": "162698"
+                  },
+                  {
+                    "name": "BFI01_PE_20-2_V.pdf",
+                    "type": "file",
+                    "id": "1pEG--2ic_BVJqzAXWp3LSi8rCJ95TcJR",
+                    "mimeType": "application/pdf",
+                    "size": "140658"
+                  },
+                  {
+                    "name": "BFI01_PE_21-1_V.pdf",
+                    "type": "file",
+                    "id": "1r-kPTJY0BcSfO9108z6dbGYierrJwJH5",
+                    "mimeType": "application/pdf",
+                    "size": "339490"
+                  },
+                  {
+                    "name": "BFI01_PE_23-1_Y.pdf",
+                    "type": "file",
+                    "id": "171rC9nvdn-XSynFVb0DMjL3zDinPrEz-",
+                    "mimeType": "application/pdf",
+                    "size": "164921"
+                  },
+                  {
+                    "name": "BFI01_PE_23-1_V.pdf",
+                    "type": "file",
+                    "id": "1e47jga9ZCcLOWDw3Ody019cEnvUM15BY",
+                    "mimeType": "application/pdf",
+                    "size": "164384"
+                  },
+                  {
+                    "name": "BFI01_PE_20-1_V.pdf",
+                    "type": "file",
+                    "id": "1oDWTCz8Ygfpn46pNUG59ujGo8s2i224F",
+                    "mimeType": "application/pdf",
+                    "size": "162642"
+                  },
+                  {
+                    "name": "BFI01_PE_21-1_Y.pdf",
+                    "type": "file",
+                    "id": "19oxtLYk6qvAl63GH4ciMrrn34ndvjn9z",
+                    "mimeType": "application/pdf",
+                    "size": "163967"
+                  }
+                ]
+              },
+              {
+                "name": "PC4",
+                "type": "folder",
+                "id": "15tuhWvorGVnMVTnrEqJbzCIEM5B_yIX0",
+                "children": [
+                  {
+                    "name": "BFI01_PC4_23-2_Cañote_V.pdf",
+                    "type": "file",
+                    "id": "1IbGPHv9ofdRFwNiputNkT9Z2cJISpp8U",
+                    "mimeType": "application/pdf",
+                    "size": "219953"
+                  },
+                  {
+                    "name": "BFI01_PC4_23-2_Cañote_Y.jpeg",
+                    "type": "file",
+                    "id": "1MJ1nnDRPeRNCPwI28Xv7cy7y8TpSAMOH",
+                    "mimeType": "image/jpeg",
+                    "size": "577240"
+                  },
+                  {
+                    "name": "BFI01_PC4_23-1_Cañote_Y.pdf",
+                    "type": "file",
+                    "id": "1yGAGNYWmFYicbeXMvzyRudZgxS64un99",
+                    "mimeType": "application/pdf",
+                    "size": "279059"
+                  },
+                  {
+                    "name": "BFI01_PC4_25-2_Cañote.pdf",
+                    "type": "file",
+                    "id": "1Yd0102slvclcBBrBAyOzDpftmDWYJde3",
+                    "mimeType": "application/pdf",
+                    "size": "224439"
+                  },
+                  {
+                    "name": "BFI01_PC4_20-2_Y.pdf",
+                    "type": "file",
+                    "id": "15e3TiMzbD3OOHGNcHJzy4P4vvT7VpZE0",
+                    "mimeType": "application/pdf",
+                    "size": "101571"
+                  },
+                  {
+                    "name": "BFI01_PC4_20-2_V.pdf",
+                    "type": "file",
+                    "id": "1GVK5v7ujnwm4ndkHR2r1gBNOt4JoUn-J",
+                    "mimeType": "application/pdf",
+                    "size": "95824"
+                  },
+                  {
+                    "name": "BFI01_PC4_21-2_V.pdf",
+                    "type": "file",
+                    "id": "1C6z9ix7J_7uzblQrnAYR1g1GLlVA5jRf",
+                    "mimeType": "application/pdf",
+                    "size": "73692"
+                  },
+                  {
+                    "name": "BFI01_PC4_22-1_V.pdf",
+                    "type": "file",
+                    "id": "1_la4V-_JBSPZectQfnxaT4cuTrZ7sTmN",
+                    "mimeType": "application/pdf",
+                    "size": "163000"
+                  },
+                  {
+                    "name": "BFI01_PC4_22-2_Y.pdf",
+                    "type": "file",
+                    "id": "1qLZGb3yn2sbdC0Lo_wvQZFhqdHRMSzN8",
+                    "mimeType": "application/pdf",
+                    "size": "129004"
+                  },
+                  {
+                    "name": "BFI01_PC4_23-1_V.pdf",
+                    "type": "file",
+                    "id": "1wdKkgkrjTlZjDkY31pcK_6-X98paH52b",
+                    "mimeType": "application/pdf",
+                    "size": "161531"
+                  },
+                  {
+                    "name": "BFI01_PC4_20-1_V.pdf",
+                    "type": "file",
+                    "id": "1d2RaDLhJ5IDWce6MPiaTFuRGXSHyr5PT",
+                    "mimeType": "application/pdf",
+                    "size": "258094"
+                  },
+                  {
+                    "name": "BFI01_PC4_21-1_V.pdf",
+                    "type": "file",
+                    "id": "1iMJfCyb0Zt_u_1piEurTt_1lnTQkcICQ",
+                    "mimeType": "application/pdf",
+                    "size": "128489"
+                  },
+                  {
+                    "name": "BFI01_PC4_22-1_Y.pdf",
+                    "type": "file",
+                    "id": "1vOIqRoBdP_of048pVanJk8auTa5tYiVt",
+                    "mimeType": "application/pdf",
+                    "size": "129798"
+                  },
+                  {
+                    "name": "BFI01_PC4_21-1_Y.pdf",
+                    "type": "file",
+                    "id": "1JhMsgMpoqskdK7KpXuH1Wrq9neI3zYAu",
+                    "mimeType": "application/pdf",
+                    "size": "372185"
+                  },
+                  {
+                    "name": "BFI01_PC4_17-2_V.pdf",
+                    "type": "file",
+                    "id": "1fH9FYokhBWOt8V7Q2JGkmaRzWqmwD_pd",
+                    "mimeType": "application/pdf",
+                    "size": "222186"
+                  },
+                  {
+                    "name": "BFI01_PC4_17-1_V.pdf",
+                    "type": "file",
+                    "id": "1-YpgfFOASyTAcnG-pLKikHAhKjc2QGts",
+                    "mimeType": "application/pdf",
+                    "size": "189873"
+                  },
+                  {
+                    "name": "BFI01_PC4_22-2_V.pdf",
+                    "type": "file",
+                    "id": "1MpKJqFXNc65NYsV2PiVliJeDHNLQ54UC",
+                    "mimeType": "application/pdf",
+                    "size": "250239"
+                  }
+                ]
+              },
+              {
+                "name": "PC5",
+                "type": "folder",
+                "id": "1AErcDOISHmRenbBkLJ259W_MG3VdVjUj",
+                "children": [
+                  {
+                    "name": "BFI01_PC5_26-1_V",
+                    "type": "file",
+                    "id": "1479itq1LnGfXkaCeGxS9aoXRYsFpUH_V",
+                    "mimeType": "application/pdf",
+                    "size": "1261349"
+                  },
+                  {
+                    "name": "BFI01_PC5_23-2_Cañote.jpeg",
+                    "type": "file",
+                    "id": "1MfHIPRDsXrIQeudTD7GbznflSdxyChqo",
+                    "mimeType": "image/jpeg",
+                    "size": "605086"
+                  },
+                  {
+                    "name": "BFI01_PC5_20-1_V.pdf",
+                    "type": "file",
+                    "id": "1r06bLjOhPcOXGWuxVP0delBbRLE8wTfS",
+                    "mimeType": "application/pdf",
+                    "size": "139610"
+                  },
+                  {
+                    "name": "BFI01_PC5_20-2_Y.pdf",
+                    "type": "file",
+                    "id": "1kWiAg5nxdY1hFGXlVP-2KRvkI0gFEtfp",
+                    "mimeType": "application/pdf",
+                    "size": "175209"
+                  },
+                  {
+                    "name": "BFI01_PC5_20-2_V.pdf",
+                    "type": "file",
+                    "id": "1ZZl7N-fHnPd0XLLXdCKWhYX7DR_PeZrZ",
+                    "mimeType": "application/pdf",
+                    "size": "179320"
+                  },
+                  {
+                    "name": "BFI01_PC5_21-1_V.pdf",
+                    "type": "file",
+                    "id": "1qvAxtBkk1K2I_mR1UH3GHq1M3mqVS_Uj",
+                    "mimeType": "application/pdf",
+                    "size": "137288"
+                  },
+                  {
+                    "name": "BFI01_PC5_21-2_V.pdf",
+                    "type": "file",
+                    "id": "1RhOdJX2UAUjlRzso9HBxzFQ0wlf51QMK",
+                    "mimeType": "application/pdf",
+                    "size": "128528"
+                  },
+                  {
+                    "name": "BFI01_PC5_22-1_V.pdf",
+                    "type": "file",
+                    "id": "1W07Pvq5xsoQ1BOKCahq5cYNCvwOtdT6f",
+                    "mimeType": "application/pdf",
+                    "size": "83652"
+                  },
+                  {
+                    "name": "BFI01_PC5_22-1_Y.pdf",
+                    "type": "file",
+                    "id": "1E4hJEMfloURT3NypMsAcUw1YPHxTEaHH",
+                    "mimeType": "application/pdf",
+                    "size": "111093"
+                  },
+                  {
+                    "name": "BFI01_PC5_22-2_Y.pdf",
+                    "type": "file",
+                    "id": "1sxOP3Z7aQdoUt1Jt93QffF4SqKYj-D-1",
+                    "mimeType": "application/pdf",
+                    "size": "102107"
+                  },
+                  {
+                    "name": "BFI01_PC5_23-1_V.pdf",
+                    "type": "file",
+                    "id": "15xXthcO6He1J0HEX0x4zBJzgcbFU261Q",
+                    "mimeType": "application/pdf",
+                    "size": "81794"
+                  },
+                  {
+                    "name": "BFI01_PC5_23-1_Y.pdf",
+                    "type": "file",
+                    "id": "1teM8FmZC7BkkyaOBEnvz0SRk8KQbUBwG",
+                    "mimeType": "application/pdf",
+                    "size": "142266"
+                  },
+                  {
+                    "name": "BFI01_PC5_22-2_V.pdf",
+                    "type": "file",
+                    "id": "16-a15-PuF5f24E2_bJfS0_ih4X7N6AcG",
+                    "mimeType": "application/pdf",
+                    "size": "80856"
+                  },
+                  {
+                    "name": "BFI01_PC5_21-1_Y.pdf",
+                    "type": "file",
+                    "id": "1xbx5vnU5LWi2G0yCzbNztjCkNADYLUDs",
+                    "mimeType": "application/pdf",
+                    "size": "260351"
+                  },
+                  {
+                    "name": "BFI01_PC5_17-1_V.pdf",
+                    "type": "file",
+                    "id": "1I068gACb6hhmV-CX5-2zznyaqOWVETYo",
+                    "mimeType": "application/pdf",
+                    "size": "2573052"
+                  }
+                ]
+              },
+              {
+                "name": "PC3",
+                "type": "folder",
+                "id": "16o9LltPGMouknCaDR038VDZVZJ01Q0qm",
+                "children": [
+                  {
+                    "name": "BFI01_PC3_23-2_Cañote_Y.jpeg",
+                    "type": "file",
+                    "id": "1W5ayzSG9JxEqdLS5ehVkNfeOn0Pv9x_x",
+                    "mimeType": "image/jpeg",
+                    "size": "606377"
+                  },
+                  {
+                    "name": "BFI01_PC3_24-2_Cañote.jpeg",
+                    "type": "file",
+                    "id": "1f8GHA4_maRT3Ckk6ygH8kVwpgswPhm3O",
+                    "mimeType": "image/jpeg",
+                    "size": "387586"
+                  },
+                  {
+                    "name": "BFI01_PC3_24-1_Cañote.pdf",
+                    "type": "file",
+                    "id": "1nZqQy7skRU5lZY4M-ecbmVzi6ONO3JxU",
+                    "mimeType": "application/pdf",
+                    "size": "227345"
+                  },
+                  {
+                    "name": "BFI01_PC3_25-2_Cañote.jpeg",
+                    "type": "file",
+                    "id": "1DEuj8B8OGCi7DX_ea5tQk8xub2XNi10_",
+                    "mimeType": "image/jpeg",
+                    "size": "206914"
+                  },
+                  {
+                    "name": "BFI01_PC3_21-1_V.pdf",
+                    "type": "file",
+                    "id": "1iknlxD0cB2q1SpXeXCjV7SX6nf2Mmcp6",
+                    "mimeType": "application/pdf",
+                    "size": "81811"
+                  },
+                  {
+                    "name": "BFI01_PC3_20-2_Y.pdf",
+                    "type": "file",
+                    "id": "1upIji2V6f0bw8XSYOkk9Nv-cXR0POYyV",
+                    "mimeType": "application/pdf",
+                    "size": "113773"
+                  },
+                  {
+                    "name": "BFI01_PC3_20-2_V.pdf",
+                    "type": "file",
+                    "id": "1KGj1tJ1ubPN_TIb3IYmbxmAfhu_y4Tig",
+                    "mimeType": "application/pdf",
+                    "size": "104692"
+                  },
+                  {
+                    "name": "BFI01_PC3_21-2_V.pdf",
+                    "type": "file",
+                    "id": "1HOC22dUqTlUjVmKw-jItc5g7756absJg",
+                    "mimeType": "application/pdf",
+                    "size": "90162"
+                  },
+                  {
+                    "name": "BFI01_PC3_22-1_V.pdf",
+                    "type": "file",
+                    "id": "1H8PGvoMeIi8jhCy5oCs26wPQBRQt0VIr",
+                    "mimeType": "application/pdf",
+                    "size": "76689"
+                  },
+                  {
+                    "name": "BFI01_PC3_22-2_Y.pdf",
+                    "type": "file",
+                    "id": "15OSqos0wlDPZBVVfBpdiYwR6hHIgK-Os",
+                    "mimeType": "application/pdf",
+                    "size": "78704"
+                  },
+                  {
+                    "name": "BFI01_PC3_22-2_V.pdf",
+                    "type": "file",
+                    "id": "1m86DrX_LISpKJIiAtBPsm6SOGvruxGUX",
+                    "mimeType": "application/pdf",
+                    "size": "71539"
+                  },
+                  {
+                    "name": "BFI01_PC3_23-1_Y.pdf",
+                    "type": "file",
+                    "id": "14gBF9NowBlJuJa5QIzWzAL11hs0Dd36E",
+                    "mimeType": "application/pdf",
+                    "size": "36294"
+                  },
+                  {
+                    "name": "BFI01_PC3_23-1_V.pdf",
+                    "type": "file",
+                    "id": "1gsPyccicff0SrB_15rLSzfMp1wBiQPDW",
+                    "mimeType": "application/pdf",
+                    "size": "135326"
+                  },
+                  {
+                    "name": "BFI01_PC3_20-1_V.pdf",
+                    "type": "file",
+                    "id": "1UYv0kNCDnvnlbidm07sx0jqPRM29wxnZ",
+                    "mimeType": "application/pdf",
+                    "size": "146032"
+                  },
+                  {
+                    "name": "BFI01_PC3_21-1_Y.pdf",
+                    "type": "file",
+                    "id": "1T15tUrCl-ySnOlNvvD7Eo5x7TRKqcQNY",
+                    "mimeType": "application/pdf",
+                    "size": "153391"
+                  },
+                  {
+                    "name": "BFI01_PC3_22-1_Y.pdf",
+                    "type": "file",
+                    "id": "1z7_C_vr34z7WYXXVO1bTBLzIxc980KME",
+                    "mimeType": "application/pdf",
+                    "size": "78493"
+                  },
+                  {
+                    "name": "BFI01_PC3_17-1_V.pdf",
+                    "type": "file",
+                    "id": "1h37OQH56V2kPLqvIjG_JIrv38aP8hPMO",
+                    "mimeType": "application/pdf",
+                    "size": "6495133"
+                  }
+                ]
+              },
+              {
+                "name": "PC1",
+                "type": "folder",
+                "id": "1mSsoRpeILDJIwTJ4Pb5NmdDDU72YtZLo",
+                "children": [
+                  {
+                    "name": "BFI01_PC1_26-1_Cañote_Y.jpeg",
+                    "type": "file",
+                    "id": "1IlsX0VWLoPFXCwh3wXuzmSQGHWorbdrc",
+                    "mimeType": "image/jpeg",
+                    "size": "289134"
+                  },
+                  {
+                    "name": "BFI01_PC1_26-1_Cañote_V.jpeg",
+                    "type": "file",
+                    "id": "1Txd3K45p_7vnSO1HH5htSoo_OH3C41PA",
+                    "mimeType": "image/jpeg",
+                    "size": "128478"
+                  },
+                  {
+                    "name": "BFI01_PC1_25-2_Cañote_V",
+                    "type": "file",
+                    "id": "1b3aBMTWF8t8oochM47zweSs_FyLG13Cx",
+                    "mimeType": "application/pdf",
+                    "size": "738752"
+                  },
+                  {
+                    "name": "BFI01_PC1_24-1_Cañote.jpeg",
+                    "type": "file",
+                    "id": "1MnPaRDD5hpM8Aq7I_Y_epXZnfrVr44FL",
+                    "mimeType": "image/jpeg",
+                    "size": "144975"
+                  },
+                  {
+                    "name": "BFI01_PC1_24-2_Cañote.jpeg",
+                    "type": "file",
+                    "id": "15wYSTidq6anOiN6Kdclo5DARMroPAuxY",
+                    "mimeType": "image/jpeg",
+                    "size": "76829"
+                  },
+                  {
+                    "name": "BFI01_PC1_25-1_Cañote.jpeg",
+                    "type": "file",
+                    "id": "1P2U0sWwu10-1OTgmvrr08FmRunlBdc0U",
+                    "mimeType": "image/jpeg",
+                    "size": "245590"
+                  },
+                  {
+                    "name": "BFI01_PC1_23-2_Y.pdf",
+                    "type": "file",
+                    "id": "18fpndgk6IEmsqGO_Ezwz4KVLhk_iAjwo",
+                    "mimeType": "application/pdf",
+                    "size": "137058"
+                  },
+                  {
+                    "name": "BFI01_PC1_23-2_V.pdf",
+                    "type": "file",
+                    "id": "1EexOeFzAoutDzGEPB_94f3WzPMkuA4JS",
+                    "mimeType": "application/pdf",
+                    "size": "132580"
+                  },
+                  {
+                    "name": "BFI01_PC1_22-2_Y.pdf",
+                    "type": "file",
+                    "id": "1z4Xw9l23rpznUJyFA3R8iItIeHd51K39",
+                    "mimeType": "application/pdf",
+                    "size": "171387"
+                  },
+                  {
+                    "name": "BFI01_PC1_22-1_Y.pdf",
+                    "type": "file",
+                    "id": "1kiIco1Ou-OjtyTTY_eLzhn8pMpZDBl_N",
+                    "mimeType": "application/pdf",
+                    "size": "231240"
+                  },
+                  {
+                    "name": "BFI01_PC1_20-2_Y.pdf",
+                    "type": "file",
+                    "id": "1gWruJGHUewo453p2RfwEJLazoD30xyC-",
+                    "mimeType": "application/pdf",
+                    "size": "82323"
+                  },
+                  {
+                    "name": "BFI01_PC1_22-2_V.pdf",
+                    "type": "file",
+                    "id": "1FTs3uISr5M9vgCEQx8Xy00UoaFXKIoRx",
+                    "mimeType": "application/pdf",
+                    "size": "134972"
+                  },
+                  {
+                    "name": "BFI01_PC1_22-1_V.pdf",
+                    "type": "file",
+                    "id": "1-Grkst3Ga8wFZs64IQpFtPqI3K2IAkrP",
+                    "mimeType": "application/pdf",
+                    "size": "104994"
+                  },
+                  {
+                    "name": "BFI01_PC1_21-2_V.pdf",
+                    "type": "file",
+                    "id": "14CHbEZlCkKCfFlt2R9ZhfyV6JLthXI8j",
+                    "mimeType": "application/pdf",
+                    "size": "130640"
+                  },
+                  {
+                    "name": "BFI01_PC1_20-2_V.pdf",
+                    "type": "file",
+                    "id": "1ldFXrd4id_QBprdJejyZsjwmLmfBR81Z",
+                    "mimeType": "application/pdf",
+                    "size": "108502"
+                  },
+                  {
+                    "name": "BFI01_PC1_23-1_V.pdf",
+                    "type": "file",
+                    "id": "1ytNVgI4R9shHK86pQ7Zoda8ZURK38ixe",
+                    "mimeType": "application/pdf",
+                    "size": "82998"
+                  },
+                  {
+                    "name": "BFI01_PC1_23-1_Y.pdf",
+                    "type": "file",
+                    "id": "1tyXPjKzmrBt3W8aOir_wiO-x-q1vsEZc",
+                    "mimeType": "application/pdf",
+                    "size": "159247"
+                  },
+                  {
+                    "name": "BFI01_PC1_21-1_V.pdf",
+                    "type": "file",
+                    "id": "1Fg92rFcFJ0nrza8B2dkopSr7U4n4wGUn",
+                    "mimeType": "application/pdf",
+                    "size": "168087"
+                  },
+                  {
+                    "name": "BFI01_PC1_21-1_Y.pdf",
+                    "type": "file",
+                    "id": "1ZftHKooOe-v9lDHvvTaJF1hi6yLKO1lP",
+                    "mimeType": "application/pdf",
+                    "size": "150429"
+                  },
+                  {
+                    "name": "BFI01_PC1_17-1_V.pdf",
+                    "type": "file",
+                    "id": "1egdWIXnEXgPWjg2W7M6GxQ80XKrQi4eI",
+                    "mimeType": "application/pdf",
+                    "size": "187581"
+                  },
+                  {
+                    "name": "BFI01_PC1_12-1_V.pdf",
+                    "type": "file",
+                    "id": "17HgvnVwR-kn-Alct3KS5l4l_4fZzOzaD",
+                    "mimeType": "application/pdf",
+                    "size": "209977"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Prof._Bartolomé",
+            "type": "folder",
+            "id": "1guteR-2tUtxEwACSePtQH2-XdGvnXf_H",
+            "children": [
+              {
+                "name": "BFI01_Labo2_22-1_Bartolomé.jpeg",
+                "type": "file",
+                "id": "1HT-b72cWUCpfgN6n6mkgi2mp0QZYqhPg",
+                "mimeType": "image/jpeg",
+                "size": "105470"
+              },
+              {
+                "name": "BFI01_Labo1_22-2_Bartolomé.jpeg",
+                "type": "file",
+                "id": "1GjUgDuY2UM3gdG63Q-DBBywZD1oiSku0",
+                "mimeType": "image/jpeg",
+                "size": "263030"
+              },
+              {
+                "name": "PE",
+                "type": "folder",
+                "id": "1TtJxZE1o3CFgKghPMdOI6p1bkW8wrB65",
+                "children": [
+                  {
+                    "name": "BFI01_PE_23-2_A.pdf",
+                    "type": "file",
+                    "id": "1BzvPf6Uo30bQjPJjWHz3MSa4ckSFkld0",
+                    "mimeType": "application/pdf",
+                    "size": "123429"
+                  },
+                  {
+                    "name": "BFI01_PE_23-1_A.pdf",
+                    "type": "file",
+                    "id": "1Q6CXMycKswJoMi757GUSy7xrFK6yx3VO",
+                    "mimeType": "application/pdf",
+                    "size": "175198"
+                  }
+                ]
+              },
+              {
+                "name": "PC5",
+                "type": "folder",
+                "id": "1NYK1eQw5InW8MskDiwgl8XPnR4pZOtR2",
+                "children": [
+                  {
+                    "name": "BFI01_PC5_23-1_Bartolomé_Solucionario.pdf",
+                    "type": "file",
+                    "id": "1HEi7d5qKy3rRxrYt6MtVn4MG3_h4nTZZ",
+                    "mimeType": "application/pdf",
+                    "size": "447545"
+                  },
+                  {
+                    "name": "BFI01_PC5_23-1_Bartolomé.pdf",
+                    "type": "file",
+                    "id": "1IMtt8rlnIhWeUaHCib52IWtQeJINsVbK",
+                    "mimeType": "application/pdf",
+                    "size": "105074"
+                  },
+                  {
+                    "name": "BFI01_PC5_24-1_Bartolomé.pdf",
+                    "type": "file",
+                    "id": "1Wr9FtXSHsdvaLIM4udbJ7OHe3xiuVEJX",
+                    "mimeType": "application/pdf",
+                    "size": "286954"
+                  }
+                ]
+              },
+              {
+                "name": "PC4",
+                "type": "folder",
+                "id": "1UFCfrhPHVtjZC5SMn9RxVVW4aKw_dJ6D",
+                "children": [
+                  {
+                    "name": "BFI01_PC4_24-1_Bartolomé.pdf",
+                    "type": "file",
+                    "id": "1VLYn73TmzPO7J8kqv5bCfvLv4d-CWI2A",
+                    "mimeType": "application/pdf",
+                    "size": "253675"
+                  },
+                  {
+                    "name": "BFI01_PC4_23-1_A.pdf",
+                    "type": "file",
+                    "id": "1HC0J-c0vWmJXfYYCiPFN4NXqeXmL_Pcc",
+                    "mimeType": "application/pdf",
+                    "size": "135504"
+                  }
+                ]
+              },
+              {
+                "name": "PC3",
+                "type": "folder",
+                "id": "1h6UkJW-PYIUO_xFNN-RPCj4D-l4Ne4Dw",
+                "children": [
+                  {
+                    "name": "BFI01_PC3_24-1_Bartolomé.pdf",
+                    "type": "file",
+                    "id": "1N0xzPnzeP-CiO8CVVJ6nf5X-eQs9rlHR",
+                    "mimeType": "application/pdf",
+                    "size": "131684"
+                  },
+                  {
+                    "name": "BFI01_PC3_23-1_A.pdf",
+                    "type": "file",
+                    "id": "1OU-0DQsTyzhe6Ir6YXxKAzF0SJBqTE-b",
+                    "mimeType": "application/pdf",
+                    "size": "193761"
+                  }
+                ]
+              },
+              {
+                "name": "PC2",
+                "type": "folder",
+                "id": "132r9IEMSMkFPDo2M6uwhW42sv-28U9kq",
+                "children": [
+                  {
+                    "name": "BFI01_PC2_23-2_Bartolomé.pdf",
+                    "type": "file",
+                    "id": "1bcoyPt6PKmeNIfHqbRmW5H5smFxKecn6",
+                    "mimeType": "application/pdf",
+                    "size": "210240"
+                  },
+                  {
+                    "name": "BFI01_PC2_24-1_Bartolomé.pdf",
+                    "type": "file",
+                    "id": "1TEvA5FHiCQ9kXzJ2NCD-35xTVO3KxrgJ",
+                    "mimeType": "application/pdf",
+                    "size": "167945"
+                  },
+                  {
+                    "name": "BFI01_PC2_23-1_A.pdf",
+                    "type": "file",
+                    "id": "18_R77xJ-AQzB8m0MV6DUutYArURQwV0z",
+                    "mimeType": "application/pdf",
+                    "size": "170570"
+                  }
+                ]
+              },
+              {
+                "name": "PC1",
+                "type": "folder",
+                "id": "1--2-tNtA3Ddl0HOvtTjEzt4gla7BFfnN",
+                "children": [
+                  {
+                    "name": "BFI01_PC1_24-1_Bartolomé.pdf",
+                    "type": "file",
+                    "id": "14Tbaba9VBss3DlboTWqpA9X8Q2X0h3Vb",
+                    "mimeType": "application/pdf",
+                    "size": "94368"
+                  },
+                  {
+                    "name": "BFI01_PC1_23-2_A.pdf",
+                    "type": "file",
+                    "id": "1byOD3AZBF7lqJl4AjyWZtaAybgzuEA6w",
+                    "mimeType": "application/pdf",
+                    "size": "181481"
+                  },
+                  {
+                    "name": "BFI01_PC1_23-1_A.pdf",
+                    "type": "file",
+                    "id": "1RT5xBbMEY48EVr2GL03jYqwPBjFLP3ft",
+                    "mimeType": "application/pdf",
+                    "size": "186302"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "ES",
+            "type": "folder",
+            "id": "1sLNx2YDuKRqf56v0G8oCrxgFbFghWuCk",
+            "children": [
+              {
+                "name": "BFI01_ES_26-1_Solucionario",
+                "type": "file",
+                "id": "1rLEZn7VgsD2ALCH4PIDUI8Q3eVSAtttw",
+                "mimeType": "application/pdf",
+                "size": "1421861"
+              },
+              {
+                "name": "Planchas_Antiguas",
+                "type": "folder",
+                "id": "1vQ-eYZSrLtxjBfoEDdyl3OLf9oStnXp0",
+                "children": [
+                  {
+                    "name": "19-2_2.jpeg",
+                    "type": "file",
+                    "id": "191ZJOUqlrl0OF9wrTUB56Kx1ZUbHl0BC",
+                    "mimeType": "image/jpeg",
+                    "size": "64133"
+                  },
+                  {
+                    "name": "19-1_1.jpeg",
+                    "type": "file",
+                    "id": "1b7vGFF5uN0Fv5AmMcF4MclfT6E7Qr3bm",
+                    "mimeType": "image/jpeg",
+                    "size": "93631"
+                  },
+                  {
+                    "name": "19-2_1.jpeg",
+                    "type": "file",
+                    "id": "1TD7Y0Yyuj6iCWWG5eboZJ3Rn0Kilj_t5",
+                    "mimeType": "image/jpeg",
+                    "size": "70007"
+                  },
+                  {
+                    "name": "19-1_2.jpeg",
+                    "type": "file",
+                    "id": "1PhZVXcjjLYS3wGedewXh00U3Vp7VQoQ9",
+                    "mimeType": "image/jpeg",
+                    "size": "46179"
+                  },
+                  {
+                    "name": "BFI01_ES_17-1.pdf",
+                    "type": "file",
+                    "id": "11H1Bx7XV57qEQZOR4Rm0kZXOLJceX3vk",
+                    "mimeType": "application/pdf",
+                    "size": "280610"
+                  },
+                  {
+                    "name": "BFI01_ES_12-1_V.jpg",
+                    "type": "file",
+                    "id": "13P_5wj2kixXlDbmR5LtsOxNhcLTstAzq",
+                    "mimeType": "image/jpeg",
+                    "size": "5801483"
+                  },
+                  {
+                    "name": "BFI01_ES_11-2_V.jpg",
+                    "type": "file",
+                    "id": "1yIYS5o4BkaZ5u_YiESNep7flIMZ3D27i",
+                    "mimeType": "image/jpeg",
+                    "size": "6422833"
+                  },
+                  {
+                    "name": "BFI01_ES_17-2.pdf",
+                    "type": "file",
+                    "id": "1zJhOHS3Xphk_3M1hXRVcmV7jdxvdNHxn",
+                    "mimeType": "application/pdf",
+                    "size": "92925"
+                  }
+                ]
+              },
+              {
+                "name": "BFI01_ES_25-2.pdf",
+                "type": "file",
+                "id": "1VGUOefQmoEwAZBcKeUsfE_n2NdeS5ZgZ",
+                "mimeType": "application/pdf",
+                "size": "1083186"
+              },
+              {
+                "name": "BFI01_ES_20-1",
+                "type": "file",
+                "id": "1QtxS8kb78ykGJMiQ1Q6dZV6HtTm5V6dI",
+                "mimeType": "application/pdf",
+                "size": "537897"
+              },
+              {
+                "name": "BFI01_ES_22-2_Solucionario",
+                "type": "file",
+                "id": "1rEcgKhCzsS9ljXkdZ0DjHOpySZ7h9MMz",
+                "mimeType": "application/pdf",
+                "size": "561587"
+              },
+              {
+                "name": "BFI01_ES_23-1_Solucionario",
+                "type": "file",
+                "id": "1OYCXvc_OoWDX5nrqFgDp4f5JwH66ZyUo",
+                "mimeType": "application/pdf",
+                "size": "1259438"
+              },
+              {
+                "name": "BFI01_ES_25-1_Solucionario",
+                "type": "file",
+                "id": "1OFMDZmGJtzPIj8ErIBn4BS2IItOKYS52",
+                "mimeType": "application/pdf",
+                "size": "464018"
+              },
+              {
+                "name": "BFI01_ES_23-2_Solucionario",
+                "type": "file",
+                "id": "1dDcJoVTGxe5Q5UcRK3lGA9P53JoCD_FC",
+                "mimeType": "application/pdf",
+                "size": "1016669"
+              },
+              {
+                "name": "BFI01_ES_20-2.pdf",
+                "type": "file",
+                "id": "17N2FrV1tMYzCR-unCRzwear32ebafzy6",
+                "mimeType": "application/pdf",
+                "size": "158062"
+              },
+              {
+                "name": "BFI01_ES_24-1.pdf",
+                "type": "file",
+                "id": "12SoXxjsnnZmGGJEeoxRG2R7_QOHs-KcV",
+                "mimeType": "application/pdf",
+                "size": "222123"
+              },
+              {
+                "name": "BFI01_ES_24-2.pdf",
+                "type": "file",
+                "id": "1VoVxBmsH4dzRH2MZPY06hZDPG-iPi3Lv",
+                "mimeType": "application/pdf",
+                "size": "218430"
+              },
+              {
+                "name": "BFI01_ES_21-1.pdf",
+                "type": "file",
+                "id": "1QkDxBnicKOIP3ik2AGeOGs0JofCrr0x2",
+                "mimeType": "application/pdf",
+                "size": "467486"
+              },
+              {
+                "name": "BFI01_ES_22-1.pdf",
+                "type": "file",
+                "id": "1pzqf8IlZbFYdydI5dRA8XpVt2m3gUMmK",
+                "mimeType": "application/pdf",
+                "size": "93545"
+              }
+            ]
+          },
+          {
+            "name": "EP",
+            "type": "folder",
+            "id": "1stKrMW-OjivhDq5cZoPwfNFjloU2M24g",
+            "children": [
+              {
+                "name": "EP_26-1_con_solu.pdf",
+                "type": "file",
+                "id": "1h2gk1Q8Cyzh7QzKa6uLg7bEcU-1hrfL9",
+                "mimeType": "application/pdf",
+                "size": "1509042"
+              },
+              {
+                "name": "EP_20-1_Seminario_Solucionario.pdf",
+                "type": "file",
+                "id": "1R3mTuqkcsy-EPz2uVyxusQ4QfsJr5ok1",
+                "mimeType": "application/pdf",
+                "size": "1702396"
+              },
+              {
+                "name": "EP_19-I.pdf",
+                "type": "file",
+                "id": "1EtUek6ykq8STUwQlKHLJfFA7opibHJQI",
+                "mimeType": "application/pdf",
+                "size": "231494"
+              },
+              {
+                "name": "EP_18-III.pdf",
+                "type": "file",
+                "id": "1eofglGS1_TKg9ODZVR--Y1us-tJdZGYr",
+                "mimeType": "application/pdf",
+                "size": "407878"
+              },
+              {
+                "name": "EP_18-I.pdf",
+                "type": "file",
+                "id": "18wgJvESo_3LB-RTlo7Sgj692gCgZy2I5",
+                "mimeType": "application/pdf",
+                "size": "615207"
+              },
+              {
+                "name": "EP_17-II.pdf",
+                "type": "file",
+                "id": "1qzYvNnW4yvXepJiL2opNWC5fczEge1Yu",
+                "mimeType": "application/pdf",
+                "size": "460877"
+              },
+              {
+                "name": "EP_17-I.pdf",
+                "type": "file",
+                "id": "1eq9UafPm8C-vIBWFZt9VwDcf8yZNfOyV",
+                "mimeType": "application/pdf",
+                "size": "692216"
+              },
+              {
+                "name": "EP_16-II.pdf",
+                "type": "file",
+                "id": "1gOOK_s-ImmXfVXtvnRIPa1h0qQxjOkL6",
+                "mimeType": "application/pdf",
+                "size": "758996"
+              },
+              {
+                "name": "EP_16-I.pdf",
+                "type": "file",
+                "id": "1LB6eCdD7KOXo-uX9MAzOUvQbBmgJaywt",
+                "mimeType": "application/pdf",
+                "size": "416296"
+              },
+              {
+                "name": "EP_20-I_con_solu",
+                "type": "file",
+                "id": "16akXRBu8tfrAzVesubvdA44pRevZoW0d",
+                "mimeType": "application/pdf",
+                "size": "669568"
+              },
+              {
+                "name": "EP_20-II.pdf",
+                "type": "file",
+                "id": "1pOmmRQHPWdJZ-wTtx1M702ELojkBXn9P",
+                "mimeType": "application/pdf",
+                "size": "558991"
+              },
+              {
+                "name": "EP_21-I_solu",
+                "type": "file",
+                "id": "1uSSUzoH9WV_OqbBRD-jw0nTmuNyT_UbM",
+                "mimeType": "application/pdf",
+                "size": "389066"
+              },
+              {
+                "name": "EP_21-I.pdf",
+                "type": "file",
+                "id": "1oZxDJCBNYKFVrRkhOETDa8On5D-vzOHl",
+                "mimeType": "application/pdf",
+                "size": "546430"
+              },
+              {
+                "name": "EP_21-II.pdf",
+                "type": "file",
+                "id": "1LKeITXhs1G07xW2xJRy0RCzbGrEXRF94",
+                "mimeType": "application/pdf",
+                "size": "531554"
+              },
+              {
+                "name": "EP_22-I_solu",
+                "type": "file",
+                "id": "1jJrz1w7LsLycRKAE2vf3LLNk0ZREYkN_",
+                "mimeType": "application/pdf",
+                "size": "1381100"
+              },
+              {
+                "name": "EP_22-I.pdf",
+                "type": "file",
+                "id": "1raC0zLLTDh3WGkm5Zm7kOO459SeAUSle",
+                "mimeType": "application/pdf",
+                "size": "156600"
+              },
+              {
+                "name": "EP_22-II.jpeg",
+                "type": "file",
+                "id": "17U6n3MlwC8G501eIiiKh2_Qlx9LLYQg9",
+                "mimeType": "image/jpeg",
+                "size": "316333"
+              },
+              {
+                "name": "EP_23-II.pdf",
+                "type": "file",
+                "id": "1l5tS6_W35T03F0xhpK9wwELTtHCXNUtJ",
+                "mimeType": "application/pdf",
+                "size": "229285"
+              },
+              {
+                "name": "EP_24-I.pdf",
+                "type": "file",
+                "id": "1c5CwiHz9zMSH4Z8ADYqaZCnS3r03LWXT",
+                "mimeType": "application/pdf",
+                "size": "272294"
+              },
+              {
+                "name": "EP_24-II.pdf",
+                "type": "file",
+                "id": "1QeAUQkcbmd7b8L8fVqskWLm6e-W871WL",
+                "mimeType": "application/pdf",
+                "size": "248518"
+              },
+              {
+                "name": "EP_25-I_con_solu.pdf",
+                "type": "file",
+                "id": "1I2CryYsnd7eGlhTMNla4h2uuaf7FC-pa",
+                "mimeType": "application/pdf",
+                "size": "1202155"
+              },
+              {
+                "name": "EP_25-II_con_solu.pdf",
+                "type": "file",
+                "id": "1gDho551xm3u6VJXRnWW1ApLQc7OoEeHV",
+                "mimeType": "application/pdf",
+                "size": "1144680"
+              }
+            ]
+          },
+          {
+            "name": "EF",
+            "type": "folder",
+            "id": "1v-1Ec1yU3DKjUKYJqI41rgO78vxVoDFE",
+            "children": [
+              {
+                "name": "BFI01_EF_26-1.pdf",
+                "type": "file",
+                "id": "1XMhRqh8lsQWmM2NJTwPczyBE1tVbErcU",
+                "mimeType": "application/pdf",
+                "size": "275364"
+              },
+              {
+                "name": "BFI01_EF_25-2_Solucionario.pdf",
+                "type": "file",
+                "id": "1U3iIilcXcAhzNFDnUXzMlIyC-eHhgYa1",
+                "mimeType": "application/pdf",
+                "size": "995579"
+              },
+              {
+                "name": "BFI01_EF_23-2_Solucionario",
+                "type": "file",
+                "id": "1f0y1nO0Tft10PVeLnQi6GgKIdA7Yqdmx",
+                "mimeType": "application/pdf",
+                "size": "958115"
+              },
+              {
+                "name": "BFI01_EF_22-2_Solucionario",
+                "type": "file",
+                "id": "1qa0sORH_Ccv3WP-17lt1jolA_BpzQvJ8",
+                "mimeType": "application/pdf",
+                "size": "708880"
+              },
+              {
+                "name": "BFI01_EF_25-1_Solucionario",
+                "type": "file",
+                "id": "14WmX247XNaWCxjIqz3pLh-jG8x19QurR",
+                "mimeType": "application/pdf",
+                "size": "410897"
+              },
+              {
+                "name": "BFI01_EF_20-2_Solucionario.pdf",
+                "type": "file",
+                "id": "1VuXicIw6cD7vjFebwZsGpYYxk0Q2ycon",
+                "mimeType": "application/pdf",
+                "size": "887310"
+              },
+              {
+                "name": "BFI01_EF_20-1_Solucionario.pdf",
+                "type": "file",
+                "id": "19G0uq2KrjnRRv7z6HD41eYK0FlWeXaom",
+                "mimeType": "application/pdf",
+                "size": "814271"
+              },
+              {
+                "name": "BFI01_EF_21-2_Solucionario.pdf",
+                "type": "file",
+                "id": "1dydFRW1jV88xuPalpetXzUESAEZg28Zj",
+                "mimeType": "application/pdf",
+                "size": "666582"
+              },
+              {
+                "name": "BFI01_EF_21-1_Solucionario.pdf",
+                "type": "file",
+                "id": "1V8qOdm4ik-pLhhK3NvdhhFrnp5IvbCCX",
+                "mimeType": "application/pdf",
+                "size": "658980"
+              },
+              {
+                "name": "BFI01_EF_22-1_Solucionario.pdf",
+                "type": "file",
+                "id": "1ihIqfIEWUdt9EGIpY5OmrdzwDleelmWh",
+                "mimeType": "application/pdf",
+                "size": "211006"
+              },
+              {
+                "name": "BFI01_EF_23-1_Solucionario.pdf",
+                "type": "file",
+                "id": "1JfGm8ms_amC38FJiM1mpU3ZEFGdMFu6v",
+                "mimeType": "application/pdf",
+                "size": "1047638"
+              },
+              {
+                "name": "BFI01_EF_22-3.pdf",
+                "type": "file",
+                "id": "1eHNRMxIHfrj5lWYhuaMTo6NZ-27pr6Gx",
+                "mimeType": "application/pdf",
+                "size": "153436"
+              },
+              {
+                "name": "BFI01_EF_24-2.pdf",
+                "type": "file",
+                "id": "1WYWUjCK8y9Hp0tI4AXx0IGJ1u6YwWaLL",
+                "mimeType": "application/pdf",
+                "size": "309068"
+              },
+              {
+                "name": "BFI01_EF_25-2.pdf",
+                "type": "file",
+                "id": "1IjQZnprc36l9wsZRNMQPhhApsJu_HlSO",
+                "mimeType": "application/pdf",
+                "size": "353547"
+              },
+              {
+                "name": "BFI01_EF_12-1_V.jpg",
+                "type": "file",
+                "id": "14bza5Rn5KjnQMPhwR3Zw2cO-q6Ja13_U",
+                "mimeType": "image/jpeg",
+                "size": "6019857"
+              },
+              {
+                "name": "BFI01_EF_11-2_V.jpg",
+                "type": "file",
+                "id": "1k_4hT8MySAisT2JIBY7wfFeidGUaWxaF",
+                "mimeType": "image/jpeg",
+                "size": "6536329"
+              },
+              {
+                "name": "BFI01_EF_17-1.pdf",
+                "type": "file",
+                "id": "1CQb5sbXerPoX5bOwNM4WfG_NwV5mXn3H",
+                "mimeType": "application/pdf",
+                "size": "1278244"
+              },
+              {
+                "name": "BFI01_EF_18-3.pdf",
+                "type": "file",
+                "id": "1f55Y5dyft7U7tHaqfJ9xFHU8x6-d2Iqp",
+                "mimeType": "application/pdf",
+                "size": "128617"
+              },
+              {
+                "name": "BFI01_EF_18-1.pdf",
+                "type": "file",
+                "id": "1idsE5hqy2HfjchXElrNRNtGQ4AxPoX05",
+                "mimeType": "application/pdf",
+                "size": "640194"
+              },
+              {
+                "name": "BFI01_EF_17-2.pdf",
+                "type": "file",
+                "id": "1_AYyCxmCFm7pB0MQY7M9vWzsXEpg94JL",
+                "mimeType": "application/pdf",
+                "size": "659775"
+              },
+              {
+                "name": "BFI01_EF_16-2.pdf",
+                "type": "file",
+                "id": "1CFVU_AOLe500LH8P3s_Za_XpJZ0BXkC5",
+                "mimeType": "application/pdf",
+                "size": "645322"
+              },
+              {
+                "name": "BFI01_EF_16-1.pdf",
+                "type": "file",
+                "id": "1F1Y6K2UZzWaHlqAn1L3GfGEQHlD9Reqa",
+                "mimeType": "application/pdf",
+                "size": "656091"
+              },
+              {
+                "name": "BFI01_EF_22-1.pdf",
+                "type": "file",
+                "id": "1n87NjFFMHY9SVUaIrT8AtglvjzkdiRdN",
+                "mimeType": "application/pdf",
+                "size": "125813"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Libro_Cañote_Física_1",
+        "type": "file",
+        "id": "1U6mmFH6BSBT_psDRjIwJslIjjua70fp8",
+        "mimeType": "application/pdf",
+        "size": "1633973"
+      },
+      {
+        "name": "Cuaderno_Física_2020.pdf",
+        "type": "file",
+        "id": "13wnNIV2ytfcOWxBx_VQof38c-H881eHv",
+        "mimeType": "application/pdf",
+        "size": "32978563"
+      },
+      {
+        "name": "Teoría",
+        "type": "folder",
+        "id": "1ISWli8HkYidLB9T1Tf7XljOUw9AVrJNH",
+        "children": [
+          {
+            "name": "Sovero",
+            "type": "folder",
+            "id": "1_f7rv6qUtD_k2nPGjvtdPGwvwQ0cyxH4",
+            "children": [
+              {
+                "name": "SESION_11-TERMODINAMICA-2026-1-UNI.pdf",
+                "type": "file",
+                "id": "1tGlvUZbgngELrRLeB695xeYJdU_zzREt",
+                "mimeType": "application/pdf",
+                "size": "5992657"
+              },
+              {
+                "name": "SESION_10-TEMPERATURA_Y_CALOR-2026-1-UNI.pdf",
+                "type": "file",
+                "id": "1MFz7ngBBclJAUnSPw-XVgNm3AFI6aoVW",
+                "mimeType": "application/pdf",
+                "size": "2322722"
+              },
+              {
+                "name": "SESION_8-ONDAS_SONORAS-2026-1-UNI.pdf",
+                "type": "file",
+                "id": "1F3xOcL1fbM3A_kuB86OxLQ3h4RFKq3mt",
+                "mimeType": "application/pdf",
+                "size": "5617756"
+              },
+              {
+                "name": "SESION_7-OSCILACIONES-ONDAS_SONORAS-2026-1-UNI.pdf",
+                "type": "file",
+                "id": "1Q61hc-cEUZvw6M9gI09coH3sStu-eZdh",
+                "mimeType": "application/pdf",
+                "size": "2612822"
+              },
+              {
+                "name": "SESION_6-MOVIMIENTO_DE_UN_CUERPO_RIGIDO-2026-1-UNI.pdf",
+                "type": "file",
+                "id": "1z1G816pDh24b9sgnJdfIJwtgER9i41J5",
+                "mimeType": "application/pdf",
+                "size": "4428579"
+              },
+              {
+                "name": "SESION_5-CANTIDAD_DE_MOVIMIENTO_Y_MOMENTO_ANGULAR-2026-1-UNI.pdf",
+                "type": "file",
+                "id": "1eDUvsRLnQxYq2zhudzPXT4qj2d-3o2Kb",
+                "mimeType": "application/pdf",
+                "size": "2802328"
+              },
+              {
+                "name": "SESION_9-ESTATICA_Y_DINAMICA_DE_FLUIDOS-2026-1-UNI.pdf",
+                "type": "file",
+                "id": "1iLv_ufMxgCI9MTib2xwyQDZFC8C-ijVT",
+                "mimeType": "application/pdf",
+                "size": "4029776"
+              },
+              {
+                "name": "SESION_4-TRABAJO_Y_ENERGIA-2026-1-UNI.pdf",
+                "type": "file",
+                "id": "1RCaxsQepHoHMEyrzHXTx1ecc9Tkb9R08",
+                "mimeType": "application/pdf",
+                "size": "1903443"
+              },
+              {
+                "name": "SESION_3-DINAMICA-2026-1-UNI.pdf",
+                "type": "file",
+                "id": "1bOk9EOB8MtURGCQ994iFL_g0kieqSc34",
+                "mimeType": "application/pdf",
+                "size": "3230358"
+              },
+              {
+                "name": "SESION_2-CINEMATICA_I-2026-1-UNI.pdf",
+                "type": "file",
+                "id": "179O5Lu4X6U-g7hI99dWOCj_1x-W0slt-",
+                "mimeType": "application/pdf",
+                "size": "3138766"
+              },
+              {
+                "name": "SESION_1-CINEMATICA_I-2026-1-UNI.pdf",
+                "type": "file",
+                "id": "1dbYXI7vS1Zq9g94uav9zVSIIE4UD5r1c",
+                "mimeType": "application/pdf",
+                "size": "1076584"
+              }
+            ]
+          },
+          {
+            "name": "Temas_Generales",
+            "type": "folder",
+            "id": "1WITSykAEIMk1g8h2WTBahwa3X6Uf0V0Q",
+            "children": [
+              {
+                "name": "Pendulo",
+                "type": "folder",
+                "id": "10sm1-I6f2ZHVKsqKTb7ci-BDGtJN7stS",
+                "children": [
+                  {
+                    "name": "pendulo.pdf",
+                    "type": "file",
+                    "id": "1KIGYI5J_Fhnf-oPc3_Mbn3WINuztHvno",
+                    "mimeType": "application/pdf",
+                    "size": "601826"
+                  }
+                ]
+              },
+              {
+                "name": "Termodinamica",
+                "type": "folder",
+                "id": "1CYa0YTQ6X7G0SD74twgn3oAXO-tIdl5I",
+                "children": [
+                  {
+                    "name": "PROBLEMAS_RESUELTOS_PRIMERA_LEY_DE_LA_TE.pdf",
+                    "type": "file",
+                    "id": "1Utq0UJj67ZXdr6PS5TdruGV-ab-oat-4",
+                    "mimeType": "application/pdf",
+                    "size": "1500131"
+                  }
+                ]
+              },
+              {
+                "name": "Hidroestatica",
+                "type": "folder",
+                "id": "1cRsvRokBrgJrvRGx0V91-2HJb9y8J7cn",
+                "children": [
+                  {
+                    "name": "principio-de-bernoulli-3.pdf",
+                    "type": "file",
+                    "id": "19n6tyRrn_JyoneVwwGjeBwfMPfx0VfAz",
+                    "mimeType": "application/pdf",
+                    "size": "1053970"
+                  },
+                  {
+                    "name": "Hidrostatica.pdf",
+                    "type": "file",
+                    "id": "1psBNCK1hf-sqx3m7eCggxHkSSeKVaV8D",
+                    "mimeType": "application/pdf",
+                    "size": "586316"
+                  }
+                ]
+              },
+              {
+                "name": "Fluidos",
+                "type": "folder",
+                "id": "11GOzeLBY6lDA7YrSPYHKt61fiWT_m0I1",
+                "children": [
+                  {
+                    "name": "problemas-resueltos-mecanicadefluidos.pdf",
+                    "type": "file",
+                    "id": "1ayDOA2kDTg9sB_WN-Ki_yNkvmS808sv3",
+                    "mimeType": "application/pdf",
+                    "size": "2483710"
+                  },
+                  {
+                    "name": "problemas-resueltos-fluidos.pdf",
+                    "type": "file",
+                    "id": "1eFKQR9P7kG-xltBppkE2gDMUKVV48y_N",
+                    "mimeType": "application/pdf",
+                    "size": "1550868"
+                  },
+                  {
+                    "name": "Mecánica_de_fluidos.pdf",
+                    "type": "file",
+                    "id": "1h4ACwJVnYNcZ9DDyEfQMqbU289-33T-M",
+                    "mimeType": "application/pdf",
+                    "size": "980584"
+                  }
+                ]
+              },
+              {
+                "name": "M.A.S",
+                "type": "folder",
+                "id": "1EBz8H5YHEEijjOUWU5JeUh92iC0f41oo",
+                "children": [
+                  {
+                    "name": "SOLUCIÓN_MAS.pdf",
+                    "type": "file",
+                    "id": "1xWpJ3W8q1ymkZE5iYRFOM4wTrLC5xUU1",
+                    "mimeType": "application/pdf",
+                    "size": "325661"
+                  },
+                  {
+                    "name": "mas_amortiguado.pdf",
+                    "type": "file",
+                    "id": "1_2s9s8I2jrWwrGof7g6LCtA8NrH-4eTz",
+                    "mimeType": "application/pdf",
+                    "size": "1076304"
+                  },
+                  {
+                    "name": "MAS-Aplicaciones-SA0306231416.pdf",
+                    "type": "file",
+                    "id": "1OqupHx_YOw3B07FwovTj5mssjbz3jIfF",
+                    "mimeType": "application/pdf",
+                    "size": "475161"
+                  },
+                  {
+                    "name": "MAS_y_ondas.pdf",
+                    "type": "file",
+                    "id": "1UHZHyXRkZfi6Byp6ZkTHFMgMbzaXI4r_",
+                    "mimeType": "application/pdf",
+                    "size": "4949445"
+                  }
+                ]
+              },
+              {
+                "name": "General_Problemas",
+                "type": "folder",
+                "id": "1alrvCNW5t22RIQ17gTVkK2ES9GHOXe02",
+                "children": [
+                  {
+                    "name": "boletin_problemas_4.pdf",
+                    "type": "file",
+                    "id": "1nWmcCK10geURzL9Tm3BdNovs1UaeqhJe",
+                    "mimeType": "application/pdf",
+                    "size": "133733"
+                  },
+                  {
+                    "name": "boletin_problemas_tema_3.pdf",
+                    "type": "file",
+                    "id": "1HVd3uRFy6SnG1L9N7Od6rRdJImhSvawG",
+                    "mimeType": "application/pdf",
+                    "size": "79438"
+                  }
+                ]
+              },
+              {
+                "name": "Elasticidad",
+                "type": "folder",
+                "id": "1SP-olR8BMMAX-bYe5Gbz7223VpDA_PeT",
+                "children": [
+                  {
+                    "name": "Teóricas_elasticidad_2.pdf",
+                    "type": "file",
+                    "id": "1SkJbtMRs-7J_LwnffAX8qAzvnC_eMdRm",
+                    "mimeType": "application/pdf",
+                    "size": "484918"
+                  },
+                  {
+                    "name": "Teóricas_elasticidad_1.pdf",
+                    "type": "file",
+                    "id": "1n3CnouS8ykRsD7OusAhPqSgpt9GUikSs",
+                    "mimeType": "application/pdf",
+                    "size": "1186628"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Romero",
+            "type": "folder",
+            "id": "1UGqYctjuUUpcJSfCGGuAZsjUZUM6aHQc",
+            "children": [
+              {
+                "name": "Semana_15",
+                "type": "folder",
+                "id": "1-Ej_gW642gMRZgrHyBW2OHFSFoihBlOk",
+                "children": [
+                  {
+                    "name": "repaso_de_termodinamica.pdf",
+                    "type": "file",
+                    "id": "14ItpzeHsBfxD5YH1kKKDmNEq0oKtOjIX",
+                    "mimeType": "application/pdf",
+                    "size": "1013004"
+                  },
+                  {
+                    "name": "4._ENTALPIA.pdf",
+                    "type": "file",
+                    "id": "13jGTYgUVn7b_JbVgkRpWpjeOEoCYLtBC",
+                    "mimeType": "application/pdf",
+                    "size": "1330652"
+                  },
+                  {
+                    "name": "miscelanea_fisica_1.pdf",
+                    "type": "file",
+                    "id": "1pjMxUsllFPjYNKaxf9P1-gF4bmyAGQoa",
+                    "mimeType": "application/pdf",
+                    "size": "879417"
+                  },
+                  {
+                    "name": "2._TERMODINAMICA_2026.pdf",
+                    "type": "file",
+                    "id": "1CmzfqkCnC0uWCozvtYkihvyTA1_oW_X2",
+                    "mimeType": "application/pdf",
+                    "size": "1650743"
+                  },
+                  {
+                    "name": "1._TERMOD.pdf",
+                    "type": "file",
+                    "id": "1YE9zP0oYebBBYCfUEv-csBgjmZ2BX0Bu",
+                    "mimeType": "application/pdf",
+                    "size": "802072"
+                  },
+                  {
+                    "name": "3._temperatura.pps",
+                    "type": "file",
+                    "id": "1TvRRsfoREH8of-1pgzr9YDvlax1ll2c6",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "2481152"
+                  },
+                  {
+                    "name": "PROBLEMAS_DE_TRASFERENCIA_DE_CALOR.pdf",
+                    "type": "file",
+                    "id": "1j_h5bu8iTRv8pkzdQRVmk4qh78ixdcG2",
+                    "mimeType": "application/pdf",
+                    "size": "284545"
+                  },
+                  {
+                    "name": "PROBLEMAS_DE_DILATACIÓN_27.0623UNI.pdf",
+                    "type": "file",
+                    "id": "1PsV1FGPSBuP0q_JwW1tqODWlu1bHrL_7",
+                    "mimeType": "application/pdf",
+                    "size": "183803"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_13",
+                "type": "folder",
+                "id": "14eCdsZxbIi-pmsYa2ylxttGS7aAxs0b_",
+                "children": [
+                  {
+                    "name": "3._ondas_estacionarias_-_efecto_dopler.pdf",
+                    "type": "file",
+                    "id": "1t8yxk5BsqdvrU6v4PN9evkPknPlRjZ62",
+                    "mimeType": "application/pdf",
+                    "size": "1886651"
+                  },
+                  {
+                    "name": "vibraciones_y_ondas_(1).pdf",
+                    "type": "file",
+                    "id": "1zIM5JZpNZ0J4O6fQXG4GWwXVE1QiJZzw",
+                    "mimeType": "application/pdf",
+                    "size": "1668373"
+                  },
+                  {
+                    "name": "5._interferencia2.pdf",
+                    "type": "file",
+                    "id": "1-H5eT-kSMcW5IsCuBcXTepSNAipMVMqU",
+                    "mimeType": "application/pdf",
+                    "size": "2110358"
+                  },
+                  {
+                    "name": "4.acustica-_Ondas_sonoras_e_efeito_Doppler03-078-2017.pdf",
+                    "type": "file",
+                    "id": "1hJS4OiwFrgmc9USepeD3YrKaql4oMJ-s",
+                    "mimeType": "application/pdf",
+                    "size": "2865380"
+                  },
+                  {
+                    "name": "3.2_Problemas_efecto_dopler.pdf",
+                    "type": "file",
+                    "id": "1Ehri-XjqqHWEw0V3iCgl2vjZicS2Zo3d",
+                    "mimeType": "application/pdf",
+                    "size": "278122"
+                  },
+                  {
+                    "name": "3.1_Problemas_de_sonido.pdf",
+                    "type": "file",
+                    "id": "1uhcwtKQpiDAPmZjVNCRVxZmgUG9lLJ02",
+                    "mimeType": "application/pdf",
+                    "size": "584316"
+                  },
+                  {
+                    "name": "vibraciones_problemas.pdf",
+                    "type": "file",
+                    "id": "1e2fv1QEJ16w-UcQ6aBozzSmlPw71lKaO",
+                    "mimeType": "application/pdf",
+                    "size": "86215"
+                  },
+                  {
+                    "name": "vibraciones_y_ondas.pdf",
+                    "type": "file",
+                    "id": "1zisEYJWbn2yG3p_vlWclVoImxNjXQmbk",
+                    "mimeType": "application/pdf",
+                    "size": "1668373"
+                  },
+                  {
+                    "name": "3._Movimiento-ondulatorio.pdf",
+                    "type": "file",
+                    "id": "1wgF4rJhmADv2Ph96yhBw5O2cOv6pCIEz",
+                    "mimeType": "application/pdf",
+                    "size": "2302209"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_12",
+                "type": "folder",
+                "id": "1mg9lkQob05_dxB0DDLynWxFAFKckGJW8",
+                "children": [
+                  {
+                    "name": "1._Movimiento-oscilatorio.pdf",
+                    "type": "file",
+                    "id": "1bJPnB-WjsQFX4DEHQOtmKPVfS5ykzKn4",
+                    "mimeType": "application/pdf",
+                    "size": "853547"
+                  },
+                  {
+                    "name": "1.1_aplicaciones_de_clase_06.06.23.pdf",
+                    "type": "file",
+                    "id": "1JGf92ABlMmOzfeFjBo04-cs7gg2OwqAS",
+                    "mimeType": "application/pdf",
+                    "size": "113406"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_11",
+                "type": "folder",
+                "id": "1MsFjSkPV4uH0c0MXmSIWDSoL1XWvrUjh",
+                "children": [
+                  {
+                    "name": "7.1_problemas_de_hidrodinamica_276.06.23.pdf",
+                    "type": "file",
+                    "id": "1H8PsRwTr9FI_rdwszROXVC-KOHRsxvpI",
+                    "mimeType": "application/pdf",
+                    "size": "624487"
+                  },
+                  {
+                    "name": "7._MECANICA_DE_FLUIDOS.pdf",
+                    "type": "file",
+                    "id": "1tR2IJ3QcwKR2tFMoMhJrl4cflbmnpRd0",
+                    "mimeType": "application/pdf",
+                    "size": "1165394"
+                  },
+                  {
+                    "name": "6._Aplicaciones_uni.pdf",
+                    "type": "file",
+                    "id": "1j04P0QhlSBj0oW0udp4aGypIUuRVUCEI",
+                    "mimeType": "application/pdf",
+                    "size": "178793"
+                  },
+                  {
+                    "name": "5.1_fluidos_1.1.pdf",
+                    "type": "file",
+                    "id": "16ckQ5nI27FTkek1t2_vra8zmJWbMpU_b",
+                    "mimeType": "application/pdf",
+                    "size": "1126400"
+                  },
+                  {
+                    "name": "5._problemas_hidroestatica_uni_21.05.25.pdf",
+                    "type": "file",
+                    "id": "1IOEP5shDh9iAB_OFOW1nAA_laKxTqAOm",
+                    "mimeType": "application/pdf",
+                    "size": "871116"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_10",
+                "type": "folder",
+                "id": "1FRnOfsYGjtTSiBoAHtkvLE2pbzyS6Hhp",
+                "children": [
+                  {
+                    "name": "5._problemas_hidroestatica_uni_21.05.25.pdf",
+                    "type": "file",
+                    "id": "10JDwQTqPMwlUoi_k-EXuv_oAN9-mgyCt",
+                    "mimeType": "application/pdf",
+                    "size": "871116"
+                  },
+                  {
+                    "name": "fluidos_1.pdf",
+                    "type": "file",
+                    "id": "1YHJReWTMvlaNU9LEsrRWaUzHWgPv0Rdz",
+                    "mimeType": "application/pdf",
+                    "size": "1297655"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_7",
+                "type": "folder",
+                "id": "1lAsHcgL07HzYPGPLrR4K4MGonVwQRdbO",
+                "children": [
+                  {
+                    "name": "2.1_SEMANA_12_-_trabajo_y_energia.pdf",
+                    "type": "file",
+                    "id": "16ApRqr8NY968IO0OwAo43KkRdpvqBGh_",
+                    "mimeType": "application/pdf",
+                    "size": "242005"
+                  },
+                  {
+                    "name": "3._lista_de_ejerciccion_-_trabajo_y_energia_no_consevativo.pdf",
+                    "type": "file",
+                    "id": "1_ySTdO4qegi5Ra7QwhMzQ_M01fs3Ml8k",
+                    "mimeType": "application/pdf",
+                    "size": "572286"
+                  },
+                  {
+                    "name": "2.2_Energia-Trabalho_no_conservativo_05.05.26.pdf",
+                    "type": "file",
+                    "id": "1WuoP6uQ5P28uaH_W6pMvjoHVcHa7IkSg",
+                    "mimeType": "application/pdf",
+                    "size": "537953"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_9",
+                "type": "folder",
+                "id": "1ZX9jB92bi0cNqfw0kjh-skWZ7IRc_uf_",
+                "children": [
+                  {
+                    "name": "4.1._sistema_de_particulas.pdf",
+                    "type": "file",
+                    "id": "1NcHrxGdEHd7SDFSdXgvT_LTzHvTiabHJ",
+                    "mimeType": "application/pdf",
+                    "size": "5125521"
+                  },
+                  {
+                    "name": "3._impulso-e-quantidade-de-movimento.pdf",
+                    "type": "file",
+                    "id": "1g6iW4-q-gw1LxK8pH2nF44mYxe-CAdf4",
+                    "mimeType": "application/pdf",
+                    "size": "2004196"
+                  },
+                  {
+                    "name": "4._TAREA_DOMICILIARIA_N_8-cantidad_de_movimiento_e_impulso.pdf",
+                    "type": "file",
+                    "id": "12-wmdrb8XCqXIAGOyrmPX88McKMTJncX",
+                    "mimeType": "application/pdf",
+                    "size": "198958"
+                  },
+                  {
+                    "name": "2._cantidad_de_movimiento1.pdf",
+                    "type": "file",
+                    "id": "1QjpK5BhXk4Kn2t5ivh4i4WCuC75B4Y9c",
+                    "mimeType": "application/pdf",
+                    "size": "905915"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_6",
+                "type": "folder",
+                "id": "1KxgfTnqKq1uCtI0JKxkuaYBABXv48rAO",
+                "children": [
+                  {
+                    "name": "1.Elasticida-_esfuerzo_clase_28.04.26.pdf",
+                    "type": "file",
+                    "id": "1H9GqwJoauLXSfyrwcR2VXRuwMMDp0CgT",
+                    "mimeType": "application/pdf",
+                    "size": "1900776"
+                  },
+                  {
+                    "name": "2._Problemas_de_elasrticidad.pdf",
+                    "type": "file",
+                    "id": "1bT-iEtzDkMNGflhTCaotrT_hNH5X7Avc",
+                    "mimeType": "application/pdf",
+                    "size": "390781"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_5",
+                "type": "folder",
+                "id": "1BN25zqhbXbzonUAUceEPaX1X-Uiand43",
+                "children": [
+                  {
+                    "name": "1.1.1_ESTATICA_II_PROBLEMAS.pdf",
+                    "type": "file",
+                    "id": "10G8lOX4trMBli1UrA2ua18ttgjVovBNn",
+                    "mimeType": "application/pdf",
+                    "size": "1964830"
+                  },
+                  {
+                    "name": "2._semana_6-FISICA_1-estatia_1.pdf",
+                    "type": "file",
+                    "id": "1EYOpGhztwUWHMWVawpdouaTcaV-_kUKY",
+                    "mimeType": "application/pdf",
+                    "size": "2737382"
+                  },
+                  {
+                    "name": "2._ESTATICA_III.pdf",
+                    "type": "file",
+                    "id": "1PLdMC0xct_4kyetYwOaquqzg0tSkjMHv",
+                    "mimeType": "application/pdf",
+                    "size": "2781778"
+                  },
+                  {
+                    "name": "2._semana_6-FISICA_1-estatia_1_(1).pdf",
+                    "type": "file",
+                    "id": "1yGRpJPc64r5NhZk7tVzi0YDyZ8JUoIJX",
+                    "mimeType": "application/pdf",
+                    "size": "2737231"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_3",
+                "type": "folder",
+                "id": "1bF3zA3eKFWRG24AWb52GG610CAwLXVbr",
+                "children": [
+                  {
+                    "name": "5._Movimiento_compuesto_MPCL.pdf",
+                    "type": "file",
+                    "id": "1UZSWvEDfouAn1icLXGW13ACpOsgXr5oG",
+                    "mimeType": "application/pdf",
+                    "size": "1270101"
+                  },
+                  {
+                    "name": "6._problema_parabolico.pdf",
+                    "type": "file",
+                    "id": "1i2bFZelxDV4T4PqCMBmoJLwl7vjhL6CO",
+                    "mimeType": "application/pdf",
+                    "size": "341282"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_2",
+                "type": "folder",
+                "id": "1Alogz-88WPa46G8vd5VRRXyoYRlGMd4D",
+                "children": [
+                  {
+                    "name": "1._derivada-cinematica-jcra.pdf",
+                    "type": "file",
+                    "id": "1dgMVqMEdgEg21WBWWgSEqoz2zNzQAN_h",
+                    "mimeType": "application/pdf",
+                    "size": "879590"
+                  },
+                  {
+                    "name": "3._caida_libre.pdf",
+                    "type": "file",
+                    "id": "1TZFgnNd6-Tms_EEcz1bABfKNPk5rnvpM",
+                    "mimeType": "application/pdf",
+                    "size": "1653035"
+                  },
+                  {
+                    "name": "reforzamiento_-MRUV-UNI.pdf",
+                    "type": "file",
+                    "id": "1eZbmuSUIbHusHuNEQApXfsm1FbfkWVxr",
+                    "mimeType": "application/pdf",
+                    "size": "205117"
+                  },
+                  {
+                    "name": "CINEMATICA_II_-_Física_1_-_01-04-26.pdf",
+                    "type": "file",
+                    "id": "1UsD9zvcCu_7Yeb39j0wkrJFD_Pfhb_FC",
+                    "mimeType": "application/pdf",
+                    "size": "1297553"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_1",
+                "type": "folder",
+                "id": "1epni-xOZEQI4JqNiwthghp19J_XLlPVM",
+                "children": [
+                  {
+                    "name": "ejercicios_de_fisica_1_uni.pdf",
+                    "type": "file",
+                    "id": "1LgLwaZgX9juQQyLqjhNrhBwvSe0d6IXw",
+                    "mimeType": "application/pdf",
+                    "size": "2707602"
+                  },
+                  {
+                    "name": "UNI_-_FÍSICA1-CLASE_1.pdf",
+                    "type": "file",
+                    "id": "1t0ydjAMzmEzkmxFwoZuaYKOt5KhdDEyk",
+                    "mimeType": "application/pdf",
+                    "size": "4382615"
+                  },
+                  {
+                    "name": "PRODUCTO-VECTORIAL-IET_jcra.pdf",
+                    "type": "file",
+                    "id": "1P0HreNk5Gg_HrqgGA3-osrXz7p23J-SI",
+                    "mimeType": "application/pdf",
+                    "size": "367205"
+                  },
+                  {
+                    "name": "VECTORES-IET-jcra.pdf",
+                    "type": "file",
+                    "id": "13jbFb7PBcPM5qAWoT3m-2hz67SFInARy",
+                    "mimeType": "application/pdf",
+                    "size": "474503"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "San_Bartolomé",
+            "type": "folder",
+            "id": "1FhsWhE_h-uTS1J9SAdChRxrM9WE_9vvY",
+            "children": [
+              {
+                "name": "Semana_5_-_Dinámica_de_una_partícula",
+                "type": "folder",
+                "id": "1aBrYwKARrygTz2K4iiXEB1utx3vqs8z2",
+                "children": [
+                  {
+                    "name": "PRACTICA_DIRIGIDA_Nº07_DINÁMICA_DE_UNA_PARTICULA_COORDENADAS_CARTESIANAS_UNI.pdf",
+                    "type": "file",
+                    "id": "1h_oEnHJ4C-8z8v7jtuQu_2fKIJuKYJR0",
+                    "mimeType": "application/pdf",
+                    "size": "263610"
+                  },
+                  {
+                    "name": "SESION_VII_LEYES_DEL_MOVIMIENTO_DE_NEWTON_UNI.pdf",
+                    "type": "file",
+                    "id": "17TJf8Dpyo28bLe7myM41TgG4lkq-NN6_",
+                    "mimeType": "application/pdf",
+                    "size": "527725"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_4_-_Cinemática_en_coordenadas_curvilineas",
+                "type": "folder",
+                "id": "1ckcbCeSZNHd90Fhws6ShpaCLLS6rKtcS",
+                "children": [
+                  {
+                    "name": "SESION_VI_CINEMATICA_EN_COORDENADAS_CURVILINEAS_UNI_.pdf",
+                    "type": "file",
+                    "id": "1vXGv8onR1Ev5VzeqsA8W3HpDFVSvzbjl",
+                    "mimeType": "application/pdf",
+                    "size": "2033615"
+                  },
+                  {
+                    "name": "PRACTICA_DIRIGIDA_Nº06-MOVIMIENTO_COORDENADAS_CURVILÍNEAS-UNI.pdf",
+                    "type": "file",
+                    "id": "13t5_lemYR8W72_JfAa-fzyzAl0gegI00",
+                    "mimeType": "application/pdf",
+                    "size": "380095"
+                  },
+                  {
+                    "name": "PRIMERA_PRÁCTICA_CALIFICADA-BFI_01-A-2023-I.pdf",
+                    "type": "file",
+                    "id": "1Nr6DsR5hkmv_nLg0VoseZvWR_acuz8nY",
+                    "mimeType": "application/pdf",
+                    "size": "186302"
+                  },
+                  {
+                    "name": "PRACTICA_DIRIGIDA_Nº05-MOVIMIENTO_UNIDIMENSIONAL_Y_PARABOLICO.pdf",
+                    "type": "file",
+                    "id": "1D_6cIUbp-Kmu-s_W4ajgUc8RpIQjd2V6",
+                    "mimeType": "application/pdf",
+                    "size": "369119"
+                  },
+                  {
+                    "name": "SOLUCIONARIO_PRIMERA_PRACTICA_CALIFICADA-BFI_01-A-2023-I.pdf",
+                    "type": "file",
+                    "id": "1BNv7ooebwlbI4bF2TAxJLFwLo-Cl7xRd",
+                    "mimeType": "application/pdf",
+                    "size": "422880"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_2_-_Equilibrio_Estático",
+                "type": "folder",
+                "id": "1Hc4XaKQH-MSC__GVwAn1UprfkI9SHMKX",
+                "children": [
+                  {
+                    "name": "PRUEBA_DE_ENTRADA-BFI_01-A-2023-I.pdf",
+                    "type": "file",
+                    "id": "1J3yrvtdzLMJp5eSzQjJRhqzw1cH-uAGS",
+                    "mimeType": "application/pdf",
+                    "size": "175198"
+                  },
+                  {
+                    "name": "SESION_IV_EQUILIBRIO_ESTATICO_UNI.pdf",
+                    "type": "file",
+                    "id": "1ALz1mPw0fFaRf2y3wKBoQ2lnCoS5P7qB",
+                    "mimeType": "application/pdf",
+                    "size": "1572507"
+                  },
+                  {
+                    "name": "PRACTICA_DIRIGIDA_Nº04_-_EQUILIBRIO_ESTÁTIC0-UNI.pdf",
+                    "type": "file",
+                    "id": "1Lp0LHF_39RW1c-ioeOuk1KiPzd3WmK41",
+                    "mimeType": "application/pdf",
+                    "size": "355832"
+                  },
+                  {
+                    "name": "SOLUCIÓN_PRUEBA_DE_ENTRADA-BFI_01-A-2023-I.pdf",
+                    "type": "file",
+                    "id": "1AieAL4jYac0z63j80CM54N43rA8wjc8m",
+                    "mimeType": "application/pdf",
+                    "size": "266101"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_10_-_Mecánica_de_fluidos",
+                "type": "folder",
+                "id": "194cn4mKtoajUNkNUuIlX5sIFmASg46aN",
+                "children": [
+                  {
+                    "name": "PRACTICA_DIRIGIDA_Nº12_MECANICA_DE_FLUIDOS-UNI.pdf",
+                    "type": "file",
+                    "id": "1k1bE-7QWzcWcnuxEGIvtGupwL-WxzZzR",
+                    "mimeType": "application/pdf",
+                    "size": "232098"
+                  },
+                  {
+                    "name": "SESION_XII_MECANICA_DE_FLUIDOS-UNI.pdf",
+                    "type": "file",
+                    "id": "1FOS_ahW4taIBFPGc24j0-4ktKpiQZGjo",
+                    "mimeType": "application/pdf",
+                    "size": "1528966"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_6_-_Dinámica_curvilínea_-_Leyes_de_Newton",
+                "type": "folder",
+                "id": "1_18eZc7v1xKvatwSsmDOoaWmsMNNbA6q",
+                "children": [
+                  {
+                    "name": "SEGUNDA_PRÁCTICA_CALIFICADA-BFI_01-A-2023-I.pdf",
+                    "type": "file",
+                    "id": "1SeZiN1Hig4dCk1ZsxYmRgx2fNiJIeI-k",
+                    "mimeType": "application/pdf",
+                    "size": "170570"
+                  },
+                  {
+                    "name": "SOLUCIONARIO_SEGUNDA_PRÁCTICA_CALIFICADA-BFI_01-A-2023-I.pdf",
+                    "type": "file",
+                    "id": "1ZZNdypWrL0Bb7eu0fmRl7sFSQxMMBsjR",
+                    "mimeType": "application/pdf",
+                    "size": "495800"
+                  },
+                  {
+                    "name": "PRACTICA_DIRIGIDA_Nº08_DINAMICA_EN_COORDENADAS_CURVILINEAS_UNI.pdf",
+                    "type": "file",
+                    "id": "1b7_ttOZYcZnrEhBOBcruXhTiOcHWjInt",
+                    "mimeType": "application/pdf",
+                    "size": "274463"
+                  },
+                  {
+                    "name": "SESION_VIII_MOVIMIENTO_CURVILIENO_2da_LEY_de_NEWTON_UNI.pdf",
+                    "type": "file",
+                    "id": "1p_P6JdD3_kVzH-jMIuw9QO0y3UToSQ4J",
+                    "mimeType": "application/pdf",
+                    "size": "1281592"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_9_-_Sistema_de_partículas",
+                "type": "folder",
+                "id": "1e4bSy0qiTmDgdMNE2xJsPp9b3QZZKf2a",
+                "children": [
+                  {
+                    "name": "PRACTICA_DIRIGIDA_Nº11_IMPULSO_Y_MOMENTO_LINEAL,CM-UNI.pdf",
+                    "type": "file",
+                    "id": "15qt8ZCnQJ799U_BvXCW3Q69bSV-1qHXp",
+                    "mimeType": "application/pdf",
+                    "size": "339701"
+                  },
+                  {
+                    "name": "SESION_XI_SISTEMA_DE_PARTICULAS_,MOMENTO_LINEAL,_COLISIONES,CM-UNI.pdf",
+                    "type": "file",
+                    "id": "1SOktqmNOHpH6avdA2mZ7rI_S3vFPEUJQ",
+                    "mimeType": "application/pdf",
+                    "size": "1260821"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_13_-_Ondas_sonoras_Doppler_-_Sobreposición",
+                "type": "folder",
+                "id": "1_fLY8C9vzl24MNHXOMKrW31VmnUu_9yE",
+                "children": [
+                  {
+                    "name": "SESION_XIV_MOVIMIENTO_ONDULATORIO-ONDAS_SONORAS-DOPPLER-SOBREPOSICIÓN-UNI.pdf",
+                    "type": "file",
+                    "id": "1D5MvL0cuHwjIVckInygmexGSPX65GNwI",
+                    "mimeType": "application/pdf",
+                    "size": "2250735"
+                  },
+                  {
+                    "name": "PRACTICA_DIRIGIDA_Nº14_MOVIMIENTO_ONDULATORIO_ONDAS_SONORAS-UNI.pdf",
+                    "type": "file",
+                    "id": "1vnc7207ymTfJHttU4Uv9i9dCreh4dls3",
+                    "mimeType": "application/pdf",
+                    "size": "1421976"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_3_-_Movimiento_en_una_y_dos_dimensiones",
+                "type": "folder",
+                "id": "1NeTbhX-CFv_eYhI-iD01OEOs5QbuAAyg",
+                "children": [
+                  {
+                    "name": "PRACTICA_DIRIGIDA_Nº05-MOVIMIENTO_UNIDIMENSIONAL_Y_PARABOLICO.docx",
+                    "type": "file",
+                    "id": "1XI-DyrNRyVMpchT-zc2Dhc10RXQudF7X",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "613776"
+                  },
+                  {
+                    "name": "SESION_V_MOVIMIENTO_EN_UNA_Y_DOS_DIMENSIONES_UNI.pdf",
+                    "type": "file",
+                    "id": "1rcu-Ay6xde-SOHWrC6mvc4UQCcBrvI-D",
+                    "mimeType": "application/pdf",
+                    "size": "4454003"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_7_-_Trabajo_y_energía",
+                "type": "folder",
+                "id": "1tArX8tz7h1HESp1VJb0ovCYSMD9nhlyd",
+                "children": [
+                  {
+                    "name": "SESION_IX_TRABAJO_Y_ENERGIA_I_UNI_.pdf",
+                    "type": "file",
+                    "id": "1n9T8V9R41hYh-DWrBXMCJtrfXTF14OjW",
+                    "mimeType": "application/pdf",
+                    "size": "764053"
+                  },
+                  {
+                    "name": "PRACTICA_DIRIGIDA_Nº09_TRABAJO_Y_ENERGIA_CINETICA_UNI.pdf",
+                    "type": "file",
+                    "id": "1R9-fsi-enDkmTdz4QDKN-45cxrL1O3mb",
+                    "mimeType": "application/pdf",
+                    "size": "308785"
+                  },
+                  {
+                    "name": "PRACTICA_DIRIGIDA_Nº10_CONSERVACION_DE_ENERGÍA_MECANICA_UNI.pdf",
+                    "type": "file",
+                    "id": "1mQLDKNO1qgtwSUXZaBZSB2Sl1sJ_G_KB",
+                    "mimeType": "application/pdf",
+                    "size": "311447"
+                  },
+                  {
+                    "name": "SESION_X_ENERGIA_POTENCIAL_Y_CONSERVACION_UNI.pdf",
+                    "type": "file",
+                    "id": "1Zwc2iiR5_3rJKcyHAwI40enVhmmUgyei",
+                    "mimeType": "application/pdf",
+                    "size": "1085570"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_1_-_Álgebra_Vectorial",
+                "type": "folder",
+                "id": "1nwQxZ2OlTYHZMn0fGWs9R6e8E889gsCq",
+                "children": [
+                  {
+                    "name": "PRACTICA_DIRIGIDA_Nº01,_N°02,_N°03_MEDICIÓN_Y_ALGEBRA_DE_VECTORES.pdf",
+                    "type": "file",
+                    "id": "1Vk28bVb9oDk_oOw9FShp9MqTDN0ccD65",
+                    "mimeType": "application/pdf",
+                    "size": "459723"
+                  },
+                  {
+                    "name": "SESION_II_Y_SESIÓN_III_VECTORES_EN_EL_PLANO_Y_EL_ESPACIO_UNI.pdf",
+                    "type": "file",
+                    "id": "19VTtXLHaF88bhDXWq8hLMhXSW3_kzg8K",
+                    "mimeType": "application/pdf",
+                    "size": "2039646"
+                  },
+                  {
+                    "name": "PPT_SESION_I,II_Y_III.pdf",
+                    "type": "file",
+                    "id": "1qIM-m01RNL3u8SSkhxcVxcbRGU7txJCj",
+                    "mimeType": "application/pdf",
+                    "size": "2195671"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_15_-_Leyes_de_la_termodinámica",
+                "type": "folder",
+                "id": "1OWhJCAuInqeUC_-DMs-m020uwfZOzF9v",
+                "children": [
+                  {
+                    "name": "QUINTA_PRÁCTICA_CALIFICADA-BFI_01-A-2023-I.pdf",
+                    "type": "file",
+                    "id": "1F6RN69OQVd-IyiqB_Xq53i7bIrqEykqI",
+                    "mimeType": "application/pdf",
+                    "size": "189944"
+                  },
+                  {
+                    "name": "SESION_XVI_PRIMERA_Y_SEGUNDA_LEY_DE_LA_TERMODINAMICA-UNI.pdf",
+                    "type": "file",
+                    "id": "10QPRGpTp2rjt8kWfTfB20yWvKNT27-K2",
+                    "mimeType": "application/pdf",
+                    "size": "1152437"
+                  },
+                  {
+                    "name": "PRACTICA_DIRIGIDA_Nº16_TERMODINAMICA-APLICACIONES-UNI.pdf",
+                    "type": "file",
+                    "id": "1-ATucEa6UvlYPsTrKccsDCjg0LFif4Yz",
+                    "mimeType": "application/pdf",
+                    "size": "224598"
+                  },
+                  {
+                    "name": "SOLUCIÓN_QUINTA_PRÁCTICA_CALIFICADA-BFI_01-A-2023-I.pdf",
+                    "type": "file",
+                    "id": "1TMjeAY5-PRcs6ONd9TaC1od_ssflmq1_",
+                    "mimeType": "application/pdf",
+                    "size": "447545"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_12_-_Movimiento_ondulatorio_-_Ondas_sonoras",
+                "type": "folder",
+                "id": "1HjnvOyTpMnJWQIjc_y9xlNI01Dq7BiDV",
+                "children": [
+                  {
+                    "name": "PRACTICA_DIRIGIDA_Nº14_MOVIMIENTO_ONDULATORIO_ONDAS_SONORAS-UNI.pdf",
+                    "type": "file",
+                    "id": "1jwWgpb6CXF03h6MtSt1V-qZmVhV0QeJN",
+                    "mimeType": "application/pdf",
+                    "size": "722241"
+                  },
+                  {
+                    "name": "SESION_XIV_MOVIMIENTO_ONDULATORIO-ONDAS_SONORAS-UNI.pdf",
+                    "type": "file",
+                    "id": "1j4Y_fVrbn4Djgp9qa2m7KDj12d1v64bX",
+                    "mimeType": "application/pdf",
+                    "size": "1401606"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_11_-_Oscilaciones_-_MAS_-_Amortiguamiento",
+                "type": "folder",
+                "id": "1C08tI79rzuGHnBr5GteEsHJay-0RosD1",
+                "children": [
+                  {
+                    "name": "TERCERA_PRÁCTICA_CALIFICADA-BFI_01-A-2023-I.pdf",
+                    "type": "file",
+                    "id": "1ccZq4FMZZI1c9xANvrT1w1l_xKl39rD4",
+                    "mimeType": "application/pdf",
+                    "size": "193761"
+                  },
+                  {
+                    "name": "PRACTICA_DIRIGIDA_Nº13_OSCILACIONES-MAS-SISTEMAS_AMORTIGUADAS-UNI.pdf",
+                    "type": "file",
+                    "id": "1nu28qdlGF1uRNmr79ZPF7WJq9pW9tUg0",
+                    "mimeType": "application/pdf",
+                    "size": "584275"
+                  },
+                  {
+                    "name": "SESION_XIII_OSCILACIONES-MAS-SISTEMAS_AMORTIGUADOS-UNI.pdf",
+                    "type": "file",
+                    "id": "1BjCjR2DpgVgpikcmF_I66DVrQ3ASPJIU",
+                    "mimeType": "application/pdf",
+                    "size": "1122425"
+                  },
+                  {
+                    "name": "SOLUCIÓN_TERCERA_PRÁCTICA_CALIFICADA-BFI_01-A-2023-I.pdf",
+                    "type": "file",
+                    "id": "1FN6Q6pCM9ieAiY_issy77n7gj0m7sCqh",
+                    "mimeType": "application/pdf",
+                    "size": "351213"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_14_-_Temperatura_y_calor",
+                "type": "folder",
+                "id": "15-Bnz-zya1j6176gctlwlrmtBkFhmNgV",
+                "children": [
+                  {
+                    "name": "SOLUCIONARIO_CUARTA_PRÁCTICA_CALIFICADA-BFI_01-A-2023-I.pdf",
+                    "type": "file",
+                    "id": "1amFsx5lMnItZlkefmDfQFB4mzXk-CFCK",
+                    "mimeType": "application/pdf",
+                    "size": "467920"
+                  },
+                  {
+                    "name": "PRACTICA_DIRIGIDA_Nº15_TEMPERATURA_Y_CALOR_PROPIEDADES_TERMICAS_DE_LA_MATERIA-UNI.pdf",
+                    "type": "file",
+                    "id": "1rsZkY-WJ5kzr3DnGZSTSiwJWxXfcxMl-",
+                    "mimeType": "application/pdf",
+                    "size": "251212"
+                  },
+                  {
+                    "name": "SESION_XV_TEMPERATURA_Y_CALOR_PROPIEDADES_TERMICAS_DE_LA_MATERIA-UNI.pdf",
+                    "type": "file",
+                    "id": "1jJIB9Vhd6fvAVnSaYLoPG6dA8Nn4l6zM",
+                    "mimeType": "application/pdf",
+                    "size": "1692847"
+                  },
+                  {
+                    "name": "CUARTA_PRÁCTICA_CALIFICADA-BFI_01-A-2023-I.pdf",
+                    "type": "file",
+                    "id": "1K0XbEB6_0LbJmn34vOVr--v7UFO3zrCe",
+                    "mimeType": "application/pdf",
+                    "size": "135504"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Valdivia",
+            "type": "folder",
+            "id": "1fP5DWCEPBUOU-xDNaRyTKd8yHGwMGWk2",
+            "children": [
+              {
+                "name": "PPTs_de_Valdivia",
+                "type": "folder",
+                "id": "13V-h9w19lcop7R-ErjFxcXb7s-f3lthZ",
+                "children": [
+                  {
+                    "name": "01BFI01-unidad1-vectores-1.pdf",
+                    "type": "file",
+                    "id": "1lR_WMGyjjXxQLPF5lp7KzeloofWbQm0C",
+                    "mimeType": "application/pdf",
+                    "size": "1106412"
+                  },
+                  {
+                    "name": "02BFI01-unidad2-_cinematica-1.pdf",
+                    "type": "file",
+                    "id": "1OZ6ViYnLN-nmnx593Wn6mKG6q86-GG9X",
+                    "mimeType": "application/pdf",
+                    "size": "1423958"
+                  },
+                  {
+                    "name": "03BFI01-unidad3-estatica.pdf",
+                    "type": "file",
+                    "id": "1seUsNKER76ais_wzbRiGg7Fly38UcARg",
+                    "mimeType": "application/pdf",
+                    "size": "1488801"
+                  },
+                  {
+                    "name": "05BFI01-unidad5-teo_conservación1P.pdf",
+                    "type": "file",
+                    "id": "1jhC-cvUfX2l3TZHpkWcW6a322-anUQoi",
+                    "mimeType": "application/pdf",
+                    "size": "1123366"
+                  },
+                  {
+                    "name": "04BFI01-unidad4-dinamica-1.pdf",
+                    "type": "file",
+                    "id": "1L-i5hQSsUfr4gsy8aL8-3MKKnbdJUvc-",
+                    "mimeType": "application/pdf",
+                    "size": "906824"
+                  },
+                  {
+                    "name": "06BFI01-unidad6--sistemas_de_particulas.pdf",
+                    "type": "file",
+                    "id": "1M-VG8xvIAQIweOJVUlhAO3eqKj1urVYi",
+                    "mimeType": "application/pdf",
+                    "size": "1446547"
+                  },
+                  {
+                    "name": "09BFI01-UNIDAD_9-Calor_y_termodinanica.pdf",
+                    "type": "file",
+                    "id": "1ZVKpQUAAn6bvx1gPifCCz2gBkf8DzfpI",
+                    "mimeType": "application/pdf",
+                    "size": "2784690"
+                  },
+                  {
+                    "name": "07BFI01-UNIDAD_7-FLUIDOS_ESTÁTICA.pdf",
+                    "type": "file",
+                    "id": "1OUu6x1uot7rTlAmRoZZTI-n566mVl9Do",
+                    "mimeType": "application/pdf",
+                    "size": "1429997"
+                  },
+                  {
+                    "name": "08BFI01-UNIDAD_8-VIBRACIONES_y_ONDAS.pdf",
+                    "type": "file",
+                    "id": "1QpP07p0EZFyc9U-JM6i6c5JoSDKay0yO",
+                    "mimeType": "application/pdf",
+                    "size": "2362778"
+                  }
+                ]
+              },
+              {
+                "name": "LOS_5_TEST_DE_LOS_LABORATORIOS_DE_FISICA_1_VALDIVIA.pdf",
+                "type": "file",
+                "id": "1Wj-Tf7DEG7sNCFEPyA9aRddkN8CBBsMn",
+                "mimeType": "application/pdf",
+                "size": "1011375"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Guías_de_laboratorio",
+        "type": "folder",
+        "id": "18cKSYDkLDsL172LL0rL1qdB4hUi1rDz8",
+        "children": [
+          {
+            "name": "Guia_de_laboratorio_alternativa_de_Física_1.pdf",
+            "type": "file",
+            "id": "1CtZhLPQyDOCaVr0gpGOynz7hgfXy_ZdP",
+            "mimeType": "application/pdf",
+            "size": "2364818"
+          },
+          {
+            "name": "Reportes_de_Laboratorio_26-1_(Bartolomé).pdf",
+            "type": "file",
+            "id": "1Ds1pI-rjYKAC7uYL06cDGlXR3PbYUvEL",
+            "mimeType": "application/pdf",
+            "size": "1364583"
+          },
+          {
+            "name": "2.2-SEGUNDA_LEY_DE_NEWTON.pdf",
+            "type": "file",
+            "id": "1pjguWo_ShgqvnTeUUnrlXZjnX9eG6Mf6",
+            "mimeType": "application/pdf",
+            "size": "1587485"
+          },
+          {
+            "name": "3-PENDULO_FISICO_Y_TEOREMA_DE_STEINER.pdf",
+            "type": "file",
+            "id": "1Awh5TiQTYgGSYAaZFD2vVnDAwO7cjIAF",
+            "mimeType": "application/pdf",
+            "size": "2058771"
+          },
+          {
+            "name": "1-MEDICION.pdf",
+            "type": "file",
+            "id": "1vJgPOS9AW2SXc3TWahQVWgJjMdObiR3c",
+            "mimeType": "application/pdf",
+            "size": "10040385"
+          },
+          {
+            "name": "2.1-VECTORES_VELOCIDAD_Y_ACELERACION_INSTANTANEAS.pdf",
+            "type": "file",
+            "id": "14whJTms7U72erMxOzWaEQLvVF8P0bRoK",
+            "mimeType": "application/pdf",
+            "size": "2117003"
+          },
+          {
+            "name": "5-CALOR_ESPECIFICO_DE_SOLIDOS.pdf",
+            "type": "file",
+            "id": "1KTeXYxbii6UnDs6DHTL5yHsnpD4sm5Kv",
+            "mimeType": "application/pdf",
+            "size": "556534"
+          },
+          {
+            "name": "4-DENSIDAD_Y_TENSION_SUPERFICIAL.pdf",
+            "type": "file",
+            "id": "1wioJY5M9iSsPMtJlvDEGB0fiVDzUors1",
+            "mimeType": "application/pdf",
+            "size": "3483622"
+          }
+        ]
+      },
+      {
+        "name": "Agradecimientos",
+        "type": "file",
+        "id": "1mkaRQnb8ukAftiQTaSDE9q4m79p_aBLHbjheJR-F1lA",
+        "mimeType": "application/vnd.google-apps.document",
+        "size": "1024"
+      },
+      {
+        "name": "Libros",
+        "type": "folder",
+        "id": "1russMavte7f7W9xkYkOghy38IJvnQ2SR",
+        "children": [
+          {
+            "name": "5._Giancoli_Vol1.pdf",
+            "type": "file",
+            "id": "1nIvqP24Bxf9Nn4hXSR0oum6fNUL0gtt9",
+            "mimeType": "application/pdf",
+            "size": "37538293"
+          },
+          {
+            "name": "Bedford_Fowler_5ed_Estática_-_Mecánica_para_IngenieríaSOL.pdf",
+            "type": "file",
+            "id": "1LWqInJ7BnvJUTFWGY66ODiOWCi6pSJU3",
+            "mimeType": "application/pdf",
+            "size": "495811624"
+          },
+          {
+            "name": "Ingenieria_Mecanica_Estática_HibbelerSOL.pdf",
+            "type": "file",
+            "id": "1qpnmt_0HKvHJ6f0rZkuK6KoEg9uJ9R-d",
+            "mimeType": "application/pdf",
+            "size": "22242551"
+          },
+          {
+            "name": "Ingenieria_Mecanica_Dinamica_HibbelerSOL.pdf",
+            "type": "file",
+            "id": "1g2oakPuUVufJGpmpZQOnVg9ycBT0bwBU",
+            "mimeType": "application/pdf",
+            "size": "79663138"
+          },
+          {
+            "name": "Ingenieria_Mecanica_Estática_Hibbeler_12va_Ed.pdf",
+            "type": "file",
+            "id": "1KkfGx_XjHhZNB5wwgJPB-aRpRZdBqtFM",
+            "mimeType": "application/pdf",
+            "size": "50184100"
+          },
+          {
+            "name": "Bedford_Fowler_5ed_Estática_-_Mecánica_para_Ingeniería.pdf",
+            "type": "file",
+            "id": "1TDBkZX4dqBmUEPs5ltOJBZaRuNvR6Lp2",
+            "mimeType": "application/pdf",
+            "size": "42000552"
+          },
+          {
+            "name": "Bedford_Fowler_5ed_Dinámica_-_Mecánica_para_IngenieríaSolu.pdf",
+            "type": "file",
+            "id": "1ZCHvFjdLZEEx-owWdceL3SzF4MbHo0a-",
+            "mimeType": "application/pdf",
+            "size": "33170590"
+          },
+          {
+            "name": "Bedford_Fowler_5ed_Dinámica_-_Mecánica_para_Ingeniería.pdf",
+            "type": "file",
+            "id": "15hE_DBmyfyZ9v3afCisZ9fgp7M2fSF_w",
+            "mimeType": "application/pdf",
+            "size": "53322316"
+          },
+          {
+            "name": "4._Serway_solucionario.pdf",
+            "type": "file",
+            "id": "19dBu64E_ak9GUfXMwY56tm_zheGFa6yM",
+            "mimeType": "application/pdf",
+            "size": "15526308"
+          },
+          {
+            "name": "Solucionario_Serway",
+            "type": "folder",
+            "id": "1JtzP9qVsX4PnCvMV5wizwaCkp3e6ibo2",
+            "children": [
+              {
+                "name": "9_Momento_lineal_y_choques.pdf",
+                "type": "file",
+                "id": "1SC_oGWZM22XuxpSC-l4vi1rvvUVv2ws2",
+                "mimeType": "application/pdf",
+                "size": "8840336"
+              },
+              {
+                "name": "8_Energía_potencial_y_conservación_de_la_energía.pdf",
+                "type": "file",
+                "id": "1HGDfM733acWjc013qk8ujThvbXnPpjWC",
+                "mimeType": "application/pdf",
+                "size": "7968995"
+              },
+              {
+                "name": "7_Trabajo_y_energía.pdf",
+                "type": "file",
+                "id": "1PE87akX0ZvT8E5T1MFFlYdBCNEqJCXvK",
+                "mimeType": "application/pdf",
+                "size": "8101339"
+              },
+              {
+                "name": "4_Movimiento_en_dos_dimensiones.pdf",
+                "type": "file",
+                "id": "18sMtYJk8QAQCqvsXTyAwEWDbJYfDe3_p",
+                "mimeType": "application/pdf",
+                "size": "9333474"
+              },
+              {
+                "name": "19_Temperatura.pdf",
+                "type": "file",
+                "id": "1iJVx517PLxTzvFO-08kErRFWeusDJ1zU",
+                "mimeType": "application/pdf",
+                "size": "6759872"
+              },
+              {
+                "name": "18_Superposición_y_ondas_estacionarias.pdf",
+                "type": "file",
+                "id": "1KqCKzgibr8mTGp-GZRCxv71djlaklQb3",
+                "mimeType": "application/pdf",
+                "size": "6017579"
+              },
+              {
+                "name": "2_Movimiento_en_una_dimensión.pdf",
+                "type": "file",
+                "id": "1kPyKPMG3ZD7ZWUYeZ2p4THFn0loqC4YM",
+                "mimeType": "application/pdf",
+                "size": "8361581"
+              },
+              {
+                "name": "17_Ondas_sonoras.pdf",
+                "type": "file",
+                "id": "1-jgQiuND52bMw_i5dYHfhgloYZR0HyWv",
+                "mimeType": "application/pdf",
+                "size": "5524969"
+              },
+              {
+                "name": "11_Movimiento_de_rodamiento_,_momento_angular_y_momento_de_torsión.pdf",
+                "type": "file",
+                "id": "13kY1-A65zL0WmMJQf9BDsDxNIW-kHKO-",
+                "mimeType": "application/pdf",
+                "size": "7167351"
+              },
+              {
+                "name": "22_Máquinas_termicas_y_la_segunda_ley_de_la_termodinámica.pdf",
+                "type": "file",
+                "id": "1VTs8iqzexK3RtwHGUKbOcPJx8TSHeewC",
+                "mimeType": "application/pdf",
+                "size": "6396191"
+              },
+              {
+                "name": "16_Movimiento_ondulatorio.pdf",
+                "type": "file",
+                "id": "1bw4pLouxbwONV3pASS7xs-IPzJIoCTLq",
+                "mimeType": "application/pdf",
+                "size": "5329851"
+              },
+              {
+                "name": "21_La_teoría_cinética_de_los_gases.pdf",
+                "type": "file",
+                "id": "1JTKsFT1SV2TWlpTPGDQoeaEIJeuNz2kG",
+                "mimeType": "application/pdf",
+                "size": "6723757"
+              },
+              {
+                "name": "10_Rotación_de_un_objeto_rígido_alrededor_de_un_eje_fijo.pdf",
+                "type": "file",
+                "id": "1SqL77w2VR_mtH1EqV6OPWNBdeBAduzYv",
+                "mimeType": "application/pdf",
+                "size": "5606815"
+              },
+              {
+                "name": "22_Máquinas_termicas_y_la_segunda_ley_de_la_termodinámica.docx",
+                "type": "file",
+                "id": "1X6BWJpdaa-RjVfIDQLgp8i7Xrz3RpuHQ",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "178371"
+              },
+              {
+                "name": "20_Calor_y_la_primera_ley_de_la_termodinamica.pdf",
+                "type": "file",
+                "id": "1rZD_xUNaEnL9rTUrJvlGjqqGNw28acm5",
+                "mimeType": "application/pdf",
+                "size": "7526527"
+              },
+              {
+                "name": "6_Movimiento_circular_y_otras_aplicaciones_de_las_leyes_de_newton.pdf",
+                "type": "file",
+                "id": "1jOS0vRCB19kqGcPs0IGHsj6pXQupDiw6",
+                "mimeType": "application/pdf",
+                "size": "5471223"
+              },
+              {
+                "name": "3_Vectores.pdf",
+                "type": "file",
+                "id": "10cXOGE2wPe3A_t3p7XhikOYQJemBiqCf",
+                "mimeType": "application/pdf",
+                "size": "4300488"
+              },
+              {
+                "name": "12_Equilibrio_estático_y_elasticidad.pdf",
+                "type": "file",
+                "id": "1uy942Jk9Pp3jIDhfqjtGh_cZRK8uH0b6",
+                "mimeType": "application/pdf",
+                "size": "6840716"
+              },
+              {
+                "name": "5_problemas_de_repaso.pdf",
+                "type": "file",
+                "id": "19RJ42EWtV9m32_lZK1YJUto300jD6n9w",
+                "mimeType": "application/pdf",
+                "size": "9720577"
+              },
+              {
+                "name": "15_Mecánica_de_fluidos.pdf",
+                "type": "file",
+                "id": "1Qovkg7ZKK6tnLJPvpx5zsYuHEj8YQFal",
+                "mimeType": "application/pdf",
+                "size": "6570294"
+              },
+              {
+                "name": "14_Ley_de_la_gravedad.pdf",
+                "type": "file",
+                "id": "1gO8aoePiHP_Y537enhCLLs2e4_611hGO",
+                "mimeType": "application/pdf",
+                "size": "7054087"
+              },
+              {
+                "name": "13_Movimiento_oscilatorio.pdf",
+                "type": "file",
+                "id": "1cadOO9bgK6HC13o_0OlZP5zuV7IlbQWi",
+                "mimeType": "application/pdf",
+                "size": "6970713"
+              }
+            ]
+          },
+          {
+            "name": "Alonso_Finn_Fisica_Vol_I.pdf",
+            "type": "file",
+            "id": "1siJEBhM4s2y23sOxCdFvOGwRBO48WzJl",
+            "mimeType": "application/pdf",
+            "size": "19595201"
+          },
+          {
+            "name": "Ingenieria_Mecanica_Dinamica_Hibbeler_12va_Ed.pdf",
+            "type": "file",
+            "id": "1hM36Lx1boFfi3HuPVj-E5quHz8lJrFZK",
+            "mimeType": "application/pdf",
+            "size": "115668442"
+          },
+          {
+            "name": "3._Sears-Zemansky_Vol2.pdf",
+            "type": "file",
+            "id": "19FiCxOcRxtcbcWQ0xibiGH3Pyh5e5UcI",
+            "mimeType": "application/pdf",
+            "size": "35101865"
+          },
+          {
+            "name": "6.Volkenshtein.pdf",
+            "type": "file",
+            "id": "1TLLis3AfOwpodDoFRLsAKFd1fUNVXB7P",
+            "mimeType": "application/pdf",
+            "size": "48194096"
+          },
+          {
+            "name": "5._Giancoli_Vol2.pdf",
+            "type": "file",
+            "id": "1FwK2MN_rXGpBoHSx1DEzE3Ff1CepgUth",
+            "mimeType": "application/pdf",
+            "size": "22861558"
+          },
+          {
+            "name": "Fisica_1_Hugo_Medina.pdf",
+            "type": "file",
+            "id": "1SSqVgpZ_K1vz42pyydrNhVRpOcPhL9PU",
+            "mimeType": "application/pdf",
+            "size": "4626479"
+          },
+          {
+            "name": "3._Sears-Zemansky_Vol1.pdf",
+            "type": "file",
+            "id": "10uA1PiNDr4xbWpqQcClONvspSKFtSeE_",
+            "mimeType": "application/pdf",
+            "size": "34923849"
+          },
+          {
+            "name": "FS1_Tipler.pdf",
+            "type": "file",
+            "id": "1y16tvZHfO7cKrStA6g1NwB5XxXBeL3O2",
+            "mimeType": "application/pdf",
+            "size": "99145491"
+          },
+          {
+            "name": "FS1_Tipler_Solucionario.pdf",
+            "type": "file",
+            "id": "1rH5uwlYImQ11PKI5HrID7tCFFKAM9B5W",
+            "mimeType": "application/pdf",
+            "size": "23248346"
+          },
+          {
+            "name": "2.Landau-Lifshitz.pdf",
+            "type": "file",
+            "id": "1phsOqdQN6jJyG8t-zzWO6mqNIGX2fPk7",
+            "mimeType": "application/pdf",
+            "size": "9039777"
+          },
+          {
+            "name": "7.Resnick.pdf",
+            "type": "file",
+            "id": "1bCQl_xhg13uEM46X7EJ2MLBF_qv8Mppv",
+            "mimeType": "application/pdf",
+            "size": "36852242"
+          },
+          {
+            "name": "4.Serway.pdf",
+            "type": "file",
+            "id": "1oF66lhEv2eKMZ9HLpGxhrzCXaRccWAXf",
+            "mimeType": "application/pdf",
+            "size": "23350144"
+          },
+          {
+            "name": "FS_MIT_Harmonic_Motion.pdf",
+            "type": "file",
+            "id": "1e4UfSDLs2gH_CGJh9PfXVEYCUpXGXCqb",
+            "mimeType": "application/pdf",
+            "size": "11394886"
+          },
+          {
+            "name": "FS1_Tipler_Mosca.pdf",
+            "type": "file",
+            "id": "1HKbNQdX7S3ig9DPWLiTkOHkbVQ9edprS",
+            "mimeType": "application/pdf",
+            "size": "97947980"
+          },
+          {
+            "name": "Solucionario-de-Fisica-6-Edicion-Tipler-Mosca.pdf",
+            "type": "file",
+            "id": "1I8XO9-tFgpse2Xjo2YdqgBDQPM6dxLoB",
+            "mimeType": "application/pdf",
+            "size": "77453904"
+          },
+          {
+            "name": "Fisica_2_Hugo_Medina.pdf",
+            "type": "file",
+            "id": "1DNhbySv4KMebsmbETus5pmqps-4H-n5G",
+            "mimeType": "application/pdf",
+            "size": "5516595"
+          },
+          {
+            "name": "1._Sternheim.pdf",
+            "type": "file",
+            "id": "1N-tKvyn6W9ojGQiT6t3OMj7DTC6_HBt0",
+            "mimeType": "application/pdf",
+            "size": "66490268"
+          },
+          {
+            "name": "scribd.vdownloaders.com_fisica-i-toria-y-problemas-de-humberto-leyva.pdf",
+            "type": "file",
+            "id": "1jufypm9vEyg-2V6vDKESbYrDJhtESVax",
+            "mimeType": "application/pdf",
+            "size": "11620668"
+          },
+          {
+            "name": "FISICA_I_II_de_Leiva.pdf",
+            "type": "file",
+            "id": "1XVky535iuWizUtbH8IELhEGdlCqgoYZs",
+            "mimeType": "application/pdf",
+            "size": "8942102"
+          },
+          {
+            "name": "Física_general-_Santiago_Burbano_de_Ercilla.pdf",
+            "type": "file",
+            "id": "1yRQ5QhvNuR6tXB_oZiVtwQU5wjcvgPoU",
+            "mimeType": "application/pdf",
+            "size": "65176053"
+          },
+          {
+            "name": "Física_Volumen_1_-_Resnick_Halliday_Krane.pdf",
+            "type": "file",
+            "id": "12IuwG2--M_0pkuoYtqDPZUlWZQ_k6XcU",
+            "mimeType": "application/pdf",
+            "size": "36852242"
+          }
+        ]
+      }
+    ]
+  }
+}

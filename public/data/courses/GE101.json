@@ -1,0 +1,555 @@
+{
+  "course_id": "GE101",
+  "course_name": "Intr._a_la_ingeniería_industrial",
+  "id": "1B9ssm0ICZvYD6EHlnvGGYNvxNAkQr-Uf",
+  "scanned_at": "2026-08-06T23:55:57.265163+00:00",
+  "tree": {
+    "name": "Intr._a_la_ingeniería_industrial",
+    "type": "folder",
+    "id": "1B9ssm0ICZvYD6EHlnvGGYNvxNAkQr-Uf",
+    "children": [
+      {
+        "name": "TRABAJO_INT_ING_INDUSTRIAL_-_copia.pdf",
+        "type": "file",
+        "id": "1dc9zhlF5idFiEB6haWOHtU55_KW9-7AA",
+        "mimeType": "application/pdf",
+        "size": "1062804"
+      },
+      {
+        "name": "MORILLO",
+        "type": "folder",
+        "id": "1AAHMxKNo2mSs-wRe9YuWzrdAZCTZfmHB",
+        "children": [
+          {
+            "name": "Material",
+            "type": "folder",
+            "id": "1Pe94s-k--nd9wDWHVC2zgCiz2MX3p6PF",
+            "children": [
+              {
+                "name": "semana_1",
+                "type": "folder",
+                "id": "1pBUriSUcMezgg-5CxZPqUDEMi3mopwhi",
+                "children": [
+                  {
+                    "name": "El_futuro_del_empleo_Frey_-Osborne.docx",
+                    "type": "file",
+                    "id": "1z9JGLCzht5PKR8WUhywOrkG4y7L3wveO",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "564126"
+                  },
+                  {
+                    "name": "ABET-COMPETENCIAS_DE_LOS_INGENIEROS.docx",
+                    "type": "file",
+                    "id": "1Ov5gpHMlflWtowRjV1xcP4Jq2xYxB537",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "19309"
+                  },
+                  {
+                    "name": "Administracion,Eficiencia,eficacia,competitividad-.pdf",
+                    "type": "file",
+                    "id": "1Yj7yj1JZ5aw70QSOmtbgn0112xhe21G6",
+                    "mimeType": "application/pdf",
+                    "size": "1007650"
+                  },
+                  {
+                    "name": "Sálvese_quien_pueda_Andres_Oppenheimer.pdf",
+                    "type": "file",
+                    "id": "1klRbi3nBU67spQyEA-0a0zxToBFBxmfK",
+                    "mimeType": "application/pdf",
+                    "size": "2035603"
+                  },
+                  {
+                    "name": "Modelo_Trabajo_Monografico-CALZADO_MAKS_SAC.pptx",
+                    "type": "file",
+                    "id": "1VZ9cyvd4-FV34EQeMyUPzJTBmxPxWj92",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "11640917"
+                  }
+                ]
+              },
+              {
+                "name": "semana_16",
+                "type": "folder",
+                "id": "1bw4QYjLP3iGPgwxOIU2AKSP47ysm8Byv",
+                "children": [
+                  {
+                    "name": "CLASE_PROYECTOS_DE_INVERSION.pdf",
+                    "type": "file",
+                    "id": "1rcWcQ9pzt9Tj84nigIQ7GEqLNbnJAzKE",
+                    "mimeType": "application/pdf",
+                    "size": "1307372"
+                  },
+                  {
+                    "name": "Sesion_Liderazgo_1_-2020.ppt.pdf",
+                    "type": "file",
+                    "id": "1MYGCqMa-dPdyX5zdGJxDbo8BTke0mivt",
+                    "mimeType": "application/pdf",
+                    "size": "2734228"
+                  },
+                  {
+                    "name": "Sesion_Administracion_de_RRHH.pptx",
+                    "type": "file",
+                    "id": "1cYa5wOO5Xe8Pz9J1r5XY-HToU1v1eQGV",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "2788821"
+                  },
+                  {
+                    "name": "Perfil_Lider_Extraordinario.pptx",
+                    "type": "file",
+                    "id": "1PzPhSXZNQb9aKu6PXJqQaVtMpXkyCQp6",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "932446"
+                  },
+                  {
+                    "name": "Hitler_no_fue_un_Lider.pdf",
+                    "type": "file",
+                    "id": "1fPQo6sOUGEHWRbKDXdB-jlgEo8eq-fDe",
+                    "mimeType": "application/pdf",
+                    "size": "955227"
+                  }
+                ]
+              },
+              {
+                "name": "semana_14",
+                "type": "folder",
+                "id": "14aSNZbSiPns_UwxeRgb3OWVH90cCMymp",
+                "children": [
+                  {
+                    "name": "Clase_Logistica-pdf.pdf",
+                    "type": "file",
+                    "id": "1rJ4rYJVzgULySvFKJ6tTuqeDKH-pw-F1",
+                    "mimeType": "application/pdf",
+                    "size": "2149674"
+                  },
+                  {
+                    "name": "CLASE_PROYECTOS_DE_INVERSION.pdf",
+                    "type": "file",
+                    "id": "1ARXCjPBhCKb3OxKTeNXuaojDBUC6-n6G",
+                    "mimeType": "application/pdf",
+                    "size": "1307372"
+                  },
+                  {
+                    "name": "Material_herramientas_de_calidad.pdf",
+                    "type": "file",
+                    "id": "1zyCYS7zFMVNqT5zmUIHm7094jW_hUhB7",
+                    "mimeType": "application/pdf",
+                    "size": "959023"
+                  }
+                ]
+              },
+              {
+                "name": "semana_15",
+                "type": "folder",
+                "id": "1hkvhZJhksVhN9YuVERmYDzRnxucG5Gm8",
+                "children": [
+                  {
+                    "name": "CLASE_MARKETING_2.pdf",
+                    "type": "file",
+                    "id": "12MPF7uGIK7x7bjHC8dSfK4AxROe36MRd",
+                    "mimeType": "application/pdf",
+                    "size": "752699"
+                  }
+                ]
+              },
+              {
+                "name": "semana_12-13",
+                "type": "folder",
+                "id": "1MlCNoW5U5WYvC3fV1BG27-sq3O3LF-mE",
+                "children": [
+                  {
+                    "name": "Clase_Logistica-pdf.pdf",
+                    "type": "file",
+                    "id": "1gcCNYyzDG0CGThz08FRcfD3YBkfjDZce",
+                    "mimeType": "application/pdf",
+                    "size": "2149674"
+                  }
+                ]
+              },
+              {
+                "name": "semana_5-6",
+                "type": "folder",
+                "id": "13nBo8eCKMFmCEM6CoxxXXOuvVQsDO8m7",
+                "children": [
+                  {
+                    "name": "Clase_5_Sis.Produccion.pdf",
+                    "type": "file",
+                    "id": "1YxsZ6A5yQwaUtzaEZpC1o2yn4mOc54m9",
+                    "mimeType": "application/pdf",
+                    "size": "2009060"
+                  }
+                ]
+              },
+              {
+                "name": "semana_9-10-11",
+                "type": "folder",
+                "id": "1fzEkHBgE_gsN8JsS6PGWjCSnZ8-RI8c3",
+                "children": [
+                  {
+                    "name": "CLASE_DE_COSTOS.pdf",
+                    "type": "file",
+                    "id": "1S77VF3fO6RmLBzEKt3FYHHld0Nz6BG98",
+                    "mimeType": "application/pdf",
+                    "size": "802409"
+                  },
+                  {
+                    "name": "Ejercicios_de_Costos.doc",
+                    "type": "file",
+                    "id": "1vcqsVbOP3gRtCf2gB6GQxbDMEZ7KaGEH",
+                    "mimeType": "application/msword",
+                    "size": "55296"
+                  }
+                ]
+              },
+              {
+                "name": "semana_7-8",
+                "type": "folder",
+                "id": "13R8jo4vUyy3Q36_Bp74WzZrEo6rpbVpx",
+                "children": [
+                  {
+                    "name": "DOP_Capsulas_de_Ajo.pptx",
+                    "type": "file",
+                    "id": "1DKk-f6dp6Xs4_2MRPLjeWaKKb0D5AJ7Q",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "331791"
+                  },
+                  {
+                    "name": "CLASE_6_y_7_ESTUDIO_DEL_TRABAJO.pdf",
+                    "type": "file",
+                    "id": "1LGoV522B_7Q7scQQHSumcy25X1-Gmrcg",
+                    "mimeType": "application/pdf",
+                    "size": "982088"
+                  },
+                  {
+                    "name": "PRODUCTO.docx",
+                    "type": "file",
+                    "id": "1A3AMH4AUjOGG0bleBfKJLx1q5b0Pj1PT",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "13693"
+                  },
+                  {
+                    "name": "DOP_Cable.pptx",
+                    "type": "file",
+                    "id": "1Uvg9a3l2W9Pwl8LCqGSUStej2EEWzdUT",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "179688"
+                  }
+                ]
+              },
+              {
+                "name": "semana_3",
+                "type": "folder",
+                "id": "19SPoAZO0TjKNuQp67oXDgYaslSKAIwwZ",
+                "children": [
+                  {
+                    "name": "TEORIA_PROCESOS.ppt",
+                    "type": "file",
+                    "id": "1xC98G2FcUPspf7yPcUA6MxmqL_57Z6wz",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "1060352"
+                  },
+                  {
+                    "name": "Manual_Constitucion_y_Formalizacion.pdf",
+                    "type": "file",
+                    "id": "1Co-pRk1AgMtzzzI3le7Sn1b0syf6DZVf",
+                    "mimeType": "application/pdf",
+                    "size": "2209826"
+                  },
+                  {
+                    "name": "Clase_3_Empresa.pdf",
+                    "type": "file",
+                    "id": "1ea09R4qclN45SPyhCiOz2bHBYbKSB0go",
+                    "mimeType": "application/pdf",
+                    "size": "2137937"
+                  },
+                  {
+                    "name": "INVESCA-CONSTITUCION-MODELO-MINUTA-SRL.doc",
+                    "type": "file",
+                    "id": "1Cq-L17bU866qoyy2nkaZoB92M1gEp_Nr",
+                    "mimeType": "application/msword",
+                    "size": "58880"
+                  }
+                ]
+              },
+              {
+                "name": "semana_4",
+                "type": "folder",
+                "id": "19g5LMTSjMDl7KovmFAXGzkPKDjFUoLtG",
+                "children": [
+                  {
+                    "name": "Clase_4_Localizacion_y_Distribucion_(1).pdf",
+                    "type": "file",
+                    "id": "1y4qk9MOBUaP5DyQDLlR9mRvru9v__2yV",
+                    "mimeType": "application/pdf",
+                    "size": "1284764"
+                  }
+                ]
+              },
+              {
+                "name": "semana_2",
+                "type": "folder",
+                "id": "1uo_Ku8VAjZKJUzfqPIxp_OWB-Q5zROag",
+                "children": [
+                  {
+                    "name": "CLASE_2_-Introduccion_a_la_Ingenieria_Industrial.pdf",
+                    "type": "file",
+                    "id": "1XQWNzMtDTz3q8yqE3uavKb-yfA3JHuZK",
+                    "mimeType": "application/pdf",
+                    "size": "7983674"
+                  },
+                  {
+                    "name": "PRODUCTIVIDAD_.pdf",
+                    "type": "file",
+                    "id": "11rTuXiR_A6tydxTJ5XOrkwypzHavnXvt",
+                    "mimeType": "application/pdf",
+                    "size": "2845256"
+                  },
+                  {
+                    "name": "Test_01.pdf",
+                    "type": "file",
+                    "id": "1Hdt3lV-6Ieh9zG61UkK1Uyd-NGX2x9VQ",
+                    "mimeType": "application/pdf",
+                    "size": "110480"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "PC3",
+            "type": "folder",
+            "id": "1jYsv1qAD7XbRa7cVWteHlOQff_CwXxnJ",
+            "children": [
+              {
+                "name": "Tercera_Practica_2020-I.doc",
+                "type": "file",
+                "id": "1ssdYTp0VDo-ZDk0dtGKkdk3LExE5QVZ8",
+                "mimeType": "application/msword",
+                "size": "779776"
+              },
+              {
+                "name": "PC3-24-2-PARTE2.jpg",
+                "type": "file",
+                "id": "1GBdfM4xQyoivCxxfBmQxIUvC7T7YLdJj",
+                "mimeType": "image/jpeg",
+                "size": "823479"
+              },
+              {
+                "name": "PC3-24-2-PARTE1.jpg",
+                "type": "file",
+                "id": "16DOcsReYmgo1vc659NRUEEOU3twioUWj",
+                "mimeType": "image/jpeg",
+                "size": "872635"
+              }
+            ]
+          },
+          {
+            "name": "PC4",
+            "type": "folder",
+            "id": "1_fzlhXCYON_t8yTDUjyLQlVecXnQhqKY",
+            "children": [
+              {
+                "name": "4_Practica_GE_101_-2020-I_(1).docx",
+                "type": "file",
+                "id": "1HC9WUdox-_N6XJ2C2-w22eRr0LkCLIy0",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "15986"
+              }
+            ]
+          },
+          {
+            "name": "PC2",
+            "type": "folder",
+            "id": "1UhwvLBEGDql1itgkIzwMYeNln6OmMVq7",
+            "children": [
+              {
+                "name": "PRACTICA_02_GE-101_V.docx",
+                "type": "file",
+                "id": "1mGb2sceomQCqZE3EaYcRjmAkM5i0PD3O",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "326443"
+              },
+              {
+                "name": "WhatsApp_Image_2020-07-14_at_6.25.38_PM.jpeg",
+                "type": "file",
+                "id": "1NoNVu9B95x6YtOJQvqiJB8QLMy9DknNd",
+                "mimeType": "image/jpeg",
+                "size": "216138"
+              },
+              {
+                "name": "WhatsApp_Image_2020-07-14_at_6.25.07_PM.jpeg",
+                "type": "file",
+                "id": "1ceKky_B52VhrTQ-ULsWWmhCBVd-nSs1D",
+                "mimeType": "image/jpeg",
+                "size": "88398"
+              },
+              {
+                "name": "1.jpeg",
+                "type": "file",
+                "id": "1OoRogbXA3iiGb6Ubb36dsan1AD5josh3",
+                "mimeType": "image/jpeg",
+                "size": "98082"
+              },
+              {
+                "name": "WhatsApp_Image_2020-07-14_at_6.25.50_PM.jpeg",
+                "type": "file",
+                "id": "1vNkFMAYqxvX_LY6DU3R5PF2-s1KArlfX",
+                "mimeType": "image/jpeg",
+                "size": "138579"
+              },
+              {
+                "name": "PC2-24-2-PARTE1.jpg",
+                "type": "file",
+                "id": "1di1F59vpqlYfN1tle8iz7VVGJ5TpR7sg",
+                "mimeType": "image/jpeg",
+                "size": "907675"
+              },
+              {
+                "name": "PC2-24-2-PARTE2.jpg",
+                "type": "file",
+                "id": "1IqN07qC9YjpgHHeSf8lzyJeezwuaHvU4",
+                "mimeType": "image/jpeg",
+                "size": "866796"
+              }
+            ]
+          },
+          {
+            "name": "EP",
+            "type": "folder",
+            "id": "186Ismq3ZJFPalefjmbV3wLhn-VqRE8-r",
+            "children": [
+              {
+                "name": "parcial.docx",
+                "type": "file",
+                "id": "11ZJUN7PN3OYTJSm_gBQq-qFhMA8-BGJ4",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "2573650"
+              }
+            ]
+          },
+          {
+            "name": "PC1",
+            "type": "folder",
+            "id": "13dpcaso6kixIR6RxtNzlBW9dXIixwyu4",
+            "children": [
+              {
+                "name": "WhatsApp_Image_2020-06-23_at_9.22.53_PM.jpeg",
+                "type": "file",
+                "id": "1dU8gLpCbz_iN9t-FLVx3jso2Wdt7N9iy",
+                "mimeType": "image/jpeg",
+                "size": "86013"
+              },
+              {
+                "name": "WhatsApp_Image_2020-06-23_at_9.02.58_PM.jpeg",
+                "type": "file",
+                "id": "169MFVwyNEck0xdl8KLMzRaP7JkZJ9RsV",
+                "mimeType": "image/jpeg",
+                "size": "50345"
+              },
+              {
+                "name": "WhatsApp_Image_2020-06-23_at_9.02.26_PM.jpeg",
+                "type": "file",
+                "id": "1E0gat7AmpHnPQZ9pSxn93qZZisREG2V1",
+                "mimeType": "image/jpeg",
+                "size": "62347"
+              },
+              {
+                "name": "PC1-24-2.jpg",
+                "type": "file",
+                "id": "1riXm9ytKOQV-MvrhXEival7PDGuPuqus",
+                "mimeType": "image/jpeg",
+                "size": "997840"
+              }
+            ]
+          },
+          {
+            "name": "EF",
+            "type": "folder",
+            "id": "1nLvpBke8uWe7VZBM_daLP8Kd3wUO1rbt",
+            "children": [
+              {
+                "name": "EX_FINAL_GE101V.docx",
+                "type": "file",
+                "id": "16-eEAFrmeDCdCcoP8seMnlPDH97BMGqv",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "14633"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "VILLANUEVA_(U)",
+        "type": "folder",
+        "id": "1sLa5e4neZpj8F4-m1m4Y4JiF2fd6Oa9m",
+        "children": [
+          {
+            "name": "PC2",
+            "type": "folder",
+            "id": "1hntJDFysoQxKOheMkRC_Ts4AXI7IP-6n",
+            "children": []
+          },
+          {
+            "name": "PC4",
+            "type": "folder",
+            "id": "1-oJURGzkjQIEyliaT1O57VMH3MvBrMYr",
+            "children": [
+              {
+                "name": "PC4-24-2-PARTE1.jpg",
+                "type": "file",
+                "id": "1YVSitE_bymYzXZtS1xvDF9O9T5aCQqCQ",
+                "mimeType": "image/jpeg",
+                "size": "268423"
+              },
+              {
+                "name": "PC4-24-2-PARTE2.jpg",
+                "type": "file",
+                "id": "1yXx4twkMqlebRxsSRYluOVeB6yf8Bpom",
+                "mimeType": "image/jpeg",
+                "size": "371004"
+              }
+            ]
+          },
+          {
+            "name": "EP",
+            "type": "folder",
+            "id": "1Bs2XntCwogG68c4tlr7M35paoIJOAOSO",
+            "children": []
+          },
+          {
+            "name": "PC3",
+            "type": "folder",
+            "id": "1yjzZ1IZfKPjsRV-K473loQQZ535Osocm",
+            "children": []
+          },
+          {
+            "name": "PC1",
+            "type": "folder",
+            "id": "1o83fuxlgM6TJomjRXT3zBnZHOO8MXGD3",
+            "children": []
+          },
+          {
+            "name": "EF",
+            "type": "folder",
+            "id": "1h9ii-UjRidU10fJG0VaR5tXZb_Yb9-zr",
+            "children": [
+              {
+                "name": "EF-24-2-PARTE1.jpg",
+                "type": "file",
+                "id": "10GlGmZ-vBvigAuUNnOYUzclwCKjOPGZ-",
+                "mimeType": "image/jpeg",
+                "size": "525386"
+              },
+              {
+                "name": "EF-24-2-PARTE2.jpg",
+                "type": "file",
+                "id": "1IIIB07IQx3K4DHHh-cEitMH4fUJGekBX",
+                "mimeType": "image/jpeg",
+                "size": "664779"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "course_id": "SW407",
+  "course_name": "Sistemas_Operativos",
+  "id": "1AC5dvIarxXmGHDtF0RHsvmaSNDi69thr",
+  "scanned_at": "2026-08-07T00:04:01.067739+00:00",
+  "tree": {
+    "name": "Sistemas_Operativos",
+    "type": "folder",
+    "id": "1AC5dvIarxXmGHDtF0RHsvmaSNDi69thr",
+    "children": [
+      {
+        "name": "PPTs",
+        "type": "folder",
+        "id": "1iQ-6OjcV_A83WARbwt4POcmAhIrkimIo",
+        "children": [
+          {
+            "name": "Sesion_4_-_Gestión_de_Proceso.pdf",
+            "type": "file",
+            "id": "1Uu6MPjt_Nr3LHg86-hUM69WmAUmbQM-v",
+            "mimeType": "application/pdf",
+            "size": "1316012"
+          },
+          {
+            "name": "Sesion_3_-_Estructura_de_los_sistemas_Operativos.pdf",
+            "type": "file",
+            "id": "1u4-hOHma7PjocRmYJoQ8zLNEMpDa3L2s",
+            "mimeType": "application/pdf",
+            "size": "1077053"
+          },
+          {
+            "name": "Sesion_2_-_Estructura_de_los_sistemas_de_computacion_y_los_Sistemas_Operativos.pdf",
+            "type": "file",
+            "id": "15hCvazgUx3pDytH_dp-LOSsguFCYfdpS",
+            "mimeType": "application/pdf",
+            "size": "1571086"
+          },
+          {
+            "name": "Sesion_1_-_Introduccion.pdf",
+            "type": "file",
+            "id": "11vrY5ZRglEnpxaNm0e2Kal5C530XcShf",
+            "mimeType": "application/pdf",
+            "size": "916161"
+          }
+        ]
+      },
+      {
+        "name": "Observaciones",
+        "type": "file",
+        "id": "1B99AQBbtGIUg-oQQJ5YxHdGkFUoTeiYt5MRXF01Kf2A",
+        "mimeType": "application/vnd.google-apps.document",
+        "size": "1024"
+      },
+      {
+        "name": "Libros",
+        "type": "folder",
+        "id": "18ZukDwQsESQ2xggMfHVeaPy2sz449QSj",
+        "children": [
+          {
+            "name": "Fundamentos_de_Sistemas_Operativos_Silverschatz.pdf",
+            "type": "file",
+            "id": "1PM2MEtNqWhl_2CgsxBigqk8fWF5-yxdX",
+            "mimeType": "application/pdf",
+            "size": "42573903"
+          },
+          {
+            "name": "Sistemas_Operativos_Modernos_Tanenbaum.pdf",
+            "type": "file",
+            "id": "1EPVRyFOKBh6UCh3zn3QF_wrfJnP_bRUr",
+            "mimeType": "application/pdf",
+            "size": "4564416"
+          },
+          {
+            "name": "Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
+            "type": "file",
+            "id": "1tucALeN-J2O6GR5xtz6zw_Q7g7BrJ2iI",
+            "mimeType": "application/pdf",
+            "size": "31133896"
+          }
+        ]
+      },
+      {
+        "name": "Planchas",
+        "type": "folder",
+        "id": "1no6qDy_x3kYOZyPPRBZReNTn_BSeRQqC",
+        "children": [
+          {
+            "name": "Controles_de_Lectura",
+            "type": "folder",
+            "id": "1VXmZDsoNYWNWdutTNlvNtnOGLBlG8kUc",
+            "children": [
+              {
+                "name": "Control_de_Lectura_1_26-I.pdf",
+                "type": "file",
+                "id": "1x0PIJmQ9BkRQFmLmoTwql-HLzpoXyaJb",
+                "mimeType": "application/pdf",
+                "size": "206009"
+              }
+            ]
+          },
+          {
+            "name": "PC4",
+            "type": "folder",
+            "id": "1DpRmyyu2OVFXYAjl-dWxFpE4jNzD28kb",
+            "children": []
+          },
+          {
+            "name": "PC2",
+            "type": "folder",
+            "id": "19X81YlELZ-yK9qrPYZMHbqS4eymnek_c",
+            "children": [
+              {
+                "name": "SW407_PC2_26-1",
+                "type": "file",
+                "id": "1mJeskyKODW3ORSbj4nkr6rOb-OajMC5r",
+                "mimeType": "application/pdf",
+                "size": "468517"
+              },
+              {
+                "name": "SW407_PC2_25-2",
+                "type": "file",
+                "id": "1kUn6i-PBXe2jhrbs3Doig3vGauM47hQO",
+                "mimeType": "application/pdf",
+                "size": "210628"
+              },
+              {
+                "name": "SW407_PC2_25-1",
+                "type": "file",
+                "id": "1xA40X_FM98VUiBY_T_zraGNH3bivlWqK",
+                "mimeType": "application/pdf",
+                "size": "2184807"
+              }
+            ]
+          },
+          {
+            "name": "PE",
+            "type": "folder",
+            "id": "1YB8bBti18OXcWtJnyihYmw-otI5edArk",
+            "children": [
+              {
+                "name": "SW407_PE_25-I.pdf",
+                "type": "file",
+                "id": "1HiPCw0DUb6XQFSiV-MIYazSwFFqHNLl8",
+                "mimeType": "application/pdf",
+                "size": "209843"
+              }
+            ]
+          },
+          {
+            "name": "ES",
+            "type": "folder",
+            "id": "14hOOwlmluvLa6dYoueKniSQ6BWLvap5t",
+            "children": [
+              {
+                "name": "SW407_ES_25-1.pdf",
+                "type": "file",
+                "id": "1GdDT89TnmOTNRVr6-AXJ8pPGTzI9O_fK",
+                "mimeType": "application/pdf",
+                "size": "291236"
+              },
+              {
+                "name": "SW407_ES_25-2.pdf",
+                "type": "file",
+                "id": "1E5Fx4WmYP5lfLneXZrXEF3oOngFYwsdi",
+                "mimeType": "application/pdf",
+                "size": "651007"
+              },
+              {
+                "name": "SW407_ES_25-1_Sol.pdf",
+                "type": "file",
+                "id": "14u3MMV9G63dem9x1tcZUR8BgP_v8iiN7",
+                "mimeType": "application/pdf",
+                "size": "257454"
+              }
+            ]
+          },
+          {
+            "name": "EF",
+            "type": "folder",
+            "id": "1P-2MZl5iDjsO4rOynak5cjkyWWJ-k-38",
+            "children": [
+              {
+                "name": "SW407_EF_25-1.pdf",
+                "type": "file",
+                "id": "1SvGbNR5L7Di7sbJHkDCT50hMGO7g_V2y",
+                "mimeType": "application/pdf",
+                "size": "481533"
+              }
+            ]
+          },
+          {
+            "name": "PC3",
+            "type": "folder",
+            "id": "1HPykQ2FFd8dTK1MzDq1TjOGSmjwBbyru",
+            "children": [
+              {
+                "name": "SW407_PC3_25-I.pdf",
+                "type": "file",
+                "id": "16dOKdeyRQMMFYvjFpLIUN9LsabVB-Eic",
+                "mimeType": "application/pdf",
+                "size": "321505"
+              }
+            ]
+          },
+          {
+            "name": "PC1",
+            "type": "folder",
+            "id": "1l-q2nz_SAFhjBVn--j2xILCPRLQXAMJM",
+            "children": [
+              {
+                "name": "SW407_PC1_25-II_Sol.pdf",
+                "type": "file",
+                "id": "1VYtg0FWDqTNArSfremvkjobdoz0nwr_q",
+                "mimeType": "application/pdf",
+                "size": "489221"
+              },
+              {
+                "name": "SW407_PC1_25-II.pdf",
+                "type": "file",
+                "id": "16zrU1WYwHTgQ9YEvs4BHTQQfylzxbQ3W",
+                "mimeType": "application/pdf",
+                "size": "380629"
+              },
+              {
+                "name": "SW407_PC1_26-1",
+                "type": "file",
+                "id": "1Zl8W2ZHOSQ-4Ar1UYpBBb2G9OLqSFwpc",
+                "mimeType": "application/pdf",
+                "size": "407537"
+              },
+              {
+                "name": "SW407_PC1_25-I.pdf",
+                "type": "file",
+                "id": "1UgHhZ0O0RJYJmxnj9yEt138mUAHzu4Cw",
+                "mimeType": "application/pdf",
+                "size": "151448"
+              }
+            ]
+          },
+          {
+            "name": "EP",
+            "type": "folder",
+            "id": "135YR3Wk4ZNCPEXNsQhUznA29ENyyB8zB",
+            "children": [
+              {
+                "name": "SW407_EP_25-1.pdf",
+                "type": "file",
+                "id": "1QRsGYtk5k2P1WU1_qIFqKmhGMUU6o0AT",
+                "mimeType": "application/pdf",
+                "size": "263399"
+              },
+              {
+                "name": "SW407_EP_25-2",
+                "type": "file",
+                "id": "125Est6O2wotFErEIYAkJE2HJyoHUMLjW",
+                "mimeType": "application/pdf",
+                "size": "206664"
+              },
+              {
+                "name": "SW407_EP_26-1",
+                "type": "file",
+                "id": "1Vvv2cwFDHqxJ3mHasHtR-H1YUTJtUOnQ",
+                "mimeType": "application/pdf",
+                "size": "664611"
+              },
+              {
+                "name": "SW407_EP_25-1_Sol.pdf",
+                "type": "file",
+                "id": "1s7kG3leWfDxjRuDSCNxMhwt7ZTN8SPVJ",
+                "mimeType": "application/pdf",
+                "size": "283528"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

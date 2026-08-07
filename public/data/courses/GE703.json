@@ -1,0 +1,27 @@
+{
+  "course_id": "GE703",
+  "course_name": "Sistemas_Integrados_Empresariales",
+  "id": "16aqx5R_vEPSOSXkcCahE0AwLu2txhxop",
+  "scanned_at": "2026-08-07T00:06:46.073811+00:00",
+  "tree": {
+    "name": "Sistemas_Integrados_Empresariales",
+    "type": "folder",
+    "id": "16aqx5R_vEPSOSXkcCahE0AwLu2txhxop",
+    "children": [
+      {
+        "name": "Libros",
+        "type": "folder",
+        "id": "1GqzoG_rp9Fhm7mRXgnhT2yFcL-EeIh4P",
+        "children": [
+          {
+            "name": "Libro-Introduccion_a_la_Gestion_de_los_SI_en_la_Empresa-2011-La_Piedra-Devece-Guiral.pdf",
+            "type": "file",
+            "id": "1G3prNolSd5rJKkQjONu9oeI6H5B_LY4A",
+            "mimeType": "application/pdf",
+            "size": "1272194"
+          }
+        ]
+      }
+    ]
+  }
+}

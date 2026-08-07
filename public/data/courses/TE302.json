@@ -1,0 +1,1294 @@
+{
+  "course_id": "TE302",
+  "course_name": "Diseño_Asistido_por_Computador",
+  "id": "1uHqZ-_d0e9hrlTw04GhAnBbXyQL25f5W",
+  "scanned_at": "2026-08-07T00:04:23.163087+00:00",
+  "tree": {
+    "name": "Diseño_Asistido_por_Computador",
+    "type": "folder",
+    "id": "1uHqZ-_d0e9hrlTw04GhAnBbXyQL25f5W",
+    "children": [
+      {
+        "name": "Muñoz",
+        "type": "folder",
+        "id": "1eH3cOHRGtLvdrV6dS259O5Oku2lfC-qH",
+        "children": [
+          {
+            "name": "Proyectos_finales",
+            "type": "folder",
+            "id": "1T1EQJj6vshRR7RCrzu1Dpuu8Gju4wSE_",
+            "children": [
+              {
+                "name": "Ejemplo_2",
+                "type": "folder",
+                "id": "1qnhrkcWH6MqgzhcT4jdJaoFNBvjG-9DF",
+                "children": [
+                  {
+                    "name": "DAC-M-01_Pieza_2.dwg",
+                    "type": "file",
+                    "id": "1sMGZeFKO8uwDM1A6OWz61nY3sv2CB8tV",
+                    "mimeType": "image/vnd.dwg",
+                    "size": "342810"
+                  },
+                  {
+                    "name": "Investigación_Pieza_2.pdf",
+                    "type": "file",
+                    "id": "1NgJkgZ5IF_W6jDeB0ps283JPgMkVt9NV",
+                    "mimeType": "application/pdf",
+                    "size": "471451"
+                  },
+                  {
+                    "name": "07._Válvula-de-expansión-de-acción-manual.gif",
+                    "type": "file",
+                    "id": "1cWO38ze5Iq5AlL_7fPtaGkbp6Iah5jUt",
+                    "mimeType": "image/gif",
+                    "size": "115202"
+                  }
+                ]
+              },
+              {
+                "name": "Ejemplo_1",
+                "type": "folder",
+                "id": "1hAXzWWcyZKL0qQooTtgZUbkqQaOze8xz",
+                "children": [
+                  {
+                    "name": "MONOGRAFIA-DAC_1.dwg",
+                    "type": "file",
+                    "id": "1PbROK9jy9X2dgoOhOqv2U8CNcQvCRBk4",
+                    "mimeType": "image/vnd.dwg",
+                    "size": "979500"
+                  },
+                  {
+                    "name": "INVESTIGACIÓN_DE_PIEZA.pdf",
+                    "type": "file",
+                    "id": "1d9t21biEng8Yv4MJ_eXIRIPKIbA2C_iG",
+                    "mimeType": "application/pdf",
+                    "size": "626907"
+                  },
+                  {
+                    "name": "06._Válvula-de-seguridad-para-instalación-frigorífica_(1).gif",
+                    "type": "file",
+                    "id": "1qvtICGKQmAkUaqsnQmnJD100ThH59Tlc",
+                    "mimeType": "image/gif",
+                    "size": "125467"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "RECOMENDACIÓN",
+            "type": "file",
+            "id": "1Ci4zt9AS7NGxLzrsIIrg1Jo-3U-tITgv1bPUvcft0W0",
+            "mimeType": "application/vnd.google-apps.document",
+            "size": "1024"
+          },
+          {
+            "name": "Ejercicios_básicos_de_práctica",
+            "type": "folder",
+            "id": "1s7DdNMaSqYQoVefk7tkw3ZrBtmwYFd2c",
+            "children": [
+              {
+                "name": "5._Dibujar_las_vistas_necesarias_(PC1).jpg",
+                "type": "file",
+                "id": "11CKPrYmJaN3lgPdejSIalHKJb_0_pzJj",
+                "mimeType": "image/jpeg",
+                "size": "41042"
+              },
+              {
+                "name": "4._Ejercicios,_dibujar_en_3ra_Vista_(PC1).pdf",
+                "type": "file",
+                "id": "1E_NlgZOjdvX0I9sZaeSD9OxRn3woHRBI",
+                "mimeType": "application/pdf",
+                "size": "53933"
+              },
+              {
+                "name": "2._Dibujar_en_autocad_(PC1).pdf",
+                "type": "file",
+                "id": "1OBfNPyRvzcWltENz_z2d3qXgpnmUL2wF",
+                "mimeType": "application/pdf",
+                "size": "80851"
+              },
+              {
+                "name": "8._Ejercicios_de_Isometria.pdf",
+                "type": "file",
+                "id": "1x2cHCWS4O69irBLDCoD-E2SYOAS5dWM7",
+                "mimeType": "application/pdf",
+                "size": "356605"
+              },
+              {
+                "name": "7._Ejercicios_de_Cortes_y_vistas_auxiliares.pdf",
+                "type": "file",
+                "id": "1hVvjQTy0f0pL6uSkb5BvZ5eGaPEZb5lL",
+                "mimeType": "application/pdf",
+                "size": "452963"
+              },
+              {
+                "name": "6._Ejercicios_de_vistas_auxiliares.pdf",
+                "type": "file",
+                "id": "1PvdHG0DxoQk7OyV-ts7RnfFU5Vcu5-oq",
+                "mimeType": "application/pdf",
+                "size": "394111"
+              },
+              {
+                "name": "3._Dibujar_los_isométricos_en_2D_(PC1).pdf",
+                "type": "file",
+                "id": "1mCt1Ms5LzgiVM-7DU8fgrfnLSDgY3uso",
+                "mimeType": "application/pdf",
+                "size": "609411"
+              },
+              {
+                "name": "1._Primeros_dibujos_en_autocad_(PC1).pdf",
+                "type": "file",
+                "id": "1H8tPGcriCYLp4RraTSeLg55JafGto14W",
+                "mimeType": "application/pdf",
+                "size": "218861"
+              }
+            ]
+          },
+          {
+            "name": "Tarea",
+            "type": "folder",
+            "id": "1WqzDfSm982clY1HIj5GTXuAlbg0e9dq1",
+            "children": [
+              {
+                "name": "Ensambles",
+                "type": "folder",
+                "id": "1e8tyzEL40SQg0kHm3VRbxSuGY9iKisV7",
+                "children": [
+                  {
+                    "name": "Valvula_de_compuerta.jpg",
+                    "type": "file",
+                    "id": "1fc-8Q_MPAOajsWYR2KbK_QGKw74HAyjC",
+                    "mimeType": "image/jpeg",
+                    "size": "139669"
+                  },
+                  {
+                    "name": "Valvula_de_seguridad.jpg",
+                    "type": "file",
+                    "id": "1pFKi_Xacy2S-pAeAVhHpibsAu5eNb98F",
+                    "mimeType": "image/jpeg",
+                    "size": "143076"
+                  },
+                  {
+                    "name": "Union_universal.jpg",
+                    "type": "file",
+                    "id": "1bSRe_JdjElPJvDuauGaOEH7koiZbnCzD",
+                    "mimeType": "image/jpeg",
+                    "size": "152862"
+                  },
+                  {
+                    "name": "Valvula_de_expansion.jpg",
+                    "type": "file",
+                    "id": "1oD3UpBQ5YTsK8N3EDX5Bh0BEQt5RLqTe",
+                    "mimeType": "image/jpeg",
+                    "size": "81645"
+                  },
+                  {
+                    "name": "11.-_Valvula_de_seguridad_con_palanca.jpg",
+                    "type": "file",
+                    "id": "1cBUNdYMvCba3fO-o41jL6Sck-eVTOTvp",
+                    "mimeType": "image/jpeg",
+                    "size": "111143"
+                  },
+                  {
+                    "name": "15.-Valvula_pa_botella_acido_carbonico.jpg",
+                    "type": "file",
+                    "id": "1DAS8zzDOhaKpE0rfqg9ZDRQlh_ac1vDo",
+                    "mimeType": "image/jpeg",
+                    "size": "119123"
+                  },
+                  {
+                    "name": "20.-Válvula-de-expansión-de-acción-manual.pdf",
+                    "type": "file",
+                    "id": "1a5x2v63pG4Vma3Chrd_dgvYWPKQYDYL2",
+                    "mimeType": "application/pdf",
+                    "size": "3889780"
+                  },
+                  {
+                    "name": "24.-_Valvula_atmosferica.gif",
+                    "type": "file",
+                    "id": "1_afaNVJ5D6vGDRknd6XXnMMSrmJtYWB-",
+                    "mimeType": "image/gif",
+                    "size": "370625"
+                  }
+                ]
+              },
+              {
+                "name": "Lista_Dispositivos_para_tarea",
+                "type": "folder",
+                "id": "1o0cpMIj7Ny3F_b5GxuiD3-RYJS1Jlq3Z",
+                "children": [
+                  {
+                    "name": "9.-_Reductor.docx",
+                    "type": "file",
+                    "id": "1bEfslCOdyG6dkXE4K5Hy_6oxO-jgXjfa",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1408891"
+                  },
+                  {
+                    "name": "8.-_Válvula_de_mariposa.docx",
+                    "type": "file",
+                    "id": "1380HktrbrMnehR3BlxgPRaEQY-uNQkNp",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1152593"
+                  },
+                  {
+                    "name": "7.-Válvula_antirretorno.docx",
+                    "type": "file",
+                    "id": "14qduk1E2aa1cGrgL9hzaD79srVzaUmsR",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "942113"
+                  },
+                  {
+                    "name": "6.-Válvula_de_seguridad_de_escape_libre..docx",
+                    "type": "file",
+                    "id": "1mPcvTkMS0pBOOczIk2WNwxl6Bn7capXL",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "943688"
+                  },
+                  {
+                    "name": "5.-Mordaza_para_la_sujeción_de_piezas.docx",
+                    "type": "file",
+                    "id": "11KWmhdfjg84wibBTlLhikNdJdGjpNBCz",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "753886"
+                  },
+                  {
+                    "name": "3.-_Distribuidor_para_tuberias_de_alta_presión.docx",
+                    "type": "file",
+                    "id": "1h2AodU5dzv8h2KATMbVJO5CQ5po9FmOr",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "721219"
+                  },
+                  {
+                    "name": "1.-_Soporte.docx",
+                    "type": "file",
+                    "id": "1UhAscw2lAl89DJVzS7YYZERmptL3RJKE",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "727413"
+                  },
+                  {
+                    "name": "12b.-131-132_Valvula_de_seguridad_pa_aire.jpg",
+                    "type": "file",
+                    "id": "1NKNl8xKxmBFFU6HoshmuhY1FHQsWBhud",
+                    "mimeType": "image/jpeg",
+                    "size": "39564"
+                  },
+                  {
+                    "name": "8c_Valvula_de_palanca.jpg",
+                    "type": "file",
+                    "id": "1Wc1oz1kKcK7KJNAPzQtVDHbTPA9lyesC",
+                    "mimeType": "image/jpeg",
+                    "size": "68394"
+                  },
+                  {
+                    "name": "12a.-132_Valvula_de_seguridad_pa_aire.jpg",
+                    "type": "file",
+                    "id": "13n2FUTPedtMAxIqYASVeW9Ttu7lU5OQQ",
+                    "mimeType": "image/jpeg",
+                    "size": "100681"
+                  },
+                  {
+                    "name": "12.-131_Valvula_de_seguridad_pa_aire.jpg",
+                    "type": "file",
+                    "id": "1mR9_j-FnH-4vwfbTllD-9VgTzOksKlMs",
+                    "mimeType": "image/jpeg",
+                    "size": "112748"
+                  },
+                  {
+                    "name": "11.-_126-127_Valvula_de_seguridad_con_palanca.jpg",
+                    "type": "file",
+                    "id": "1Tz5pFPJB4cTtqRRp-ngFEd7oS5Nm9Qkj",
+                    "mimeType": "image/jpeg",
+                    "size": "111143"
+                  },
+                  {
+                    "name": "10.-Sujetador_de_tuberia.jpg",
+                    "type": "file",
+                    "id": "1KMeIqNMgh_Q8PrmVynvzvbrNJYddUTNf",
+                    "mimeType": "image/jpeg",
+                    "size": "80949"
+                  },
+                  {
+                    "name": "16.-Porta_Broca.jpg",
+                    "type": "file",
+                    "id": "1qqX451zEvw4KXbDRUZMhjdpWQscIYssO",
+                    "mimeType": "image/jpeg",
+                    "size": "65002"
+                  },
+                  {
+                    "name": "4.-_Dispositivo.docx",
+                    "type": "file",
+                    "id": "1Y8zSDjVBcYs31CWjwAI-52zi7sSSE_2a",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "721997"
+                  },
+                  {
+                    "name": "2.-_Soporte_de_Polea.docx",
+                    "type": "file",
+                    "id": "1wBMEalJNDN59253FMKQ96wZ20rQZDohp",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "942746"
+                  },
+                  {
+                    "name": "13b.-_Válvula_de_retención_de_alimentaciónz.webp",
+                    "type": "file",
+                    "id": "1YKatb51yL5oGseWLPOtORhg_dzEzsBXt",
+                    "mimeType": "image/webp",
+                    "size": "59714"
+                  },
+                  {
+                    "name": "13a.-_Válvula_de_retención_de_alimentación.webp",
+                    "type": "file",
+                    "id": "1GkbtiZWqbxysAXkq9PboIT5wWvyzCyWL",
+                    "mimeType": "image/webp",
+                    "size": "37010"
+                  },
+                  {
+                    "name": "14b.-Valvula_de_NO_retornoz.webp",
+                    "type": "file",
+                    "id": "157iWjaGc_gBRCBVKLWAsYpmqlxW0LuML",
+                    "mimeType": "image/webp",
+                    "size": "58226"
+                  },
+                  {
+                    "name": "14a.-Valvula_de_NO_retorno.webp",
+                    "type": "file",
+                    "id": "109HjRP6078JRarimJvOGObFxpvmnsbpK",
+                    "mimeType": "image/webp",
+                    "size": "41410"
+                  },
+                  {
+                    "name": "15.-259_Valvula_pa_botella_acido_carbonico.jpg",
+                    "type": "file",
+                    "id": "1r69k1vslUwAHKnSBI_D5sUFh0aBdRCPX",
+                    "mimeType": "image/jpeg",
+                    "size": "119123"
+                  },
+                  {
+                    "name": "19.-Válvula-de-seguridad-para-instalación-frigorífica_(1).pdf",
+                    "type": "file",
+                    "id": "1gBa4mcsjnZDOzLW4Xd0f3gYMdqDF7xqT",
+                    "mimeType": "application/pdf",
+                    "size": "4329779"
+                  },
+                  {
+                    "name": "17.-Válvula-botella-amoniaco.pdf",
+                    "type": "file",
+                    "id": "1Uow275zTy4S29gV5oY1fQrhTimfoEJip",
+                    "mimeType": "application/pdf",
+                    "size": "3696576"
+                  },
+                  {
+                    "name": "18.02C_Troquel_de_doblar.jpg",
+                    "type": "file",
+                    "id": "1f78J5ijcrNWYijbDkwTwxwqgss2HsTtJ",
+                    "mimeType": "image/jpeg",
+                    "size": "171767"
+                  },
+                  {
+                    "name": "18.02B_Troquel_de_doblar.jpg",
+                    "type": "file",
+                    "id": "10CjxJgp5AtB6wdpJui3U5r7_jn1Oa199",
+                    "mimeType": "image/jpeg",
+                    "size": "12463"
+                  },
+                  {
+                    "name": "18.02A_Troquel_de_doblar.jpg",
+                    "type": "file",
+                    "id": "1G6WzkdCJGt3kfKloIFbwO4jggUPAkH99",
+                    "mimeType": "image/jpeg",
+                    "size": "47788"
+                  }
+                ]
+              },
+              {
+                "name": "Tablas_tolerancias_dimensionales_2.pdf",
+                "type": "file",
+                "id": "1-AjBKtf7JLAf-yjAeVFXy-vCiXzan9n6",
+                "mimeType": "application/pdf",
+                "size": "268847"
+              },
+              {
+                "name": "Tablas_tolerancias_dimensionales.pdf",
+                "type": "file",
+                "id": "118pxOAsFMWw23OPRIuK_i1gGZUWodUCG",
+                "mimeType": "application/pdf",
+                "size": "378686"
+              },
+              {
+                "name": "Ejercicio_de_Ajuste_y_tolerancia.xlsx",
+                "type": "file",
+                "id": "1BJZjinjacp2stvGJGOgfrhaA-3Nxl5uq",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "31801"
+              },
+              {
+                "name": "Polea_cable.docx",
+                "type": "file",
+                "id": "121SqVljwB7s9L1imgP4xijrvEzffoHGm",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "3300880"
+              },
+              {
+                "name": "ROSCAS_2.docx",
+                "type": "file",
+                "id": "1YR0Br-O27Z6bAaCHod0r6yHQYt79JT98",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "1992386"
+              },
+              {
+                "name": "ROSCAS.pdf",
+                "type": "file",
+                "id": "1jDu8UUe2GgOHG_SFn1j1X3YAmdkXRG3g",
+                "mimeType": "application/pdf",
+                "size": "1014465"
+              },
+              {
+                "name": "Ejercicios_Tolerancias.doc",
+                "type": "file",
+                "id": "186Zg0AR9OPTPGdkaLHizG73QxYtK3nIg",
+                "mimeType": "application/msword",
+                "size": "422400"
+              },
+              {
+                "name": "Dibujo-Industrial-conjunto-y-despiece-Auria-Ibanez-Ubieto.pdf",
+                "type": "file",
+                "id": "1L2EkAAV_qlWAo4kWossm9KNbz9ycYv5L",
+                "mimeType": "application/pdf",
+                "size": "31076957"
+              }
+            ]
+          },
+          {
+            "name": "Silabo_TE302-Diseño_Asistido_por_computadora_2026-I.pdf",
+            "type": "file",
+            "id": "1vVcTcvmIhM9NXuwhNqDb3KIy49xl9jZe",
+            "mimeType": "application/pdf",
+            "size": "359020"
+          },
+          {
+            "name": "Teoría",
+            "type": "folder",
+            "id": "1Kt1R3i9TLle9LDGWWdHY3gdgfeKki-GQ",
+            "children": [
+              {
+                "name": "ROSCAS_pt_2.pdf",
+                "type": "file",
+                "id": "1oW1fDleRtyehy51dGWlAzUEydHjxcsqN",
+                "mimeType": "application/pdf",
+                "size": "1635980"
+              },
+              {
+                "name": "Ppt_9_Rugosidad_Superficial_Car.pdf",
+                "type": "file",
+                "id": "18ur3ogh3TYuqKXGr6l0PiAg9o7NCfxB4",
+                "mimeType": "application/pdf",
+                "size": "1653064"
+              },
+              {
+                "name": "Ppt_8_Tolerancias_geometricas.pdf",
+                "type": "file",
+                "id": "1jnhONnhEQxSDHFfB7EB6AgrKW98VJBrD",
+                "mimeType": "application/pdf",
+                "size": "1116926"
+              },
+              {
+                "name": "Ppt_7_Roscas.pdf",
+                "type": "file",
+                "id": "1WymMr4RUDsaVjJVQQtA5ycuvdbv4VPPX",
+                "mimeType": "application/pdf",
+                "size": "1014465"
+              },
+              {
+                "name": "Tablas_tolerancias_dimensionales_2.pdf",
+                "type": "file",
+                "id": "1I1GDlbUOLMZSkQLi82kizYqpTrgepAhS",
+                "mimeType": "application/pdf",
+                "size": "268847"
+              },
+              {
+                "name": "Tablas_tolerancias_dimensionales.pdf",
+                "type": "file",
+                "id": "1k94iCTKKmef4nHvh0dhrHfzsz7gCWgX4",
+                "mimeType": "application/pdf",
+                "size": "378686"
+              },
+              {
+                "name": "Ppt_6_Tolerancias_Carlos_Mod.pdf",
+                "type": "file",
+                "id": "17ghj4t4E1ib9vTn_nzUkfop7WyYhIZDL",
+                "mimeType": "application/pdf",
+                "size": "3839952"
+              },
+              {
+                "name": "Ppt_5_Dimensionado_Car.pdf",
+                "type": "file",
+                "id": "1A66asHIZAhhwS6OKl9i97_YCAYSLDVrd",
+                "mimeType": "application/pdf",
+                "size": "4938067"
+              },
+              {
+                "name": "Ppt_4_Cortes_y_secciones_Car.pdf",
+                "type": "file",
+                "id": "1h_A5Nr_fbpX8E1yWGNqrUSad1iA6Ny3u",
+                "mimeType": "application/pdf",
+                "size": "2425810"
+              },
+              {
+                "name": "Ppt_3_Vistas_auxiliares.pdf",
+                "type": "file",
+                "id": "1jMq8CI_mxUdyEKw035fYd0tEYSAh_H7O",
+                "mimeType": "application/pdf",
+                "size": "763514"
+              },
+              {
+                "name": "Ppt_2_Proyecciones.pdf",
+                "type": "file",
+                "id": "1AOEzLC5BtXq7psvixY-Dl8vWWPWKTc6y",
+                "mimeType": "application/pdf",
+                "size": "1330633"
+              },
+              {
+                "name": "Ppt_1_Dibujo_a_mano.pdf",
+                "type": "file",
+                "id": "11mWLL5Z6rwKSl6ILHbfVYZdzT_JeSaXj",
+                "mimeType": "application/pdf",
+                "size": "1563074"
+              },
+              {
+                "name": "Ppt_0_Dibujo_Industrial_Car.pdf",
+                "type": "file",
+                "id": "1TZHlppw3nazQxpmBX862EKLRATfSYhTR",
+                "mimeType": "application/pdf",
+                "size": "845448"
+              }
+            ]
+          },
+          {
+            "name": "Planchas",
+            "type": "folder",
+            "id": "1iSZMQmjUm-dfVrQ985nJpXWQuMeP06VY",
+            "children": [
+              {
+                "name": "PC8",
+                "type": "folder",
+                "id": "1eeZ0ep_Ue4pVsmfiNFjcMXPXn7jeIU4D",
+                "children": [
+                  {
+                    "name": "PC8_20-II.pdf",
+                    "type": "file",
+                    "id": "1nBbioyJl6krDieo9yzRMelvvtksmXt47",
+                    "mimeType": "application/pdf",
+                    "size": "734544"
+                  }
+                ]
+              },
+              {
+                "name": "PC7",
+                "type": "folder",
+                "id": "10y1FDBrRgbgqYBK8b-Pf0obeCG7E8NCZ",
+                "children": [
+                  {
+                    "name": "PC7_23-III.pdf",
+                    "type": "file",
+                    "id": "1wkZPezAB9pkXkxNZGJMeT86Ue4xY3QL4",
+                    "mimeType": "application/pdf",
+                    "size": "659762"
+                  }
+                ]
+              },
+              {
+                "name": "PC6",
+                "type": "folder",
+                "id": "1FHmB__mi6eHGXReqxFp2GxzFN5Wto6RD",
+                "children": [
+                  {
+                    "name": "PC6_21-I.pdf",
+                    "type": "file",
+                    "id": "1g5AGrcsumiP9Og33xWi7UHd759CvfVk9",
+                    "mimeType": "application/pdf",
+                    "size": "455534"
+                  },
+                  {
+                    "name": "PC6_20-II.pdf",
+                    "type": "file",
+                    "id": "1MdLuRSCcGnhuJ-GZ6gZ012XtY_fh10ve",
+                    "mimeType": "application/pdf",
+                    "size": "620372"
+                  },
+                  {
+                    "name": "PC6_23-III.pdf",
+                    "type": "file",
+                    "id": "1YfnbwVzxotJz0wJzA8346AjiF6j4spHs",
+                    "mimeType": "application/pdf",
+                    "size": "1169336"
+                  }
+                ]
+              },
+              {
+                "name": "PC5",
+                "type": "folder",
+                "id": "1kiHKzIziIPNsPmiC10AeCjFf5FVMplRt",
+                "children": [
+                  {
+                    "name": "PC_extra_Muñoz_26-1.pdf",
+                    "type": "file",
+                    "id": "1J86-jP1cqn03f4PdKNA4sI1m86-dcbw9",
+                    "mimeType": "application/pdf",
+                    "size": "1380592"
+                  },
+                  {
+                    "name": "PC5_23-II.pdf",
+                    "type": "file",
+                    "id": "1-7rNHD0zWyrbozC2OKKqHVYooYMYrAg-",
+                    "mimeType": "application/pdf",
+                    "size": "1295449"
+                  },
+                  {
+                    "name": "PC5_21-I.pdf",
+                    "type": "file",
+                    "id": "1uDvOv8xxvQxDgycz8nQJ0HD-Z_88ha4P",
+                    "mimeType": "application/pdf",
+                    "size": "212069"
+                  },
+                  {
+                    "name": "PC5_23-I.pdf",
+                    "type": "file",
+                    "id": "1WuOi4b7eWZVFv44GZVyFbCVxq78fBjbq",
+                    "mimeType": "application/pdf",
+                    "size": "1005729"
+                  },
+                  {
+                    "name": "PC5_23-III_q_abuso.pdf",
+                    "type": "file",
+                    "id": "1AfnsVFmlS_oIoUPCvDBEJ6BKqcQ5ccUI",
+                    "mimeType": "application/pdf",
+                    "size": "1532353"
+                  },
+                  {
+                    "name": "PC5_24-III.pdf",
+                    "type": "file",
+                    "id": "1EnkZH0fYw0LQFobmxfBFQLShWFNYVgqf",
+                    "mimeType": "application/pdf",
+                    "size": "214101"
+                  }
+                ]
+              },
+              {
+                "name": "PC4",
+                "type": "folder",
+                "id": "1HWPCV_6adJSM-GSinG1s1n_BnI-kyuii",
+                "children": [
+                  {
+                    "name": "PC4_26-I.pdf",
+                    "type": "file",
+                    "id": "1vto9vQyaYv_2FR5lyt2HGWLKuNRSjPcI",
+                    "mimeType": "application/pdf",
+                    "size": "1392550"
+                  },
+                  {
+                    "name": "PC4_25-II.pdf",
+                    "type": "file",
+                    "id": "1tQQ4mqyOZiWGru5wGkIthbNGsc2UNK9V",
+                    "mimeType": "application/pdf",
+                    "size": "1291219"
+                  },
+                  {
+                    "name": "PC4_23-II.pdf",
+                    "type": "file",
+                    "id": "1D4tT4aiW9JLnX-j7zzO4gAqqGX1r86nR",
+                    "mimeType": "application/pdf",
+                    "size": "1333635"
+                  },
+                  {
+                    "name": "PC4_20-II.pdf",
+                    "type": "file",
+                    "id": "1uOCZYCIlhwUXqGHogkUA5wmW90gkyL0o",
+                    "mimeType": "application/pdf",
+                    "size": "672993"
+                  },
+                  {
+                    "name": "PC4_21-I.pdf",
+                    "type": "file",
+                    "id": "14EKqsegrJOFdB8OqyC2Q0UHEU1v04I0e",
+                    "mimeType": "application/pdf",
+                    "size": "766564"
+                  },
+                  {
+                    "name": "PC4_23-I.pdf",
+                    "type": "file",
+                    "id": "1yGJq3Q6pH4vTPnSdcRblpuu7bow5sLaQ",
+                    "mimeType": "application/pdf",
+                    "size": "786156"
+                  },
+                  {
+                    "name": "PC4_24-III.pdf",
+                    "type": "file",
+                    "id": "17snyq3c8THY8I9OS5-57hmKp1wTrWBYv",
+                    "mimeType": "application/pdf",
+                    "size": "347980"
+                  }
+                ]
+              },
+              {
+                "name": "PC3",
+                "type": "folder",
+                "id": "1z-iNlXA4PrdLB3cUHdccgiAYIFIT_wcg",
+                "children": [
+                  {
+                    "name": "PC3_26-I.pdf",
+                    "type": "file",
+                    "id": "1dxEHbU7uGehB4HBMmLH9XLitqpJDnoqu",
+                    "mimeType": "application/pdf",
+                    "size": "1428136"
+                  },
+                  {
+                    "name": "PC3_21-I.pdf",
+                    "type": "file",
+                    "id": "17PCI521n6k08fOa3wkFY367ctWZxPJOU",
+                    "mimeType": "application/pdf",
+                    "size": "173852"
+                  },
+                  {
+                    "name": "PC3_23-II.pdf",
+                    "type": "file",
+                    "id": "1tRSSAXxjZnfiyRr0Q5eBUIPl4mlPVrGt",
+                    "mimeType": "application/pdf",
+                    "size": "1284241"
+                  },
+                  {
+                    "name": "PC3_23-I.pdf",
+                    "type": "file",
+                    "id": "1fVWfctGwsTdMN555HgbyHpq5iM0eeBlL",
+                    "mimeType": "application/pdf",
+                    "size": "873975"
+                  },
+                  {
+                    "name": "PC3_23-III.pdf",
+                    "type": "file",
+                    "id": "1YYznL6ldK2mBmrZZgLG2Wp9oBSH4AHtu",
+                    "mimeType": "application/pdf",
+                    "size": "257747"
+                  }
+                ]
+              },
+              {
+                "name": "PC2",
+                "type": "folder",
+                "id": "1QtKCBtg49emkpm5HsCuBmNuYRELAL43H",
+                "children": [
+                  {
+                    "name": "PC2_26-1.pdf",
+                    "type": "file",
+                    "id": "1pAoK50ldLktYY3vQpsXodSU_tMWb0rCG",
+                    "mimeType": "application/pdf",
+                    "size": "1158722"
+                  },
+                  {
+                    "name": "PC2_25-II.pdf",
+                    "type": "file",
+                    "id": "16ZoUt6vJ_pFd_WYckIx90YgvxIwXShI4",
+                    "mimeType": "application/pdf",
+                    "size": "974320"
+                  },
+                  {
+                    "name": "PC2_23-III.pdf",
+                    "type": "file",
+                    "id": "1QlXgoB5BiHwYQX-jg_7YX6vNg76cmdyp",
+                    "mimeType": "application/pdf",
+                    "size": "1377243"
+                  },
+                  {
+                    "name": "PC2_21-I.pdf",
+                    "type": "file",
+                    "id": "1oWRklrdIDrteVZnll3IP8YIuQLKsBhb8",
+                    "mimeType": "application/pdf",
+                    "size": "694828"
+                  },
+                  {
+                    "name": "PC2_23-II.pdf",
+                    "type": "file",
+                    "id": "1GMuAz6pjTr-N7TzrqW-VT87T7j-uEk6u",
+                    "mimeType": "application/pdf",
+                    "size": "1710369"
+                  },
+                  {
+                    "name": "PC2_23-I.pdf",
+                    "type": "file",
+                    "id": "1Cf8YvsA8VKn5bkCk82RtIs5IgvrkeowR",
+                    "mimeType": "application/pdf",
+                    "size": "918724"
+                  },
+                  {
+                    "name": "PC2_20-II_otra_vez.pdf",
+                    "type": "file",
+                    "id": "1UrjSA3Mx7OS4ddr3CICU1Oksfykkylhj",
+                    "mimeType": "application/pdf",
+                    "size": "333530"
+                  },
+                  {
+                    "name": "PC2_20-I.pdf",
+                    "type": "file",
+                    "id": "1GUGpa5AsmudXrc-kxqe6IXEAdswWHzYk",
+                    "mimeType": "application/pdf",
+                    "size": "497989"
+                  },
+                  {
+                    "name": "PC2_20-II.pdf",
+                    "type": "file",
+                    "id": "1xWpCJ6_5DgWhYVJIyqyPDEECmMoJ5H9i",
+                    "mimeType": "application/pdf",
+                    "size": "504756"
+                  },
+                  {
+                    "name": "PC2_25-I.pdf",
+                    "type": "file",
+                    "id": "1hE2Q1H5x5BkS0AiTGjNSuSSOvgbBt1TZ",
+                    "mimeType": "application/pdf",
+                    "size": "220680"
+                  }
+                ]
+              },
+              {
+                "name": "PC1",
+                "type": "folder",
+                "id": "1IZbcwuirLAYfh94t68UCUTBYzmudgG5L",
+                "children": [
+                  {
+                    "name": "PC1_26-1.pdf",
+                    "type": "file",
+                    "id": "1rNR6jbWbuytQKQ8N2UEPYzWxjreWWu0H",
+                    "mimeType": "application/pdf",
+                    "size": "1372321"
+                  },
+                  {
+                    "name": "PC1_25-2.pdf",
+                    "type": "file",
+                    "id": "1L5G_j1e6AZIhJ0MDMH-CGt57TTyRul2c",
+                    "mimeType": "application/pdf",
+                    "size": "1403465"
+                  },
+                  {
+                    "name": "PC1_24-I_con_solu.pdf",
+                    "type": "file",
+                    "id": "19CobVQK8DJm6y8ny4OZ2AuCby88dQ6B_",
+                    "mimeType": "application/pdf",
+                    "size": "254442"
+                  },
+                  {
+                    "name": "PC1_23-III",
+                    "type": "file",
+                    "id": "14I2xz6eMURTcTYttG2o3gWIccMYWfw8uxoqmO7GlOnk",
+                    "mimeType": "application/vnd.google-apps.document",
+                    "size": "820555"
+                  },
+                  {
+                    "name": "PC1_23-III.pdf",
+                    "type": "file",
+                    "id": "1X6D9jMgq-5JBvjE85TfA_YAy6C5FoSd6",
+                    "mimeType": "application/pdf",
+                    "size": "1135370"
+                  },
+                  {
+                    "name": "PC1_20-3.pdf",
+                    "type": "file",
+                    "id": "1FIVwuze2vtMvUpHvZqOi99CMlSsms72v",
+                    "mimeType": "application/pdf",
+                    "size": "817337"
+                  },
+                  {
+                    "name": "PC1_23-2.pdf",
+                    "type": "file",
+                    "id": "18KC-RktArr3OKtGUCAktlYI-YJJmr2rw",
+                    "mimeType": "application/pdf",
+                    "size": "1221299"
+                  },
+                  {
+                    "name": "PC1_23-1.pdf",
+                    "type": "file",
+                    "id": "1WT4Q4wbyWBZG4PHOr_coN4YqRdLnJVDm",
+                    "mimeType": "application/pdf",
+                    "size": "1666515"
+                  },
+                  {
+                    "name": "PC1_21-1.pdf",
+                    "type": "file",
+                    "id": "1cfKa1aNPLQ1SnFFKtKI3ofFrP9Os1sDM",
+                    "mimeType": "application/pdf",
+                    "size": "251784"
+                  },
+                  {
+                    "name": "PC1_20-2.pdf",
+                    "type": "file",
+                    "id": "1O6QWe8EhzLq3-7CofqnSYr5HKSB8CGxq",
+                    "mimeType": "application/pdf",
+                    "size": "344703"
+                  },
+                  {
+                    "name": "PC1_20-1.pdf",
+                    "type": "file",
+                    "id": "1l42URjPLzF0YWLr9PY5FdZhsspau-CJ8",
+                    "mimeType": "application/pdf",
+                    "size": "901925"
+                  },
+                  {
+                    "name": "PC1_24-III.pdf",
+                    "type": "file",
+                    "id": "1e85XJXMGhkgF-LISqu25BM8IgoNLRPuT",
+                    "mimeType": "application/pdf",
+                    "size": "215101"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cieza_de_León",
+        "type": "folder",
+        "id": "1DzkZXNQXJUL9BBQlSlXoLcSKjTiX5V8G",
+        "children": [
+          {
+            "name": "ACOTADO",
+            "type": "folder",
+            "id": "17ragt75TAMwfOTwbv3jo_vpYocxuBv76",
+            "children": [
+              {
+                "name": "EJEMPLO_ACOTADO.pdf",
+                "type": "file",
+                "id": "1TwEs-N8rDiqNUxDmzdAgNEIUwljhWqGv",
+                "mimeType": "application/pdf",
+                "size": "1375971"
+              },
+              {
+                "name": "Acotado-Normas.pps",
+                "type": "file",
+                "id": "19qIR8dsdeQ-FaEt2RuuQtNN3oxZYb-kO",
+                "mimeType": "application/vnd.ms-powerpoint",
+                "size": "143360"
+              },
+              {
+                "name": "CATIA-exercise-bookpdf_compress.pdf",
+                "type": "file",
+                "id": "193DOdd01MJTuqe_gVAtFkUY-tAIyLyss",
+                "mimeType": "application/pdf",
+                "size": "2135253"
+              },
+              {
+                "name": "30_Solidos_para_Inventor-Proyecciones.png",
+                "type": "file",
+                "id": "1EPqWC02Uf6P_rcnJQWYp0Z4Ac5mGurDx",
+                "mimeType": "image/png",
+                "size": "937705"
+              },
+              {
+                "name": "DAC-W-Nota1-2024-1_soluc.pdf",
+                "type": "file",
+                "id": "1DbmWxgVDVezQ7A8VsEv5cVahafQRY5uT",
+                "mimeType": "application/pdf",
+                "size": "220458"
+              }
+            ]
+          },
+          {
+            "name": "INVENTOR",
+            "type": "folder",
+            "id": "1XiHE3fhhhJguQAgy7VqC_Mg8RJZDTOap",
+            "children": [
+              {
+                "name": "view.htm",
+                "type": "file",
+                "id": "1Hr96IKlXxbpsZp9T2fB6yoZgF8b_0_eo",
+                "mimeType": "text/html",
+                "size": "154114"
+              },
+              {
+                "name": "15.jpg",
+                "type": "file",
+                "id": "1boenrw5pjNNmW2koGPoGsW5L8BPiHqB6",
+                "mimeType": "image/jpeg",
+                "size": "33337"
+              },
+              {
+                "name": "14.jpg",
+                "type": "file",
+                "id": "1V6bgMkE2v3w8_kNSggNNdErTVzR5ZlCu",
+                "mimeType": "image/jpeg",
+                "size": "33412"
+              },
+              {
+                "name": "13.jpg",
+                "type": "file",
+                "id": "12cbkwPhwHnaVfNqLM-39TA9Lmb00UPkv",
+                "mimeType": "image/jpeg",
+                "size": "40196"
+              },
+              {
+                "name": "12.png",
+                "type": "file",
+                "id": "1qdwWUpm5MIkiKgG9GoPowff7tNwXF9SL",
+                "mimeType": "image/png",
+                "size": "25014"
+              },
+              {
+                "name": "11.png",
+                "type": "file",
+                "id": "1lpH5PJIRvl1Zx78BD39dokLtUS1-oSXS",
+                "mimeType": "image/png",
+                "size": "286645"
+              },
+              {
+                "name": "10.png",
+                "type": "file",
+                "id": "1hLHvj4H6HgGaMWkTE-eruoRkQGx2-nE-",
+                "mimeType": "image/png",
+                "size": "311592"
+              },
+              {
+                "name": "9.jpg",
+                "type": "file",
+                "id": "1e351ZZhmoBS0J7wq5Lolcklp_ytnIU7Y",
+                "mimeType": "image/jpeg",
+                "size": "42972"
+              },
+              {
+                "name": "8.jpg",
+                "type": "file",
+                "id": "1_YuMnw2Pb_PPlFC7--fVO-TTw-VXD6B1",
+                "mimeType": "image/jpeg",
+                "size": "33792"
+              },
+              {
+                "name": "7.jpg",
+                "type": "file",
+                "id": "1WfmMY-YTrHut9l0caUW2q--qej7ueGpE",
+                "mimeType": "image/jpeg",
+                "size": "44037"
+              },
+              {
+                "name": "6.jpg",
+                "type": "file",
+                "id": "1PICo5o7_Z8drZJfpA6oy3V3TX_p95-hw",
+                "mimeType": "image/jpeg",
+                "size": "23206"
+              },
+              {
+                "name": "5.jpg",
+                "type": "file",
+                "id": "1qy-hVUKM6n6F8gb2FyPdKPsLXbjbhDfG",
+                "mimeType": "image/jpeg",
+                "size": "43587"
+              },
+              {
+                "name": "4.jpg",
+                "type": "file",
+                "id": "1CmO6hg7fZAjAPlCKO9ktZzb4tI9a2JLl",
+                "mimeType": "image/jpeg",
+                "size": "33991"
+              },
+              {
+                "name": "3.jpg",
+                "type": "file",
+                "id": "16pLrz2Lwwl-ntMMRPh9EssMnNvYbUm3p",
+                "mimeType": "image/jpeg",
+                "size": "28147"
+              },
+              {
+                "name": "2.jpg",
+                "type": "file",
+                "id": "1Cj4hdqos7H-ZDwmEOqxaePyU9nYPn7Xq",
+                "mimeType": "image/jpeg",
+                "size": "65151"
+              },
+              {
+                "name": "1.jpg",
+                "type": "file",
+                "id": "1Xt5DOY3ojhY2TlhY6akmGqtLnmIaPUQ6",
+                "mimeType": "image/jpeg",
+                "size": "25497"
+              },
+              {
+                "name": "simulac_dinamica_1.pdf",
+                "type": "file",
+                "id": "19PS6Lm4TQt2HdT_B4yXRDcyo25j_supD",
+                "mimeType": "application/pdf",
+                "size": "4915789"
+              }
+            ]
+          },
+          {
+            "name": "AJUSTES_Y_TOLERANCIAS",
+            "type": "folder",
+            "id": "1hkcsmVEuhGs70ubUsMcgZs0tDF4LzwUr",
+            "children": [
+              {
+                "name": "Fundamentos_Toler-ajustes.pdf",
+                "type": "file",
+                "id": "1Pl6f1xvUB8GUXOA-eKTYHsIC8oM69mYH",
+                "mimeType": "application/pdf",
+                "size": "1537794"
+              },
+              {
+                "name": "Ej-Tol-Ajust.pdf",
+                "type": "file",
+                "id": "1TE54mETXJbkvhKaFuaX0sg4VYf5dOv_P",
+                "mimeType": "application/pdf",
+                "size": "518676"
+              },
+              {
+                "name": "Tolerancias_y_ajustes1.tif",
+                "type": "file",
+                "id": "1gr0jjwZCL6oK4RDS_K6c3JlVi59SxfxA",
+                "mimeType": "image/tiff",
+                "size": "2915064"
+              },
+              {
+                "name": "Sistema_PASA-NO_PASA.docx",
+                "type": "file",
+                "id": "1LTubJnyLU03Tf5vd4aKVOIahV4iSxR17",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "2603675"
+              },
+              {
+                "name": "DAC-P2-Tolerancias-2017-1.pdf",
+                "type": "file",
+                "id": "1-sBCDknYPDGG2evgLuRqu32dcG61Y0lV",
+                "mimeType": "application/pdf",
+                "size": "691473"
+              },
+              {
+                "name": "EJERCICIO_DE_AJUSTES-Aceite1.pdf",
+                "type": "file",
+                "id": "1ihcrf2FleHeXag--gXL3h3alTkR2U8qE",
+                "mimeType": "application/pdf",
+                "size": "322812"
+              },
+              {
+                "name": "view.htm",
+                "type": "file",
+                "id": "1laQUL6esXfaxDryNirIS2V8UePH2yDoa",
+                "mimeType": "text/html",
+                "size": "154444"
+              },
+              {
+                "name": "Tolerancias_Geométricas.(no_vi_esto_en_mi_ciclo)pdf.pdf",
+                "type": "file",
+                "id": "1MlWSYe_Sw-JNNh0kBJCrSQ50h3OjXsxx",
+                "mimeType": "application/pdf",
+                "size": "1200140"
+              },
+              {
+                "name": "Tolerancias.pdf",
+                "type": "file",
+                "id": "1SbEQL9C-KDI3R56aFxjPMiBuuFAHYTO9",
+                "mimeType": "application/pdf",
+                "size": "2837360"
+              },
+              {
+                "name": "4.1_Tolerancias.pdf",
+                "type": "file",
+                "id": "17978iTEEkOSkKJ9QBAWM4__mKThiQ0lO",
+                "mimeType": "application/pdf",
+                "size": "252002"
+              }
+            ]
+          },
+          {
+            "name": "SECCIONES-CORTES",
+            "type": "folder",
+            "id": "17sjAEbfaMFkyxXlOehOUBD22faU9dNiH",
+            "children": [
+              {
+                "name": "DAC-W-PR3-2024-1_SOLUC.png",
+                "type": "file",
+                "id": "1POA8y3ZKpKCbXCD6rEKy56Ar0QGHrMLI",
+                "mimeType": "image/png",
+                "size": "75440"
+              },
+              {
+                "name": "secc.png",
+                "type": "file",
+                "id": "1Ha26Maxpd2J_L_E7cHuGRlHsUbD8f5fj",
+                "mimeType": "image/png",
+                "size": "700706"
+              },
+              {
+                "name": "vistas-cortes_-VARIANTES.png",
+                "type": "file",
+                "id": "1n8Ykuoz6C1jHL6zv45WQsODBMH-AUppO",
+                "mimeType": "image/png",
+                "size": "12685832"
+              },
+              {
+                "name": "DAC-P1-2018-2-Soluc.pdf",
+                "type": "file",
+                "id": "1z32KGuIlQ-ABhIUsnbUeziYSLLT6-HIi",
+                "mimeType": "application/pdf",
+                "size": "346301"
+              },
+              {
+                "name": "Soluc-DT2-pract-Cortes-secc-414-2014-2.jpg",
+                "type": "file",
+                "id": "1aBwtxMsTj6N7AkF0YKv5CeBX2bRHlskP",
+                "mimeType": "image/jpeg",
+                "size": "183243"
+              },
+              {
+                "name": "DAC-P1-2018-1-Soluc.pdf",
+                "type": "file",
+                "id": "1of_6WyLjSDRkeTDR0Ob3PxmailrXvdqN",
+                "mimeType": "application/pdf",
+                "size": "141894"
+              },
+              {
+                "name": "DT2-T2-Cortes-SOLUC-_2015-2.png",
+                "type": "file",
+                "id": "16tfXagJwF_TTdP7W5mCrt0rNQhTwDkdf",
+                "mimeType": "image/png",
+                "size": "527904"
+              },
+              {
+                "name": "Pract_Cortes_y_Secc-2015-1.pdf",
+                "type": "file",
+                "id": "1_qWeoyK6ZhFJHUGOpW_3o2IkQ6EUGriD",
+                "mimeType": "application/pdf",
+                "size": "221631"
+              },
+              {
+                "name": "Cortes_y_secciones_UNI_2019-2._Bogoliuv.pdf",
+                "type": "file",
+                "id": "1H2fqL1MR8bEjj9fs35UBhWnlX8E0bGcP",
+                "mimeType": "application/pdf",
+                "size": "1102471"
+              }
+            ]
+          },
+          {
+            "name": "tipos_de_proyecciones.png",
+            "type": "file",
+            "id": "1E4dVxVGSrIyu88J3697lGsHwyRMZQsnv",
+            "mimeType": "image/png",
+            "size": "150946"
+          },
+          {
+            "name": "view_(1).htm",
+            "type": "file",
+            "id": "18V1Z7DGFhMA6qOT2kiKNgCc7Sxj8TGfc",
+            "mimeType": "text/html",
+            "size": "155237"
+          },
+          {
+            "name": "view.htm",
+            "type": "file",
+            "id": "1W1F8fUyWLKgzgF76kq5VpAQfU0hpSPN5",
+            "mimeType": "text/html",
+            "size": "154898"
+          }
+        ]
+      }
+    ]
+  }
+}

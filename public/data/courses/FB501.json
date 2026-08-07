@@ -1,0 +1,599 @@
+{
+  "course_id": "FB501",
+  "course_name": "Matemática_aplicada",
+  "id": "1Y1A-VGz1tqhKqTyXmw90t5YPHkqY7Yig",
+  "scanned_at": "2026-08-07T00:07:04.477184+00:00",
+  "tree": {
+    "name": "Matemática_aplicada",
+    "type": "folder",
+    "id": "1Y1A-VGz1tqhKqTyXmw90t5YPHkqY7Yig",
+    "children": [
+      {
+        "name": "Profesores",
+        "type": "folder",
+        "id": "1DjAypYmQQ0yO8gSJNTaRtFb0W2yMkg7W",
+        "children": [
+          {
+            "name": "Salazar",
+            "type": "folder",
+            "id": "1aMD_bi2vt2bSiVlEv_GNXc-RhmtSQnlz",
+            "children": []
+          },
+          {
+            "name": "Cueva",
+            "type": "folder",
+            "id": "1ZvEPh-16kigATk7j7drY7l4lH7oTEQlT",
+            "children": []
+          },
+          {
+            "name": "Tocto",
+            "type": "folder",
+            "id": "1ogJjxYCPkCd9e_YtG1ZFnDI1CfyAS_mb",
+            "children": [
+              {
+                "name": "Material",
+                "type": "folder",
+                "id": "1XU1-RYkbGYBOMNZDuTHH6fXSz7KLld36",
+                "children": [
+                  {
+                    "name": "8._Teoría_del_Caos",
+                    "type": "folder",
+                    "id": "1Eu1PaqtX3msyq8HpAKZV-nO5z5ndM6IK",
+                    "children": [
+                      {
+                        "name": "Principios_de_la_Teoría_del_Caos.txt",
+                        "type": "file",
+                        "id": "1zq11otGSUseDCd0ddj6YLd663nJJZE4y",
+                        "mimeType": "text/plain",
+                        "size": "370"
+                      },
+                      {
+                        "name": "fractals.pdf",
+                        "type": "file",
+                        "id": "1TSQ5AcfmoyyEXkCzqoMcoHIoDUpk78SM",
+                        "mimeType": "application/pdf",
+                        "size": "1874801"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "7._Lógica_Difusa",
+                    "type": "folder",
+                    "id": "1qzXmYiXUGSej0vd9pvILoHL7wrsUI_Bk",
+                    "children": [
+                      {
+                        "name": "Sistemas_Logica_Difusa.pdf",
+                        "type": "file",
+                        "id": "1hljyuG-_D6jhxBaYFxL79aTaoFKdSWdZ",
+                        "mimeType": "application/pdf",
+                        "size": "296063"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "6._Redes_Neuronales",
+                    "type": "folder",
+                    "id": "1o5zAk417vLEMprycMPU8mJhSuAEDc99Q",
+                    "children": [
+                      {
+                        "name": "Apuntes_de_Clase_-_Redes_Neuronales.pdf",
+                        "type": "file",
+                        "id": "1lqlAFNS7bL_k9Id0QvLn9FyAXHszQx9n",
+                        "mimeType": "application/pdf",
+                        "size": "1705859"
+                      },
+                      {
+                        "name": "activationfunctions.png",
+                        "type": "file",
+                        "id": "1kMZkDkvCqPBdfrgdyIbB1fhbOjo-CfYX",
+                        "mimeType": "image/png",
+                        "size": "470414"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "5._Modelos_Matemáticos",
+                    "type": "folder",
+                    "id": "10enRdQNFccgu6QJQxE8yjjY-634aPkyA",
+                    "children": [
+                      {
+                        "name": "Apuntes_de_Clase_-_Modelos_Matemáticos.pdf",
+                        "type": "file",
+                        "id": "1aDfQ7Wq7Iq-TZ0WRj9sZiGi4rsQiiuNz",
+                        "mimeType": "application/pdf",
+                        "size": "1735505"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "4._Serie_de_Fourier",
+                    "type": "folder",
+                    "id": "17XC2wZSt06pSDSU1y3_Oouh0cBOQYoFq",
+                    "children": [
+                      {
+                        "name": "serie-de-fourier_(1).pdf",
+                        "type": "file",
+                        "id": "1XytkWiRpKUZq0uCfpv-P3oTeElh2w723",
+                        "mimeType": "application/pdf",
+                        "size": "33352"
+                      },
+                      {
+                        "name": "waves_fourier.pdf",
+                        "type": "file",
+                        "id": "1Zq4GqCsKzjD55h1AHFm-eoWS7v5rme8J",
+                        "mimeType": "application/pdf",
+                        "size": "937429"
+                      },
+                      {
+                        "name": "Apuntes_de_Clase_-_Serie_de_Fourier.pdf",
+                        "type": "file",
+                        "id": "1tyebl8vlTlPLAEtQhXLI7tXtxyTGU1ex",
+                        "mimeType": "application/pdf",
+                        "size": "4131969"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "3._Serie_de_Taylor,_Laurent_y_Teoría_de_Residuos",
+                    "type": "folder",
+                    "id": "1bo6WHZP0B5lOZvCwdtPBselbZ8HP-672",
+                    "children": [
+                      {
+                        "name": "7_teoria_de_residuos.pdf",
+                        "type": "file",
+                        "id": "1u8ElYd8rVSLXRN4nCmf2NW-eH__DNAhx",
+                        "mimeType": "application/pdf",
+                        "size": "72946"
+                      },
+                      {
+                        "name": "6_series_(1).pdf",
+                        "type": "file",
+                        "id": "1-yLjNCex8nW7gdPcsbmJqJrPqeHUphOy",
+                        "mimeType": "application/pdf",
+                        "size": "158469"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "2._Integración_Compleja",
+                    "type": "folder",
+                    "id": "1jokS-Y9uYNZK7tqgGvCNAUQTSZqsl3YC",
+                    "children": [
+                      {
+                        "name": "5-integracion.pdf",
+                        "type": "file",
+                        "id": "1fatIovqubaW7BAal4HI71EWP19_6vUzT",
+                        "mimeType": "application/pdf",
+                        "size": "208703"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "1._Números_y_Funciones_Complejas",
+                    "type": "folder",
+                    "id": "1yf0s-hwPHynLyDY_dyk2PCZ5QOwDBlca",
+                    "children": [
+                      {
+                        "name": "C00_Historia_Variable_Compleja.pdf",
+                        "type": "file",
+                        "id": "145-S8mCki4_1NIQOdEGHRQm0E-Pb-G-x",
+                        "mimeType": "application/pdf",
+                        "size": "191679"
+                      },
+                      {
+                        "name": "3_funciones_analiticas_(2).pdf",
+                        "type": "file",
+                        "id": "1A0qMlawykgkt6VBoa6prq6-b8NpkyXv2",
+                        "mimeType": "application/pdf",
+                        "size": "177412"
+                      },
+                      {
+                        "name": "MA_SEMAN_1-_CLASE_1.pdf",
+                        "type": "file",
+                        "id": "1tNyjYpHs210Lk6ReV4_amNagSxpj30Yf",
+                        "mimeType": "application/pdf",
+                        "size": "608553"
+                      },
+                      {
+                        "name": "4_funciones_basicas.pdf",
+                        "type": "file",
+                        "id": "1TgDDzA8xi83gUk9nRXg8CCfXUQiY_mQ7",
+                        "mimeType": "application/pdf",
+                        "size": "115485"
+                      },
+                      {
+                        "name": "2_funciones.pdf",
+                        "type": "file",
+                        "id": "1c2w1W-HS_NL2Qv3zFIt_213MN1VXM8VY",
+                        "mimeType": "application/pdf",
+                        "size": "106848"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Matemática_Aplicada_Sílabo.pdf",
+        "type": "file",
+        "id": "1wig2NdS-Gz6cycLbI7yUsYLaD-j1QiiJ",
+        "mimeType": "application/pdf",
+        "size": "114162"
+      },
+      {
+        "name": "Planchas",
+        "type": "folder",
+        "id": "114EqlYRedeYeKN6y9oS9d5TMmIL5I484",
+        "children": [
+          {
+            "name": "PC4",
+            "type": "folder",
+            "id": "1PwI4CpjnsT9rU45jNtiqZot9LHLbOlYn",
+            "children": [
+              {
+                "name": "MA_PC4_19-1_U.pdf",
+                "type": "file",
+                "id": "1K8_rnQaBDnniklfj01TxdMcZssSkMRUZ",
+                "mimeType": "application/pdf",
+                "size": "45809"
+              },
+              {
+                "name": "MA_PC4_Tocto_Sol.pdf",
+                "type": "file",
+                "id": "1LL5sjA4NmPBIIe7hzYPFO4T9g7tQkmQF",
+                "mimeType": "application/pdf",
+                "size": "3925599"
+              },
+              {
+                "name": "MA_PC4_18-1_V.pdf",
+                "type": "file",
+                "id": "1CZqwA9d1_pT4DKPYVNzSgU2qT5mTrYUo",
+                "mimeType": "application/pdf",
+                "size": "37537"
+              },
+              {
+                "name": "MA_PC4_17-2_V.jpg",
+                "type": "file",
+                "id": "1qfML11j_u9Tz3MKaG-885WovgsOmu7XA",
+                "mimeType": "image/jpeg",
+                "size": "2149569"
+              },
+              {
+                "name": "MA_PC4_Tocto.pdf",
+                "type": "file",
+                "id": "1Yc6gkYkOYhPrMn8Key-0v3J9MgzVFvMz",
+                "mimeType": "application/pdf",
+                "size": "13031868"
+              },
+              {
+                "name": "MA_PC4_16-1_Angulo.pdf",
+                "type": "file",
+                "id": "1ELYW8VaXarDaEaDFmwlGn6r1hciUivJz",
+                "mimeType": "application/pdf",
+                "size": "281616"
+              }
+            ]
+          },
+          {
+            "name": "PC3",
+            "type": "folder",
+            "id": "1NYrrxW3u1SoDmZDWymUrAn5Ij-MKX_bu",
+            "children": [
+              {
+                "name": "MA_PC3_19-1_U.pdf",
+                "type": "file",
+                "id": "1ZR0h11ZWhItKdGd8pTMdnhuEzPXXt-JZ",
+                "mimeType": "application/pdf",
+                "size": "42271"
+              },
+              {
+                "name": "MA_PC3.pdf",
+                "type": "file",
+                "id": "1R53lSFNv5RE6QVNJv3q5iaZ7Sw5WAx6D",
+                "mimeType": "application/pdf",
+                "size": "12702081"
+              }
+            ]
+          },
+          {
+            "name": "PC2",
+            "type": "folder",
+            "id": "1a10CywxhSIDuL-V-ZnTZdoPjKrFWpok2",
+            "children": [
+              {
+                "name": "MA_PC2_19-1.pdf",
+                "type": "file",
+                "id": "1s_R59KxGvOU78MHQ4-JVkMWJRuidllUD",
+                "mimeType": "application/pdf",
+                "size": "510607"
+              },
+              {
+                "name": "MA_PC2_18-2_U.pdf",
+                "type": "file",
+                "id": "1E9KzbcujS82XS-kUcJGzN_0wVhyqYswD",
+                "mimeType": "application/pdf",
+                "size": "52027"
+              },
+              {
+                "name": "MA_PC2_06-1_Tocto.pdf",
+                "type": "file",
+                "id": "1m75HO40b98PBd1PtbTZRa-VAhceldisG",
+                "mimeType": "application/pdf",
+                "size": "237758"
+              },
+              {
+                "name": "MA_PC2_18-1_U.pdf",
+                "type": "file",
+                "id": "1vu89P5aYTYX-_IdclrJ7sTYGNiCP1M61",
+                "mimeType": "application/pdf",
+                "size": "147858"
+              }
+            ]
+          },
+          {
+            "name": "PC1",
+            "type": "folder",
+            "id": "1XuK8GagAQDBkwT8Q3u6RD2ArYkOMyRGK",
+            "children": [
+              {
+                "name": "MA_PC1_Tocto_Sol.pdf",
+                "type": "file",
+                "id": "1YI8kFM8MfkoM-EnJ5tqSMp9yxk0t4DYj",
+                "mimeType": "application/pdf",
+                "size": "20164193"
+              },
+              {
+                "name": "MA_PC1_17-2_V.jpg",
+                "type": "file",
+                "id": "15dY9J3sIQda16FYfaxXCX3shxmwM-FTm",
+                "mimeType": "image/jpeg",
+                "size": "2048614"
+              },
+              {
+                "name": "MA_PC1_18-1_V.pdf",
+                "type": "file",
+                "id": "1-KPezOUtIUx7qLu6gvuYEOUE7ZQZU1jw",
+                "mimeType": "application/pdf",
+                "size": "986562"
+              },
+              {
+                "name": "MA_PC1_18-1_U.pdf",
+                "type": "file",
+                "id": "1hDM2IXvwsFfQl4YeECCpV6-Wt-ozG7uJ",
+                "mimeType": "application/pdf",
+                "size": "54958"
+              },
+              {
+                "name": "MA_PC1_19-1_U.pdf",
+                "type": "file",
+                "id": "1lB1jem6psb96vvWJEHA_HVmSUC4m6n_-",
+                "mimeType": "application/pdf",
+                "size": "38088"
+              },
+              {
+                "name": "MA_PC1_18-2_U.pdf",
+                "type": "file",
+                "id": "1uAs1ObL-iTPcKoLPUMKFC5yLvhGnsKnP",
+                "mimeType": "application/pdf",
+                "size": "54476"
+              }
+            ]
+          },
+          {
+            "name": "EP",
+            "type": "folder",
+            "id": "1lnSgX8WQUA4iU-mYoARvTQ3oPNq447-2",
+            "children": [
+              {
+                "name": "MA_EP_Tocto_Sol.pdf",
+                "type": "file",
+                "id": "1XTdRlWYJfRjF8DKdBZBPoBq2qjTWZoMd",
+                "mimeType": "application/pdf",
+                "size": "17874299"
+              },
+              {
+                "name": "MA_EP_Tocto.pdf",
+                "type": "file",
+                "id": "1z_Mna4IQtE1VuLin6jtDwBNZv8GqYJqc",
+                "mimeType": "application/pdf",
+                "size": "24439654"
+              },
+              {
+                "name": "MA_PARCIAL_18-1_U.jpg",
+                "type": "file",
+                "id": "1_hi15dY73pVtzHIm2G4jv6ALljt-T7hN",
+                "mimeType": "image/jpeg",
+                "size": "2659684"
+              },
+              {
+                "name": "MA_EP_18_Angulo.pdf",
+                "type": "file",
+                "id": "1OFBSVLkz4PsTjLH2FIWhAnJ2gUYiQRtw",
+                "mimeType": "application/pdf",
+                "size": "2043114"
+              },
+              {
+                "name": "MA_EP_Tocto_Sol_(1).pdf",
+                "type": "file",
+                "id": "1TnejJ5lyPOrDcFcqMj_6--UOUoJYMYmd",
+                "mimeType": "application/pdf",
+                "size": "27585435"
+              },
+              {
+                "name": "MA_PARCIAL_17-2_V.jpg",
+                "type": "file",
+                "id": "14eMYYzW2L0dkn5YSsthi1ngYo1HsK-z9",
+                "mimeType": "image/jpeg",
+                "size": "3148825"
+              },
+              {
+                "name": "MA_EP_Tocto.pdf",
+                "type": "file",
+                "id": "1SpgpjyOGpCi7w8vcsDJ_wsYwGcsIxpEu",
+                "mimeType": "application/pdf",
+                "size": "24439654"
+              },
+              {
+                "name": "MA_angulo_EP.pdf",
+                "type": "file",
+                "id": "1hCcyptyJJ1yeVT-dKCfPY-0BKeEdETHX",
+                "mimeType": "application/pdf",
+                "size": "2043114"
+              },
+              {
+                "name": "MA_PARCIAL_19-1.pdf",
+                "type": "file",
+                "id": "1wDRnhXx3oWOZ18cTiRmsCKHelE_IRuEx",
+                "mimeType": "application/pdf",
+                "size": "44599"
+              },
+              {
+                "name": "MA_tocto_EP.pdf",
+                "type": "file",
+                "id": "1MVeIGebPaEd2FMh3hHvTuBvthsN263Qj",
+                "mimeType": "application/pdf",
+                "size": "27585435"
+              }
+            ]
+          },
+          {
+            "name": "ES",
+            "type": "folder",
+            "id": "1eV7QEmfH55PPJxVHaQcb00SHGnHLCKeC",
+            "children": [
+              {
+                "name": "MA_SUSTI_18-1_V.pdf",
+                "type": "file",
+                "id": "1T3et8ulyd2frtUP8b4cyPo9tc6sAtKtS",
+                "mimeType": "application/pdf",
+                "size": "50723"
+              },
+              {
+                "name": "MA_ES_06-1.pdf",
+                "type": "file",
+                "id": "1XD5XluI8N_2jSJSirXyrF8erK7_LMMaz",
+                "mimeType": "application/pdf",
+                "size": "219515"
+              },
+              {
+                "name": "MA_SUSTI_19-1.pdf",
+                "type": "file",
+                "id": "1yz7Xb2RJbfjWsXXGK1bQA2qZduHH7CNJ",
+                "mimeType": "application/pdf",
+                "size": "61844"
+              }
+            ]
+          },
+          {
+            "name": "EF",
+            "type": "folder",
+            "id": "1_R6I65wYrU5Kvtj7BkoZICycLQwc8h3P",
+            "children": [
+              {
+                "name": "FB501_EF_26-1.pdf",
+                "type": "file",
+                "id": "1ZDeJlFu7knCqP8GyyrZvSPYkmdr_f_YU",
+                "mimeType": "application/pdf",
+                "size": "288650"
+              },
+              {
+                "name": "MA_EF_Tocto_Sol.pdf",
+                "type": "file",
+                "id": "1Wyly-cWfyT6CsnxLN3HbUZ8oBtphP8dp",
+                "mimeType": "application/pdf",
+                "size": "5574899"
+              },
+              {
+                "name": "MA_EF_Tocto.pdf",
+                "type": "file",
+                "id": "142IHsHMXEpZ_q1bFobCZaS6rFdkjoRcP",
+                "mimeType": "application/pdf",
+                "size": "13426448"
+              },
+              {
+                "name": "MA_FINAL_18-1_V.pdf",
+                "type": "file",
+                "id": "1gqMg3uIEVcuSbYBd9h9xxCYqZT4HMk63",
+                "mimeType": "application/pdf",
+                "size": "71917"
+              },
+              {
+                "name": "MA_FINAL_19-1.pdf",
+                "type": "file",
+                "id": "1uYQeA1yH3yQLpXTTzzFJcfYpwsZ_q-Hq",
+                "mimeType": "application/pdf",
+                "size": "54291"
+              },
+              {
+                "name": "MA_FINAL_18-2_U.pdf",
+                "type": "file",
+                "id": "1dHaiwiqlXceKfVqyTmHXxzfl1A29JtG_",
+                "mimeType": "application/pdf",
+                "size": "53004"
+              }
+            ]
+          },
+          {
+            "name": "PE",
+            "type": "folder",
+            "id": "1xVgSv3lLGcmFAxcO8IXswsZU4fJzMRBS",
+            "children": [
+              {
+                "name": "MA_ENTRADA_19-1_U.pdf",
+                "type": "file",
+                "id": "1V-kBAVmBfb91R9wqbFZB4l2zsww7Fe2S",
+                "mimeType": "application/pdf",
+                "size": "30958"
+              },
+              {
+                "name": "MA_ENTRADA_18-1_U.pdf",
+                "type": "file",
+                "id": "1v_o2x_M9rrS0rrmvxx4rXW0dzjjQjlr6",
+                "mimeType": "application/pdf",
+                "size": "233958"
+              }
+            ]
+          },
+          {
+            "name": "_MA_SILABUS.pdf",
+            "type": "file",
+            "id": "15yzXdV0CUuFwoghZiBE1jgICLwWWDc0-",
+            "mimeType": "application/pdf",
+            "size": "114162"
+          }
+        ]
+      },
+      {
+        "name": "Libros",
+        "type": "folder",
+        "id": "1_Ny28GTv1LLoClhSA2UlOwNgHzxvLKWV",
+        "children": [
+          {
+            "name": "Variable_compleja_-_Murray_Spiegel_serie_Schaum.pdf",
+            "type": "file",
+            "id": "1VkxR9_MEC8PtC_P_tpQhPGn7SDe5Cg5Y",
+            "mimeType": "application/pdf",
+            "size": "80792323"
+          },
+          {
+            "name": "MA._Solved_Complex-variable_and_applications_(1).pdf",
+            "type": "file",
+            "id": "13czEZuKgFqnyLPzhfXI-vLz6xAIwpuG6",
+            "mimeType": "application/pdf",
+            "size": "1250607"
+          },
+          {
+            "name": "MA._Variable_compleja_y_aplicaciones_Churchill_(1).pdf",
+            "type": "file",
+            "id": "1cQzOp2CC06mvEAXKOsfYYowRdI3Q8zST",
+            "mimeType": "application/pdf",
+            "size": "26806958"
+          }
+        ]
+      }
+    ]
+  }
+}

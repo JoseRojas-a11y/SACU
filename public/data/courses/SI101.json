@@ -1,0 +1,832 @@
+{
+  "course_id": "SI101",
+  "course_name": "Intr._a_la_Ingeniería_de_Sistemas",
+  "id": "1_aJ2ETD-CdF4Znp6DsNoMWe110VNBXL7",
+  "scanned_at": "2026-08-06T23:55:18.137020+00:00",
+  "tree": {
+    "name": "Intr._a_la_Ingeniería_de_Sistemas",
+    "type": "folder",
+    "id": "1_aJ2ETD-CdF4Znp6DsNoMWe110VNBXL7",
+    "children": [
+      {
+        "name": "MBA_Yangato",
+        "type": "folder",
+        "id": "1COAZUEmT_2WgFOdfjyntJMt-vAlP2tdQ",
+        "children": [
+          {
+            "name": "Semana_14",
+            "type": "folder",
+            "id": "1GhxnHkEquKxwpbhlR_3CMWCcUbobGytw",
+            "children": [
+              {
+                "name": "Clase_14-SEGURIDAD_Informatica-Garcia_y_Vidal_M-2017.pdf",
+                "type": "file",
+                "id": "1sPBqGjren955F2Bv0Y0fig13-XPUff1I",
+                "mimeType": "application/pdf",
+                "size": "291648"
+              },
+              {
+                "name": "UNI-IIS-Clase_14-IA-INTELIGENCIA_ARTIFICIAL-Articulos.pdf",
+                "type": "file",
+                "id": "1Z-Acnrgsoat1quphiDL8yhe6Z2vqtMpT",
+                "mimeType": "application/pdf",
+                "size": "379252"
+              },
+              {
+                "name": "UNI-FIIS-Clase_14-Que_es_la_auditoria_de_sistemas-Resumen.pdf",
+                "type": "file",
+                "id": "1RycTY-VOE6Z_ChGDUzDISJksrh9LHUbc",
+                "mimeType": "application/pdf",
+                "size": "215158"
+              },
+              {
+                "name": "Clase_14-1-IIS.pdf",
+                "type": "file",
+                "id": "14rLgH8u8vJAXhKuWsr6BJubqj8LFr4LJ",
+                "mimeType": "application/pdf",
+                "size": "813400"
+              },
+              {
+                "name": "Qué_es_la_IA_generativa.pdf",
+                "type": "file",
+                "id": "1GWeQvazLprdrxWjkHPkVoY2QibxYTB-P",
+                "mimeType": "application/pdf",
+                "size": "648601"
+              },
+              {
+                "name": "IA-Inteligencia_artificial.pdf",
+                "type": "file",
+                "id": "1Zp2YzNfdC_5fW-yWbLCGVIM_Vrmooxf0",
+                "mimeType": "application/pdf",
+                "size": "305302"
+              },
+              {
+                "name": "UNI-IIS-Clase_14-AUDITORIA_de_Sistemas-Resumen.pdf",
+                "type": "file",
+                "id": "1flMi4FG-8hYCM3rMCSARv58IpPEEkfWj",
+                "mimeType": "application/pdf",
+                "size": "538532"
+              },
+              {
+                "name": "UNI-IIS-Clase_14-Investigación_de_Operaciones-Resumen.pdf",
+                "type": "file",
+                "id": "1ZZj47ga7WCZFFAlNJSY_i8_zMF8oM8_k",
+                "mimeType": "application/pdf",
+                "size": "199123"
+              },
+              {
+                "name": "UNI-IIS-Clase_14-Que_es_la_IA.pdf",
+                "type": "file",
+                "id": "1Gtu1Lqa6uyhcWdDYGlu1RRePwyPF9aIj",
+                "mimeType": "application/pdf",
+                "size": "207964"
+              },
+              {
+                "name": "Clase_14-Investigación_de_Operaciones-Introduccion.pdf",
+                "type": "file",
+                "id": "1qFRLuKETHQa-G1fvZBtuInoUFyKDpvOu",
+                "mimeType": "application/pdf",
+                "size": "753067"
+              }
+            ]
+          },
+          {
+            "name": "Formato_de_PCs.txt",
+            "type": "file",
+            "id": "1n8l0D36maUFxSxTDjXBqXferOq3GY0LU",
+            "mimeType": "text/plain",
+            "size": "463"
+          },
+          {
+            "name": "Semana_13",
+            "type": "folder",
+            "id": "16mqz_QPv_SsYtANLUj1QaR4qXhAgm8ji",
+            "children": [
+              {
+                "name": "UNI-IIS-Clase_13-La_transformación_digital-Resumen.pdf",
+                "type": "file",
+                "id": "1k9gpwAdvGgaEE9fXeVmaTvBS47tNQlj6",
+                "mimeType": "application/pdf",
+                "size": "153547"
+              },
+              {
+                "name": "UNI-IIS-Clase_13_ERP-Que_es-Resumen.pdf",
+                "type": "file",
+                "id": "1_Nmqm5r0xHU1rZe8vQy-Qxq_BbEXzbt3",
+                "mimeType": "application/pdf",
+                "size": "259864"
+              },
+              {
+                "name": "UNI-IIS-Clase_13-CRM-Resumen.pdf",
+                "type": "file",
+                "id": "1MRGfIyzfZfYEnxIXj3iCJszaUJeBf-7b",
+                "mimeType": "application/pdf",
+                "size": "247011"
+              },
+              {
+                "name": "Clase_13-IIS_Sistemas_Integrados.pdf",
+                "type": "file",
+                "id": "1xSqVhOI_pIaitH8waBJ-1E_LUOBNWvX_",
+                "mimeType": "application/pdf",
+                "size": "996889"
+              },
+              {
+                "name": "Clase_13-1-Procesamiento_en_la_NUBE.pdf",
+                "type": "file",
+                "id": "1Rd2fV3EH6DeIfWgyIhHilBYxMa4A7kgw",
+                "mimeType": "application/pdf",
+                "size": "857451"
+              },
+              {
+                "name": "UNI-IIS-Clase_13-SCM-Resumen.pdf",
+                "type": "file",
+                "id": "1Wmbsgc3GLLCR-Ph1mAbEJ7RA1-AyHuLF",
+                "mimeType": "application/pdf",
+                "size": "159318"
+              },
+              {
+                "name": "UNI-IIS-Clase_13-KM-Resumen.pdf",
+                "type": "file",
+                "id": "1pHXBfhSIqJ8joqIS24U9H2bzmN5lSKRX",
+                "mimeType": "application/pdf",
+                "size": "78924"
+              },
+              {
+                "name": "TRANSFORMACION_DIGITAL-Resumen.pdf",
+                "type": "file",
+                "id": "1rfuGSE6JVYVjKovWwEcK3fQAH2Vhrt76",
+                "mimeType": "application/pdf",
+                "size": "580370"
+              },
+              {
+                "name": "UNI-IIS-Clase_13-BI_Resumen.pdf",
+                "type": "file",
+                "id": "19otSHKvmooEiZv0OQIqonoHDJkK2SrIW",
+                "mimeType": "application/pdf",
+                "size": "334961"
+              },
+              {
+                "name": "UNI-IIS-CLASE_13_Comercio_electrónico-Resumen.pdf",
+                "type": "file",
+                "id": "1KoVVMd8dZ9OdtJkjhStSw1O60fMXzvsx",
+                "mimeType": "application/pdf",
+                "size": "250092"
+              },
+              {
+                "name": "UNI-IIS-Clase_13_E-Learning-Resumen.pdf",
+                "type": "file",
+                "id": "1Uep3Khv0-Zy8T1O-sYWqGIHhBoSmYzh1",
+                "mimeType": "application/pdf",
+                "size": "200556"
+              }
+            ]
+          },
+          {
+            "name": "Semana_12",
+            "type": "folder",
+            "id": "1TW3xblVEMhgWvp7rvlbEwF3717t6mxHf",
+            "children": [
+              {
+                "name": "Clase_12-IIS.pdf",
+                "type": "file",
+                "id": "1byK6U3RLxHG3aSqP86GH6nJz2JyS7-CJ",
+                "mimeType": "application/pdf",
+                "size": "1177987"
+              },
+              {
+                "name": "UNI-IIS-Clase_12-Internet-Como-funciona-ONG_Derechos_Digitales.pdf",
+                "type": "file",
+                "id": "1JRYxPJI7KMI-plcAiSrAaLO5lRgJpYF9",
+                "mimeType": "application/pdf",
+                "size": "1964621"
+              },
+              {
+                "name": "REDES_de_COMUNICACION-LAN_y_WAN.pdf",
+                "type": "file",
+                "id": "1LAgvGkFbwRy-Nrj3In_NHXrufHClhZMX",
+                "mimeType": "application/pdf",
+                "size": "95142"
+              },
+              {
+                "name": "Clase_12_-_Internet-Introduccion-O.Vallejos.pdf",
+                "type": "file",
+                "id": "1GmFdgJrNM5QX3ydR3J9hUCTGDHph7paw",
+                "mimeType": "application/pdf",
+                "size": "812142"
+              }
+            ]
+          },
+          {
+            "name": "Semana_11",
+            "type": "folder",
+            "id": "16XuM-8UZRcRI1VGC4thbqyfEmLyq9nEB",
+            "children": [
+              {
+                "name": "IIS-Clase_11-Qué_es_una_base_de_datos_relacional.pdf",
+                "type": "file",
+                "id": "11MOeBBUtWKCvYiJtbulzXZ_3q18H-UXG",
+                "mimeType": "application/pdf",
+                "size": "955810"
+              },
+              {
+                "name": "IIS-Clase_11-Introduccion_a_Base_de_Datos.pdf",
+                "type": "file",
+                "id": "1hYMDvGLfRY6m8Vl1LofohyUAwAc0QqVo",
+                "mimeType": "application/pdf",
+                "size": "1159757"
+              },
+              {
+                "name": "Clase_11-IIS.pdf",
+                "type": "file",
+                "id": "1V7Rg-QeSuUfkSCltTeH6ac08Xi1N2dTy",
+                "mimeType": "application/pdf",
+                "size": "775841"
+              }
+            ]
+          },
+          {
+            "name": "Semana_10",
+            "type": "folder",
+            "id": "1qWeK5N5PLVl-cCTWDfB5HFlcjZc1aRA2",
+            "children": [
+              {
+                "name": "Clase_10-IIS.pdf",
+                "type": "file",
+                "id": "1RfIbK0k_GNV0JSwX99Zs59uHonYU3_nG",
+                "mimeType": "application/pdf",
+                "size": "955971"
+              }
+            ]
+          },
+          {
+            "name": "Semana_9",
+            "type": "folder",
+            "id": "14mCW4otrgAWu0eti2g2SgDZwCUIN5UBY",
+            "children": [
+              {
+                "name": "UNI-IIS-Clase_09-ETAPAS_de_DESARROLLO_de_la_INFORMATICA-R._NOLAN.pdf",
+                "type": "file",
+                "id": "1JZkVU75yAgQ_9VAN5xSQ0igO3zpEIEOi",
+                "mimeType": "application/pdf",
+                "size": "147237"
+              },
+              {
+                "name": "UNI-IIS-Clase_09-PC-Historia.pdf",
+                "type": "file",
+                "id": "1UC6EAIH8R47d7GxrRRJH7pvotL_IycKt",
+                "mimeType": "application/pdf",
+                "size": "1502766"
+              },
+              {
+                "name": "UNI-IIS-Clase_09-INFORMATICA-Introduccion.pdf",
+                "type": "file",
+                "id": "1QWYbd4XQpLbp1MSEodiTYCNCij2EJrda",
+                "mimeType": "application/pdf",
+                "size": "1003293"
+              },
+              {
+                "name": "Clase_09-IIS.pdf",
+                "type": "file",
+                "id": "17VR2fMoBewf0Wf2NOIouVK-6Pl7o-NRM",
+                "mimeType": "application/pdf",
+                "size": "765644"
+              }
+            ]
+          },
+          {
+            "name": "Semana_7",
+            "type": "folder",
+            "id": "1q8hntfsHPN-LjaMtBhF1liKBXDgVq0uj",
+            "children": [
+              {
+                "name": "Clase_07-IIS.pdf",
+                "type": "file",
+                "id": "1QW8fBl_5oCq1dObiiGNnc5mD3d5q4GCf",
+                "mimeType": "application/pdf",
+                "size": "843778"
+              }
+            ]
+          },
+          {
+            "name": "Semana_6",
+            "type": "folder",
+            "id": "1pBuzauojOcdb1k5NErxufsWsyOLNCQMb",
+            "children": [
+              {
+                "name": "PMBOK_6ta_Ed-Cap_1-2-3.pdf",
+                "type": "file",
+                "id": "1nmIekIElx80acdntdvPxCwyunvy5Wmbf",
+                "mimeType": "application/pdf",
+                "size": "1080639"
+              },
+              {
+                "name": "Clase_06-Como_iniciar_los_proyectos_de_TI.pdf",
+                "type": "file",
+                "id": "1N9b6ZG96404_ByL-mFhIWPqSUWUhL8i8",
+                "mimeType": "application/pdf",
+                "size": "89272"
+              },
+              {
+                "name": "Clase_06-IIS.pdf",
+                "type": "file",
+                "id": "1GUJMEneNlKDB_M1iIly4_3wr2afIW8nf",
+                "mimeType": "application/pdf",
+                "size": "618169"
+              }
+            ]
+          },
+          {
+            "name": "Semana_5",
+            "type": "folder",
+            "id": "1fUYQnZPR4KK3O9ZzlWxb9_DCupukZBt_",
+            "children": [
+              {
+                "name": "Clase_05-FUNDAMENTOS_DEL_ANÁLISIS_DE_SISTEMAS-Cap_1-Kendall_y_Kendall.pdf",
+                "type": "file",
+                "id": "109fIlTMdcnb2VCVsm6TjfTihwGeJ65No",
+                "mimeType": "application/pdf",
+                "size": "282331"
+              },
+              {
+                "name": "Clase_05-IIS.pdf",
+                "type": "file",
+                "id": "11TTvcymt5dx188mWRoy6iqXQBck041ue",
+                "mimeType": "application/pdf",
+                "size": "559709"
+              },
+              {
+                "name": "Clase_05-Sistemas_de_Informacion-introduccion.pdf",
+                "type": "file",
+                "id": "1epQZZ5lme7gGyJNgEhecQTz9_KgbJOjS",
+                "mimeType": "application/pdf",
+                "size": "120628"
+              },
+              {
+                "name": "Clase_05-Lectura_cap1-2-3_K._Laudon.pdf",
+                "type": "file",
+                "id": "1rOghigc9wHYNicTU0YoCCIBo_KAZd4Se",
+                "mimeType": "application/pdf",
+                "size": "988222"
+              }
+            ]
+          },
+          {
+            "name": "Semana_4",
+            "type": "folder",
+            "id": "1nCf0sHaA3sGhQUGVEFFisEHzuBsk3dKr",
+            "children": [
+              {
+                "name": "Clase_04-Modelo_de_Negocio_Canvas.pdf",
+                "type": "file",
+                "id": "1ZaMIs9N9U1moA34UtWA1nk5OmeQ--f4L",
+                "mimeType": "application/pdf",
+                "size": "174887"
+              },
+              {
+                "name": "Clase_04-Qué_es_un_Mapa_Mental.pdf",
+                "type": "file",
+                "id": "1qqfruwVManGA8r_qjsAQbcQtLs9C0pNn",
+                "mimeType": "application/pdf",
+                "size": "1839652"
+              },
+              {
+                "name": "Clase_04-Modelo_de_Negocios-CANVAS.pdf",
+                "type": "file",
+                "id": "1G9uSvlGKY8JxIO7opbYPGDKz_dIJ3rCo",
+                "mimeType": "application/pdf",
+                "size": "973302"
+              },
+              {
+                "name": "Clase_04-Análisis_FODA.pdf",
+                "type": "file",
+                "id": "1ouolyu0o8akw2bzusulwL3htCR81fwvh",
+                "mimeType": "application/pdf",
+                "size": "404400"
+              },
+              {
+                "name": "Clase_04_-_DIAGRAMA_CAUSA-EFECTO-Ishikawa.pdf",
+                "type": "file",
+                "id": "1uhgh07adKeR2n4wxOzi3Is6l2p4vzNKG",
+                "mimeType": "application/pdf",
+                "size": "229752"
+              },
+              {
+                "name": "Clase_04-IIS.pdf",
+                "type": "file",
+                "id": "1p2VBKKpgiW_C8Vrs5zyi-0k3epXrsrqr",
+                "mimeType": "application/pdf",
+                "size": "821840"
+              },
+              {
+                "name": "Clase_04-Qué_define_a_un_líder-D_Goleman.pdf",
+                "type": "file",
+                "id": "1tjZiJyx_9mp6w2A7EoagY8FKk71-f4NI",
+                "mimeType": "application/pdf",
+                "size": "132661"
+              },
+              {
+                "name": "Clase_04-LIDERAZGO_da_Resultados-D.Goleman.pdf",
+                "type": "file",
+                "id": "1XqWF4gvaVcg19-NiiTP97Y7QmCEs9LV3",
+                "mimeType": "application/pdf",
+                "size": "155052"
+              },
+              {
+                "name": "Clase_04-CIBERNETICA-Giovany_Bustamante.pdf",
+                "type": "file",
+                "id": "1gCRM453x9LDY7YEJdyTmLni38sK5VzOw",
+                "mimeType": "application/pdf",
+                "size": "413920"
+              },
+              {
+                "name": "Clase_04-Cómo_hablar_de_complejidad.pdf",
+                "type": "file",
+                "id": "1E1q7MK7VgjGT_FJNVV1PXqotgW8ZZgWv",
+                "mimeType": "application/pdf",
+                "size": "123886"
+              }
+            ]
+          },
+          {
+            "name": "Semana_3",
+            "type": "folder",
+            "id": "1n7wAnMhDzUvEFdH7rQcbQP4OXz4WsDlm",
+            "children": [
+              {
+                "name": "UNI-IIS-Clase_03-Resumen_TGS-Pensamiento_Sistemico_-_Enfoque_Sistemico.pdf",
+                "type": "file",
+                "id": "1c_BO1w7ntzEKwMPGyS5BOv2wCUWH4FWY",
+                "mimeType": "application/pdf",
+                "size": "288847"
+              },
+              {
+                "name": "UNI-IIS-Clase_03-Que_es_el_enfoque_sistémico.pdf",
+                "type": "file",
+                "id": "12exIk4BwjPn1LBxXs5ciWWUiI5ECqMRE",
+                "mimeType": "application/pdf",
+                "size": "109464"
+              },
+              {
+                "name": "UNI-IIS-Clase_03-Pensamiento-Sistemico.pdf",
+                "type": "file",
+                "id": "1N471EJaAWrX6jpORy2ehLS6wOozS19jS",
+                "mimeType": "application/pdf",
+                "size": "408273"
+              },
+              {
+                "name": "Clase_03-IIS.pdf",
+                "type": "file",
+                "id": "1xbMZgfVSLwcCIZ17L47_1FFDYPqdF6L8",
+                "mimeType": "application/pdf",
+                "size": "1180084"
+              }
+            ]
+          },
+          {
+            "name": "Semana_2",
+            "type": "folder",
+            "id": "1hJq7OrP3eHja974DJJ-bVhzMHOLG449h",
+            "children": [
+              {
+                "name": "Lecturas_PC1",
+                "type": "folder",
+                "id": "1IqVvREEzWVU1xFn9LAi41BQyk-0kcycM",
+                "children": [
+                  {
+                    "name": "UNI-IIS-Clase_02-Reuniones_de_Trabajo_en_Equipo-Bossi_Ignacio.pdf",
+                    "type": "file",
+                    "id": "1Vt7snVutzg_P-2yiHrSLqnwZLVSlV8ao",
+                    "mimeType": "application/pdf",
+                    "size": "73935"
+                  },
+                  {
+                    "name": "UNI-IIS-Clase_02-Trabajo_en_equipo-Cardona-Dikinson-2006.pdf",
+                    "type": "file",
+                    "id": "1QA8WwXQv7gKUIrYrAug2kGYUuazza3n3",
+                    "mimeType": "application/pdf",
+                    "size": "82146"
+                  },
+                  {
+                    "name": "UNI-IIS-Clase_02-LAS_NECESIDADES_HUMANAS-Alcazar_y_Ferreiro.pdf",
+                    "type": "file",
+                    "id": "19cZUfE2uy0tirknmblGP7ClIJRpXdXXH",
+                    "mimeType": "application/pdf",
+                    "size": "97346"
+                  },
+                  {
+                    "name": "UNI-IIS-Clase_02-INTELIGENCIAS_MULTIPLES-H.Gardner_(2).pdf",
+                    "type": "file",
+                    "id": "1DGp2WztGBzwciJzhR0yCzK5oNYdh2Enw",
+                    "mimeType": "application/pdf",
+                    "size": "291402"
+                  },
+                  {
+                    "name": "UNI-IIS-Clase_02-LA_MOTIVACION_HUMANA-Teorias.pdf",
+                    "type": "file",
+                    "id": "1AipxnaumLjmrTw_dpw8QXm-qDOVaL-73",
+                    "mimeType": "application/pdf",
+                    "size": "126472"
+                  },
+                  {
+                    "name": "UNI-IIS-Clase_02-La_Inteligencia_Emocional-Goleman.pdf",
+                    "type": "file",
+                    "id": "1KUNfBEdBkEtA-EPnXw12CYVKYOt9-yBY",
+                    "mimeType": "application/pdf",
+                    "size": "62377"
+                  }
+                ]
+              },
+              {
+                "name": "Clase_02-IIS.pdf",
+                "type": "file",
+                "id": "14P2k3Voldba33HFx7-7Ht-MAHvXjmYfz",
+                "mimeType": "application/pdf",
+                "size": "681940"
+              },
+              {
+                "name": "Lectura-Clase_02-Teoria_de_Sistemas-R.Solano.pdf",
+                "type": "file",
+                "id": "1tZ57OFPodhlwBIkl4KvvEOszs5RxEmtH",
+                "mimeType": "application/pdf",
+                "size": "109348"
+              },
+              {
+                "name": "Lectura-Clase_02-INTRODUCCION_a_TGS-Arnold_-_OSORIO.pdf",
+                "type": "file",
+                "id": "1Xc6nJ3KdJIk-9-Qq2_-bTqNkpooKasVk",
+                "mimeType": "application/pdf",
+                "size": "264624"
+              }
+            ]
+          },
+          {
+            "name": "Semana_1",
+            "type": "folder",
+            "id": "13xFmlDQyO2SMzfXFB5mWyZjdqgt8q4Db",
+            "children": [
+              {
+                "name": "Clase_01-IIS.pdf",
+                "type": "file",
+                "id": "1O4dcc3g6j3NSzMe4gMcJzh_0SMHykzEj",
+                "mimeType": "application/pdf",
+                "size": "1517904"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "SI101_Silabo.pdf",
+        "type": "file",
+        "id": "1LFpkd8YvbRlq2CrnuxES4pDcH2DYzon4",
+        "mimeType": "application/pdf",
+        "size": "288510"
+      },
+      {
+        "name": "PCs_obsoletas_(No_necesaria_su_revisión)",
+        "type": "folder",
+        "id": "1B8J5nWbCZl-g2BmmjRISGGxUsU9y6Osz",
+        "children": [
+          {
+            "name": "SI101_PC3_(s.f.)_(s.p.).pdf",
+            "type": "file",
+            "id": "1BJ5n0lw_QZyTrmtvQbVnwVEzSYtilUlw",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "3451050"
+          },
+          {
+            "name": "SI101_PC1_23-2_Noemi.pdf",
+            "type": "file",
+            "id": "1wBWBWWgzCn6gHTOCMo-YfoMzb0IDkapt",
+            "mimeType": "application/pdf",
+            "size": "5149866"
+          }
+        ]
+      },
+      {
+        "name": "ES",
+        "type": "folder",
+        "id": "11TL7rhxBzknxpnvwq0SxFLpvYpyD7vpU",
+        "children": [
+          {
+            "name": "SI101_ES_26-1.pdf",
+            "type": "file",
+            "id": "1KzW8ybWBW8Xl3Ar5D_z1XquQNj898dsL",
+            "mimeType": "application/pdf",
+            "size": "356061"
+          },
+          {
+            "name": "SI101_ES_24-1_Sol..pdf",
+            "type": "file",
+            "id": "13a7toqG3NhPtWRF0giwss0LEue-rtqOz",
+            "mimeType": "application/pdf",
+            "size": "70032"
+          },
+          {
+            "name": "SI101_ES_25-2_Sol.pdf",
+            "type": "file",
+            "id": "152gdR-ud1CA48FH9fhBKFGv5i-DMcsgP",
+            "mimeType": "application/pdf",
+            "size": "141169"
+          },
+          {
+            "name": "SI101_ES_25-1_Sol.pdf",
+            "type": "file",
+            "id": "1P6a-h_dYcGG3Z6scvqrdXRz8-OSeJOtW",
+            "mimeType": "application/pdf",
+            "size": "32494"
+          }
+        ]
+      },
+      {
+        "name": "EF",
+        "type": "folder",
+        "id": "1lA2noMltSj8b5AFgS4lc1-9qYfFHfi4Q",
+        "children": [
+          {
+            "name": "SI101_EF_23-2.pdf",
+            "type": "file",
+            "id": "1SSJTEZTYp0sm-K7ZhsLCdMU7G04peiV1",
+            "mimeType": "application/pdf",
+            "size": "1890670"
+          },
+          {
+            "name": "SI101_EF_21-2_Sol.pdf",
+            "type": "file",
+            "id": "14x10GoC71CMTL04MgXoroLmI5BNfNLI7",
+            "mimeType": "application/pdf",
+            "size": "212311"
+          },
+          {
+            "name": "SI101_EF_18-2.pdf",
+            "type": "file",
+            "id": "1mpm6bO2UvWD-ZOKyhxziuOrIQ1Ya9o6q",
+            "mimeType": "application/pdf",
+            "size": "377176"
+          },
+          {
+            "name": "SI101_EF_20-2.pdf",
+            "type": "file",
+            "id": "1hxfFkjD_J1sdJ2Rphh-JgX2rx5ZfV3ks",
+            "mimeType": "application/pdf",
+            "size": "263094"
+          },
+          {
+            "name": "SI101_EF_19-2_Sol.pdf",
+            "type": "file",
+            "id": "1i2V4VyezHWOjOvJFZ6M69jHVY5GOQqmx",
+            "mimeType": "application/pdf",
+            "size": "382903"
+          },
+          {
+            "name": "SI101_EF_24-2.pdf",
+            "type": "file",
+            "id": "1xyucxMZpVmZGuhUgsR6t9iCOjZjY9x-q",
+            "mimeType": "application/pdf",
+            "size": "226747"
+          },
+          {
+            "name": "SI101_EF_(s.f.).pdf",
+            "type": "file",
+            "id": "18eGmL52YmefCuI04VaL5iEyTFZBfA261",
+            "mimeType": "application/pdf",
+            "size": "579640"
+          },
+          {
+            "name": "SI101_EF_26-1_Sol.pdf",
+            "type": "file",
+            "id": "1ENosalueyAgDJibKDkC9neKw6dDucd1L",
+            "mimeType": "application/pdf",
+            "size": "166996"
+          },
+          {
+            "name": "SI101_EF_25-1_Sol.pdf",
+            "type": "file",
+            "id": "1oKm9XJMfwQ_BomTISNNCq5MZemILm92_",
+            "mimeType": "application/pdf",
+            "size": "109069"
+          },
+          {
+            "name": "SI101_EF_26-1.pdf",
+            "type": "file",
+            "id": "1HvusFXIhC9yhqu_9cIA17FrEkOkYeFq7",
+            "mimeType": "application/pdf",
+            "size": "487884"
+          },
+          {
+            "name": "SI101_EF_25-1.pdf",
+            "type": "file",
+            "id": "1U_PlaEGXPyq3kvrPDSOkRgMmXYCpvTGq",
+            "mimeType": "application/pdf",
+            "size": "621386"
+          },
+          {
+            "name": "SI101_EF_24-1_Sol.pdf",
+            "type": "file",
+            "id": "1KYaScIfpcF1XXpHBwqDOEE_JmA_hFjWP",
+            "mimeType": "application/pdf",
+            "size": "39995"
+          },
+          {
+            "name": "SI101_EF_22-2.pdf",
+            "type": "file",
+            "id": "11lHythOMWRp19lRIn40YEfGBStvkxN7W",
+            "mimeType": "application/pdf",
+            "size": "584684"
+          },
+          {
+            "name": "SI101_EF_22-2_Sol.pdf",
+            "type": "file",
+            "id": "1dr_WOVhWCUhFJRyuvZLnAgNq8jJABZ_c",
+            "mimeType": "application/pdf",
+            "size": "27072"
+          },
+          {
+            "name": "SI101_EF_23-1.pdf",
+            "type": "file",
+            "id": "1JELL7AehFL8jvlwby-hc03WR3H_5nsNB",
+            "mimeType": "application/pdf",
+            "size": "126400"
+          }
+        ]
+      },
+      {
+        "name": "EP",
+        "type": "folder",
+        "id": "1lEIy8_M9G8bZApaJKN9aW0N3wQx0tjOG",
+        "children": [
+          {
+            "name": "SI101_EP_24-1_Sol..pdf",
+            "type": "file",
+            "id": "1d8Lm3CF3XA2A380UJd0IXokxqwlVWAar",
+            "mimeType": "application/pdf",
+            "size": "35249"
+          },
+          {
+            "name": "SI101_EP_26-1.pdf",
+            "type": "file",
+            "id": "1h9NYyqFU_6GUpzslQ_HL8d9qXF1WMgCs",
+            "mimeType": "application/pdf",
+            "size": "865968"
+          },
+          {
+            "name": "SI101_EP_25-2_Sol.pdf",
+            "type": "file",
+            "id": "1axMbM_p3K2m88hjDPQnOjk6gMHgsTQda",
+            "mimeType": "application/pdf",
+            "size": "86101"
+          },
+          {
+            "name": "SI101_EP_25-1_Sol.pdf",
+            "type": "file",
+            "id": "1hxph4vKnO-RYExG59GpLC1b3xCm4JEJt",
+            "mimeType": "application/pdf",
+            "size": "79037"
+          },
+          {
+            "name": "SI101_EP_25-1.pdf",
+            "type": "file",
+            "id": "107tAl8kYagMHf_iOpCZnlPEvCqm8nR1z",
+            "mimeType": "application/pdf",
+            "size": "528931"
+          },
+          {
+            "name": "SI101_EP_24-2.pdf",
+            "type": "file",
+            "id": "1dLSjEZW8XE8dkx1idpzC3OEnu5z-PU8G",
+            "mimeType": "application/pdf",
+            "size": "362626"
+          },
+          {
+            "name": "SI101_EP_21-2.pdf",
+            "type": "file",
+            "id": "1EJrf2YNTE8Bw9RtvR8sM1oiEdi0tcdAl",
+            "mimeType": "application/pdf",
+            "size": "783877"
+          },
+          {
+            "name": "SI101_EP_26-1_Sol.pdf",
+            "type": "file",
+            "id": "1Q6vj6peb3bqUQCkJpOR60XND6ZqBBT6V",
+            "mimeType": "application/pdf",
+            "size": "204048"
+          },
+          {
+            "name": "SI101_EP_22-2.pdf",
+            "type": "file",
+            "id": "10YuFpuNotHqLp2MSbCQGqU8RDdoTYva5",
+            "mimeType": "application/pdf",
+            "size": "131458"
+          },
+          {
+            "name": "SI101_EP_21-1.pdf",
+            "type": "file",
+            "id": "1kFwilcXfhqrwlLf3SE6BM4Rs9Gjcvn96",
+            "mimeType": "application/pdf",
+            "size": "701257"
+          }
+        ]
+      }
+    ]
+  }
+}

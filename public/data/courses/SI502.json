@@ -1,0 +1,314 @@
+{
+  "course_id": "SI502",
+  "course_name": "Diseño_de_Base_de_Datos",
+  "id": "1BKgOJT4QTQL5Q2aGxFwS_7lXnvAorVo6",
+  "scanned_at": "2026-08-07T00:03:45.768472+00:00",
+  "tree": {
+    "name": "Diseño_de_Base_de_Datos",
+    "type": "folder",
+    "id": "1BKgOJT4QTQL5Q2aGxFwS_7lXnvAorVo6",
+    "children": [
+      {
+        "name": "CATALOGO_DE_PRODUCTOS_(TIPO_SERVICIO).png",
+        "type": "file",
+        "id": "1Ycos7NUsjVYK4DxUc0mjOjsVNz6mCyhr",
+        "mimeType": "image/png",
+        "size": "80127"
+      },
+      {
+        "name": "SI-505-U-DISEÑO_BD.pdf",
+        "type": "file",
+        "id": "1oVXUvkToM4pn9gxb4zjfeazP-5hsnfnf",
+        "mimeType": "application/pdf",
+        "size": "167550"
+      },
+      {
+        "name": "METODOLOGIA-SI-505.pdf",
+        "type": "file",
+        "id": "1UKvNl3V9v-lz4L330ShmUAFtd2scWUCK",
+        "mimeType": "application/pdf",
+        "size": "25873"
+      },
+      {
+        "name": "Clases",
+        "type": "folder",
+        "id": "1S8KoofwBMQnLXD9WpKj6UmW543KoUQVm",
+        "children": [
+          {
+            "name": "BD2-ARQUITECTURA.pdf",
+            "type": "file",
+            "id": "1oDvCntIn0dfGnSXdDLqeC-UkIKPeiV5o",
+            "mimeType": "application/pdf",
+            "size": "431662"
+          },
+          {
+            "name": "BD1-REQUERMTO-DISEÑO.pdf",
+            "type": "file",
+            "id": "1mRn9bhR5H7dsTRZBNXbPREg8svA2F8FQ",
+            "mimeType": "application/pdf",
+            "size": "903545"
+          },
+          {
+            "name": "BD6-MOD-FIS.pdf",
+            "type": "file",
+            "id": "111ps91bxujjC4Gt6lfcTgTSKu8ndGBen",
+            "mimeType": "application/pdf",
+            "size": "616585"
+          },
+          {
+            "name": "BD15-ARQGESTORBD.pdf",
+            "type": "file",
+            "id": "1ZeVSfFYbGYcHtzdpnFNXGAcw-F_KU5xO",
+            "mimeType": "application/pdf",
+            "size": "1055116"
+          },
+          {
+            "name": "BD5-MOD-LOG.pdf",
+            "type": "file",
+            "id": "1aGbvK97q0WirCiQKDJg51cu7iFPkm2CI",
+            "mimeType": "application/pdf",
+            "size": "548865"
+          },
+          {
+            "name": "BD7-IND-REL.pdf",
+            "type": "file",
+            "id": "18-RbznDFRmDUK8r2H1deLjElCXT_auwi",
+            "mimeType": "application/pdf",
+            "size": "493655"
+          },
+          {
+            "name": "BD3-MOD-EXT.pdf",
+            "type": "file",
+            "id": "1tzLxGYEsUP5JK8gTwJTKNRbO4alaTGfl",
+            "mimeType": "application/pdf",
+            "size": "594474"
+          },
+          {
+            "name": "BD13-OPTIMIZACION-GESTORBD.pdf",
+            "type": "file",
+            "id": "1rGgGME2EjT4wrtNYA2RGR4zsVKwh6j8t",
+            "mimeType": "application/pdf",
+            "size": "513150"
+          },
+          {
+            "name": "BD9-ON-LINE.pdf",
+            "type": "file",
+            "id": "1z63C_9X9qtFh2WHNM1zin3jfgrGQVpg_",
+            "mimeType": "application/pdf",
+            "size": "186562"
+          },
+          {
+            "name": "BD10-BATCH.pdf",
+            "type": "file",
+            "id": "1_rCaoENCfsNwU0AThOImWwz3tM8Fd4YD",
+            "mimeType": "application/pdf",
+            "size": "576768"
+          }
+        ]
+      },
+      {
+        "name": "Planchas",
+        "type": "folder",
+        "id": "1WIdRlE4nu-m0Ha3kLNHouPO_Oua62Fa8",
+        "children": [
+          {
+            "name": "MONOGRAFÍA_FINAL",
+            "type": "folder",
+            "id": "1Stmbm1TprjlUNSGzUsXGtgl8Xh1JHyYY",
+            "children": [
+              {
+                "name": "mantenimiento_final.pdf",
+                "type": "file",
+                "id": "1d5nmL78jjCVmH3d9zxo7Qdqt7lbvbxe8",
+                "mimeType": "application/pdf",
+                "size": "1563510"
+              },
+              {
+                "name": "sistema_de_almacenamiento_entregable_final.pdf",
+                "type": "file",
+                "id": "1Ye-YKT-aoYApmrFW_rqPKfK9HupSL3vq",
+                "mimeType": "application/pdf",
+                "size": "3269687"
+              },
+              {
+                "name": "monografía_cobranzas_dbd.pdf",
+                "type": "file",
+                "id": "1iZ2NIKT6TLKehsMU_LvWP9_IyL0KFfqz",
+                "mimeType": "application/pdf",
+                "size": "19407423"
+              },
+              {
+                "name": "cierre_de_ventas_monografía_entrega_final.pdf",
+                "type": "file",
+                "id": "1yRVBKl-Tal5MPRzWp8TGx0wp6pHKecF6",
+                "mimeType": "application/pdf",
+                "size": "7655144"
+              }
+            ]
+          },
+          {
+            "name": "EP",
+            "type": "folder",
+            "id": "1-iDUiYtuP2gQ8O9WS77SN2i5S9R6rLrt",
+            "children": [
+              {
+                "name": "SOLUCION-PARCIAL_DISEÑO_BASE_DATOS.docx",
+                "type": "file",
+                "id": "1QpcRCnMb-r5izU8QNu3VyZQS2ORi7rIY",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "1339317"
+              },
+              {
+                "name": "PARCIAL_DISEÑO_BASE_DATOS.docx",
+                "type": "file",
+                "id": "1v-vv7fM4ab_e9Q1l1ci3LK5Ia6XtW_jd",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "16870"
+              }
+            ]
+          },
+          {
+            "name": "EF",
+            "type": "folder",
+            "id": "1P7S5GWsO5qjrqX60lZ7qt1o6XjOwqMr5",
+            "children": [
+              {
+                "name": "EXAMEN_FINAL_DE_BASE_DATOS_2024-1.docx",
+                "type": "file",
+                "id": "1xZi6kb3sWy6GsBfvaynS1hH5sQy1MGzA",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "31504"
+              }
+            ]
+          },
+          {
+            "name": "ES",
+            "type": "folder",
+            "id": "1__AG9qz4qLmT1kj3sV9BFt4x7cKREQLu",
+            "children": [
+              {
+                "name": "examen-Susti-BASE-DATOS.docx",
+                "type": "file",
+                "id": "1UdKUiZSAUEmmLJXg2lTyWDRUzQAXYM2X",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "20398"
+              }
+            ]
+          },
+          {
+            "name": "PC4",
+            "type": "folder",
+            "id": "1LpH7na0tCvB0YWI7_Bk5EcEFUM0eiCZ8",
+            "children": [
+              {
+                "name": "TAREA_3_DBD_HECHA.pdf",
+                "type": "file",
+                "id": "1Sgzcxo2UdX9J43-P5De9TpPNxNRG_EC8",
+                "mimeType": "application/pdf",
+                "size": "542383"
+              }
+            ]
+          },
+          {
+            "name": "PC3",
+            "type": "folder",
+            "id": "1HsxzUF0tGYPmLKbMfN9vyVm2dXc-g8WP",
+            "children": [
+              {
+                "name": "ENTREGABLE_2_TERMINADO.pdf",
+                "type": "file",
+                "id": "1Ce5ATqiJ-WBDbXwe9sKEYZ1rU6t7zrFr",
+                "mimeType": "application/pdf",
+                "size": "402463"
+              }
+            ]
+          },
+          {
+            "name": "PC2",
+            "type": "folder",
+            "id": "1MMhON-pniWc3Rba_WFruklMj-SjUkwTQ",
+            "children": [
+              {
+                "name": "PC2_-_SIST._ACADÉMICO_-_25_-_1_(1).pdf",
+                "type": "file",
+                "id": "1aVp1s7nxetTZ1YErUCVJSmxRKKWJR57t",
+                "mimeType": "application/pdf",
+                "size": "813503"
+              },
+              {
+                "name": "PC2_SI505U_2024-1.jpeg",
+                "type": "file",
+                "id": "14PuteDzUmUWVkpYuLKA7Hklk60LGfNEW",
+                "mimeType": "image/jpeg",
+                "size": "149166"
+              },
+              {
+                "name": "entregable_2_contabilidad.drawio",
+                "type": "file",
+                "id": "1SN4xO5iilvz-ENx_rhXae-UkKqfLjP_S",
+                "mimeType": "application/octet-stream",
+                "size": "81700"
+              }
+            ]
+          },
+          {
+            "name": "PC1",
+            "type": "folder",
+            "id": "1rPPQHQMZqKdViqn2PKs24aSUPDFeWVPC",
+            "children": [
+              {
+                "name": "entregable_1_mantenimiento.pdf",
+                "type": "file",
+                "id": "1zU_z5A3qk_1iosTdnhOXSVK7AtoO03vz",
+                "mimeType": "application/pdf",
+                "size": "717140"
+              },
+              {
+                "name": "entregable_1_sistema_de_reclamos.docx",
+                "type": "file",
+                "id": "1wTIBQslDAa1zx9QZplP9kW3j1x4tgX96",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "3542325"
+              },
+              {
+                "name": "entregable_1_transporte.docx",
+                "type": "file",
+                "id": "1cfgINzIsrhghRO9Xr0Dc5cRkw9iKV4kZ",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "2429764"
+              },
+              {
+                "name": "entregable_1_contabilidad.docx",
+                "type": "file",
+                "id": "1doYll2i6NUq-j_RKEkylYpEY9CZhzvTz",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "2623297"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Libros",
+        "type": "folder",
+        "id": "1TFs3ayO-KUYVJfPICZv9gjgeJb32eNaX",
+        "children": [
+          {
+            "name": "Libro_Tino_completo.pdf",
+            "type": "file",
+            "id": "1gIYxVJpq2x2-HU2pwJ2tYRgFpQlRc2jA",
+            "mimeType": "application/pdf",
+            "size": "5997756"
+          },
+          {
+            "name": "Libro-Fundamentos_de_Base_de_Datos-SILBERSCHATZ-5ta_Ed.-2006_reducido.pdf",
+            "type": "file",
+            "id": "13_wVXHkH1Mdhsm0X4FldU_w9I-YW9GoK",
+            "mimeType": "application/pdf",
+            "size": "7141667"
+          }
+        ]
+      }
+    ]
+  }
+}

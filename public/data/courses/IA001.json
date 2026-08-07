@@ -1,0 +1,174 @@
+{
+  "course_id": "IA001",
+  "course_name": "Int._a_la_Inteligencia_Artificial",
+  "id": "1N5IamtdydjnX_sSDXozu4M1TS16L9HJs",
+  "scanned_at": "2026-08-06T23:55:40.870454+00:00",
+  "tree": {
+    "name": "Int._a_la_Inteligencia_Artificial",
+    "type": "folder",
+    "id": "1N5IamtdydjnX_sSDXozu4M1TS16L9HJs",
+    "children": [
+      {
+        "name": "IA001_-_OPORTO",
+        "type": "folder",
+        "id": "1idhVqQEFIEdtMGv-zkmXD9_pAlj-Y-QN",
+        "children": [
+          {
+            "name": "Silabo_Introducción_a_la_Inteligencia_Artificial_2026-01.pdf",
+            "type": "file",
+            "id": "1RO7qed6MF3DzqLsdoPb211MePC1UzLxo",
+            "mimeType": "application/pdf",
+            "size": "299742"
+          },
+          {
+            "name": "Practicas",
+            "type": "folder",
+            "id": "1bhgnanG_AtHbTTJajb0vuUXfJa1tTuN_",
+            "children": [
+              {
+                "name": "EP_2026-1.pdf",
+                "type": "file",
+                "id": "1zE8DuVVKUUyZG6msPGeZe_7Ta6NEtEqN",
+                "mimeType": "application/pdf",
+                "size": "388043"
+              },
+              {
+                "name": "PC2.pdf",
+                "type": "file",
+                "id": "1BcR7jVckv4R1K18rE44CRhurIDWYB1Gh",
+                "mimeType": "application/pdf",
+                "size": "255186"
+              },
+              {
+                "name": "PC1.pdf",
+                "type": "file",
+                "id": "1V6was9PK-aTxHXt472_52m8wHt0yK1ni",
+                "mimeType": "application/pdf",
+                "size": "439182"
+              },
+              {
+                "name": "PE_IA001.jpeg",
+                "type": "file",
+                "id": "1idUOACdU7UiJH4FriGHYG9AHynOhZDn0",
+                "mimeType": "image/jpeg",
+                "size": "54426"
+              }
+            ]
+          },
+          {
+            "name": "Trabajos",
+            "type": "folder",
+            "id": "1G3HZuHHkvLKV9oFyXiqZoWKLpDf2JXwp",
+            "children": [
+              {
+                "name": "Entregables_del_Trabajo_Final.pdf",
+                "type": "file",
+                "id": "1qjp_7WFU0vVV8xBkSRUjWcaKssgTgIwZ",
+                "mimeType": "application/pdf",
+                "size": "144615"
+              },
+              {
+                "name": "Tarea_3._Diseño_de_Agentes.doc",
+                "type": "file",
+                "id": "14Xl-UOGaOGoxZMakpIVa-JJ49NYtCI-M",
+                "mimeType": "application/msword",
+                "size": "174080"
+              },
+              {
+                "name": "Tarea_2._Sentidos.docx",
+                "type": "file",
+                "id": "1J9tAfSkpJuitWnBR50NMoeoV49tJ8G6c",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "61998"
+              },
+              {
+                "name": "Tarea_1._Captcha.docx",
+                "type": "file",
+                "id": "1Elkl_JUHqAfrKbIJbnKLeRQIwtTQSyj9",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "14277"
+              }
+            ]
+          },
+          {
+            "name": "PPT'S",
+            "type": "folder",
+            "id": "1A5369TcQhmGfdRneyRJ67oUiiywBJVYT",
+            "children": [
+              {
+                "name": "class_09._Representación_del_Conocimiento.pdf",
+                "type": "file",
+                "id": "12BiAeh3RaU8m3fIUQ2CbUOyBEtu6Ie46",
+                "mimeType": "application/pdf",
+                "size": "1988687"
+              },
+              {
+                "name": "class_00._Trabajo_Final.pdf",
+                "type": "file",
+                "id": "1u7iCdVSXf0YWgci6ty55jaUW_UABXcFr",
+                "mimeType": "application/pdf",
+                "size": "1661571"
+              },
+              {
+                "name": "class_08._Búsqueda_Informada.pdf",
+                "type": "file",
+                "id": "118JEqoGbRb7qPzXy7R5aWEpYlxqklDh5",
+                "mimeType": "application/pdf",
+                "size": "1041290"
+              },
+              {
+                "name": "class_07._Búsqueda_No_Informada.pdf",
+                "type": "file",
+                "id": "1_yYGrxZE7esDOWWvAE4AfY8v0JLWUhRZ",
+                "mimeType": "application/pdf",
+                "size": "1091011"
+              },
+              {
+                "name": "class_06._Agentes_de_Búsqueda.pdf",
+                "type": "file",
+                "id": "1yv_tYfkboJNhqB1kh0ahrCXZ_5l9ZHvI",
+                "mimeType": "application/pdf",
+                "size": "1719019"
+              },
+              {
+                "name": "class_05._Complejidad_Algoritmica.pdf",
+                "type": "file",
+                "id": "1ds3YbPZZRvSmusiu2h89UXNKj38mgvOK",
+                "mimeType": "application/pdf",
+                "size": "1107098"
+              },
+              {
+                "name": "class_04._Diseño_de_Agentes.pdf",
+                "type": "file",
+                "id": "1-NSgqw_4jlDxoA4vtpCRB34mnl9fOIr7",
+                "mimeType": "application/pdf",
+                "size": "662935"
+              },
+              {
+                "name": "class_03._Agentes_Inteligentes.pdf",
+                "type": "file",
+                "id": "1rtprU7VqlFgbiZcSPhz4iP7Kq2uee_Ro",
+                "mimeType": "application/pdf",
+                "size": "1437256"
+              },
+              {
+                "name": "class_02._Datos,_Información.pdf",
+                "type": "file",
+                "id": "1jZR2POnJ4Xa-kBuRkju_h52nHn8oDGmV",
+                "mimeType": "application/pdf",
+                "size": "1349749"
+              },
+              {
+                "name": "class_01._Introduccion_a_la_IA.pdf",
+                "type": "file",
+                "id": "1okByLgQicVh93UFC7me9F4B9pRthEIRl",
+                "mimeType": "application/pdf",
+                "size": "2007485"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1889 @@
+{
+  "course_id": "GE602",
+  "course_name": "Contabilidad_financiera",
+  "id": "1kW2nXRu15y10G_ZnHCs2xhqOLZeQcuN-",
+  "scanned_at": "2026-08-06T23:57:47.559361+00:00",
+  "tree": {
+    "name": "Contabilidad_financiera",
+    "type": "folder",
+    "id": "1kW2nXRu15y10G_ZnHCs2xhqOLZeQcuN-",
+    "children": [
+      {
+        "name": "PLANCHITAS",
+        "type": "folder",
+        "id": "18Un7CkX-18gHNK1QrH3u_wRZDWRmr84t",
+        "children": [
+          {
+            "name": "PC02",
+            "type": "folder",
+            "id": "1yTpKgHQuiHakaJ7PYOal6x8AM4B0siuZ",
+            "children": [
+              {
+                "name": "pc2",
+                "type": "folder",
+                "id": "1S-YaKaYchvtJQFwenwzHsSiVzd1vEyv6",
+                "children": [
+                  {
+                    "name": "20-1",
+                    "type": "folder",
+                    "id": "1LvH4ot4pXjCxiIy0aiC9S1MFVUkPlo6A",
+                    "children": [
+                      {
+                        "name": "2pc_3.jpg",
+                        "type": "file",
+                        "id": "1BBOH8SAJyitbqChUZ5r1anDUxaJcJHqz",
+                        "mimeType": "image/jpeg",
+                        "size": "46270"
+                      },
+                      {
+                        "name": "2pc_1.jpg",
+                        "type": "file",
+                        "id": "1-ICYFDOwCIXI-ydHrlJxscCuIzKP9XfG",
+                        "mimeType": "image/jpeg",
+                        "size": "38138"
+                      },
+                      {
+                        "name": "2pc_2.jpg",
+                        "type": "file",
+                        "id": "1tr2ruFLsCkk-e1Bgwspo_3wquJG58H2i",
+                        "mimeType": "image/jpeg",
+                        "size": "45690"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "pc2_2.jpg",
+                    "type": "file",
+                    "id": "1VkwQOFWjj8ZCszap2Ai_Vms5t837izcZ",
+                    "mimeType": "image/jpeg",
+                    "size": "58579"
+                  },
+                  {
+                    "name": "pc2_3.jpg",
+                    "type": "file",
+                    "id": "1w5e66UHB-tUv7tIjGkP8vxA-GZ941KXQ",
+                    "mimeType": "image/jpeg",
+                    "size": "93567"
+                  },
+                  {
+                    "name": "Pc2_4.jpg",
+                    "type": "file",
+                    "id": "1KUipNbN2zuy_W7Y4yxBv2BARRj3x_Zww",
+                    "mimeType": "image/jpeg",
+                    "size": "58160"
+                  },
+                  {
+                    "name": "pc_2_1.jpg",
+                    "type": "file",
+                    "id": "1lOoDZAU9DKfiMzZQvQQ_lNguSSCrHOlT",
+                    "mimeType": "image/jpeg",
+                    "size": "70816"
+                  }
+                ]
+              },
+              {
+                "name": "GE602_PC2_ZÁRATE_21-1.pdf",
+                "type": "file",
+                "id": "1a7aLTANh1wYB0VtiW29KM8SMS1wKibwE",
+                "mimeType": "application/pdf",
+                "size": "186615"
+              },
+              {
+                "name": "CF_PC2_19-2_U.pdf",
+                "type": "file",
+                "id": "1kuNByPJiVoEe1qvtdkIVqkMQrreBG-fy",
+                "mimeType": "application/pdf",
+                "size": "181473"
+              },
+              {
+                "name": "CF_19-1_PC2_Leyton.pdf",
+                "type": "file",
+                "id": "1TZjrSuAObRN0JpgpEAcahKIpiftdaah8",
+                "mimeType": "application/pdf",
+                "size": "218485"
+              }
+            ]
+          },
+          {
+            "name": "PC03",
+            "type": "folder",
+            "id": "1UL77CMAtQit4G0Di_zSOChwygZPDM4Jb",
+            "children": [
+              {
+                "name": "Pc3",
+                "type": "folder",
+                "id": "1NyLe9ZVs0cQBoGw42qauLXzOTu-6vgSk",
+                "children": [
+                  {
+                    "name": "leasiarrenda.pdf",
+                    "type": "file",
+                    "id": "1ABwUjMbmOlzz1UoIGLnIyKar4P1P9iNw",
+                    "mimeType": "application/pdf",
+                    "size": "4279458"
+                  },
+                  {
+                    "name": "SolucionEscudoTributario.pdf",
+                    "type": "file",
+                    "id": "1yNqS5x5bmHAokAgj84ryVSkYtGMJI4dH",
+                    "mimeType": "application/pdf",
+                    "size": "700256"
+                  },
+                  {
+                    "name": "19-2_2.jpg",
+                    "type": "file",
+                    "id": "16UARRTFwahDFqtoxoLpkkidO4UKffroT",
+                    "mimeType": "image/jpeg",
+                    "size": "102826"
+                  },
+                  {
+                    "name": "19-2.jpg",
+                    "type": "file",
+                    "id": "1l8JbpZzpGklJZ_lXRtBJseobvs1LEFFt",
+                    "mimeType": "image/jpeg",
+                    "size": "89095"
+                  },
+                  {
+                    "name": "19-2_3.jpg",
+                    "type": "file",
+                    "id": "1S0kcFe5SxwQHghckVhpVFVbiFSp6hWOE",
+                    "mimeType": "image/jpeg",
+                    "size": "36755"
+                  },
+                  {
+                    "name": "Ejercicio_EscudoTributario.pdf",
+                    "type": "file",
+                    "id": "1VnGIApHcuSTLRSTeld9Pgg_wBjYH_rM_",
+                    "mimeType": "application/pdf",
+                    "size": "1706743"
+                  },
+                  {
+                    "name": "PC3.xlsx",
+                    "type": "file",
+                    "id": "1eljTF3PGFhuzgSIJIxX8LLFaKEsr1akv",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "size": "5692"
+                  },
+                  {
+                    "name": "Prestamo_Arrendamiento_Financiero.pdf",
+                    "type": "file",
+                    "id": "1EkQ2BHKoCc1kDPams36r5b_gtqy2fH8m",
+                    "mimeType": "application/pdf",
+                    "size": "135320"
+                  }
+                ]
+              },
+              {
+                "name": "CF_PC3_19-1_Leyton.pdf",
+                "type": "file",
+                "id": "1_A2SKvv312DfQpinxspDHPmCeFbYb4yv",
+                "mimeType": "application/pdf",
+                "size": "2204697"
+              }
+            ]
+          },
+          {
+            "name": "FINAL",
+            "type": "folder",
+            "id": "1POxdyzJ0SOAE1RFPTLCehO6AZxBfq1xC",
+            "children": [
+              {
+                "name": "final_20-1.jpg",
+                "type": "file",
+                "id": "1pUeU19wakaQ7ERoPNGFi9BxvdW8IbDYp",
+                "mimeType": "image/jpeg",
+                "size": "23872"
+              },
+              {
+                "name": "final_20-2.jpg",
+                "type": "file",
+                "id": "1CpIVwyWOEvjiadGw9NlvL_YyB8KJ1DOZ",
+                "mimeType": "image/jpeg",
+                "size": "33665"
+              },
+              {
+                "name": "2019_1_EX_FINAL_UNICO_GP223(1).docx",
+                "type": "file",
+                "id": "1psBXcI0hLvtmkd25ttrudKLVvwd0--lb",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "311500"
+              },
+              {
+                "name": "1.jpg",
+                "type": "file",
+                "id": "16LSLWlIim46mMijPGatJG_pY83GKYLw8",
+                "mimeType": "image/jpeg",
+                "size": "97449"
+              },
+              {
+                "name": "Final.JPG",
+                "type": "file",
+                "id": "1H7ZeQwgwSjLtJJTGA5GNNZT-THAZl36a",
+                "mimeType": "image/jpeg",
+                "size": "45418"
+              },
+              {
+                "name": "Sol_Final_19-1-DESKTOP-CA2C41H.xlsx",
+                "type": "file",
+                "id": "1JA6EiXfuh7H4gP716U6D3VHezXp6t0IY",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "2049957"
+              },
+              {
+                "name": "Sol_Final_19-1.xlsx",
+                "type": "file",
+                "id": "1N4W3Y4XjH1cPkSNpb_YcO2RxvlLpoZ4S",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "2050175"
+              },
+              {
+                "name": "CF_FINAL_19-1.pdf",
+                "type": "file",
+                "id": "1CL2KeAzGlDwOVYkadZS5hT3hlbLFJrMX",
+                "mimeType": "application/pdf",
+                "size": "438642"
+              },
+              {
+                "name": "2.jpg",
+                "type": "file",
+                "id": "1e0dz3VXQjciT1Ez-JHw-JAPSTBQxKfv3",
+                "mimeType": "image/jpeg",
+                "size": "100231"
+              },
+              {
+                "name": "CF_FINAL_Leyton.pdf",
+                "type": "file",
+                "id": "1D2_MpO88wqVdKOaJ2QgMNsYo2HgFeK2C",
+                "mimeType": "application/pdf",
+                "size": "15008556"
+              },
+              {
+                "name": "2019_1_EX_FINAL_UNICO_GP223(1).pdf",
+                "type": "file",
+                "id": "1D3NKtWBwyhHKVXceo5VPV_seYpkzst29",
+                "mimeType": "application/pdf",
+                "size": "450597"
+              }
+            ]
+          },
+          {
+            "name": "SUSTI",
+            "type": "folder",
+            "id": "1xWCGAynCqZaAZ7pNqy7CjaloIP6t1wE0",
+            "children": [
+              {
+                "name": "Susti_19-2_1.jpg",
+                "type": "file",
+                "id": "1AwwtEYkLM7DAwI1gt1agkFsYahxcle6K",
+                "mimeType": "image/jpeg",
+                "size": "58043"
+              },
+              {
+                "name": "CF_SUSTI_19-1_U.pdf",
+                "type": "file",
+                "id": "1VovlQktUrXVHKaO4fMU6RzejdxRUbPac",
+                "mimeType": "application/pdf",
+                "size": "262940"
+              },
+              {
+                "name": "Jam_sin_título.pdf",
+                "type": "file",
+                "id": "1og73fW06DMn1kBeg7f5fZ29lkUyuMDAE",
+                "mimeType": "application/pdf",
+                "size": "2366156"
+              },
+              {
+                "name": "GE602_ES_LEYTON_20-2.xlsx",
+                "type": "file",
+                "id": "1vwr11tOQ1eJwYtp3Z5lruQsRwv55V0Mh",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "388421"
+              },
+              {
+                "name": "Susti_19-2_2.jpg",
+                "type": "file",
+                "id": "1aKByHGsvEWczhNGSlxpW_6FZu5TtXv3E",
+                "mimeType": "image/jpeg",
+                "size": "66377"
+              },
+              {
+                "name": "GE602_ES_FALCONI_21-2.pdf",
+                "type": "file",
+                "id": "1FKdf-GvXmHJv01JTlWAEYCA9kv94PVhj",
+                "mimeType": "application/pdf",
+                "size": "244451"
+              }
+            ]
+          },
+          {
+            "name": "PC01",
+            "type": "folder",
+            "id": "1-NwYP-a5lfEU00wcfPXp2EdVg7foiF9Y",
+            "children": [
+              {
+                "name": "GE602_PC1_LEYTON_20-2.docx",
+                "type": "file",
+                "id": "1clxeuaOUc8qlqsck0TIAriRWTWUqzgkb",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "46502"
+              }
+            ]
+          },
+          {
+            "name": "PC04",
+            "type": "folder",
+            "id": "1Oormt73lRVVBt0Sa_0rKW8wCdhJ5LDaT",
+            "children": [
+              {
+                "name": "PC4",
+                "type": "folder",
+                "id": "1cPOWtwAkpG87MvGe3cRQRyVAc8lGbRWx",
+                "children": [
+                  {
+                    "name": "solucioherramientas.pdf",
+                    "type": "file",
+                    "id": "1LwaoZQXpaGG-0I22LGGc24jxjIiiDYjh",
+                    "mimeType": "application/pdf",
+                    "size": "15386"
+                  },
+                  {
+                    "name": "AnalisisFinanciero.pdf",
+                    "type": "file",
+                    "id": "14ntXz78EgHjdi5zy3lX76ZkS254Rr0Sv",
+                    "mimeType": "application/pdf",
+                    "size": "233945"
+                  },
+                  {
+                    "name": "HERRAMIENTAS_INDUSTRIALES.pdf",
+                    "type": "file",
+                    "id": "1sQ3Z7r0Hz1wIUqfaF6xDPHZ25vfTEHss",
+                    "mimeType": "application/pdf",
+                    "size": "306914"
+                  }
+                ]
+              },
+              {
+                "name": "CF_PC4_19-2_U.pdf",
+                "type": "file",
+                "id": "11DeYX4Q6oibwfutM36xFgdoF9vKkIGmy",
+                "mimeType": "application/pdf",
+                "size": "98996"
+              }
+            ]
+          },
+          {
+            "name": "PARCIAL",
+            "type": "folder",
+            "id": "1M7wpqPoeVEWV47r7A1xp_BOjfw-xEoHP",
+            "children": [
+              {
+                "name": "CF_PARCIAL_19-2.pdf",
+                "type": "file",
+                "id": "1HdBdCevWlciO1Rn4y4RZs2HrJAVIUrYk",
+                "mimeType": "application/pdf",
+                "size": "184743"
+              },
+              {
+                "name": "Parcial_19-2_2.jpg",
+                "type": "file",
+                "id": "1FmUfu_l8ejbCXr7N9g-N5WOclmkQ-hH6",
+                "mimeType": "image/jpeg",
+                "size": "81950"
+              },
+              {
+                "name": "GE602_EP_LEYTON_21-1.xlsx",
+                "type": "file",
+                "id": "1iVTu39NHuE7g2ZZdeTp7TrqTzZhyYJt2",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "31360"
+              },
+              {
+                "name": "Parcial_19-2_1.jpg",
+                "type": "file",
+                "id": "1vZKKiyORFtfOdTVTQEsJeT2nscp27BdK",
+                "mimeType": "image/jpeg",
+                "size": "86391"
+              },
+              {
+                "name": "GE602_EP_ZÁRATE_21-1.docx",
+                "type": "file",
+                "id": "1FucDodHT68R10NMIP6WQL4OJzEx1b0NN",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "19311"
+              },
+              {
+                "name": "CF_PARCIAL_18-2_U.pdf",
+                "type": "file",
+                "id": "1m_eziusZhAbwmDFZijeTokn9UflC9Sef",
+                "mimeType": "application/pdf",
+                "size": "1105187"
+              }
+            ]
+          },
+          {
+            "name": "Control_de_lectua_4.jpg",
+            "type": "file",
+            "id": "1PNyrSQE7otdi3JP2a36GsLl28vqJkki7",
+            "mimeType": "image/jpeg",
+            "size": "97367"
+          },
+          {
+            "name": "CF_PD_Leyton.pdf",
+            "type": "file",
+            "id": "1UoSonGlxDadVDFFa2zWCgPcNpf46bKRy",
+            "mimeType": "application/pdf",
+            "size": "136945"
+          },
+          {
+            "name": "CF_PD_FlujoEfectivo_Leyton.pdf",
+            "type": "file",
+            "id": "1N6RgIBXdXbPbJpw6Sdx_6MBK9Oe09Z1P",
+            "mimeType": "application/pdf",
+            "size": "121593"
+          },
+          {
+            "name": "Control_de_lectura_5.jpg",
+            "type": "file",
+            "id": "1JqoyJSb3bZZxR7JJO9yVGYOuo4s-FBb2",
+            "mimeType": "image/jpeg",
+            "size": "68380"
+          }
+        ]
+      },
+      {
+        "name": "Material_Falconi",
+        "type": "folder",
+        "id": "10sRS9ksl7ZvKXzeTZCNr8heULkTzOD75",
+        "children": [
+          {
+            "name": "Planchas",
+            "type": "folder",
+            "id": "1PC2S9nB3lk0YBrkYvGHNHcKQLY1ZRHzW",
+            "children": [
+              {
+                "name": "Sustitutorio_17-2",
+                "type": "folder",
+                "id": "1J9_Ydpt8WB8AD7nSpNuUZ4swCq8k0g4D",
+                "children": [
+                  {
+                    "name": "29386031_1661598327243189_3937805138583879680_n.jpg",
+                    "type": "file",
+                    "id": "1B3TZigJ05RVBYAqKwFbFmLPEcRmxxVPs",
+                    "mimeType": "image/jpeg",
+                    "size": "91836"
+                  }
+                ]
+              },
+              {
+                "name": "examen_final",
+                "type": "folder",
+                "id": "1kGhs5QeJAJPyYidv-SntucDmAEw4Y2mH",
+                "children": [
+                  {
+                    "name": "29386513_1661598313909857_6771004006429884416_n.jpg",
+                    "type": "file",
+                    "id": "1-a-PGeaCgh4OiJDaxnD2cJjLje9gQKWD",
+                    "mimeType": "image/jpeg",
+                    "size": "128854"
+                  },
+                  {
+                    "name": "29473212_1661598063909882_4061512841092399104_n.jpg",
+                    "type": "file",
+                    "id": "1TVur_EQeC-rS40lSvYyIDKlHCIfR8x-O",
+                    "mimeType": "image/jpeg",
+                    "size": "118469"
+                  }
+                ]
+              },
+              {
+                "name": "examen_de_entrada",
+                "type": "folder",
+                "id": "10GFnQNYUzHRMpY-RxqBnR_egxIx9fHPh",
+                "children": [
+                  {
+                    "name": "apuntees-de-examen-de-entrada-FINAL.docx",
+                    "type": "file",
+                    "id": "1H7I5w6BmqYelyL3FpQtaiPJAnsRwlvra",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "9575"
+                  },
+                  {
+                    "name": "apuntees_de_examen_de_entrada.odt",
+                    "type": "file",
+                    "id": "13aJ3UR0FeNnYYhve9xElvOf4LgHd2t8w",
+                    "mimeType": "application/vnd.oasis.opendocument.text",
+                    "size": "22519"
+                  },
+                  {
+                    "name": "apuntees_de_examen_de_entrada.docx",
+                    "type": "file",
+                    "id": "15bm2R-PVMlw9rM5evj6FPFPzy4ibIc74",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "9469"
+                  }
+                ]
+              },
+              {
+                "name": "4pc",
+                "type": "folder",
+                "id": "1l1BBN4TiOYwhtic056w8FHv83uzrJXXg",
+                "children": [
+                  {
+                    "name": "17-1",
+                    "type": "folder",
+                    "id": "1GjkKaSpIYDdoAMDBbH1GcL26Zi4PmJF6",
+                    "children": [
+                      {
+                        "name": "35812502_184781189031365_8169193891967270912_n.jpg",
+                        "type": "file",
+                        "id": "1mWanjZFpgCqQeQp1DXpbcyIuEE2cHnkn",
+                        "mimeType": "image/jpeg",
+                        "size": "151356"
+                      },
+                      {
+                        "name": "35779220_184781149031369_501218341231263744_n.jpg",
+                        "type": "file",
+                        "id": "1ptpWul3XJCvNforgwzeLxe40jE5US_L1",
+                        "mimeType": "image/jpeg",
+                        "size": "64528"
+                      },
+                      {
+                        "name": "35742259_184781172364700_322179227883405312_n.jpg",
+                        "type": "file",
+                        "id": "1yyPGf2MSRx1k2h86Sm8v64vu_K7Xw5HL",
+                        "mimeType": "image/jpeg",
+                        "size": "44302"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "16-1",
+                    "type": "folder",
+                    "id": "16AxySQiJRQypZUWmfBmLjmSrhh1JHk-A",
+                    "children": [
+                      {
+                        "name": "35922766_184781182364699_7217913023074140160_n.jpg",
+                        "type": "file",
+                        "id": "1e2l3s2uqf2dc3pNm-qhB2_gBOOB41vWd",
+                        "mimeType": "image/jpeg",
+                        "size": "118101"
+                      },
+                      {
+                        "name": "35761508_184781159031368_5391742960888971264_n.jpg",
+                        "type": "file",
+                        "id": "1M1brlKykbeAIwCdC2osNd-ns2X7qHrMO",
+                        "mimeType": "image/jpeg",
+                        "size": "85509"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Casos",
+            "type": "folder",
+            "id": "1k6D2YvVrczQCqsek1o3GxrsgS9erqRB4",
+            "children": [
+              {
+                "name": "Conceptos_básicos_del_curso_de_contabilidad_financiera",
+                "type": "folder",
+                "id": "1kKynD4Gih_kRkh2qAQT1ZQJPSNwJ3CP2",
+                "children": [
+                  {
+                    "name": "matecontabfinanciera.doc",
+                    "type": "file",
+                    "id": "1Fqf8myd_GOplGYxGdkh0pHUaI2tsEbOi",
+                    "mimeType": "application/msword",
+                    "size": "1313280"
+                  },
+                  {
+                    "name": "InterrCuentEstadoFinanci.ppt",
+                    "type": "file",
+                    "id": "1efyGzIEeMA8xsUmBUz3uJEYnxjfrypVr",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "178176"
+                  }
+                ]
+              },
+              {
+                "name": "caso_motelaurora",
+                "type": "folder",
+                "id": "1jR55DwUYbNx0MUOcJDsosiIm0raRLDSZ",
+                "children": [
+                  {
+                    "name": "solucioMotelAurora.doc",
+                    "type": "file",
+                    "id": "1UHc5OIek2w-nLrfDT_0_HbMaTJBQnwau",
+                    "mimeType": "application/msword",
+                    "size": "27648"
+                  },
+                  {
+                    "name": "motelaurora.xls",
+                    "type": "file",
+                    "id": "1hYBc-MQJHtq-3fiJLsFfHM4qsASy4-Xr",
+                    "mimeType": "application/vnd.ms-excel",
+                    "size": "23040"
+                  }
+                ]
+              },
+              {
+                "name": "caso_TiendaRopaprentiss",
+                "type": "folder",
+                "id": "1JwbyoVgPHh4t9JUwgUpua_IGYR8Nju_k",
+                "children": [
+                  {
+                    "name": "TiendaRopaprentiss.doc",
+                    "type": "file",
+                    "id": "1xbX88DqZzLnFeD0eeEzYyOs7tyNQNWIl",
+                    "mimeType": "application/msword",
+                    "size": "57344"
+                  },
+                  {
+                    "name": "solucionprentiss.doc",
+                    "type": "file",
+                    "id": "10D9sIbrrYMDDLLSVoLqUJgcb0EMH7fDS",
+                    "mimeType": "application/msword",
+                    "size": "28672"
+                  }
+                ]
+              },
+              {
+                "name": "caso_del_cafe_humeante",
+                "type": "folder",
+                "id": "11SJV4GWlw3qjE_hw9JVY4-V5sKo4eipJ",
+                "children": [
+                  {
+                    "name": "soluciocafedelvalle.doc",
+                    "type": "file",
+                    "id": "10_TtAltDhT7ebOkd3khw3guRrsDZUiok",
+                    "mimeType": "application/msword",
+                    "size": "25088"
+                  },
+                  {
+                    "name": "Cafevallehumeante.xls",
+                    "type": "file",
+                    "id": "1fNY_Dg72Ia1GuMVA2wnL15q3dOm3li8d",
+                    "mimeType": "application/vnd.ms-excel",
+                    "size": "21504"
+                  }
+                ]
+              },
+              {
+                "name": "caso_Drogueoccidental",
+                "type": "folder",
+                "id": "16Q6E6Hg4wyhh_Zpq46bau4rawKJ13C0O",
+                "children": [
+                  {
+                    "name": "soluciodrogueriaoccidental.doc",
+                    "type": "file",
+                    "id": "1IzEfcqpFTa9-0LPmLmwupp-pnTnbnrWq",
+                    "mimeType": "application/msword",
+                    "size": "47104"
+                  },
+                  {
+                    "name": "Drogueoccidental.xls",
+                    "type": "file",
+                    "id": "1BbC7t_4GiJtGnaQHuXqqnggbazeCIngt",
+                    "mimeType": "application/vnd.ms-excel",
+                    "size": "25088"
+                  }
+                ]
+              },
+              {
+                "name": "caso_ABC",
+                "type": "folder",
+                "id": "1RKe6UPy3hAGVzxYYrdLDMfTlC2saN2j_",
+                "children": [
+                  {
+                    "name": "COMPANIA_ABC.doc",
+                    "type": "file",
+                    "id": "1rc8r3DjwWv1JlkPlbidg_UMfcAZgl4z0",
+                    "mimeType": "application/msword",
+                    "size": "24064"
+                  }
+                ]
+              },
+              {
+                "name": "solucioherramientas.doc",
+                "type": "file",
+                "id": "1IVRxkwLXekRWXNMfH-tUafWeMHQJIyFe",
+                "mimeType": "application/msword",
+                "size": "26112"
+              },
+              {
+                "name": "AnalisisFinanciero.ppt",
+                "type": "file",
+                "id": "160CHOskcLdu-Mx_QALpOo3sidlgplibN",
+                "mimeType": "application/vnd.ms-powerpoint",
+                "size": "228864"
+              },
+              {
+                "name": "soluciomarretA.doc",
+                "type": "file",
+                "id": "1_wJ-5uF2MDJasB4MQ5rJQadDujl-IXpq",
+                "mimeType": "application/msword",
+                "size": "29696"
+              },
+              {
+                "name": "Solucion_caso_Falsman.doc",
+                "type": "file",
+                "id": "1eAWx3Rx5U6RBSOFgcmrvm7S4004rhpR-",
+                "mimeType": "application/msword",
+                "size": "195584"
+              },
+              {
+                "name": "Depreciacion_Contable_y_Fiscal.ppt",
+                "type": "file",
+                "id": "1YzejTVlTPOx_g6PgZIRK1svBb_oxgkRq",
+                "mimeType": "application/vnd.ms-powerpoint",
+                "size": "55808"
+              },
+              {
+                "name": "solucionwelbilt.doc",
+                "type": "file",
+                "id": "1pY5Mcn4hazsmc5HgH6l8QAe4D9-Eh0Fg",
+                "mimeType": "application/msword",
+                "size": "31232"
+              },
+              {
+                "name": "Metodosfijacion.ppt",
+                "type": "file",
+                "id": "1HbvEB10Mo2uUFAxpH3p_8RnAYdvWhp3s",
+                "mimeType": "application/vnd.ms-powerpoint",
+                "size": "205824"
+              },
+              {
+                "name": "FuentesyUsosMARRET.docx",
+                "type": "file",
+                "id": "1XnKf7Ehzas2m708eeno7wJCypb_rBmLK",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "24960"
+              }
+            ]
+          },
+          {
+            "name": "Teoría_por_semanas",
+            "type": "folder",
+            "id": "14lOKmVB9rs4d-9Pajq8i5uds0p5_3DPJ",
+            "children": [
+              {
+                "name": "Semana_7",
+                "type": "folder",
+                "id": "10pWIFEKNnCoBHPGHPJfDgfuiv93pLOMg",
+                "children": [
+                  {
+                    "name": "Fijación_de_Preciosesquema.ppt",
+                    "type": "file",
+                    "id": "1qXBiOyu1d_ZWV-1ovsxdnzD20YJHSA3h",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "1508864"
+                  },
+                  {
+                    "name": "Falsman.doc",
+                    "type": "file",
+                    "id": "1yM1X7AE349NV57DycnKcEaiBgJMwpvve",
+                    "mimeType": "application/msword",
+                    "size": "30720"
+                  },
+                  {
+                    "name": "Falsman.pdf",
+                    "type": "file",
+                    "id": "1diN32y2OG0v-C5uZ2kDf0eVo6sFBGKyO",
+                    "mimeType": "application/pdf",
+                    "size": "23922"
+                  },
+                  {
+                    "name": "Fijación_de_Preciosesquema.pdf",
+                    "type": "file",
+                    "id": "1BurHeSjEzyuc0ET8PO5cVTEURPEvAQIb",
+                    "mimeType": "application/pdf",
+                    "size": "419192"
+                  },
+                  {
+                    "name": "Metodosfijacion.pdf",
+                    "type": "file",
+                    "id": "1v0NEDgIsrKz6PfINAFyXR4baOnpvRixC",
+                    "mimeType": "application/pdf",
+                    "size": "290984"
+                  },
+                  {
+                    "name": "Metodosfijacion.ppt",
+                    "type": "file",
+                    "id": "18DvC9U0urrI_QuRlXjkCnIi5MuvywPXE",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "205824"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_9",
+                "type": "folder",
+                "id": "1Xbczb6Rb7cTSyBAMJ7dj3ET0_4FtdyPp",
+                "children": [
+                  {
+                    "name": "1.pdf",
+                    "type": "file",
+                    "id": "14s8DYy--sI-d2dc4eQrZY0IYFBULgyQ8",
+                    "mimeType": "application/pdf",
+                    "size": "14285953"
+                  },
+                  {
+                    "name": "solucioImpresoraBrazos_(1).doc",
+                    "type": "file",
+                    "id": "1544ubzdRD3J3qnkZpyKjQ0AG67wJkCKC",
+                    "mimeType": "application/msword",
+                    "size": "27136"
+                  },
+                  {
+                    "name": "solucioImpresoraBrazos_(1).pdf",
+                    "type": "file",
+                    "id": "1xCLA5MrECIMEJSczm5SYNmNWC_vlSwVv",
+                    "mimeType": "application/pdf",
+                    "size": "19601"
+                  },
+                  {
+                    "name": "Impresora_Brazos.docx",
+                    "type": "file",
+                    "id": "1Smqb9tIOdnGWMOeHKzQHjSiFI0P-PwKS",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "16685"
+                  },
+                  {
+                    "name": "Depreciacion_Contable_y_Fiscal.pdf",
+                    "type": "file",
+                    "id": "1bSNRA4P-au0ojBydMMk3sI2Ry9ZTjwN8",
+                    "mimeType": "application/pdf",
+                    "size": "376048"
+                  },
+                  {
+                    "name": "Impresora_Brazos.pdf",
+                    "type": "file",
+                    "id": "1Jy3rlCnq3X9NMsiI9ThLL69RtyCG2YaB",
+                    "mimeType": "application/pdf",
+                    "size": "171052"
+                  },
+                  {
+                    "name": "Depreciacion_Contable_y_Fiscal.ppt",
+                    "type": "file",
+                    "id": "1DS70bs6yAAC4fJVEKRSJgEa1lzufVgpJ",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "55808"
+                  },
+                  {
+                    "name": "Impresbrazos.xls",
+                    "type": "file",
+                    "id": "1gLHfcsa3xbc4iIf288zCGYJN-feuWbmm",
+                    "mimeType": "application/vnd.ms-excel",
+                    "size": "30208"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_2",
+                "type": "folder",
+                "id": "1zucQwudK9SoPBQRMzb8NdMS-RjXA-Rs0",
+                "children": [
+                  {
+                    "name": "MotelAurora.pdf",
+                    "type": "file",
+                    "id": "1x4rBUlbi5cJ9BSrqWRK8X6ZRsktlzKtG",
+                    "mimeType": "application/pdf",
+                    "size": "318981"
+                  },
+                  {
+                    "name": "MotelAurora.docx",
+                    "type": "file",
+                    "id": "1B8DPjwIlCUu-r-UobsiSzvO8rJo5GxOy",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "15321"
+                  },
+                  {
+                    "name": "solucioMotelAurora.pdf",
+                    "type": "file",
+                    "id": "1R98bPAKLdhL9z1rv15cJ8z4UrAAlXelq",
+                    "mimeType": "application/pdf",
+                    "size": "18204"
+                  },
+                  {
+                    "name": "ObjFunFinazas_(1).pdf",
+                    "type": "file",
+                    "id": "1vVdre28mhda-21im4ps_HdeCWZC6lTwn",
+                    "mimeType": "application/pdf",
+                    "size": "54018"
+                  },
+                  {
+                    "name": "solucioMotelAurora.doc",
+                    "type": "file",
+                    "id": "1vhfZPVdadwj4ZErrBjhx7EQ0JjnnweSe",
+                    "mimeType": "application/msword",
+                    "size": "27648"
+                  },
+                  {
+                    "name": "ObjFunFinazas.ppt",
+                    "type": "file",
+                    "id": "14__vZPMtKD16IOGw91PbaJNBeY5VubCi",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "215552"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_13",
+                "type": "folder",
+                "id": "15Tca08G3z8idTEGqd6Q_ngA7Ojz8EmHM",
+                "children": [
+                  {
+                    "name": "HERRAMIENTAS_INDUSTRIALES.pdf",
+                    "type": "file",
+                    "id": "1uNUmK7wGgRu2kt3lDbvw8xiT8rDmX4OC",
+                    "mimeType": "application/pdf",
+                    "size": "306915"
+                  },
+                  {
+                    "name": "Mi_solución.xlsx",
+                    "type": "file",
+                    "id": "15moGh6TUicRL_k-XcX8JL8maarIBRuJI",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "size": "36240"
+                  },
+                  {
+                    "name": "solucioherramientas.pdf",
+                    "type": "file",
+                    "id": "1j_9XFLEQ7gC4R4ODfOiAoUiWYN-YRxp-",
+                    "mimeType": "application/pdf",
+                    "size": "15381"
+                  },
+                  {
+                    "name": "AnalisisFinanciero.pdf",
+                    "type": "file",
+                    "id": "16OQbD9djo9x6_TMSuHOWEeDJ1u8vipGR",
+                    "mimeType": "application/pdf",
+                    "size": "233945"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_3",
+                "type": "folder",
+                "id": "1BgE_ySy4bEf6fHZfHlfoqPOgcJKZEzF9",
+                "children": [
+                  {
+                    "name": "soluciodrogueriaoccidental.pdf",
+                    "type": "file",
+                    "id": "1RTs04F94PCH8XU_08yPoAhWzVBq7fvQ1",
+                    "mimeType": "application/pdf",
+                    "size": "154540"
+                  },
+                  {
+                    "name": "InterrCuentEstadoFinanci.pdf",
+                    "type": "file",
+                    "id": "1Eu1LpkvWmDf0MJEm4mABVki4pafrDblb",
+                    "mimeType": "application/pdf",
+                    "size": "455151"
+                  },
+                  {
+                    "name": "PLAN_CONTABLE_GENERAL.ppt",
+                    "type": "file",
+                    "id": "1MhFDpS3K0xVJJsp4_jjx9xtiitkKzlo9",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "40448"
+                  },
+                  {
+                    "name": "InterrCuentEstadoFinanci.ppt",
+                    "type": "file",
+                    "id": "12GbmMJmKYjdtVs03Mu5-CrqNyttvsVtg",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "176128"
+                  },
+                  {
+                    "name": "soluciodrogueriaoccidental.docx",
+                    "type": "file",
+                    "id": "1iY62wDF5swOh0F0RyQoVtegn31Y8nwRj",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "101552"
+                  },
+                  {
+                    "name": "PLAN_CONTABLE_GENERAL.pdf",
+                    "type": "file",
+                    "id": "1aj1yMvhie-yJsYYvtL_DHyY3obDYwx0B",
+                    "mimeType": "application/pdf",
+                    "size": "142897"
+                  },
+                  {
+                    "name": "InterrCuentEstadoFinanci.docx",
+                    "type": "file",
+                    "id": "1gNut7wdsJ77jaNS_UErNjcLLA2kFIic4",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "214677"
+                  },
+                  {
+                    "name": "Droguería_Occidental.pdf",
+                    "type": "file",
+                    "id": "144RD_pWGiOI3CmVbR0IGdYXmqfb3MZph",
+                    "mimeType": "application/pdf",
+                    "size": "22138"
+                  },
+                  {
+                    "name": "Droguería_Occidental.docx",
+                    "type": "file",
+                    "id": "1ttFG1KiPz_J-YO8nI6oHbo4gMKh8kNX8",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "14730"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_11",
+                "type": "folder",
+                "id": "1h8SBz-Lo5PUNrOur9r6AGExUo_DNW4H9",
+                "children": [
+                  {
+                    "name": "Prestamo_Arrendamiento_Financiero.pdf",
+                    "type": "file",
+                    "id": "1V1-CcCvCS-DTi786n4-7LS2gwVVKnu_A",
+                    "mimeType": "application/pdf",
+                    "size": "135320"
+                  },
+                  {
+                    "name": "Prestamo_Arrendamiento_Financiero.ppt",
+                    "type": "file",
+                    "id": "1S9sCEahGvEfVUalI4QJBWTKeTsTSlnrW",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "120320"
+                  },
+                  {
+                    "name": "leasiarrenda.pdf",
+                    "type": "file",
+                    "id": "14az56HqGnz5a_D7YXuH-nagWfsU3Cdk-",
+                    "mimeType": "application/pdf",
+                    "size": "4279458"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_15",
+                "type": "folder",
+                "id": "1ovz4I_jKJg1BK9NxG8I0CCp6gPR23u4i",
+                "children": [
+                  {
+                    "name": "FuentesyUsosMARRET.docx",
+                    "type": "file",
+                    "id": "1jQmac1M0XbgkR1kHwW-qFe9O9JwyByKX",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "24873"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_5",
+                "type": "folder",
+                "id": "1djCcQVQz3Q8RL0NJ5U5-Wm6kBXE9a65Y",
+                "children": [
+                  {
+                    "name": "solucionprentiss_(1).pdf",
+                    "type": "file",
+                    "id": "1Dvfnb_z-JKbQh3tCUV1H9OWwknI2uKWN",
+                    "mimeType": "application/pdf",
+                    "size": "18100"
+                  },
+                  {
+                    "name": "AdACTCIR.ppt",
+                    "type": "file",
+                    "id": "1Rr9z4gbe-1HryVVsDgT9meWg7b0fdIWH",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "572928"
+                  },
+                  {
+                    "name": "AdACTCIR.pdf",
+                    "type": "file",
+                    "id": "1Daf9Khx7e2UU9AuvzwN5bH8rlA-4pJ6H",
+                    "mimeType": "application/pdf",
+                    "size": "58209"
+                  },
+                  {
+                    "name": "solucionprentiss.doc",
+                    "type": "file",
+                    "id": "1t1mcsXZbP7PBMBBW6rXkz3kV_10qg6FQ",
+                    "mimeType": "application/msword",
+                    "size": "28672"
+                  },
+                  {
+                    "name": "TiendaRopaprentiss.doc",
+                    "type": "file",
+                    "id": "1WD_n97jES2PIVHZ3f4aU0ksxycMKeTis",
+                    "mimeType": "application/msword",
+                    "size": "57344"
+                  },
+                  {
+                    "name": "TiendaRopaprentiss.pdf",
+                    "type": "file",
+                    "id": "1G6NXmyPMeqTpMk7AMKDex9alT2e6Pj2r",
+                    "mimeType": "application/pdf",
+                    "size": "160395"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_14",
+                "type": "folder",
+                "id": "19nLpIKMK8RboxEcQbqwusaxXMIJrvTWP",
+                "children": [
+                  {
+                    "name": "WELBILT.doc.pdf",
+                    "type": "file",
+                    "id": "1qDTQDjDkV3a6uhG67LyBF-OoalZREDHu",
+                    "mimeType": "application/pdf",
+                    "size": "245008"
+                  },
+                  {
+                    "name": "AnalisisFinanciero_-_copia.pdf",
+                    "type": "file",
+                    "id": "1INUJEs0lANvYAsZTxE-H2rtw5_mDspk-",
+                    "mimeType": "application/pdf",
+                    "size": "233945"
+                  },
+                  {
+                    "name": "solucionwelbilt.pdf",
+                    "type": "file",
+                    "id": "12CvYEXk8W2cFze3NpCf43rl9uXvc4uy9",
+                    "mimeType": "application/pdf",
+                    "size": "20224"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_12",
+                "type": "folder",
+                "id": "1XRdSkV_wI9tOFLYo1bQ2XQRcpEAUM2NP",
+                "children": [
+                  {
+                    "name": "MARRET.pdf",
+                    "type": "file",
+                    "id": "1ppN9d8Gr1CeduJrRmcuVJe7-fSRacq6-",
+                    "mimeType": "application/pdf",
+                    "size": "231586"
+                  },
+                  {
+                    "name": "soluciomarretA.pdf",
+                    "type": "file",
+                    "id": "19eu3iw_dQKOmeRuPktmchV0DqsLc2mKf",
+                    "mimeType": "application/pdf",
+                    "size": "19616"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_10",
+                "type": "folder",
+                "id": "1gjX6R_uoZRDDjkrQEe-YuITASr9tW2CS",
+                "children": [
+                  {
+                    "name": "Ejercicio_EscudoTributario.pdf",
+                    "type": "file",
+                    "id": "1lha4Sz_vTvTu6Rme-l0gJCHvPEinA2Nd",
+                    "mimeType": "application/pdf",
+                    "size": "1706743"
+                  },
+                  {
+                    "name": "Ejercicio_EscudoTributario.docx",
+                    "type": "file",
+                    "id": "17SNcS5JF6MQ4q9CRfTMjzG1ziiJHvF77",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "13787"
+                  },
+                  {
+                    "name": "SolucionEscudoTributario.pdf",
+                    "type": "file",
+                    "id": "1WAuWOeh99-2Rh_QeKNgxaJOUuFiUNmOn",
+                    "mimeType": "application/pdf",
+                    "size": "700256"
+                  },
+                  {
+                    "name": "Escudo_tributario.pdf",
+                    "type": "file",
+                    "id": "1WUGzpTNG-BAEGV7xDIDGKPA870iwdGMU",
+                    "mimeType": "application/pdf",
+                    "size": "2003100"
+                  },
+                  {
+                    "name": "SolucionEscudoTributario.docx",
+                    "type": "file",
+                    "id": "10YznJDR9o7Vg2MUp1ul1uOBbkrhUnP7Y",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "15540"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_4",
+                "type": "folder",
+                "id": "1XX5tGltAP2Z3n2ySo-zhYDV1Ijo72quD",
+                "children": [
+                  {
+                    "name": "AdACTCIR.ppt",
+                    "type": "file",
+                    "id": "1MSQP9mwMKIrTeh_vHq6H-cnk2VRJQN5B",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "572928"
+                  },
+                  {
+                    "name": "AdACTCIR.pdf",
+                    "type": "file",
+                    "id": "1hjtbuQtEufqQv53kST7nnRB6IBqxE8Cv",
+                    "mimeType": "application/pdf",
+                    "size": "58209"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_6",
+                "type": "folder",
+                "id": "1sr7otK7PligvVGiZYTcbAIqSY5_SAnvp",
+                "children": [
+                  {
+                    "name": "solucioCompaniaPalmer_A.doc",
+                    "type": "file",
+                    "id": "1bH3BpGAxLGgJoHL_xSNez7gOOcLth_YI",
+                    "mimeType": "application/msword",
+                    "size": "23040"
+                  },
+                  {
+                    "name": "Cuentas_por_Cobrar1.ppt",
+                    "type": "file",
+                    "id": "1h1ECFH4TfBDfo6HMviUrgWN9Kolm-j5G",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "351232"
+                  },
+                  {
+                    "name": "OrigeFondosCP.ppt",
+                    "type": "file",
+                    "id": "1nprdDWIcGBzLW6tffx3DuuRnA35nl4US",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "140800"
+                  },
+                  {
+                    "name": "OrigeFondosCP.pdf",
+                    "type": "file",
+                    "id": "1eMWtuAgiFOL-InIC5sBQrcEAN1fetSXC",
+                    "mimeType": "application/pdf",
+                    "size": "101604"
+                  },
+                  {
+                    "name": "EjerciciosCFinanciera.doc",
+                    "type": "file",
+                    "id": "1GKPzoH_AmcQa6pxWawQPN_N_-vKwhTpX",
+                    "mimeType": "application/msword",
+                    "size": "53248"
+                  },
+                  {
+                    "name": "Cuentas_por_Cobrar1.pdf",
+                    "type": "file",
+                    "id": "1OLWvi1HgXmSzVbooGS_4314mNPUDawOD",
+                    "mimeType": "application/pdf",
+                    "size": "943775"
+                  },
+                  {
+                    "name": "Palmer.pdf",
+                    "type": "file",
+                    "id": "19mjr0MBIy7PwT4lFO3qA2RdUlTAcmJlQ",
+                    "mimeType": "application/pdf",
+                    "size": "195428"
+                  },
+                  {
+                    "name": "Palmer.docx",
+                    "type": "file",
+                    "id": "1eAmsciIcKYyd2eyC25AraFGzsksAq2Tt",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "16310"
+                  },
+                  {
+                    "name": "EjerciciosCFinanciera.pdf",
+                    "type": "file",
+                    "id": "1_P6qZ2gbjzMT6WM1ukGKxFYb26SsQ5C9",
+                    "mimeType": "application/pdf",
+                    "size": "43295"
+                  },
+                  {
+                    "name": "solucioCompaniaPalmer_A.pdf",
+                    "type": "file",
+                    "id": "1cY3eGLRt9Ru65isQurik4n5MyxELQnKt",
+                    "mimeType": "application/pdf",
+                    "size": "9966"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_1",
+                "type": "folder",
+                "id": "153ck3yoNmXjZ3SkZ3okYTjkz0Z3pm9TV",
+                "children": [
+                  {
+                    "name": "IntroduccionCF.pdf",
+                    "type": "file",
+                    "id": "1tlIAsychJnuC8kOT_pjRDAfIYBZlI-hJ",
+                    "mimeType": "application/pdf",
+                    "size": "418862"
+                  },
+                  {
+                    "name": "Café_del_Valle_Humeante.docx",
+                    "type": "file",
+                    "id": "1-D4AVwpg8IkuyH94cfyOgZ2LZ0wGLd4u",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "16014"
+                  },
+                  {
+                    "name": "IntroduccionCF.ppt",
+                    "type": "file",
+                    "id": "1UGbGB5WaCA_F09svQIl8OLYAtzvrG4mS",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "638464"
+                  },
+                  {
+                    "name": "soluciocafedelvalle.pdf",
+                    "type": "file",
+                    "id": "1RGl-QgSkSHpMJNDYRxfADkepIyJm1krO",
+                    "mimeType": "application/pdf",
+                    "size": "17349"
+                  },
+                  {
+                    "name": "Café_del_Valle_Humeante.pdf",
+                    "type": "file",
+                    "id": "1VNu_YSKx9N8MQXy-YuQzhUh_sd_XohtJ",
+                    "mimeType": "application/pdf",
+                    "size": "18325"
+                  },
+                  {
+                    "name": "soluciocafedelvalle.doc",
+                    "type": "file",
+                    "id": "10NA6Djn8a2dprcPLHA7hLNwTBKjQrUWg",
+                    "mimeType": "application/msword",
+                    "size": "35840"
+                  },
+                  {
+                    "name": "}.pdf",
+                    "type": "file",
+                    "id": "1rPgpXISILH5WT12P-EV7sAJVP5gqHace",
+                    "mimeType": "application/pdf",
+                    "size": "18325"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Contabilidad_8edi_Horngren.pdf",
+            "type": "file",
+            "id": "16LYPWScOuxUJVCF_soTx62d65_i_ZZls",
+            "mimeType": "application/pdf",
+            "size": "46709085"
+          }
+        ]
+      },
+      {
+        "name": "Material_Leyton",
+        "type": "folder",
+        "id": "1X93G75BqsYjlaPojIKGNykIMO1UpliFO",
+        "children": [
+          {
+            "name": "Formatos",
+            "type": "folder",
+            "id": "1X8EgzY1EBgjA1IOT-fPm26CnpfD1y2JL",
+            "children": [
+              {
+                "name": "UNI_CF_2015-2_PROB_EN_CLASE_ACTIVOS_PASIVOS_Y_PAT.docx",
+                "type": "file",
+                "id": "1ycJtyr2Fx5XDdiMHfUwxTOXWpey6eyR4",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "29496"
+              },
+              {
+                "name": "VALORIZACIÓN_DE_EXISTENCIAS.xlsx",
+                "type": "file",
+                "id": "1Y8IcRn6miKNutBVQtsP5ngsUv0_KycX0",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "22135"
+              },
+              {
+                "name": "2019-1_CF_MONOGRAFIA.docx",
+                "type": "file",
+                "id": "12SpHzwaHYT7yLURvYBlv6xwSIHURyIdY",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "44980"
+              },
+              {
+                "name": "UNI_CONT_CIENFUEGOS_SOLUCIÓN_FINAL.xlsx",
+                "type": "file",
+                "id": "1lOFNaMVoJFZAY087Ps7l7g9dipOp96RZ",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "351849"
+              },
+              {
+                "name": "2019_2_UNI_CF_CASO_CIENFUEGOS.docx",
+                "type": "file",
+                "id": "1zXwRUb9u-Nm6K8IY0dCiLgO0d8AVG290",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "16828"
+              },
+              {
+                "name": "VALORIZACIÓN_DE_EXISTENCIAS-DESKTOP-CA2C41H.xlsx",
+                "type": "file",
+                "id": "1dsgUBKpsgNDmkkTaa1ydQb9n2v0No9iw",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "23262"
+              },
+              {
+                "name": "2017_2_UNI_CF_FLUJO_DE_EFECTIVO.ppt",
+                "type": "file",
+                "id": "19bhJCECu4_-7FoaE3Hqoav6vFoZCHGGJ",
+                "mimeType": "application/vnd.ms-powerpoint",
+                "size": "504320"
+              },
+              {
+                "name": "2018_UNI_CF_CONTABILIDAD_CONCEPTOS_Y_GENERALIDADES.pptx",
+                "type": "file",
+                "id": "1Y6Ff1NEV501StY5Ndu0ee0Q7b1UsM1mY",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "1203715"
+              }
+            ]
+          },
+          {
+            "name": "Monografía",
+            "type": "folder",
+            "id": "1jgktErFufuQNXaN8-ZwUyWzygLrduVpm",
+            "children": [
+              {
+                "name": "2020-1_CF_MONOGRAFIA.pdf",
+                "type": "file",
+                "id": "1p9TrM0OCrauFJWGTda2-xZandKxeeXxi",
+                "mimeType": "application/pdf",
+                "size": "200334"
+              },
+              {
+                "name": "Mono_1_Conta_Financiera.pdf",
+                "type": "file",
+                "id": "1hHwretUOr0YvP4txfn25JJ31_QtyaMwz",
+                "mimeType": "application/pdf",
+                "size": "1730564"
+              },
+              {
+                "name": "Mono_1_Conta_Financiera.docx",
+                "type": "file",
+                "id": "1JZojh2ocfx-04gSkeUturun0g8BiTDYa",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "1045717"
+              }
+            ]
+          },
+          {
+            "name": "Planchas",
+            "type": "folder",
+            "id": "1Q4isngic5g0EMWobKyqrEnOolig6c6eu",
+            "children": [
+              {
+                "name": "Sustitutorio",
+                "type": "folder",
+                "id": "1GM4jblOvJ6aDTLqwzy54s8vMZhFWwpIN",
+                "children": [
+                  {
+                    "name": "susti_19-1_1.jpg",
+                    "type": "file",
+                    "id": "1tbyuGUiivCu1g9PVatGNCxJpAO75B_d9",
+                    "mimeType": "image/jpeg",
+                    "size": "59764"
+                  },
+                  {
+                    "name": "2020_1_CF_EXAMEN_SUSTITUTORIO.docx",
+                    "type": "file",
+                    "id": "1p5X0dXr6N6yQb-HGtulOw8defXlgXSSL",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "127653"
+                  },
+                  {
+                    "name": "2020_2_UNI_CF_EXAMEN_SUSTITUTORIO.docx",
+                    "type": "file",
+                    "id": "1kS_0CKlJdp1YcctGrojBrHiWgS4yjbu6",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "83486"
+                  },
+                  {
+                    "name": "2020_2_CF_SOLUCIONARIO_DEL_EXAMEN_SUSTITUTORIO.xlsx",
+                    "type": "file",
+                    "id": "1oQj8EdqFau_dtD7rQ32POv0PIBtkjXqb",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "size": "386833"
+                  },
+                  {
+                    "name": "susti_19-1_2.jpg",
+                    "type": "file",
+                    "id": "1kXIX0_jp3pulRn3mH9qIP1l9eGPQX0LD",
+                    "mimeType": "image/jpeg",
+                    "size": "50294"
+                  }
+                ]
+              },
+              {
+                "name": "Parcial",
+                "type": "folder",
+                "id": "1TkHga36oqtSZcOCfqEm7txCS44yJganD",
+                "children": [
+                  {
+                    "name": "SolucionGE602V20202Ex.Parcial.docx",
+                    "type": "file",
+                    "id": "1EotDzsAnNYs8ETt9ZzLdtHxZDVwVGAU9",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "159775"
+                  },
+                  {
+                    "name": "2020-2_UNI_CF_EXAMEN_PARCIAL_SECCION_W.docx",
+                    "type": "file",
+                    "id": "1VKtm6K3R64eN-inPvfEE-__L85kzO_-F",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "42159"
+                  },
+                  {
+                    "name": "EXAMEN_PARCIAL_2019-1.docx",
+                    "type": "file",
+                    "id": "1KmrVv3yeoPAXn5J0Hrv985O-hJ5MsE9D",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "483779"
+                  },
+                  {
+                    "name": "2021_1_CF_EXAMEN_PARCIAL.docx",
+                    "type": "file",
+                    "id": "1FzqAt0I4HUIId6FAa6AedSVjKXRt_Te9",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "52141"
+                  },
+                  {
+                    "name": "2020_1_CF_EXAMEN_PARCIAL.pdf",
+                    "type": "file",
+                    "id": "1CjCEQNfsV75BOg9j6X2u161-QG1csOtR",
+                    "mimeType": "application/pdf",
+                    "size": "78556"
+                  },
+                  {
+                    "name": "2020_1_CF_EXAMEN_PARCIAL.docx",
+                    "type": "file",
+                    "id": "1Gph25Yg7h-6w0U87V1g8tVxP0UJP-6lK",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "22649"
+                  }
+                ]
+              },
+              {
+                "name": "1pc",
+                "type": "folder",
+                "id": "1liawCHzgQffEX4iVAD4G3WMlsmmXIdYy",
+                "children": [
+                  {
+                    "name": "2020_2_UNI_CF_PRIMERA_PRÁCTICA_SECCIÓN_W.docx",
+                    "type": "file",
+                    "id": "1GcP7G8L6p720mGtMRPEyKpAxxXlGtRR4",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "29968"
+                  }
+                ]
+              },
+              {
+                "name": "4pc",
+                "type": "folder",
+                "id": "1mVbbMsPmcEEH1BdGAiNfNxaMKYrG9oee",
+                "children": [
+                  {
+                    "name": "2020_1_UNI_CF_4_PRACTICA_DE_CONTABILIDAD_FINANCIERA_(1).pdf",
+                    "type": "file",
+                    "id": "18FJEwHwskI3Y9MwYMM2R3H9GxNa7B9IB",
+                    "mimeType": "application/pdf",
+                    "size": "292857"
+                  },
+                  {
+                    "name": "CF-PC4-COSILLA_SERGIO.docx",
+                    "type": "file",
+                    "id": "1GPwiW6Qmbik03Nkb5T83ZKwfYS2SFEzQ",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "192277"
+                  }
+                ]
+              },
+              {
+                "name": "2pc",
+                "type": "folder",
+                "id": "1uyV8S7N7zHRIfXnygcBJL02sg8sMul7V",
+                "children": [
+                  {
+                    "name": "2021-1_UNI_CF_PC2_.docx",
+                    "type": "file",
+                    "id": "1D-7lCQFtFHoA5Or3OIBgOAPGu5hnNYWb",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "14522"
+                  },
+                  {
+                    "name": "2PC_-_CONTABILIDAD_FINANCIERA.docx",
+                    "type": "file",
+                    "id": "1xzy7JSaHWNv51v2gJ_bMWvYYSLXngVt5",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "33176"
+                  },
+                  {
+                    "name": "2PC_-_Conta_Leyton_-_192.pdf",
+                    "type": "file",
+                    "id": "1dGkfEWzt0Zs6VEikT1VTHez171OjRtx6",
+                    "mimeType": "application/pdf",
+                    "size": "267658"
+                  }
+                ]
+              },
+              {
+                "name": "Final",
+                "type": "folder",
+                "id": "11hGnMwotF4VQoarfGlhPBXqsKXXyNGSJ",
+                "children": [
+                  {
+                    "name": "Final_3.jpg",
+                    "type": "file",
+                    "id": "1GjnDeTe6QYrFa5R5XToYTRoFJcgCYWHp",
+                    "mimeType": "image/jpeg",
+                    "size": "347795"
+                  },
+                  {
+                    "name": "19-2_2.jpg",
+                    "type": "file",
+                    "id": "1IwZ9ZDyRjkaQTA_WqMyfLHGNRd4byKU7",
+                    "mimeType": "image/jpeg",
+                    "size": "61706"
+                  },
+                  {
+                    "name": "2021_1_UNI_CF_22_JULIO_DE_EXAMEN_FINAL.docx",
+                    "type": "file",
+                    "id": "16XMD756Vj4-HyotkZK4y5iG8LlQonPoR",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "33837"
+                  },
+                  {
+                    "name": "2019_1_EX_FINAL_UNICO_GP223(1).docx",
+                    "type": "file",
+                    "id": "1hyemoZGf-n7dOkXbel0ynC3s9RUmb0m5",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "307910"
+                  },
+                  {
+                    "name": "Final_18_1.jpg",
+                    "type": "file",
+                    "id": "1qNFADXHqrfWuiKZFpS6erc1NEAg4cRPj",
+                    "mimeType": "image/jpeg",
+                    "size": "83604"
+                  },
+                  {
+                    "name": "2020_2_UNI_CF_U_EX_FINAL.docx",
+                    "type": "file",
+                    "id": "19H3Qj_HJbKzk7uJ0IqvEp3whEYDSOuLt",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "27250"
+                  },
+                  {
+                    "name": "19-2_3.jpg",
+                    "type": "file",
+                    "id": "1i6CwvbfrtXCADloX-dwtMAxOIOfgvttN",
+                    "mimeType": "image/jpeg",
+                    "size": "66750"
+                  },
+                  {
+                    "name": "Examen_final_18-1_2.jpg",
+                    "type": "file",
+                    "id": "1nSyRAUB3WyWG_tr7A9uYeRXYIRm_yYgV",
+                    "mimeType": "image/jpeg",
+                    "size": "86120"
+                  },
+                  {
+                    "name": "Final_1.jpg",
+                    "type": "file",
+                    "id": "1DFQoYUjOBRMPWR37S2CuM1On9HrLcRSV",
+                    "mimeType": "image/jpeg",
+                    "size": "474216"
+                  },
+                  {
+                    "name": "Final_2.jpg",
+                    "type": "file",
+                    "id": "1FSZrAR6h2C6JKkhUX3prjXQ4q7uA6r1l",
+                    "mimeType": "image/jpeg",
+                    "size": "444192"
+                  },
+                  {
+                    "name": "5b74c041-74cc-4ec8-b816-3d7319d310ae.jpg",
+                    "type": "file",
+                    "id": "1tBHd0PDWYIMzFgNDs-j97aXDiREEYTCr",
+                    "mimeType": "image/jpeg",
+                    "size": "81825"
+                  },
+                  {
+                    "name": "2020_2_UNI_CF_W_EXAMEN_FINAL_-_LEYTON.pdf",
+                    "type": "file",
+                    "id": "1kDq8Wiw3DJo4OQSA3hkefSADSiDV0z3d",
+                    "mimeType": "application/pdf",
+                    "size": "173895"
+                  },
+                  {
+                    "name": "Final_4.jpg",
+                    "type": "file",
+                    "id": "1bGJr50PCHQFXK27H6n5ReYnBtuuToRXA",
+                    "mimeType": "image/jpeg",
+                    "size": "432196"
+                  },
+                  {
+                    "name": "19-2_1.jpg",
+                    "type": "file",
+                    "id": "1yz4sYM_Fw154q5q9nQRc6LaHGcgd5G3H",
+                    "mimeType": "image/jpeg",
+                    "size": "78413"
+                  },
+                  {
+                    "name": "Examen_final_18-1_1.jpg",
+                    "type": "file",
+                    "id": "1ul1uWATrdWSwGIm4znKNoo5DFzbJhaZJ",
+                    "mimeType": "image/jpeg",
+                    "size": "83604"
+                  },
+                  {
+                    "name": "Final_18_2.jpg",
+                    "type": "file",
+                    "id": "1lAKjcFYPKFyl6ULks3QteTlsfuB_Iv7f",
+                    "mimeType": "image/jpeg",
+                    "size": "86120"
+                  },
+                  {
+                    "name": "2020_2_CF_W_SOLUCIONARIO_EXAMEN_FINAL.xlsx",
+                    "type": "file",
+                    "id": "1xTZawGsEd2G_Jlo-OxDmQ7f0KynmaOez",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "size": "49136"
+                  },
+                  {
+                    "name": "19-2_4.jpg",
+                    "type": "file",
+                    "id": "1PYIE8iIkREyg01_x-EQm_Jed-JWXizNo",
+                    "mimeType": "image/jpeg",
+                    "size": "78814"
+                  }
+                ]
+              },
+              {
+                "name": "3pc",
+                "type": "folder",
+                "id": "1HrJa580SKzZDt0z5mhP0Q_6KbmriVgyA",
+                "children": [
+                  {
+                    "name": "3PC_-_20-1_-_CF_.pdf",
+                    "type": "file",
+                    "id": "1wPp6fFMeeHoq5c9XU_CZiFLsmzz3ak7L",
+                    "mimeType": "application/pdf",
+                    "size": "67178"
+                  },
+                  {
+                    "name": "a3d687f5-6d5d-44b9-903e-811fe72b750f.jpg",
+                    "type": "file",
+                    "id": "1rKMOutgGLF7kHJYY6darjwGz3Z87f1Jf",
+                    "mimeType": "image/jpeg",
+                    "size": "148842"
+                  },
+                  {
+                    "name": "2021-1_CF_UNI_PC3_.docx",
+                    "type": "file",
+                    "id": "1i8lkjpXOAFVfxdIbNP7BRRuMZ5B2UVkr",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "37588"
+                  },
+                  {
+                    "name": "3pc_19-2_1.jpg",
+                    "type": "file",
+                    "id": "1D71eF_OOXACYNWoPc4hi7IHhHVDk4Kuy",
+                    "mimeType": "image/jpeg",
+                    "size": "159882"
+                  },
+                  {
+                    "name": "5e854628-a557-4758-b32b-cac71cd17250.jpg",
+                    "type": "file",
+                    "id": "1MQH0r5BmymgAAkJPjEm3G8TeU21dzRkF",
+                    "mimeType": "image/jpeg",
+                    "size": "133872"
+                  },
+                  {
+                    "name": "3pc_19-2_2.jpg",
+                    "type": "file",
+                    "id": "12pqlMPhtVFGLY1TfqZpP-Sel9al5a7at",
+                    "mimeType": "image/jpeg",
+                    "size": "144895"
+                  },
+                  {
+                    "name": "584390a2-9719-487c-80cf-3aad3ee7dca2.jpg",
+                    "type": "file",
+                    "id": "1ZTFavyfUrIr3wgaO9wytOOMtZebGecG5",
+                    "mimeType": "image/jpeg",
+                    "size": "149773"
+                  }
+                ]
+              },
+              {
+                "name": "2020_2_SECCION_U_PRIMER_CONTROL_DE_CONTABILIDAD_FINANCIERA.docx",
+                "type": "file",
+                "id": "1C4cZpwNuhCujFX12YzIZqZDtnU7fsbkq",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "36911"
+              },
+              {
+                "name": "2020_2_SECCION_W_PRIMER_CONTROL_DE_CONTABILIDAD_FINANCIERA.docx",
+                "type": "file",
+                "id": "1zjDIl9AC4M2S3PZz8m0PL1cjhJZzcqJ9",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "48377"
+              }
+            ]
+          },
+          {
+            "name": "2018_UNI_CF_CONTABILIDAD_CONCEPTOS_Y_GENERALIDADES.pptx",
+            "type": "file",
+            "id": "1SV1_VNTq4MHCl6b0sEThDs-YKTXp4xGN",
+            "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "size": "1147117"
+          }
+        ]
+      },
+      {
+        "name": "Monografía_final_VALLE.docx",
+        "type": "file",
+        "id": "1aFXOQc-0y2eQ1sON7vYB5IV_xPZPQGvC",
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size": "1558072"
+      },
+      {
+        "name": "CONTABILIDAD_FINANCIERA.html",
+        "type": "file",
+        "id": "1_KhvBb-KYkBRxlCVwlTtR1Hr5wTd6-vn",
+        "mimeType": "text/html",
+        "size": "436"
+      },
+      {
+        "name": "Resumen_parcial.jpg",
+        "type": "file",
+        "id": "1Psy6dMLC7n1JBFIx7-kMxISnKm0fYGrA",
+        "mimeType": "image/jpeg",
+        "size": "148505"
+      },
+      {
+        "name": "Silabo.pdf",
+        "type": "file",
+        "id": "1gYSH_iNkG8hzwcCKolsb2LBnVoiXqp0H",
+        "mimeType": "application/pdf",
+        "size": "433611"
+      },
+      {
+        "name": "Silabus_contabilidad_financiera.pdf",
+        "type": "file",
+        "id": "1jQi749j3C_-fiDiIre4SFXyAmpU3s3n0",
+        "mimeType": "application/pdf",
+        "size": "109970"
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "course_id": "HU301",
+  "course_name": "Metodología_de_la_Investigación",
+  "id": "1kN5UAjA7lcQRwHkUEhlvi76t74FC4OII",
+  "scanned_at": "2026-08-07T00:05:56.960053+00:00",
+  "tree": {
+    "name": "Metodología_de_la_Investigación",
+    "type": "folder",
+    "id": "1kN5UAjA7lcQRwHkUEhlvi76t74FC4OII",
+    "children": [
+      {
+        "name": "Cisneros",
+        "type": "folder",
+        "id": "1_-4wz-a902E-fwYkxNMvg0U2o4HuWV_W",
+        "children": [
+          {
+            "name": "Teoría",
+            "type": "folder",
+            "id": "1Upy5_wA6h-JQlRNp3qzEcx8lvDS34p2A",
+            "children": [
+              {
+                "name": "Semana_15_-_MI.pdf",
+                "type": "file",
+                "id": "1NdvLl1dqu9XYHz6ZUDUbUwTJeesXAymD",
+                "mimeType": "application/pdf",
+                "size": "141507"
+              },
+              {
+                "name": "Semana_16_-_MI.pdf",
+                "type": "file",
+                "id": "1_rWAOiSnDY6PYYjgcu4odEU82VIoCCJT",
+                "mimeType": "application/pdf",
+                "size": "143507"
+              },
+              {
+                "name": "Semana_14_-_MI.pdf",
+                "type": "file",
+                "id": "1dhuyhNljkdcA9g7vCcxXfjecQC7ybtRc",
+                "mimeType": "application/pdf",
+                "size": "143158"
+              }
+            ]
+          },
+          {
+            "name": "Planchas",
+            "type": "folder",
+            "id": "1a7Re0at4YEjf4c2sJxXG3XxcjUcFDPEN",
+            "children": [
+              {
+                "name": "HU301_Exámenes_20-2_Cisneros.pdf",
+                "type": "file",
+                "id": "1mYoO4i9ZdmHOJfo3fY6eCB09_wp2pfui",
+                "mimeType": "application/pdf",
+                "size": "430367"
+              },
+              {
+                "name": "HU301_PC1_22-1_Cisneros.jpeg",
+                "type": "file",
+                "id": "1TZ6SrO6FPL-neL42taNEh15qz5xhEc-_",
+                "mimeType": "image/jpeg",
+                "size": "154183"
+              },
+              {
+                "name": "HU301_PC1_23-2_Cisneros.jpeg",
+                "type": "file",
+                "id": "1-DI-ym5-mq3rsLFHxMrt8L8O3rGFhHhM",
+                "mimeType": "image/jpeg",
+                "size": "157419"
+              },
+              {
+                "name": "HU301_PE_24-1_Cisneros.jpeg",
+                "type": "file",
+                "id": "1hLgbDadsJ-pGexirO10YeCUd0iFXpWtH",
+                "mimeType": "image/jpeg",
+                "size": "194962"
+              },
+              {
+                "name": "HU301_PC2_22-1_Cisneros.jpeg",
+                "type": "file",
+                "id": "1OdAt0dSC9hK5vliIggRmSTtaxXfGXrYP",
+                "mimeType": "image/jpeg",
+                "size": "124244"
+              },
+              {
+                "name": "HU301_PC2_22-2_Cisneros.jpeg",
+                "type": "file",
+                "id": "1uqfmFPEHZ464RxkyKGwgSFDw6SnjPvkh",
+                "mimeType": "image/jpeg",
+                "size": "280755"
+              },
+              {
+                "name": "HU301_PC1_24-1_Cisneros.jpeg",
+                "type": "file",
+                "id": "13tUOq_kSyNeMxVzo8GZAoy-JaxJwi9y5",
+                "mimeType": "image/jpeg",
+                "size": "279737"
+              },
+              {
+                "name": "HU301_PC3_24-2_Cisneros.jpeg",
+                "type": "file",
+                "id": "1JQz-1j5ofCVcjpfqpQZNURwvokidQRYV",
+                "mimeType": "image/jpeg",
+                "size": "627909"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "FORMATO_2A_SILABO_mi_23-1.pdf",
+        "type": "file",
+        "id": "1vvtXB6O_-gv50H8BeO3h2NrmSTwy1viz",
+        "mimeType": "application/pdf",
+        "size": "187832"
+      },
+      {
+        "name": "Teresita",
+        "type": "folder",
+        "id": "1GTYtevM38f1f6Jfj5m10gem11bDxTi69",
+        "children": [
+          {
+            "name": "PC1",
+            "type": "folder",
+            "id": "1bgEEpEBZDYYW3f7CyHcViQSyza9p4UOE",
+            "children": [
+              {
+                "name": "PC1_25-2_2",
+                "type": "file",
+                "id": "1clDHqQfB9CFADL_pa9C0EjOEwk87SfCt",
+                "mimeType": "image/jpeg",
+                "size": "2900882"
+              },
+              {
+                "name": "PC1_25-2_1",
+                "type": "file",
+                "id": "1aomM5caZUHC8ommofhF6FZRXVqe7zp9W",
+                "mimeType": "image/jpeg",
+                "size": "5915125"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2327 @@
+{
+  "course_id": "AA002",
+  "course_name": "Adicionales",
+  "id": "1VjTcAiVKiT5Q8FxYQ8bGAn3YhJBTmqGg",
+  "scanned_at": "2026-08-07T00:16:12.477772+00:00",
+  "tree": {
+    "name": "Adicionales",
+    "type": "folder",
+    "id": "1VjTcAiVKiT5Q8FxYQ8bGAn3YhJBTmqGg",
+    "children": [
+      {
+        "name": "Cursos_PIT/OTI",
+        "type": "folder",
+        "id": "1Fzez19z80_NN89kuQ172A4Y4BKqcvfkd",
+        "children": [
+          {
+            "name": "PIT_2026_10°_Edición",
+            "type": "folder",
+            "id": "1aiPEW2ftASYatpwIUOJcxBa3KFZQgBYj",
+            "children": [
+              {
+                "name": "PIT707_Six_Sigma",
+                "type": "folder",
+                "id": "1bdZxPZt0jBRKE4VDgxmWqP438Ft-q9iF",
+                "children": []
+              },
+              {
+                "name": "PIT700_Power_Automate",
+                "type": "folder",
+                "id": "1NN6U3NsOG_u1S8_iQFPtzAutjIPTppaf",
+                "children": []
+              },
+              {
+                "name": "PIT699_Power_Apps",
+                "type": "folder",
+                "id": "1tcwQ6ZQSErvvLmj8pDJ9NSfVFz-jxKII",
+                "children": []
+              },
+              {
+                "name": "PIT686_Git_y_GitHub:_Control_de_Versiones_Software",
+                "type": "folder",
+                "id": "1XEfHrpxMUVQHaGoRcutjmO1xoK7MDL3f",
+                "children": []
+              },
+              {
+                "name": "PIT684_Gestión_Financiera_con_Excel",
+                "type": "folder",
+                "id": "1RoSLteurSUBCrsoxu1W_rXfFY36m0EtH",
+                "children": []
+              },
+              {
+                "name": "PIT679_Fundamentos_de_Oracle",
+                "type": "folder",
+                "id": "1LcYAceOqauKhT5DL8PNJM4hx0SNcHEho",
+                "children": []
+              },
+              {
+                "name": "PIT677_Fundamentos_de_Linux",
+                "type": "folder",
+                "id": "12-rrHwjNQ-lLi8XykEyD0Snp7HGzkeUf",
+                "children": []
+              },
+              {
+                "name": "PIT658_Finanzas:_Principios_y_Tendencias_para_la_Toma_de_Decisiones_Tecnológicas",
+                "type": "folder",
+                "id": "12ayc0E4XOv51g1Z02NBUiBVuMYDVTBpe",
+                "children": []
+              },
+              {
+                "name": "PIT657_Excel_con_Macros",
+                "type": "folder",
+                "id": "1172moDIJVvdJV95Ko7Uott4Jtn1bS7i3",
+                "children": []
+              },
+              {
+                "name": "PIT651_Copilot_Office_365",
+                "type": "folder",
+                "id": "1ocnQteZRCGy7P7JFlRaiGouK7E6ZcR97",
+                "children": [
+                  {
+                    "name": "Sesión_2",
+                    "type": "folder",
+                    "id": "1AxYy49zpn7NVREtzF2ZyRY6iLqRBA9PL",
+                    "children": [
+                      {
+                        "name": "Copilot_en_Excel_-_Fundamentos.pdf",
+                        "type": "file",
+                        "id": "11HaL1bPrdZ8IJwkpnMhdlKSgJZH34wpr",
+                        "mimeType": "application/pdf",
+                        "size": "14040212"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_1",
+                    "type": "folder",
+                    "id": "1udxU9RUnZd2Fc9CXfDYkjaYxr_TzHFBq",
+                    "children": [
+                      {
+                        "name": "Introducción_a_Copilot_y_Microsoft_365.pdf",
+                        "type": "file",
+                        "id": "1RcbNzonObi7eVWvf3gWFRZo9UbLztRzC",
+                        "mimeType": "application/pdf",
+                        "size": "13067554"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Silabo_PIT651_Copilot_Office_365",
+                    "type": "file",
+                    "id": "1Ghchiix9FZ3la5X4pT6LIPem_hFk4Oan",
+                    "mimeType": "application/pdf",
+                    "size": "1707743"
+                  }
+                ]
+              },
+              {
+                "name": "PIT648_Ciencia_de_Datos_2:_Big_Data",
+                "type": "folder",
+                "id": "1a_2BJTgK4Rm5NmvIed2wY352rEtdJ3ND",
+                "children": [
+                  {
+                    "name": "Silabo_PIT648_Ciencia_de_Datos_2",
+                    "type": "file",
+                    "id": "1fYbkHwHYbCflD14FeF5lgJHJb4IkoVEL",
+                    "mimeType": "application/pdf",
+                    "size": "1563761"
+                  }
+                ]
+              },
+              {
+                "name": "PIT653_Desarrollo_de_Aplicaciones_con_Inteligencia_Artificial_Gemini",
+                "type": "folder",
+                "id": "122bUEt_fJ_0TA9XXoCZjN0O70N8Gg-w6",
+                "children": []
+              },
+              {
+                "name": "PIT647_Ciencia_de_Datos_1:_Exploratory_Data_Analysis",
+                "type": "folder",
+                "id": "1_Qo-oC8R5Fi1MzF_9DAjd8vwkH8vckjS",
+                "children": [
+                  {
+                    "name": "Sesión_6",
+                    "type": "folder",
+                    "id": "1pHN9lG1Smfv6nPU1b0QqHkShBMUak4Uq",
+                    "children": [
+                      {
+                        "name": "Separata_6.pdf",
+                        "type": "file",
+                        "id": "1PNOlR8AX1xHTrx0gT_ZfO4mBMuUWtDz2",
+                        "mimeType": "application/pdf",
+                        "size": "478262"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_5",
+                    "type": "folder",
+                    "id": "1nKRpMn5Fj5e5-8SR68V8pzoXxd_qeYan",
+                    "children": [
+                      {
+                        "name": "Separata_5.pdf",
+                        "type": "file",
+                        "id": "1xo48ACcmWX24ouNKdfEXq17LFmcZZYdR",
+                        "mimeType": "application/pdf",
+                        "size": "912430"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_4",
+                    "type": "folder",
+                    "id": "13k9ACNleN6c8o7jiTErDx8mdMKPAteIL",
+                    "children": [
+                      {
+                        "name": "Separata_4.pdf",
+                        "type": "file",
+                        "id": "1go7eX12v1qbNub5d1QBnwkiL5nI-g2Qp",
+                        "mimeType": "application/pdf",
+                        "size": "6065388"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_3",
+                    "type": "folder",
+                    "id": "1HkFRgYyd8B9OqVSvWa_Y5DPdbE5T5dEs",
+                    "children": [
+                      {
+                        "name": "Separata_3.pdf",
+                        "type": "file",
+                        "id": "1VI68X-_ErZ4Zk4a6TP2yqif0tbXi-Wan",
+                        "mimeType": "application/pdf",
+                        "size": "5338081"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_2",
+                    "type": "folder",
+                    "id": "1h_JbDbERwFhB4GiQZe-ItLg4_-wStBSq",
+                    "children": [
+                      {
+                        "name": "Separata_2.pdf",
+                        "type": "file",
+                        "id": "1oYyKSpa4piWi5o4fP46fwf5DsdtQsamH",
+                        "mimeType": "application/pdf",
+                        "size": "1196956"
+                      },
+                      {
+                        "name": "Data.csv",
+                        "type": "file",
+                        "id": "1Q8-pZUAdwmxi-b3ybmuFr_v6iuH-0evY",
+                        "mimeType": "text/csv",
+                        "size": "28629"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_1",
+                    "type": "folder",
+                    "id": "162QEY02MnfskJ2lMAiIVwudV9zf2nwsZ",
+                    "children": [
+                      {
+                        "name": "Separata_1.pdf",
+                        "type": "file",
+                        "id": "1T-bEi0cX9GmeuU7NzvNmdGsEsfzuhCgq",
+                        "mimeType": "application/pdf",
+                        "size": "4095397"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Silabo_PIT647_Ciencia_de_Datos_1.pdf",
+                    "type": "file",
+                    "id": "16NMKKmtUOc51wj6r1y4PTHTL45Y748xp",
+                    "mimeType": "application/pdf",
+                    "size": "2154274"
+                  }
+                ]
+              },
+              {
+                "name": "PIT638_CANVA:_Diseño_Visual_Creativo",
+                "type": "folder",
+                "id": "1bPOE0GPNJzd1ca55IzfBkUOpsF--djWi",
+                "children": [
+                  {
+                    "name": "Sesión_4",
+                    "type": "folder",
+                    "id": "1saeHAEqDQKUtlX9QUE8sIUyuQAx_OdF7",
+                    "children": [
+                      {
+                        "name": "Manual_Canva_Tema_4.pdf",
+                        "type": "file",
+                        "id": "1nJH-x5clJ5qcxU7ydNI1jyHRd7Z0ITw2",
+                        "mimeType": "application/pdf",
+                        "size": "273525"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_3",
+                    "type": "folder",
+                    "id": "1ENRcd3AOpyrJqB6wrQdSoXpgNYEreZ-e",
+                    "children": [
+                      {
+                        "name": "Manual_Canva_Tema_3.pdf",
+                        "type": "file",
+                        "id": "1UxPBcF1ZA6WfzBFd3hp5mYGUG7ecc_8O",
+                        "mimeType": "application/pdf",
+                        "size": "260144"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_2",
+                    "type": "folder",
+                    "id": "1iyLG2Z5tAXf6T7ytyIMS-Do3tDalvQkX",
+                    "children": [
+                      {
+                        "name": "Manual_Canva_Tema_2.pdf",
+                        "type": "file",
+                        "id": "1cf6_8Cgg-Yum9k_aln__zKwOwpZkJPKU",
+                        "mimeType": "application/pdf",
+                        "size": "284017"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_1",
+                    "type": "folder",
+                    "id": "1kKSuUuE3IzfpQqQIkL5nkX9kKVsTVtzG",
+                    "children": [
+                      {
+                        "name": "Manual_Canva_Tema_1.pdf",
+                        "type": "file",
+                        "id": "1AD0cXkLYJAh4MhfqLnZQMIElbWLc_wUB",
+                        "mimeType": "application/pdf",
+                        "size": "166822"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Silabo_PIT638_CANVA.pdf",
+                    "type": "file",
+                    "id": "1JffsaDvUMU2VBpmTJUqgoPiJzjFenmwp",
+                    "mimeType": "application/pdf",
+                    "size": "1667838"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "PIT_2026_9°_Edición",
+            "type": "folder",
+            "id": "1opHinR7_r9TKoINhZ_bCKOjV0A5nmWii",
+            "children": [
+              {
+                "name": "PIT605_LATEX",
+                "type": "folder",
+                "id": "1P1nLXV77dknpsSVKoHQf50VHrgfxoSj1",
+                "children": [
+                  {
+                    "name": "Links_del_taller_de_LaTex.txt",
+                    "type": "file",
+                    "id": "1-8M3n3WHWbQieW3dn1rJ7s8IXemIVCns",
+                    "mimeType": "text/plain",
+                    "size": "746"
+                  },
+                  {
+                    "name": "Material_adicional:_manuales_y_libros_de_LaTex",
+                    "type": "folder",
+                    "id": "16-J3V5es4VW-TP_WhDZzT-ktXZVHM-Qu",
+                    "children": [
+                      {
+                        "name": "Tesis_hecha_en_LaTex.zip",
+                        "type": "file",
+                        "id": "1758I4lndXiN9LSJ3H57YWrctF5QubsDk",
+                        "mimeType": "application/x-zip-compressed",
+                        "size": "14796419"
+                      },
+                      {
+                        "name": "Apuntes_de_LaTex_Cap_9-1-Dibujando_con_LaTex.pdf",
+                        "type": "file",
+                        "id": "1EjLkHIR1EtYX1_FlJ4iGinpbD5OGIqra",
+                        "mimeType": "application/pdf",
+                        "size": "260027"
+                      },
+                      {
+                        "name": "Apuntes_de_LaTex_Cap_19-Bibliografia_avanzada.pdf",
+                        "type": "file",
+                        "id": "1ZphsINi5KYT8Eaw-606NqexTnTiKL6X5",
+                        "mimeType": "application/pdf",
+                        "size": "431831"
+                      },
+                      {
+                        "name": "Apuntes_de_LaTex_Cap_18-Miscelanea_de_paquetes.pdf",
+                        "type": "file",
+                        "id": "1I34E328CjQfPu0tUTodvN7KbB5m7uuUh",
+                        "mimeType": "application/pdf",
+                        "size": "1064970"
+                      },
+                      {
+                        "name": "Apuntes_de_LaTex_Cap_17-Gestion_de_tipos.pdf",
+                        "type": "file",
+                        "id": "1jHqLe0LGRESBa2wbyBYXN6jdbzF7QKjc",
+                        "mimeType": "application/pdf",
+                        "size": "134440"
+                      },
+                      {
+                        "name": "Apuntes_de_LaTex_Cap_16-Ampliacion_de_conceptos_sobre_escritura_matematica.pdf",
+                        "type": "file",
+                        "id": "1xLCTw05256TLKMPVubfXEl5vEAekPPOm",
+                        "mimeType": "application/pdf",
+                        "size": "119905"
+                      },
+                      {
+                        "name": "Apuntes_de_LaTex_Cap_15-Produciendo_indices,_el_programa_makeindex.pdf",
+                        "type": "file",
+                        "id": "1TjWTT24jQm6JcIg4vkMHTjcd_Px6BjC5",
+                        "mimeType": "application/pdf",
+                        "size": "161598"
+                      },
+                      {
+                        "name": "Apuntes_de_LaTex_Cap_14-Graficos_estadisiticos.pdf",
+                        "type": "file",
+                        "id": "1Fm43LfGlHrUtdFozQFc78aL3nDgYLZyM",
+                        "mimeType": "application/pdf",
+                        "size": "146976"
+                      },
+                      {
+                        "name": "Apuntes_de_LaTex_Cap_13-2-Presentaciones_en_LaTex_con_Beamer.pdf",
+                        "type": "file",
+                        "id": "1zLfa_whgFwDlrFLIhpe3yQPDCB8nIo6U",
+                        "mimeType": "application/pdf",
+                        "size": "1200021"
+                      },
+                      {
+                        "name": "Apuntes_de_LaTex_Cap_13-El_paquete_titlesec.pdf",
+                        "type": "file",
+                        "id": "17R0vkI5qm-CGcjcBxDKpV4nkhImbHxNn",
+                        "mimeType": "application/pdf",
+                        "size": "434090"
+                      },
+                      {
+                        "name": "Apuntes_de_LaTex_Cap_11-Programacion_LaTex.pdf",
+                        "type": "file",
+                        "id": "1-wsEvQVnrcXiCivv83hzMkoW1Lvol7pi",
+                        "mimeType": "application/pdf",
+                        "size": "267483"
+                      },
+                      {
+                        "name": "Apuntes_de_LaTex_Cap_12-Miscelanea.pdf",
+                        "type": "file",
+                        "id": "1rIMeOT-1hL9n39xztewE86iL9SrB9BmG",
+                        "mimeType": "application/pdf",
+                        "size": "102162"
+                      },
+                      {
+                        "name": "Apuntes_de_LaTex_Cap_9-2-Dibujando_con_LaTex.pdf",
+                        "type": "file",
+                        "id": "1ZomZOxKD8dC4-ok5VRm0XXcj0QVfSwI9",
+                        "mimeType": "application/pdf",
+                        "size": "283553"
+                      },
+                      {
+                        "name": "Apuntes_de_LaTex_Cap_10-Conceptos_avanzados_sobre_esctructuras_de_tablas.pdf",
+                        "type": "file",
+                        "id": "1SNE0EB8MPnwXo1kiwGmRY6DQeMSwH4p9",
+                        "mimeType": "application/pdf",
+                        "size": "327088"
+                      },
+                      {
+                        "name": "Apuntes_de_LaTex_Cap_9-Manejo_de_recursos_de_color.pdf",
+                        "type": "file",
+                        "id": "10OGObamJpWIFCEkFtgGO4YEhLhrXkIUm",
+                        "mimeType": "application/pdf",
+                        "size": "163041"
+                      },
+                      {
+                        "name": "Apuntes_de_LaTex_Cap_8-Nociones_de_programacion_LaTex.pdf",
+                        "type": "file",
+                        "id": "18FCCzWfduBMs-KaeXdQwAarrqMoMyvpY",
+                        "mimeType": "application/pdf",
+                        "size": "525686"
+                      },
+                      {
+                        "name": "Apuntes_de_LaTex_Cap_7-Manipulacion_de_cajas,_estrictura_a_varias_columnas.pdf",
+                        "type": "file",
+                        "id": "1CBmpwWzy2Ui5__eXmWp25HaOL6UfNdWW",
+                        "mimeType": "application/pdf",
+                        "size": "402396"
+                      },
+                      {
+                        "name": "Apuntes_de_LaTex_Cap_6-Referencias,_bibliografia,_notas_al_pie_y_al_margen.pdf",
+                        "type": "file",
+                        "id": "1hmJQ51mWct6i5wwe9MD0wY6C7cul9s1L",
+                        "mimeType": "application/pdf",
+                        "size": "70565"
+                      },
+                      {
+                        "name": "Apuntes_de_LaTex_Cap_5-Inclusion_de_graficos_y_elementos_flotantes.pdf",
+                        "type": "file",
+                        "id": "135qZ5RVWKOPd72DPIJ2B1DH_Wpa3I7Sf",
+                        "mimeType": "application/pdf",
+                        "size": "128014"
+                      },
+                      {
+                        "name": "Apuntes_de_LaTex_Cap_4-Clases_de_documentos_y_su_estructura.pdf",
+                        "type": "file",
+                        "id": "14UXYjYL02_sdirJu7vmc-dYXzk4sZszz",
+                        "mimeType": "application/pdf",
+                        "size": "291452"
+                      },
+                      {
+                        "name": "Apuntes_de_LaTex_Cap_3-Formulas_matematicas.pdf",
+                        "type": "file",
+                        "id": "1GdvR6wq7wsnqvceWiOmc-APGEuGrBzVC",
+                        "mimeType": "application/pdf",
+                        "size": "238607"
+                      },
+                      {
+                        "name": "Apuntes_de_LaTex_Cap_2-Listas_y_tablas.pdf",
+                        "type": "file",
+                        "id": "1n-sBhNF5bRk3jP-slQpv4sv8Ve8_nlID",
+                        "mimeType": "application/pdf",
+                        "size": "558744"
+                      },
+                      {
+                        "name": "Apuntes_de_LaTex_Cap_1-Que_es,_funcionamiento_basico.pdf",
+                        "type": "file",
+                        "id": "1yr2i5dmgTyIrPfB4sZ0j4cG9t9E3-QPV",
+                        "mimeType": "application/pdf",
+                        "size": "1223060"
+                      },
+                      {
+                        "name": "LaTex_Beginners_Guide_Second_Edition.pdf",
+                        "type": "file",
+                        "id": "1FeDOy6xntG56ErdUilto1c5yMUphvQY0",
+                        "mimeType": "application/pdf",
+                        "size": "4083120"
+                      },
+                      {
+                        "name": "Manual_de_LaTex.pdf",
+                        "type": "file",
+                        "id": "1EHyk7Ho6dwMbFiOmfPqADjZOS3xN0VUj",
+                        "mimeType": "application/pdf",
+                        "size": "1910986"
+                      },
+                      {
+                        "name": "Introducción_de_LaTex.pdf",
+                        "type": "file",
+                        "id": "1LxsJ46g9P93x8gCV2gBUxi_UMhSplS_D",
+                        "mimeType": "application/pdf",
+                        "size": "1895935"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_6",
+                    "type": "folder",
+                    "id": "1uOKM0MnRyfMdNgTIQep7rLeFay3yUAIJ",
+                    "children": [
+                      {
+                        "name": "Sesion_6-Presentacion.pdf",
+                        "type": "file",
+                        "id": "1CBuaKz2SfhsnwussmCnnpcknDaM2GJgd",
+                        "mimeType": "application/pdf",
+                        "size": "1297816"
+                      },
+                      {
+                        "name": "Sesion_6-Material_trabajado_en_clase.pdf",
+                        "type": "file",
+                        "id": "1iMeCvdDt0Zz7Szax6UWNgT94lp1QFftM",
+                        "mimeType": "application/pdf",
+                        "size": "1248672"
+                      },
+                      {
+                        "name": "Clase_6_--_jueves_11-06-2026.zip",
+                        "type": "file",
+                        "id": "19Ge6fDbwC7N8ua26SIfJpSqAQPjKO-M_",
+                        "mimeType": "application/x-zip-compressed",
+                        "size": "1805295"
+                      },
+                      {
+                        "name": "Transactions-template-and-instructions-on-how-to-create-your-article-formatted_(4).docx",
+                        "type": "file",
+                        "id": "1P8SP9BTyHE_ysFW1MzSGiZTI6yg2SeZO",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "51972"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_5",
+                    "type": "folder",
+                    "id": "1SOM-sMvUFg4NykzFJT08jh3IMHRZ9J5A",
+                    "children": [
+                      {
+                        "name": "Sesion_5-Presentacion.pdf",
+                        "type": "file",
+                        "id": "1TT5HKkcy0JBsLP1LXfWZEzBS03YdExPq",
+                        "mimeType": "application/pdf",
+                        "size": "717228"
+                      },
+                      {
+                        "name": "Sesion_5-Material_trabajado_en_clase.pdf",
+                        "type": "file",
+                        "id": "1oGBKCDjfRd4ef5wYR8A7X1BBDPF2RMo6",
+                        "mimeType": "application/pdf",
+                        "size": "1248936"
+                      },
+                      {
+                        "name": "MDPI_Article_Template.zip",
+                        "type": "file",
+                        "id": "1PYKRBcqpIgbvbM_C8CbDrqUphEUBS1zK",
+                        "mimeType": "application/x-zip-compressed",
+                        "size": "589917"
+                      },
+                      {
+                        "name": "Elsevier_Results_in_Physics_journal_template.zip",
+                        "type": "file",
+                        "id": "1SMAF7lRy5LVBzJO1SSgIeAobRja8uMjG",
+                        "mimeType": "application/x-zip-compressed",
+                        "size": "600423"
+                      },
+                      {
+                        "name": "Clase_5_--_sábado_06-06-2026.zip",
+                        "type": "file",
+                        "id": "1EzqZCkzefm1MSJGiJ5ewrgzaT9blt1nj",
+                        "mimeType": "application/x-zip-compressed",
+                        "size": "1804897"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_4",
+                    "type": "folder",
+                    "id": "1NQ6xnXh7f6Lhr5aES2ab6wHwJ6wY-0ZD",
+                    "children": [
+                      {
+                        "name": "Sesion_4-Presentacion.pdf",
+                        "type": "file",
+                        "id": "1rtvFQB-_jLQauSLjtDmlhptO2MHbkuoC",
+                        "mimeType": "application/pdf",
+                        "size": "495645"
+                      },
+                      {
+                        "name": "Sesion_4-Material_trabajado_en_clase.pdf",
+                        "type": "file",
+                        "id": "1U6pi4C61h5JUCfERt5V5yH-p8g6CulH1",
+                        "mimeType": "application/pdf",
+                        "size": "246702"
+                      },
+                      {
+                        "name": "Clase_4_--_sábado_30-05-2026.zip",
+                        "type": "file",
+                        "id": "1er91JkQ_mWEP1CDGwHxafHvk1Oar1Uum",
+                        "mimeType": "application/x-zip-compressed",
+                        "size": "800957"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_3",
+                    "type": "folder",
+                    "id": "1plpxg8FdVPYRTYpTpH6GnIJOuESVE_N5",
+                    "children": [
+                      {
+                        "name": "Sesion_3-Presentacion.pdf",
+                        "type": "file",
+                        "id": "10wfIDGHyeHYSQutO3JxAsj5xLNPFBBWv",
+                        "mimeType": "application/pdf",
+                        "size": "590198"
+                      },
+                      {
+                        "name": "Sesion_3-Material_trabajado_en_clase.pdf",
+                        "type": "file",
+                        "id": "1dQA7psU6AB2mBr8VGRMqdxO1Jd6apry5",
+                        "mimeType": "application/pdf",
+                        "size": "208671"
+                      },
+                      {
+                        "name": "Clase_3_--_Jueves_28-05-2026.zip",
+                        "type": "file",
+                        "id": "1tzUDezn3Fx-MgQ4mourk-oVIECfDr1af",
+                        "mimeType": "application/x-zip-compressed",
+                        "size": "799291"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_1",
+                    "type": "folder",
+                    "id": "14IrlGNq3QJXi1dpw_VTsxxc4ZMSPayda",
+                    "children": [
+                      {
+                        "name": "Sesion_1-Presentacion.pdf",
+                        "type": "file",
+                        "id": "1CetSN6YrJjcBo6UDfaxq6CsJ4Wh1wk4Y",
+                        "mimeType": "application/pdf",
+                        "size": "1230444"
+                      },
+                      {
+                        "name": "Clase_1_--_Jueves_21-05-2026.zip",
+                        "type": "file",
+                        "id": "1K86E18XSWMGS675kYEd_oP0E0N5KTSR3",
+                        "mimeType": "application/x-zip-compressed",
+                        "size": "795874"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_2",
+                    "type": "folder",
+                    "id": "1KRLtu0fUwEHHojTTiFe6yAbQrqVg1fFf",
+                    "children": [
+                      {
+                        "name": "Sesion_2-Presentacion.pdf",
+                        "type": "file",
+                        "id": "1NjdA_c5BzuIlyNyggmkfIzFcb3xfezkj",
+                        "mimeType": "application/pdf",
+                        "size": "523223"
+                      },
+                      {
+                        "name": "Sesion_2-Material_trabajado_en_clase.pdf",
+                        "type": "file",
+                        "id": "14b8mA_KIpgCUP3-T0hoq48aRlsLbY5Th",
+                        "mimeType": "application/pdf",
+                        "size": "181532"
+                      },
+                      {
+                        "name": "Clase_2_--_Sábado_23-05-2026.zip",
+                        "type": "file",
+                        "id": "18pm_-F4nghBnJETKd4gaR00EMvKGTlLK",
+                        "mimeType": "application/x-zip-compressed",
+                        "size": "798138"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Silabo_PIT605_LaTex.pdf",
+                    "type": "file",
+                    "id": "1vbY1PaIiUw6kvC9cYfE_Hq_eU5gH7t2H",
+                    "mimeType": "application/pdf",
+                    "size": "3474025"
+                  }
+                ]
+              },
+              {
+                "name": "Agradecimiento.txt",
+                "type": "file",
+                "id": "184xj9cVB4yzOpAUHIHFZXBGl_xh9kem5",
+                "mimeType": "text/plain",
+                "size": "255"
+              },
+              {
+                "name": "PIT562_Desarrollo_de_Aplicaciones_con_Inteligencia_Artificial_Gemini",
+                "type": "folder",
+                "id": "1cLbLILaNkndtlkDEABRkvaxNw-Xgpc3p",
+                "children": [
+                  {
+                    "name": "Links_del_taller_de_Desarrollo_de_Aplicaciones_con_IA_Gemini.txt",
+                    "type": "file",
+                    "id": "102Qca00FqSu7NiKJqs3iKUnKZUzUqVAx",
+                    "mimeType": "text/plain",
+                    "size": "552"
+                  },
+                  {
+                    "name": "Sesión_4",
+                    "type": "folder",
+                    "id": "13MUpDkftqcyJPu7hiRdsLsokLbkoxEfq",
+                    "children": [
+                      {
+                        "name": "Sesión_4.pdf",
+                        "type": "file",
+                        "id": "1RQmaq106vQcd2siu3-l0ek7whkfFCKFN",
+                        "mimeType": "application/pdf",
+                        "size": "216008"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_3",
+                    "type": "folder",
+                    "id": "1M7Qy8mYbHJbupxchAxSYPzkvE6Mj32lz",
+                    "children": [
+                      {
+                        "name": "Sesión_3.pdf",
+                        "type": "file",
+                        "id": "1X8QJK7VQJXdzQors8916xZig-piiEvUE",
+                        "mimeType": "application/pdf",
+                        "size": "142260"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_2",
+                    "type": "folder",
+                    "id": "1eNUojdKojU4Y2Xt0OJYJ4keo1bzCiXhB",
+                    "children": [
+                      {
+                        "name": "Gemini_Manual_2.pdf",
+                        "type": "file",
+                        "id": "1U-pPamaIx3cd3OYb2kF7LffO9m0Z77_O",
+                        "mimeType": "application/pdf",
+                        "size": "108974"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_1",
+                    "type": "folder",
+                    "id": "1JMEMGGKuiItuCRqGPnhUc9kS-Isl6RuO",
+                    "children": [
+                      {
+                        "name": "Sesión_1.pdf",
+                        "type": "file",
+                        "id": "1NY1UcEQ-w7eYAmT4FGjl-Q7PoMB_7i33",
+                        "mimeType": "application/pdf",
+                        "size": "125738"
+                      },
+                      {
+                        "name": "Gemini_Manual_1.pdf",
+                        "type": "file",
+                        "id": "1tbKwM9YQWr6ClSCXKCPvpyDi2RyAMv2V",
+                        "mimeType": "application/pdf",
+                        "size": "229050"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "PIT621_Programación_en_PYTHON_Intermedio",
+                "type": "folder",
+                "id": "1cTra1vWzdDijY6IbmqgtFvcnQI5e0SJ3",
+                "children": [
+                  {
+                    "name": "Links_del_taller_de_Programacion_en_PYTHON_Intermedio.txt",
+                    "type": "file",
+                    "id": "1cAaNHxPnv_OqzDbenan1u7v0JTe7FfL7",
+                    "mimeType": "text/plain",
+                    "size": "580"
+                  },
+                  {
+                    "name": "Sesión_5",
+                    "type": "folder",
+                    "id": "1YWC1pRvcNgUo9c-fudMahpn5_gynDxuI",
+                    "children": [
+                      {
+                        "name": "Script01.ipynb",
+                        "type": "file",
+                        "id": "1ThdrvkTIEYbOVPgimHnOCuM8yAHxg6uL",
+                        "mimeType": "application/octet-stream",
+                        "size": "23019"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_4",
+                    "type": "folder",
+                    "id": "1lOJ0dRqbQKLOI02J2_v7tjEwuPpCLB_9",
+                    "children": [
+                      {
+                        "name": "Script01.ipynb",
+                        "type": "file",
+                        "id": "1di0csVVUIujZuWvyytCYYTbDs63cUAu6",
+                        "mimeType": "application/octet-stream",
+                        "size": "37727"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_3",
+                    "type": "folder",
+                    "id": "1t3OvwvEzT0vCiIll5K9szGZnKs1kbq-S",
+                    "children": [
+                      {
+                        "name": "Script01_sesion3.ipynb",
+                        "type": "file",
+                        "id": "14Oz9Ga0F3JtP5gkVk2qOlZU_2EWDwl31",
+                        "mimeType": "application/octet-stream",
+                        "size": "34387"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_2",
+                    "type": "folder",
+                    "id": "1cRCdjepKIaLE3gc0bnG64OBCA8q-JYVO",
+                    "children": [
+                      {
+                        "name": "Script01_Sesion2.ipynb",
+                        "type": "file",
+                        "id": "12TOV_fihtUUpG0uJHgtVT8eW0v_bgp-R",
+                        "mimeType": "application/octet-stream",
+                        "size": "36710"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_1",
+                    "type": "folder",
+                    "id": "1JT3W18DHlgXs3WXeNn6Sny8aDSCj7mWJ",
+                    "children": [
+                      {
+                        "name": "Script01.ipynb",
+                        "type": "file",
+                        "id": "1CZ7iLxeyBkyQseG7nENw5hrPvUPgu9Qv",
+                        "mimeType": "application/octet-stream",
+                        "size": "90692"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "PIT620_Programación_en_PYTHON_Básico",
+                "type": "folder",
+                "id": "19lUTwdyGLjn_12Whp9-ektw-fL8PVLT8",
+                "children": [
+                  {
+                    "name": "Links_del_taller_de_Programacion_en_PYTHON_Basico.txt",
+                    "type": "file",
+                    "id": "1_0uLIeVu1Fe540R3G6roIw8ljxRThQa5",
+                    "mimeType": "text/plain",
+                    "size": "769"
+                  },
+                  {
+                    "name": "Sesión_6",
+                    "type": "folder",
+                    "id": "1PAGD4C-q4ap5uts0YvlrOWBj7jjsFDGL",
+                    "children": [
+                      {
+                        "name": "Script01.ipynb",
+                        "type": "file",
+                        "id": "1NkpuY9FdqBDj_tniFV1NIVfBUEOCLcHc",
+                        "mimeType": "application/octet-stream",
+                        "size": "42298"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_5",
+                    "type": "folder",
+                    "id": "1ZEshwqtRXyP0BaveJSlMLdAc_iqX1PnS",
+                    "children": [
+                      {
+                        "name": "Script01.ipynb",
+                        "type": "file",
+                        "id": "1Wchvt3Xuk3WYkLgtDalYRQUatt8T-Zxt",
+                        "mimeType": "application/octet-stream",
+                        "size": "107634"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_4",
+                    "type": "folder",
+                    "id": "11orfasgpK_pHgTXQ180-S6YBKUUqaQ8a",
+                    "children": [
+                      {
+                        "name": "Script01.ipynb",
+                        "type": "file",
+                        "id": "1ELFccQQTQoW3VFZykliMVqTVAJ5XxE5r",
+                        "mimeType": "application/octet-stream",
+                        "size": "125787"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_3",
+                    "type": "folder",
+                    "id": "1x9LWgvjOeEz9opGLPEr0kzSiQKGOZY5T",
+                    "children": [
+                      {
+                        "name": "Script01.ipynb",
+                        "type": "file",
+                        "id": "1RX6Alz5cFnI5pPdUaSBK3MWt0LVAK56I",
+                        "mimeType": "application/octet-stream",
+                        "size": "43343"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_2",
+                    "type": "folder",
+                    "id": "1OtbrqPrS3QwmPSzb_Uv0JeOwyNReYoDc",
+                    "children": [
+                      {
+                        "name": "Sesión_2-Lectura.pdf",
+                        "type": "file",
+                        "id": "1_ZFwxKUKVfYegVn1NF92S0W9zUI20dxK",
+                        "mimeType": "application/pdf",
+                        "size": "616247"
+                      },
+                      {
+                        "name": "Script01.ipynb",
+                        "type": "file",
+                        "id": "1Px-cULzdxfUk7jDfTZWcBXBGXiPrm3xZ",
+                        "mimeType": "application/octet-stream",
+                        "size": "100289"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_1",
+                    "type": "folder",
+                    "id": "1IevNPpjN0WSYDf6hB--UUWW1oOwYXq7B",
+                    "children": [
+                      {
+                        "name": "Sesion_1-Lectura.pdf",
+                        "type": "file",
+                        "id": "1VdaeZf53LTj4etVYUGRaAuyRYDxeI2uo",
+                        "mimeType": "application/pdf",
+                        "size": "637322"
+                      },
+                      {
+                        "name": "Script02_sesion1.ipynb",
+                        "type": "file",
+                        "id": "1OCl_jy21sCkiFvlnGEDi49D6DccevLh7",
+                        "mimeType": "application/octet-stream",
+                        "size": "10504"
+                      },
+                      {
+                        "name": "Script01_sesion1.ipynb",
+                        "type": "file",
+                        "id": "1QC24JlHbjtXuCUGU-JHUZlD3bruFPoZv",
+                        "mimeType": "application/octet-stream",
+                        "size": "5858"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "PIT569_Fundamentos_de_C++",
+                "type": "folder",
+                "id": "1XRMeUD9T3l7wnLBkGJ4Yyszr0OkicyzC",
+                "children": [
+                  {
+                    "name": "Sesión_6",
+                    "type": "folder",
+                    "id": "1zFXsob0DEMxhUkGaD2iFunoNTo1_Umdt",
+                    "children": [
+                      {
+                        "name": "Sesion_6-Presentacion.pdf",
+                        "type": "file",
+                        "id": "1RVMFi9t7aLF-WK-N904KDR7nocS7Tt9Z",
+                        "mimeType": "application/pdf",
+                        "size": "680489"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_5",
+                    "type": "folder",
+                    "id": "110IJm5QxnmXv2_enZ0RbmzwNm64qHyyi",
+                    "children": [
+                      {
+                        "name": "Sesion_5-Presentacion.pdf",
+                        "type": "file",
+                        "id": "1IzYzKxyUTJ4RGN_bVf66idr9hs3e6vYs",
+                        "mimeType": "application/pdf",
+                        "size": "549554"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_4",
+                    "type": "folder",
+                    "id": "1FXDvicec8hzzVFi6WFH5JR5CWxb1Hh4d",
+                    "children": [
+                      {
+                        "name": "Sesion_4-Presentacion.pdf",
+                        "type": "file",
+                        "id": "1q8aOw8RJds2LdawEP7yCdRmWsXAwdl1D",
+                        "mimeType": "application/pdf",
+                        "size": "915567"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_3",
+                    "type": "folder",
+                    "id": "19IqDl72ak8GZ6pAaXkMR1d4b7d30t_Nx",
+                    "children": [
+                      {
+                        "name": "Sesion_3-Presentacion.pdf",
+                        "type": "file",
+                        "id": "1NuNQD0wgEVWCy99Y5QjlQx957eELRquF",
+                        "mimeType": "application/pdf",
+                        "size": "705864"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_2",
+                    "type": "folder",
+                    "id": "1IKn_AFjYMhni8CAIzzBzgUS119rcnfku",
+                    "children": [
+                      {
+                        "name": "Sesion_2-Presentacion.pdf",
+                        "type": "file",
+                        "id": "18sE_VP6feG_egkt9tGchhisZ5rz545ab",
+                        "mimeType": "application/pdf",
+                        "size": "818029"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_1",
+                    "type": "folder",
+                    "id": "1yk6t9wFibNi6czs_FgGJ1PfcgiaKwtQE",
+                    "children": [
+                      {
+                        "name": "Sesion_1-Presentacion.pdf",
+                        "type": "file",
+                        "id": "1lDDIxoM2JEjDvU4m4g_9NnUaX4loTpfO",
+                        "mimeType": "application/pdf",
+                        "size": "2609085"
+                      },
+                      {
+                        "name": "Sesion_1-Guia_de_Laboratorio_1.pdf",
+                        "type": "file",
+                        "id": "1TxA-hF2zWZYpmKmO2WdsA4jWczynY9aw",
+                        "mimeType": "application/pdf",
+                        "size": "100241"
+                      },
+                      {
+                        "name": "VS_Code_Guía_de_Instalación_y_Configuración_OTI.pdf",
+                        "type": "file",
+                        "id": "12NPKvUGoQkGTpHCWE6S_LiqGJJtQestx",
+                        "mimeType": "application/pdf",
+                        "size": "260998"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Links_del_taller_de_Fundamentos_de_C++.txt",
+                    "type": "file",
+                    "id": "1Qf-IpgjWI9QsVrIRY1eoVko4oLb3liZD",
+                    "mimeType": "text/plain",
+                    "size": "528"
+                  }
+                ]
+              },
+              {
+                "name": "PIT563_Diseño_Gráfico_con_Inteligencia_Artificial",
+                "type": "folder",
+                "id": "1LroTDCNpDDZxdR6-6hhFKq1MFEBcVcf-",
+                "children": [
+                  {
+                    "name": "Sesión_4",
+                    "type": "folder",
+                    "id": "1xSK7ij2-uUSB4UBxXMymYtvYsLr3saoi",
+                    "children": [
+                      {
+                        "name": "Sesion_4-Presentacion.pdf",
+                        "type": "file",
+                        "id": "1Q2PZZnB4uxZpzJzWF_HIK5S5krG1nooE",
+                        "mimeType": "application/pdf",
+                        "size": "560752"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_2",
+                    "type": "folder",
+                    "id": "1QHp5kIdBm9k67irG4HehEyMxbPfGjlKA",
+                    "children": [
+                      {
+                        "name": "Sesion_2-Presentacion_2.pdf",
+                        "type": "file",
+                        "id": "1gj9w-bpbGBqpEYWWLAHqkPrqfvZjPT8H",
+                        "mimeType": "application/pdf",
+                        "size": "706697"
+                      },
+                      {
+                        "name": "Sesion_2-Presentacion_1.pdf",
+                        "type": "file",
+                        "id": "1r1kFB78WWrE-aItaRjAsqSZ7DBgMsAO-",
+                        "mimeType": "application/pdf",
+                        "size": "886577"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_1",
+                    "type": "folder",
+                    "id": "17PGh2QMzRBC3s0zefJmwlLsmNed_hi3g",
+                    "children": [
+                      {
+                        "name": "Sesion_1-Presentacion.pdf",
+                        "type": "file",
+                        "id": "1RChoTCwI0kFUYbaZUwAD4rksSpYVqrWS",
+                        "mimeType": "application/pdf",
+                        "size": "547369"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Links_del_taller_de_Diseño_Grafico_con_IA.txt",
+                    "type": "file",
+                    "id": "1KI8XWi-4z5ezEbmoTky77UnsovTsdrQy",
+                    "mimeType": "text/plain",
+                    "size": "810"
+                  }
+                ]
+              },
+              {
+                "name": "PIT548_CANVA:Diseño_Visual_Creativo",
+                "type": "folder",
+                "id": "1u89qgLLWEaZN37FpxTH_lvX5_r3_JPN0",
+                "children": [
+                  {
+                    "name": "Sesión_5",
+                    "type": "folder",
+                    "id": "1Q5El8TIEy-GvlcEnob-eifdJ46yi_NMF",
+                    "children": [
+                      {
+                        "name": "Sesión_5.pdf",
+                        "type": "file",
+                        "id": "121UtNaLRBUkNQezWLsorY1Mm0oSTAE97",
+                        "mimeType": "application/pdf",
+                        "size": "274395"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_4",
+                    "type": "folder",
+                    "id": "1N0w4meFMC94Lm6e42x4U8J66MBUSisWJ",
+                    "children": [
+                      {
+                        "name": "Sesión_4.pdf",
+                        "type": "file",
+                        "id": "1DGUOx4prPcldTu90ziXxxtWmIyXR2aDq",
+                        "mimeType": "application/pdf",
+                        "size": "273525"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_3",
+                    "type": "folder",
+                    "id": "1HfeJSy7E-qwV93IsUHIzBIp7TwbuF6lK",
+                    "children": [
+                      {
+                        "name": "Sesión_3.pdf",
+                        "type": "file",
+                        "id": "1bINZOfHT489fqhMFBvgCjEz-tOL8jCo5",
+                        "mimeType": "application/pdf",
+                        "size": "260144"
+                      },
+                      {
+                        "name": "Canva_3.pdf",
+                        "type": "file",
+                        "id": "1mZI9z9AwKdxKBicVDVcN_0r4pRNeot0-",
+                        "mimeType": "application/pdf",
+                        "size": "107244"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_2",
+                    "type": "folder",
+                    "id": "14u9oqbIN5nAj0GGIoiQTr8pGnajjoS44",
+                    "children": [
+                      {
+                        "name": "Sesión_2.pdf",
+                        "type": "file",
+                        "id": "1vEkM98XB3eyFRGu8M_FJv6NQSrT-7Gok",
+                        "mimeType": "application/pdf",
+                        "size": "284017"
+                      },
+                      {
+                        "name": "Canva_2.pdf",
+                        "type": "file",
+                        "id": "1GjujAgSv-54ivwjCWpNFnXZU3M7PxbDP",
+                        "mimeType": "application/pdf",
+                        "size": "103043"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_1",
+                    "type": "folder",
+                    "id": "1NavkxczOGBbvlztUhlPSvTANW5wr0q3Z",
+                    "children": [
+                      {
+                        "name": "Sesión_1.pdf",
+                        "type": "file",
+                        "id": "1ZxMNrIijN6MaxvZOBGiYR1xi7EadhkRT",
+                        "mimeType": "application/pdf",
+                        "size": "322763"
+                      },
+                      {
+                        "name": "Canva_1.pdf",
+                        "type": "file",
+                        "id": "1k6ztUT_0O54GvMQ28gCYlbVmp6Smaki-",
+                        "mimeType": "application/pdf",
+                        "size": "100665"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Links_del_taller_de_CANVA.txt",
+                    "type": "file",
+                    "id": "1JdfNShGG5Bwf5pZpbPVo-e-1aKiFqFC2",
+                    "mimeType": "text/plain",
+                    "size": "797"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "OTI25_Office_e_Introducción_a_la_programación_para_Ingresantes",
+            "type": "folder",
+            "id": "1SnOo9h8TlGr10HzAhA_vAyX7xPSGL3Uw",
+            "children": [
+              {
+                "name": "Silabo_OTI25_Office_e_Introducción_a_la_programación_para_Ingresantes.pdf",
+                "type": "file",
+                "id": "1zj5_AM11yLnzfoqODUefl2MfI8UD1LRd",
+                "mimeType": "application/pdf",
+                "size": "7286635"
+              },
+              {
+                "name": "Links_del_taller_de_Office_e_Intro_a_la_programación.txt",
+                "type": "file",
+                "id": "1bqSRQE55axzrcKmAF_u7_ongD3aSjDDF",
+                "mimeType": "text/plain",
+                "size": "608"
+              },
+              {
+                "name": "Sesión_6",
+                "type": "folder",
+                "id": "1J7dOGsg-Dc1fKJCaLD-vfx6Jv6LPhMPm",
+                "children": [
+                  {
+                    "name": "Recursos_de_clase-Semana_6.txt",
+                    "type": "file",
+                    "id": "12rfUZLJ8VBbI0cvM-YGdEn0kH7sEjCp2",
+                    "mimeType": "text/plain",
+                    "size": "349"
+                  },
+                  {
+                    "name": "Introduction_to_Python_Programming.pdf",
+                    "type": "file",
+                    "id": "1tnZwG0z7KG5_X_GqV4R4wgLL-3rijI5g",
+                    "mimeType": "application/pdf",
+                    "size": "11572327"
+                  }
+                ]
+              },
+              {
+                "name": "Sesión_4",
+                "type": "folder",
+                "id": "167bH0tTzppTlO9xSaxKljsXBRTNQ0nUO",
+                "children": [
+                  {
+                    "name": "Presentación_Introducción_a_la_Programación.pdf",
+                    "type": "file",
+                    "id": "1G60SPNDkCGHnN0A7cyBQM4Yk_cVCIajH",
+                    "mimeType": "application/pdf",
+                    "size": "5195351"
+                  },
+                  {
+                    "name": "Lectura_2:_Lenguajes_de_Programacion.pdf",
+                    "type": "file",
+                    "id": "1fo0yJGXg-EL0O1ufVJuQfvlnvxxY8VvY",
+                    "mimeType": "application/pdf",
+                    "size": "784506"
+                  },
+                  {
+                    "name": "Lectura_1:_Modelamiento_Matematico.pdf",
+                    "type": "file",
+                    "id": "12pFWUpz5-rU8bFh0T0n7990NywV-Vgr8",
+                    "mimeType": "application/pdf",
+                    "size": "282164"
+                  },
+                  {
+                    "name": "Script01_OTI25.ipynb",
+                    "type": "file",
+                    "id": "12J_QT03ISryQhgANXups4yGWhFRvaCr0",
+                    "mimeType": "application/octet-stream",
+                    "size": "5399"
+                  }
+                ]
+              },
+              {
+                "name": "Sesión_3",
+                "type": "folder",
+                "id": "16e_0YBf6_6k1bxdBinabaCXP2CghZZD9",
+                "children": [
+                  {
+                    "name": "Archivo_de_clase.zip",
+                    "type": "file",
+                    "id": "1dJcFqQMiyjWqf67Q0wbBIXO8WaCqM0gn",
+                    "mimeType": "application/x-zip-compressed",
+                    "size": "1082980"
+                  }
+                ]
+              },
+              {
+                "name": "Sesión_2",
+                "type": "folder",
+                "id": "1z4PoEPk-b2JkPf0_lcNLi7f4i2XpZ71b",
+                "children": [
+                  {
+                    "name": "Archivo_resuelto_en_clase.zip",
+                    "type": "file",
+                    "id": "1QcyWYIrQR1vIu7Ix0gPeOS2fFK0xZ79p",
+                    "mimeType": "application/x-zip-compressed",
+                    "size": "399904"
+                  },
+                  {
+                    "name": "Archivo_de_clase.zip",
+                    "type": "file",
+                    "id": "1bVfUyUtlpIrMHUr3ZafKbW9jZBoAY4vf",
+                    "mimeType": "application/x-zip-compressed",
+                    "size": "366336"
+                  }
+                ]
+              },
+              {
+                "name": "Sesión_1",
+                "type": "folder",
+                "id": "1ayTenr330lM-UN2b7RsEW6xRPI4DPepV",
+                "children": [
+                  {
+                    "name": "Lectura:_Prompt_Engineering_Mastery.pdf",
+                    "type": "file",
+                    "id": "1W5EJxh3hU3dxEsz15h5IQNzMPBQo1mxI",
+                    "mimeType": "application/pdf",
+                    "size": "2117045"
+                  },
+                  {
+                    "name": "Archivo_resuelto_en_clase.zip",
+                    "type": "file",
+                    "id": "1G68KJvg6Ox05zUhm8y_t77vVasjih1o-",
+                    "mimeType": "application/x-zip-compressed",
+                    "size": "116252"
+                  },
+                  {
+                    "name": "Archivo_de_Clase.zip",
+                    "type": "file",
+                    "id": "1Q6z7tdi9hN47zWArBbdctuN-3iZ11s4c",
+                    "mimeType": "application/x-zip-compressed",
+                    "size": "103936"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MALLAS_CURRICULARES",
+        "type": "file",
+        "id": "120JiodMhdPCdstSKnhzDTaueWu5zXZhj",
+        "mimeType": "application/vnd.google-apps.shortcut",
+        "size": null
+      },
+      {
+        "name": "Exámenes_no_clasificados",
+        "type": "folder",
+        "id": "1IN0_sguAoCageK9OoQTAkq--hawR5bL5",
+        "children": [
+          {
+            "name": "Ingeniería_de_Procesos_PC4_26-1_W.pdf",
+            "type": "file",
+            "id": "1GuXLUT_hCJgz972BF3iLBGiSo07Fas-c",
+            "mimeType": "application/pdf",
+            "size": "364046"
+          },
+          {
+            "name": "HU111_EF_26-1_U.jpeg",
+            "type": "file",
+            "id": "1_NSKZ9TRmxBQwKKnRt56T4E4x7G_OMP_",
+            "mimeType": "image/jpeg",
+            "size": "130033"
+          }
+        ]
+      },
+      {
+        "name": "Cuadricula_de_examen.pdf",
+        "type": "file",
+        "id": "11f-XCYcTQCQ3wzpKN3z-5nw-rluxvStX",
+        "mimeType": "application/pdf",
+        "size": "3576657"
+      },
+      {
+        "name": "Idioma_extranjero_o_lengua_nativa_en_el_nivel_intermedio_-_BIE01",
+        "type": "folder",
+        "id": "132VpEu6q3rtyXhy5rSGxPLRRzQTxvvDc",
+        "children": [
+          {
+            "name": "BIE01_EXAMEN_DE_SUFICIENCIA_QUIZIZZ.pdf",
+            "type": "file",
+            "id": "1jhq2nlxKCcSGXuMILsRT4wRCRKYDCnsH",
+            "mimeType": "application/pdf",
+            "size": "12757800"
+          }
+        ]
+      },
+      {
+        "name": "MIT_Integration_Bee_-_Integrales_+_Respuestas",
+        "type": "folder",
+        "id": "1fIYDKh3zhbAhSWGG3iBT4pRTfqQgNY5e",
+        "children": [
+          {
+            "name": "Finales",
+            "type": "folder",
+            "id": "1VgM73BZx8hF0Q3qkhv_CvKgK1RWemw-v",
+            "children": [
+              {
+                "name": "MIT_Integration_Bee_-_Finales_(2026).pdf",
+                "type": "file",
+                "id": "1pA7Cnj9BwIynBIHu5Smo9zZMb8h8W5XT",
+                "mimeType": "application/pdf",
+                "size": "92255"
+              },
+              {
+                "name": "MIT_Integration_Bee_-_Finales_(2025).pdf",
+                "type": "file",
+                "id": "1-rFlxT4VkUbPedyE5W90srwBfT8nGf6d",
+                "mimeType": "application/pdf",
+                "size": "88877"
+              },
+              {
+                "name": "MIT_Integration_Bee_-_Finales_(2024).pdf",
+                "type": "file",
+                "id": "1RmGT3Iq_LbhwTWhgCTb3J57YlxoIWToD",
+                "mimeType": "application/pdf",
+                "size": "224354"
+              },
+              {
+                "name": "MIT_Integration_Bee_-_Finales_(2023).pdf",
+                "type": "file",
+                "id": "1JospUo7vWcl25z1L8Ug1CMcEhz4-GGBQ",
+                "mimeType": "application/pdf",
+                "size": "90306"
+              }
+            ]
+          },
+          {
+            "name": "Cuartos_de_Final",
+            "type": "folder",
+            "id": "1orFv9gqZTx6Q7cnq6yasgumeXwXTnVzw",
+            "children": [
+              {
+                "name": "MIT_Integration_Bee_-_Cuartos_de_Final_(2024).pdf",
+                "type": "file",
+                "id": "1tbntu4_V-q4tnDXpWk2FI8GW5zNXk3ez",
+                "mimeType": "application/pdf",
+                "size": "315325"
+              },
+              {
+                "name": "MIT_Integration_Bee_-_Cuartos_de_Final_(2026).pdf",
+                "type": "file",
+                "id": "1qLktgSUskN0ziGxaSORRfo44rZcEa54I",
+                "mimeType": "application/pdf",
+                "size": "155804"
+              },
+              {
+                "name": "MIT_Integration_Bee_-_Cuartos_de_Final_(2025).pdf",
+                "type": "file",
+                "id": "1hn_X-UVLf0n7Jdqf3RpQpLtlJvjA10zs",
+                "mimeType": "application/pdf",
+                "size": "231150"
+              },
+              {
+                "name": "MIT_Integration_Bee_-_Cuartos_de_Final_(2023).pdf",
+                "type": "file",
+                "id": "1yAqBw2dVXPz2CfIy-LRTLDCz-w7wK6yn",
+                "mimeType": "application/pdf",
+                "size": "244086"
+              }
+            ]
+          },
+          {
+            "name": "Clasificatorias",
+            "type": "folder",
+            "id": "14itbtwdStM5t8lAvqyt-aa6tilecPAqI",
+            "children": [
+              {
+                "name": "MIT_Integration_Bee_-_Clasificatorias_(2026).pdf",
+                "type": "file",
+                "id": "1y20xs4riQxF5zW7NS-Z7TEl00l0akrB_",
+                "mimeType": "application/pdf",
+                "size": "110585"
+              },
+              {
+                "name": "MIT_Integration_Bee_-_Clasificatorias_(2025).pdf",
+                "type": "file",
+                "id": "1p6RbipKH1EEeC-whuMuInWGfSiBwG53n",
+                "mimeType": "application/pdf",
+                "size": "112569"
+              },
+              {
+                "name": "MIT_Integration_Bee_-_Clasificatorias_(2024).pdf",
+                "type": "file",
+                "id": "13j4BO5m7ZkH3ZeqB9OPiWXlgI3mGzHxF",
+                "mimeType": "application/pdf",
+                "size": "105008"
+              },
+              {
+                "name": "MIT_Integration_Bee_-_Clasificatorias_(2023).pdf",
+                "type": "file",
+                "id": "1g_xiqg2d5JKfFz6_WxCkJ20fkQ1Bdloa",
+                "mimeType": "application/pdf",
+                "size": "120370"
+              }
+            ]
+          },
+          {
+            "name": "Semifinales",
+            "type": "folder",
+            "id": "1eHszjlVsFZIeowiDPEXhI0rnEh1yIaBj",
+            "children": [
+              {
+                "name": "MIT_Integration_Bee_-_Semifinales_(2026).pdf",
+                "type": "file",
+                "id": "1XitfoqzEiBGV0uzr0zdHETU9bYG9dkL9",
+                "mimeType": "application/pdf",
+                "size": "159420"
+              },
+              {
+                "name": "MIT_Integration_Bee_-_Semifinales_(2025).pdf",
+                "type": "file",
+                "id": "1cdpOvbcyEfFDh421LpGGNFC58Utd3riF",
+                "mimeType": "application/pdf",
+                "size": "155965"
+              },
+              {
+                "name": "MIT_Integration_Bee_-_Semifinales_(2024).pdf",
+                "type": "file",
+                "id": "1uYH5wXJrre8XTx7qNfdiAbz5BGqxTxss",
+                "mimeType": "application/pdf",
+                "size": "174115"
+              },
+              {
+                "name": "MIT_Integration_Bee_-_Semifinales_(2023).pdf",
+                "type": "file",
+                "id": "1UOiJ6IdN8Ejnja4cAJfFIpIYUgOzS3UO",
+                "mimeType": "application/pdf",
+                "size": "132312"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "134_LIBROS_-_MIR",
+        "type": "folder",
+        "id": "1m1alE0lC5HEG9ltSJXxbaz1DXipXyEsb",
+        "children": [
+          {
+            "name": "Problemas_y_Ejercicios_de_Análisis_Funcional_-_V._A._Trenoguin_-_MIR.pdf",
+            "type": "file",
+            "id": "1uVW5xz6GbdLOCIzzvY2_7dYcHo3p-mTZ",
+            "mimeType": "application/pdf",
+            "size": "48001461"
+          },
+          {
+            "name": "Problemas_y_Experimentos_Recreativos_-_Ya._I._Perelmán_-_MIR.pdf",
+            "type": "file",
+            "id": "1L5PGyDOzUdVxKnrhUjWyUYTQ5z5lJWsL",
+            "mimeType": "application/pdf",
+            "size": "75081053"
+          },
+          {
+            "name": "Problemas_de_Álgebra_Lineal_-_I._Proskuriakov_-_MIR.pdf",
+            "type": "file",
+            "id": "1QxyELzzA3LayPW0YbadjT4GtzR-3T94g",
+            "mimeType": "application/pdf",
+            "size": "52128167"
+          },
+          {
+            "name": "Matemática_de_Cálculo_-_N.I._Danílina_y_otros_-_MIR.pdf",
+            "type": "file",
+            "id": "1lDSL2Q-88xm22qS2cf8uPrwDJK4A3DAI",
+            "mimeType": "application/pdf",
+            "size": "79048363"
+          },
+          {
+            "name": "Geometría_Elemental_-_A._V._Pogorélov_-_MIR.pdf",
+            "type": "file",
+            "id": "1xr8zdLypS-WPo45gsEXWZ3-Or780S99M",
+            "mimeType": "application/pdf",
+            "size": "51662694"
+          },
+          {
+            "name": "Conceptos_Fundamentales_de_Álgebra_-_Bruce_E._Meserve.pdf",
+            "type": "file",
+            "id": "152JsV_aXosGAhaVHZhGLzn85YeGtwgX5",
+            "mimeType": "application/pdf",
+            "size": "73726907"
+          },
+          {
+            "name": "Fundamentos_de_la_Teoría_de_los_Números_-_I._Vinogradov_-_MIR.pdf",
+            "type": "file",
+            "id": "1noajriBcb4xtoG3P5XQoxSjs16uU4qcM",
+            "mimeType": "application/pdf",
+            "size": "18958191"
+          },
+          {
+            "name": "Fundamentos_de_las_Matemáticas_Superiores_-_V._S._Shipachev_-_MIR.pdf",
+            "type": "file",
+            "id": "17NXHsVgHWBGQ8FmKoIySND5k4vzIMN8f",
+            "mimeType": "application/pdf",
+            "size": "56412261"
+          },
+          {
+            "name": "Geometría_-_G._N._Yákovliev_-_MIR.pdf",
+            "type": "file",
+            "id": "1r9gRdki5HDJRll_3me3GlRJbGYoBTyDw",
+            "mimeType": "application/pdf",
+            "size": "42529251"
+          },
+          {
+            "name": "Estadística_Matemática_-_A._A._Borovkov_-_MIR.pdf",
+            "type": "file",
+            "id": "1b2e-ET9Bu1quY1bYumNSA8xbM50pDFDF",
+            "mimeType": "application/pdf",
+            "size": "89960832"
+          },
+          {
+            "name": "Fundamentos_de_Álgebra_Lineal_-_A._I._Máltsev_-_MIR.pdf",
+            "type": "file",
+            "id": "1VZHPWN9sAxDFsDVzpKFFUPOMc8Kei3H4",
+            "mimeType": "application/pdf",
+            "size": "79067689"
+          },
+          {
+            "name": "Cálculo_Diferencial_e_Integral_-_Tomo_II_-_N._Piskunov_-_MIR.pdf",
+            "type": "file",
+            "id": "1QnL4m5hmHFk3WHmrUkE1wcIFxn0ycJWC",
+            "mimeType": "application/pdf",
+            "size": "51497796"
+          },
+          {
+            "name": "Breve_Curso_de_la_Teoría_de_Problemas_Extremales_-_E._Galéev_-_V.Tijomírov_-_MIR.pdf",
+            "type": "file",
+            "id": "1GbARWlEC-hY8w7ZAblyCP_-NiJoIEMZ1",
+            "mimeType": "application/pdf",
+            "size": "29636505"
+          },
+          {
+            "name": "Análisis_Combinatorio._Problemas_y_Ejercicios_-_K._Ribnikov_-_MIR.pdf",
+            "type": "file",
+            "id": "1DFub0B5J0k-JYAHDrNQuK9CyBR60d59w",
+            "mimeType": "application/pdf",
+            "size": "65547094"
+          },
+          {
+            "name": "Análisis_Combinatorio_-_K._Ribnikov_-_MIR.pdf",
+            "type": "file",
+            "id": "1bZ07h7OJvDOmOojr_uAI3M1ypPkO5HAp",
+            "mimeType": "application/pdf",
+            "size": "34647938"
+          },
+          {
+            "name": "Álgebra_y_Funciones_Elementales_-_R._A._Kalnin_-_MIR.pdf",
+            "type": "file",
+            "id": "18PhU9bfu1hX5eBpPhpcui8k-DGcvUGq6",
+            "mimeType": "application/pdf",
+            "size": "52290629"
+          },
+          {
+            "name": "Álgebra_y_Análisis_de_Funciones_Elementales_-_M._Potápov_-_V._Alexándrov_-_P._Pasichenko_-_MIR.pdf",
+            "type": "file",
+            "id": "167UxRWHOPVtEu8OtkEexdxdB-C1fqhw0",
+            "mimeType": "application/pdf",
+            "size": "123285305"
+          },
+          {
+            "name": "Teoría_de_las_Funciones_Analíticas_-_Tomo_II_-_A._Markushevich_-_MIR.pdf",
+            "type": "file",
+            "id": "1MAAKdH334ATdfOclZcjgQF5SH766XqQ2",
+            "mimeType": "application/pdf",
+            "size": "102711517"
+          },
+          {
+            "name": "Teoría_de_las_Funciones_Analíticas_-_Tomo_I_-_A._Markushevich_-_MIR.pdf",
+            "type": "file",
+            "id": "1NB-YgzphnsdlkhUj2iFNRfdl8Hp1H8_Y",
+            "mimeType": "application/pdf",
+            "size": "72698984"
+          },
+          {
+            "name": "Temas_Selectos_de_Matemáticas_Elementales_-_G._Dorofeiev_y_Otros_-_MIR.pdf",
+            "type": "file",
+            "id": "1LXc2H47fw_qQiUgXxIqhidVJI45OVR_e",
+            "mimeType": "application/pdf",
+            "size": "103600928"
+          },
+          {
+            "name": "Rectas_y_Curvas_-_N._B._Vasiliev_-_V._L._Gutenmajer_-_MIR.pdf",
+            "type": "file",
+            "id": "1St0zwczoAfG42lItB09Ow8FP2f9L9eEw",
+            "mimeType": "application/pdf",
+            "size": "24658326"
+          },
+          {
+            "name": "Procesos_Aleatorios_-_Curso_Resumido_-_Y._Rozanov_-_MIR.pdf",
+            "type": "file",
+            "id": "1rF3_zOEpfV8dKPZ4QIgNoP1CyDXH5raN",
+            "mimeType": "application/pdf",
+            "size": "39322172"
+          },
+          {
+            "name": "Problemas_de_las_Matemáticas_Superiores_I_-_A._Efimov_y_Otros_-_MIR.pdf",
+            "type": "file",
+            "id": "1ijuR9XrV9lE4TY8XWOv-d3UNcEBhSQui",
+            "mimeType": "application/pdf",
+            "size": "84719710"
+          },
+          {
+            "name": "Problemas_de_Matemáticas_Elementales_-_V._B._Lidski_y_Otros_-_MIR.pdf",
+            "type": "file",
+            "id": "1NH50Fe0IUHUetZIQB-mfX0pvQzGP3R4Y",
+            "mimeType": "application/pdf",
+            "size": "55148493"
+          },
+          {
+            "name": "Problemas_de_Geometría_–_Planimetría_-_I._Shariguin_-_MIR.pdf",
+            "type": "file",
+            "id": "1ogplt9zNsAALMkvdF9xmYnPjDrxk-4Ix",
+            "mimeType": "application/pdf",
+            "size": "87793281"
+          },
+          {
+            "name": "Problemas_de_Matemática_Discreta_-_G._Gavrílov_-_A._Sapozhenko_-_MIR.pdf",
+            "type": "file",
+            "id": "1ULIII49YmuWNdu5_Bkxy05nmk0XhNdFY",
+            "mimeType": "application/pdf",
+            "size": "49723367"
+          },
+          {
+            "name": "Problemas_Sobre_la_Teoría_de_Funciones_de_Variable_Compleja_-_L._Volkovyski_y_Otros_-_MIR.pdf",
+            "type": "file",
+            "id": "19cr8neEPIKsqTJBSiWO1lZJNZi1AH0iE",
+            "mimeType": "application/pdf",
+            "size": "39335530"
+          },
+          {
+            "name": "Problemas_de_Geometría_Analítica_-_D._Kletenik_-_MIR.pdf",
+            "type": "file",
+            "id": "1xUuGUaqc20K8xr56__lQHhKLHwNJh2Vm",
+            "mimeType": "application/pdf",
+            "size": "35407595"
+          },
+          {
+            "name": "Problemas_de_Geometría_Diferencial_-_A._S._Fedenko_-_MIR.pdf",
+            "type": "file",
+            "id": "1kyuQV6yuuXRztp5vIqDD4OaxXuoQQAs0",
+            "mimeType": "application/pdf",
+            "size": "32332056"
+          },
+          {
+            "name": "Problemas_y_Ejercicios_de_Análisis_Matemático_-_G._N._Berman_-_MIR.pdf",
+            "type": "file",
+            "id": "1X2iurMoXxFrh_wH3xzbklXI8GxUeTKsS",
+            "mimeType": "application/pdf",
+            "size": "60827478"
+          },
+          {
+            "name": "Matemáticas_Superiores_-_I._Suvorov_-_MIR.pdf",
+            "type": "file",
+            "id": "1wCZ9QWlsmRoj0hPcyeag0oSSvGwc0sNo",
+            "mimeType": "application/pdf",
+            "size": "41074455"
+          },
+          {
+            "name": "Elementos_de_Matemáticas_Superiores_-_I._L._Záitsev_-_MIR.pdf",
+            "type": "file",
+            "id": "1-C7-eU90m_QGSGpTtiZqIfQlidT3im0X",
+            "mimeType": "application/pdf",
+            "size": "35811414"
+          },
+          {
+            "name": "Matemáticas_Superiores_en_Ejercicios_y_Problemas_2_-_P.E._Dankó_y_otros_-_MIR.pdf",
+            "type": "file",
+            "id": "1PnLlaeKNpmf6N2L9RwbJ-HoLxfMye28o",
+            "mimeType": "application/pdf",
+            "size": "48164618"
+          },
+          {
+            "name": "Matemáticas_Superiores_en_Ejercicios_y_Problemas_1_-_P.E._Dankó_y_otros_-_MIR.pdf",
+            "type": "file",
+            "id": "1UahJ53WQJ1aeve5_ElA0oErS3rq-CHKj",
+            "mimeType": "application/pdf",
+            "size": "43710598"
+          },
+          {
+            "name": "Manual_de_Matemáticas_para_la_Enseñanza_Media_-_V._Litvinenko_-_A._G._Tsipkin_-_MIR.pdf",
+            "type": "file",
+            "id": "1LmrmJbeKceOTgI4f_a0MgIpYRohgzJbv",
+            "mimeType": "application/pdf",
+            "size": "47582342"
+          },
+          {
+            "name": "Lo_Demostrable_e_Indemostrable_-_Yu._I._Manin_-_MIR.pdf",
+            "type": "file",
+            "id": "1kHXUEeF-OxmAosqgxKufUC9PMhQswSmW",
+            "mimeType": "application/pdf",
+            "size": "55897659"
+          },
+          {
+            "name": "Lecciones_sobre_Ecuaciones_en_Derivadas_Parciales_-_I._G._Petrovski_-_MIR.pdf",
+            "type": "file",
+            "id": "1AnFTl6M-taGoYJqfUKQL3HB_qaaA7njE",
+            "mimeType": "application/pdf",
+            "size": "62181111"
+          },
+          {
+            "name": "Introducción_a_la_Teoría_de_las_Probabilidades_-_V._S._Pugachev_-_MIR.pdf",
+            "type": "file",
+            "id": "1Y47Z5MUYHmf4QKcCl3Y5I1yXAlc2M2xr",
+            "mimeType": "application/pdf",
+            "size": "49555464"
+          },
+          {
+            "name": "Introducción_a_los_Métodos_Numéricos_-_A.A._Samarski_-_MIR.pdf",
+            "type": "file",
+            "id": "1n-l7isLEVgtQk_tMfb0zNmfT23mhVVXI",
+            "mimeType": "application/pdf",
+            "size": "28474508"
+          },
+          {
+            "name": "Geometría_Superior_-_N.V._Efímov_-_MIR.pdf",
+            "type": "file",
+            "id": "1wSN8RJvK_AkFdIGGc99iUSapNX01_M7O",
+            "mimeType": "application/pdf",
+            "size": "98816281"
+          },
+          {
+            "name": "Geometría_Moderna_-_Métodos_de_la_Teoría_de_Homologías_-_V._B._Dubrovin_-_Nóvikov_-_Fomenko_-_MIR.pdf",
+            "type": "file",
+            "id": "1LKxDIKb8wyglhYyVby2z67HSNhAQH8K3",
+            "mimeType": "application/pdf",
+            "size": "58501514"
+          },
+          {
+            "name": "Geometría_Diferencial_-_A.V._Pogorélov_-_MIR.pdf",
+            "type": "file",
+            "id": "1Q0Zk8C4VQcOaz3e74IDsqGPA7yN7_f4w",
+            "mimeType": "application/pdf",
+            "size": "22743660"
+          },
+          {
+            "name": "Fundamentos_Matemáticos_de_la_Cibernética_-_Yu._M._Korshunov_-_MIR.pdf",
+            "type": "file",
+            "id": "1OrglPDKwaOZaeUGHCl5QsufjPKFpojIT",
+            "mimeType": "application/pdf",
+            "size": "53322836"
+          },
+          {
+            "name": "Fundamentos_de_la_Matemática_Discreta_-_V._A._Gorbátov_-_MIR.pdf",
+            "type": "file",
+            "id": "1BWiZ4b4OJ_rG3fTdyj0GnWN3QO4eajNN",
+            "mimeType": "application/pdf",
+            "size": "51528412"
+          },
+          {
+            "name": "Fundamentos_del_Análisis_Matemático_Tomo_2_-_V._Ilín_-_E._Pozniak_-_MIR.pdf",
+            "type": "file",
+            "id": "1uVR8sJjLkmmdI7eENrlBOomvLpR7C2zc",
+            "mimeType": "application/pdf",
+            "size": "44939923"
+          },
+          {
+            "name": "Fundamentos_del_Análisis_Matemático_Tomo_1_-_V._Ilín_-_E._Pozniak_-_MIR.pdf",
+            "type": "file",
+            "id": "1P1rTRHP_XvVgkVBCyTJY5f6U3KYkBp4P",
+            "mimeType": "application/pdf",
+            "size": "50431038"
+          },
+          {
+            "name": "Fundamentos_del_Análisis_Matemático_Tomo_3_-_V._Ilín_-_E._Pozniak_-_MIR.pdf",
+            "type": "file",
+            "id": "14QRJCkyWJUhuJCkfOaBfvMPZZHqQNJFd",
+            "mimeType": "application/pdf",
+            "size": "68837935"
+          },
+          {
+            "name": "Elementos_de_la_Teória_de_Funciones_y_del_Análisis_Funcional_-_A._N._Kolmogorov_-_S._V._Fomin_-_MIR.pdf",
+            "type": "file",
+            "id": "1Cu-HAVdEIFokbaWX_gjXrClttyBZH-EX",
+            "mimeType": "application/pdf",
+            "size": "72195404"
+          },
+          {
+            "name": "El_Fracaso_de_las_Paradojas_-_I._Radunskaya_-_MIR.pdf",
+            "type": "file",
+            "id": "1dWkGFfiHoND9RF_e2B-mp5-j6VRAxIZe",
+            "mimeType": "application/pdf",
+            "size": "60676697"
+          },
+          {
+            "name": "Ecuaciones_Diferenciales_y_Cálculo_Variacional_-_L._Elsgoltz_-_MIR.pdf",
+            "type": "file",
+            "id": "10ORHaTcnO-vkEW2fbQ_ZS23c_uCc2Ix0",
+            "mimeType": "application/pdf",
+            "size": "53100404"
+          },
+          {
+            "name": "Ecuaciones_Diferenciales_en_Derivadas_Parciales_-_V.P._Mijáilov_-_MIR.pdf",
+            "type": "file",
+            "id": "1JDuaFK50gZYNYvsWwtGsAYDfHdZrP351",
+            "mimeType": "application/pdf",
+            "size": "37220079"
+          },
+          {
+            "name": "De_cuántas_formas_Combinatoria_-_N._Vilenkin_-_MIR.pdf",
+            "type": "file",
+            "id": "1FTnVWW9OT_69h9IWYZtohy_jmAdE7A1D",
+            "mimeType": "application/pdf",
+            "size": "42244130"
+          },
+          {
+            "name": "Curso_de_Análisis_Matemático_2_-_L.D._Kudriávtsev_-_MIR.pdf",
+            "type": "file",
+            "id": "1Ay1getKj7eIACgXvX6-wMfyqG7PQ0G-a",
+            "mimeType": "application/pdf",
+            "size": "68503888"
+          },
+          {
+            "name": "Curso_de_Análisis_Matemático_1_-_L.D._Kudriávtsev_-_MIR.pdf",
+            "type": "file",
+            "id": "1qwovs444T2hIXm-EOnM_K34EVKR_FGGd",
+            "mimeType": "application/pdf",
+            "size": "76305919"
+          },
+          {
+            "name": "Curso_de_Álgebra_Superior-_A._G._Kurosch_-_MIR.pdf",
+            "type": "file",
+            "id": "1k55czZQhkotogXrLix-3zMnbo8S9m-LQ",
+            "mimeType": "application/pdf",
+            "size": "65205253"
+          },
+          {
+            "name": "Cálculo_Infinitesimal_-_Rey_Pastor.pdf",
+            "type": "file",
+            "id": "1VaHQK8Pa8CSuzAbAnWzsyxOAFNF17pBi",
+            "mimeType": "application/pdf",
+            "size": "59431904"
+          },
+          {
+            "name": "Cálculo_Diferencial_e_Integral_-_Tomo_I_-_N._Piskunov_-_MIR.pdf",
+            "type": "file",
+            "id": "15ur3avfumuGs3NkRzQoyJTCLqtve1bRS",
+            "mimeType": "application/pdf",
+            "size": "58234498"
+          },
+          {
+            "name": "Análisis_Vectorial_-_M._L._Krasnov_-_Kiseliov_-_Makarenko_-_MIR.pdf",
+            "type": "file",
+            "id": "1fqy47Du2lHxWpfF-H0bpIUhHpLSqWLSo",
+            "mimeType": "application/pdf",
+            "size": "16452672"
+          },
+          {
+            "name": "Breve_Curso_de_Matemáticas_Superiores_-_V._A._Kudriávtsev_-_MIR.pdf",
+            "type": "file",
+            "id": "1e_XSjZIqGhZLm-FpJP6EcX7lAMI36Sq3",
+            "mimeType": "application/pdf",
+            "size": "76336718"
+          },
+          {
+            "name": "Algebra_Recretiva_-_Y._Perelman_-_MIR.pdf",
+            "type": "file",
+            "id": "1Wd7RafyaTwAoQ4-CSf64GFihyS2MQ9XN",
+            "mimeType": "application/pdf",
+            "size": "24036714"
+          },
+          {
+            "name": "Qué_es_la_Programación_Lineal_-_A._S._Bársov_-_MIR.pdf",
+            "type": "file",
+            "id": "19Ja40490eSNK7mxthd4HppMUR8Asbzhj",
+            "mimeType": "application/pdf",
+            "size": "15680038"
+          },
+          {
+            "name": "Ecuaciones_Diferenciales_y_sus_Aplicaciones_-_Martin_Braun.pdf",
+            "type": "file",
+            "id": "1_DzmgADGgqeJfyJxvsETRYRhhGftx_Ks",
+            "mimeType": "application/pdf",
+            "size": "26081139"
+          },
+          {
+            "name": "Lecciones_de_Teoría_de_las_Ecuaciones_Integrales_-_I._Petrovski_-_MIR.pdf",
+            "type": "file",
+            "id": "198F7Al_s3zblJzxaYD3_FBKxbdj9Wq2k",
+            "mimeType": "application/pdf",
+            "size": "20868804"
+          },
+          {
+            "name": "Álgebra_Lineal_-_V._V._Voevodin_-_MIR.pdf",
+            "type": "file",
+            "id": "1lD7dOaiiieMysqfgKvS61fTT6WoY_kTC",
+            "mimeType": "application/pdf",
+            "size": "41928690"
+          },
+          {
+            "name": "División_de_figuras_en_partes_menores_-_V._Boltianski_-_I._Gojberg_-_MIR.pdf",
+            "type": "file",
+            "id": "1e37CYnglJCLCz5JHu1FhlryGgLx4EI7H",
+            "mimeType": "application/pdf",
+            "size": "17940135"
+          },
+          {
+            "name": "Ecuaciones_Integrales_-_M._Krasnov_-_KIseliov_-_Makarenko_-_MIR.pdf",
+            "type": "file",
+            "id": "1NftG8h6nZMcYlILEB-ASlg5kdogYW3TI",
+            "mimeType": "application/pdf",
+            "size": "18248171"
+          },
+          {
+            "name": "Cálculo_Variacional_-_Ejemplos_y_Problemas_-_M.L._Krasnov_-_Makarenko_-_Kiseliov_-_MIR.pdf",
+            "type": "file",
+            "id": "1cUHAugBooYCzKcMtsT832_wJ-Tc16-d1",
+            "mimeType": "application/pdf",
+            "size": "28625811"
+          },
+          {
+            "name": "Problemas_de_Álgebra_Lineal_-_J._Ikrámov_-_MIR.pdf",
+            "type": "file",
+            "id": "18w1WiXR9pm6BQlgRLJzJg2PHSBX0IV-J",
+            "mimeType": "application/pdf",
+            "size": "41515262"
+          },
+          {
+            "name": "Problemas_de_Ecuaciones_Diferenciales_Ordinarias_-_Kiseliov_-_Krasnov_-_Makarenko_-_MIR.pdf",
+            "type": "file",
+            "id": "11I6wz2b3bsGNahhu1m3OX-cCDLfB2MsO",
+            "mimeType": "application/pdf",
+            "size": "20003588"
+          },
+          {
+            "name": "Matemáticas_Superiores_-_Elementos_de_Álgebra_Lineal_y_Geometría_Analítica_-_Ya._S._Bugrov_-_S._M._Nikolski_-_MIR.pdf",
+            "type": "file",
+            "id": "1xT0t-RC33M3EeAI517qDOTCOVNe90-Kv",
+            "mimeType": "application/pdf",
+            "size": "17750550"
+          },
+          {
+            "name": "Álgebra_Lineal_y_Algunas_de_sus_Aplicaciones_-_L._I._Goloviná_-_MIR.pdf",
+            "type": "file",
+            "id": "1EQgC6K_GV3qsaouCHGpOKzDPeQr1RDRu",
+            "mimeType": "application/pdf",
+            "size": "41397708"
+          },
+          {
+            "name": "Álgebra_Vectorial_en_ejemplos_y_problemas_-_P.B._Gusiátnikov_-_S.V._Reznichenko_-_MIR.pdf",
+            "type": "file",
+            "id": "1V2N2MvKjoqKTe9bNA7UYmpGUl28Lkc1F",
+            "mimeType": "application/pdf",
+            "size": "28396114"
+          },
+          {
+            "name": "Problemas_Matemáticos_-_Geometría_-_V._Gúsiev_y_otros_-_MIR.pdf",
+            "type": "file",
+            "id": "1EyVLjNm8ltAfW9yWQWrulhkLrJ7_qZbr",
+            "mimeType": "application/pdf",
+            "size": "40436152"
+          },
+          {
+            "name": "Curso_Breve_de_Geometría_Analítica_-_N._Efimov_-_MIR.pdf",
+            "type": "file",
+            "id": "1X-XqARLwCtDxfgSEi3HTx0QRcl7NLbVW",
+            "mimeType": "application/pdf",
+            "size": "34043915"
+          },
+          {
+            "name": "Teoría_de_Probabilidades_y_Estadística_Matemática_-_Gert_Maibaum.pdf",
+            "type": "file",
+            "id": "1gL-Af0OUdL6m3kCVEIbLFEpkQAOVnPo4",
+            "mimeType": "application/pdf",
+            "size": "36848430"
+          },
+          {
+            "name": "Teoria_De_Ecuaciones_-_J.V._Uspensky.pdf",
+            "type": "file",
+            "id": "1926tWREUcCaMPr9_D7ZGSABsjedmrmJh",
+            "mimeType": "application/pdf",
+            "size": "13122157"
+          },
+          {
+            "name": "Problemas_y_Ejercicios_de_Análisis_Matemático_-_B._Demidovich_-_Baranenkov_y_Otros_-_MIR.pdf",
+            "type": "file",
+            "id": "1Z0bjAMZ4T6ZQJvMOmvxb0XMSASa1F0WJ",
+            "mimeType": "application/pdf",
+            "size": "96204978"
+          },
+          {
+            "name": "Problemas_Matemáticos_–_Álgebra_y_Trigonometría_-_V._Litvinenko_-_A._Mordkóvich_-_MIR.pdf",
+            "type": "file",
+            "id": "1xq9Ye6eSpW6mgeJ8DYgCSfkAhfcO3kJb",
+            "mimeType": "application/pdf",
+            "size": "63538309"
+          },
+          {
+            "name": "Matemáticas_Superiores_-_Cálculo_Diferencial_e_Integral_-_Ya._S._Bugrov_-_S._M._Nikolski_-_MIR.pdf",
+            "type": "file",
+            "id": "1HtBcTUiQrIeltVhsFhSszS3Kwvuba7Gm",
+            "mimeType": "application/pdf",
+            "size": "43517766"
+          },
+          {
+            "name": "Áreas_y_Logaritmos_-_A._I._Markushevich_-_MIR.pdf",
+            "type": "file",
+            "id": "10PoA2BdZJY-iVjbfGSzQDKmnxkXPfhe9",
+            "mimeType": "application/pdf",
+            "size": "11636582"
+          },
+          {
+            "name": "Problemas_de_Álgebra_Superior_-_D._Faddieev_-_I._Sominski_-_MIR.pdf",
+            "type": "file",
+            "id": "1LXqkqic78CgZe94WsRVCUG2SKC4ZUpDD",
+            "mimeType": "application/pdf",
+            "size": "27629082"
+          },
+          {
+            "name": "Análisis_Matemático_en_preguntas_y_problemas_-_V._F._Butúzov_-_MIR.pdf",
+            "type": "file",
+            "id": "14N6qURNhOGYpy0L0xzqUI2BCVirrzSSO",
+            "mimeType": "application/pdf",
+            "size": "32034777"
+          },
+          {
+            "name": "Introducción_al_Álgebra_-_A._I._Kostrikin_-_MIR.pdf",
+            "type": "file",
+            "id": "14PIZ5Mou8zQ8jgWGE9cifC0yC-fB4-Ak",
+            "mimeType": "application/pdf",
+            "size": "82239985"
+          },
+          {
+            "name": "Probabilidad_-_Mario_Azócar.pdf",
+            "type": "file",
+            "id": "1MH8dqZq9Om5cI0Jq86Xns53A6130zPo-",
+            "mimeType": "application/pdf",
+            "size": "674831"
+          },
+          {
+            "name": "Característica_Euleriana_-_Yu._Shashkin_-_MIR.pdf",
+            "type": "file",
+            "id": "1nyISbIQCQdIImiLt1I1TLXaXQmIFcS2T",
+            "mimeType": "application/pdf",
+            "size": "20365531"
+          },
+          {
+            "name": "Puntos_Fijos_-_Yu._Shashkin_-_MIR.pdf",
+            "type": "file",
+            "id": "13QqITQDRrmGGmAqTtKhbpASZfmej14ar",
+            "mimeType": "application/pdf",
+            "size": "16127469"
+          },
+          {
+            "name": "Álgebra_Recreativa_-_Y._Perelman_-_MIR_(Ciencia_Popular).pdf",
+            "type": "file",
+            "id": "1mSWCBtjFrx8PrLs25wODdcfavZB9OKa9",
+            "mimeType": "application/pdf",
+            "size": "44208068"
+          },
+          {
+            "name": "Líneas_Más_Cortas_Problemas_de_Variaciones_-_L._A._Liustérnik_-_MIR.pdf",
+            "type": "file",
+            "id": "1zMWsth12n1XGeFBa7uHykq4vtVYAGFs_",
+            "mimeType": "application/pdf",
+            "size": "21292322"
+          },
+          {
+            "name": "Acerca_de_la_Geometría_de_Lobachevski_-_A._S._Smogorzhevski_-_MIR.pdf",
+            "type": "file",
+            "id": "1T5aNfbfe4nZY4PSRad3asmTS3IXwYFup",
+            "mimeType": "application/pdf",
+            "size": "13610668"
+          },
+          {
+            "name": "Proyección_Estereográfica_-_B._A._Rosenfeld_-_N._D._Sergeeva_-_MIR.pdf",
+            "type": "file",
+            "id": "1ptHRO0Blc24ap6wo-afk5b89d55jZJ-s",
+            "mimeType": "application/pdf",
+            "size": "8733699"
+          },
+          {
+            "name": "Sistema_de_Numeración_-_S._V._Fomín_-_MIR.pdf",
+            "type": "file",
+            "id": "1C8LCQwgA7eIOQJY6f0UJyIwYmso6Y4_F",
+            "mimeType": "application/pdf",
+            "size": "9304603"
+          },
+          {
+            "name": "Números_de_Fibonacci_-_N._N._Vorobiov_-_MIR.pdf",
+            "type": "file",
+            "id": "1K92vQ2-pHsFMAhemVGhTYRGJlJo0dc9S",
+            "mimeType": "application/pdf",
+            "size": "18884771"
+          },
+          {
+            "name": "Análisis_Matemático_en_el_Campo_de_Funciones_Racionales_-_G._E._Shílov_-_MIR.pdf",
+            "type": "file",
+            "id": "1-y95Fz76j_cs56koxplOVDeUzEK0-6Wh",
+            "mimeType": "application/pdf",
+            "size": "8034427"
+          },
+          {
+            "name": "Desigualdades_-_P._P._Korovkin_-_MIR.pdf",
+            "type": "file",
+            "id": "1PunqaiwgzW8kARgX4W9JDM_pKB0PDpm8",
+            "mimeType": "application/pdf",
+            "size": "9122738"
+          },
+          {
+            "name": "Teoría_de_Conjuntos_y_temas_afines_-_Seymour_Lipschutz.pdf",
+            "type": "file",
+            "id": "19FzAXl0C457WXHkO95AgWa744Z9_-qPq",
+            "mimeType": "application/pdf",
+            "size": "48268051"
+          },
+          {
+            "name": "La_Envolvente_-_V._G._Boltianski.pdf",
+            "type": "file",
+            "id": "1kfWYW5fRsd8kPO1zVpUPB8e1wWw1YIO4",
+            "mimeType": "application/pdf",
+            "size": "14639669"
+          },
+          {
+            "name": "Método_Cinemático_en_Problemas_Geométricos_-_Yu._I._Lyúbich_-_L._A._Shor_-_MIR.pdf",
+            "type": "file",
+            "id": "1nFxeGvv-l6F94QY1ABQkxjfMNHS019ST",
+            "mimeType": "application/pdf",
+            "size": "8414237"
+          },
+          {
+            "name": "Construcciones_Geométricas_Mediante_un_Compás_-_A._N._Kostovski_-_MIR.pdf",
+            "type": "file",
+            "id": "19AVlu5eCt2ZGDKQDvvyAj8JGmIMeY5Ef",
+            "mimeType": "application/pdf",
+            "size": "12503685"
+          },
+          {
+            "name": "La_Regla_en_Construcciones_Geométricas_-_A._S._Smogorzhevski_-_MIR.pdf",
+            "type": "file",
+            "id": "1hyRmgsyZVeRsrESGWlwJT1B-6ECw4s72",
+            "mimeType": "application/pdf",
+            "size": "13332379"
+          },
+          {
+            "name": "Representación_de_Figuras_Espaciales_-_N._M._Beskin_-_MIR.pdf",
+            "type": "file",
+            "id": "1TRKrcZKfUAPhs3M7aEDYRkIrUyZDStkn",
+            "mimeType": "application/pdf",
+            "size": "16078761"
+          }
+        ]
+      }
+    ]
+  }
+}

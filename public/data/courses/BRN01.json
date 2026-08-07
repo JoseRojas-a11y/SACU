@@ -1,0 +1,776 @@
+{
+  "course_id": "BRN01",
+  "course_name": "Realidad_Nacional",
+  "id": "1cSH-V8LGIB1dvYvqt_lG41VPUXHloPUU",
+  "scanned_at": "2026-08-07T00:10:49.226671+00:00",
+  "tree": {
+    "name": "Realidad_Nacional",
+    "type": "folder",
+    "id": "1cSH-V8LGIB1dvYvqt_lG41VPUXHloPUU",
+    "children": [
+      {
+        "name": "Ana_León",
+        "type": "folder",
+        "id": "1nQa_qybfygkNynaoifOJN3gsLY5KerTl",
+        "children": [
+          {
+            "name": "Semana_14_y_15",
+            "type": "folder",
+            "id": "1A3fRxAfGziAWPS95Br66gOF6nmM6a5kE",
+            "children": [
+              {
+                "name": "CLASE_SEMANA_14-15_RN-C-DDHH_30-6-2023.pptx",
+                "type": "file",
+                "id": "12XiFTQYIEA-bcqY42hm4uWo1CChS4vJW",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "506717"
+              }
+            ]
+          },
+          {
+            "name": "PC4",
+            "type": "folder",
+            "id": "1x7jrBYAxt15VnIsb7IVYbtF0BaRDvhAz",
+            "children": [
+              {
+                "name": "PC4_23-1",
+                "type": "file",
+                "id": "1I50JZxLqfaMnEmA-dsiuKIAzAGYp-o3e",
+                "mimeType": "image/jpeg",
+                "size": "200204"
+              }
+            ]
+          },
+          {
+            "name": "Semana_9",
+            "type": "folder",
+            "id": "1ggPp9nGdrsqe8NDQ6CFH1PVZlv6pK0aJ",
+            "children": [
+              {
+                "name": "1.-_MarcoConstitucional.pdf",
+                "type": "file",
+                "id": "1c8LFbo7w8HC--pWEhqjeik_E9QqrLGzL",
+                "mimeType": "application/pdf",
+                "size": "408397"
+              },
+              {
+                "name": "CLASE_SEMANA_9_RN-C-DDHH_25-05-2023.pptx",
+                "type": "file",
+                "id": "1cj3IXl6zzNRI0WEom5pHJeLzkAyrSsSY",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "539433"
+              },
+              {
+                "name": "3.-_Presupuesto_del_sector_Publico-1.PDF",
+                "type": "file",
+                "id": "1toCROKoJZ3NdchMQf8BCjPgztX4xNUP9",
+                "mimeType": "application/pdf",
+                "size": "451342"
+              }
+            ]
+          },
+          {
+            "name": "Semana_7",
+            "type": "folder",
+            "id": "1jwx-Xa7GYYTsuoykKMoaNvaI7dQ1nf82",
+            "children": [
+              {
+                "name": "Lectura_seman_7_Victor_Andres_Belaunde_la_metafisica.pdf",
+                "type": "file",
+                "id": "1c3jy6xDZdaeXv5BWOdxOo9Ymluvc-AjV",
+                "mimeType": "application/pdf",
+                "size": "448927"
+              }
+            ]
+          },
+          {
+            "name": "Semana_4",
+            "type": "folder",
+            "id": "1I-LaBccANaS9b18t--tF1XPORDXkTIlo",
+            "children": [
+              {
+                "name": "LECTURA_SEM6-_EL_GENERO_de_la_ciencias_sociales.PDF",
+                "type": "file",
+                "id": "1NdkbaPy5VlLiLWgR_pytQ0uj7Ftrtzbq",
+                "mimeType": "application/pdf",
+                "size": "49846"
+              },
+              {
+                "name": "CLASE_SEMANA_4-_RN-C-DDHH.pptx",
+                "type": "file",
+                "id": "1k6JE1xOQgTvbcPip-2nEPmfwvi2jvcWR",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "1651999"
+              },
+              {
+                "name": "Reporte-Mensual-de-Conflictos-Sociales-N-154-Diciembre-2016.pdf",
+                "type": "file",
+                "id": "1XDmeQz8uKnHVJkulAqXenK6Aot90SvPL",
+                "mimeType": "application/pdf",
+                "size": "2783145"
+              },
+              {
+                "name": "LOS_CRIMENES_DE_SENDERO_LUMINOSO.pdf",
+                "type": "file",
+                "id": "1M7a1yzLuBage2XsZ4rMs3s7fCEgo8y-Y",
+                "mimeType": "application/pdf",
+                "size": "16636386"
+              }
+            ]
+          },
+          {
+            "name": "Semana_5",
+            "type": "folder",
+            "id": "1IqmvL2rXaqQJalfz668Df_rV-cebCuxG",
+            "children": [
+              {
+                "name": "CLASE_SEMANA_5-_RN-C-DDHH.pptx",
+                "type": "file",
+                "id": "1kSwODy1jzVRtZckU2NmOxwRAsW_KscH8",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "475141"
+              }
+            ]
+          },
+          {
+            "name": "Semana_6",
+            "type": "folder",
+            "id": "194uJw5z8p80F106EWPoGzUO1dk_m-sxC",
+            "children": [
+              {
+                "name": "CLASE_SEMANA_6_y_7_-_RN-C-DDHH.pptx",
+                "type": "file",
+                "id": "1XFrAs9RC1OEtIDb-7TWSX81I_ZEa-dcu",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "481529"
+              }
+            ]
+          },
+          {
+            "name": "Semana_3",
+            "type": "folder",
+            "id": "14XPPO-cp0B5Xc4sd6zW9sjC16yADs8un",
+            "children": [
+              {
+                "name": "CLASE_semana_3-_2023-1_RN-C-DDHH.pptx",
+                "type": "file",
+                "id": "1XQq-5UlsDUMeo5vQlM0jBCBfz_221EuX",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "520998"
+              }
+            ]
+          },
+          {
+            "name": "Semana_2",
+            "type": "folder",
+            "id": "1Zsexh_KSM6WtByx916dzqIuDEZXKm9ZD",
+            "children": [
+              {
+                "name": "Reflexiones_sobre_el_concepto_Realidad_Nacional.pdf",
+                "type": "file",
+                "id": "1-rNwxuB6c4XLOFu3gm5K1J9ZO1lLsvYC",
+                "mimeType": "application/pdf",
+                "size": "2946938"
+              }
+            ]
+          },
+          {
+            "name": "Semana_11",
+            "type": "folder",
+            "id": "1vR2HcPGazvm0VXUMP8aSkCKB3nOmd5s2",
+            "children": [
+              {
+                "name": "CLASE_SEMANA_11_RN-C-DDHH_2-12-2022.pptx",
+                "type": "file",
+                "id": "1pmqSOYzPZlQfnU9Zdi4kqcc76Fr_Rx6g",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "503443"
+              }
+            ]
+          },
+          {
+            "name": "Semana_13",
+            "type": "folder",
+            "id": "1VZvnJrTnPE5AD2zB9sgRVjXspYqQB2d3",
+            "children": [
+              {
+                "name": "lectura_corrupcion_en_la_administracion_publica.pdf",
+                "type": "file",
+                "id": "1k0V6defun0nD0eWcEvD3L8GYt0x5X_dm",
+                "mimeType": "application/pdf",
+                "size": "494686"
+              },
+              {
+                "name": "5.-_DERECHOS_HUMANOS.pdf",
+                "type": "file",
+                "id": "1hgsgEbb9OWIzn9NJgF8RBtUzAmYg2O7B",
+                "mimeType": "application/pdf",
+                "size": "257617"
+              }
+            ]
+          },
+          {
+            "name": "Semana_12",
+            "type": "folder",
+            "id": "1lBsFQJbQ5ORWruh5jwnl93jQNfk_bVxJ",
+            "children": [
+              {
+                "name": "UNICEF_Y_LOS_OBJETIVOS_DE_DESARROLLO.docx",
+                "type": "file",
+                "id": "15FH5uUFXbMovE3bLtJzctX09TdfmmESD",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "394699"
+              },
+              {
+                "name": "CLASE_SEMANA_12-13_RN-C-DDHH_16-6-2023.pptx",
+                "type": "file",
+                "id": "1tiGCNbfcm7lMfMS9BqUhb7K1j1z0L9Yj",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "507409"
+              }
+            ]
+          },
+          {
+            "name": "Semana_10",
+            "type": "folder",
+            "id": "1ocJK4njIFkisNJcilhqeSnnXV7kEeXJc",
+            "children": [
+              {
+                "name": "2.-_Derecho_constitucional_ambiental_26.pdf",
+                "type": "file",
+                "id": "13jNTdrh-dEV5SjBot2fwtSWg7hZXwa4T",
+                "mimeType": "application/pdf",
+                "size": "244743"
+              },
+              {
+                "name": "CLASE_SEMANA_10_RN-C-DDHH_25-11-2022.pptx",
+                "type": "file",
+                "id": "1GAkND4o927s-IOFJKR0-MUSe0dP78lVW",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "532968"
+              }
+            ]
+          },
+          {
+            "name": "Semana_1",
+            "type": "folder",
+            "id": "1AhNrX2GpM-vkj0r8tfJoYu926JCfIejd",
+            "children": [
+              {
+                "name": "LECTURA_SEM_1_Victor_A_Belaunde_Realidad_Peruana.pdf",
+                "type": "file",
+                "id": "16jr-16jXob73aJkTV_tCNQ3lZVEkomdP",
+                "mimeType": "application/pdf",
+                "size": "455390"
+              },
+              {
+                "name": "CLASE_1_y_2_-2023-1_RN-C-DDHH.pptx",
+                "type": "file",
+                "id": "1tJU3wqz4oIMhafTTDwHbHCgdm2fjeaaC",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "710104"
+              }
+            ]
+          },
+          {
+            "name": "Introducción",
+            "type": "folder",
+            "id": "1CBZ4ttAqCEff_E33lJzI8mcRq3sg4LQY",
+            "children": [
+              {
+                "name": "Silabo_BRN01_UNI_FIIS_2022-2_Silabo_Unificado.pdf",
+                "type": "file",
+                "id": "19aqyycv-dX9Nr3TNGKu8pheIfy5EzYXb",
+                "mimeType": "application/pdf",
+                "size": "252665"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Huerta",
+        "type": "folder",
+        "id": "1ZMZdlC2SMvHufn7RxO_TgHE9wNDBjpdP",
+        "children": [
+          {
+            "name": "PC's",
+            "type": "folder",
+            "id": "1x1SerHuMbt4tQxd4FgGzPTWoDEz53Pka",
+            "children": [
+              {
+                "name": "PC4",
+                "type": "folder",
+                "id": "1yvaDE0AE7dIMmJbdHkRoH9PBQBIw0sDb",
+                "children": [
+                  {
+                    "name": "BRN01_PC4_25-II",
+                    "type": "folder",
+                    "id": "1mTsjcQG619pVdww95Y_t8sjN7eporKUp",
+                    "children": [
+                      {
+                        "name": "Partidos_Políticos_Peruanos_e_Ideologías.pdf",
+                        "type": "file",
+                        "id": "1-L-omooyHQ95zmO9USj0_FhCyoUDQfwG",
+                        "mimeType": "application/pdf",
+                        "size": "469387"
+                      },
+                      {
+                        "name": "Nota.txt",
+                        "type": "file",
+                        "id": "1VvNWmQjBBjWVrEFrqDtlVJIBEg6jDWOJ",
+                        "mimeType": "text/plain",
+                        "size": "116"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "PC3",
+                "type": "folder",
+                "id": "1YSEOd0Gp4q8xYXOPq2NunslECXwPFMBT",
+                "children": [
+                  {
+                    "name": "BRN01_PC3_25-II.pdf",
+                    "type": "file",
+                    "id": "18ukSTXiaD2PP-A9cFzCkGDh9E53Q8aBr",
+                    "mimeType": "application/pdf",
+                    "size": "310261"
+                  }
+                ]
+              },
+              {
+                "name": "PC2",
+                "type": "folder",
+                "id": "1QGIsVwwuM6YfRajbX1gLSkUTi4B48-o7",
+                "children": [
+                  {
+                    "name": "BRN01_PC2_25-II.pdf",
+                    "type": "file",
+                    "id": "1DgK5K81r7LYqYekQ9J65P97Y_ELs9lVq",
+                    "mimeType": "application/pdf",
+                    "size": "275274"
+                  }
+                ]
+              },
+              {
+                "name": "PC1",
+                "type": "folder",
+                "id": "1ZIth0SY9NfG-PvUCUvhlc6bR8QZZ3GxD",
+                "children": [
+                  {
+                    "name": "BRN01_PC1_25-II.pdf",
+                    "type": "file",
+                    "id": "1YUKzJCA-bQLOi4a56WiY42l34z32kzZl",
+                    "mimeType": "application/pdf",
+                    "size": "258094"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Diapositivas",
+            "type": "folder",
+            "id": "1pbBO_KRfRICLFUQ2Uqn-Ecs6UjfiRLN9",
+            "children": [
+              {
+                "name": "BRN01_-_2da_Semana.pdf",
+                "type": "file",
+                "id": "1xzN2PKwdlItkCkP7Tqg_rq_IVmibD88T",
+                "mimeType": "application/pdf",
+                "size": "1207307"
+              },
+              {
+                "name": "BRN01_-_4ta_Semana.pdf",
+                "type": "file",
+                "id": "1eiExZLqZbSoCqpiQYOk3lOuyu2JXfBH9",
+                "mimeType": "application/pdf",
+                "size": "926688"
+              },
+              {
+                "name": "BRN01_-_1ra_Semana.pdf",
+                "type": "file",
+                "id": "1a4mQVAeS1Ru34SxqfFn4QAqk7OyfXiX8",
+                "mimeType": "application/pdf",
+                "size": "499066"
+              },
+              {
+                "name": "BRN01_-_10ma_Semana.pdf",
+                "type": "file",
+                "id": "1Ymg72kqfZRQw0xHFblizVxwW7moB1708",
+                "mimeType": "application/pdf",
+                "size": "627399"
+              },
+              {
+                "name": "BRN01_-_9na_Semana.pdf",
+                "type": "file",
+                "id": "1_6v6IH1ljouJCgz-zULKEGW_BmRV-pDo",
+                "mimeType": "application/pdf",
+                "size": "708430"
+              },
+              {
+                "name": "BRN01_-_7ma_Semana.pdf",
+                "type": "file",
+                "id": "1NdwqnLH2gHQJcj7Wshfj_GtUNKMBsl-N",
+                "mimeType": "application/pdf",
+                "size": "397026"
+              },
+              {
+                "name": "BRN01_-_3ra_Semana.pdf",
+                "type": "file",
+                "id": "1JVJYgkRlnYgESHKe_x8AkP5ik1u2C29d",
+                "mimeType": "application/pdf",
+                "size": "2524955"
+              },
+              {
+                "name": "BRN01_-_8va_Semana.pdf",
+                "type": "file",
+                "id": "1nLzYoVrD1o-Nqk3HZOjppuBj4-uflAgy",
+                "mimeType": "application/pdf",
+                "size": "914869"
+              },
+              {
+                "name": "BRN01_-_5ta_Semana.pdf",
+                "type": "file",
+                "id": "1a2WWD-dEhJ3Wiopaojoh6pGdhml_h_0y",
+                "mimeType": "application/pdf",
+                "size": "1340202"
+              }
+            ]
+          },
+          {
+            "name": "Debates",
+            "type": "folder",
+            "id": "1L7fx1P6lusH2wGzPIDjCO6qBwtOdblm4",
+            "children": [
+              {
+                "name": "25-II",
+                "type": "folder",
+                "id": "1aHOjQ6-XYvUa__NDBmb1JEPoV3fpyasw",
+                "children": [
+                  {
+                    "name": "BRN01U_-_9no_Debate_-_2025-2_-_Partidos_Politicos_en_el_Peru.docx.pdf",
+                    "type": "file",
+                    "id": "1SMwLX7t7YTd_a2aQETEzQXvtgVm0_hab",
+                    "mimeType": "application/pdf",
+                    "size": "5858073"
+                  },
+                  {
+                    "name": "BRN01U_-_2do_Debate_-_2025-2_La_Legislación_Peruana.pdf",
+                    "type": "file",
+                    "id": "1zaXREne_f3soXK7K-lWnxNQvnZkfzhSu",
+                    "mimeType": "application/pdf",
+                    "size": "513482"
+                  },
+                  {
+                    "name": "BRN01U_-_1er_Debate_-_2025-2_La_Realidad_Nacional.pdf",
+                    "type": "file",
+                    "id": "1wjAk0x98XninoaJrdLQMID7TyX058qJB",
+                    "mimeType": "application/pdf",
+                    "size": "365523"
+                  },
+                  {
+                    "name": "BRN01U_-_5to_Debate_-_2025-2_-_Los_Derechos_Fundamentales_(1ra_Sesión).pdf",
+                    "type": "file",
+                    "id": "1kzpSjPnK2FYQNq66AyVzhE12qo12W4O7",
+                    "mimeType": "application/pdf",
+                    "size": "308539"
+                  },
+                  {
+                    "name": "BRN01U_-_4to_Debate_-_2025-2_-_El_Derecho_Fundamental_a_la_Vida.pdf",
+                    "type": "file",
+                    "id": "1JUi7kfRueKxRgA7TDbfulo4AEq1GVCKy",
+                    "mimeType": "application/pdf",
+                    "size": "313948"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Syllabus_rev_2025_I_BRN01_V_(1).doc",
+        "type": "file",
+        "id": "1aaragHc-AQuk5Oxbf6HTz3P7bn7wbtZc",
+        "mimeType": "application/msword",
+        "size": "242688"
+      },
+      {
+        "name": "Huaringa",
+        "type": "folder",
+        "id": "1ep8j9s3BiXWgB481qIPYc2g314r9zYHx",
+        "children": [
+          {
+            "name": "CSP_HUARINGA_.png",
+            "type": "file",
+            "id": "171RY8kXbeULUX2hSLX2CcJx2lIbMRVii",
+            "mimeType": "image/png",
+            "size": "62639"
+          },
+          {
+            "name": "TEORIA-PPT",
+            "type": "folder",
+            "id": "1PeQ_4pnO2yYlOmj3OOMsCwe5lM-vjJAs",
+            "children": [
+              {
+                "name": "HISTORIA_DEL_PERU_CONTEMPORANEO_Carlos_C.pdf",
+                "type": "file",
+                "id": "19B21q45yoeZjhDENRywqrzTk_-dReVfc",
+                "mimeType": "application/pdf",
+                "size": "9522711"
+              },
+              {
+                "name": "9)_LA_DEMOCRACIA.pptx",
+                "type": "file",
+                "id": "11h65XbZ1iPyQ0ERLWrrp4QYS-LsNTBHO",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "1230018"
+              },
+              {
+                "name": "10)_DISCRIMINACIÓN_Y_RACISMO.pptx",
+                "type": "file",
+                "id": "1tn9xvSHfD53y8q_I4ERTmviRIYEuCUeS",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "3077574"
+              },
+              {
+                "name": "8)_LOS_DERECHOS_HUMANOS,_LOS_GENOCIDIOS.pptx",
+                "type": "file",
+                "id": "1XVUED7hK44JU_uOB0owiX2ies0EgEeSa",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "1008498"
+              },
+              {
+                "name": "7)_HECHOS_MUNDIALES_DEL_SIGLO_XX.pptx",
+                "type": "file",
+                "id": "1xEIwZnmDlctZXW5a-PPQQD3RfBKzUNOI",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "871391"
+              },
+              {
+                "name": "6)_EL_POST_MARXISMO.pptx",
+                "type": "file",
+                "id": "1iKi_sKuu1I23AMgOyJu73pQe9toRbeZZ",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "4121792"
+              },
+              {
+                "name": "1._INTRODUCCIÓN_AL_CURSO_(3).pptx",
+                "type": "file",
+                "id": "1R9od0Hq5YfxXUgSxcA-re0lftToB9Lcr",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "9206585"
+              },
+              {
+                "name": "4._LA_REPÚBLICA_PERUANA_DEL_SIGLO_XX_(1).pptx",
+                "type": "file",
+                "id": "1ljtttEQzKsSdUsuPWYv0d9gZm0OwxZ7t",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "4637908"
+              },
+              {
+                "name": "5._IDEOLOGIAS_(1).pptx",
+                "type": "file",
+                "id": "1v9gNJphUsMlQzdkqF3fOq8hm-hmrSsM7",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "4085356"
+              },
+              {
+                "name": "2._DESARROLLO_DEL_PENSAMIENTO_EUROPEO_(1).pptx",
+                "type": "file",
+                "id": "1rBpGt56Hl6ifCSBhYk6R12FW5Ye8wbq_",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "1839455"
+              },
+              {
+                "name": "3._FORMACION_DE_LA_SOCIEDAD_PERUANA_(1).pptx",
+                "type": "file",
+                "id": "1v5z7ewKy82pRVWNncIIF6wBgIJ4Za0RW",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "1675748"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Mondragón",
+        "type": "folder",
+        "id": "1wDTEhiPl609o3a8wiBrr-kQDlLokx3Yb",
+        "children": [
+          {
+            "name": "Teoría",
+            "type": "folder",
+            "id": "1r44Zjeq-78XHf2HbGpZSf8YhPFQ0hDCg",
+            "children": [
+              {
+                "name": "Sem_3_Objetivos_del_desarrollo",
+                "type": "file",
+                "id": "1pgfhresCJPX0XtnNC8yowYS3cRyb45bP",
+                "mimeType": "application/pdf",
+                "size": "344744"
+              },
+              {
+                "name": "Clase_1.7_Clases_Estado_y_Nación_(Resumen)",
+                "type": "file",
+                "id": "1Kb_-3uwEuOzgI2Vv0PWWZrsniR2NBU8h",
+                "mimeType": "application/pdf",
+                "size": "238417"
+              },
+              {
+                "name": "Clase_1.5_Clases_de_Estado_y_Nación_en_Peru-Comentarios_M.Tanaka_a_JCotler",
+                "type": "file",
+                "id": "1hJTNb0b06c1-TDo56BaE9FnmCYqKFCHU",
+                "mimeType": "application/pdf",
+                "size": "42017"
+              },
+              {
+                "name": "Clase_1.4_Sociedad_5.0_Japón",
+                "type": "file",
+                "id": "1GVfi1Bdohjx_6ZM9Hl9d2PQdMzTeMlA2",
+                "mimeType": "application/pdf",
+                "size": "1167092"
+              },
+              {
+                "name": "Clase_1.3_Las_Ciencias_sociales_en_la_sociedad_del_conocimiento",
+                "type": "file",
+                "id": "1V2-C_XfqNK60bwjdJntq1b1JsPi5Ij7Y",
+                "mimeType": "application/pdf",
+                "size": "106481"
+              },
+              {
+                "name": "Clase_1._2_Las_ciencias_sociales_y_cuáles_son",
+                "type": "file",
+                "id": "1Og292V4Blc3m0kYj7K3WH5zyO4nl972P",
+                "mimeType": "application/pdf",
+                "size": "362019"
+              },
+              {
+                "name": "Clase_1.1_Def._de_Realidad_Nacional.docx.pdf",
+                "type": "file",
+                "id": "1BIdltXjOwKTXsW3pQu--bks2gk9LnCpx",
+                "mimeType": "application/pdf",
+                "size": "146938"
+              },
+              {
+                "name": "Syllabus_BRN01Y_2023_II_rev_rev_rev.doc.pdf",
+                "type": "file",
+                "id": "1JMmB4qJLzNx3Mc1yqkObEkmYq6RS5gSU",
+                "mimeType": "application/pdf",
+                "size": "603091"
+              },
+              {
+                "name": "SEM_3_-_Entendiendo_el_neoliberalismo.pptx",
+                "type": "file",
+                "id": "1yDELbmnTExux0Qw_MCIVl1NEayuK5XCW",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "238540"
+              },
+              {
+                "name": "Sem_3_POPULISMO_EN_PERÚ.pptx",
+                "type": "file",
+                "id": "1P3TzFgJNU1Ey0mhcmRJMizYlZ3iRhzvw",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "344867"
+              }
+            ]
+          },
+          {
+            "name": "Planchas",
+            "type": "folder",
+            "id": "1rEbCgiJcaH0QOPJCJxUFMIGb8yNHICP5",
+            "children": [
+              {
+                "name": "PC1",
+                "type": "folder",
+                "id": "1D5czvYqBB8XuHRXReHO2ToUhMt2ZYLgI",
+                "children": [
+                  {
+                    "name": "PC1_21-1_sec._W_solucionario",
+                    "type": "file",
+                    "id": "1AJbMfH5CKt1DsQJOzApG2gWJhUAohv9s",
+                    "mimeType": "application/pdf",
+                    "size": "361223"
+                  },
+                  {
+                    "name": "PC1_23-1_secc._Y",
+                    "type": "file",
+                    "id": "1uKmHicDtmrWU9-UP4tYEKZOJQqNJL_ee",
+                    "mimeType": "image/jpeg",
+                    "size": "418579"
+                  },
+                  {
+                    "name": "PC1_24-1_sec._X",
+                    "type": "file",
+                    "id": "1YmJl6HnxK_Znb4SelC9LfkOD6Ec-itLU",
+                    "mimeType": "application/pdf",
+                    "size": "374203"
+                  },
+                  {
+                    "name": "PC1_23-2_sec_X",
+                    "type": "file",
+                    "id": "1bACiSs5sP5TDFUz4-Y7ilC3_QhLxZQuX",
+                    "mimeType": "image/jpeg",
+                    "size": "91626"
+                  },
+                  {
+                    "name": "PC_1_21-1_sec._W",
+                    "type": "file",
+                    "id": "1lmJ2p9HZndHe0oXnSjrEDFH54gBg0_gb",
+                    "mimeType": "application/pdf",
+                    "size": "176881"
+                  },
+                  {
+                    "name": "PC1_21-2_sec._W",
+                    "type": "file",
+                    "id": "1rLJNYVX7g4gkwNgslkp6hFs12ZSqlyvp",
+                    "mimeType": "application/pdf",
+                    "size": "170458"
+                  },
+                  {
+                    "name": "PC1_20-2_sec._W",
+                    "type": "file",
+                    "id": "1ZbTMTDc0LJ4nuIjMEqBU1OY5hdladPCi",
+                    "mimeType": "application/pdf",
+                    "size": "161846"
+                  },
+                  {
+                    "name": "PC1_20-2_sec._X",
+                    "type": "file",
+                    "id": "1kxZTRkiIh3YzIOXjtfnczjMwCSamXFuZ",
+                    "mimeType": "application/pdf",
+                    "size": "173315"
+                  }
+                ]
+              },
+              {
+                "name": "PC3",
+                "type": "folder",
+                "id": "1K6Dnpazg2B_LYzuNLfxjZuHAmBcL2X6n",
+                "children": [
+                  {
+                    "name": "PC3_24-1_sec._x",
+                    "type": "file",
+                    "id": "1XfYWQnuyLV5HM0zftlt6Oz9cGIJwG8BQ",
+                    "mimeType": "application/pdf",
+                    "size": "159026"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Teoria_expo.docx",
+        "type": "file",
+        "id": "1Cvi4Ui48LnzqGNYQGLlCNv06rjHck43I",
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size": "457022"
+      }
+    ]
+  }
+}

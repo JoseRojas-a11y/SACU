@@ -1,0 +1,643 @@
+{
+  "course_id": "SW101",
+  "course_name": "Intr._a_la_ingeniería_de_software",
+  "id": "1aicpZFkeh4JPJY8N5ZOFBo4b91AN69HG",
+  "scanned_at": "2026-08-06T23:56:41.195319+00:00",
+  "tree": {
+    "name": "Intr._a_la_ingeniería_de_software",
+    "type": "folder",
+    "id": "1aicpZFkeh4JPJY8N5ZOFBo4b91AN69HG",
+    "children": [
+      {
+        "name": "Planchas_+_Expos",
+        "type": "folder",
+        "id": "1j4zeMxAparSUuNXsfVT7Uhn1CH5LBZ67",
+        "children": [
+          {
+            "name": "Antaurco",
+            "type": "folder",
+            "id": "1uP9TvXttEhOsBOu8zanZLcS8OvCPDpyu",
+            "children": [
+              {
+                "name": "PC3",
+                "type": "folder",
+                "id": "14ZkmDy9RABxg4Kp3nffhthW_T-Rpe3S6",
+                "children": [
+                  {
+                    "name": "SW101_PC3_25-2.docx",
+                    "type": "file",
+                    "id": "1kaqEn50QfoLnyz55-sWxvdf-gnQp7R2U",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "25432"
+                  },
+                  {
+                    "name": "SW101_PC3_24-2_Sol.pdf",
+                    "type": "file",
+                    "id": "11K78NuzWXsv_9eFnm4UjrGbHxgmfqtR0",
+                    "mimeType": "application/pdf",
+                    "size": "166478"
+                  }
+                ]
+              },
+              {
+                "name": "EP",
+                "type": "folder",
+                "id": "1nOrrlzcdAdm5tpXI5_FtpSZv1YDRZVtB",
+                "children": [
+                  {
+                    "name": "SW101_EP_24-2.pdf",
+                    "type": "file",
+                    "id": "15U1SaMyd-jEUEoKLnqZSM1in7ObUNLq6",
+                    "mimeType": "application/pdf",
+                    "size": "34226"
+                  }
+                ]
+              },
+              {
+                "name": "EF",
+                "type": "folder",
+                "id": "10mkR9u7Tcjk60RAjDGfCGDrHmQQBHPP2",
+                "children": [
+                  {
+                    "name": "SW101_EF_25-1.webp",
+                    "type": "file",
+                    "id": "15D51yHSSSFYObL51iXOY_F9htFWG_vON",
+                    "mimeType": "image/webp",
+                    "size": "56146"
+                  },
+                  {
+                    "name": "SW101_EF_25-1_SOL.pdf",
+                    "type": "file",
+                    "id": "1gYBVIcMYXADcashHceR5YzFicNtr8jXY",
+                    "mimeType": "application/pdf",
+                    "size": "4782168"
+                  },
+                  {
+                    "name": "SW101_EF_23-2.webp",
+                    "type": "file",
+                    "id": "1KwH9oTr_om-4fB-6hb1YuK3Rds2-M-xO",
+                    "mimeType": "image/webp",
+                    "size": "49168"
+                  },
+                  {
+                    "name": "SW101_EF_24-2.pdf",
+                    "type": "file",
+                    "id": "1nImsHue_n7wy3KWpnEBWu-R-YTCM5ivk",
+                    "mimeType": "application/pdf",
+                    "size": "134972"
+                  },
+                  {
+                    "name": "SW101_EF_25-2.jpg",
+                    "type": "file",
+                    "id": "1fKS3ND1FIfbSF8J9MOXJS6RS8v35Ci1M",
+                    "mimeType": "image/jpeg",
+                    "size": "5105199"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Sanchez",
+            "type": "folder",
+            "id": "1ak1PMygQTUO64q9Kkc3NxwhOElYcuRwh",
+            "children": [
+              {
+                "name": "PC4",
+                "type": "folder",
+                "id": "1qghurT_x_vjKaai4rHLvNYQcQIROfn7a",
+                "children": [
+                  {
+                    "name": "Nota_PC4.txt",
+                    "type": "file",
+                    "id": "1DcpvflZonPX9jnMehGPShGV9d9TFAJIm",
+                    "mimeType": "text/plain",
+                    "size": "162"
+                  },
+                  {
+                    "name": "Formato_de_Informe.pdf",
+                    "type": "file",
+                    "id": "13-bHh-mGOIb9MBXvjZYovbQ5dlAwGLQZ",
+                    "mimeType": "application/pdf",
+                    "size": "52159"
+                  }
+                ]
+              },
+              {
+                "name": "PE",
+                "type": "folder",
+                "id": "1xw2aLW-fXf-HcJWiNg78OIvFZN5kxVSh",
+                "children": [
+                  {
+                    "name": "SW101_PE_26-I.pdf",
+                    "type": "file",
+                    "id": "1J8V3Lo5EdsOeoIzasKYfGBLLOMmh-1Di",
+                    "mimeType": "application/pdf",
+                    "size": "175505"
+                  }
+                ]
+              },
+              {
+                "name": "ES",
+                "type": "folder",
+                "id": "1OPdabbcFcaZWWz68ZHCy9D4KqOMSAwmb",
+                "children": [
+                  {
+                    "name": "SW101_ES_26-1",
+                    "type": "file",
+                    "id": "1WLruhcj8Ruw99Bp6hrbUcF_6S8LEE-PI",
+                    "mimeType": "image/jpeg",
+                    "size": "151533"
+                  }
+                ]
+              },
+              {
+                "name": "PC3",
+                "type": "folder",
+                "id": "1pCkSk6LWrMWR00DM5IeiCWH-Rl28fl3w",
+                "children": [
+                  {
+                    "name": "SW101_PC3_26-1.jpeg",
+                    "type": "file",
+                    "id": "1ysIOUwJ-wYe-fR_tn8iEV55VgcxTS_jN",
+                    "mimeType": "image/jpeg",
+                    "size": "130117"
+                  }
+                ]
+              },
+              {
+                "name": "PC2",
+                "type": "folder",
+                "id": "1Adl0HCR2Y9L6n9eT-b8XDVFUzF0erRJV",
+                "children": [
+                  {
+                    "name": "SW101_PC2_26-1.pdf",
+                    "type": "file",
+                    "id": "1ug0OU34WS9CWEyBJsAouEe1P_2Ilq0cR",
+                    "mimeType": "application/pdf",
+                    "size": "156472"
+                  }
+                ]
+              },
+              {
+                "name": "PC1",
+                "type": "folder",
+                "id": "1ZvY-y6zewcMGPcAv1Jhohgp91VNbLYTv",
+                "children": [
+                  {
+                    "name": "SW101_PC1_26-1.pdf",
+                    "type": "file",
+                    "id": "11DHdC4MOMia3_LNA2bt3eOMHHXIOENw1",
+                    "mimeType": "application/pdf",
+                    "size": "138855"
+                  }
+                ]
+              },
+              {
+                "name": "EF",
+                "type": "folder",
+                "id": "1Ex5vnnm_EVddt5-7utRl9wZo1Bx7Jfx6",
+                "children": [
+                  {
+                    "name": "SW101_EF_26-1",
+                    "type": "file",
+                    "id": "1apN8ej1jk-7aINgtu3ySmw4WNci2r6pC",
+                    "mimeType": "image/jpeg",
+                    "size": "173025"
+                  }
+                ]
+              },
+              {
+                "name": "EP",
+                "type": "folder",
+                "id": "16yDIcnVQsovgLAc8x3mKrMQiXpnaW2IK",
+                "children": [
+                  {
+                    "name": "SW101_EP_26-1_SOL",
+                    "type": "file",
+                    "id": "1T3-JvgK0Q_KNUnPtLXsMbIgu6vCsQrdq",
+                    "mimeType": "application/pdf",
+                    "size": "201520"
+                  },
+                  {
+                    "name": "SW101_EP_26-1.pdf",
+                    "type": "file",
+                    "id": "1K95ePYqn5Yr14JlyjDv61x1XWqktrA97",
+                    "mimeType": "application/pdf",
+                    "size": "183245"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Expos",
+            "type": "folder",
+            "id": "1voBRFSEw-uNMZIuJ6j2_2b6RC6LhfvIq",
+            "children": [
+              {
+                "name": "PC1_-_PROYECTO_AZURE.pptx",
+                "type": "file",
+                "id": "1v611CZKlC90z9MusmHGIXSD-WSSA9Ya0",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "5061772"
+              },
+              {
+                "name": "PC2_-_TestLink_-_Introd._a_SW_24-II.pptx",
+                "type": "file",
+                "id": "1pUh_458G68zI8Fkly5erbkFzMIBJwrwl",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "1969977"
+              },
+              {
+                "name": "PC4_-_LENGUAJE_DE_PROGRAMACIÓN_R.pdf",
+                "type": "file",
+                "id": "1hzgck0jgniqQ7yR-SQQbTyBd_rXta_H9",
+                "mimeType": "application/pdf",
+                "size": "1168096"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Observaciones",
+        "type": "file",
+        "id": "1JG9rqSDeUEzZNDdGOIAFbENgRnRQJV3mp0V0oroqnJ8",
+        "mimeType": "application/vnd.google-apps.document",
+        "size": "1024"
+      },
+      {
+        "name": "Libros",
+        "type": "folder",
+        "id": "1eEoAtsu0xgwgt2XBVAmaA2z1HymYexcd",
+        "children": [
+          {
+            "name": "Software-Engineering-9th-Edition-by-Ian-Sommerville.pdf",
+            "type": "file",
+            "id": "1NyiHutmuQKS0NjampY7KEN4QknsMEatH",
+            "mimeType": "application/pdf",
+            "size": "5397464"
+          },
+          {
+            "name": "INGENIERÍA_DE_SOFTWARE_-_Ian_Somm..pdf",
+            "type": "file",
+            "id": "1WA6IhkCFXYaL1t_MTlge4RpE0pHMmNrf",
+            "mimeType": "application/pdf",
+            "size": "11739376"
+          },
+          {
+            "name": "Ingenieria_de_Software_Pressman.PDF",
+            "type": "file",
+            "id": "1-l7arkOl5FZAih_CbDLkOE0jROBZmB4p",
+            "mimeType": "application/pdf",
+            "size": "7291308"
+          }
+        ]
+      },
+      {
+        "name": "PPTs",
+        "type": "folder",
+        "id": "12PGzIgv32Fjcaigsh1BdudYsZBR-0d2m",
+        "children": [
+          {
+            "name": "Sánchez",
+            "type": "folder",
+            "id": "1eFYXP8UZ2JH_7f_FCzpc0_D93gr44Tb4",
+            "children": [
+              {
+                "name": "ZMensaje_a_la_nación.txt",
+                "type": "file",
+                "id": "171SXPD-VdO5mktXhFzNKOvxmYGQFDV0D",
+                "mimeType": "text/plain",
+                "size": "447"
+              },
+              {
+                "name": "SEMANA_14.3.-_Administracion_de_Configuracion_del_SW.pdf",
+                "type": "file",
+                "id": "1doQhLRPFlny1yM3iUnGYSLQJT7yAN07t",
+                "mimeType": "application/pdf",
+                "size": "960686"
+              },
+              {
+                "name": "SEMANA_14.2.-_Administración_y_Calidad_de_Software.pdf",
+                "type": "file",
+                "id": "1cQYsOQ89hmqKlFoVr8mw8xYASD9K7UYN",
+                "mimeType": "application/pdf",
+                "size": "735438"
+              },
+              {
+                "name": "SEMANA_14.1.-_Planeacion_de_Proyectos.pdf",
+                "type": "file",
+                "id": "1uvLRvKjuXx4OXQApSNcS07-M_SsTN0KV",
+                "mimeType": "application/pdf",
+                "size": "1017713"
+              },
+              {
+                "name": "SEMANA_14.0.-_Gestión_de_Proyectos.pdf",
+                "type": "file",
+                "id": "13V_Q6oEy4zT_u7a9-9MiPYXxGqRffjl5",
+                "mimeType": "application/pdf",
+                "size": "966978"
+              },
+              {
+                "name": "SEMANA_13.1.-_Reutilización_de_Software.pdf",
+                "type": "file",
+                "id": "1EKx7TGfMx9BiHzXu2oiMXyEXq-qPMWws",
+                "mimeType": "application/pdf",
+                "size": "570996"
+              },
+              {
+                "name": "SEMANA_13.0.-_Confiabilidad_y_Seguridad.pdf",
+                "type": "file",
+                "id": "1ABAmrSRvpOPI-iKU3QItY_1Dj9WU972Y",
+                "mimeType": "application/pdf",
+                "size": "961500"
+              },
+              {
+                "name": "Fuente_SQL_codigo_UNI.txt",
+                "type": "file",
+                "id": "1_CA_-baB20-HLnMHuHnfL6Fl0xFqYbrh",
+                "mimeType": "text/plain",
+                "size": "2960"
+              },
+              {
+                "name": "SEMANA_11.2.-_Evolución_de_Software.pdf",
+                "type": "file",
+                "id": "1tcO6N-xOPAxh_7wf6Y4LGh9FYYEJR19X",
+                "mimeType": "application/pdf",
+                "size": "589081"
+              },
+              {
+                "name": "SEMANA_11.03_Ejemplo_sesgo_ww2.pdf",
+                "type": "file",
+                "id": "19qahJ2NniQJvhJtxJKTdqdvtrg1nV75p",
+                "mimeType": "application/pdf",
+                "size": "403211"
+              },
+              {
+                "name": "SEMANA_11.02.-_Ejemplo_3_diseñoAtenea.pdf",
+                "type": "file",
+                "id": "1_53SiXEOk4-spviDLO0xYJe7T0bVV5mo",
+                "mimeType": "application/pdf",
+                "size": "2984642"
+              },
+              {
+                "name": "SEMANA_11.01.-_Ejemplo2.pdf",
+                "type": "file",
+                "id": "1EUQ48RDpdJOUzNKkY6GPwHda3erFaJIG",
+                "mimeType": "application/pdf",
+                "size": "1364367"
+              },
+              {
+                "name": "SEMANA_11.00.-_Ejemplo_1.pdf",
+                "type": "file",
+                "id": "1SNriYh4Nn1kEOnJQ7IoBVX8kaSv8Okbg",
+                "mimeType": "application/pdf",
+                "size": "1597687"
+              },
+              {
+                "name": "SEMANA_11.1.-_Prueba_de_Software_R._Pressman.pdf",
+                "type": "file",
+                "id": "1jMJhcXrmcL1qEViAHvoC46K3snyftlDa",
+                "mimeType": "application/pdf",
+                "size": "495783"
+              },
+              {
+                "name": "SEMANA_11.0.-_Diseño_Continuacion.pdf",
+                "type": "file",
+                "id": "1E_2l96GOVag2zg6KHJnyE-dSmeiTBGMe",
+                "mimeType": "application/pdf",
+                "size": "917059"
+              },
+              {
+                "name": "SEMANA_10.1.-_Pruebas_de_Software.pdf",
+                "type": "file",
+                "id": "1aO5dIyxKTRWFlbSNEASAS2oMnx3VWjWt",
+                "mimeType": "application/pdf",
+                "size": "487638"
+              },
+              {
+                "name": "SEMANA_10.0.-_Diseño_e_Implementación.pdf",
+                "type": "file",
+                "id": "1oCy6CFDZels-bE4igJnQ7kM9H5sXRTKr",
+                "mimeType": "application/pdf",
+                "size": "585588"
+              },
+              {
+                "name": "SEMANA_9.2.-_Ejemplo_gestionhotel.pdf",
+                "type": "file",
+                "id": "1rcinSHXiLFKR7zwJx_-GSZI-c-Tuvk9b",
+                "mimeType": "application/pdf",
+                "size": "13170239"
+              },
+              {
+                "name": "SEMANA_9.1.-_Diseño_version_R._Pressman.pdf",
+                "type": "file",
+                "id": "1F-qB8QIEsPfy-sysu8LALT-Ip45aKAnI",
+                "mimeType": "application/pdf",
+                "size": "1342288"
+              },
+              {
+                "name": "SEMANA_9.0.-_Analisis_de_Sistemas.pdf",
+                "type": "file",
+                "id": "11Bnn8Gq4xigV1BdqV4yXKViuym6cUjcU",
+                "mimeType": "application/pdf",
+                "size": "933708"
+              },
+              {
+                "name": "SEMANA_7.0.-_Diseño_Arquitectonico.pdf",
+                "type": "file",
+                "id": "16K5gwd3FxtZWMXF_s-qiRnr5SR23sYJ9",
+                "mimeType": "application/pdf",
+                "size": "1127389"
+              },
+              {
+                "name": "SEMANA_6.3.-_Ejemplo_Minimarket_Celi´s.pdf",
+                "type": "file",
+                "id": "1G4jBbaOqRXJmYjEbEXCB1mNT9v8eMW2l",
+                "mimeType": "application/pdf",
+                "size": "962391"
+              },
+              {
+                "name": "SEMANA_6.2.-_Ejemplo_Fabrica_Jeans.pdf",
+                "type": "file",
+                "id": "1QO_mUFaoePWOHpqvBwEhpAakgFValjUx",
+                "mimeType": "application/pdf",
+                "size": "270299"
+              },
+              {
+                "name": "SEMANA_6.1.-_Ejemplo_JS_ECOLOGY.pdf",
+                "type": "file",
+                "id": "1jDHAtm3zGT1mKdMFil6TA8YdnNho6Xex",
+                "mimeType": "application/pdf",
+                "size": "324565"
+              },
+              {
+                "name": "SEMANA_6.0.-_Modelado_de_Sistemas.pdf",
+                "type": "file",
+                "id": "1w-d6ZqVA5cck0LV5dUv7NCryOIoJlKcO",
+                "mimeType": "application/pdf",
+                "size": "1361258"
+              },
+              {
+                "name": "SEMANA_5.2.-_Ingeniería_de_Requerimientos.pdf",
+                "type": "file",
+                "id": "1Zr4jSinixdq9IjdHUcfWY3WFDX4ofAH4",
+                "mimeType": "application/pdf",
+                "size": "746175"
+              },
+              {
+                "name": "SEMANA_5.1.-_Ejemplo_sommerville.pdf",
+                "type": "file",
+                "id": "1uqcJFh9MJQj8S1-PWxl0sZzvPE_8-aFB",
+                "mimeType": "application/pdf",
+                "size": "3395481"
+              },
+              {
+                "name": "SEMANA_5.0.-_Modelado_de_Requerimientos.pdf",
+                "type": "file",
+                "id": "1gkgxE9wKymbpVYrmfw0qPEnQ8VyK84Oc",
+                "mimeType": "application/pdf",
+                "size": "902020"
+              },
+              {
+                "name": "SEMANA_4.0.-_Metodologia_SCRUM_y_XP.pdf",
+                "type": "file",
+                "id": "1BZYbzuwOYeSBfI76913GdWrnIf_-Jylt",
+                "mimeType": "application/pdf",
+                "size": "1409134"
+              },
+              {
+                "name": "SEMANA_3.1.-_Caracter_control_(CODIGO_UNI).pdf",
+                "type": "file",
+                "id": "1sV8j2Pk_dIUXwSncLJMNUlU8NaZH8b0R",
+                "mimeType": "application/pdf",
+                "size": "142458"
+              },
+              {
+                "name": "SEMANA_3.0.-_Modelo_Procesos.pdf",
+                "type": "file",
+                "id": "16Ke-k9BYDbTG8qF2jwc4dlwaIybnJoxz",
+                "mimeType": "application/pdf",
+                "size": "546050"
+              },
+              {
+                "name": "SEMANA_2.0.-_Discos.pdf",
+                "type": "file",
+                "id": "1HAJLGJ0OssoBxWpqAB3fhVuJyT63Ysd3",
+                "mimeType": "application/pdf",
+                "size": "990671"
+              },
+              {
+                "name": "SEMANA_1.2..-hardware.pdf",
+                "type": "file",
+                "id": "1dbTnnAbj1pB6fvqeA03OYcT1W2TZyNyC",
+                "mimeType": "application/pdf",
+                "size": "669355"
+              },
+              {
+                "name": "SEMANA_1.1.-SEPARATA1.pdf",
+                "type": "file",
+                "id": "1W0J-ziCO_RWKqgyGRmSVvyAWvOP__E93",
+                "mimeType": "application/pdf",
+                "size": "168757"
+              },
+              {
+                "name": "SEMANA_1.0-Introducción_Sesion_1.pdf",
+                "type": "file",
+                "id": "1F0GtkWSvVImX_uGiDA8hIgM-9XO6IKxy",
+                "mimeType": "application/pdf",
+                "size": "3189472"
+              },
+              {
+                "name": "SEMANA_0.1.-SW101U-Intrucciones.IngSW.pdf",
+                "type": "file",
+                "id": "176Q97PbuV1Q31WP3pv9LgMoMgHnq9Us2",
+                "mimeType": "application/pdf",
+                "size": "71315"
+              }
+            ]
+          },
+          {
+            "name": "Antaurco",
+            "type": "folder",
+            "id": "17KcQQHPGaR0Gxg-7OnfSl6DQW5IizZQv",
+            "children": [
+              {
+                "name": "ClaseIISW_06_v1.pptx",
+                "type": "file",
+                "id": "1tr14TLsH_AnB6alhSxXUkvmbe99AF9v4",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "1333362"
+              },
+              {
+                "name": "ClaseIISW_05_v1.pptx",
+                "type": "file",
+                "id": "1fKusnAOoGeR84T80xCr30wGxRil1hpa_",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "2890200"
+              },
+              {
+                "name": "ClaseIISW_03_v1.pptx",
+                "type": "file",
+                "id": "1PaGZWtyjg0qv4ohi2yGQNqBsI9xu19Ya",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "566792"
+              },
+              {
+                "name": "ClaseIISW_11_v1.pptx",
+                "type": "file",
+                "id": "1rKkWCeSvKxWtJgj2vwvSIjdLY3JLu8ei",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "288042"
+              },
+              {
+                "name": "ClaseIISW_07_v1.pptx",
+                "type": "file",
+                "id": "1GCsWeAeLurTcCITZkle6czxagVHf-5BI",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "1284479"
+              },
+              {
+                "name": "ClaseIISW_02_v1.ppt",
+                "type": "file",
+                "id": "11b3Wb6FZuwp-J3h3FUQVZw2UiX1Fasr0",
+                "mimeType": "application/vnd.ms-powerpoint",
+                "size": "388096"
+              },
+              {
+                "name": "ClaseIISW_01_v1.ppt",
+                "type": "file",
+                "id": "1NAgmQ_Xl_okruF98D39r25bvG0STy5Nv",
+                "mimeType": "application/vnd.ms-powerpoint",
+                "size": "949760"
+              },
+              {
+                "name": "ClaseIISW_04_v1.pptx",
+                "type": "file",
+                "id": "1oDY3PmulrArCl_GYhJFyrYJNJjTRNhKw",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "944893"
+              },
+              {
+                "name": "ClaseIISW_10_v1.pptx",
+                "type": "file",
+                "id": "1tGuxDpkc9pLcEz2g9A7DNe4UYMCQepCP",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "516762"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Silabus_Intro._a_la_Ing._Software.docx",
+        "type": "file",
+        "id": "1HHuXNv2u8nKgFtEq0ZLCYYFQ6VDYaAzY",
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size": "77513"
+      }
+    ]
+  }
+}

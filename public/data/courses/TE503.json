@@ -1,0 +1,704 @@
+{
+  "course_id": "TE503",
+  "course_name": "Procesos_Industriales_I",
+  "id": "1MHUQ0rRIv6PrUaltl-nfNWmrdkDVPLQP",
+  "scanned_at": "2026-08-06T23:58:22.129953+00:00",
+  "tree": {
+    "name": "Procesos_Industriales_I",
+    "type": "folder",
+    "id": "1MHUQ0rRIv6PrUaltl-nfNWmrdkDVPLQP",
+    "children": [
+      {
+        "name": "2.Petra",
+        "type": "folder",
+        "id": "118cdZOQKJI6tFh6pW37w8TAeyr2P_voE",
+        "children": [
+          {
+            "name": "Prueba_de_entrada_PI1_PETRA.pdf",
+            "type": "file",
+            "id": "1rbpcTgFN0egNg82B8gyI8y9yzBQZ920F",
+            "mimeType": "application/pdf",
+            "size": "492099"
+          },
+          {
+            "name": "Test_#4.pdf",
+            "type": "file",
+            "id": "1KksB3DgZUmyvWgFXvvZHP2-4ujGIwLFw",
+            "mimeType": "application/pdf",
+            "size": "403582"
+          },
+          {
+            "name": "Test_#1.pdf",
+            "type": "file",
+            "id": "1eckalFMhyqDpKP3fxi52m_8DieGlHUK8",
+            "mimeType": "application/pdf",
+            "size": "673349"
+          },
+          {
+            "name": "Test_#2.docx",
+            "type": "file",
+            "id": "1GV7NHA8hAjm7-HTMm2VSQO2dB2DsAegB",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "2728587"
+          },
+          {
+            "name": "EX_FINAL_TE503V_2020-II.pdf",
+            "type": "file",
+            "id": "1uMFGb5Fd0J71Hx1ur26tVRgNrR5zF81f",
+            "mimeType": "application/pdf",
+            "size": "579554"
+          },
+          {
+            "name": "Monografía_-_Curtiembre,_RONDAN-SALAZAR-PAZ.pdf",
+            "type": "file",
+            "id": "1ySBnnLqdHo4d98eig_bvBdrAzS5ugcPE",
+            "mimeType": "application/pdf",
+            "size": "21001163"
+          },
+          {
+            "name": "Planta_La_Tomilla.docx",
+            "type": "file",
+            "id": "1i9N4N6PyYVK4gBxl39O2vYRHaLWucE3v",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "5657235"
+          }
+        ]
+      },
+      {
+        "name": "1.Bilma",
+        "type": "folder",
+        "id": "1HrCtn89kWipbrnpIasPgfXBIGJ6_2oey",
+        "children": [
+          {
+            "name": "PLANCHITAS",
+            "type": "folder",
+            "id": "1g-W7Jr09kZnL3ZisNVDWb1-HM3C3foA9",
+            "children": [
+              {
+                "name": "Final",
+                "type": "folder",
+                "id": "1WWCcKZaGSp8nDGLde0KmpREIS42rXGIx",
+                "children": [
+                  {
+                    "name": "fin_3.jpg",
+                    "type": "file",
+                    "id": "1qGq-b0XxpSleSlmsQc7J2MeDHd5Qo8RP",
+                    "mimeType": "image/jpeg",
+                    "size": "95518"
+                  },
+                  {
+                    "name": "fin_2.jpg",
+                    "type": "file",
+                    "id": "1ZKDLQqbYuuTUTUIp_85h4j1R_5O2JYia",
+                    "mimeType": "image/jpeg",
+                    "size": "237079"
+                  },
+                  {
+                    "name": "Fin_1.jpg",
+                    "type": "file",
+                    "id": "1bIC8ijybIFQxcPAmCHxuORCgnZiMhdpO",
+                    "mimeType": "image/jpeg",
+                    "size": "247739"
+                  },
+                  {
+                    "name": "Ex._Final-Procesos_Indutriales_I-2020-1.docx",
+                    "type": "file",
+                    "id": "1ODWOUR0xx7Nj78VyDksfzus1JGqDz2_Q",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "29575"
+                  },
+                  {
+                    "name": "8b278602-bb8e-4a4b-9b03-9541ec40c20a.jpg",
+                    "type": "file",
+                    "id": "1NBO-y6H87rDbpkecHjKCwdu58hbGYeTj",
+                    "mimeType": "image/jpeg",
+                    "size": "85525"
+                  },
+                  {
+                    "name": "cd8b4b6b-9e1c-43f6-9402-3895fe229fba.jpg",
+                    "type": "file",
+                    "id": "1R2PsGVMJWBGPto8MW4A37XEpbyoa2zS8",
+                    "mimeType": "image/jpeg",
+                    "size": "211042"
+                  }
+                ]
+              },
+              {
+                "name": "Sustitutorio",
+                "type": "folder",
+                "id": "1rN3X-zCbVlx8AbOfXXTdnm52BF16F-ya",
+                "children": [
+                  {
+                    "name": "temp_conv_1YCATb0uH9Zd5aGVB9MUNg0k8s4P_OZBD",
+                    "type": "file",
+                    "id": "1MI-xSkLlDV4Zrb3SD1KaW70L4_hIggH-BqBRrn69__Q",
+                    "mimeType": "application/vnd.google-apps.document",
+                    "size": "16269"
+                  },
+                  {
+                    "name": "Solucion_del_Ex.Sust.-TE-503-2020-2_(1).docx",
+                    "type": "file",
+                    "id": "1z6v19Ps1fUw5oV_EmBgYRdHQpwWGcqUW",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "29639"
+                  },
+                  {
+                    "name": "Ex.Sust.-Proc._Ind.-I-2020-1.docx",
+                    "type": "file",
+                    "id": "1YCATb0uH9Zd5aGVB9MUNg0k8s4P_OZBD",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "32379"
+                  }
+                ]
+              },
+              {
+                "name": "Parcial",
+                "type": "folder",
+                "id": "1Qn24dAduA6VfJiRNelwoU63pHMwZF2g_",
+                "children": [
+                  {
+                    "name": "Parcial_19-1_4.jpg",
+                    "type": "file",
+                    "id": "1bPurD7addnoCm8X7ytgkEnbCW3Q4oUN9",
+                    "mimeType": "image/jpeg",
+                    "size": "41031"
+                  },
+                  {
+                    "name": "Solucionario-Ex.P._-_2020-2-_TE-503-W.docx",
+                    "type": "file",
+                    "id": "1YlMHv_jjRxuxmr80Yxs2oGmwZiQlhGyB",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "53601"
+                  },
+                  {
+                    "name": "Parcial_19-1_1.jpg",
+                    "type": "file",
+                    "id": "17KNDJH1KTyIJO1Gdg6hRLg8LJA6EHCK7",
+                    "mimeType": "image/jpeg",
+                    "size": "49607"
+                  },
+                  {
+                    "name": "Parcial_4.jpg",
+                    "type": "file",
+                    "id": "1lnLFEerLFyqtrNxPryQ_KmmWGRkXNe2R",
+                    "mimeType": "image/jpeg",
+                    "size": "136259"
+                  },
+                  {
+                    "name": "Parcial_19-1_2.jpg",
+                    "type": "file",
+                    "id": "1nZhtdoTtS2GXghHQGmWzCNLeRj0BrMsm",
+                    "mimeType": "image/jpeg",
+                    "size": "59470"
+                  },
+                  {
+                    "name": "Parcial_3.jpg",
+                    "type": "file",
+                    "id": "1cgmON6viropwCCHRYeTFqCCWV3t4hR--",
+                    "mimeType": "image/jpeg",
+                    "size": "185722"
+                  },
+                  {
+                    "name": "Parcial_2.jpg",
+                    "type": "file",
+                    "id": "17UY3zLpTX8cXO52O0NrfZkD80ryuWhmV",
+                    "mimeType": "image/jpeg",
+                    "size": "158942"
+                  },
+                  {
+                    "name": "Parcial_19-1_7.jpg",
+                    "type": "file",
+                    "id": "19ZcxHkb_sU_T-yArz1q7Uw8LLyeRxB3t",
+                    "mimeType": "image/jpeg",
+                    "size": "42113"
+                  },
+                  {
+                    "name": "Parcial_de_bilma.docx",
+                    "type": "file",
+                    "id": "1JCYIdqll5vchhQT9Yag199xurQNXJj1P",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1000482"
+                  },
+                  {
+                    "name": "Parcial_19-1_3.jpg",
+                    "type": "file",
+                    "id": "1czAhj8IQoOdreDiJix7tWY6TFufHYkdb",
+                    "mimeType": "image/jpeg",
+                    "size": "51484"
+                  },
+                  {
+                    "name": "(A)Ex.P._-_2020-1-_TP-223-W.docx",
+                    "type": "file",
+                    "id": "19R6qVbYhMz5fCRQNOBq79iV7zvqWqMZw",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "32018"
+                  },
+                  {
+                    "name": "Parcial_19-1_6.jpg",
+                    "type": "file",
+                    "id": "17bTwOJKk4wdFFFHWbUIG6DWPjF8aeSxv",
+                    "mimeType": "image/jpeg",
+                    "size": "27360"
+                  },
+                  {
+                    "name": "Parcial_19-1_15.jpg",
+                    "type": "file",
+                    "id": "1fRWRyI9Ol4bniSBIZ_qKX-whAKpQsjUp",
+                    "mimeType": "image/jpeg",
+                    "size": "34222"
+                  },
+                  {
+                    "name": "Parcial_1.jpg",
+                    "type": "file",
+                    "id": "1yxIOWe7ZOUyNg6Ru7yZhYXN4xPybQ8Iu",
+                    "mimeType": "image/jpeg",
+                    "size": "216521"
+                  },
+                  {
+                    "name": "(B)Ex.P._-_2020-1-_TP-223-W.docx",
+                    "type": "file",
+                    "id": "1jdE4NwWC0Tcy9Pf40tXjHmAt6swHHGJM",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "27696"
+                  },
+                  {
+                    "name": "(B)Ex.P._-_2020-1-_TP-223-W(1).docx",
+                    "type": "file",
+                    "id": "1L7vTaMMzpJmbDLltYlLQ-ravkL6JdF0Z",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "27696"
+                  }
+                ]
+              },
+              {
+                "name": "Examenes_21-1",
+                "type": "folder",
+                "id": "1E11Lan1DMYVAELrNaSOGL_0QtNioXbEQ",
+                "children": [
+                  {
+                    "name": "(A)_Ex.Final_-_TE-503-W_-2021-1_(1).docx",
+                    "type": "file",
+                    "id": "1C8b3ox27OJ_QoaDJ4vwzbmwigfFptTjw",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "27797"
+                  },
+                  {
+                    "name": "(B)_Ex.Final_-_TE-503-W_-2021-1_(1).docx",
+                    "type": "file",
+                    "id": "1ljAZsDCdtoKMk1zCRMgG3YbrSXuTnL1V",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "22608"
+                  },
+                  {
+                    "name": "(A)Ex.Parcial_-_TE-503-W_-2021-1.docx",
+                    "type": "file",
+                    "id": "1-7wJef7hB9hlb9-okMNQfIrzvdV9xUqa",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "28320"
+                  },
+                  {
+                    "name": "Ex.Sust.-TE-503-2021-1.docx",
+                    "type": "file",
+                    "id": "13VE7wdYJzYBmJkCwCjXZqWY163rgZnAo",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "29483"
+                  },
+                  {
+                    "name": "(B)Ex.Parcial_-_TE-503-W_-2021-1.docx",
+                    "type": "file",
+                    "id": "1ncHVLju84XT97mzQzad3_0UmAQOuE-hi",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "22371"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Videos-Petroleo-Carbon..docx",
+            "type": "file",
+            "id": "1Hs5V8iYF5umop3vAL1_5vAP8K70PJgd_",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "23769"
+          },
+          {
+            "name": "Tarea_-_Fertilizantes.docx",
+            "type": "file",
+            "id": "1SL4hrL9gjdO6aZn9UHqvH-G2moAxf-1U",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "23301"
+          },
+          {
+            "name": "Resumen_del_ongreso_del_EREI.docx",
+            "type": "file",
+            "id": "1_HPtm6MeqlO9CC2JIp_jt4ikhcs7xeat",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "23151"
+          }
+        ]
+      },
+      {
+        "name": "Libros",
+        "type": "folder",
+        "id": "1nPvKiatFdK0F_L1TsqkXlRFqRWG67uV4",
+        "children": [
+          {
+            "name": "Manual_de_procesos_químicos_en_la_Industria",
+            "type": "folder",
+            "id": "1jUXEBEUas-4Vgywc0aUT9S92xl0uBbjn",
+            "children": [
+              {
+                "name": "4_Energía,_combustibles,_acondicionamiento_de_aire_y_refrigeración.pdf",
+                "type": "file",
+                "id": "1fCnLK3KWN-3CAMLzSSFBSWqRklrNfVde",
+                "mimeType": "application/pdf",
+                "size": "3497828"
+              },
+              {
+                "name": "7_Gases_industriales.pdf",
+                "type": "file",
+                "id": "1uWcKTcGLr8D8IHbwCmrec03MZjZzEXRG",
+                "mimeType": "application/pdf",
+                "size": "4447245"
+              },
+              {
+                "name": "8_Carbón_industrial.pdf",
+                "type": "file",
+                "id": "17o-YBAr7y4QeCqnuOUXx1CH7PywAOE4A",
+                "mimeType": "application/pdf",
+                "size": "2689314"
+              },
+              {
+                "name": "40_Industria_farmacéutica.pdf",
+                "type": "file",
+                "id": "14Cmb8PrbwXvz1bSYLjwiTFr9gqqTcNOg",
+                "mimeType": "application/pdf",
+                "size": "23534175"
+              },
+              {
+                "name": "5_Productos_químicos_del_carbón.pdf",
+                "type": "file",
+                "id": "1VRsghsQWh_IpSEKv9JBO98Pm2DK-T73_",
+                "mimeType": "application/pdf",
+                "size": "2775556"
+              },
+              {
+                "name": "9_Industria_de_la_cerámica.pdf",
+                "type": "file",
+                "id": "1RXKD10Xv7z-ye2KW8iQx7xl49CUp8ccR",
+                "mimeType": "application/pdf",
+                "size": "3318299"
+              },
+              {
+                "name": "6_Gases_combustible.pdf",
+                "type": "file",
+                "id": "1H7RVX77QoU552zdjkmO_ppfkk0Z4e-Fj",
+                "mimeType": "application/pdf",
+                "size": "1834262"
+              },
+              {
+                "name": "15_Industria_electrotérmica.pdf",
+                "type": "file",
+                "id": "12O0_6jgs8OuJnwPjaFQpIksHolRymJTc",
+                "mimeType": "application/pdf",
+                "size": "1321293"
+              },
+              {
+                "name": "31_Fermentación_industrial.pdf",
+                "type": "file",
+                "id": "17gcmMwISokFkl9wbM0UKBQgicUjz9_p8",
+                "mimeType": "application/pdf",
+                "size": "23565115"
+              },
+              {
+                "name": "13_Industria_del_clor-alcali_carbonato_de_sodio,_sosa_,_cloro.pdf",
+                "type": "file",
+                "id": "1nMAVfRo7Nplk4K9yqkJZuiPqhwNlJ0Al",
+                "mimeType": "application/pdf",
+                "size": "2373726"
+              },
+              {
+                "name": "2_Los_procesos_químicos_y_trabajo_del_ingeniero_quimico.pdf",
+                "type": "file",
+                "id": "1JNcCWwurhmalm0zPqUF3qdvUaYbueAkf",
+                "mimeType": "application/pdf",
+                "size": "1693374"
+              },
+              {
+                "name": "17_Industria_del_potasio.pdf",
+                "type": "file",
+                "id": "1NHueH8WANRLznft5ZYwLud_7CPETrJKS",
+                "mimeType": "application/pdf",
+                "size": "3766704"
+              },
+              {
+                "name": "35_Industria_de_fibras_y_películas_sintéticas.pdf",
+                "type": "file",
+                "id": "1NNeA1wN2EU1O4dAa-3tc-KTYvPD3LUyQ",
+                "mimeType": "application/pdf",
+                "size": "23528956"
+              },
+              {
+                "name": "38_Productos_petroquímicos.pdf",
+                "type": "file",
+                "id": "1EW-Vz_Y4cEno3B-eeGQ_QvFo_Dn94C4x",
+                "mimeType": "application/pdf",
+                "size": "23542259"
+              },
+              {
+                "name": "24_Industria_de_los_recubrimientos_de_superficies.pdf",
+                "type": "file",
+                "id": "1MplSgtBIdJXtFHabPUqMgyGBSQ8aDbV7",
+                "mimeType": "application/pdf",
+                "size": "6393962"
+              },
+              {
+                "name": "36_Industria_del_hule.pdf",
+                "type": "file",
+                "id": "1acHuN7EmJE5xdC-n_UNrUCH78k_rjb9r",
+                "mimeType": "application/pdf",
+                "size": "23519472"
+              },
+              {
+                "name": "29_jabones_y_detergentes.pdf",
+                "type": "file",
+                "id": "1HCCY5nfx0NuWkYLKzS9id06gRFyXRBWR",
+                "mimeType": "application/pdf",
+                "size": "6647376"
+              },
+              {
+                "name": "39_Productos_intermedios_cíclicos_y_colorantes.pdf",
+                "type": "file",
+                "id": "1Q1aY_Fd1CKbkbJNYw686DcLEc8iZt3kA",
+                "mimeType": "application/pdf",
+                "size": "23523832"
+              },
+              {
+                "name": "16_industria_del_fósforo.pdf",
+                "type": "file",
+                "id": "1ogZC_llW41igKzDTx1vId9qvwpWLrezf",
+                "mimeType": "application/pdf",
+                "size": "5242930"
+              },
+              {
+                "name": "34_Industria_del_plástico.pdf",
+                "type": "file",
+                "id": "1vMbcDqbYbq7sbMbU7UktTeyrBcbNeDNX",
+                "mimeType": "application/pdf",
+                "size": "23548666"
+              },
+              {
+                "name": "14_Industria_electrolítica.pdf",
+                "type": "file",
+                "id": "1KRpNaP_sEYnFRD5EIsPuCK-AGxH_3wo-",
+                "mimeType": "application/pdf",
+                "size": "2495551"
+              },
+              {
+                "name": "26_Industria_agroquímica.pdf",
+                "type": "file",
+                "id": "198IlgB71RZFlJ83JZbMMLafbbEtlR2s9",
+                "mimeType": "application/pdf",
+                "size": "6776821"
+              },
+              {
+                "name": "21_Industria_nuclear.pdf",
+                "type": "file",
+                "id": "1zu04XNkGgDjYTylFPkk0iygM9yOwc8Mp",
+                "mimeType": "application/pdf",
+                "size": "11792304"
+              },
+              {
+                "name": "23_Industria_de_productos_fotográficos.pdf",
+                "type": "file",
+                "id": "1y1DrGk1F4ckeMP6BWStGml4XqbS8tLbr",
+                "mimeType": "application/pdf",
+                "size": "4495392"
+              },
+              {
+                "name": "28_Aceites,_grasas_y_ceras.pdf",
+                "type": "file",
+                "id": "1BKxdK0gcD8mue44EGdUunC6399t7Qoru",
+                "mimeType": "application/pdf",
+                "size": "5939812"
+              },
+              {
+                "name": "37_Refinación_del_petróleo.pdf",
+                "type": "file",
+                "id": "1SyOnRI5Nk55Pb2WIZu2Q_UH1U9DFPrYr",
+                "mimeType": "application/pdf",
+                "size": "23603023"
+              },
+              {
+                "name": "3_Acondicionamiento_de_agua_y_protección_ambiental.pdf",
+                "type": "file",
+                "id": "1nDms9aUm_iADx7M3mdfB8mb88FdSC7s3",
+                "mimeType": "application/pdf",
+                "size": "4339744"
+              },
+              {
+                "name": "0_Indice.pdf",
+                "type": "file",
+                "id": "1pyXqxVOAj58IR4Yxg-CbtVDsCX68vqAW",
+                "mimeType": "application/pdf",
+                "size": "825923"
+              },
+              {
+                "name": "33_Industria_de_la_pulpa_y_el_papel.pdf",
+                "type": "file",
+                "id": "1q8y2C6GW1xyMGUxy4FMfibP84mYorDwA",
+                "mimeType": "application/pdf",
+                "size": "23526394"
+              },
+              {
+                "name": "20_Ácido_clorhídricoy_productos_químicos_inorgánicos_diversos.pdf",
+                "type": "file",
+                "id": "1QsRqMn3JLhEQMrq7xYqjzlK3mpNsl79h",
+                "mimeType": "application/pdf",
+                "size": "5269085"
+              },
+              {
+                "name": "10_Cementos_portland,_compuestos_de_calcio_y_magnesio.pdf",
+                "type": "file",
+                "id": "1Uyj-dxt8GwYugFZsFHzfqcIsBFt8a-c1",
+                "mimeType": "application/pdf",
+                "size": "3165849"
+              },
+              {
+                "name": "11_Industria_del_vidrio.pdf",
+                "type": "file",
+                "id": "1oiAfkdDPqEtbcQi1U8jbVw84L8E8Dz2I",
+                "mimeType": "application/pdf",
+                "size": "2910624"
+              },
+              {
+                "name": "32_Productos_químicos_derivados_de_la_madera.pdf",
+                "type": "file",
+                "id": "1p-UJUd-plqgVm1VglyYR2wot6UE4szy-",
+                "mimeType": "application/pdf",
+                "size": "23486988"
+              },
+              {
+                "name": "1_Procesos_químicos.pdf",
+                "type": "file",
+                "id": "1_dv5LmttbO-9ZTFPrIF23vkbm-nBOl41",
+                "mimeType": "application/pdf",
+                "size": "780585"
+              },
+              {
+                "name": "12_Sal_y_otros_cumpuestos_de_sodio.pdf",
+                "type": "file",
+                "id": "1N9kaW1loQqONX3_SGsFFYocQMUi41Bzp",
+                "mimeType": "application/pdf",
+                "size": "1643358"
+              },
+              {
+                "name": "25_Industria_alimentaria_y_de_subproductos_de_los_alimentos.pdf",
+                "type": "file",
+                "id": "1ALKqIdQ8N_5sXPHodEt-USI20IAJNBcM",
+                "mimeType": "application/pdf",
+                "size": "5433910"
+              },
+              {
+                "name": "19_Azufre_y_ácido_sulfúrico.pdf",
+                "type": "file",
+                "id": "1Zc-FYKKuO-FjXvnIPginfn4o05ueO461",
+                "mimeType": "application/pdf",
+                "size": "6213626"
+              },
+              {
+                "name": "18_Industria_del_nitrógeno.pdf",
+                "type": "file",
+                "id": "1evGDwOY0pgOZHczI7ourGoaGmKWpkBrP",
+                "mimeType": "application/pdf",
+                "size": "4546048"
+              },
+              {
+                "name": "30_Industria_del_azúcar_y_del_almidón.pdf",
+                "type": "file",
+                "id": "11bKqS-APr-LsyWPoA67G-GEUzsrkLF_k",
+                "mimeType": "application/pdf",
+                "size": "23545173"
+              },
+              {
+                "name": "27_Fragancias,_sabores_y_aditivos_de_alimentos.pdf",
+                "type": "file",
+                "id": "1YwZi97hekKStuwGVgruBJFJxdq87je9F",
+                "mimeType": "application/pdf",
+                "size": "6691552"
+              }
+            ]
+          },
+          {
+            "name": "Metodos_de_la_industria.pdf",
+            "type": "file",
+            "id": "1jpYloPda-w1rSXOwcR8trYPnkf9Qxn6J",
+            "mimeType": "application/pdf",
+            "size": "4567661"
+          },
+          {
+            "name": "MANUAL_DE_PROCESOS_QUIMICOS_EN_LA_INDUST.pdf",
+            "type": "file",
+            "id": "1KgoUfAo-EpyLHAhHs9wkk_uMyHDVdaCE",
+            "mimeType": "application/pdf",
+            "size": "86254848"
+          }
+        ]
+      },
+      {
+        "name": "PLANCHITAS",
+        "type": "folder",
+        "id": "1tUXmv6uW8o_0TkdcddqZVkRJ-5ds-VIk",
+        "children": [
+          {
+            "name": "SOLUCIONARIO_ALUMNO",
+            "type": "folder",
+            "id": "10sFeFO-sBCDLIef94i0HWhR52sE4lxo2",
+            "children": []
+          },
+          {
+            "name": "SOLUCIONARIO_ORCE",
+            "type": "folder",
+            "id": "1SZG2Fw-OHSDIBHxTG6dK8LnLiXUdxnpJ",
+            "children": []
+          },
+          {
+            "name": "Parcial_19-2_2.jpg",
+            "type": "file",
+            "id": "18H857xKixtjz7STB-f-802vXGjDxWaYU",
+            "mimeType": "image/jpeg",
+            "size": "122092"
+          },
+          {
+            "name": "Parcial_19-2_3.jpg",
+            "type": "file",
+            "id": "1W2E0j8f3iqEe8PjP3PUuL-BT9VMLCbqn",
+            "mimeType": "image/jpeg",
+            "size": "106802"
+          },
+          {
+            "name": "Parcial_19-2_4.jpg",
+            "type": "file",
+            "id": "1wfbcbaiEU0RpdtcVD-BwqpgoNUtZCMVK",
+            "mimeType": "image/jpeg",
+            "size": "122412"
+          },
+          {
+            "name": "Parcial_19-2.jpg",
+            "type": "file",
+            "id": "1gWdj8MHyw3pSePcPIIqVzs0RIoHs_ujV",
+            "mimeType": "image/jpeg",
+            "size": "98306"
+          }
+        ]
+      },
+      {
+        "name": "sílabo_TP_223.doc",
+        "type": "file",
+        "id": "1xFciV72IfjrlEQobMDO31irjHQtFbcar",
+        "mimeType": "application/msword",
+        "size": "175616"
+      }
+    ]
+  }
+}

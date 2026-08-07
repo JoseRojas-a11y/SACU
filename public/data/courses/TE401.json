@@ -1,0 +1,2624 @@
+{
+  "course_id": "TE401",
+  "course_name": "Termodinámica",
+  "id": "1IWnyhsuuhCyQw_1Mf4HMW5jmyD12st9Q",
+  "scanned_at": "2026-08-07T00:04:50.267283+00:00",
+  "tree": {
+    "name": "Termodinámica",
+    "type": "folder",
+    "id": "1IWnyhsuuhCyQw_1Mf4HMW5jmyD12st9Q",
+    "children": [
+      {
+        "name": "CLASES",
+        "type": "folder",
+        "id": "19qNUvKiAbxVucOddHQahSohkA3PSGzfO",
+        "children": [
+          {
+            "name": "TARAZONA",
+            "type": "folder",
+            "id": "16l3fcAp8DZKB3dKuD5Zp75CwPe6jtygF",
+            "children": [
+              {
+                "name": "SEMANA_12",
+                "type": "folder",
+                "id": "1Wgn0md-O4VpBENDxeCKBvfLFgjMYOL-3",
+                "children": [
+                  {
+                    "name": "CLASE_10-06-26",
+                    "type": "folder",
+                    "id": "1I8Ni5ZLlwvwN_bae_5NdYrLULKzMrYWp",
+                    "children": [
+                      {
+                        "name": "CICLO_COMBINADO_APLICACIÓN.docx",
+                        "type": "file",
+                        "id": "10x3HU4NqBubYuIU7s2BzQ85EVgcNzLNR",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "513261"
+                      },
+                      {
+                        "name": "IMG_20260610_115804816.jpg",
+                        "type": "file",
+                        "id": "10XPTF3eEBzm4ANGwxJCD4hogQS5BzxXA",
+                        "mimeType": "image/jpeg",
+                        "size": "2368263"
+                      },
+                      {
+                        "name": "IMG_20260610_112236919.jpg",
+                        "type": "file",
+                        "id": "1uG6SSOwYBzKm_wSWVfDrQyxPtvmkGS88",
+                        "mimeType": "image/jpeg",
+                        "size": "1888454"
+                      },
+                      {
+                        "name": "IMG_20260610_105557166.jpg",
+                        "type": "file",
+                        "id": "1XAvWMweejkndXTGU49y7qcUsgxTLWKEZ",
+                        "mimeType": "image/jpeg",
+                        "size": "2463190"
+                      },
+                      {
+                        "name": "IMG_20260610_111402103.jpg",
+                        "type": "file",
+                        "id": "12PseOuBch6fPHwZ9V0UWoun5mFqTxC7f",
+                        "mimeType": "image/jpeg",
+                        "size": "2743329"
+                      },
+                      {
+                        "name": "IMG_20260610_115801834.jpg",
+                        "type": "file",
+                        "id": "1eubv59b5caKN0S5z6CuCXac0iTMK_q1A",
+                        "mimeType": "image/jpeg",
+                        "size": "2436641"
+                      },
+                      {
+                        "name": "IMG_20260610_115745240.jpg",
+                        "type": "file",
+                        "id": "1EO4BucykltNcBO0B2fsx10dadhlzCTUC",
+                        "mimeType": "image/jpeg",
+                        "size": "2401543"
+                      },
+                      {
+                        "name": "IMG_20260610_111353407.jpg",
+                        "type": "file",
+                        "id": "1XnroG8gBXoXe311yoXTPqNQPQUBPF5yf",
+                        "mimeType": "image/jpeg",
+                        "size": "2080006"
+                      },
+                      {
+                        "name": "IMG_20260610_105544872.jpg",
+                        "type": "file",
+                        "id": "1ClTZNbMPHGskS3PtM9Nth_YvEG0rFE6c",
+                        "mimeType": "image/jpeg",
+                        "size": "1862663"
+                      },
+                      {
+                        "name": "IMG_20260610_104652759.jpg",
+                        "type": "file",
+                        "id": "1TPqvQujMnqvUh4KlccAKRwvo4ig5lzUT",
+                        "mimeType": "image/jpeg",
+                        "size": "1808638"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "CLASE_09-06-26",
+                    "type": "folder",
+                    "id": "1lapLo5wy3985yWu32JDkgbLpQocaerWQ",
+                    "children": [
+                      {
+                        "name": "IMG_20260609_122511030.jpg",
+                        "type": "file",
+                        "id": "1ZcN9o-lMqVX89hJlpvHASxJpxPvNLDJ-",
+                        "mimeType": "image/jpeg",
+                        "size": "2015257"
+                      },
+                      {
+                        "name": "IMG_20260609_124749838.jpg",
+                        "type": "file",
+                        "id": "17Asonytwa_eMhjmtlFVStxAnwU6IRRP2",
+                        "mimeType": "image/jpeg",
+                        "size": "1628906"
+                      },
+                      {
+                        "name": "IMG_20260609_135831127.jpg",
+                        "type": "file",
+                        "id": "1WT6DsiF1eIB87orH54tpGSRykPCejiYO",
+                        "mimeType": "image/jpeg",
+                        "size": "1195218"
+                      },
+                      {
+                        "name": "IMG_20260609_133101853.jpg",
+                        "type": "file",
+                        "id": "1pUL2a1u5DiExt99sfZ_1NsHOkla6gDUU",
+                        "mimeType": "image/jpeg",
+                        "size": "2158326"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_14",
+                "type": "folder",
+                "id": "1kS07pg59_txYodP4cNBV4oVHcxMIsKI0",
+                "children": [
+                  {
+                    "name": "CLASE_24-06-26",
+                    "type": "folder",
+                    "id": "1vLJldM_hY-KIfP0ArwPcFZ4evADJFdjv",
+                    "children": [
+                      {
+                        "name": "APLICACIONES_24_de_junio.docx",
+                        "type": "file",
+                        "id": "1lwivl6AmDEkcP9chV6qIjyN_fTXU-0XE",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "4186482"
+                      },
+                      {
+                        "name": "IMG_20260624_111623723.jpg",
+                        "type": "file",
+                        "id": "1JhBimfo5mMhHm2EzEKushkw4dkMF8rQS",
+                        "mimeType": "image/jpeg",
+                        "size": "2242076"
+                      },
+                      {
+                        "name": "IMG_20260624_114606425.jpg",
+                        "type": "file",
+                        "id": "1-QbEpJTVqpxPsBWHcEvu8Rmh9JCRCOsT",
+                        "mimeType": "image/jpeg",
+                        "size": "2154399"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "CLASE_23-06-26",
+                    "type": "folder",
+                    "id": "1g7jkofcywsoX_iIqSAcJVynS5KFROjdB",
+                    "children": [
+                      {
+                        "name": "EJERCICIO_TERMO_PC4.docx",
+                        "type": "file",
+                        "id": "1b8vm9rrXjToFUWdA_tFSlmYMRgzHLWxD",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "821889"
+                      },
+                      {
+                        "name": "IMG_20260623_133957124.jpg",
+                        "type": "file",
+                        "id": "1A0fYPl46Mw5oXA85vfSuMLm4wzkVps2N",
+                        "mimeType": "image/jpeg",
+                        "size": "1321569"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_7",
+                "type": "folder",
+                "id": "14-phG_SoLG5FrqRqPWfS5p3wKQqwypRo",
+                "children": [
+                  {
+                    "name": "APLICACIONES_DIESEL,_OTTO,_DUAL_Y_RESORTE.docx",
+                    "type": "file",
+                    "id": "17kpVqKekHOy772dT1P7SYbRZ5RRJB6JY",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1730464"
+                  },
+                  {
+                    "name": "APLICACIÓN_CICLO_CARNOT.docx",
+                    "type": "file",
+                    "id": "1kK3WgrH6BUbcKgH8SGvWkEjkKP2sVXlx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "630074"
+                  },
+                  {
+                    "name": "IMG_20260506_115508607.jpg",
+                    "type": "file",
+                    "id": "1mz99H0f9no3lGD_ynn9sqeoO3sIP49Lz",
+                    "mimeType": "image/jpeg",
+                    "size": "2384557"
+                  },
+                  {
+                    "name": "IMG_20260506_111941216.jpg",
+                    "type": "file",
+                    "id": "1hpqUXWOc0pskk1Yc4BecxnwNs2N8y9nt",
+                    "mimeType": "image/jpeg",
+                    "size": "1976158"
+                  },
+                  {
+                    "name": "IMG_20260506_105502340.jpg",
+                    "type": "file",
+                    "id": "116tt8YbgUmdiwYglw-MjgFxLYbmNvB9U",
+                    "mimeType": "image/jpeg",
+                    "size": "2125155"
+                  },
+                  {
+                    "name": "IMG_20260506_111944738.jpg",
+                    "type": "file",
+                    "id": "1YFBi76wToKERPaLDYQ4sDzCN245rbKeN",
+                    "mimeType": "image/jpeg",
+                    "size": "1931887"
+                  },
+                  {
+                    "name": "IMG_20260506_105506277.jpg",
+                    "type": "file",
+                    "id": "1OK0QrNmq5Q-RB-1rFPVZssqaOsQKCFmp",
+                    "mimeType": "image/jpeg",
+                    "size": "2013090"
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_15",
+                "type": "folder",
+                "id": "1W6GnlF-pCWe87FwoKSi989fG0bctquH1",
+                "children": [
+                  {
+                    "name": "Foto_de_Luis_Fernando_Veramendi.jpg",
+                    "type": "file",
+                    "id": "1xza2SHmUfZhmjjoN2VmTceby6yPUF3SW",
+                    "mimeType": "image/jpeg",
+                    "size": "109806"
+                  },
+                  {
+                    "name": "Foto_de_Luis_Fernando_Veramendi(1).jpg",
+                    "type": "file",
+                    "id": "1Bom1B64hc9jdv6uum9ByH7RZGEbD5JWd",
+                    "mimeType": "image/jpeg",
+                    "size": "112211"
+                  },
+                  {
+                    "name": "Foto_de_Luis_Fernando_Veramendi(3).jpg",
+                    "type": "file",
+                    "id": "1yJj5ZPcJQmpfOx4qFn059Dx1dPFV1Jnx",
+                    "mimeType": "image/jpeg",
+                    "size": "107096"
+                  },
+                  {
+                    "name": "Foto_de_Luis_Fernando_Veramendi(2).jpg",
+                    "type": "file",
+                    "id": "1vGsR9MbcpqSjD4E911Y19Iw2TvworZWd",
+                    "mimeType": "image/jpeg",
+                    "size": "127336"
+                  },
+                  {
+                    "name": "Foto_de_Luis_Fernando_Veramendi(4).jpg",
+                    "type": "file",
+                    "id": "1PjufpKr-a1IksmCinKLQnvZQSR7iLlZu",
+                    "mimeType": "image/jpeg",
+                    "size": "150873"
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_6",
+                "type": "folder",
+                "id": "1vSE0S_PrM8S3Hv7Nh_T0q6jQWtJGzdFq",
+                "children": [
+                  {
+                    "name": "CLASE_29-04-26",
+                    "type": "folder",
+                    "id": "1OwOcUgcY8RY84MQV8ZXVxK4PxQV_5vgN",
+                    "children": [
+                      {
+                        "name": "CLASE_29_04_26.docx",
+                        "type": "file",
+                        "id": "1jS_Fzt_23_-0JBmeNpPf9Z6cM-pxRB-A",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "8012"
+                      },
+                      {
+                        "name": "IMG_20260429_113835094.jpg",
+                        "type": "file",
+                        "id": "1LFpFCF_sSduWsSVv2aIayJCwZGMSE3Uu",
+                        "mimeType": "image/jpeg",
+                        "size": "1978206"
+                      },
+                      {
+                        "name": "IMG_20260429_120518691.jpg",
+                        "type": "file",
+                        "id": "1sgFKa8iCMHWcUP_bQkDNP5dph4rkqmf-",
+                        "mimeType": "image/jpeg",
+                        "size": "2388773"
+                      },
+                      {
+                        "name": "IMG_20260429_114437140.jpg",
+                        "type": "file",
+                        "id": "1QXlQY4wI96hXuGE3dLN0V1GAn1clOrDm",
+                        "mimeType": "image/jpeg",
+                        "size": "1358616"
+                      },
+                      {
+                        "name": "IMG_20260429_120520451.jpg",
+                        "type": "file",
+                        "id": "1j06IVZb9KNesP6gveQbDdlejLgrz3E9r",
+                        "mimeType": "image/jpeg",
+                        "size": "2642922"
+                      },
+                      {
+                        "name": "IMG_20260429_120524111.jpg",
+                        "type": "file",
+                        "id": "1qPqkZ3reAF_wQquQ4stefltQhifkGU22",
+                        "mimeType": "image/jpeg",
+                        "size": "2528062"
+                      },
+                      {
+                        "name": "IMG_20260429_115422228.jpg",
+                        "type": "file",
+                        "id": "1dl_J7j-AKfxjUgG9Kn2kupE2U50EGF2U",
+                        "mimeType": "image/jpeg",
+                        "size": "1484185"
+                      },
+                      {
+                        "name": "IMG_20260429_110440350.jpg",
+                        "type": "file",
+                        "id": "1sJP_D_YjOOeAAGvE93Gj7dGLl0IXumhS",
+                        "mimeType": "image/jpeg",
+                        "size": "2569232"
+                      },
+                      {
+                        "name": "IMG_20260429_110449478.jpg",
+                        "type": "file",
+                        "id": "1n0CrWEuHO7Rc8icpXGdVLrkoztnVilS9",
+                        "mimeType": "image/jpeg",
+                        "size": "2090683"
+                      },
+                      {
+                        "name": "IMG_20260429_111918065.jpg",
+                        "type": "file",
+                        "id": "1a4nYLHOTjQFj_1W6CryweNP2eO5K_K_1",
+                        "mimeType": "image/jpeg",
+                        "size": "2205183"
+                      },
+                      {
+                        "name": "IMG_20260429_111924637.jpg",
+                        "type": "file",
+                        "id": "1kKRUM5UDzObz7iHXZd2NI-bTXQxcLI75",
+                        "mimeType": "image/jpeg",
+                        "size": "2509955"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "CLASE_30-04-26",
+                    "type": "folder",
+                    "id": "1NSLeo5zHZSey4X8QJhSTBjJIhL_cGUIc",
+                    "children": [
+                      {
+                        "name": "CLASE_30_04_26.docx",
+                        "type": "file",
+                        "id": "1D6BlD6fKnJpDi8EzBEzfeuU093QtDeoT",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "6817"
+                      },
+                      {
+                        "name": "IMG_20260430_201348517.jpg",
+                        "type": "file",
+                        "id": "1HllImTbsB9UaARVKwunkbFxsPuqP1CTt",
+                        "mimeType": "image/jpeg",
+                        "size": "2340963"
+                      },
+                      {
+                        "name": "IMG_20260430_201345156.jpg",
+                        "type": "file",
+                        "id": "1LkGzwZIm431GhGkk2W32aeR4OdZ2DHvx",
+                        "mimeType": "image/jpeg",
+                        "size": "2322455"
+                      },
+                      {
+                        "name": "IMG_20260430_201356613.jpg",
+                        "type": "file",
+                        "id": "1L826_W_LdjiX5--ZTwih4b0eqW7TKY9e",
+                        "mimeType": "image/jpeg",
+                        "size": "2365416"
+                      },
+                      {
+                        "name": "IMG_20260430_201400746.jpg",
+                        "type": "file",
+                        "id": "1-6cYYWCXSr5_xLKd1ajJV6GmWDEsflcC",
+                        "mimeType": "image/jpeg",
+                        "size": "2395185"
+                      },
+                      {
+                        "name": "IMG_20260430_201352088.jpg",
+                        "type": "file",
+                        "id": "14DnXiSCMN7yorCyDyIa1sLjO64wQHohC",
+                        "mimeType": "image/jpeg",
+                        "size": "2316766"
+                      },
+                      {
+                        "name": "IMG_20260430_201341123.jpg",
+                        "type": "file",
+                        "id": "1eOKq0UV0MM8z2xjjf661JNagIszj0C35",
+                        "mimeType": "image/jpeg",
+                        "size": "2459561"
+                      },
+                      {
+                        "name": "IMG_20260430_201405263.jpg",
+                        "type": "file",
+                        "id": "1U1rSIaEAQQNkNN0KIZBu80ULC_sRGyX5",
+                        "mimeType": "image/jpeg",
+                        "size": "2450248"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "CLASE_28-04-26",
+                    "type": "folder",
+                    "id": "1uLWCyZQGoy_Dz1HfnLlZIaO8CwvEmjdx",
+                    "children": [
+                      {
+                        "name": "CLASE_28_04_26.docx",
+                        "type": "file",
+                        "id": "1rmgGHNmmfMrIovHdGtgguQJRCL-6Hfd3",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "6712"
+                      },
+                      {
+                        "name": "IMG_20260428_132926151.jpg",
+                        "type": "file",
+                        "id": "1mtx-L0jaW3oEuXXH1f8q5Jut2lpWNwXj",
+                        "mimeType": "image/jpeg",
+                        "size": "2766944"
+                      },
+                      {
+                        "name": "IMG_20260428_132831306.jpg",
+                        "type": "file",
+                        "id": "1bgJH9eqvJoyyLZbXzFFcGEHUJAzXQA0g",
+                        "mimeType": "image/jpeg",
+                        "size": "1670434"
+                      },
+                      {
+                        "name": "IMG_20260428_140226508.jpg",
+                        "type": "file",
+                        "id": "1Li3BWwp_C7VdTVUdpEL1ntwjba4PO1fA",
+                        "mimeType": "image/jpeg",
+                        "size": "2454891"
+                      },
+                      {
+                        "name": "IMG_20260428_140203943.jpg",
+                        "type": "file",
+                        "id": "1Vw3EoNH4RuJyxJMSETmAPp0XlOphvu4P",
+                        "mimeType": "image/jpeg",
+                        "size": "2860859"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_13",
+                "type": "folder",
+                "id": "1ByUucER9YHpaOVzmNP67cDu2D7aKiww-",
+                "children": [
+                  {
+                    "name": "IMG_20260617_114310184.jpg",
+                    "type": "file",
+                    "id": "16TWlB66TVSmiI5a58UXnd0nCWc5lypYt",
+                    "mimeType": "image/jpeg",
+                    "size": "1503481"
+                  },
+                  {
+                    "name": "IMG_20260617_120224836.jpg",
+                    "type": "file",
+                    "id": "1WU7Rj1zERFhwmVvYwxusdv_lHSomzyry",
+                    "mimeType": "image/jpeg",
+                    "size": "1660123"
+                  },
+                  {
+                    "name": "IMG_20260617_114322665.jpg",
+                    "type": "file",
+                    "id": "19kF5qLu9wYm7lFdCaofTysNT_b_afXR6",
+                    "mimeType": "image/jpeg",
+                    "size": "1668883"
+                  },
+                  {
+                    "name": "IMG_20260617_120514787.jpg",
+                    "type": "file",
+                    "id": "1Vd1jqLve2YJXzFIUBry2N_CSv_MxW_OJ",
+                    "mimeType": "image/jpeg",
+                    "size": "2368905"
+                  },
+                  {
+                    "name": "IMG_20260617_120223169.jpg",
+                    "type": "file",
+                    "id": "1s6gVIvIWyiuIEsLvCpaPPRTFWaSNHOQr",
+                    "mimeType": "image/jpeg",
+                    "size": "2067829"
+                  },
+                  {
+                    "name": "IMG_20260617_114313315.jpg",
+                    "type": "file",
+                    "id": "14HeOoLFiTUvN6caUF9kdQbYDS3pHlGoN",
+                    "mimeType": "image/jpeg",
+                    "size": "2458727"
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_11",
+                "type": "folder",
+                "id": "1tdITe3QTaGHqfCJrdxV224kgasA8y1dK",
+                "children": [
+                  {
+                    "name": "CLASE_3-06-26",
+                    "type": "folder",
+                    "id": "1JZJ2kLdalY3GTtieO7y7QyLOFkro54xa",
+                    "children": [
+                      {
+                        "name": "Foto_de_Luis_Fernando_Veramendi.jpg",
+                        "type": "file",
+                        "id": "1CEbU5mltvK9XmVMmrRYg3612dby4yFEY",
+                        "mimeType": "image/jpeg",
+                        "size": "30348"
+                      },
+                      {
+                        "name": "Foto_de_Luis_Fernando_Veramendi(1).jpg",
+                        "type": "file",
+                        "id": "1bNpQzw3qh8gpvpc0jFWHhes8KnCh3SJu",
+                        "mimeType": "image/jpeg",
+                        "size": "24185"
+                      },
+                      {
+                        "name": "Foto_de_Luis_Fernando_Veramendi(2).jpg",
+                        "type": "file",
+                        "id": "1v421HuyiM-llG6_jeXc1CQ8_nUZGWk1w",
+                        "mimeType": "image/jpeg",
+                        "size": "32282"
+                      },
+                      {
+                        "name": "APLICACIONES_01_CICLO_COMBINADO_.docx",
+                        "type": "file",
+                        "id": "1k7Q2VHgDRu8mQ0Fk6Y0YzQkbYxftMu1z",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "3830247"
+                      },
+                      {
+                        "name": "Documento_de_Luis_Fernando_Veramendi.docx",
+                        "type": "file",
+                        "id": "1ng4mAruQva5DUZ6Vz3-Dr185q5PHhSMe",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "3830256"
+                      },
+                      {
+                        "name": "IMG_20260603_115617920.jpg",
+                        "type": "file",
+                        "id": "1pH52TftYOfs3n2jlLoxpQru8vqctw4ka",
+                        "mimeType": "image/jpeg",
+                        "size": "2424928"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "CLASE_2-06-26",
+                    "type": "folder",
+                    "id": "1T3OLpFeCATCfRXD8iaxq_PcHY__g4IQ1",
+                    "children": [
+                      {
+                        "name": "Resumen_Contreras_Melgar_Fénix_Power.docx",
+                        "type": "file",
+                        "id": "1YwBmhFnSN2DSODO4o2BQT_MD8KVM35r7",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "31531"
+                      },
+                      {
+                        "name": "CC_CHILCA-RESUMEN.pdf",
+                        "type": "file",
+                        "id": "1eNBeUpsOwLnhWQVbUBAdsfy0VPOAaLqD",
+                        "mimeType": "application/pdf",
+                        "size": "71490"
+                      },
+                      {
+                        "name": "IMG_20260602_135541421.jpg",
+                        "type": "file",
+                        "id": "1VpNhtQeoWgzrC5MBvn4q1FbU78Yh9pOn",
+                        "mimeType": "image/jpeg",
+                        "size": "1908947"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_10",
+                "type": "folder",
+                "id": "1R_CKes-H47yxNpLD-olNV0kZylKs2sDf",
+                "children": [
+                  {
+                    "name": "CLASE_26-05-26",
+                    "type": "folder",
+                    "id": "1bX1DPm9FIWT3dJ1VG0_0LXHcNrSmA03u",
+                    "children": [
+                      {
+                        "name": "compresores1AAB_termodinamica.docx",
+                        "type": "file",
+                        "id": "1fh0vpw5kEhod3agxhL2BMGM-g0qIMRsj",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "6512826"
+                      },
+                      {
+                        "name": "IMG_20260526_140042653.jpg",
+                        "type": "file",
+                        "id": "13qXtijMdxOaVBfdrRBf0preNXLOLhGdN",
+                        "mimeType": "image/jpeg",
+                        "size": "1072529"
+                      },
+                      {
+                        "name": "IMG_20260526_135835857.jpg",
+                        "type": "file",
+                        "id": "1aLK3W2yJE9m_LEYGJMLDaDwnXI7a3yRC",
+                        "mimeType": "image/jpeg",
+                        "size": "2474899"
+                      },
+                      {
+                        "name": "IMG_20260526_135829976.jpg",
+                        "type": "file",
+                        "id": "1G96AUjfQxjsq1xzvv_JnbIURbwCftTSS",
+                        "mimeType": "image/jpeg",
+                        "size": "2326781"
+                      },
+                      {
+                        "name": "IMG_20260526_125607371.jpg",
+                        "type": "file",
+                        "id": "1QSk8ERFOQKHZa9mQeTp1me6B_hrs7_UP",
+                        "mimeType": "image/jpeg",
+                        "size": "1700313"
+                      },
+                      {
+                        "name": "IMG_20260526_130547378.jpg",
+                        "type": "file",
+                        "id": "1rCqV_By1ZbT4AlYNwOZ9ei0K9nstZSLG",
+                        "mimeType": "image/jpeg",
+                        "size": "2150833"
+                      },
+                      {
+                        "name": "IMG_20260526_134224326.jpg",
+                        "type": "file",
+                        "id": "16WgimfDL8BBLh-W8lVlFqifxxXBaRpDe",
+                        "mimeType": "image/jpeg",
+                        "size": "2501341"
+                      },
+                      {
+                        "name": "IMG_20260526_123245972.jpg",
+                        "type": "file",
+                        "id": "1nPdxNCVFGS3jrWX2QSdA1ySqF290lv2x",
+                        "mimeType": "image/jpeg",
+                        "size": "1991258"
+                      },
+                      {
+                        "name": "IMG_20260526_134222095.jpg",
+                        "type": "file",
+                        "id": "16VBOL0bWtl07wkF62vz9kecnnyd4qyz_",
+                        "mimeType": "image/jpeg",
+                        "size": "2592701"
+                      },
+                      {
+                        "name": "IMG_20260526_130539705.jpg",
+                        "type": "file",
+                        "id": "1kIm92yPOYmYhuv_PIEI7KjzB_SwnOvF7",
+                        "mimeType": "image/jpeg",
+                        "size": "2267767"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "CLASE_27-05-26",
+                    "type": "folder",
+                    "id": "1T5JXKRM-DVTuh-3RH19qbKP_dGUU_BmZ",
+                    "children": [
+                      {
+                        "name": "compresores1AAB_termodinamica.docx",
+                        "type": "file",
+                        "id": "145WpcPFpq_-Vbc80f5Y31gopIPPcqvFh",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "6512822"
+                      },
+                      {
+                        "name": "IMG_20260527_115350196.jpg",
+                        "type": "file",
+                        "id": "16s9xTKerKplGWBrPAgfVcyKxsqBWRBsM",
+                        "mimeType": "image/jpeg",
+                        "size": "2159948"
+                      },
+                      {
+                        "name": "IMG_20260527_113824867.jpg",
+                        "type": "file",
+                        "id": "1i2gUXvzBjPOjyjUfzoKcbPHoBNwNcACm",
+                        "mimeType": "image/jpeg",
+                        "size": "1400509"
+                      },
+                      {
+                        "name": "IMG_20260527_115345499.jpg",
+                        "type": "file",
+                        "id": "1tULCZChQgydkbgZNqpCOs2xNOOKJT_lu",
+                        "mimeType": "image/jpeg",
+                        "size": "2025536"
+                      },
+                      {
+                        "name": "IMG_20260527_104504248.jpg",
+                        "type": "file",
+                        "id": "15BHZmpBCSjw7j0GRYgvZeHGXe1CVrD-q",
+                        "mimeType": "image/jpeg",
+                        "size": "2677141"
+                      },
+                      {
+                        "name": "IMG_20260527_113830650.jpg",
+                        "type": "file",
+                        "id": "1lUecbPEQFePYSMkiK8Z6Q1xzZSdc_Kvm",
+                        "mimeType": "image/jpeg",
+                        "size": "1740048"
+                      },
+                      {
+                        "name": "IMG_20260527_114255820.jpg",
+                        "type": "file",
+                        "id": "1rZaHf7k6v2MjhPLI6k1fjvx1OibFejUd",
+                        "mimeType": "image/jpeg",
+                        "size": "1729416"
+                      },
+                      {
+                        "name": "IMG_20260527_101604252.jpg",
+                        "type": "file",
+                        "id": "1cFKm6_DfzMZ8DFRgWFuAWcDl1823y9xS",
+                        "mimeType": "image/jpeg",
+                        "size": "2683993"
+                      },
+                      {
+                        "name": "IMG_20260527_104500981.jpg",
+                        "type": "file",
+                        "id": "1FSfygZw6le5vhyCWhRyqOPiLXgWfSKBb",
+                        "mimeType": "image/jpeg",
+                        "size": "1955500"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_9",
+                "type": "folder",
+                "id": "1WqlRfrW7umnz8RTzROhL-f1ENidHJcAz",
+                "children": [
+                  {
+                    "name": "CLASE_20-05-26",
+                    "type": "folder",
+                    "id": "1jj5BZGMmpQB-R0TWh8FxbK_lJdTLhUIw",
+                    "children": [
+                      {
+                        "name": "compresores1AAB_termodinamica.docx",
+                        "type": "file",
+                        "id": "1MB5atqoivjW0FYNKDCeqc1cHCq4TRIup",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "6514170"
+                      },
+                      {
+                        "name": "IMG_20260520_115945697.jpg",
+                        "type": "file",
+                        "id": "1xvEan6B9wRD40CHSquf7YS2UMUfYRSqU",
+                        "mimeType": "image/jpeg",
+                        "size": "2307767"
+                      },
+                      {
+                        "name": "IMG_20260520_115532442.jpg",
+                        "type": "file",
+                        "id": "117ypblUhWn7tkDmTJPC5FiamCXnFvdBD",
+                        "mimeType": "image/jpeg",
+                        "size": "2125168"
+                      },
+                      {
+                        "name": "IMG_20260520_104255761.jpg",
+                        "type": "file",
+                        "id": "1sCg3wloH5vLP5o996Qlrf9K61GUwpK_B",
+                        "mimeType": "image/jpeg",
+                        "size": "1914238"
+                      },
+                      {
+                        "name": "IMG_20260520_110505377.jpg",
+                        "type": "file",
+                        "id": "1xFKtK-11_m3e-2nqHcUKO6hqxAhNHFX8",
+                        "mimeType": "image/jpeg",
+                        "size": "1919653"
+                      },
+                      {
+                        "name": "IMG_20260520_115539431.jpg",
+                        "type": "file",
+                        "id": "1yPef6sNEjYb6FjZRZ2quCrXXWy_7ob9d",
+                        "mimeType": "image/jpeg",
+                        "size": "2144279"
+                      },
+                      {
+                        "name": "IMG_20260520_104252424.jpg",
+                        "type": "file",
+                        "id": "1cVrLPUBnLpLnfGok3XvzwXbATWzKdJSe",
+                        "mimeType": "image/jpeg",
+                        "size": "2104540"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "CLASE_19-05-26",
+                    "type": "folder",
+                    "id": "1sQinBQDevMyN3k8KGrTk5qXWnqmBSsQ7",
+                    "children": [
+                      {
+                        "name": "COMBUSTION_MCI.docx",
+                        "type": "file",
+                        "id": "1uWSq0A9TikpaNzceZ2lYJ8_cYaxYR-HL",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "1506346"
+                      },
+                      {
+                        "name": "IMG_20260519_132335866.jpg",
+                        "type": "file",
+                        "id": "11xtCSdVi1kiObrkg0fkc4MKwpQycWhjg",
+                        "mimeType": "image/jpeg",
+                        "size": "1956622"
+                      },
+                      {
+                        "name": "IMG_20260519_125724554.jpg",
+                        "type": "file",
+                        "id": "1w3Sus9dARaFiCxNxmFdu_2dYhC6ywhUt",
+                        "mimeType": "image/jpeg",
+                        "size": "1116911"
+                      },
+                      {
+                        "name": "IMG_20260519_134726461.jpg",
+                        "type": "file",
+                        "id": "1wdSxiVpUAh2VnU8_wCgXL8zOyU1UUI9L",
+                        "mimeType": "image/jpeg",
+                        "size": "1968587"
+                      },
+                      {
+                        "name": "IMG_20260519_131736783.jpg",
+                        "type": "file",
+                        "id": "1O5VwOdcJx3a5HLiXMjOc1dsP9eY_PNtP",
+                        "mimeType": "image/jpeg",
+                        "size": "2246563"
+                      },
+                      {
+                        "name": "IMG_20260519_134715259.jpg",
+                        "type": "file",
+                        "id": "1t6ieTKTZD2jWrj2pK3k68VM37xVl8FZa",
+                        "mimeType": "image/jpeg",
+                        "size": "2069928"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "CUADERNO_DE_TERMO_TARAZONA.pdf",
+        "type": "file",
+        "id": "1ChCZM-EQ1mrXhZW6j9jklhTuHp2SGZV8",
+        "mimeType": "application/pdf",
+        "size": "7624163"
+      },
+      {
+        "name": "CUADERNO_TERMODINÁMICA_Chafloque_24-2_.pdf",
+        "type": "file",
+        "id": "1wIWpme7a88wlRnJVzgYd4wVbxGyuDg3D",
+        "mimeType": "application/pdf",
+        "size": "12678637"
+      },
+      {
+        "name": "TEORÍA",
+        "type": "folder",
+        "id": "1Kw_7jIib0zGG26s3d_40EO8bCMw8Jf3g",
+        "children": [
+          {
+            "name": "Tarazona",
+            "type": "folder",
+            "id": "1l7I61pdwBxiY4addEYfCspa9Ayw9MXQU",
+            "children": [
+              {
+                "name": "WORD",
+                "type": "folder",
+                "id": "1pMAV2Xm6NkZxrMWUMFnG4gJTiIXriw99",
+                "children": [
+                  {
+                    "name": "2DA_Ley_termodinámica.docx",
+                    "type": "file",
+                    "id": "1kJfJrGCPisn0rsbBNcmq09YtW7UgpTUd",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "5813210"
+                  },
+                  {
+                    "name": "COP.pdf",
+                    "type": "file",
+                    "id": "1Td3u8wIqrbQ0-9QmvvqBfBHAbOyi641m",
+                    "mimeType": "application/pdf",
+                    "size": "3629809"
+                  },
+                  {
+                    "name": "CLASE_1_TERMOD_CALOR_TRABAJO_1ERA_LEY.docx",
+                    "type": "file",
+                    "id": "1YcUJfHyUS0Hlm22TX8f6Fl0UTnTJj0k1",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1997699"
+                  },
+                  {
+                    "name": "ciclo_Dual_Generalizado,_Otto_y_Diesel.pdf",
+                    "type": "file",
+                    "id": "1wwPoBySGXwfFJTZWJVLhw_MIJb_63meK",
+                    "mimeType": "application/pdf",
+                    "size": "2520357"
+                  },
+                  {
+                    "name": "ciclo_Rankine_vapor.docx",
+                    "type": "file",
+                    "id": "1Bj22OWS6Q8CQsi05Xi-8C3OlUPdQFBBt",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "2512643"
+                  },
+                  {
+                    "name": "C1_CICLO_COMBINADO_TERMODINAM.docx",
+                    "type": "file",
+                    "id": "1L7dc8gLuwQJwpvaBINW2Rn47AnqB90bZ",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "4803057"
+                  },
+                  {
+                    "name": "C2_CICLO_RANKINE_DE_VAPOR_TERMODN.docx",
+                    "type": "file",
+                    "id": "1-fdg20BdcYqaSpxO-vRjaC1Ncv51X4ze",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "3366645"
+                  },
+                  {
+                    "name": "111_clase_termod_planta_gas_regenertivo_(1).docx",
+                    "type": "file",
+                    "id": "13_7UGPOQq299bRWyCdc9uB1-EaAauVe9",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "5612093"
+                  },
+                  {
+                    "name": "EFICIENCIA_ADIABATICA_COMPRESOR_TURBINA_GAS_TERMODINAM.docx",
+                    "type": "file",
+                    "id": "17WNv1E3B6xbFv5pM748ufw9D4UgXcokb",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1848677"
+                  },
+                  {
+                    "name": "clase_termod_planta_gas_regenertivo.docx",
+                    "type": "file",
+                    "id": "1Op5MjhMKIaxaIbMTNWGjYwMaJ3YO6R8c",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "5253686"
+                  },
+                  {
+                    "name": "CICLO_JOULE_BRAYTON_CENTRAL_A_GAS.docx",
+                    "type": "file",
+                    "id": "1SYw3PYHJi3h11M5xMMPIuV33M00r1mV3",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1611668"
+                  },
+                  {
+                    "name": "aplicacion_ciclo_Joule_Brayton.docx",
+                    "type": "file",
+                    "id": "17OApUpH4EGOmjEmxnbBD4AbKAt2qQNSG",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "526878"
+                  },
+                  {
+                    "name": "clase_NOV_20_24_termod_planta_gas_brayton.docx",
+                    "type": "file",
+                    "id": "1LYSeYinYTyoOZapXZDVp1wEQI8u6z0fu",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "5253903"
+                  },
+                  {
+                    "name": "1ERA_LEY_TERMOD_APLICADO_TURB_VAPOR_Y_BOMBA_HIDRAULICA_1.docx",
+                    "type": "file",
+                    "id": "1H3AvNnaw2KN-nW8LEP4nQWqP3EMJcS2Y",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "607372"
+                  },
+                  {
+                    "name": "1ERA_LEY_1ER_EJERCICIO_TERMOD_1.docx",
+                    "type": "file",
+                    "id": "1norJabHZKClnByMy5bKCcOXUssCdpDOT",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "244960"
+                  },
+                  {
+                    "name": "termodin_006_fees_aplicac_.docx",
+                    "type": "file",
+                    "id": "1BKtttsapdXbk0IjEWjxjDXfmu6zPe7TW",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "2527320"
+                  },
+                  {
+                    "name": "22APLICACION1_GASES_IDEALES.docx",
+                    "type": "file",
+                    "id": "13nxXZCZ8kSkH7f0CPvj_8cn40N0uQOED",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "399916"
+                  },
+                  {
+                    "name": "gases_ideales_termodinamica.docx",
+                    "type": "file",
+                    "id": "1QvzoHr9JGgiH3wlzkx0dqn1HzhCO8kFI",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1338955"
+                  },
+                  {
+                    "name": "EJERCICIO_PRIMERA_LEY_DE_LA_TERMODINÁMICA_PARA_SISTEMAS_CERRADOS_27_08_25.docx",
+                    "type": "file",
+                    "id": "1tJSx4dWxlI9DvB9yDJjfw_XlVHIkJXYL",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "620005"
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA6.pdf",
+                "type": "file",
+                "id": "1JvP838yZt2frvW2Fzg5ynJWZthI7rKNJ",
+                "mimeType": "application/pdf",
+                "size": "2986009"
+              },
+              {
+                "name": "SEMANA3.pdf",
+                "type": "file",
+                "id": "140mlLqlZ7tgNZgycvMeLywXwqSLuy600",
+                "mimeType": "application/pdf",
+                "size": "2180376"
+              },
+              {
+                "name": "SEMANA4.pdf",
+                "type": "file",
+                "id": "1wjkNVqBNDPxFs--QytQtOtq8cDcbuCZr",
+                "mimeType": "application/pdf",
+                "size": "4046788"
+              },
+              {
+                "name": "SEMANA2.pdf",
+                "type": "file",
+                "id": "1413_2cxLHxDl-rvGnm9xWhOQ-yO7Y1Me",
+                "mimeType": "application/pdf",
+                "size": "2121403"
+              },
+              {
+                "name": "SEMANA11.pdf",
+                "type": "file",
+                "id": "1T4TeaDK2z0g_Mv51Xg4jsQ2vNJ3cqlYD",
+                "mimeType": "application/pdf",
+                "size": "4094227"
+              },
+              {
+                "name": "SEMANA9.pdf",
+                "type": "file",
+                "id": "1VTykGwopbQdI6I2yY4yq4hsaj_DR_0Np",
+                "mimeType": "application/pdf",
+                "size": "575592"
+              },
+              {
+                "name": "SEMANA12.pdf",
+                "type": "file",
+                "id": "1tfvWtDgD96IKZTLlQUa0LetBNjqkSLmR",
+                "mimeType": "application/pdf",
+                "size": "2676340"
+              },
+              {
+                "name": "SEMANA5.pdf",
+                "type": "file",
+                "id": "1jsxgpjCjZUEzBPzWlfedAeax_X9RVKWV",
+                "mimeType": "application/pdf",
+                "size": "1887631"
+              },
+              {
+                "name": "SEMANA15.pdf",
+                "type": "file",
+                "id": "1gNqx-_uQ-26VLkpLIhXaSL-9JqGHwOGm",
+                "mimeType": "application/pdf",
+                "size": "941838"
+              },
+              {
+                "name": "SEMANA8.pdf",
+                "type": "file",
+                "id": "1k6KbxEOGWchyqlflEPI2j8fH2r5Cx5W2",
+                "mimeType": "application/pdf",
+                "size": "1393349"
+              },
+              {
+                "name": "SEMANA7.pdf",
+                "type": "file",
+                "id": "1IfXvdDqySumK_EvJT0x39TDV12OSGL7l",
+                "mimeType": "application/pdf",
+                "size": "437359"
+              },
+              {
+                "name": "SEMANA10.pdf",
+                "type": "file",
+                "id": "1LV28MXrBCoEVeR-3b1HCjQI6WcnJXPBl",
+                "mimeType": "application/pdf",
+                "size": "564717"
+              },
+              {
+                "name": "SEMANA1.pdf",
+                "type": "file",
+                "id": "1o8uXszrv3bPOQLOl6qsZb9sVD14JEQs7",
+                "mimeType": "application/pdf",
+                "size": "4406298"
+              },
+              {
+                "name": "SEMANA14.pdf",
+                "type": "file",
+                "id": "1KE7E4IFfyNmzA26kBrnGbfOAlBrWMJCm",
+                "mimeType": "application/pdf",
+                "size": "474855"
+              },
+              {
+                "name": "SEMANA13.pdf",
+                "type": "file",
+                "id": "19bhSqOyVFlymZct9PKFAyiDnrWAxpd_p",
+                "mimeType": "application/pdf",
+                "size": "305406"
+              }
+            ]
+          },
+          {
+            "name": "Chafloque",
+            "type": "folder",
+            "id": "1k5SZj1grmenC6M1pCZNdFFUYEYH8dHpf",
+            "children": [
+              {
+                "name": "Ciclo_Ranklin.pptx",
+                "type": "file",
+                "id": "1s-8IulCVYxKb2MpnczS7R1lw84iX7ZmH",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "3391216"
+              },
+              {
+                "name": "CICLO_DE_OTTO.pptx",
+                "type": "file",
+                "id": "1Vn3ZTsirHDapLBdDBc3Ab0rugERiIUMx",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "5223018"
+              },
+              {
+                "name": "CICLO_BRAYTON.pptx",
+                "type": "file",
+                "id": "1VqzGdaPfSEPNs22ejS7rVD-Y_s3GtcFt",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "1198219"
+              },
+              {
+                "name": "TERMODINAMICA_2020_B.pptx",
+                "type": "file",
+                "id": "1yA2zc6VTOephBBt74wE6nX5cYvJ7MWqi",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "6528881"
+              },
+              {
+                "name": "REFRIGERACIÓN.pptx",
+                "type": "file",
+                "id": "1fB1QU_wdxHZmoERQ62GpBH6MB5gDAkMN",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "1576203"
+              },
+              {
+                "name": "1RA_CLASE.pptx",
+                "type": "file",
+                "id": "1dKa8A0hBS1Erk8YxXP0XX4-1RkMnEzON",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "4730008"
+              },
+              {
+                "name": "CALENTADORES.pptx",
+                "type": "file",
+                "id": "1rkAe4cjzoa4XrnwTl_HP9XlLBM5dZJCm",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "1570166"
+              },
+              {
+                "name": "Carnot_y_Segunda_ley_de_la_termodinámica.pptx",
+                "type": "file",
+                "id": "1wS8x7Jl7vDDzb8JcCFjVer5ZilkbYm9Z",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "1879722"
+              },
+              {
+                "name": "Flujo_de_Fluidos.pptx",
+                "type": "file",
+                "id": "1ARdpeOx8dcJoSZYrdg0CGBN2WqYz8j4x",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "8962663"
+              },
+              {
+                "name": "Ciclo_Ranklin-A.pptx",
+                "type": "file",
+                "id": "19tIyokWqQHy5IOPGBLGy09jYcdbFhRsw",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "3641194"
+              },
+              {
+                "name": "Ciclo_con_eficiencia.pptx",
+                "type": "file",
+                "id": "11h3t5LI9KqGsmxgaBWTcYNNONIK99qbq",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "370241"
+              },
+              {
+                "name": "Seminario_Termodinamica_2023.pptx",
+                "type": "file",
+                "id": "1fglEFBi0dZnwEyTQi7oBMVFtB8Vgmavn",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "1463127"
+              },
+              {
+                "name": "TERMODINAMICA_2020_A.pptx",
+                "type": "file",
+                "id": "1TR1bwiE9axYrycDXB6EyjlSGi2TcBLBa",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "4730008"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Termodinámica_Prof._Benites.pdf",
+        "type": "file",
+        "id": "1XziqwCpXBZ37fmGrGcya95pIUmWjztk-",
+        "mimeType": "application/pdf",
+        "size": "14723863"
+      },
+      {
+        "name": "Libro_de_Matias_Termodinamica.pdf",
+        "type": "file",
+        "id": "1ejLiLF8XOT_W-0qol0xEAalFuHWUhd7O",
+        "mimeType": "application/pdf",
+        "size": "37576178"
+      },
+      {
+        "name": "Planchas",
+        "type": "folder",
+        "id": "1btEgEOVhnAL2bvx0MzWEdW7lYubgOJJn",
+        "children": [
+          {
+            "name": "Tarazona",
+            "type": "folder",
+            "id": "1VTG4gtsWaAeZ2B313fC9F-veLPPO0PY8",
+            "children": [
+              {
+                "name": "Termo_Quispe_Extra",
+                "type": "folder",
+                "id": "19aLd-fgjnXFzswnFbJgTjUDhdewpTcI-",
+                "children": [
+                  {
+                    "name": "clase_NOV_20_24_termod_planta_gas_brayton.docx",
+                    "type": "file",
+                    "id": "1KAHyty1CCJSDGSi8SM4W953UXuUNlC1A",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "5253903"
+                  },
+                  {
+                    "name": "1ERA_LEY_TERMOD_APLICADO_TURB_VAPOR_Y_BOMBA_HIDRAULICA_1.docx",
+                    "type": "file",
+                    "id": "1puyqr976AEhTvKgugsJ622XD_VxS_lJ4",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "607372"
+                  },
+                  {
+                    "name": "TERMODINAMICA-NAKAMURA.pdf",
+                    "type": "file",
+                    "id": "1tfMzYf-ayoDqxPxnY6IkKJvv4We6Ew-i",
+                    "mimeType": "application/pdf",
+                    "size": "39837576"
+                  },
+                  {
+                    "name": "2_PC_TERMODINAMICA_OCT_2024.pdf",
+                    "type": "file",
+                    "id": "1IoyvdrpaTXdKYkMRh6KeQ-IA1z6bl-Q7",
+                    "mimeType": "application/pdf",
+                    "size": "457628"
+                  },
+                  {
+                    "name": "2_PC_TERMODINAMICA_OCT_2024.docx",
+                    "type": "file",
+                    "id": "1TRdjYdCZeFDhd0IGrVRx0c7kLRATOtJu",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "474521"
+                  },
+                  {
+                    "name": "1ERA_PC_TERMODINAMICA_U.pdf",
+                    "type": "file",
+                    "id": "1Lk_CYHP768JHuNUvAKlY6GNF1GjWHMrI",
+                    "mimeType": "application/pdf",
+                    "size": "789944"
+                  },
+                  {
+                    "name": "3ERA_PC_1_TERMODINAMICA_DIC_2022.pdf",
+                    "type": "file",
+                    "id": "1rdlED5tUUkNhLB1Knw5J2AachfPHzeg_",
+                    "mimeType": "application/pdf",
+                    "size": "38966"
+                  },
+                  {
+                    "name": "PC1_y_PC2-Termodinámica_(U)_20-1_(1).pdf",
+                    "type": "file",
+                    "id": "1C_ZdR661YzRE3XBR4KhRvVrthf6qhr8G",
+                    "mimeType": "application/pdf",
+                    "size": "508089"
+                  },
+                  {
+                    "name": "PC1_y_PC2-Termodinámica_(U)_20-1.pdf",
+                    "type": "file",
+                    "id": "1lmJWCvzzw1uzqJDnXXA-Vzsa8KSwBx1f",
+                    "mimeType": "application/pdf",
+                    "size": "508089"
+                  },
+                  {
+                    "name": "Examen_parcial_termodinámica_V.pdf",
+                    "type": "file",
+                    "id": "1OCBMfQam3fUmO6YC7XGR8StLUu1wcaZz",
+                    "mimeType": "application/pdf",
+                    "size": "287857"
+                  },
+                  {
+                    "name": "examen_final_termodinamica_04_08_2022_(1).docx",
+                    "type": "file",
+                    "id": "1c0WCYsvEy_Pbz67K3Hq0LziEj7WKy_KU",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "739407"
+                  },
+                  {
+                    "name": "A_SOLUCIONARIO_EX_FINAL_TERMO.docx",
+                    "type": "file",
+                    "id": "10N538xWFx0WwJlAUgbNOO3IknCHBRfHe",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "2645565"
+                  },
+                  {
+                    "name": "1EXAMEN_FINAL_10.12.24_TERMODINAMICA_(1).docx",
+                    "type": "file",
+                    "id": "1MNQhTEuKpmkoKmnExUdqN3r7U73CB9j8",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "33752"
+                  },
+                  {
+                    "name": "SOLUCIONARIO_EX_FINAL_TERMODINAM_AGOSTO_2022_(1).docx",
+                    "type": "file",
+                    "id": "1YnZZ5aCDQc9HGCao1nHH05ejDKqRmNIL",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1097308"
+                  },
+                  {
+                    "name": "1EXAMEN_FINAL_10.12.24_TERMODINAMICA.docx",
+                    "type": "file",
+                    "id": "1HChtyCUVgmRPKx8x7bDnKxld4ahMvA7i",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "33752"
+                  },
+                  {
+                    "name": "AB_SOLUCIONARIO_TERMODINAMICA.docx",
+                    "type": "file",
+                    "id": "1kFDxKmd7BfUOgAiEs8ZAgzYI5bHomB2R",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "2078377"
+                  },
+                  {
+                    "name": "solucionario_termodinamica_23_oct_2024.pdf",
+                    "type": "file",
+                    "id": "11ULtWZbzQtCfPqTSZtbHx64vD35zBgOg",
+                    "mimeType": "application/pdf",
+                    "size": "589805"
+                  },
+                  {
+                    "name": "AA_SOLUC_termodinamica.docx",
+                    "type": "file",
+                    "id": "1FNdYL8uy1gg2NdVWeeT1I_j5DynrypUm",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1878860"
+                  },
+                  {
+                    "name": "01_SOLUCIONARIO_EXAMEN_PARCIAL_TERMODINAMICA_MARTES_07_MAYO_2024.pdf",
+                    "type": "file",
+                    "id": "1hS3RPSFL7l0-qOMrPI7J22Xd2HD4vtgj",
+                    "mimeType": "application/pdf",
+                    "size": "508463"
+                  },
+                  {
+                    "name": "Tablas_Termo.pdf",
+                    "type": "file",
+                    "id": "1LtaD74vbDLykBJTMFuSCUleDh3nBxTt_",
+                    "mimeType": "application/pdf",
+                    "size": "877896"
+                  },
+                  {
+                    "name": "termodin_006_fees_aplicac_.docx",
+                    "type": "file",
+                    "id": "1WFC7nXKMSfS2MsugYpXOPuNqy_eQUr5S",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "2527320"
+                  },
+                  {
+                    "name": "SILABO_CURSO_TÉRMODINAMIOCA_(1).pptx",
+                    "type": "file",
+                    "id": "1z1cuTT3MouHeHzYtdfFlaGXhoIIKWT80",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "178023"
+                  },
+                  {
+                    "name": "1ERA_LEY_1ER_EJERCICIO_TERMOD_1.docx",
+                    "type": "file",
+                    "id": "1y-1fETH3gkjwpssTNgxNnM9uXMqp5WLr",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "244960"
+                  },
+                  {
+                    "name": "2PC_TERMODINAMICA_2021-2.docx",
+                    "type": "file",
+                    "id": "1tv5t8m7Ili2iYH8ITeINeDXJTshSWd1Q",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1310777"
+                  },
+                  {
+                    "name": "01111_SOLUCIONARIO_EX_PARCIAL_TERMO_U.docx",
+                    "type": "file",
+                    "id": "1fcNaLuPxE-kvfNlFUFFAbtz5U6yjqrph",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "2071234"
+                  },
+                  {
+                    "name": "01111_SOLUCIONARIO_EX_PARCIAL_TERMO_U_(1).docx",
+                    "type": "file",
+                    "id": "1rVgWWfXzvskxIz6S0g2bFDfplKYIumj2",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "2071234"
+                  },
+                  {
+                    "name": "1ERA_PRACTICA_CALIF_TERMODINAM_ABRIL_2021.docx",
+                    "type": "file",
+                    "id": "12X_qAXszh3Rolu_BqZq7zSWu0oOvYh0L",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "787695"
+                  },
+                  {
+                    "name": "1era_PC_TERMODINA_VIERNES_01_10_2021.pdf",
+                    "type": "file",
+                    "id": "1AO7yJQxd8XgsViPtc22emviRcmLpad0Z",
+                    "mimeType": "application/pdf",
+                    "size": "572652"
+                  },
+                  {
+                    "name": "1era_PC_TERMODINA_VIERNES_01_10_2021_(1).pdf",
+                    "type": "file",
+                    "id": "1qqpb4RfMB7cVue_GpQnAiPHLBe7vx9bF",
+                    "mimeType": "application/pdf",
+                    "size": "572652"
+                  },
+                  {
+                    "name": "CUADERNO_DE_TERMO_TARAZONA.pdf",
+                    "type": "file",
+                    "id": "1LDoSRJ6vODlwWiPTVlinlvBg6Xw8fr1u",
+                    "mimeType": "application/pdf",
+                    "size": "7624163"
+                  }
+                ]
+              },
+              {
+                "name": "Termodinámica",
+                "type": "folder",
+                "id": "1YDJNRYSeIq0G9SWUi9P8bzPchWnQmNXJ",
+                "children": [
+                  {
+                    "name": "practica_dirigida_termodinamica.docx",
+                    "type": "file",
+                    "id": "1jwmgtM15UD9Y_Vg_hviitqVJkdwhSFpv",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "11366052"
+                  },
+                  {
+                    "name": "SEMANA10.pptx",
+                    "type": "file",
+                    "id": "1nhy8BpXz9qrogvEVBy77qH5wEv3M0JHp",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "443523"
+                  },
+                  {
+                    "name": "SEMANA11.pptx",
+                    "type": "file",
+                    "id": "14oVFpPwgzs9WVYrxoWrFlDm4EneM3gBv",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "4537766"
+                  },
+                  {
+                    "name": "SEMANA12.pptx",
+                    "type": "file",
+                    "id": "1LflmcvEXfS7YHkhYqL6Co0ayByuxOGdO",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "4029477"
+                  },
+                  {
+                    "name": "WhatsApp_Image_2025-11-12_at_8.44.14_AM_3.jpeg",
+                    "type": "file",
+                    "id": "1unSFjQVO7gnGDfTa5Lis0CpiL-evHXEQ",
+                    "mimeType": "image/jpeg",
+                    "size": "272271"
+                  },
+                  {
+                    "name": "WhatsApp_Image_2025-11-12_at_8.44.13_AM_2.jpeg",
+                    "type": "file",
+                    "id": "1CjFLkGxuwdG0IzTeQ3xEWf2G_1598Nsy",
+                    "mimeType": "image/jpeg",
+                    "size": "315829"
+                  },
+                  {
+                    "name": "WhatsApp_Image_2025-11-12_at_8.44.13_AM.jpeg",
+                    "type": "file",
+                    "id": "1DM_OZ7CnD6zLlHWuodRFQTRzv6JlPXbX",
+                    "mimeType": "image/jpeg",
+                    "size": "262049"
+                  },
+                  {
+                    "name": "EJERCICIOS_RESUELTOS.pdf",
+                    "type": "file",
+                    "id": "1ZKctuSoxxKpiaO6GslzIadH0Dtns3tUz",
+                    "mimeType": "application/pdf",
+                    "size": "7596985"
+                  },
+                  {
+                    "name": "SEMANA3.pptx",
+                    "type": "file",
+                    "id": "185lPCtnT9U41wTzrAbqbz87tiaJTufPg",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "3482180"
+                  },
+                  {
+                    "name": "SEMANA2.pptx",
+                    "type": "file",
+                    "id": "1WNjb_4cBbRCRO4P7ikc5RbPIGSPIeRZ4",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "3790673"
+                  },
+                  {
+                    "name": "SEMANA1.pptx",
+                    "type": "file",
+                    "id": "17gyRkajGBu-Z_HgindfDnWBP48QHqg_X",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "4741985"
+                  }
+                ]
+              },
+              {
+                "name": "ES",
+                "type": "folder",
+                "id": "1LQxxeSFHsAjJyPY60-4B0OvxLKqn3HGt",
+                "children": [
+                  {
+                    "name": "EXAMEN_SUSTITUTORIO_21_2_Tremo_tara.pdf",
+                    "type": "file",
+                    "id": "11f0aEgSqAa4Wo9yDIF8ctF7zCNCIiGvn",
+                    "mimeType": "application/pdf",
+                    "size": "399213"
+                  },
+                  {
+                    "name": "SUSTI_2026-1_2.jpg",
+                    "type": "file",
+                    "id": "1j0VRgGRQ1kNn1-J1FZYvRJrs-pmtgScP",
+                    "mimeType": "image/jpeg",
+                    "size": "2589336"
+                  },
+                  {
+                    "name": "SUSTI_2026-1_1.jpg",
+                    "type": "file",
+                    "id": "13w2GjvZIZIfOBCFrT05a99S2Um2rGgyT",
+                    "mimeType": "image/jpeg",
+                    "size": "3009583"
+                  },
+                  {
+                    "name": "EXAMEN_SUSTITUTORIO_TERMOD_ENERO_2022_(1).pdf",
+                    "type": "file",
+                    "id": "11D2wQGphuW5zuUKcnvsXvPjAt6-Vp_4t",
+                    "mimeType": "application/pdf",
+                    "size": "399213"
+                  },
+                  {
+                    "name": "ES_2020_TARAZONA2.jpg",
+                    "type": "file",
+                    "id": "1L8PMMsXkllFiqT216fA3DPLKcTT48Kav",
+                    "mimeType": "image/jpeg",
+                    "size": "58536"
+                  },
+                  {
+                    "name": "ES_2020_TARAZONA3.jpg",
+                    "type": "file",
+                    "id": "1vmacJ6gjsfeSrZ_FvqEX0b0jd5hm9nqH",
+                    "mimeType": "image/jpeg",
+                    "size": "53229"
+                  },
+                  {
+                    "name": "susti_22-2.docx",
+                    "type": "file",
+                    "id": "1cxk4onwwo40HrL-gripy7yFsONo-N_VU",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "355411"
+                  },
+                  {
+                    "name": "ES_2020_TARAZONA.jpg",
+                    "type": "file",
+                    "id": "1Or6mfj4KiK3z-BtW2l-wOzA8htCsGrfr",
+                    "mimeType": "image/jpeg",
+                    "size": "45424"
+                  },
+                  {
+                    "name": "ES_24_I_TARAZONA.jpg",
+                    "type": "file",
+                    "id": "1pQtz9PU3L7XHd0U1DR0wtzlgBkChiqBc",
+                    "mimeType": "image/jpeg",
+                    "size": "46184"
+                  },
+                  {
+                    "name": "EXAMEN_SUSTITUTORIO_TERMOD_ENERO_2022.pdf",
+                    "type": "file",
+                    "id": "11XdBNM1vLSaCvDUjoo_K5Alk6-vBY5K5",
+                    "mimeType": "application/pdf",
+                    "size": "399213"
+                  }
+                ]
+              },
+              {
+                "name": "EF",
+                "type": "folder",
+                "id": "1dCXleluC_dXK2dRqEI5fFnRP4_Vw9UcS",
+                "children": [
+                  {
+                    "name": "2_EXAMEN_FINAL_TERMODINÁMICA_TE_401_U.pdf",
+                    "type": "file",
+                    "id": "1irjiyN23MBgeGotFKwnpoIk6UglweNFb",
+                    "mimeType": "application/pdf",
+                    "size": "110586"
+                  },
+                  {
+                    "name": "1EXAMEN_FINAL_10.12.24_TERMODINAMICA_(1).docx.pdf",
+                    "type": "file",
+                    "id": "1hSCey271rfWUezvN6d6947SbljoZNoBB",
+                    "mimeType": "application/pdf",
+                    "size": "81706"
+                  },
+                  {
+                    "name": "FINAL-2026-1.pdf",
+                    "type": "file",
+                    "id": "10SLfoaZpWbSlxlyoX-t2KITngECH9asH",
+                    "mimeType": "application/pdf",
+                    "size": "196535"
+                  },
+                  {
+                    "name": "EF_TARAZONA_22_3.pdf",
+                    "type": "file",
+                    "id": "1NVa8-LGNHjPQQbP52T47JeeCk5EvD1pI",
+                    "mimeType": "application/pdf",
+                    "size": "360388"
+                  },
+                  {
+                    "name": "EF_24_2.pdf",
+                    "type": "file",
+                    "id": "1uTq_f2D1LVXMe2FklrccwNXracy3SUpS",
+                    "mimeType": "application/pdf",
+                    "size": "72621"
+                  },
+                  {
+                    "name": "EF_23_1.pdf",
+                    "type": "file",
+                    "id": "1hixBRH5DcvMNslVV9PedQR3a-y23mcnc",
+                    "mimeType": "application/pdf",
+                    "size": "349136"
+                  },
+                  {
+                    "name": "EF_2021_2.pdf",
+                    "type": "file",
+                    "id": "1iV7N3oddvyR64Pico6N__WtfuyisQ2jl",
+                    "mimeType": "application/pdf",
+                    "size": "707708"
+                  },
+                  {
+                    "name": "EX_FINAL_TERMODINAMICA_26_02_2021.pdf",
+                    "type": "file",
+                    "id": "1gYAdiK6zyJdOCQDW5mB5zTZVkzmF5h4L",
+                    "mimeType": "application/pdf",
+                    "size": "729196"
+                  },
+                  {
+                    "name": "examen_final_termodinamica_04_08_2022_(1).pdf",
+                    "type": "file",
+                    "id": "1OOJL1vc_T2x-n2KNPkFWalp-haVknNls",
+                    "mimeType": "application/pdf",
+                    "size": "581242"
+                  },
+                  {
+                    "name": "EF_25_1.pdf",
+                    "type": "file",
+                    "id": "1S5AuJXatIuXj0v1VKLrHqDcf5lDvxHTH",
+                    "mimeType": "application/pdf",
+                    "size": "103001"
+                  }
+                ]
+              },
+              {
+                "name": "PC4",
+                "type": "folder",
+                "id": "1EIS_DlNCrvC1XMRQsr9NqI5iCaL5mZWr",
+                "children": [
+                  {
+                    "name": "PC4_20261.pdf",
+                    "type": "file",
+                    "id": "1sbXhUtVFU0DrQqYLHokQQaBhwhaNFtLn",
+                    "mimeType": "application/pdf",
+                    "size": "379623"
+                  },
+                  {
+                    "name": "PC4_-_Termo_-_Tarazona_-_2025-2.pdf",
+                    "type": "file",
+                    "id": "1hesEMjJHBG9CT8-F3nlktJhtBoVCVWyV",
+                    "mimeType": "application/pdf",
+                    "size": "216644"
+                  },
+                  {
+                    "name": "pc4_24_1.pdf",
+                    "type": "file",
+                    "id": "1FvhJYWAyN6XuLBqMjRvEV4xPBM0Seq0O",
+                    "mimeType": "application/pdf",
+                    "size": "145714"
+                  },
+                  {
+                    "name": "PC4_23_-_I_TARAZONA.pdf",
+                    "type": "file",
+                    "id": "1F1Ii6yqz-tpvC8wxgdTzAhuaEFD9qwIa",
+                    "mimeType": "application/pdf",
+                    "size": "43501"
+                  },
+                  {
+                    "name": "PC4_TARAZONA_22-3.pdf",
+                    "type": "file",
+                    "id": "1JPaweeQIXBfgQbTxGR-SOJaImajtz8ls",
+                    "mimeType": "application/pdf",
+                    "size": "284554"
+                  }
+                ]
+              },
+              {
+                "name": "PC3",
+                "type": "folder",
+                "id": "1QwsiHkDsQFRMUcBYoZYSyvewPtRP4t7Z",
+                "children": [
+                  {
+                    "name": "PC3_20261_merged.pdf",
+                    "type": "file",
+                    "id": "1wfalknNGdDAyDHFCJnpM4oS32y_GHH2C",
+                    "mimeType": "application/pdf",
+                    "size": "26504384"
+                  },
+                  {
+                    "name": "PC3_TARAZONA_22-3.pdf",
+                    "type": "file",
+                    "id": "10BGeKRvTWZuNl3Tm3VYenrzYn1NFxcXA",
+                    "mimeType": "application/pdf",
+                    "size": "324297"
+                  },
+                  {
+                    "name": "PC3_24_2.pdf",
+                    "type": "file",
+                    "id": "1Yr1l2wzoDADwuGQR1NA2lgmG-ReqP1T3",
+                    "mimeType": "application/pdf",
+                    "size": "153596"
+                  },
+                  {
+                    "name": "PC3_TARAZONA_25_I.pdf",
+                    "type": "file",
+                    "id": "12JDxaP7hUfEgHZz7ywK6mIwkJ9m6f1vp",
+                    "mimeType": "application/pdf",
+                    "size": "225578"
+                  },
+                  {
+                    "name": "3ERA_PC_1_TERMODINAMICA_DIC_2022.pdf",
+                    "type": "file",
+                    "id": "1hlaNh8zoRdJ4HjswHiHk7kkJr8eXuofB",
+                    "mimeType": "application/pdf",
+                    "size": "38966"
+                  }
+                ]
+              },
+              {
+                "name": "PC2",
+                "type": "folder",
+                "id": "1kfyQkXt0i5HO2CdeFz87jnhGusPojYy8",
+                "children": [
+                  {
+                    "name": "PC2_26_1",
+                    "type": "file",
+                    "id": "1UTnBMh6PlHFeTH0FakvH5VRVNPOPTZGF",
+                    "mimeType": "image/jpeg",
+                    "size": "145816"
+                  },
+                  {
+                    "name": "2PC_TERMODINAMICA_2021-2.docx.pdf",
+                    "type": "file",
+                    "id": "1sOtNhq-oTjsizuEO8AmkzpIYcEYYFcG9",
+                    "mimeType": "application/pdf",
+                    "size": "1307400"
+                  },
+                  {
+                    "name": "PC2_TARAZONA_25_I.pdf",
+                    "type": "file",
+                    "id": "12_dtDxM6GdNZPy_wT5ReENcHmJAwDZIj",
+                    "mimeType": "application/pdf",
+                    "size": "991258"
+                  },
+                  {
+                    "name": "PC2_22-3.pdf",
+                    "type": "file",
+                    "id": "1SEXL5ID-3Nzn1gtxc6EON6G6oYq8coZk",
+                    "mimeType": "application/pdf",
+                    "size": "268072"
+                  },
+                  {
+                    "name": "PC2_termo_20-1.pdf",
+                    "type": "file",
+                    "id": "17sSE4KRq1bDObO2VkEL2AlAyK3aGNP5J",
+                    "mimeType": "application/pdf",
+                    "size": "210456"
+                  },
+                  {
+                    "name": "PC2_25-3_tara.pdf",
+                    "type": "file",
+                    "id": "1TXCsdwERLpUfUb44-RoCvM3KRKBmkwTz",
+                    "mimeType": "application/pdf",
+                    "size": "485452"
+                  }
+                ]
+              },
+              {
+                "name": "PC1",
+                "type": "folder",
+                "id": "1n4X1wcAqtxRgRVPUWOIXjSF92fc1KVSY",
+                "children": [
+                  {
+                    "name": "26-1.JPG",
+                    "type": "file",
+                    "id": "1OwBU7O2PtTN9cQKsI0hAQ8n3ACASl4H2",
+                    "mimeType": "image/jpeg",
+                    "size": "502812"
+                  },
+                  {
+                    "name": "PC1_TARAZONA_22-3.jpg",
+                    "type": "file",
+                    "id": "1KPYT0Q3barhP7e21HPofVM323odVuMWr",
+                    "mimeType": "image/jpeg",
+                    "size": "57922"
+                  },
+                  {
+                    "name": "TERMO,_PC1,_20-1-U,_TARAZONA.pdf",
+                    "type": "file",
+                    "id": "1Nn3R62ntDmhzkJKLsXKwqCbBZKB-L3nv",
+                    "mimeType": "application/pdf",
+                    "size": "298067"
+                  },
+                  {
+                    "name": "TERMO,_PC1,_22-1,_TARAZONA.pdf",
+                    "type": "file",
+                    "id": "1yir0PoQ4IE3s-OXW1loObXRQjgr97I7Z",
+                    "mimeType": "application/pdf",
+                    "size": "558231"
+                  },
+                  {
+                    "name": "TERMO,_PC1,_23-2,_TARAZONA.pdf",
+                    "type": "file",
+                    "id": "1qEKrM01QYguqazdiQ7eTwQWsVIqMFE9R",
+                    "mimeType": "application/pdf",
+                    "size": "43679"
+                  },
+                  {
+                    "name": "TERMO,_PC1,_TARAZONA.pdf",
+                    "type": "file",
+                    "id": "1SeDZs4-JB6NCJuxerdWPm6ngN5owUNgC",
+                    "mimeType": "application/pdf",
+                    "size": "158837"
+                  },
+                  {
+                    "name": "TERMO,_PC1,_21-1,_TARAZONA.pdf",
+                    "type": "file",
+                    "id": "1n8cnExeLDRSsx9m493t1X-1LuiBHgrgo",
+                    "mimeType": "application/pdf",
+                    "size": "569193"
+                  },
+                  {
+                    "name": "TERMO,_PC1,_22-2,_TARAZONA.pdf",
+                    "type": "file",
+                    "id": "1cslgUh0EuMsf_1ES_se0QCUpb987ZL1z",
+                    "mimeType": "application/pdf",
+                    "size": "336992"
+                  },
+                  {
+                    "name": "TERMO,_PC1,_21-2,_TARAZONA.pdf",
+                    "type": "file",
+                    "id": "1RUMQvlxWUjDkuN7XzKk0zYcwLMLbtqi9",
+                    "mimeType": "application/pdf",
+                    "size": "572652"
+                  },
+                  {
+                    "name": "TERMO,_PC1,_20-1-V,_TARAZONA.pdf",
+                    "type": "file",
+                    "id": "1iqAEcp_36hIjg89JNgAcg5tdjNBDNgoA",
+                    "mimeType": "application/pdf",
+                    "size": "1634159"
+                  },
+                  {
+                    "name": "PC1_25-III_chaflo-tarazona.pdf",
+                    "type": "file",
+                    "id": "1OthsLxhfAycebt5do1YvJnsW2kPw2HFe",
+                    "mimeType": "application/pdf",
+                    "size": "232017"
+                  }
+                ]
+              },
+              {
+                "name": "EP",
+                "type": "folder",
+                "id": "1AY349q7VqRJyrn1tJlDCB2YItqwvH5Yn",
+                "children": [
+                  {
+                    "name": "EP_22-1.pdf",
+                    "type": "file",
+                    "id": "1jAy2NXWwo2di2kDDoi7cUbiHZc-ydfeP",
+                    "mimeType": "application/pdf",
+                    "size": "159101"
+                  },
+                  {
+                    "name": "EP_seccion_v1.pdf",
+                    "type": "file",
+                    "id": "1zXEfsoLQhmkIBoulB2_5c-M6cl9fpbig",
+                    "mimeType": "application/pdf",
+                    "size": "164171"
+                  },
+                  {
+                    "name": "EP_24-1_1.pdf",
+                    "type": "file",
+                    "id": "1emJrIbYTZ0ebuFnW4NjiJg6J_w2Datnt",
+                    "mimeType": "application/pdf",
+                    "size": "158251"
+                  },
+                  {
+                    "name": "EP_23_2_parte.pdf",
+                    "type": "file",
+                    "id": "1JxWihMuNMTzVWXXMBV8Nf8bZZS3D7aup",
+                    "mimeType": "application/pdf",
+                    "size": "149381"
+                  },
+                  {
+                    "name": "1EXAMEN_PARCIAL_TERMODINAMICA_NOV_2025.pdf",
+                    "type": "file",
+                    "id": "1qcHTKDvLuhn0o4EHC77Crx2DGZF0Cx1y",
+                    "mimeType": "application/pdf",
+                    "size": "186880"
+                  },
+                  {
+                    "name": "Examen_parcial_termodinámica_V_(1).pdf",
+                    "type": "file",
+                    "id": "1JCnunkKJGQWiRpW1w64ArCA0FALkFDGK",
+                    "mimeType": "application/pdf",
+                    "size": "287857"
+                  },
+                  {
+                    "name": "EP_25_1.pdf",
+                    "type": "file",
+                    "id": "1FLI6oOZ_FubPd33iiYNOydawltCwqZuH",
+                    "mimeType": "application/pdf",
+                    "size": "172730"
+                  },
+                  {
+                    "name": "EP_24_2.pdf",
+                    "type": "file",
+                    "id": "1_nCnFuRXaKL-alqGQA7V5KBENdFr7riq",
+                    "mimeType": "application/pdf",
+                    "size": "231441"
+                  },
+                  {
+                    "name": "EP_25_3.pdf",
+                    "type": "file",
+                    "id": "1apwqd9Seeoa_zPc5NXFBbhNrHdjwKPUH",
+                    "mimeType": "application/pdf",
+                    "size": "455713"
+                  },
+                  {
+                    "name": "EP_TARAZONA_22_3.pdf",
+                    "type": "file",
+                    "id": "1oQXAxBwlJ0FcYYnDPqnXYxfDdXzXGLMQ",
+                    "mimeType": "application/pdf",
+                    "size": "165569"
+                  },
+                  {
+                    "name": "EP_22_II.pdf",
+                    "type": "file",
+                    "id": "1p1MD0Jl-PqU48Mqv-0ubSeJfIOMrbeJg",
+                    "mimeType": "application/pdf",
+                    "size": "345457"
+                  },
+                  {
+                    "name": "EP_termo_tarazona_26-1.pdf",
+                    "type": "file",
+                    "id": "1rZD4Kjln_uf90Y-WAf-kK4IpTisZbWP4",
+                    "mimeType": "application/pdf",
+                    "size": "2177793"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Chafloque",
+            "type": "folder",
+            "id": "1n_v0f4-JBXBJVajsdr6kRtyaLv_l_z7_",
+            "children": [
+              {
+                "name": "ES",
+                "type": "folder",
+                "id": "1JASYs0X-V705PEfB_3UmADlf8RgmUIns",
+                "children": [
+                  {
+                    "name": "ES_26_1_Chaf.pdf",
+                    "type": "file",
+                    "id": "1j_E-nXs_nLrH1B8d4rsJDgwVlm3UzeZk",
+                    "mimeType": "application/pdf",
+                    "size": "866248"
+                  },
+                  {
+                    "name": "23_2_chaf.jpg",
+                    "type": "file",
+                    "id": "1LGZJsUu-_P6ugiPgooWEmXjGAdOC0rb1",
+                    "mimeType": "image/jpeg",
+                    "size": "170175"
+                  },
+                  {
+                    "name": "REPASO_CHAF_TERMODINAMICA_SUSTI.pdf",
+                    "type": "file",
+                    "id": "1EsDTU5-1k5dnqRqrVqdbyekRu8_Fse1v",
+                    "mimeType": "application/pdf",
+                    "size": "2360166"
+                  },
+                  {
+                    "name": "susti_chaf.pdf",
+                    "type": "file",
+                    "id": "1bVkdne1LyAVqpDsr5MGpSWMPoacfopGB",
+                    "mimeType": "application/pdf",
+                    "size": "116993"
+                  },
+                  {
+                    "name": "susti_problema.png",
+                    "type": "file",
+                    "id": "1fTvJiRqlaAv-UhmoY50csi79tNCbYb47",
+                    "mimeType": "image/png",
+                    "size": "2649471"
+                  }
+                ]
+              },
+              {
+                "name": "PC4",
+                "type": "folder",
+                "id": "1E8fcKCpLgZIJYu3HFFpHpGGc19hX1rct",
+                "children": [
+                  {
+                    "name": "Seminario_PC4_25-III.pdf",
+                    "type": "file",
+                    "id": "1cGakEFd6U9N2gGOo-76eeLGte9X5jxii",
+                    "mimeType": "application/pdf",
+                    "size": "138959"
+                  },
+                  {
+                    "name": "4ta_dirigida_solu.pdf",
+                    "type": "file",
+                    "id": "10j6hhymPWr7h7A3zzjsYI1MxwzAVyWBW",
+                    "mimeType": "application/pdf",
+                    "size": "852932"
+                  },
+                  {
+                    "name": "23_2_w_chaf.jpg",
+                    "type": "file",
+                    "id": "1ZrOb3LoxyHcvMj3WDmhFFC8UgRQ4fiKv",
+                    "mimeType": "image/jpeg",
+                    "size": "763928"
+                  },
+                  {
+                    "name": "23_2_v_chaf.pdf",
+                    "type": "file",
+                    "id": "1NWZQMkL-eVBYYx4Hywxd7jCucI7fvnTE",
+                    "mimeType": "application/pdf",
+                    "size": "262571"
+                  }
+                ]
+              },
+              {
+                "name": "EF",
+                "type": "folder",
+                "id": "1HMH6-WQZ4fy434geexUrHWHJUj7hETzs",
+                "children": [
+                  {
+                    "name": "EF_24_o_25_V.pdf",
+                    "type": "file",
+                    "id": "1QQY-Yj0e7FiJboXkb8f505fuNttxVkWY",
+                    "mimeType": "application/pdf",
+                    "size": "660269"
+                  },
+                  {
+                    "name": "EF_24_o_25_W.pdf",
+                    "type": "file",
+                    "id": "1MdkOXJbAgC8UE6HYotOO8lOwXFe8XRfx",
+                    "mimeType": "application/pdf",
+                    "size": "806930"
+                  },
+                  {
+                    "name": "EF_25-2_V.pdf",
+                    "type": "file",
+                    "id": "1m22oB7nV8mVCaum5-HS1h1LhH1LKp0tR",
+                    "mimeType": "application/pdf",
+                    "size": "90286"
+                  },
+                  {
+                    "name": "EF_25-2_W.pdf",
+                    "type": "file",
+                    "id": "1Kkx48lOKTXimE-Qu9QkK0dQAr1578C6i",
+                    "mimeType": "application/pdf",
+                    "size": "143828"
+                  },
+                  {
+                    "name": "23_2_chaf.jpeg",
+                    "type": "file",
+                    "id": "1RdPyWeVNHF8YPlnYlg1s9Gjg3fccFBHQ",
+                    "mimeType": "image/jpeg",
+                    "size": "235910"
+                  },
+                  {
+                    "name": "final_x.pdf",
+                    "type": "file",
+                    "id": "1KmwvBi2-mbvOV2y22lW462qkFMjS9wO0",
+                    "mimeType": "application/pdf",
+                    "size": "145414"
+                  },
+                  {
+                    "name": "repaso_final.pdf",
+                    "type": "file",
+                    "id": "1VFi14AelClQr-t2OoQ4J1LrRVLSdVPMI",
+                    "mimeType": "application/pdf",
+                    "size": "5461075"
+                  },
+                  {
+                    "name": "22_1_chaf.pdf",
+                    "type": "file",
+                    "id": "1fSiTnW8bd6uhMA2PqcmCM8fvFd3XffvZ",
+                    "mimeType": "application/pdf",
+                    "size": "99579"
+                  },
+                  {
+                    "name": "Seminario_Chaf_2023-2.pdf",
+                    "type": "file",
+                    "id": "1CmL4vIzIHKbCXl4c81K_culbSOtSiLCn",
+                    "mimeType": "application/pdf",
+                    "size": "439173"
+                  },
+                  {
+                    "name": "23_1_chaf_solu.pdf",
+                    "type": "file",
+                    "id": "1xOVn8B6nt2iRXcH8Qg5vj9sMt1LymbPF",
+                    "mimeType": "application/pdf",
+                    "size": "737325"
+                  },
+                  {
+                    "name": "ProbClase3011.pdf",
+                    "type": "file",
+                    "id": "10LDG8F70Jj6nvT4PRor2PKbEKmo3DSbY",
+                    "mimeType": "application/pdf",
+                    "size": "149435"
+                  }
+                ]
+              },
+              {
+                "name": "EP",
+                "type": "folder",
+                "id": "1Pw6yLlqbDlh-4xuacxDhOACsx1-4QZHb",
+                "children": [
+                  {
+                    "name": "Termo_EP_26-1.pdf",
+                    "type": "file",
+                    "id": "1Ckt7cJ7c8VbE9qnjQEPy17k8_vuF4dsc",
+                    "mimeType": "application/pdf",
+                    "size": "472836"
+                  },
+                  {
+                    "name": "Termo_EP_25-I.jpg",
+                    "type": "file",
+                    "id": "1A0GWwSmPCi0o4EYu_mofubN_umdlcnVs",
+                    "mimeType": "image/jpeg",
+                    "size": "103300"
+                  },
+                  {
+                    "name": "Termo_EP_23-II.jpg",
+                    "type": "file",
+                    "id": "1YPid7tjuOlhCj2fLLvowbRvEFD4Ygk1Y",
+                    "mimeType": "image/jpeg",
+                    "size": "92478"
+                  },
+                  {
+                    "name": "Termo_EP_22-I.jpg",
+                    "type": "file",
+                    "id": "14gStwIPljma5YEthp2UFQ4yW-xEtlTQE",
+                    "mimeType": "image/jpeg",
+                    "size": "133619"
+                  },
+                  {
+                    "name": "23_2_preg_1.pdf",
+                    "type": "file",
+                    "id": "1uTipudp99oYLzv5jcr1whxsRRsC53GlR",
+                    "mimeType": "application/pdf",
+                    "size": "1276771"
+                  },
+                  {
+                    "name": "23_2_chaf.jpeg",
+                    "type": "file",
+                    "id": "1CWHJpelGC4fzBMAtMumRXzvJvfMgg0J3",
+                    "mimeType": "image/jpeg",
+                    "size": "478646"
+                  },
+                  {
+                    "name": "20_2_chafl.pdf",
+                    "type": "file",
+                    "id": "1wUBxh1TVXB420gq_MQLfRALqpefrYKqR",
+                    "mimeType": "application/pdf",
+                    "size": "254937"
+                  },
+                  {
+                    "name": "21_1_chaf.pdf",
+                    "type": "file",
+                    "id": "1XY0UhoIPBrvgh13ruqxQUFzI-qidl1Da",
+                    "mimeType": "application/pdf",
+                    "size": "409605"
+                  },
+                  {
+                    "name": "22_1_chafl.jpg",
+                    "type": "file",
+                    "id": "1u9BKdF9TKKa9X92rJFdc_MslazX17EZH",
+                    "mimeType": "image/jpeg",
+                    "size": "131563"
+                  }
+                ]
+              },
+              {
+                "name": "PC3",
+                "type": "folder",
+                "id": "1suL0Ds82Ke27OVOLMW6kCQCWKTs-MXnW",
+                "children": [
+                  {
+                    "name": "PC3_Termodinámica_26-1_Chafloque.pdf",
+                    "type": "file",
+                    "id": "1Cr9xU4UXmKikqOv_D68bRJRnI2nopmoR",
+                    "mimeType": "application/pdf",
+                    "size": "504392"
+                  },
+                  {
+                    "name": "23-1.jpg",
+                    "type": "file",
+                    "id": "19Pn763slM6A-ddYoajcgM-JQ1sQ1JNiA",
+                    "mimeType": "image/jpeg",
+                    "size": "259716"
+                  },
+                  {
+                    "name": "23_2_V_chaf.jpg",
+                    "type": "file",
+                    "id": "142XeaMhJfDlJBXUoZ60mRNz2jzBssNRG",
+                    "mimeType": "image/jpeg",
+                    "size": "188468"
+                  },
+                  {
+                    "name": "23_2_W_chaf.jpg",
+                    "type": "file",
+                    "id": "1PQ_lT3xVhW-QFkOmp5VbUQbNp9Pn298G",
+                    "mimeType": "image/jpeg",
+                    "size": "96086"
+                  },
+                  {
+                    "name": "x.pdf",
+                    "type": "file",
+                    "id": "1tXW5Ntf-I_fFG4uZGZPdxbhvBPq7TXek",
+                    "mimeType": "application/pdf",
+                    "size": "126366"
+                  },
+                  {
+                    "name": "22_1_chaf.jpg",
+                    "type": "file",
+                    "id": "1ux0zVw66lFOfe2sIFxdJeBVhNhwoRo5o",
+                    "mimeType": "image/jpeg",
+                    "size": "140200"
+                  },
+                  {
+                    "name": "23_1_chaf.jpg",
+                    "type": "file",
+                    "id": "1g_yPb88aPNbAGhUlxu8yQ9TgFp3Zd--g",
+                    "mimeType": "image/jpeg",
+                    "size": "197211"
+                  }
+                ]
+              },
+              {
+                "name": "PC2",
+                "type": "folder",
+                "id": "1mXLsjEte6IWlraJsbNuSibcR1xIivHqk",
+                "children": [
+                  {
+                    "name": "26-1_chaf.pdf",
+                    "type": "file",
+                    "id": "1eqqMBi29uqDc28OyJRJFtgXVRdnViedR",
+                    "mimeType": "application/pdf",
+                    "size": "639352"
+                  },
+                  {
+                    "name": "25-3_Chaflo+Tara.pdf",
+                    "type": "file",
+                    "id": "1wRA136r_Ct6HrhuyWThZim3u66UHj81D",
+                    "mimeType": "application/pdf",
+                    "size": "268031"
+                  },
+                  {
+                    "name": "Ejercicios_PC2.jpg",
+                    "type": "file",
+                    "id": "1dCXeQZsaMn1qhY6-ASoqMBqzDpxX7cTG",
+                    "mimeType": "image/jpeg",
+                    "size": "277008"
+                  },
+                  {
+                    "name": "23-1.jpg",
+                    "type": "file",
+                    "id": "1Ai7y3m_Hysao2YTC5kz-5UEee1qm0Rhc",
+                    "mimeType": "image/jpeg",
+                    "size": "69356"
+                  },
+                  {
+                    "name": "22-1_pc2.pdf",
+                    "type": "file",
+                    "id": "1A-ZM1hwrk9V4jX8PyTy_hYnjulFkk7kJ",
+                    "mimeType": "application/pdf",
+                    "size": "2164275"
+                  },
+                  {
+                    "name": "23_2_W.jpg",
+                    "type": "file",
+                    "id": "1zZTd7hNdlF2XGqQrGKm5W-iP9QHlgZVt",
+                    "mimeType": "image/jpeg",
+                    "size": "210341"
+                  },
+                  {
+                    "name": "23_2_V_chaf.jpg",
+                    "type": "file",
+                    "id": "1vnC-jk3qjKOgi6NwxBw68N-N_smrQe37",
+                    "mimeType": "image/jpeg",
+                    "size": "140305"
+                  },
+                  {
+                    "name": "22_1_chaf.jpg",
+                    "type": "file",
+                    "id": "1rGDZxlLST_xhGku35wRgA-VdcE0GM54d",
+                    "mimeType": "image/jpeg",
+                    "size": "832888"
+                  },
+                  {
+                    "name": "23_1_chaf.jpg",
+                    "type": "file",
+                    "id": "1aGZayx9914fLaiOaRdBV-7yIntWEgqd7",
+                    "mimeType": "image/jpeg",
+                    "size": "84040"
+                  }
+                ]
+              },
+              {
+                "name": "PC1",
+                "type": "folder",
+                "id": "1-YOEvxtJvaB3XCJpgT9wcE0eSGTdAn5O",
+                "children": [
+                  {
+                    "name": "PC1_26-1.jpeg",
+                    "type": "file",
+                    "id": "1nyUmAXLjGCh7Es-vZYuyiH-ZlFfx-hfY",
+                    "mimeType": "image/jpeg",
+                    "size": "97758"
+                  },
+                  {
+                    "name": "PC1_24-1_chaflo.pdf",
+                    "type": "file",
+                    "id": "1rBYJH-0Cb5JUIP6nELURyMowE8oaRMdo",
+                    "mimeType": "application/pdf",
+                    "size": "5238349"
+                  },
+                  {
+                    "name": "PC1_25-1_chaflo.pdf",
+                    "type": "file",
+                    "id": "1te3cOykTqeXcwGmM1J4Aul13MFW65k5C",
+                    "mimeType": "application/pdf",
+                    "size": "6697925"
+                  },
+                  {
+                    "name": "22-1_(CON_SOLUCIÓN).pdf",
+                    "type": "file",
+                    "id": "15vffFRNQ90RBV3awtREi6f4zOsjL2fNm",
+                    "mimeType": "application/pdf",
+                    "size": "2631848"
+                  },
+                  {
+                    "name": "20-2.doc",
+                    "type": "file",
+                    "id": "1j3n-7Ia66WY2Z_bqhXi5OS2LuCH4LR1k",
+                    "mimeType": "application/msword",
+                    "size": "173056"
+                  },
+                  {
+                    "name": "22-1.docx",
+                    "type": "file",
+                    "id": "14dwmRlOfz50FQJpL4dlGxIBe31w4PsIe",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "177394"
+                  },
+                  {
+                    "name": "23-1.docx",
+                    "type": "file",
+                    "id": "1jGrlwujoHWTFtEIWHC69-xiDfDQ5ypzP",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "102471"
+                  },
+                  {
+                    "name": "23_2_dirigida.pdf",
+                    "type": "file",
+                    "id": "1ygaQdLc6qqOGhoO-TMXpdvuiHqkdLUS3",
+                    "mimeType": "application/pdf",
+                    "size": "149592"
+                  },
+                  {
+                    "name": "20_2.pdf",
+                    "type": "file",
+                    "id": "1jvainSE0lPZhPMqAzJpX08yJKZWmO_pt",
+                    "mimeType": "application/pdf",
+                    "size": "115013"
+                  },
+                  {
+                    "name": "22_1_solu.pdf",
+                    "type": "file",
+                    "id": "1lotsGoc9G1FOJ4Ozky9MPkWZ0PPC5qKC",
+                    "mimeType": "application/pdf",
+                    "size": "2631848"
+                  },
+                  {
+                    "name": "23_2_chaf.jpg",
+                    "type": "file",
+                    "id": "1C5jEZYFhayMlRVc4Y58p4LvH4686_JBP",
+                    "mimeType": "image/jpeg",
+                    "size": "95800"
+                  },
+                  {
+                    "name": "22_1_chafl.jpg",
+                    "type": "file",
+                    "id": "1puUvpRG2oX54vz72l2QA1S1box0M_Br3",
+                    "mimeType": "image/jpeg",
+                    "size": "369670"
+                  },
+                  {
+                    "name": "23_1_chaf.jpg",
+                    "type": "file",
+                    "id": "1m8i_--AsHJ_yeXICznwfFS7xXQkBwiKH",
+                    "mimeType": "image/jpeg",
+                    "size": "89527"
+                  }
+                ]
+              },
+              {
+                "name": "PE",
+                "type": "folder",
+                "id": "150YAN3vGNiIARuBrPU26Je63xYz7RcLt",
+                "children": [
+                  {
+                    "name": "PE_25-III.jpg",
+                    "type": "file",
+                    "id": "1C2ifIvZQECxcSZuqUMn7ls3D6ZfiW3Pp",
+                    "mimeType": "image/jpeg",
+                    "size": "209201"
+                  },
+                  {
+                    "name": "20-2.docx",
+                    "type": "file",
+                    "id": "16581yePWrylYJMFZjrxeO0FG2cUqrHP7",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "16430"
+                  }
+                ]
+              },
+              {
+                "name": "recopilatorio_planchas.pdf",
+                "type": "file",
+                "id": "1iENvtdufFSTqcYUSJNppHC-HdYqWAvow",
+                "mimeType": "application/pdf",
+                "size": "6056414"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "TABLAS",
+        "type": "folder",
+        "id": "1dP_fS5rVcuYJP0PHL7yrR306TNHu1RZh",
+        "children": [
+          {
+            "name": "CENGEL.pdf",
+            "type": "file",
+            "id": "1YR3Egs_5OOP_E537Priiz4cCTvu9m0Am",
+            "mimeType": "application/pdf",
+            "size": "6388365"
+          },
+          {
+            "name": "F3_Y_F4.docx",
+            "type": "file",
+            "id": "19hK2lgvEb-mnNYAeo3dENscVZQN8Li_P",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "11894299"
+          },
+          {
+            "name": "F1_Y_F2.docx",
+            "type": "file",
+            "id": "1GsuyULdXfaprR36aQWCK6BFTgfWa8dfz",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "17025715"
+          },
+          {
+            "name": "Tablas_de_vapor.pdf",
+            "type": "file",
+            "id": "15J0XoEtJfwD2X6uSPp_D2LKMIW8vlgNs",
+            "mimeType": "application/pdf",
+            "size": "6483654"
+          }
+        ]
+      },
+      {
+        "name": "Libros",
+        "type": "folder",
+        "id": "1CEdouDNVPL0PQR36m1qgu4_IvWXl6BwP",
+        "children": [
+          {
+            "name": "Termodinamica_-_Yunus_Cengel_6ta_edSoluc",
+            "type": "file",
+            "id": "1GiR_ziukGTUN_OqIKO8sVOAScksdIAvs",
+            "mimeType": "application/pdf",
+            "size": "11454894"
+          },
+          {
+            "name": "Termodinamica_-_Yunus_Cengel_6ta_edición",
+            "type": "file",
+            "id": "1Bx4f8Jv_U3TH_aJjYKYMgvTKquG14qMY",
+            "mimeType": "application/pdf",
+            "size": "15364512"
+          },
+          {
+            "name": "Termodinamica_-_Yunus_Cengel_7ma_edSoluc",
+            "type": "file",
+            "id": "15pDgB82682jpGDBLTSgJpwbCCo3dAcr0",
+            "mimeType": "application/pdf",
+            "size": "20789595"
+          },
+          {
+            "name": "Termodinamica_-_Yunus_Cengel_7ma_Edición_.pdf",
+            "type": "file",
+            "id": "1ThGCdg7TgreEQcZ22_zNpZXzh8vHOcj5",
+            "mimeType": "application/pdf",
+            "size": "28728091"
+          }
+        ]
+      },
+      {
+        "name": "silabo_termodinamica.pdf",
+        "type": "file",
+        "id": "1phwyRFWadw2ky8_cmmKvIt8oqa8LEjwB",
+        "mimeType": "application/pdf",
+        "size": "556983"
+      }
+    ]
+  }
+}

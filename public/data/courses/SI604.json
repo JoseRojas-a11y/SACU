@@ -1,0 +1,27 @@
+{
+  "course_id": "SI604",
+  "course_name": "Análisis_de_Diseño_de_Sistemas",
+  "id": "1g2fL3uDdB8hoKjKqdrZiYaEjGi0ovgBj",
+  "scanned_at": "2026-08-07T00:02:59.835126+00:00",
+  "tree": {
+    "name": "Análisis_de_Diseño_de_Sistemas",
+    "type": "folder",
+    "id": "1g2fL3uDdB8hoKjKqdrZiYaEjGi0ovgBj",
+    "children": [
+      {
+        "name": "Libros",
+        "type": "folder",
+        "id": "1o4ZkzsnzQSXD3FWmcVcgMiFXD7KSxPKG",
+        "children": [
+          {
+            "name": "Libro-Analisis_y_Diseno_de_Sistemas-Kendall_&_Kendall-2011-_8va_Ed..pdf",
+            "type": "file",
+            "id": "1LG2rVljd1xfUttjkVf6c8Pfv2hkVvkbv",
+            "mimeType": "application/pdf",
+            "size": "7451640"
+          }
+        ]
+      }
+    ]
+  }
+}

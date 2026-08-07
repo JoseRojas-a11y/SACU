@@ -1,0 +1,1826 @@
+{
+  "course_id": "TE501",
+  "course_name": "Electricidad_y_electrónica_industrial",
+  "id": "16xqCq-YTGIUgXKAOCrZaXkYfhzM_C0c3",
+  "scanned_at": "2026-08-06T23:57:18.335596+00:00",
+  "tree": {
+    "name": "Electricidad_y_electrónica_industrial",
+    "type": "folder",
+    "id": "16xqCq-YTGIUgXKAOCrZaXkYfhzM_C0c3",
+    "children": [
+      {
+        "name": "LIBROS",
+        "type": "folder",
+        "id": "1pfcLPikzOodqxFtoOYLmhuh9QJMuWIrt",
+        "children": [
+          {
+            "name": "Circuitos_eléctricos_en_parte",
+            "type": "folder",
+            "id": "12QIkxGYc44fh7K-VbgDdqu2zrT-HBehl",
+            "children": [
+              {
+                "name": "cap_16.pdf",
+                "type": "file",
+                "id": "1OpZJTXs08ALhRIyoRSt64P53Xu4r8sGJ",
+                "mimeType": "application/pdf",
+                "size": "612731"
+              },
+              {
+                "name": "cap_2.pdf",
+                "type": "file",
+                "id": "1dgRmhZ9Za5H7ZBVo8wUn6xDSNI1KvRta",
+                "mimeType": "application/pdf",
+                "size": "1572841"
+              },
+              {
+                "name": "cap_10.pdf",
+                "type": "file",
+                "id": "13fmYuKk_TBVrEBtRP2wKGG1ypIwrksoJ",
+                "mimeType": "application/pdf",
+                "size": "926109"
+              },
+              {
+                "name": "cap_7.pdf",
+                "type": "file",
+                "id": "1RWoU3HComcUEE5m9dp419MtFc3qMGzfU",
+                "mimeType": "application/pdf",
+                "size": "731612"
+              },
+              {
+                "name": "cap_8.pdf",
+                "type": "file",
+                "id": "1fWlQ8BExo9jHRAWDdlg4BIkQbG4pduna",
+                "mimeType": "application/pdf",
+                "size": "3163647"
+              },
+              {
+                "name": "cap_15.pdf",
+                "type": "file",
+                "id": "1RNwuR_UG1-N8SDCb8WOp0y9ccnAqwJSk",
+                "mimeType": "application/pdf",
+                "size": "1106406"
+              },
+              {
+                "name": "cap_1.pdf",
+                "type": "file",
+                "id": "1S4BEpb5mROORdGy-6xS4g4cWtyb5IC85",
+                "mimeType": "application/pdf",
+                "size": "962323"
+              },
+              {
+                "name": "cap_6.pdf",
+                "type": "file",
+                "id": "1Mg9UjaC2BqRnAS1upc5WBfiobLJaxL-T",
+                "mimeType": "application/pdf",
+                "size": "1718286"
+              },
+              {
+                "name": "cap_11.pdf",
+                "type": "file",
+                "id": "1QMwYaE0ixW1FPivcrUoOIPj1dTXfNkzc",
+                "mimeType": "application/pdf",
+                "size": "3660375"
+              },
+              {
+                "name": "cap_17.pdf",
+                "type": "file",
+                "id": "1JjSl3MjQrOn-71VEZpcwiQRyOdxYIxCI",
+                "mimeType": "application/pdf",
+                "size": "519840"
+              },
+              {
+                "name": "cap_9.pdf",
+                "type": "file",
+                "id": "1U2o2vTK_quwkl-82nHEIcsKWEYf6o7-g",
+                "mimeType": "application/pdf",
+                "size": "3263467"
+              },
+              {
+                "name": "cap_4.pdf",
+                "type": "file",
+                "id": "1QUjgbRyA6rHyVUrnDFXqazSOmpkNs2jO",
+                "mimeType": "application/pdf",
+                "size": "1999045"
+              },
+              {
+                "name": "cap_14.pdf",
+                "type": "file",
+                "id": "1sU7KWw123VxzQ07mRsmwUcuH32J0MiKB",
+                "mimeType": "application/pdf",
+                "size": "4260551"
+              },
+              {
+                "name": "cap_12.pdf",
+                "type": "file",
+                "id": "1cFFw8g1SEFGcXuC5_wT1Bgj9uZorLNmV",
+                "mimeType": "application/pdf",
+                "size": "2466496"
+              },
+              {
+                "name": "cap_5.pdf",
+                "type": "file",
+                "id": "1fpW19Q1TONM0kDAZAJ7pCWQe4P8wPNZZ",
+                "mimeType": "application/pdf",
+                "size": "1843940"
+              },
+              {
+                "name": "cap_13.pdf",
+                "type": "file",
+                "id": "1HJVRM5D3CRqjokE5wJ7a3JXAhqyQsu4m",
+                "mimeType": "application/pdf",
+                "size": "4695740"
+              },
+              {
+                "name": "cap_3.pdf",
+                "type": "file",
+                "id": "1a_cFp4GT9npH--xXxTBmhmoLD1Rbpz2w",
+                "mimeType": "application/pdf",
+                "size": "3852643"
+              }
+            ]
+          },
+          {
+            "name": "libro-Electronica-Teoria-de-Circuitos-y-Dispositivos-Electronicos-Boylestad.pdf",
+            "type": "file",
+            "id": "11k97zo1XxZmHLfUoDiJKFRGY83tHCvQh",
+            "mimeType": "application/pdf",
+            "size": "17462117"
+          },
+          {
+            "name": "solucionario-circuitoselctricos-dorfsvoboda-6ed-130218064201-phpapp02.pdf",
+            "type": "file",
+            "id": "19zB-ONm9-j0kEK3wCuB-UA3MghKnwMaI",
+            "mimeType": "application/pdf",
+            "size": "14989940"
+          },
+          {
+            "name": "Circuitos_Electricos_Dorf_Circuitos_Elec.pdf",
+            "type": "file",
+            "id": "1V1xTxYC3nTksEzZqAvkuU0tHrbGgnWTe",
+            "mimeType": "application/pdf",
+            "size": "32797643"
+          },
+          {
+            "name": "solucionario-teoria-de-circuitos-y-dispositivos-el.pdf",
+            "type": "file",
+            "id": "1U5vshpC1Q57QF0-DakgsyQepkf3Ij_6m",
+            "mimeType": "application/pdf",
+            "size": "12450696"
+          },
+          {
+            "name": "Circuitos_electricos_6ta_edicion_dorf_sv.pdf",
+            "type": "file",
+            "id": "1lIn-dKBsUUPTTe1OpJDW_mQkCLrk-LKZ",
+            "mimeType": "application/pdf",
+            "size": "13535729"
+          },
+          {
+            "name": "Introducción_al_análisis_de_circuitos_-_Boylestad_-_Ed._12.pdf",
+            "type": "file",
+            "id": "1xvk7JGlaSX4UIqaTP11HFQj_LeVLQKZd",
+            "mimeType": "application/pdf",
+            "size": "28689086"
+          },
+          {
+            "name": "Electrónica_by_Pablo_Alcalde_San_Miguel.pdf",
+            "type": "file",
+            "id": "16MW1OiPmVGpSDEq8vHOBc-9_mENqxdoP",
+            "mimeType": "application/pdf",
+            "size": "127186427"
+          },
+          {
+            "name": "Introducción_al_análisis_de_circuitos_-_Boylestad_-_Ed._12_MANUAL_SOLUTION.pdf",
+            "type": "file",
+            "id": "1OU0OgpiSmYzSycHrs91Rn997KJI_nOGj",
+            "mimeType": "application/pdf",
+            "size": "13270472"
+          },
+          {
+            "name": "Circuitos_Electricos_I_-_Morales_y_Lopez.pdf",
+            "type": "file",
+            "id": "1I2_WZ4vC87ivSObMhxPQvy_o_NEJF6wf",
+            "mimeType": "application/pdf",
+            "size": "100983971"
+          }
+        ]
+      },
+      {
+        "name": "1.Benites",
+        "type": "folder",
+        "id": "1MVhGhmKsHisarK1gONHXLwD5P4CnzHgy",
+        "children": [
+          {
+            "name": "PLANCHITAS",
+            "type": "folder",
+            "id": "1gtc30wwOGsHSSJVqpFYNMABQLhD3HgfO",
+            "children": [
+              {
+                "name": "SUSTI",
+                "type": "folder",
+                "id": "10M199S0nJMAPPnk9FtJRdI6iev5_JI3o",
+                "children": [
+                  {
+                    "name": "ES_24-2.pdf",
+                    "type": "file",
+                    "id": "1dUZB_wlaP9VINCWEf9VsoeoIvaOuhvt0",
+                    "mimeType": "application/pdf",
+                    "size": "227482"
+                  },
+                  {
+                    "name": "solucion-es-TE501V-2024-02_(1).pdf",
+                    "type": "file",
+                    "id": "1LG7DZgmkJM-IqiWwAY_xq8VUmae4Iqrl",
+                    "mimeType": "application/pdf",
+                    "size": "1453981"
+                  },
+                  {
+                    "name": "susti_19-2.jpg",
+                    "type": "file",
+                    "id": "1mEy7HkvJU3uZSu1UxKE_2HpwGpCY98WH",
+                    "mimeType": "image/jpeg",
+                    "size": "114921"
+                  },
+                  {
+                    "name": "susti_19-2_2.jpg",
+                    "type": "file",
+                    "id": "1YdQl-lTCmYbyRMetNmslII20ebWW1rG-",
+                    "mimeType": "image/jpeg",
+                    "size": "123587"
+                  }
+                ]
+              },
+              {
+                "name": "3pc",
+                "type": "folder",
+                "id": "1ZYJvmqE8WHUW7yJ88YKpJ6zVSPvPZuX_",
+                "children": [
+                  {
+                    "name": "PC3_24-2.pdf",
+                    "type": "file",
+                    "id": "1M2i_1jYanD28ODu-RFRIcSWwh64f4b2K",
+                    "mimeType": "application/pdf",
+                    "size": "250174"
+                  },
+                  {
+                    "name": "3ERA_PC_-2020_I_.pdf",
+                    "type": "file",
+                    "id": "1fUG_BShveey1K5RMt__p1Y7-6zBXnvS0",
+                    "mimeType": "application/pdf",
+                    "size": "257420"
+                  },
+                  {
+                    "name": "3pc_2015.jpg",
+                    "type": "file",
+                    "id": "1PtUFjM6QuPte2oNU3ADPOA9KvsOXZ_Ee",
+                    "mimeType": "image/jpeg",
+                    "size": "56026"
+                  }
+                ]
+              },
+              {
+                "name": "1pc",
+                "type": "folder",
+                "id": "1Z9Yg7EdFnyOTwYBDosRMjcYoqTuXY0e2",
+                "children": [
+                  {
+                    "name": "PC1_24-2.pdf",
+                    "type": "file",
+                    "id": "1p9ufG9QIeD_tqCBqit86gQGKf3bPdMRd",
+                    "mimeType": "application/pdf",
+                    "size": "201828"
+                  },
+                  {
+                    "name": "PC1-TE501V-2021-2.docx",
+                    "type": "file",
+                    "id": "1bh7LLQbpSgeLnkSvQHYywAZtmcHahkob",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "355386"
+                  },
+                  {
+                    "name": "PC1-TE501W-2021-22.docx",
+                    "type": "file",
+                    "id": "1Qy2NEKo4oYec7UKQIgFv-79OH_eDMGr0",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "582020"
+                  },
+                  {
+                    "name": "PC1-TE501final-2022-1.docx",
+                    "type": "file",
+                    "id": "1PXPNBUDPnl0SqoMpk9FbMXpG5D0E166c",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "782131"
+                  },
+                  {
+                    "name": "Sol_1pc_2020-1.jpg",
+                    "type": "file",
+                    "id": "12RYWhV3XyUR_kzyMRqqkNOQFMsBpspb7",
+                    "mimeType": "image/jpeg",
+                    "size": "341927"
+                  },
+                  {
+                    "name": "Sol_1_pc_2020-1_3.jpg",
+                    "type": "file",
+                    "id": "1Cw8M62W4Dk3I2J6BCv42_KoMtXVtNAcq",
+                    "mimeType": "image/jpeg",
+                    "size": "294355"
+                  },
+                  {
+                    "name": "1pc_2020-1.jpg",
+                    "type": "file",
+                    "id": "19eFGTelvHt3wS7Jo7RG4Mv-FVdNwwnBx",
+                    "mimeType": "image/jpeg",
+                    "size": "248345"
+                  },
+                  {
+                    "name": "sol_1_pc_2020-1.jpg",
+                    "type": "file",
+                    "id": "1wcpBhPmjMcuIjHC-J9W1AtlTWCu4q-rO",
+                    "mimeType": "image/jpeg",
+                    "size": "339209"
+                  }
+                ]
+              },
+              {
+                "name": "PARCIAL",
+                "type": "folder",
+                "id": "1Bn55izel6w8Ggg9fqe0sq3E03fm-aZZj",
+                "children": [
+                  {
+                    "name": "EP_24-2.pdf",
+                    "type": "file",
+                    "id": "1sfrFm0skxjbD895qcI9pNAZRZSSq8iva",
+                    "mimeType": "application/pdf",
+                    "size": "230275"
+                  },
+                  {
+                    "name": "EP-sinTE501-FINAL-2021-I_(1).docx",
+                    "type": "file",
+                    "id": "1DtmVFKPVKxRAUbrdEo343F9rc81_pr_0",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "380828"
+                  },
+                  {
+                    "name": "EP-asincrono-2021-2.docx",
+                    "type": "file",
+                    "id": "1Xr6pQAmp4GSbkN0D1DfiE-q-nHWr7w6G",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "144829"
+                  },
+                  {
+                    "name": "solucion-EP-TE501V-2024-02_(1).pdf",
+                    "type": "file",
+                    "id": "1fkv3Cc0_SyMX0NWreqfJx1rr3UXB0ZNB",
+                    "mimeType": "application/pdf",
+                    "size": "1537081"
+                  },
+                  {
+                    "name": "Parcial_20-1.jpg",
+                    "type": "file",
+                    "id": "1KTFRFWBlevDDiifKgAXpNQU9fr78vD1w",
+                    "mimeType": "image/jpeg",
+                    "size": "140827"
+                  },
+                  {
+                    "name": "Parcial_20-2.jpg",
+                    "type": "file",
+                    "id": "12Q5h-z9Xtnpp3evcB5DvFG-uCkR7DadI",
+                    "mimeType": "image/jpeg",
+                    "size": "145861"
+                  }
+                ]
+              },
+              {
+                "name": "2pc",
+                "type": "folder",
+                "id": "15kJv-56o50rRT8voscAKBsKlx9sxgwE1",
+                "children": [
+                  {
+                    "name": "PC2_24-2.pdf",
+                    "type": "file",
+                    "id": "1HVtoTcc_bq17d1OtFmucZ8uWtbH7nY13",
+                    "mimeType": "application/pdf",
+                    "size": "214618"
+                  },
+                  {
+                    "name": "PC2-TE501W-212.pdf",
+                    "type": "file",
+                    "id": "1ZbRT-8XDvtwI_o6ivXGPoFU9Y78TlJAH",
+                    "mimeType": "application/pdf",
+                    "size": "112752"
+                  },
+                  {
+                    "name": "2PC_ELECTRICIDAD_SÍNCRONO_BENITES_2021-2_V-W.pdf",
+                    "type": "file",
+                    "id": "1YyTYuAribuNTPUaL6Yb6wD5Wh5yjoihz",
+                    "mimeType": "application/pdf",
+                    "size": "290837"
+                  },
+                  {
+                    "name": "PC2F-TE501V-2022-1.docx",
+                    "type": "file",
+                    "id": "1JsThO4cmOCc2aV07JlTQuPxptO2AaNsM",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "300315"
+                  },
+                  {
+                    "name": "pc2_2020.jpg",
+                    "type": "file",
+                    "id": "1ZLbImh-hFlyRNOdtsclWDpmBt76vfwWb",
+                    "mimeType": "image/jpeg",
+                    "size": "97153"
+                  },
+                  {
+                    "name": "pc2_2020_1.jpg",
+                    "type": "file",
+                    "id": "1WIjAFewzeKem6mz0NE2d3Mxb_Guyr2JE",
+                    "mimeType": "image/jpeg",
+                    "size": "137301"
+                  }
+                ]
+              },
+              {
+                "name": "4pc",
+                "type": "folder",
+                "id": "18dAPIyofURT-KUMiqP0iMLwG8BKmTVJK",
+                "children": [
+                  {
+                    "name": "4pc_verano_xd.jpg",
+                    "type": "file",
+                    "id": "19FG0Pw2WmFC9y1PZlDqTgDn8Ds88ZdlP",
+                    "mimeType": "image/jpeg",
+                    "size": "55708"
+                  },
+                  {
+                    "name": "4ta_pc.jpg",
+                    "type": "file",
+                    "id": "12MFXqCsI-rDQwa45xMqUZ5YCREzQMDID",
+                    "mimeType": "image/jpeg",
+                    "size": "36709"
+                  }
+                ]
+              },
+              {
+                "name": "Prueba_de_entrada",
+                "type": "folder",
+                "id": "1q_1ganKToXTvsqVJKdwz27PiZ6PfCvqM",
+                "children": [
+                  {
+                    "name": "PE-TE501.pdf",
+                    "type": "file",
+                    "id": "1B2qZUyQFm0b7AVUmlReSs6qlCCty4EAl",
+                    "mimeType": "application/pdf",
+                    "size": "151703"
+                  },
+                  {
+                    "name": "prueba_entrada-TE501-2020I.docx",
+                    "type": "file",
+                    "id": "1Pm_iO-ufI_DSQqlFFB-kWgerpC4vEO-R",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "495670"
+                  }
+                ]
+              },
+              {
+                "name": "FINAL",
+                "type": "folder",
+                "id": "13Xpqfzk1PVyhT3Hk14eqkgjAqPQ7DpYA",
+                "children": [
+                  {
+                    "name": "EF_20-2",
+                    "type": "file",
+                    "id": "1mw8twBmOUdp2iQFk6qn9HqskwIAiUYNe",
+                    "mimeType": "application/pdf",
+                    "size": "4963508"
+                  },
+                  {
+                    "name": "EF_24_2.pdf",
+                    "type": "file",
+                    "id": "1vgkktGadFcI4G2Qx6e1pFmGUpCSdVFOR",
+                    "mimeType": "application/pdf",
+                    "size": "219178"
+                  },
+                  {
+                    "name": "EF_TE501V-2021-I.docx",
+                    "type": "file",
+                    "id": "1K52nrF7BkF0ZxMfj3oQGYhSMhGkJBaL8",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "819884"
+                  },
+                  {
+                    "name": "EF-TE501V2024-02.pdf",
+                    "type": "file",
+                    "id": "1HGy5bH6OJmWBo8lGnyh6YV8cfRa4FJ9O",
+                    "mimeType": "application/pdf",
+                    "size": "1188349"
+                  },
+                  {
+                    "name": "Examen_final_2014-2.jpg",
+                    "type": "file",
+                    "id": "1zfCH1TIg3iqcS444XXMrNzdqeRcQ_0XI",
+                    "mimeType": "image/jpeg",
+                    "size": "49095"
+                  }
+                ]
+              },
+              {
+                "name": "SUSTI.docx",
+                "type": "file",
+                "id": "1tgHlN3BYiHwfbXnKL6i69RxxdYPeAxy7",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "481801"
+              },
+              {
+                "name": "PC3.docx",
+                "type": "file",
+                "id": "1MPVYei3Y6LW9nhhofj1YhGHmaHA5BsWg",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "846693"
+              },
+              {
+                "name": "PARCIAL.docx",
+                "type": "file",
+                "id": "1x_eT8G9RQEYbQ2CFGiSt5LmAPVQ6xDWy",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "380828"
+              },
+              {
+                "name": "FINAL.docx",
+                "type": "file",
+                "id": "1l6IvIR55xafO3xc1GsqOWDQJ3_ap3jDY",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "819891"
+              }
+            ]
+          },
+          {
+            "name": "TEORÍA",
+            "type": "folder",
+            "id": "17SftMYMnjGAdoauicJ6aXtIxO2HvBvV3",
+            "children": [
+              {
+                "name": "Semana_05",
+                "type": "folder",
+                "id": "1dD3Bptmm2Z9D-zu4FC2Q7JcYgjeZJNki",
+                "children": [
+                  {
+                    "name": "Semana4c-trifasicos-2020I.pdf",
+                    "type": "file",
+                    "id": "1TFsl2yecYoLMBSuIUdx-qXYoNtsTnoYq",
+                    "mimeType": "application/pdf",
+                    "size": "786891"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_04",
+                "type": "folder",
+                "id": "1lOlRY7jq0MWFRgMlcuMXFjI-qZ1mWSZU",
+                "children": [
+                  {
+                    "name": "Semana4b-trifasicos-2020I.pdf",
+                    "type": "file",
+                    "id": "1xUIenwfxaY875iKjPxkjaNiqDRRptr--",
+                    "mimeType": "application/pdf",
+                    "size": "642716"
+                  },
+                  {
+                    "name": "Semana4aa-alter-2020I.pdf",
+                    "type": "file",
+                    "id": "1yV4bwcjCm3GtCwbGEHSgZ3sTk9w5_nmy",
+                    "mimeType": "application/pdf",
+                    "size": "1466952"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_03",
+                "type": "folder",
+                "id": "12l4vNoGZYS9aM2oN-h-DotYtr2vSFhll",
+                "children": [
+                  {
+                    "name": "Semana3c_TP103V-2020.pdf",
+                    "type": "file",
+                    "id": "1wRyKam7IwZRC5fqOnPnRuVvhM_M2GYuN",
+                    "mimeType": "application/pdf",
+                    "size": "1319430"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_01",
+                "type": "folder",
+                "id": "1RJU8B2xKgwGgG9p2OEsSqhR0fSWRNpjk",
+                "children": [
+                  {
+                    "name": "Semana1_TP103_2020-I.pdf",
+                    "type": "file",
+                    "id": "1QDdwrPphQNlPoYaLsyrfoSRtJG4jNTP4",
+                    "mimeType": "application/pdf",
+                    "size": "2183410"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_02",
+                "type": "folder",
+                "id": "1dTIX0DaIIrClDcnaYapB05J6n2HJntSE",
+                "children": [
+                  {
+                    "name": "Semana2_TP103_2020-I.pdf",
+                    "type": "file",
+                    "id": "1VU4wZLAgSrLNP92h5Db00B473OHnDgVd",
+                    "mimeType": "application/pdf",
+                    "size": "1535514"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "2.Tarazona",
+        "type": "folder",
+        "id": "1B_lv2gtOHXHHzSER8xKi_sXqFzJOmKBs",
+        "children": [
+          {
+            "name": "PLANCHITAS",
+            "type": "folder",
+            "id": "1VgyKlK6zF_IPKN3CUT40JBY6KFIMMst4",
+            "children": [
+              {
+                "name": "4pc",
+                "type": "folder",
+                "id": "16HG_wN5Io6iOplW5geUQ-J7Xl7HugkTI",
+                "children": [
+                  {
+                    "name": "4TA_PC_ELECTR_12_02_2021.docx",
+                    "type": "file",
+                    "id": "1W0LxztgEmqde6dj8w2R7F9YS5PoLX5y8",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "417148"
+                  },
+                  {
+                    "name": "4TA_PC_ELECTRICIDAD_18_09_2020.docx",
+                    "type": "file",
+                    "id": "1yvbJa9Kc2pl9Lsu02zYlFdu9XC2UUc9n",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "372771"
+                  }
+                ]
+              },
+              {
+                "name": "parcial",
+                "type": "folder",
+                "id": "1Q6glpRPpLNQKEircjgmIBWODVd7Zos-a",
+                "children": [
+                  {
+                    "name": "EXAMEN_PARCIAL_ELECTRIC_28_05_2021.pdf",
+                    "type": "file",
+                    "id": "1ZkC2BFnvPSGSyDsasmJFDIP6JuGcn8d8",
+                    "mimeType": "application/pdf",
+                    "size": "321624"
+                  },
+                  {
+                    "name": "SOLUCIONARIO_EX_PARC_ELECTRI_13_01_2021.pdf",
+                    "type": "file",
+                    "id": "1YGxsPMbRT_rQ-rySWwTeaRXL75uPck0W",
+                    "mimeType": "application/pdf",
+                    "size": "907253"
+                  },
+                  {
+                    "name": "EXAM_PARCIAL_ELECTRICID_U_02_01_2021.docx",
+                    "type": "file",
+                    "id": "1x3ASdAP0AElHdsvRrKMZKSQ7eh3h0AVG",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "583537"
+                  },
+                  {
+                    "name": "EXAM_PARCIAL_ELECTRICID_U_02_01_2021_(1).pdf",
+                    "type": "file",
+                    "id": "1ZYQBEc24ubCmYWFnkPgopGxKPFKnz9kp",
+                    "mimeType": "application/pdf",
+                    "size": "456873"
+                  },
+                  {
+                    "name": "19-2_2.jpg",
+                    "type": "file",
+                    "id": "1Z2HjNofwojTQZTwq8Q-ejDdr-ZW5Sy61",
+                    "mimeType": "image/jpeg",
+                    "size": "639044"
+                  },
+                  {
+                    "name": "EX_PARCIAL_PREG_01_,_02_28_05_2021.pdf",
+                    "type": "file",
+                    "id": "1MeZhLF0djku_TX8shA4tD7lf9fBcQ0V4",
+                    "mimeType": "application/pdf",
+                    "size": "288375"
+                  },
+                  {
+                    "name": "19-2.jpg",
+                    "type": "file",
+                    "id": "1upSSepXaUwJrrE9MFovyCAhtKcn5dyUC",
+                    "mimeType": "image/jpeg",
+                    "size": "755124"
+                  },
+                  {
+                    "name": "SOLUCIONARIO_EX_PARC_ELECTRI_13_01_2021.docx",
+                    "type": "file",
+                    "id": "1tp0HMTzGCpfDFZjWApse2t48dlgBmnxg",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1413417"
+                  }
+                ]
+              },
+              {
+                "name": "2pc",
+                "type": "folder",
+                "id": "1U4duVRuQJAKyTVPOgvKEIVtDDhQZFI3-",
+                "children": [
+                  {
+                    "name": "2DA_PC_ELECTRICIDAD_Y_ELECTRONICA_INDUSTRIAL_19_12_2020.docx",
+                    "type": "file",
+                    "id": "1fTPXBHAVsBm9M6xElLkA3cvRgNfx_sMA",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "585755"
+                  },
+                  {
+                    "name": "2DA_PC_ELECTRIC_14_05_2021.pdf",
+                    "type": "file",
+                    "id": "152rxI0u8T_qXC8PrWE_gUVu7nRYGKQ4m",
+                    "mimeType": "application/pdf",
+                    "size": "336897"
+                  },
+                  {
+                    "name": "Pc2_2020-1_3.jpg",
+                    "type": "file",
+                    "id": "1-hsMr1EF6vig-ScqxGAnMPIcAgSa_UlR",
+                    "mimeType": "image/jpeg",
+                    "size": "55822"
+                  },
+                  {
+                    "name": "APLICAC_THEVININ_MAX_POTENC.docx",
+                    "type": "file",
+                    "id": "1qQlZmlFySkdbHozjJ5vAYMWP4Ix4SAG2",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "806687"
+                  },
+                  {
+                    "name": "PCO2_ELECTRICIDAD_24_07_2020.pdf",
+                    "type": "file",
+                    "id": "1jLvaDPkFKNVfAO-k0vyQXyWkw8e78fpY",
+                    "mimeType": "application/pdf",
+                    "size": "641061"
+                  },
+                  {
+                    "name": "Pc2_2020-1_1.jpg",
+                    "type": "file",
+                    "id": "1HVOBd8s30EZygPy2Df1-1S3sV4AKFVLm",
+                    "mimeType": "image/jpeg",
+                    "size": "77749"
+                  },
+                  {
+                    "name": "Pc2_2020-1_2.jpg",
+                    "type": "file",
+                    "id": "1ltJKrapUtT5x81Sxdu9K0pV1TF5avzjd",
+                    "mimeType": "image/jpeg",
+                    "size": "77106"
+                  }
+                ]
+              },
+              {
+                "name": "Prueba_de_entrada",
+                "type": "folder",
+                "id": "17HkVOatJwdMgA77m7yhYYSCKAJWLOR6t",
+                "children": [
+                  {
+                    "name": "PRUEBA_ENTRADA_ELECTRICIDAD_Y_ELECTRONICA_IND_01_JUNIO_2020.docx",
+                    "type": "file",
+                    "id": "1ZlzX7P0Caco13z7xFCq45vua_2otrdqQ",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "13565"
+                  }
+                ]
+              },
+              {
+                "name": "Susti",
+                "type": "folder",
+                "id": "1XGDM5QLsY8I_oHJnLoxUUg4N-Let3kkR",
+                "children": [
+                  {
+                    "name": "EX_SUSTITUT_ELECTR_05_MARZO_2021.docx",
+                    "type": "file",
+                    "id": "1Yv7Dg0lYS-ZTRHlTZPnCGiCoYb2areup",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "483792"
+                  },
+                  {
+                    "name": "EXAM_SUSTITUTOR_ELECTRICIDAD_9_10_2020.docx",
+                    "type": "file",
+                    "id": "1HNwMHUaCHpJq1W_tIvGcGLl3kxS2ck08",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "491144"
+                  }
+                ]
+              },
+              {
+                "name": "3pc",
+                "type": "folder",
+                "id": "1Dt9KK4Oa8tnHhybyvUUbz0xpXmK6M_Pa",
+                "children": [
+                  {
+                    "name": "PC_03_ELECTRICIDAD.docx",
+                    "type": "file",
+                    "id": "1Edm4605m18zELmww2UQ_JQUUDCiKaiNQ",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1135726"
+                  }
+                ]
+              },
+              {
+                "name": "Final",
+                "type": "folder",
+                "id": "1wrfabGOG5xnJptOeSg_OY2zZVETflQCc",
+                "children": [
+                  {
+                    "name": "final_19-2_3.jpg",
+                    "type": "file",
+                    "id": "1Q2bljHShvAVHUUoODUsTmPRdOne09Okz",
+                    "mimeType": "image/jpeg",
+                    "size": "46947"
+                  },
+                  {
+                    "name": "final_19-2_2.jpg",
+                    "type": "file",
+                    "id": "1pBHp3A9RMHTkjy3WSIa7F-Aa-JnG3Ti5",
+                    "mimeType": "image/jpeg",
+                    "size": "44168"
+                  },
+                  {
+                    "name": "final_19-2_1.jpg",
+                    "type": "file",
+                    "id": "1h3EYNAiQjFvzwGtMKAjZeZJVBlLE70oz",
+                    "mimeType": "image/jpeg",
+                    "size": "77314"
+                  },
+                  {
+                    "name": "SOLUCIONARIO_EX_FINAL_ELECTRIC_26_02_2021.docx",
+                    "type": "file",
+                    "id": "1_vNFbEqLKIHAniM8UT_-hNqNtjViiTLL",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1089296"
+                  },
+                  {
+                    "name": "EX_FINAL_ELECTRI_2602_2021.docx",
+                    "type": "file",
+                    "id": "1jI6bCvJTeUY95aQ1wwXFzmYbCET2qVtb",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "689310"
+                  },
+                  {
+                    "name": "20-1_SOLUCION_EXAM_FINAL_ELECTR_ELECTR.docx",
+                    "type": "file",
+                    "id": "1n1_7NfpfwmICxEFeP0KL614MvnZb984E",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "870089"
+                  }
+                ]
+              },
+              {
+                "name": "1pc",
+                "type": "folder",
+                "id": "1MleCHLdQcuXtT_EJYhruPa3IqtlzKQK4",
+                "children": [
+                  {
+                    "name": "1_ERA_PC_ELECTRICIDAD_4_12_2020_(1).pdf",
+                    "type": "file",
+                    "id": "1SWlOhXjonS-oiO3XcY9GoiwAi4GVUZWP",
+                    "mimeType": "application/pdf",
+                    "size": "421382"
+                  },
+                  {
+                    "name": "1_ERA_PC_ELECTRICIDAD_4_12_2020_(1).docx",
+                    "type": "file",
+                    "id": "1TX4yla8G3Br4WbkcXVFV0UbojH-qawiz",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "526092"
+                  },
+                  {
+                    "name": "20-1.jpg",
+                    "type": "file",
+                    "id": "1QPOiCUiy0-7gq-pRPKhM7ALMYZZgkaTZ",
+                    "mimeType": "image/jpeg",
+                    "size": "41825"
+                  },
+                  {
+                    "name": "20-1_2.jpg",
+                    "type": "file",
+                    "id": "1eU0JVAbogzA4MsODQ2VYPhemNCmaX-SM",
+                    "mimeType": "image/jpeg",
+                    "size": "40718"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "TEORÍA",
+            "type": "folder",
+            "id": "1zFW7X_-ryOHXtUbx3AsPdaRJejbZCa6i",
+            "children": [
+              {
+                "name": "Clases_en_PDF",
+                "type": "folder",
+                "id": "1OTNmc6s0eLk4lU7gcCJGU3CNuACUsoir",
+                "children": [
+                  {
+                    "name": "11_APLICACION_POT_MAX_AC_Y_01_APLIC_3_FASIC.pdf",
+                    "type": "file",
+                    "id": "1QVskOEVa1JSiED4Fvk3X5Uvt1ivHxYKj",
+                    "mimeType": "application/pdf",
+                    "size": "1580102"
+                  },
+                  {
+                    "name": "12.POTENCIA_TRIFASICA_ELECTRIC.pdf",
+                    "type": "file",
+                    "id": "1_3-XhVBAVRlITqSQkWtNraKp_kc0WbBP",
+                    "mimeType": "application/pdf",
+                    "size": "2102884"
+                  },
+                  {
+                    "name": "13.APLICACION_POT_MAX_AC_Y_01_APLIC_3_FASIC.pdf",
+                    "type": "file",
+                    "id": "1HjCj2hYnlsXKBJ0Ec-5gP2-06UYCzMMl",
+                    "mimeType": "application/pdf",
+                    "size": "1580102"
+                  },
+                  {
+                    "name": "9.0_T_NORTON_ELECTRIC.pdf",
+                    "type": "file",
+                    "id": "1vvrA57D-fZF00os6QpXm3ai_rsyCX8h1",
+                    "mimeType": "application/pdf",
+                    "size": "582036"
+                  },
+                  {
+                    "name": "21_EJERCICIO_TRIF_20.07.21.pdf",
+                    "type": "file",
+                    "id": "1BWsyWBN83b5SDovDuVTobSQtHtQONAcy",
+                    "mimeType": "application/pdf",
+                    "size": "444056"
+                  },
+                  {
+                    "name": "1.5_EJERCICIO_MALLA1.pdf",
+                    "type": "file",
+                    "id": "1C0B6KeUOk7pgPSoHlWvSaxhQEhLRId9H",
+                    "mimeType": "application/pdf",
+                    "size": "287963"
+                  },
+                  {
+                    "name": "16.resonancia_electric.pdf",
+                    "type": "file",
+                    "id": "1KEyZv_XeS392t2c8lsPG5qBI6ohz-s1G",
+                    "mimeType": "application/pdf",
+                    "size": "738331"
+                  },
+                  {
+                    "name": "4.0_calculo_de_la_resistencia_equivalente.pdf",
+                    "type": "file",
+                    "id": "1wRz4-a_sST08ZxLzEH-sqMPiwF1Ab3U-",
+                    "mimeType": "application/pdf",
+                    "size": "1128786"
+                  },
+                  {
+                    "name": "1.0_01.pdf",
+                    "type": "file",
+                    "id": "1YDE3p5Pp2btk0pQ9GvdZjF3KTWS30q_S",
+                    "mimeType": "application/pdf",
+                    "size": "468137"
+                  },
+                  {
+                    "name": "10_POTENCIA_TRIFASICA_ELECTRIC.pdf",
+                    "type": "file",
+                    "id": "1zc0sqARYMkyS80CGOl2ZuFo9nqyxmMe8",
+                    "mimeType": "application/pdf",
+                    "size": "2102892"
+                  },
+                  {
+                    "name": "19_transis_y_diodos_junio_2021.pdf",
+                    "type": "file",
+                    "id": "1VMaHf1l_7LGXhMETlrfsX_7pyAYnRjro",
+                    "mimeType": "application/pdf",
+                    "size": "2206549"
+                  },
+                  {
+                    "name": "20_AMPLIFICADOR_OPERAC.pdf",
+                    "type": "file",
+                    "id": "1lzwopEs37zUI2eGqTtRsVcX4ZHwEsJAR",
+                    "mimeType": "application/pdf",
+                    "size": "540720"
+                  },
+                  {
+                    "name": "1.2_EJERC_BALANC_POTENCIA.pdf",
+                    "type": "file",
+                    "id": "1FYoVDXwLxnpg0YlB4xFNjvv85_a4j9TE",
+                    "mimeType": "application/pdf",
+                    "size": "376817"
+                  },
+                  {
+                    "name": "6.0_APLICAC_THEVININ_MAX_POTENC.pdf",
+                    "type": "file",
+                    "id": "1kNCeQNmlOtZOfV626Y_UR6lW-LrWoKWf",
+                    "mimeType": "application/pdf",
+                    "size": "599652"
+                  },
+                  {
+                    "name": "3.0_metodo_de_solucion_general.pdf",
+                    "type": "file",
+                    "id": "1CeBgZ8XsEhhuIe03WDvNrwTT-ImiUKPr",
+                    "mimeType": "application/pdf",
+                    "size": "1297035"
+                  },
+                  {
+                    "name": "17.CLASE1_DIODOS_junio_2021.pdf",
+                    "type": "file",
+                    "id": "1xVLuKU3bmdfEEdZkwIz4P3hwsV0UC2sn",
+                    "mimeType": "application/pdf",
+                    "size": "976727"
+                  },
+                  {
+                    "name": "15.CLASE_TRANSFORMADORES_ELECTRIC_04_JUNIO_2021-convertido.pdf",
+                    "type": "file",
+                    "id": "1AGyXFmKdvwuWZ63gnIkvr4BYwXvgNLGg",
+                    "mimeType": "application/pdf",
+                    "size": "3167717"
+                  },
+                  {
+                    "name": "1.7_METODO_MALLAS_Y_NODOS_APLICACION.pdf",
+                    "type": "file",
+                    "id": "1qsGwNIayrvc53lkOyPG1Aj_zfw_mzlHf",
+                    "mimeType": "application/pdf",
+                    "size": "601810"
+                  },
+                  {
+                    "name": "8.0_CA_MONOFASICA_IMPEDANCIA_POTENCIA.pdf",
+                    "type": "file",
+                    "id": "1I0ey_T24612BAYGUafedA8UkfhHjDepZ",
+                    "mimeType": "application/pdf",
+                    "size": "2109966"
+                  },
+                  {
+                    "name": "1.6_EJERCICIO_POTENCIAL_2.pdf",
+                    "type": "file",
+                    "id": "1EH7byZjnsyKCrOBz2omRPMLwt61No34V",
+                    "mimeType": "application/pdf",
+                    "size": "305878"
+                  },
+                  {
+                    "name": "1.3_EJERC_MALLA_2.pdf",
+                    "type": "file",
+                    "id": "1b2SM0qbIQqZ7O97njsdmrB7v1hOoTfNj",
+                    "mimeType": "application/pdf",
+                    "size": "315780"
+                  },
+                  {
+                    "name": "14.aplicacion_trifasico_potencia_y_mejoramiento_fp_31_05_2021.pdf",
+                    "type": "file",
+                    "id": "1-VE6upE1H1twiBKag2-uPOPwU3lSzpiS",
+                    "mimeType": "application/pdf",
+                    "size": "751262"
+                  },
+                  {
+                    "name": "7.0_CORRIENTE_ALTERNA_01_FIIS_UNI.pdf",
+                    "type": "file",
+                    "id": "1Fm_qMlvO6AkhDu722mepRhWw3QuAvzEw",
+                    "mimeType": "application/pdf",
+                    "size": "857369"
+                  },
+                  {
+                    "name": "5.0_ELECTR_TEOREMA_THEVE_MAX_TRANS.pdf",
+                    "type": "file",
+                    "id": "1WFzaWnaQYUBkqW11IMOHREj3xiPc8XL1",
+                    "mimeType": "application/pdf",
+                    "size": "1085210"
+                  },
+                  {
+                    "name": "1.4_EJERC_VOLT_AMPER_BETA.pdf",
+                    "type": "file",
+                    "id": "1UawCuEt4U-xCGgdijuh3eh_tlO7AyFZC",
+                    "mimeType": "application/pdf",
+                    "size": "247118"
+                  },
+                  {
+                    "name": "18.pract11_diodos_elect_junio_2021.pdf",
+                    "type": "file",
+                    "id": "1AP3heQQ6dDH89MHEIu7sLvazEL2lFwvh",
+                    "mimeType": "application/pdf",
+                    "size": "624360"
+                  },
+                  {
+                    "name": "3.1_Ejercicio_de_nodos_potencial.pdf",
+                    "type": "file",
+                    "id": "119bOUcPu6JAMnFpKhBpfKDfyF6M4kOiM",
+                    "mimeType": "application/pdf",
+                    "size": "307057"
+                  }
+                ]
+              },
+              {
+                "name": "PLANCHITAS",
+                "type": "folder",
+                "id": "1JzVkFG2mulKAkUOU-3Sr4JWjhaNayEMp",
+                "children": [
+                  {
+                    "name": "2pc",
+                    "type": "folder",
+                    "id": "1T-EDhFBu6eOd3p-cRN4-nMmCuc8QErXT",
+                    "children": [
+                      {
+                        "name": "APLICAC_THEVININ_MAX_POTENC.docx",
+                        "type": "file",
+                        "id": "1GG-Szqm7xfXEdHacwOqBeQkzIp4VSUIa",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "850802"
+                      },
+                      {
+                        "name": "PCO2_ELECTRICIDAD_24_07_2020.pdf",
+                        "type": "file",
+                        "id": "1e37MAwxQA3JT8qpo4JIh0VjZFY6Nxw4q",
+                        "mimeType": "application/pdf",
+                        "size": "641061"
+                      },
+                      {
+                        "name": "Pc2_2020-1_1.jpg",
+                        "type": "file",
+                        "id": "1OwLgjuYrU4yCQxbYdxB_gpSWY6l9GF0p",
+                        "mimeType": "image/jpeg",
+                        "size": "77749"
+                      },
+                      {
+                        "name": "2DA_PC_ELECTRICIDAD_Y_ELECTRONICA_INDUSTRIAL_19_12_2020.docx",
+                        "type": "file",
+                        "id": "1zq1skWfjfY4pWB91ZibMTgFQrhAKzIWG",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "585755"
+                      },
+                      {
+                        "name": "2DA_PC_ELECTRIC_14_05_2021.pdf",
+                        "type": "file",
+                        "id": "1tZzwFvqP4zQ6CPRgt4wyaEdfSS6diDlF",
+                        "mimeType": "application/pdf",
+                        "size": "336897"
+                      },
+                      {
+                        "name": "Pc2_2020-1_3.jpg",
+                        "type": "file",
+                        "id": "1nMnuUPcRyAmZBPIxNEj3Cv1Qg3m2vg4d",
+                        "mimeType": "image/jpeg",
+                        "size": "55822"
+                      },
+                      {
+                        "name": "Pc2_2020-1_2.jpg",
+                        "type": "file",
+                        "id": "1IfSNQz11LUR6DQBGUEewlQ3gRzRgjkOk",
+                        "mimeType": "image/jpeg",
+                        "size": "77106"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Prueba_de_entrada",
+                    "type": "folder",
+                    "id": "1CWexxbqYBF01PEyDopfgZ6_uHVB7W-5i",
+                    "children": [
+                      {
+                        "name": "PRUEBA_ENTRADA_ELECTRICIDAD_Y_ELECTRONICA_IND_01_JUNIO_2020.docx",
+                        "type": "file",
+                        "id": "1KYbL9DNBHouATXH7LUoAjp30cJMbW6Fl",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "13565"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Final",
+                    "type": "folder",
+                    "id": "1OTxWnclEdE5H-gMc9xGNNISxlDF8Hfaj",
+                    "children": [
+                      {
+                        "name": "20-1_SOLUCION_EXAM_FINAL_ELECTR_ELECTR.docx",
+                        "type": "file",
+                        "id": "1tgfaND7Nhm6p_-xs8QP1ZNZfdzYH_eV5",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "870089"
+                      },
+                      {
+                        "name": "final_19-2_1.jpg",
+                        "type": "file",
+                        "id": "1QMLKVzGDYCgu--lx_L2uHC9wb_wQX_GI",
+                        "mimeType": "image/jpeg",
+                        "size": "77314"
+                      },
+                      {
+                        "name": "final_19-2_2.jpg",
+                        "type": "file",
+                        "id": "1_p9gAunt6uF4HMgPPZoE0mHKl1iP3QHm",
+                        "mimeType": "image/jpeg",
+                        "size": "44168"
+                      },
+                      {
+                        "name": "final_19-2_3.jpg",
+                        "type": "file",
+                        "id": "1YDPf0-QfuYeH-Tn6MJwnrGIQ4-D8LUA9",
+                        "mimeType": "image/jpeg",
+                        "size": "46947"
+                      },
+                      {
+                        "name": "SOLUCIONARIO_EX_FINAL_ELECTRIC_26_02_2021.docx",
+                        "type": "file",
+                        "id": "1rV47Ra5NqsFc2d3agnuQMlH4UNNCG7Wv",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "1089296"
+                      },
+                      {
+                        "name": "EX_FINAL_ELECTRI_2602_2021.docx",
+                        "type": "file",
+                        "id": "16n32tu8dduyQ3C270dKqWaYBkmr4_A6J",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "689310"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "1pc",
+                    "type": "folder",
+                    "id": "1SgRK__6aNYUgRwYKo-8HHixMQ-76hoSc",
+                    "children": [
+                      {
+                        "name": "1_ERA_PC_ELECTRICIDAD_4_12_2020_(1).pdf",
+                        "type": "file",
+                        "id": "1pk8ArV0rVlO7wm0j6hSEQGA3yU3SV7HQ",
+                        "mimeType": "application/pdf",
+                        "size": "421382"
+                      },
+                      {
+                        "name": "20-1_2.jpg",
+                        "type": "file",
+                        "id": "1lTv7pVbyWXKxBXYcslCYZ43pso2wWfSU",
+                        "mimeType": "image/jpeg",
+                        "size": "40718"
+                      },
+                      {
+                        "name": "1_ERA_PC_ELECTRICIDAD_4_12_2020_(1).docx",
+                        "type": "file",
+                        "id": "1HY9RbguBjQH_YzPaCR0feDSq_Nl6Qnw2",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "526092"
+                      },
+                      {
+                        "name": "20-1.jpg",
+                        "type": "file",
+                        "id": "13_FL1dvtGBDn4xfX6nFRL5Rvla6J6BbZ",
+                        "mimeType": "image/jpeg",
+                        "size": "41825"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Susti",
+                    "type": "folder",
+                    "id": "12jw5AptuoqmadEKTYGaBYtKa4hEyjQet",
+                    "children": [
+                      {
+                        "name": "EXAM_SUSTITUTOR_ELECTRICIDAD_9_10_2020.docx",
+                        "type": "file",
+                        "id": "1pzjHyjA3x9NIsIbkCerLqL_yV4RFDB_2",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "491144"
+                      },
+                      {
+                        "name": "EX_SUSTITUT_ELECTR_05_MARZO_2021.docx",
+                        "type": "file",
+                        "id": "1oluC9t7Lai5Jl2xF8UNuFk_aX2Cugngs",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "483792"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "4pc",
+                    "type": "folder",
+                    "id": "1ZdIzoSkXNDX4ZXevsvzLhdDtX_gvKVBs",
+                    "children": [
+                      {
+                        "name": "4TA_PC_ELECTR_12_02_2021.docx",
+                        "type": "file",
+                        "id": "11ThvF47vVV_3XlX8tYedhaycjBiXodZd",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "417148"
+                      },
+                      {
+                        "name": "4TA_PC_ELECTRICIDAD_18_09_2020.docx",
+                        "type": "file",
+                        "id": "1atjr4O1gUWIhvfgOnAX_pFBG5HPJOWKI",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "372771"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "parcial",
+                    "type": "folder",
+                    "id": "11aHaRSmNbsh3CpxgItf5hznDy07SRmsu",
+                    "children": [
+                      {
+                        "name": "19-2_2.jpg",
+                        "type": "file",
+                        "id": "1CFNArC_CDOzFyFqtpygAgDMRbSHXf80F",
+                        "mimeType": "image/jpeg",
+                        "size": "639044"
+                      },
+                      {
+                        "name": "SOLUCIONARIO_EX_PARC_ELECTRI_13_01_2021.docx",
+                        "type": "file",
+                        "id": "1DUY3g0t4M-_anUf7xZDbt1iwm7nsQOmL",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "1413417"
+                      },
+                      {
+                        "name": "EX_PARCIAL_PREG_01_,_02_28_05_2021.pdf",
+                        "type": "file",
+                        "id": "17MoQymbo0bq2mfPuYA4tUxdBCFN92ufK",
+                        "mimeType": "application/pdf",
+                        "size": "288375"
+                      },
+                      {
+                        "name": "EXAMEN_PARCIAL_ELECTRIC_28_05_2021.pdf",
+                        "type": "file",
+                        "id": "1eOpv_yCScsTUf18p2cQZvfKZBAYHh3R9",
+                        "mimeType": "application/pdf",
+                        "size": "321624"
+                      },
+                      {
+                        "name": "SOLUCIONARIO_EX_PARC_ELECTRI_13_01_2021.pdf",
+                        "type": "file",
+                        "id": "1i1Yrt9z_35a25_n4tlztf1-QHRQEhXaA",
+                        "mimeType": "application/pdf",
+                        "size": "907253"
+                      },
+                      {
+                        "name": "19-2.jpg",
+                        "type": "file",
+                        "id": "1U09RYuG5QFy1HzfB-U9CG35_WgM_xgpD",
+                        "mimeType": "image/jpeg",
+                        "size": "755124"
+                      },
+                      {
+                        "name": "EXAM_PARCIAL_ELECTRICID_U_02_01_2021_(1).pdf",
+                        "type": "file",
+                        "id": "1v4B4a5qgH7iguST10ziZuQg_Vz8-xKp-",
+                        "mimeType": "application/pdf",
+                        "size": "456873"
+                      },
+                      {
+                        "name": "EXAM_PARCIAL_ELECTRICID_U_02_01_2021.docx",
+                        "type": "file",
+                        "id": "1UfnaQNIFR2bPpDDy-nopHNTn7zs-0TkR",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "583537"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "3pc",
+                    "type": "folder",
+                    "id": "1cRvhKAWk6C0nnkB57ymjbPA9l9E0vN3W",
+                    "children": [
+                      {
+                        "name": "PC_03_ELECTRICIDAD.docx",
+                        "type": "file",
+                        "id": "1pA0BJjbS3-lfcTk8ntvpr3KlhNVZieI5",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "1135726"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Clases_en_ppt",
+                "type": "folder",
+                "id": "1n5ba_giY1-8ADTkaw7-3ioRPkU5AmpMy",
+                "children": [
+                  {
+                    "name": "SEMAN2.pptx",
+                    "type": "file",
+                    "id": "1e2YFWZDLJEYxsX-doy4Ik73cp_gGJE6y",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "966281"
+                  },
+                  {
+                    "name": "SEMAN3_(1).pptx",
+                    "type": "file",
+                    "id": "1EUVfW2lz9DqioLVfyDAgdTcSUIX2zLlW",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "2541225"
+                  },
+                  {
+                    "name": "SEMAN4-2.pptx",
+                    "type": "file",
+                    "id": "1h3zcmyND9F6nufnXogtOFNyM3MHGAX6b",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "12332889"
+                  },
+                  {
+                    "name": "SEMAN4-1.pptx",
+                    "type": "file",
+                    "id": "1AnQ9CjOGK7dPNkGrlUiuoshXMCXBPWTh",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "17655912"
+                  },
+                  {
+                    "name": "SEMAN1_(1).pptx",
+                    "type": "file",
+                    "id": "1N5lTQjZUiHe8sg-Fhm6IoiMncFqXWHof",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "15720323"
+                  }
+                ]
+              },
+              {
+                "name": "Clases_en_word",
+                "type": "folder",
+                "id": "1T6fjF8uD53GFP1mwBzFZ14b2deLax4BS",
+                "children": [
+                  {
+                    "name": "2020",
+                    "type": "folder",
+                    "id": "12d4kKjiEf5U8R1IlzbaZkQG5F6T8kn1m",
+                    "children": [
+                      {
+                        "name": "EJERC_BALANC_POTENCIA.docx",
+                        "type": "file",
+                        "id": "1b84cEsgJHttDWgfFH1OLbe7wOPZ5Gq2M",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "438817"
+                      },
+                      {
+                        "name": "EJERC_MALLA_2.docx",
+                        "type": "file",
+                        "id": "1GQWfPPt9tMM-u5gf06ZYqXRf-svOedEw",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "358811"
+                      },
+                      {
+                        "name": "01.docx",
+                        "type": "file",
+                        "id": "1USor3orF_rdtb60pPhNO38m1iPE9HpiX",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "652752"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "clase_electri_07_12_2020.docx",
+                    "type": "file",
+                    "id": "1f-envcu6Cmxze7qbL4n884-1GwTvwB8P",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "644196"
+                  },
+                  {
+                    "name": "MEJORAM_FP_TRIFASIC_15_01_2021_(1).docx",
+                    "type": "file",
+                    "id": "1XzsJdMLMHlCDNuP5gIzorZL7erRiISGt",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "638486"
+                  },
+                  {
+                    "name": "333_ELECT.docx",
+                    "type": "file",
+                    "id": "192z5Es5bL1Cwqidd2qQIzLjQWQnM7gyP",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "928783"
+                  },
+                  {
+                    "name": "CLASE_PLACA_TRAFO_TRIFASICO_18_01_2021.docx",
+                    "type": "file",
+                    "id": "1XvNYOK5eNuDuoWy7P7kvwXUBIcUO70tj",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1014254"
+                  },
+                  {
+                    "name": "CLASE_ELECT_TRAFO_PRUEBA_CC_CA_18_01_2021.docx",
+                    "type": "file",
+                    "id": "1OSNpYeLhYsE5aySNxEQhYx5Rx_tyG0IW",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "2149265"
+                  },
+                  {
+                    "name": "CLASE_ELECTR_LUNES_TRAFO_18_01_2021.docx",
+                    "type": "file",
+                    "id": "1th8FEfRenuc1dQAQyzQbbFqU6cCP3cEd",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1384785"
+                  },
+                  {
+                    "name": "Clase_Electricidad_TRAFO_TRIFASIC_INTRODUCC_18_01_2021.docx",
+                    "type": "file",
+                    "id": "1iDG-ZJgW9_WdhOH7Fz-ChEH-ZehfgB-V",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "645001"
+                  },
+                  {
+                    "name": "CLASE_ELECTR_TRIFASICO_04_01_2021_(1).docx",
+                    "type": "file",
+                    "id": "1r2OjgM6PdwN5Os0517Js5KjoEJ0vnJV8",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "3977816"
+                  },
+                  {
+                    "name": "CLASE_ELECTR_TRIFASICO_04_01_2021_(2).docx",
+                    "type": "file",
+                    "id": "1hbM-RcDvfkKlJn76ctZhaMuE2mkmw73L",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "3977816"
+                  },
+                  {
+                    "name": "CLASE_ELECTR_18_12_2020_(2).docx",
+                    "type": "file",
+                    "id": "1R7PuSwn73gZCrRlc9Cqkg2FEb61YlrD-",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "4040192"
+                  },
+                  {
+                    "name": "transis_bjt_pract_15_02_2021.docx",
+                    "type": "file",
+                    "id": "1pcxlJw3uo1mE2LiXSroObNmuW-67C708",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1145594"
+                  },
+                  {
+                    "name": "CLASE_2_ELECTRICIDAD_(1).docx",
+                    "type": "file",
+                    "id": "1_hUaFs0mGHIK92asZ_Y_gFsVlz8keJ3k",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1266956"
+                  },
+                  {
+                    "name": "CLASE_AC_ONDAS_SENOIDALES,_FASOR_RMS_,_FC_,_FF.docx",
+                    "type": "file",
+                    "id": "1jgwx8r4yV3_kgG0uxd_YQqz_BMW67vF2",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1300581"
+                  },
+                  {
+                    "name": "ELECTRCIDAD_CLASE_MET_MALLAS_Y_NODOS.docx",
+                    "type": "file",
+                    "id": "1TXmCWHezplMCRHv7MWQixLZcWALxlgWt",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1945196"
+                  },
+                  {
+                    "name": "EJERCICIO_MALLA111.docx",
+                    "type": "file",
+                    "id": "1d6TBaNBu4vB_pjhOqVIkFW-o1s3yyPD4",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "310198"
+                  },
+                  {
+                    "name": "EJERCI_POTENCIAL_111.docx",
+                    "type": "file",
+                    "id": "1x3zult7OneBu0962-lrA0ypWz1hzUOmm",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "339352"
+                  },
+                  {
+                    "name": "CLASE_ELECTRIC_RESONANCIA.docx",
+                    "type": "file",
+                    "id": "1zlT_Fh4vJZqEJgf4yw5xcKzvUcQHRF49",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1277023"
+                  },
+                  {
+                    "name": "pract1_diodos_elect_25_02_2021.docx",
+                    "type": "file",
+                    "id": "1Ug4gefL27TLySoOCsbTSLFWlt1EN6ezu",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "903828"
+                  },
+                  {
+                    "name": "CLASE_DIODOS_01_02_2021.docx",
+                    "type": "file",
+                    "id": "1HVto3to62Rbc3n-qErq7MDL7i_UYZWK7",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1527142"
+                  },
+                  {
+                    "name": "CLASE_ELECTR_LUNES_18_01_2021.docx",
+                    "type": "file",
+                    "id": "1V_6W6hGQzb9n5tJYyqNt0LOUFufxLKm0",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1384783"
+                  },
+                  {
+                    "name": "CLASE_ELECTRICIDAD_21_12_2020.docx",
+                    "type": "file",
+                    "id": "1vIZBEw4wq5uyRdXlSLC2AewJ_fRIiyAE",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "3797661"
+                  },
+                  {
+                    "name": "APLICACIONES_IMPEDANCIA_14_12_2020.docx",
+                    "type": "file",
+                    "id": "1DvyQCFVigErMQWVFf5yzISq4Wq7k5pb4",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1115578"
+                  },
+                  {
+                    "name": "4TA_CLASE_ELECTRIC.docx",
+                    "type": "file",
+                    "id": "19D_BK_lgiz7J2WlvGqJ5OR2j51v_oi4E",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "2069455"
+                  },
+                  {
+                    "name": "METODO_MALLAS_Y_NODOS_APLICACION111.docx",
+                    "type": "file",
+                    "id": "19cZOHkEnONcqaLi3cRvYQqkZWY9y9M3N",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "915608"
+                  },
+                  {
+                    "name": "CLASE_ELECTR_18_12_2020_(1).docx",
+                    "type": "file",
+                    "id": "1LNIbsa_-GQfT5t7aTH_ZRzaWNgnN3E3c",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "4040192"
+                  },
+                  {
+                    "name": "CLASE_4_ELECT_THEVININ_MAX_POTENC.docx",
+                    "type": "file",
+                    "id": "1b5M5NtbFMfY19T1MVH3WtUea-HWy9lFK",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "850814"
+                  },
+                  {
+                    "name": "CLASE_ELECTR_TRIFASICO_04_01_2021.docx",
+                    "type": "file",
+                    "id": "12RKlrOwutHiCZA8LX3tllJZXvQ9Zvy0d",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "3977816"
+                  },
+                  {
+                    "name": "3_SEMANA_ELECT_23_11_2020_(1).docx",
+                    "type": "file",
+                    "id": "1B-U_iZ5pIR7533Er9-rENBlU4t9lkiF7",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1945220"
+                  },
+                  {
+                    "name": "ejerc_trif_elect_15_02_2021.docx",
+                    "type": "file",
+                    "id": "1-rTTLIQ2ybMV7RugKPwnTNEu1nHCz4Tz",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "643098"
+                  },
+                  {
+                    "name": "CLASE_ELECTRICI_VIERNES_CONCEP_PRUEBA_TRAFO_18_01_2021.docx",
+                    "type": "file",
+                    "id": "1ekjqw-Ug1l8jBx-9wfRltWQCwrplr0FC",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "2480591"
+                  },
+                  {
+                    "name": "CLASE_DIODOS_Y_TRANSIS_08_02_2021.docx",
+                    "type": "file",
+                    "id": "1SamzaoyVQQ1JUEh63LnfzD9Km8IIDJIE",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "4214424"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PLANCHITAS",
+        "type": "folder",
+        "id": "1F5sULXmtiUSE47tOKnuGDRwkfZJK-ZRJ",
+        "children": [
+          {
+            "name": "TE501_PC1_TARAZONA_P2_20-1.jpg",
+            "type": "file",
+            "id": "1SrKcW6npH5LW2_4mzJVOeJfFZ-bYMF-c",
+            "mimeType": "image/jpeg",
+            "size": "40718"
+          },
+          {
+            "name": "TE501_PC2_BENITES_P1_20-1.jpg",
+            "type": "file",
+            "id": "1Ycjf4Jgyjbj8HrTabyWbBT_TFg9st56H",
+            "mimeType": "image/jpeg",
+            "size": "137301"
+          },
+          {
+            "name": "TE501_PC1_BENITES_20-1.jpg",
+            "type": "file",
+            "id": "1Wn8H5ko48jlQL11XkWDybkM-sGlw7pQ0",
+            "mimeType": "image/jpeg",
+            "size": "248345"
+          },
+          {
+            "name": "TE501_EF_TARAZONA_21-2.pdf",
+            "type": "file",
+            "id": "168DXzGVCt4g1BYzvz56RrVk6uH3XhmuL",
+            "mimeType": "application/pdf",
+            "size": "1046446"
+          },
+          {
+            "name": "TE501_PARCIAL_BENITES_P2_20-1.jpg",
+            "type": "file",
+            "id": "1egz54Hsra3F5KPMH2NHmGdKaS3_Vlg-R",
+            "mimeType": "image/jpeg",
+            "size": "145861"
+          },
+          {
+            "name": "TE501_PC2_BENITES_21-2.pdf",
+            "type": "file",
+            "id": "1v9xq-eoq3HjXzvJqJYqwx5DTEKD-U1kd",
+            "mimeType": "application/pdf",
+            "size": "112752"
+          },
+          {
+            "name": "TE501_PC2_BENITES_P2_20-1.jpg",
+            "type": "file",
+            "id": "10A3qPVqYVsPREZA7wVv1Lq-1ByQuOGrd",
+            "mimeType": "image/jpeg",
+            "size": "97153"
+          },
+          {
+            "name": "PC01_2.jpg",
+            "type": "file",
+            "id": "1_AwhXBH4AyVAxD-eyBUQGzdESGB_XBqm",
+            "mimeType": "image/jpeg",
+            "size": "341927"
+          },
+          {
+            "name": "TE501_PC1_TARAZONA_P1_20-1.jpg",
+            "type": "file",
+            "id": "1kR22lQUuyhKXuQEPLVzOVvMs-b1NVUqU",
+            "mimeType": "image/jpeg",
+            "size": "41825"
+          },
+          {
+            "name": "PC01_4.jpg",
+            "type": "file",
+            "id": "133TxAW2IOJ4nq7ZWeX1VjtGIutIpA0_s",
+            "mimeType": "image/jpeg",
+            "size": "294355"
+          },
+          {
+            "name": "TE501V_PC1_BENITES_21-2.pdf",
+            "type": "file",
+            "id": "1ylsPR5GHRakC4ELaPe_yWK-D87kZ9l1n",
+            "mimeType": "application/pdf",
+            "size": "132211"
+          },
+          {
+            "name": "TE501_PC1_BENITES_22-1.pdf",
+            "type": "file",
+            "id": "1jSo31-ryhhjc5G3L9N2F-Nmmm_KTMBGl",
+            "mimeType": "application/pdf",
+            "size": "150741"
+          },
+          {
+            "name": "PC01_3.jpg",
+            "type": "file",
+            "id": "1dYcOPpYGPtT-g1kiUF-6S7lTqlplWDyx",
+            "mimeType": "image/jpeg",
+            "size": "339209"
+          }
+        ]
+      },
+      {
+        "name": "Silabo_Electricidad_y_Electrónica_Industrial.docx",
+        "type": "file",
+        "id": "1YMrvnaNkL2QBN7emgS5C_uPyc6J-9Me-",
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size": "73314"
+      },
+      {
+        "name": "TP113_Sistemas_eléctricos_y_electrónicos.html",
+        "type": "file",
+        "id": "1oBCmW_GOkhnK5gFR_eivgkVWXzTacEHL",
+        "mimeType": "text/html",
+        "size": "474"
+      },
+      {
+        "name": "ELECTRICIDAD_Y_ELECTRÓNICA_INDUSTRIAL.html",
+        "type": "file",
+        "id": "13JNHS_ATZbNxUceO99FY2xERi3MVN9Hb",
+        "mimeType": "text/html",
+        "size": "466"
+      }
+    ]
+  }
+}

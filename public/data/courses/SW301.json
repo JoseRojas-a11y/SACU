@@ -1,0 +1,405 @@
+{
+  "course_id": "SW301",
+  "course_name": "Arquitectura_de_Computadoras_I",
+  "id": "1fZUP3f6cCjo6EKJgkeW5MMK4aD51dE9t",
+  "scanned_at": "2026-08-07T00:03:37.183074+00:00",
+  "tree": {
+    "name": "Arquitectura_de_Computadoras_I",
+    "type": "folder",
+    "id": "1fZUP3f6cCjo6EKJgkeW5MMK4aD51dE9t",
+    "children": [
+      {
+        "name": "Observaciones",
+        "type": "file",
+        "id": "1TG0wHkURSjI-h3NbiEnxiGhlGfMHZpiApqOL9-b0mtc",
+        "mimeType": "application/vnd.google-apps.document",
+        "size": "1024"
+      },
+      {
+        "name": "Practica",
+        "type": "folder",
+        "id": "1D8qfHbpBdc9fu622fyf7O9rt3dEcypkD",
+        "children": [
+          {
+            "name": "Laboratorios",
+            "type": "folder",
+            "id": "1RM52EbAgU0bG_mPzhokKzC6m7YJqoSlD",
+            "children": [
+              {
+                "name": "ejercicios_de_apoyo_labo2.pdf",
+                "type": "file",
+                "id": "1_kOJhaywKh1lNjMdrDUojP5U8adCz6S3",
+                "mimeType": "application/pdf",
+                "size": "878581"
+              },
+              {
+                "name": "LABORATORIO_2_A1_2026-1.pptx",
+                "type": "file",
+                "id": "1iclSl5usoGsUyFks1OmsuD8Yjl7Pl-cA",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "596582"
+              },
+              {
+                "name": "Laboratorio1.jpg",
+                "type": "file",
+                "id": "18PKfkoEz2fOMDUcYxcUGaWdlAW69PuoY",
+                "mimeType": "image/jpeg",
+                "size": "53579"
+              }
+            ]
+          },
+          {
+            "name": "Tareas",
+            "type": "folder",
+            "id": "1jMi96KguNzSxqIUdLWoMLN1KxWxvbK2L",
+            "children": [
+              {
+                "name": "TAREA_5_SW301_2026-1.pptx",
+                "type": "file",
+                "id": "1jvvzK-VIACOpH2uuq0rzBTOkvqm067XS",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "1191187"
+              },
+              {
+                "name": "A1_TAREA_nro_1_2026_1_v2.pptx",
+                "type": "file",
+                "id": "1TBL0fViL2-ZFL3OFe7BEVZy44cuPlpG5",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "2467186"
+              },
+              {
+                "name": "TAREA_N_3_2026-1_v2.pptx",
+                "type": "file",
+                "id": "1_5i0Wl603mkyBld1w25NsiwwnyJQbVFO",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "2455530"
+              },
+              {
+                "name": "TAREA_4_SW301_2026-1_.pptx",
+                "type": "file",
+                "id": "1M3xcqzyAIu986egdkkxEg8QFktZ1n8Sc",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "1191213"
+              },
+              {
+                "name": "A1_TAREA_2_2026--1.pptx",
+                "type": "file",
+                "id": "1nnpvWpyJHQnZqv5ILQQzmNhsJUYhwLxq",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "2344951"
+              }
+            ]
+          },
+          {
+            "name": "Planchas",
+            "type": "folder",
+            "id": "1fGL3KoFzpWTPQtdMOZ8w3A1qh71M-iyd",
+            "children": [
+              {
+                "name": "ES",
+                "type": "folder",
+                "id": "1aR2kVUHlJN1civyOQkq4O5NpBGe74Mfw",
+                "children": [
+                  {
+                    "name": "ES_25-I.pdf",
+                    "type": "file",
+                    "id": "1106kKWEbD40O_vlLvQ9YfrtJG99ovJDl",
+                    "mimeType": "application/pdf",
+                    "size": "222633"
+                  }
+                ]
+              },
+              {
+                "name": "EF",
+                "type": "folder",
+                "id": "12koTyR3IknmhHyqIlYOGLgHWk-l0zv1m",
+                "children": [
+                  {
+                    "name": "SOLUCION_DE_EF_2026.docx",
+                    "type": "file",
+                    "id": "1t-ba3S_7plFymuDccZe7dBF9Vz-pnfzF",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "757230"
+                  },
+                  {
+                    "name": "EF_25-I.pdf",
+                    "type": "file",
+                    "id": "18iOJrveVyY2KdT1kO-eUqflaSfNKk4Vu",
+                    "mimeType": "application/pdf",
+                    "size": "2081632"
+                  }
+                ]
+              },
+              {
+                "name": "EP",
+                "type": "folder",
+                "id": "1qPvVzOoahTeIqGxslBifbv137Blpjqt7",
+                "children": [
+                  {
+                    "name": "EP_26-1_Sol",
+                    "type": "file",
+                    "id": "1BQienWS-j1g8COZPswEhRXEO8pUFxKgn",
+                    "mimeType": "application/pdf",
+                    "size": "502086"
+                  },
+                  {
+                    "name": "EP_25-1.pdf",
+                    "type": "file",
+                    "id": "16nhQvs4FSNETI7kXhjKhlThGsWv64GUN",
+                    "mimeType": "application/pdf",
+                    "size": "401879"
+                  },
+                  {
+                    "name": "EP_25-2_Sol.pdf",
+                    "type": "file",
+                    "id": "18U1Y1snaxWzUqEK0LFbmMsCTTHgjmnML",
+                    "mimeType": "application/pdf",
+                    "size": "380233"
+                  },
+                  {
+                    "name": "EP_25-2.pdf",
+                    "type": "file",
+                    "id": "1W0ymkDYujdp70IIwztS26lUWz2z_z9YA",
+                    "mimeType": "application/pdf",
+                    "size": "158736"
+                  },
+                  {
+                    "name": "EP_26-1",
+                    "type": "file",
+                    "id": "17WS4NHi4evKbi1O7ENfWqYuK9rmRH2fL",
+                    "mimeType": "application/pdf",
+                    "size": "1196725"
+                  }
+                ]
+              },
+              {
+                "name": "PC2",
+                "type": "folder",
+                "id": "11cxg-iQ77hyqL_OM_trFr8vyDrUnLiLU",
+                "children": [
+                  {
+                    "name": "PC2_26-1.pdf",
+                    "type": "file",
+                    "id": "1l6lfSpHNz5j3ybGxs3bUSOhFKlOothP7",
+                    "mimeType": "application/pdf",
+                    "size": "360195"
+                  },
+                  {
+                    "name": "PC2_25-I.pdf",
+                    "type": "file",
+                    "id": "1XmzAcd_RFXj5Jdw79sNTIewUpTKKwfZh",
+                    "mimeType": "application/pdf",
+                    "size": "1092121"
+                  }
+                ]
+              },
+              {
+                "name": "PC1",
+                "type": "folder",
+                "id": "1P2E5BB6PbqTSzqM3FvQ2n1sNDvlGEnzC",
+                "children": [
+                  {
+                    "name": "Solucionario_de_PC1_SW301_2026-1.pdf",
+                    "type": "file",
+                    "id": "1omkvBOBMxiGj9gMvuGx-vvcMmHL3snQz",
+                    "mimeType": "application/pdf",
+                    "size": "539701"
+                  },
+                  {
+                    "name": "PC1_26-I.pdf",
+                    "type": "file",
+                    "id": "1mL8ylV1FJ-ckEOp_7BfBW_EUPBm6FVxQ",
+                    "mimeType": "application/pdf",
+                    "size": "306493"
+                  },
+                  {
+                    "name": "PC1_25-I.pdf",
+                    "type": "file",
+                    "id": "1lFmCyfwssAXs55ZNpQb5HvXlVzUKO64F",
+                    "mimeType": "application/pdf",
+                    "size": "354254"
+                  },
+                  {
+                    "name": "PC1_25-II_Sol.pdf",
+                    "type": "file",
+                    "id": "149lv1XUvjCexTLD2QhVSHHbkjSJUMj3x",
+                    "mimeType": "application/pdf",
+                    "size": "598980"
+                  },
+                  {
+                    "name": "PC1_25-II.pdf",
+                    "type": "file",
+                    "id": "1sUxX42oM9lo8ZAOGp6VtiXUUh1jwQUP7",
+                    "mimeType": "application/pdf",
+                    "size": "221539"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Problemas",
+            "type": "folder",
+            "id": "1uEq_y_O0bOptqyreL3PChhfsbx93DYJ9",
+            "children": [
+              {
+                "name": "ejercicios_para_PC1.docx",
+                "type": "file",
+                "id": "1qvXdwvJhjVkQftHJMEX-hmWnSZf96TvY",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "87889"
+              },
+              {
+                "name": "solucion_ej1.pdf",
+                "type": "file",
+                "id": "1PdDirEx8Lg6wXLFbyrqTna2YHdx2PMNJ",
+                "mimeType": "application/pdf",
+                "size": "152121"
+              },
+              {
+                "name": "PROBLEMAS_PARA_A1_v3-1.pdf",
+                "type": "file",
+                "id": "1q_beGEfEM1oAMOK4G-1EHK4ayQsvjd-X",
+                "mimeType": "application/pdf",
+                "size": "741041"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Teoría",
+        "type": "folder",
+        "id": "18WybF9FF53NmEv684JrqHK54Betka0yO",
+        "children": [
+          {
+            "name": "Libros",
+            "type": "folder",
+            "id": "1RmAjgvJUap92InO5It-GGEolYoddIfsG",
+            "children": [
+              {
+                "name": "Microprocesadores_intel_-_Barry_B._Brey1.pdf",
+                "type": "file",
+                "id": "181WlWMLztdVT8qd_2E03j4C-CCcNBQkU",
+                "mimeType": "application/pdf",
+                "size": "7026675"
+              },
+              {
+                "name": "Organizacion_y_arquitectura_de_computadoras.pdf",
+                "type": "file",
+                "id": "1JFnEPeoBH58tnB5G8BGNsnIpDasuOe_L",
+                "mimeType": "application/pdf",
+                "size": "4902329"
+              },
+              {
+                "name": "David_Harris_Sarah_Harris-Digital_Design_and_Computer_Architecture-EN.pdf",
+                "type": "file",
+                "id": "1YsXOtjewgHXE1uzHrF6MAZgaaP3G0ShO",
+                "mimeType": "application/pdf",
+                "size": "5073556"
+              }
+            ]
+          },
+          {
+            "name": "PPT",
+            "type": "folder",
+            "id": "1t-U49KrjFJ8etbzHKJaol4N3RVlJEpCQ",
+            "children": [
+              {
+                "name": "Semana_5.pdf",
+                "type": "file",
+                "id": "1-7MA-4Zl1vOSSlcZa4Up22eCUfL33ZPW",
+                "mimeType": "application/pdf",
+                "size": "3890693"
+              },
+              {
+                "name": "Semana_11.pdf",
+                "type": "file",
+                "id": "1A5OsePh_iFtLBz7XJgAOVvY4HgfTB2bF",
+                "mimeType": "application/pdf",
+                "size": "3189661"
+              },
+              {
+                "name": "Semana_12.pdf",
+                "type": "file",
+                "id": "1Sxy0uDmlR9umlsP-3UAgPVGpHd6azOxz",
+                "mimeType": "application/pdf",
+                "size": "2845194"
+              },
+              {
+                "name": "Semana_14.pdf",
+                "type": "file",
+                "id": "1e_rhHhZj3RpSvb4RiYuDqjbHyb2cHy2j",
+                "mimeType": "application/pdf",
+                "size": "2965129"
+              },
+              {
+                "name": "Semana_13.pdf",
+                "type": "file",
+                "id": "1_LSEfCh6MJ8qzk-1tJDeFLwZN9qxMYfE",
+                "mimeType": "application/pdf",
+                "size": "1333318"
+              },
+              {
+                "name": "Semana_10.pdf",
+                "type": "file",
+                "id": "1d_O_xZe_f08L26Am-PT8cAbtHO8rxE27",
+                "mimeType": "application/pdf",
+                "size": "3686454"
+              },
+              {
+                "name": "Semana_9.pdf",
+                "type": "file",
+                "id": "11Ji48nQ60orOplhz_caCNRZHDQAOMOEQ",
+                "mimeType": "application/pdf",
+                "size": "1747228"
+              },
+              {
+                "name": "Semana_7.pptx",
+                "type": "file",
+                "id": "1RPUCMq4wc29QisxKJcD0KOHz9nAdgt2M",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "14102461"
+              },
+              {
+                "name": "Semana_6.pdf",
+                "type": "file",
+                "id": "1TGQUlezt9brTRqiNeqkX9ow5esMd5oWG",
+                "mimeType": "application/pdf",
+                "size": "3053925"
+              },
+              {
+                "name": "Semana_4.pdf",
+                "type": "file",
+                "id": "1gf80AEXcGjQBVA_-U-Tl4haAQcODxhI5",
+                "mimeType": "application/pdf",
+                "size": "3181615"
+              },
+              {
+                "name": "Semana_3.pdf",
+                "type": "file",
+                "id": "1_tOWJ_l5PoQ9-Jhll5hOcIaA_pEx45gS",
+                "mimeType": "application/pdf",
+                "size": "1457639"
+              },
+              {
+                "name": "Semana_1_y_2.pdf",
+                "type": "file",
+                "id": "15Fzj4C30rByIouNEfeRK9q98mWtFhYS9",
+                "mimeType": "application/pdf",
+                "size": "1571090"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "SILABO_ARQUITECTURA_I.pdf",
+        "type": "file",
+        "id": "1WcpBGoDJ4--aTp47KNiGjqfDij-uKfhf",
+        "mimeType": "application/pdf",
+        "size": "281875"
+      }
+    ]
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "course_id": "SW405",
+  "course_name": "Ingeniería_de_Requerimientos_I",
+  "id": "1XwcAMpZR6O5s7yvG1pKmQYU6tIsiHMzN",
+  "scanned_at": "2026-08-06T23:55:36.364321+00:00",
+  "tree": {
+    "name": "Ingeniería_de_Requerimientos_I",
+    "type": "folder",
+    "id": "1XwcAMpZR6O5s7yvG1pKmQYU6tIsiHMzN",
+    "children": [
+      {
+        "name": "Planchas",
+        "type": "folder",
+        "id": "1LXjju6oJdsPczuCJB7SISKnTsJier-uw",
+        "children": [
+          {
+            "name": "ES",
+            "type": "folder",
+            "id": "10XHEQf86TYMQ8YMzNqGUJo9uU3aMqglf",
+            "children": [
+              {
+                "name": "SW405_ES_25-2_ENUNCIADO_Y_SOL",
+                "type": "file",
+                "id": "12As22Y65wSDlMBcAovTNzsntCjKv9y91",
+                "mimeType": "application/pdf",
+                "size": "75910"
+              }
+            ]
+          },
+          {
+            "name": "EF",
+            "type": "folder",
+            "id": "1ujNi-F15u_LtBpfq39F99qKArUlG5Blg",
+            "children": [
+              {
+                "name": "SW405_EF_25-2_ENUNCIADO_Y_SOL",
+                "type": "file",
+                "id": "1V00VHYuQqLvA7DjHjnaAFWZd7GGXCobi",
+                "mimeType": "application/pdf",
+                "size": "144513"
+              },
+              {
+                "name": "SW405_EF_25-1_SOL",
+                "type": "file",
+                "id": "1AL_Ogrw1sHf5DbF_33WoXbBOvAQCLI3-",
+                "mimeType": "application/pdf",
+                "size": "135191"
+              },
+              {
+                "name": "SW405_EF_25-1",
+                "type": "file",
+                "id": "1Cv-NWWlAbHCnT_K3jK_z3OriDMj8RTuo",
+                "mimeType": "application/pdf",
+                "size": "213684"
+              }
+            ]
+          },
+          {
+            "name": "EP",
+            "type": "folder",
+            "id": "1hEKJEXDrMeoiLG3LG4aypSgBZ8GSOe7n",
+            "children": [
+              {
+                "name": "SW405_EP_25-2",
+                "type": "file",
+                "id": "1Uu1s8Kiw_xxeTL36H6pNheVpcXC1Ogon",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "27702"
+              },
+              {
+                "name": "SW405_EP_26-1.pdf",
+                "type": "file",
+                "id": "19iDAZHJVDtuwxeZxGHomzCV3MivZj7-R",
+                "mimeType": "application/pdf",
+                "size": "275457"
+              },
+              {
+                "name": "SW405_EP_25-1.pdf",
+                "type": "file",
+                "id": "1yMrwL10NAA5CJrOwMXSCC9fKy5QK4Tkj",
+                "mimeType": "application/pdf",
+                "size": "70079"
+              }
+            ]
+          },
+          {
+            "name": "PC4",
+            "type": "folder",
+            "id": "1kQPMg0mXrVs9KKqnxuenSYsRufEUBYRd",
+            "children": [
+              {
+                "name": "SW405_PC4_25-1_caso_4_y_caso_4.2.pdf",
+                "type": "file",
+                "id": "1bA78qPbftMvDKtkMCJvaMf7D-qsoAg4B",
+                "mimeType": "application/pdf",
+                "size": "175771"
+              }
+            ]
+          },
+          {
+            "name": "PC3",
+            "type": "folder",
+            "id": "1t4KiXdsPDY3XCOvEeW9HGLG52y45k3d4",
+            "children": [
+              {
+                "name": "SW405_PC3_25-1.pdf",
+                "type": "file",
+                "id": "1_V1KQrWMLhgpD8iKuwfnSUXU0AeUs0wv",
+                "mimeType": "application/pdf",
+                "size": "29449"
+              }
+            ]
+          },
+          {
+            "name": "PC2",
+            "type": "folder",
+            "id": "1rEzGjCyJRohB3qWX5EPrOjRj6skhoeQ9",
+            "children": [
+              {
+                "name": "SW405_PC2_25-1.pdf",
+                "type": "file",
+                "id": "1CfjjUmT6wQmloS90pPMEKXuQY8_fvUUL",
+                "mimeType": "application/pdf",
+                "size": "27880"
+              }
+            ]
+          },
+          {
+            "name": "PC1",
+            "type": "folder",
+            "id": "1rXYLSchg8phNZphmei0kP2OM-EFgdvXx",
+            "children": [
+              {
+                "name": "SW405_PC1_25-1",
+                "type": "file",
+                "id": "1dTnHO7IlUfhqfh5jyKxh68iVtdZxK4PP",
+                "mimeType": "image/png",
+                "size": "358919"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "SILABO-SW405_Ingenieria_de_Requerimientos_I.pdf",
+        "type": "file",
+        "id": "1OC0tmarUipj83-jGKvZhHcc1sWl8PTg6",
+        "mimeType": "application/pdf",
+        "size": "206744"
+      },
+      {
+        "name": "Teoria",
+        "type": "folder",
+        "id": "1_IZqILOomk5qVrh7MFd8m42rzPa6Uc0b",
+        "children": [
+          {
+            "name": "Tema_15",
+            "type": "folder",
+            "id": "1yMt5ZLfqXktdxjafjwfjbuAniKHuU0q7",
+            "children": [
+              {
+                "name": "IR_I_UNI_15_Introduccion_a_TOGAF.pdf",
+                "type": "file",
+                "id": "1ZNXtKOa-2TThgLp_Vwls_LW2lgyOCkQD",
+                "mimeType": "application/pdf",
+                "size": "758576"
+              }
+            ]
+          },
+          {
+            "name": "Tema_10",
+            "type": "folder",
+            "id": "1KDAYvLMvTyrkzioGMa0vBORV-2i5cIcd",
+            "children": [
+              {
+                "name": "Matriz_de_Requerimientos_v1.xls",
+                "type": "file",
+                "id": "1SYSUN51tJnGKEyJ6tG2EgCQ4yOmnamKt",
+                "mimeType": "application/vnd.ms-excel",
+                "size": "44544"
+              },
+              {
+                "name": "LINK_Video_Casos_de_USO_con_StarUML_(2).pdf",
+                "type": "file",
+                "id": "1ZzvN4B9mxpugAMPY0keGfMZ6X9gJdHId",
+                "mimeType": "application/pdf",
+                "size": "49177"
+              },
+              {
+                "name": "IR_I_UNI_10_Técnicas_UML_II.pdf",
+                "type": "file",
+                "id": "1F1QE3CksNmQjE8kk5UsvMpYsQta-sHkz",
+                "mimeType": "application/pdf",
+                "size": "1079321"
+              }
+            ]
+          },
+          {
+            "name": "Tema_9",
+            "type": "folder",
+            "id": "1mX5FLvDq0Jva1jcneD52K-MAOz72PoJ2",
+            "children": [
+              {
+                "name": "IR_I_UNI_9_Técnicas_UML_I.pdf",
+                "type": "file",
+                "id": "1Og42Vwf7QcJJliqFWLKPmIhzBFJ_1NMt",
+                "mimeType": "application/pdf",
+                "size": "4731846"
+              },
+              {
+                "name": "IR_I_Instalacion_y_Link_StarUML.pdf",
+                "type": "file",
+                "id": "1udCRJLo0Mwt8iPZ9Oox_CbXO4V9Iifq8",
+                "mimeType": "application/pdf",
+                "size": "964942"
+              }
+            ]
+          },
+          {
+            "name": "Tema_7",
+            "type": "folder",
+            "id": "13DmClQgmRexc0XNRiD_losCId4NZMS-e",
+            "children": [
+              {
+                "name": "IR_I_UNI_7_Fundamentos_del_BABOK.pdf",
+                "type": "file",
+                "id": "1Vzqjok2mKqHvVAecfkQKvGPAG-1ZcNy4",
+                "mimeType": "application/pdf",
+                "size": "1335590"
+              },
+              {
+                "name": "IR_I_UNI_7_Elicitación_bajo_el_enfoque_BABOK.pdf",
+                "type": "file",
+                "id": "1l0VfTmFsyQdF8UcCj4wbESHbHy-4eiZi",
+                "mimeType": "application/pdf",
+                "size": "814038"
+              }
+            ]
+          },
+          {
+            "name": "Tema_6",
+            "type": "folder",
+            "id": "1ZXN5mIID4z2z96Qc3lymkqKBZ174DaWO",
+            "children": [
+              {
+                "name": "IR_I_UNI_6_Técnicas_de_la_Elicitación.pdf",
+                "type": "file",
+                "id": "1S2jfPn2rpTbTabEM7VvFYjTrtd8kHWSI",
+                "mimeType": "application/pdf",
+                "size": "1703786"
+              }
+            ]
+          },
+          {
+            "name": "Extra",
+            "type": "folder",
+            "id": "1bLLUBlzAHMziwTyBch0K0b7sGHsAivcQ",
+            "children": [
+              {
+                "name": "BABOK_Guide_v3_Member.pdf",
+                "type": "file",
+                "id": "1kTaGDn1Um92TtMDHD6kE0PcNxZDk8uPQ",
+                "mimeType": "application/pdf",
+                "size": "3205728"
+              }
+            ]
+          },
+          {
+            "name": "Tema_5",
+            "type": "folder",
+            "id": "1HCSR6WPFKYPLx3bSPCOVnn_KRiY4deYQ",
+            "children": [
+              {
+                "name": "IR_I_UNI_5_Problematica.pdf",
+                "type": "file",
+                "id": "1ialzVDumFxAsoCYjqjkrdKkxDy_8AHPu",
+                "mimeType": "application/pdf",
+                "size": "433857"
+              },
+              {
+                "name": "IR_I_UNI_5_yEd_Graph_Editor.pdf",
+                "type": "file",
+                "id": "1PvbaKGYdJzgKHFdmk7UB4k3zFGlm_qvq",
+                "mimeType": "application/pdf",
+                "size": "466975"
+              },
+              {
+                "name": "IR_I_UNI_5_Evolución_de_los_Requerimientos.pdf",
+                "type": "file",
+                "id": "1jnbF53XOEjoE5lNJDadEkoCIQJtb8xv0",
+                "mimeType": "application/pdf",
+                "size": "784006"
+              }
+            ]
+          },
+          {
+            "name": "Tema_4",
+            "type": "folder",
+            "id": "1zdLZqU3V--nhSOya-o0yoDOIkEYp64R9",
+            "children": [
+              {
+                "name": "IR_I_UNI_4_Tipos_de_Requerimientos.pdf",
+                "type": "file",
+                "id": "1WMqh3R8XZylXcu99QVzVaZ44nIdLgQBP",
+                "mimeType": "application/pdf",
+                "size": "908752"
+              }
+            ]
+          },
+          {
+            "name": "Tema_3",
+            "type": "folder",
+            "id": "1sLly1BPRZcYNKZZj_diZGOsHvuLAms-P",
+            "children": [
+              {
+                "name": "IR_I_UNI_3_IIBA_y_Procesos_de_Requerimientos.pdf",
+                "type": "file",
+                "id": "17jLNj9wKeBpTQSc73lm7PzIcws5k-GLS",
+                "mimeType": "application/pdf",
+                "size": "1129274"
+              },
+              {
+                "name": "IR_I_UNI_3_Procesos_de_Requerimientos.pdf",
+                "type": "file",
+                "id": "19vrVzIkT5-5JD2G7Qhs7_o-06LyskCdg",
+                "mimeType": "application/pdf",
+                "size": "1559843"
+              }
+            ]
+          },
+          {
+            "name": "Tema_2",
+            "type": "folder",
+            "id": "14BQaMa-YOWaNTd0WFj69ULOVf6X2NZqF",
+            "children": [
+              {
+                "name": "IR_I_UNI_2_Fund.de_IR_y_buenas_practicas.pdf",
+                "type": "file",
+                "id": "14c5yepVEcH9p7SDGRKJiRv3N48nSReeY",
+                "mimeType": "application/pdf",
+                "size": "1208212"
+              }
+            ]
+          },
+          {
+            "name": "Tema_1",
+            "type": "folder",
+            "id": "1L8kvaAB00MBkHuO3UJo2nCw3MbMAiWrT",
+            "children": [
+              {
+                "name": "IR_I_UNI_1_Conceptos_Generales.pdf",
+                "type": "file",
+                "id": "1bCCYlX0U0wuA3BSxneWULmYrJlV57ayc",
+                "mimeType": "application/pdf",
+                "size": "1724147"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

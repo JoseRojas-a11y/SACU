@@ -1,0 +1,783 @@
+{
+  "course_id": "SI403",
+  "course_name": "Metodología_de_Sistemas_Blandos",
+  "id": "1MDnERzW5NlLgwRRsqW00h_7d4kv7JgRE",
+  "scanned_at": "2026-08-07T00:03:52.617575+00:00",
+  "tree": {
+    "name": "Metodología_de_Sistemas_Blandos",
+    "type": "folder",
+    "id": "1MDnERzW5NlLgwRRsqW00h_7d4kv7JgRE",
+    "children": [
+      {
+        "name": "7_-_Situacion_No_Estructurada",
+        "type": "folder",
+        "id": "1AZzc2OgEu1RRMfF1QfDmYe2jTqbxhbp6",
+        "children": [
+          {
+            "name": "metodologia-de-checlkland.doc",
+            "type": "file",
+            "id": "1DFk-qnRC4bWE2fJd7m1qA_UzcP4UjRf9",
+            "mimeType": "application/msword",
+            "size": "453632"
+          },
+          {
+            "name": "Unidad_6_sistemas.pdf",
+            "type": "file",
+            "id": "1eqYsiQpwafhK2viWXl0C_UVHDs6bsry3",
+            "mimeType": "application/pdf",
+            "size": "33683"
+          },
+          {
+            "name": "metEstrucProb.pdf",
+            "type": "file",
+            "id": "1nv6hAJ5geAJJx2ZuWS0vhcvHXxiHcm-A",
+            "mimeType": "application/pdf",
+            "size": "12966183"
+          },
+          {
+            "name": "ssm.pdf",
+            "type": "file",
+            "id": "18AoJJd45THcNvlPbaOYagjwH74wqhqkg",
+            "mimeType": "application/pdf",
+            "size": "20976"
+          },
+          {
+            "name": "MSB.pdf",
+            "type": "file",
+            "id": "1VasxHJfq2yEjImpSb4QTQNJwmsCZzw2T",
+            "mimeType": "application/pdf",
+            "size": "405629"
+          }
+        ]
+      },
+      {
+        "name": "2_-_Moralidad_de_Sistemas",
+        "type": "folder",
+        "id": "1Pn_zv1PH8L6RNbn_q_suJVVCt6DorNYz",
+        "children": [
+          {
+            "name": "Los_Sistemas_Eticos_y_Morales.pptm",
+            "type": "file",
+            "id": "1jpPYoBqGBqPWQXzPD-TW4j1j1SWLmFuK",
+            "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "size": "57594"
+          },
+          {
+            "name": "eval-impacto-amb.pdf",
+            "type": "file",
+            "id": "1EkokozHlTTn7CqPxJl2CIMPxytqaKNdo",
+            "mimeType": "application/pdf",
+            "size": "1148957"
+          },
+          {
+            "name": "eval_impac_amb_Comentarios_finales_de_PLNG_.pdf",
+            "type": "file",
+            "id": "1MrDgCAdorK29yJlIb_LRqFaoYH74KQKt",
+            "mimeType": "application/pdf",
+            "size": "13206701"
+          },
+          {
+            "name": "etica-moral.pptx",
+            "type": "file",
+            "id": "1IUXL2DQggiKj59v3Uh2Xlvj3mibnzvna",
+            "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "size": "112021"
+          },
+          {
+            "name": "impactoambiental-social.pdf",
+            "type": "file",
+            "id": "1LQPn1Ilxsy5VyJGfxFA-W6HjODCVMNY4",
+            "mimeType": "application/pdf",
+            "size": "749469"
+          },
+          {
+            "name": "Teoria_sistemas_b.ppt",
+            "type": "file",
+            "id": "11M48pvo2L-snyo3CX_8GkVuTDmmkRXA9",
+            "mimeType": "application/vnd.ms-powerpoint",
+            "size": "715776"
+          },
+          {
+            "name": "etica-para-ingenieros.pdf",
+            "type": "file",
+            "id": "1t6-1AesUkEg9KtqrNkhaiFSYTVS6x5bJ",
+            "mimeType": "application/pdf",
+            "size": "6392632"
+          },
+          {
+            "name": "ETICA_PARA_INGENIEROS.pptx",
+            "type": "file",
+            "id": "1fc9sE3jxpM3dmQlPe2DJOKYDb83q985w",
+            "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "size": "256033"
+          },
+          {
+            "name": "moral-etica.pptx",
+            "type": "file",
+            "id": "14nMCO0WdQYU2aHMj9tiGfCCukAYuSZLY",
+            "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "size": "123153"
+          },
+          {
+            "name": "moral-evaluacion-impacto-amnbiental.pdf",
+            "type": "file",
+            "id": "1CWbY-E4E4IqaNBeAFBe91cjjSsmAH_9b",
+            "mimeType": "application/pdf",
+            "size": "621211"
+          },
+          {
+            "name": "etica.pptx",
+            "type": "file",
+            "id": "1_DScy11pO1YPMqgJilqMVzAADXtoNLWz",
+            "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "size": "123153"
+          },
+          {
+            "name": "etica-para-ing.pdf",
+            "type": "file",
+            "id": "1tk8cXAZu-vSerZ-w9BTZHgu6CWVag_8h",
+            "mimeType": "application/pdf",
+            "size": "15608466"
+          },
+          {
+            "name": "Guia-Impactos.pdf",
+            "type": "file",
+            "id": "1KLoZVWugKNztpu4Fw8wgoju01FzNHarH",
+            "mimeType": "application/pdf",
+            "size": "9265374"
+          },
+          {
+            "name": "evaluacion_de_impacto_ambiental.ppt",
+            "type": "file",
+            "id": "1iadtuld7cfmtuLZd-PtqG5Oi4Ur1gob3",
+            "mimeType": "application/vnd.ms-powerpoint",
+            "size": "2275840"
+          }
+        ]
+      },
+      {
+        "name": "3_-_Metodologia_de_Investigacion",
+        "type": "folder",
+        "id": "1lBHiXw0V22WK-VGrVyDZnAoCT_eQ_ZGc",
+        "children": [
+          {
+            "name": "Metodología_de_la_investigación_-_Sexta_Edición.pdf",
+            "type": "file",
+            "id": "1OgZCT0uuYHCJyCkXOelbbA5Gvd9FqypX",
+            "mimeType": "application/pdf",
+            "size": "6616781"
+          },
+          {
+            "name": "Microsoft_Word_-_4-analisis.pdf",
+            "type": "file",
+            "id": "1mJj96iS7j2lOu11qL8c44H1nT5ynj7ft",
+            "mimeType": "application/pdf",
+            "size": "76249"
+          },
+          {
+            "name": "Estudios_de_caso_en_investigación_cualitativa.pdf",
+            "type": "file",
+            "id": "1t8tzxl8mh4KAaJuPGLI3s-1dbEYtGSir",
+            "mimeType": "application/pdf",
+            "size": "94558"
+          },
+          {
+            "name": "TITULO_1.pdf",
+            "type": "file",
+            "id": "1rKjAhJQpez10Y4amx5BBo8wxNpYdAWkS",
+            "mimeType": "application/pdf",
+            "size": "1029661"
+          },
+          {
+            "name": "investigCualitativ.pdf",
+            "type": "file",
+            "id": "1sC2-JaM6Fdry_1G8TLDPo1HtZI0z1Dyv",
+            "mimeType": "application/pdf",
+            "size": "1261845"
+          },
+          {
+            "name": "metInvestCualitat.pdf",
+            "type": "file",
+            "id": "1sxLfE5YBEPES_iFkGWnaMLeaux4XYHp8",
+            "mimeType": "application/pdf",
+            "size": "256858"
+          },
+          {
+            "name": "METODOLOGÍA+PARA+LA+VALIDACIÓN+DE+UNA+ESCALA.pdf",
+            "type": "file",
+            "id": "1fSp5mjuQCrFw3RZZ4LjAkreeO8IpVHEg",
+            "mimeType": "application/pdf",
+            "size": "123931"
+          },
+          {
+            "name": "Microsoft_Word_-_Capitulo_III_Marco_Metodol_gico.doc.pdf",
+            "type": "file",
+            "id": "1p3Vpga7c0vMnuiyYEk1J0eupXJIeoRfW",
+            "mimeType": "application/pdf",
+            "size": "390515"
+          },
+          {
+            "name": "Entrevista.pdf",
+            "type": "file",
+            "id": "1Esg882N6t7CDuhi9jmgXOii1QOuPNtA0",
+            "mimeType": "application/pdf",
+            "size": "332027"
+          },
+          {
+            "name": "Técnicas_e_instrumentos_de_investigación_cuantitativa.pdf",
+            "type": "file",
+            "id": "1lCQu8RV1J2coZcEGkxItkYWYAcedQCtw",
+            "mimeType": "application/pdf",
+            "size": "2982302"
+          },
+          {
+            "name": "(Microsoft_Word_-_Univ._Alberto_Hurtado_-_Taller_Investigaci_363n_cualitativa._Dise_361os_en_investigaci_363n_cualitativa.doc).pdf",
+            "type": "file",
+            "id": "1bNNnfw7Iqk3kdf6ExaK4_04hRugEpSd4",
+            "mimeType": "application/pdf",
+            "size": "255921"
+          },
+          {
+            "name": "Mtodos_y_tcnicas_de_investigacin_cuantitativa_y_cualitativa.pdf",
+            "type": "file",
+            "id": "1WkdcMrF99lNW1vVUuSwMOyn5e3XOw-XP",
+            "mimeType": "application/pdf",
+            "size": "175987"
+          },
+          {
+            "name": "7_-_Métodos_cualitativos_de_recolección_de_información.pdf",
+            "type": "file",
+            "id": "11OkC2nRXXffbOBTk15JwmmNHPnGhJFZN",
+            "mimeType": "application/pdf",
+            "size": "113406"
+          },
+          {
+            "name": "analisiscualitativo.pdf",
+            "type": "file",
+            "id": "18K2_3YIIwL1ao4yUjT-90fq5EWiNyr0l",
+            "mimeType": "application/pdf",
+            "size": "1217247"
+          },
+          {
+            "name": "MSB_Y_LA_INVESTIGACION.pptx",
+            "type": "file",
+            "id": "1A9aFUHxU1vy5YHPMTIE1i1P651Mvqa5g",
+            "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "size": "100215"
+          },
+          {
+            "name": "Técnicas_e_instrum._cualitat.Libro.pdf",
+            "type": "file",
+            "id": "1WInpYml74ubFj8D1i3qDbPq1PyYAHKIM",
+            "mimeType": "application/pdf",
+            "size": "330991"
+          },
+          {
+            "name": "Redalyc.Econograma_Diseño_de_un_Instrumento_Cualitativo_para_Investigación_en_Ambientes_Sociales_con_poca_o_nula_Información_Socioeconómica_de_base.pdf",
+            "type": "file",
+            "id": "1hR9u6auKbsWdEWj1jhYyeLiq5WrrWDss",
+            "mimeType": "application/pdf",
+            "size": "247720"
+          },
+          {
+            "name": "Criterios_de_validez_en_la_investigacion_cualitativa_de_la_objetividad_a_la_solidaridad.pdf",
+            "type": "file",
+            "id": "1Sc21OmYdoNNo8s2IL-_u2JHZhSTiLacy",
+            "mimeType": "application/pdf",
+            "size": "109409"
+          },
+          {
+            "name": "validadc-expertos.pdf",
+            "type": "file",
+            "id": "1CJPMlpgQvsWpIvgFn8EJ1xiLRPrFLy3d",
+            "mimeType": "application/pdf",
+            "size": "2749356"
+          },
+          {
+            "name": "B94C3776.tmp.pdf",
+            "type": "file",
+            "id": "1M5lcSMaW8VGpv3bSsQAEsCMHD_H0rxgD",
+            "mimeType": "application/pdf",
+            "size": "2373521"
+          },
+          {
+            "name": "Guia-didactica-metodologia-de-la-investigacion.pdf",
+            "type": "file",
+            "id": "1h6PafKv_cxXVP3_7rDn7b8gsisyjmzzo",
+            "mimeType": "application/pdf",
+            "size": "2661730"
+          },
+          {
+            "name": "EEES.pdf",
+            "type": "file",
+            "id": "1o_UNhlSnySqg-s5gpnEyMJMeQDz16vc9",
+            "mimeType": "application/pdf",
+            "size": "774793"
+          },
+          {
+            "name": "paradigm_investigacCarlos_Ramos.pdf",
+            "type": "file",
+            "id": "1ldcjTKdywRIQmiyJ9LLvakp6NQKLJi9p",
+            "mimeType": "application/pdf",
+            "size": "229250"
+          },
+          {
+            "name": "Paradigmas_en_la_Investigación.docx",
+            "type": "file",
+            "id": "1IhlKgwls9Q1sHHpH4gXScz5hZGMK2053",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "419214"
+          },
+          {
+            "name": "analisisContenido.pdf",
+            "type": "file",
+            "id": "1OnGAHnnGe7X0o99VQCYIur5EfHTzWYoN",
+            "mimeType": "application/pdf",
+            "size": "2340930"
+          },
+          {
+            "name": "u-2-02-0-cerda7.pdf",
+            "type": "file",
+            "id": "1dhrBKnZI07vZILRa5LmirQoQWKGh4rta",
+            "mimeType": "application/pdf",
+            "size": "395023"
+          },
+          {
+            "name": "investigacioncualitativa.doc",
+            "type": "file",
+            "id": "1FUKIJw-Vu5w3j_PoLcepJM_KxGvOetJZ",
+            "mimeType": "application/msword",
+            "size": "150528"
+          },
+          {
+            "name": "3._metodos_de_investigacion.pdf",
+            "type": "file",
+            "id": "1U2NJW9_meVzl6MlViF83ZUDobyT9nnjp",
+            "mimeType": "application/pdf",
+            "size": "235637"
+          },
+          {
+            "name": "ebook_Practica_Investigacion_Cualitativa_Espanol.pdf",
+            "type": "file",
+            "id": "1mpDGa8Dn9hWpFFMIlOQG8UyRGyk6yAKq",
+            "mimeType": "application/pdf",
+            "size": "3518454"
+          },
+          {
+            "name": "Técnicas_para_IAP.pdf",
+            "type": "file",
+            "id": "1sXWqbCfBRDBv6nfMVLIahw48Uzlu_bDB",
+            "mimeType": "application/pdf",
+            "size": "79126"
+          },
+          {
+            "name": "Microsoft_Word_-_L5_Técnicas_e_instrumentos.doc.pdf",
+            "type": "file",
+            "id": "1hQ7yv18v4OpOB9uMZ0HCDYQbEzhwJrk9",
+            "mimeType": "application/pdf",
+            "size": "281791"
+          }
+        ]
+      },
+      {
+        "name": "6_-_Ejemplos",
+        "type": "folder",
+        "id": "1x8AE89ZAGqh_tCPqXMa55ZFCuwXQBLPm",
+        "children": [
+          {
+            "name": "Redalyc.Estudio_de_sistemas_blandos_para_eldesarrollo_de_un_sistema_de_información_gerencial,mediante_una_adaptación_de_la_metodología_para_sistemas_blandos_de_Peter_Checkland.pdf",
+            "type": "file",
+            "id": "1QflXTc-EJb6iuxUv1ZVMj6j_gx_5rAtT",
+            "mimeType": "application/pdf",
+            "size": "544091"
+          },
+          {
+            "name": "Abel_Sihuincha_Tesis_Titulo_Profesional_2018.pdf",
+            "type": "file",
+            "id": "1LefM19E9FklPWi-NX_GZ7rKXj78K8nad",
+            "mimeType": "application/pdf",
+            "size": "3086517"
+          },
+          {
+            "name": "MSB-calidad.pdf",
+            "type": "file",
+            "id": "1UQAnDR-3IcdNRJcA7nSGIJWTAYb0SbYC",
+            "mimeType": "application/pdf",
+            "size": "174702"
+          },
+          {
+            "name": "articulo3.pdf",
+            "type": "file",
+            "id": "1f7iElWHtP5savhx_oE24NZfxTLSoe4WK",
+            "mimeType": "application/pdf",
+            "size": "476338"
+          },
+          {
+            "name": "Dueñas_Zambrana_Danny_Rodney_Cutipa_Mendoza_Julio_Cesar_(1).pdf",
+            "type": "file",
+            "id": "1xZKcSqVLVJUfa6Qa1XYY5I4ppIFfEosF",
+            "mimeType": "application/pdf",
+            "size": "11467890"
+          },
+          {
+            "name": "T_047_40479329_M.pdf",
+            "type": "file",
+            "id": "1MZHMVZfOgj3rtToIeSJ_E5RHWPcAKmOZ",
+            "mimeType": "application/pdf",
+            "size": "13914445"
+          },
+          {
+            "name": "UNIVERSIDAD_INCA_GARCILASO_DE_LA_VEGA.pdf",
+            "type": "file",
+            "id": "1Dippc4XCWjZL6hXwS-wi6OT5Hvlt9Wmd",
+            "mimeType": "application/pdf",
+            "size": "2164361"
+          }
+        ]
+      },
+      {
+        "name": "5_-_Sistemas_Duros_y_Blandos",
+        "type": "folder",
+        "id": "1eJqeabI1ruy5E_6hayhbWfryUYP13VX6",
+        "children": [
+          {
+            "name": "Modelo_de_Peter_Checkland_Metodología_de_Sistemas_Blandos_-_PDF.pdf",
+            "type": "file",
+            "id": "1BW7Als2H-FziZTCSfxEPvr3CzwPU2X1r",
+            "mimeType": "application/pdf",
+            "size": "192752"
+          },
+          {
+            "name": "checkland.pdf",
+            "type": "file",
+            "id": "1DCzFdUKnD9XlLHbTPMD_WCDl52d3Amac",
+            "mimeType": "application/pdf",
+            "size": "2163188"
+          },
+          {
+            "name": "MSB-caract.pdf",
+            "type": "file",
+            "id": "1Qqck3vDqZDl7qO9CfNTDCL3B9HmlqUpD",
+            "mimeType": "application/pdf",
+            "size": "771918"
+          },
+          {
+            "name": "(Microsoft_Word_-_METODOLOG_315A_DE_CHECKLAND).pdf",
+            "type": "file",
+            "id": "1JqHGvbI5hC_AJmUXHRrkuZoqJfQ1I3Pk",
+            "mimeType": "application/pdf",
+            "size": "205909"
+          },
+          {
+            "name": "MSB_CONCETOS_PROBLEMAS_BLANDOS_Y_DUROS.pptx",
+            "type": "file",
+            "id": "1fpWwSg6Q-sx-tUVB7dz_1cpiPsmW2I6B",
+            "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "size": "42747"
+          },
+          {
+            "name": "Microsoft_PowerPoint_-_portada_ingenieria_de_sistemas.pdf",
+            "type": "file",
+            "id": "1UpotaPtWkuAq4XXz6__CG5YkSgD0csjD",
+            "mimeType": "application/pdf",
+            "size": "1229920"
+          }
+        ]
+      },
+      {
+        "name": "4_-_Investigacion_Cualitativa",
+        "type": "folder",
+        "id": "1eI7jD4RMA13INMSqmXhRFnotWq0bRbAx",
+        "children": [
+          {
+            "name": "Guia-didactica-metodologia-de-la-investigacion.pdf",
+            "type": "file",
+            "id": "15LZVBc0QGz_2usua5xCAtdhVBnCwLdal",
+            "mimeType": "application/pdf",
+            "size": "2661729"
+          },
+          {
+            "name": "3._metodos_de_investigacion.pdf",
+            "type": "file",
+            "id": "1d9ITZwHEW15qpBbaPPYWOpuGZ0HwGoz3",
+            "mimeType": "application/pdf",
+            "size": "235637"
+          },
+          {
+            "name": "INVESTIGACION_CUALITATIVA.rtf.pdf",
+            "type": "file",
+            "id": "1csnKxZDITURul_voguYiGuUIki2udPiP",
+            "mimeType": "application/pdf",
+            "size": "185471"
+          },
+          {
+            "name": "investigaccionsocuiocrit.pdf",
+            "type": "file",
+            "id": "1-M6igU1nQanNI3j8_NZPe6NK52CsIAIC",
+            "mimeType": "application/pdf",
+            "size": "307537"
+          },
+          {
+            "name": "Mtodos_y_tcnicas_de_investigacin_cuantitativa_y_cualitativa.pdf",
+            "type": "file",
+            "id": "1Ltc5sflxVODjil_EyZXfT6kQBSXTWjLH",
+            "mimeType": "application/pdf",
+            "size": "175987"
+          },
+          {
+            "name": "psicologia_ok.pdf",
+            "type": "file",
+            "id": "1zj8XIWXZ3rOhgzazCrYO5NY3_mkBQb4c",
+            "mimeType": "application/pdf",
+            "size": "277806"
+          },
+          {
+            "name": "Microsoft_Word_-_ficha7-cast.doc.pdf",
+            "type": "file",
+            "id": "1GwJvGBft6MOiSZDFwTjKJX4R2qRPfaPw",
+            "mimeType": "application/pdf",
+            "size": "723736"
+          },
+          {
+            "name": "(Microsoft_Word_-_Metodolog_355a_de_Investigacion_Cualitativa_A.Quintana.doc).pdf",
+            "type": "file",
+            "id": "1xKi3L4owoXxD8-uuNbqz-5t9vIxfG758",
+            "mimeType": "application/pdf",
+            "size": "213122"
+          },
+          {
+            "name": "Técnicas_y_métodos_en_Investigación_cualitativa.pdf",
+            "type": "file",
+            "id": "1YmnlN4odkep24RGPIrSNY1TQ-6KJ4Hvd",
+            "mimeType": "application/pdf",
+            "size": "729557"
+          },
+          {
+            "name": "n64a10.pdf",
+            "type": "file",
+            "id": "1jlceOnSfJ9UWOk4Ofzu5LyNpDWpNhare",
+            "mimeType": "application/pdf",
+            "size": "388340"
+          },
+          {
+            "name": "modulo4.pdf",
+            "type": "file",
+            "id": "1ap0y2baYaOrsOgiK3sf88wvz2svm3btK",
+            "mimeType": "application/pdf",
+            "size": "1261845"
+          },
+          {
+            "name": "a07v26n51.pdf",
+            "type": "file",
+            "id": "13jbTI4rF8HKh1Uzw3gnsY3sMg1sdF8uu",
+            "mimeType": "application/pdf",
+            "size": "239793"
+          },
+          {
+            "name": "Microsoft_Word_-_cuanti_cuali.doc.pdf",
+            "type": "file",
+            "id": "1b-dbrd16Dpza1uAP9zouw2cxgXW5h1am",
+            "mimeType": "application/pdf",
+            "size": "43215"
+          },
+          {
+            "name": "Dialnet-InvestigacionaccionParticipativa-4054232.pdf",
+            "type": "file",
+            "id": "1cCVO4igGQ1JI-IYJSIrwczO42FjjSZB2",
+            "mimeType": "application/pdf",
+            "size": "333749"
+          },
+          {
+            "name": "Microsoft_Word_-_ELLIOT,_Jhon._Cap._1_y_5.doc.pdf",
+            "type": "file",
+            "id": "1VNtKQGoXXD001iCEeXzM9zMLjl81GeBa",
+            "mimeType": "application/pdf",
+            "size": "1679057"
+          },
+          {
+            "name": "INVESTIGACI_323N-ACCI_323N.rtf.pdf",
+            "type": "file",
+            "id": "1tRR1E6wVWgRtO9jkCIHvzfsmnJiao_9_",
+            "mimeType": "application/pdf",
+            "size": "59765"
+          },
+          {
+            "name": "invest-accion.pdf",
+            "type": "file",
+            "id": "1YpxL5y7cn5XGRMoQZFBOfnsktT9OBEhh",
+            "mimeType": "application/pdf",
+            "size": "497420"
+          },
+          {
+            "name": "investigaccion.pdf",
+            "type": "file",
+            "id": "1-LfbmUwJXhs0IoLcQDZ3De3qs6jcV0Gi",
+            "mimeType": "application/pdf",
+            "size": "497420"
+          },
+          {
+            "name": "Estudios_de_caso_en_investigación_cualitativa.pdf",
+            "type": "file",
+            "id": "1Pw1f-ZW6nFnqSa3LlInX_fx3MAF373ZU",
+            "mimeType": "application/pdf",
+            "size": "94558"
+          },
+          {
+            "name": "ebook_Practica_Investigacion_Cualitativa_Espanol.pdf",
+            "type": "file",
+            "id": "1mIrm7VPysnZh9ca_Tf1gI_q7Ux0F8Gqw",
+            "mimeType": "application/pdf",
+            "size": "3518461"
+          },
+          {
+            "name": "Redalyc._IntroducciÃ³n_a_la_metodologÃ_a_de_investigaciÃ³n_cualitativa.pdf",
+            "type": "file",
+            "id": "1etuWFscRp47ioBMhWewo4Lo89LTFnnhH",
+            "mimeType": "application/pdf",
+            "size": "498303"
+          },
+          {
+            "name": "tecnicas-e-instrumentos-recoleccion-datos-cualitativos.doc",
+            "type": "file",
+            "id": "1TvUT4iBSeDasfWs_PnMCo3cXBdApKPTT",
+            "mimeType": "application/msword",
+            "size": "276992"
+          },
+          {
+            "name": "Redalyc.LA_INVESTIGACIÓN_ACCIÓN._Una_herramienta_metodológica_heurística_para_la_comprensión_y_transformación_de_realidades_y_prácticas_socio-educativas.pdf",
+            "type": "file",
+            "id": "1SvWJ7ai3R5dlY6MWo6JxrPxdvsfg8j18",
+            "mimeType": "application/pdf",
+            "size": "707096"
+          },
+          {
+            "name": "MANUAL-DE-INVESTIGACION-CUALITATIVA.pdf",
+            "type": "file",
+            "id": "18lGA1AU4Emj2LHbGQxYFqarPkXGuidKv",
+            "mimeType": "application/pdf",
+            "size": "13873571"
+          },
+          {
+            "name": "La_investigación_cualitativa.pdf",
+            "type": "file",
+            "id": "1EacAB2Bs5ZFPn-k9Bnzamrm9hDEJpDk7",
+            "mimeType": "application/pdf",
+            "size": "568926"
+          },
+          {
+            "name": "Gestures.pdf",
+            "type": "file",
+            "id": "1fj9jFhKub-hRMeN5NRyCW4_XTndSx3PT",
+            "mimeType": "application/pdf",
+            "size": "269371"
+          },
+          {
+            "name": "IAP.pdf",
+            "type": "file",
+            "id": "1tMwFSF2Avc82WdkETdwEzCLZjyops68i",
+            "mimeType": "application/pdf",
+            "size": "189529"
+          },
+          {
+            "name": "12730-Texto_del_artículo-20835-1-10-20131210.pdf",
+            "type": "file",
+            "id": "1VMiKd5DhwmcGJOMenEpKE9fkg2-MQolV",
+            "mimeType": "application/pdf",
+            "size": "141947"
+          },
+          {
+            "name": "investigacioncualitativa.doc",
+            "type": "file",
+            "id": "1LzraeA4fCr7EE96AuNJpzNxDDS1v_FAC",
+            "mimeType": "application/msword",
+            "size": "156672"
+          },
+          {
+            "name": "Redalyc.LA_INVESTIGACIÓN_ACCIÓN._Una_herramienta_metodológica_heurística_para_la_comprensión_y_transformación_de_realidades_y_prácticas_socio-educativas2.pdf",
+            "type": "file",
+            "id": "1V8EIfpd1c8zXt6j6UnaEp6SqDfGrZHBA",
+            "mimeType": "application/pdf",
+            "size": "707096"
+          },
+          {
+            "name": "Dialnet-CaracteristicasMasRelevantesDelParadigmaSociocriti-3070760.pdf",
+            "type": "file",
+            "id": "17kEGBXoImc9Ig1WaKaIOovzeMzkSYekC",
+            "mimeType": "application/pdf",
+            "size": "282436"
+          },
+          {
+            "name": "Dialnet-InvestigacionCualitativa-2766815.pdf",
+            "type": "file",
+            "id": "17LVfbVnEDHiyNeOZvkyX58r-x_0juoOD",
+            "mimeType": "application/pdf",
+            "size": "247925"
+          },
+          {
+            "name": "poat2016_2_4_1_tipos_y_disenos_de_investigacion_cuantitativa_y_cualitativa.pdf",
+            "type": "file",
+            "id": "19XDHQ_gX5Qn4XE4gwuGUnxWS1ynkc_39",
+            "mimeType": "application/pdf",
+            "size": "454656"
+          },
+          {
+            "name": "EL_PARADIGMA_CUALITATIVO_ver9.pdf",
+            "type": "file",
+            "id": "1SvmN-Tbtk2sDXO3bt0AcG0DPEamN5bR9",
+            "mimeType": "application/pdf",
+            "size": "4993430"
+          },
+          {
+            "name": "inv-acc.pdf",
+            "type": "file",
+            "id": "1rX5axzQwRCXBzRgoTIQtaSa1WY1buf79",
+            "mimeType": "application/pdf",
+            "size": "265740"
+          }
+        ]
+      },
+      {
+        "name": "1_-_Filosofia_Teoria_de_Sistemas",
+        "type": "folder",
+        "id": "1CyWnqCOC8JZ4aTGfLNbxGlNdlUJYC_Kz",
+        "children": [
+          {
+            "name": "origenes.pdf",
+            "type": "file",
+            "id": "11cmmMrrrrC7XcE3evgcMH8Rl1CVdSlWn",
+            "mimeType": "application/pdf",
+            "size": "2000071"
+          },
+          {
+            "name": "Intrtoduccion_MSB.pptx",
+            "type": "file",
+            "id": "1aN15Tu-jrnwOMlNpZF77SAntKKwHiZrL",
+            "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "size": "60389"
+          },
+          {
+            "name": "epistem-sis.pdf",
+            "type": "file",
+            "id": "10z7E4y0nMZ5reX0YWSjfFi0x7keIKyLU",
+            "mimeType": "application/pdf",
+            "size": "262199"
+          },
+          {
+            "name": "Epistemología_sistémica.pdf",
+            "type": "file",
+            "id": "1q4c_-Ol5KvDzJcHc2lT-UAnSnSxDsdnN",
+            "mimeType": "application/pdf",
+            "size": "565799"
+          },
+          {
+            "name": "Introducción_a_los_Conceptos_Básicos_de_la_Teoría_General_de_Sistemas.pdf",
+            "type": "file",
+            "id": "1GmzmENQvn6cYcLnKMPhBcwghPnsFCXpX",
+            "mimeType": "application/pdf",
+            "size": "511549"
+          }
+        ]
+      }
+    ]
+  }
+}

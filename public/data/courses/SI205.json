@@ -1,0 +1,4093 @@
+{
+  "course_id": "SI205",
+  "course_name": "Algoritmia_y_estructura_de_datos",
+  "id": "1v7kfRxH4GU-T70VZY8b9aKRA6YAlWnYB",
+  "scanned_at": "2026-08-07T00:05:53.637389+00:00",
+  "tree": {
+    "name": "Algoritmia_y_estructura_de_datos",
+    "type": "folder",
+    "id": "1v7kfRxH4GU-T70VZY8b9aKRA6YAlWnYB",
+    "children": [
+      {
+        "name": "Códigos_para_no_jalar",
+        "type": "file",
+        "id": "1WMHpRRuCXCjd2Wc_-NpNYiavdvDjPq8PzPFWiJ5Vims",
+        "mimeType": "application/vnd.google-apps.document",
+        "size": "1024"
+      },
+      {
+        "name": "Planchas",
+        "type": "folder",
+        "id": "129pTw4sLudWbHRs60JfZeo3kM2WhJbm1",
+        "children": [
+          {
+            "name": "PC2",
+            "type": "folder",
+            "id": "1XbmOSlAliZj3OD-A_sJgCq7fFjLJksw5",
+            "children": [
+              {
+                "name": "25-2",
+                "type": "folder",
+                "id": "17hKZv5wRH5R-4s_7zeNrgHbpmI2hISga",
+                "children": [
+                  {
+                    "name": "UNI-SI205-PC2-Pregunta_3.pptx",
+                    "type": "file",
+                    "id": "1bXSe4ciEEfcnWo_dOoeJ-m5xnooXoHhR",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "47356"
+                  },
+                  {
+                    "name": "UNI-SI205-PC2-Pregunta_2.pptx",
+                    "type": "file",
+                    "id": "1SDuxPZxfBMZUHtktMycfa4NG4N2bUmVt",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "89461"
+                  },
+                  {
+                    "name": "UNI-SI205-PC2-Pregunta_1.pptx",
+                    "type": "file",
+                    "id": "1gfWIexZFiA3cjgaeYMF1eprqLAtsuxCW",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "83823"
+                  }
+                ]
+              },
+              {
+                "name": "Soluciones",
+                "type": "folder",
+                "id": "1zhCrssMUyzTNHvr-30TQN_8g5OmPaC3D",
+                "children": [
+                  {
+                    "name": "21-1",
+                    "type": "folder",
+                    "id": "1GhcAb4kiAUIUmK2CbnZmadb25HqWvNLJ",
+                    "children": [
+                      {
+                        "name": "Pregunta_1.cpp",
+                        "type": "file",
+                        "id": "1vOtGnfPGdwiFRAt82RRveX7MV8Mcbk7W",
+                        "mimeType": "application/octet-stream",
+                        "size": "1384"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "22-2",
+                    "type": "folder",
+                    "id": "18s65ArDthRGKIKC-6P7Ur1GFh_Eud7B2",
+                    "children": [
+                      {
+                        "name": "Pregunta_3.cpp",
+                        "type": "file",
+                        "id": "1AoD6SgKsrA1NJcvdpKZsTyjdtpp3SEW9",
+                        "mimeType": "application/octet-stream",
+                        "size": "1768"
+                      },
+                      {
+                        "name": "Pregunta_2.cpp",
+                        "type": "file",
+                        "id": "1RuvfICgl6VjCt9spTAI8GMS8APCWPApN",
+                        "mimeType": "application/octet-stream",
+                        "size": "1468"
+                      },
+                      {
+                        "name": "Pregunta_1.cpp",
+                        "type": "file",
+                        "id": "1jbfeZ7NTzYJ-FIV9W9DDRgDmFSOPeyIP",
+                        "mimeType": "application/octet-stream",
+                        "size": "2288"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "21-2",
+                    "type": "folder",
+                    "id": "11G0A-hT8CUlhW_SlARNAtwFPk_TU40uk",
+                    "children": [
+                      {
+                        "name": "Pregunta_3.cpp",
+                        "type": "file",
+                        "id": "1hm1jGgLfaShXd2GCo4Nl5TNQ3ZHe-gyv",
+                        "mimeType": "application/octet-stream",
+                        "size": "718"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "20-2",
+                    "type": "folder",
+                    "id": "1-s4i3Klhlmy4TeXQlwzOazWRJtd0qHEr",
+                    "children": [
+                      {
+                        "name": "Pregunta_3.cpp",
+                        "type": "file",
+                        "id": "1Vw7N2sgoOFCkKU4Xtj6CF9rJFlnrsBMu",
+                        "mimeType": "application/octet-stream",
+                        "size": "1453"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "16-3",
+                    "type": "folder",
+                    "id": "1AOSqs6oCkNVlvGOrJMJmkDtltPdSZoS1",
+                    "children": [
+                      {
+                        "name": "Pregunta_3.cpp",
+                        "type": "file",
+                        "id": "1zbVr15fbgo1oGswL0woTFOAZka7dIZaz",
+                        "mimeType": "application/octet-stream",
+                        "size": "1453"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "24-2",
+                "type": "folder",
+                "id": "1-ds7cT7cAzVAeeyMUihKR35eaJrA7pn8",
+                "children": [
+                  {
+                    "name": "UNI-SI205-PC2-Pregunta_3.pptx",
+                    "type": "file",
+                    "id": "1ZCNdHLFYXQJ-s7GykRjGqUHXl8QXSCQL",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "92563"
+                  },
+                  {
+                    "name": "UNI-SI205-PC2-Pregunta_2.pptx",
+                    "type": "file",
+                    "id": "1w_SYdLKorZFac85vmQ0XgGK4GLdZ3wRW",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "48695"
+                  },
+                  {
+                    "name": "UNI-SI205-PC2-Pregunta_1.pptx",
+                    "type": "file",
+                    "id": "1HSegaKGKCYJfwNfezYM-u3fHYkoGyUR0",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "47102"
+                  }
+                ]
+              },
+              {
+                "name": "25-1",
+                "type": "folder",
+                "id": "1hfgOnK9S76EoyHtXCnzc2y_lS_uvt_0V",
+                "children": [
+                  {
+                    "name": "UNI-SI205-PC2-Pregunta_3.pptx",
+                    "type": "file",
+                    "id": "1y756kTIg8lHMLoiffU7Hq7lC9v6L567F",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "64141"
+                  },
+                  {
+                    "name": "UNI-SI205-PC2-Pregunta_2.pptx",
+                    "type": "file",
+                    "id": "1ViwYDpcplJ6qSms3d5GDWhcI4mNnLzNQ",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "50024"
+                  },
+                  {
+                    "name": "UNI-SI205-PC2-Pregunta_1.pptx",
+                    "type": "file",
+                    "id": "10obl4pWRM6UAYH2Gm6LZlc-3usJ1AUXa",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "49801"
+                  }
+                ]
+              },
+              {
+                "name": "PC2_S.F..pdf",
+                "type": "file",
+                "id": "1M-Elpc_CzazbCIgYCH7om7CtosxUuscA",
+                "mimeType": "application/pdf",
+                "size": "723922"
+              },
+              {
+                "name": "PC2_15-2.pdf",
+                "type": "file",
+                "id": "1w5gDOIx_KqzkoQDFm1U2KqVcrwORwaFd",
+                "mimeType": "application/pdf",
+                "size": "1025325"
+              },
+              {
+                "name": "Compendio_PC2.pdf",
+                "type": "file",
+                "id": "1glDSKTs6Ft0F94ot_0ihHYbyfXqrDoAQ",
+                "mimeType": "application/pdf",
+                "size": "745824"
+              },
+              {
+                "name": "PC2_20-2.pdf",
+                "type": "file",
+                "id": "1iDh-d0Wi6nCtQECi7erLr1TyveryJ00u",
+                "mimeType": "application/pdf",
+                "size": "356540"
+              },
+              {
+                "name": "PC2_17-2.jpg",
+                "type": "file",
+                "id": "133LZhLCxq9NRV3Wi3Ua_8utPvh3CJ8fu",
+                "mimeType": "image/jpeg",
+                "size": "3045144"
+              },
+              {
+                "name": "PC2_20-1.pdf",
+                "type": "file",
+                "id": "19NfM3N2OISMJvRYF-uAnDa2jbbL_Hxho",
+                "mimeType": "application/pdf",
+                "size": "387211"
+              },
+              {
+                "name": "PC2_19-3.jpg",
+                "type": "file",
+                "id": "1FqSeafjPFYX4IMA5ZwI8M7FTUHa8C__o",
+                "mimeType": "image/jpeg",
+                "size": "66605"
+              },
+              {
+                "name": "PC2_21-1.pdf",
+                "type": "file",
+                "id": "1NszmuPIoTeaWRTTrVBQCVYoNzV_QzugL",
+                "mimeType": "application/pdf",
+                "size": "372306"
+              },
+              {
+                "name": "PC2_17-1.pdf",
+                "type": "file",
+                "id": "1i8Zay-OhXysEJ6e5BrK9fpZuLf-5s-av",
+                "mimeType": "application/pdf",
+                "size": "921033"
+              },
+              {
+                "name": "PC2_21-2.pdf",
+                "type": "file",
+                "id": "145cVHibGqOsdwxTmEDh6r_ZkSm-YKB2C",
+                "mimeType": "application/pdf",
+                "size": "468812"
+              },
+              {
+                "name": "PC2_16-2.pdf",
+                "type": "file",
+                "id": "1j8HYvZCnxQg1eS4LB6ZZpposC5Pv6_z7",
+                "mimeType": "application/pdf",
+                "size": "1122359"
+              },
+              {
+                "name": "PC2_16-3.pdf",
+                "type": "file",
+                "id": "1YEtPMfFEwGA4moYP_zOOTk4OA7hqgUFp",
+                "mimeType": "application/pdf",
+                "size": "789913"
+              },
+              {
+                "name": "PC2_22-2.pdf",
+                "type": "file",
+                "id": "1UXr0qKVjwUOHQTYfgNcf0VZpfiEJx3uO",
+                "mimeType": "application/pdf",
+                "size": "1737835"
+              },
+              {
+                "name": "PC2_18-1.jpg",
+                "type": "file",
+                "id": "1rGQSqlwCjqxT7NQqfogXKP4xnCepKelv",
+                "mimeType": "image/jpeg",
+                "size": "4217941"
+              }
+            ]
+          },
+          {
+            "name": "PC3",
+            "type": "folder",
+            "id": "1saVEnORDyVhssAf4HItANQ7-LYqr65nw",
+            "children": [
+              {
+                "name": "25-2",
+                "type": "folder",
+                "id": "1ufjstAvjxJTYMioX3yeMZMggUAUl9CYH",
+                "children": [
+                  {
+                    "name": "UNI-SI205-PC3-Pregunta_1.pptx",
+                    "type": "file",
+                    "id": "1BX5IKNcJi8FeZYWYIf0ikASXbv_5Sv6w",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "47662"
+                  },
+                  {
+                    "name": "UNI-SI205-PC3-Pregunta_3.pptx",
+                    "type": "file",
+                    "id": "1ZRyAPCv1rKx-4I7tu4De_wq27PslXtxg",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "46866"
+                  },
+                  {
+                    "name": "UNI-SI205-PC3-Pregunta_2.pptx",
+                    "type": "file",
+                    "id": "15S636ySbVkMGHDFt5at4gxTsIa_MwUy3",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "46741"
+                  }
+                ]
+              },
+              {
+                "name": "25-1",
+                "type": "folder",
+                "id": "1ScsqaLjmZin1ShuSGY2ssU9xel7nLZuC",
+                "children": [
+                  {
+                    "name": "UNI-SI205-PC3-Pregunta_3.pptx",
+                    "type": "file",
+                    "id": "1ff6BF4yhybSDFa7YAefcy1ygG8aT5gxe",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "48993"
+                  },
+                  {
+                    "name": "UNI-SI205-PC3-Pregunta_2.pptx",
+                    "type": "file",
+                    "id": "13AFmpJldfA3EJJIaVAV3aY5xVG64sKbo",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "46787"
+                  },
+                  {
+                    "name": "UNI-SI205-PC3-Pregunta_1.pptx",
+                    "type": "file",
+                    "id": "1Kbg1AsjrtYDqKnmAEQsduz_5qn_DlA-2",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "47852"
+                  }
+                ]
+              },
+              {
+                "name": "24-2",
+                "type": "folder",
+                "id": "1e_HSwE3fQfWnzzxZCsgeRwrEx_6Q8BOI",
+                "children": [
+                  {
+                    "name": "UNI-SI205-PC3-Pregunta_3.pptx",
+                    "type": "file",
+                    "id": "1WtWtgjsNsuR43sU1E-JzdZTuht2DBQK_",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "46860"
+                  },
+                  {
+                    "name": "UNI-SI205-PC3-Pregunta_2.pptx",
+                    "type": "file",
+                    "id": "1KMGSnJJ9TtiFZdSYjh1L7kgNUH-Q1hjZ",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "46871"
+                  },
+                  {
+                    "name": "UNI-SI205-PC3-Pregunta_1.pptx",
+                    "type": "file",
+                    "id": "1s_IeALfTvQVgTVPBAHslZeKmq6PCrdqO",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "50879"
+                  }
+                ]
+              },
+              {
+                "name": "PC3_S.F..pdf",
+                "type": "file",
+                "id": "1FEqH7p-n3hbjaLhiYJ1N9cAr_yMhzjhM",
+                "mimeType": "application/pdf",
+                "size": "590579"
+              },
+              {
+                "name": "PC3_16-3.pdf",
+                "type": "file",
+                "id": "1hI7Vd9mjFtuDt8XmMXVImUfrOliVUf0f",
+                "mimeType": "application/pdf",
+                "size": "987080"
+              },
+              {
+                "name": "PC3_20-1.pdf",
+                "type": "file",
+                "id": "1sAzvtb1EXJPGoG8zD6El1Qs5mPhsDsmr",
+                "mimeType": "application/pdf",
+                "size": "481331"
+              },
+              {
+                "name": "PC3_compendio.pdf",
+                "type": "file",
+                "id": "1HYu1y0HPXFD2XJHq6lUVXQig6jV2Byvf",
+                "mimeType": "application/pdf",
+                "size": "1129974"
+              },
+              {
+                "name": "PC3_16-2.pdf",
+                "type": "file",
+                "id": "15Tp3FhjUxYduQP2SUwq0EBvd_A8AZULs",
+                "mimeType": "application/pdf",
+                "size": "643905"
+              },
+              {
+                "name": "PC3_22-2.pdf",
+                "type": "file",
+                "id": "1OLI21au8Cgl5839IPLv7eUkmg3yKZMqF",
+                "mimeType": "application/pdf",
+                "size": "1338966"
+              },
+              {
+                "name": "PC3_19-3.jpg",
+                "type": "file",
+                "id": "1whC-NPuCwoE_1JuPGNZK2H61TYWj1Jao",
+                "mimeType": "image/jpeg",
+                "size": "63689"
+              },
+              {
+                "name": "PC3_21-2.pdf",
+                "type": "file",
+                "id": "1D-5DTrUiF2MiajnMsmbvcVM6_Oqs4PAX",
+                "mimeType": "application/pdf",
+                "size": "352262"
+              },
+              {
+                "name": "PC3_22-1.pdf",
+                "type": "file",
+                "id": "1cABIL8zXScnz2kZo3wDE9_B22AF8D_QW",
+                "mimeType": "application/pdf",
+                "size": "362472"
+              },
+              {
+                "name": "PC3_17-1.jpg",
+                "type": "file",
+                "id": "1A3PiNSnvkzyp0oyIfo6O8LyVipcgL2s-",
+                "mimeType": "image/jpeg",
+                "size": "2655938"
+              }
+            ]
+          },
+          {
+            "name": "PC4",
+            "type": "folder",
+            "id": "1UA_EB4scj_tD04K6jH2YZMKK1MgiSE7m",
+            "children": [
+              {
+                "name": "25-2",
+                "type": "folder",
+                "id": "1OFORpgF9QvKMI-O7IwYwehcV3TQwU74a",
+                "children": [
+                  {
+                    "name": "UNI-SI205-PC4-Pregunta_3.pptx",
+                    "type": "file",
+                    "id": "11bYVZAeGzwtzcoxZMbwMDV0SpI2WTC-I",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "73361"
+                  },
+                  {
+                    "name": "UNI-SI205-PC4-Pregunta_2.pptx",
+                    "type": "file",
+                    "id": "1VjMSr89_knV3hF7q361RjgN1gCxB7SXj",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "47008"
+                  },
+                  {
+                    "name": "UNI-SI205-PC4-Pregunta_1.pptx",
+                    "type": "file",
+                    "id": "1-uIWOwWMtUe9vxcj-qFB4FK-kRFkHGLJ",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "46841"
+                  }
+                ]
+              },
+              {
+                "name": "PC4_22-1",
+                "type": "folder",
+                "id": "1v-Ah1EIFkwVrE3-WM-lb6_-0UrPHOpTJ",
+                "children": [
+                  {
+                    "name": "ALUMNOS.TXT",
+                    "type": "file",
+                    "id": "1q_u34m98VsXQnie6xJwoMyOA5P0xH9ko",
+                    "mimeType": "text/plain",
+                    "size": "82"
+                  },
+                  {
+                    "name": "PC4_22-1.pdf",
+                    "type": "file",
+                    "id": "11hDQxqlOLhg7VYaIAFi817CBQGIDSBkY",
+                    "mimeType": "application/pdf",
+                    "size": "322009"
+                  }
+                ]
+              },
+              {
+                "name": "PC4_22-2",
+                "type": "folder",
+                "id": "1Z_n2ngBJy5dV3hWPX00WJi-qR-hOtdYy",
+                "children": [
+                  {
+                    "name": "ALUMNOS.TXT",
+                    "type": "file",
+                    "id": "12RBp2Fx5QwuylKC7ROC86DTyYO_EkOVy",
+                    "mimeType": "text/plain",
+                    "size": "100"
+                  },
+                  {
+                    "name": "PC4_22-2.pdf",
+                    "type": "file",
+                    "id": "1nsVZ-alKGyUYjHL_793-As53LNWXIIUY",
+                    "mimeType": "application/pdf",
+                    "size": "1341634"
+                  }
+                ]
+              },
+              {
+                "name": "25-1",
+                "type": "folder",
+                "id": "1oZ09Wi01bcG2Ix3GnIRnniKzG43yWoa7",
+                "children": [
+                  {
+                    "name": "UNI-SI205-PC4-Pregunta_3.pptx",
+                    "type": "file",
+                    "id": "1TLZG7o9s7uq3XCZZsWv25LWwPTOOp2vl",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "50503"
+                  },
+                  {
+                    "name": "UNI-SI205-PC4-Pregunta_2.pptx",
+                    "type": "file",
+                    "id": "17WNKQNIxxsg1zqlbd4lle_vyV0kY2YEF",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "47746"
+                  },
+                  {
+                    "name": "UNI-SI205-PC4-Pregunta_1.pptx",
+                    "type": "file",
+                    "id": "1tq2o_-g4ac50uKH8mBaBikN5kkmvblvm",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "48335"
+                  }
+                ]
+              },
+              {
+                "name": "24-2",
+                "type": "folder",
+                "id": "1dp70tWPVOAytqJFMvbQMlATAXR0s9K6l",
+                "children": [
+                  {
+                    "name": "UNI-SI205-PC4-Pregunta_3.pptx",
+                    "type": "file",
+                    "id": "1BdGHVqtCa8Si3r1WTz6iSP1sgEgQuj_z",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "46597"
+                  },
+                  {
+                    "name": "UNI-SI205-PC4-Pregunta_2.pptx",
+                    "type": "file",
+                    "id": "1MHNnRsJ8xIxiLgW09diGBjbg8qMkBRAX",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "46971"
+                  },
+                  {
+                    "name": "UNI-SI205-PC4-Pregunta_1.pptx",
+                    "type": "file",
+                    "id": "1EI9DZ9I5JTcivYF6OvTHHi646Tgs_zVw",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "48104"
+                  }
+                ]
+              },
+              {
+                "name": "PC4_S.F..pdf",
+                "type": "file",
+                "id": "1CUYvXZYVZZb7rsNkrcMD-9TVVS2WOPTL",
+                "mimeType": "application/pdf",
+                "size": "1541131"
+              },
+              {
+                "name": "PC4_19-3.jpg",
+                "type": "file",
+                "id": "1VeiknZcFkeZoKKMLTE4qCuSFnbhij-OJ",
+                "mimeType": "image/jpeg",
+                "size": "70597"
+              },
+              {
+                "name": "PC4_21-1.pdf",
+                "type": "file",
+                "id": "1pcyS6lxJzfyLU7Ts8lY0sL-VP6j2S0hv",
+                "mimeType": "application/pdf",
+                "size": "282464"
+              },
+              {
+                "name": "PC4_17-2.jpg",
+                "type": "file",
+                "id": "1Qo_kUqXSQMOM_zncgAzazPAoh7aWLkl5",
+                "mimeType": "image/jpeg",
+                "size": "2720427"
+              },
+              {
+                "name": "PC4_16-2.pdf",
+                "type": "file",
+                "id": "1NsLs3oIsLjOEd5feeftyhW091Yi-M1u5",
+                "mimeType": "application/pdf",
+                "size": "968353"
+              },
+              {
+                "name": "PC4_16-3.pdf",
+                "type": "file",
+                "id": "1fJvlfJ0bYaiExbN3q7TbSGLK_JVndiU9",
+                "mimeType": "application/pdf",
+                "size": "595777"
+              },
+              {
+                "name": "PC4_20-2.pdf",
+                "type": "file",
+                "id": "1HJBXwzQIDTR77K84iC_-swSqYNu5yTv5",
+                "mimeType": "application/pdf",
+                "size": "456660"
+              }
+            ]
+          },
+          {
+            "name": "PE",
+            "type": "folder",
+            "id": "1HLT4oDsRjrgMUDQKbwCHfHz3Wrpi93uO",
+            "children": [
+              {
+                "name": "24-2",
+                "type": "folder",
+                "id": "122lS82oMUNbsaJK738_CVBKGlgV_jvYw",
+                "children": [
+                  {
+                    "name": "SOLUCION_PE",
+                    "type": "folder",
+                    "id": "1SC1JizdzaQEj-IqLDdcIJyHUSOIztIiC",
+                    "children": [
+                      {
+                        "name": "PDEseccx",
+                        "type": "folder",
+                        "id": "1zCII4ueHuXEu_IYa9B39U_R9EKKqwcn0",
+                        "children": [
+                          {
+                            "name": "prob3.cpp",
+                            "type": "file",
+                            "id": "1JAX3ro3fciNkkXNH65Rcv5MbN3HRnm4N",
+                            "mimeType": "application/octet-stream",
+                            "size": "372"
+                          },
+                          {
+                            "name": "prob1.cpp",
+                            "type": "file",
+                            "id": "1fpQkmqqM0_N1Wy1WfPYeEcHrMlg8e1xK",
+                            "mimeType": "application/octet-stream",
+                            "size": "806"
+                          },
+                          {
+                            "name": "prob2.cpp",
+                            "type": "file",
+                            "id": "13ZG3IDRIBd54GljOO5BEkYfWvMCLtFEY",
+                            "mimeType": "application/octet-stream",
+                            "size": "581"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "PDE",
+                        "type": "folder",
+                        "id": "1-mi9a_3jeAQv5aTChcbetay5nnY1MmHc",
+                        "children": [
+                          {
+                            "name": "solprob3.cpp",
+                            "type": "file",
+                            "id": "1OGcMuzAVgVlfu0UhwkQiSmT9Ni6drhAf",
+                            "mimeType": "application/octet-stream",
+                            "size": "471"
+                          },
+                          {
+                            "name": "solprob2.cpp",
+                            "type": "file",
+                            "id": "14A691gpQAFObteOst3wrNDDIFDq8lNy7",
+                            "mimeType": "application/octet-stream",
+                            "size": "604"
+                          },
+                          {
+                            "name": "solprob1.cpp",
+                            "type": "file",
+                            "id": "1Gk2-0TRH6aLFRfldQwJOJ8WYBAm6hzm_",
+                            "mimeType": "application/octet-stream",
+                            "size": "510"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "UNI-ALGOR-PDE-Pregunta_3.pptx",
+                    "type": "file",
+                    "id": "1mYNB3pxYFeRvuiPcP4Ck3SSXUAO2sRYl",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "46571"
+                  },
+                  {
+                    "name": "UNI-ALGOR-PDE-Pregunta_2.pptx",
+                    "type": "file",
+                    "id": "1KZsm12yh1htSqbJnvTpU9iZ_uz9eR_uC",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "46502"
+                  },
+                  {
+                    "name": "UNI-ALGORX-PDE-Pregunta_1.pptx",
+                    "type": "file",
+                    "id": "1GHd2w-1XCAMWwL8uuNZLaAzkSAwkAXn9",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "47084"
+                  }
+                ]
+              },
+              {
+                "name": "PE_20-1.pdf",
+                "type": "file",
+                "id": "1n2dZ8u_S2_FK4TOVU3NZSWrPmllt33aX",
+                "mimeType": "application/pdf",
+                "size": "305673"
+              },
+              {
+                "name": "PE_22-2.pdf",
+                "type": "file",
+                "id": "1UeAvlFX5A5ygor_BU3IBZdHIK1bklDX7",
+                "mimeType": "application/pdf",
+                "size": "171217"
+              }
+            ]
+          },
+          {
+            "name": "ES",
+            "type": "folder",
+            "id": "1f3x1KC-ILJx8bWyHGh0dST_fnmI4NSax",
+            "children": [
+              {
+                "name": "Soluciones",
+                "type": "folder",
+                "id": "1Pf2i86RbeCHA1jXfC1jjM9e59Fyj3pVI",
+                "children": [
+                  {
+                    "name": "20-1",
+                    "type": "folder",
+                    "id": "1YjTKBhFZpdz1aElkud-FrGahzHG9ySMO",
+                    "children": [
+                      {
+                        "name": "pregunta_1.cpp",
+                        "type": "file",
+                        "id": "1g2taW3WIwB3BevANmFv37G5ckkHb9qo2",
+                        "mimeType": "application/octet-stream",
+                        "size": "2709"
+                      },
+                      {
+                        "name": "pregunta_2.cpp",
+                        "type": "file",
+                        "id": "1bhsjvsE3QrJ01N6pEprbxBRXo2BWyn8o",
+                        "mimeType": "application/octet-stream",
+                        "size": "1746"
+                      },
+                      {
+                        "name": "pregunta_3.cpp",
+                        "type": "file",
+                        "id": "1rC1jQpbvXGXFdjhUK4zNcYPNZHIpSnlE",
+                        "mimeType": "application/octet-stream",
+                        "size": "1204"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "22-1",
+                    "type": "folder",
+                    "id": "1G2YvgaK8L_cZ77LjnwRIT-Q0iQBInOvV",
+                    "children": [
+                      {
+                        "name": "pregunta_1.cpp",
+                        "type": "file",
+                        "id": "1D0B_2dV86FH6snHYwX5HzPeL96aSFW-N",
+                        "mimeType": "application/octet-stream",
+                        "size": "1029"
+                      },
+                      {
+                        "name": "pregunta_3.cpp",
+                        "type": "file",
+                        "id": "1d_dKPQ0-Mpg9mIJnWVBj7ZKGuMHiID6I",
+                        "mimeType": "application/octet-stream",
+                        "size": "577"
+                      },
+                      {
+                        "name": "pregunta_2.cpp",
+                        "type": "file",
+                        "id": "1dpYwTyQl72KCOEW_x-iVlv1N4tR6kZwd",
+                        "mimeType": "application/octet-stream",
+                        "size": "2295"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "19-2",
+                    "type": "folder",
+                    "id": "1FCTHRB1QfxWwcLn6Q1MariGpuTh2mAOK",
+                    "children": [
+                      {
+                        "name": "pregunta_3.cpp",
+                        "type": "file",
+                        "id": "1pHT_fQpDnqFhwTDD0_J6f_XVXcKD65kh",
+                        "mimeType": "application/octet-stream",
+                        "size": "1108"
+                      },
+                      {
+                        "name": "pregunta_1.cpp",
+                        "type": "file",
+                        "id": "1QuSVR_dANjKH0W33f7lx7N5yywAzfQzs",
+                        "mimeType": "application/octet-stream",
+                        "size": "3084"
+                      },
+                      {
+                        "name": "pregunta_2.cpp",
+                        "type": "file",
+                        "id": "1xglPKntz3kMiwmCEz-ef1tuOEd16CPzq",
+                        "mimeType": "application/octet-stream",
+                        "size": "1204"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "ES_22-2",
+                "type": "folder",
+                "id": "1tA9ACRLgWKq7UuCdov_JmvTJWN0gyIdZ",
+                "children": [
+                  {
+                    "name": "NOTAS.TXT",
+                    "type": "file",
+                    "id": "1myuLAW9MmYUYfynRewKZpiFlKueUlKHv",
+                    "mimeType": "text/plain",
+                    "size": "64"
+                  },
+                  {
+                    "name": "SUSTITUTORIO.TXT",
+                    "type": "file",
+                    "id": "1zR14fYPSzwjKLGRhKVMFTH9_c3mPZz6q",
+                    "mimeType": "text/plain",
+                    "size": "24"
+                  },
+                  {
+                    "name": "ES_22-2.pdf",
+                    "type": "file",
+                    "id": "1tBWK5OyyU1IVKFB7WqU5kNgxWE0_8smm",
+                    "mimeType": "application/pdf",
+                    "size": "1258516"
+                  }
+                ]
+              },
+              {
+                "name": "ES_22-1",
+                "type": "folder",
+                "id": "1Iil1WDjsoH4y8I8NlJljPWuR4us4L5XU",
+                "children": [
+                  {
+                    "name": "COVID19.TXT",
+                    "type": "file",
+                    "id": "1N1ykvDkO-l0lrNsJgULPkSK1wpH3BX5c",
+                    "mimeType": "text/plain",
+                    "size": "109"
+                  },
+                  {
+                    "name": "ES_22-1.pdf",
+                    "type": "file",
+                    "id": "1oxkJjTTEOrzYcwAw_ldlUDBT_xiK7tQh",
+                    "mimeType": "application/pdf",
+                    "size": "896290"
+                  }
+                ]
+              },
+              {
+                "name": "24-2",
+                "type": "folder",
+                "id": "1_k2c6t0OhFOyTVmCG6rWexMAVtb_QcYz",
+                "children": [
+                  {
+                    "name": "ES_24-2_Sol..rar",
+                    "type": "file",
+                    "id": "1EOskbNCNz1o3lMXOe8lK4d1jfqpH-GfV",
+                    "mimeType": "application/x-rar",
+                    "size": "588"
+                  },
+                  {
+                    "name": "UNI-SI205-ES-2024-2-P1.pptx",
+                    "type": "file",
+                    "id": "1j47DiHLFB3yeLtaYR4O_iUgYHsA8U2Z-",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "50975"
+                  },
+                  {
+                    "name": "UNI-SI205-ES-2024-2-P2.pptx",
+                    "type": "file",
+                    "id": "1IKHz9WUEm8gfrhFzVPGtEBr0NMUdkbvK",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "70705"
+                  },
+                  {
+                    "name": "UNI-SI205-ES-2-2024-P3.pptx",
+                    "type": "file",
+                    "id": "16S6mP2htl5a45XiO1MOR7iuEWmqTeI5K",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "49592"
+                  }
+                ]
+              },
+              {
+                "name": "25-1",
+                "type": "folder",
+                "id": "1eHyAqCvd1ePol8NnvWdHJx7DWsmNR2qY",
+                "children": [
+                  {
+                    "name": "ES_25-1_Sol..pdf",
+                    "type": "file",
+                    "id": "1lXobCBrPNKef9kktoTkHtKsEqzaUZzEu",
+                    "mimeType": "application/pdf",
+                    "size": "57125"
+                  },
+                  {
+                    "name": "ES_25-1.pdf",
+                    "type": "file",
+                    "id": "1f69FGMbGMhgH7uASMmOu1AFefti_nBHr",
+                    "mimeType": "application/pdf",
+                    "size": "333521"
+                  }
+                ]
+              },
+              {
+                "name": "ES_17-2.jpg",
+                "type": "file",
+                "id": "1Inw4-ok141slY1NZlW08dZUyFjBhz0uL",
+                "mimeType": "image/jpeg",
+                "size": "3307854"
+              },
+              {
+                "name": "ES_20-1.pdf",
+                "type": "file",
+                "id": "1Ol-h_sa-KANx7e6FBoFKKadavuFeJLnX",
+                "mimeType": "application/pdf",
+                "size": "430390"
+              },
+              {
+                "name": "ES_19-2.jpg",
+                "type": "file",
+                "id": "1qIEUoONdkraMHvyK-H-ni-GHZNZbieEh",
+                "mimeType": "image/jpeg",
+                "size": "71727"
+              }
+            ]
+          },
+          {
+            "name": "PC1",
+            "type": "folder",
+            "id": "1ud-Em64PulU6oU2jTmJql5oM9Nluw7G2",
+            "children": [
+              {
+                "name": "26-1",
+                "type": "folder",
+                "id": "1FOvZHrRC_SOg6lOPGZ9byP8fyotYnByr",
+                "children": [
+                  {
+                    "name": "UNI-SI205-PC1-Pregunta_3.pptx",
+                    "type": "file",
+                    "id": "1QZGrnz5qDDe_3IbNSguHjzd_EDS2xOVI",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "47018"
+                  },
+                  {
+                    "name": "UNI-SI205-PC1-Pregunta_1.pptx",
+                    "type": "file",
+                    "id": "1jvGVxt19g7_flT0tN7xVf53IK7ocqe5H",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "47039"
+                  },
+                  {
+                    "name": "UNI-SI205-PC1-Pregunta_2.pptx",
+                    "type": "file",
+                    "id": "1_bG5nFRrTSbKh01U_Kjau8-VBxQq8op1",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "46639"
+                  }
+                ]
+              },
+              {
+                "name": "25-2",
+                "type": "folder",
+                "id": "1pcjB6qBnjYit7DBf1yZedKz2tpdFWfrs",
+                "children": [
+                  {
+                    "name": "UNI-SI205-PC1-Pregunta_3.pptx",
+                    "type": "file",
+                    "id": "14fR4B2AvdIA82B2H9iMK_1DZZGVrhoEq",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "47418"
+                  },
+                  {
+                    "name": "UNI-SI205-PC1-Pregunta_2.pptx",
+                    "type": "file",
+                    "id": "1I4xM4tSrKuzcKe2HXxf7toDlR1cGoDAV",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "46632"
+                  },
+                  {
+                    "name": "UNI-SI205-PC1-Pregunta_1.pptx",
+                    "type": "file",
+                    "id": "1CSos5rTF05Lz-p3lhsa4LM4V96SrlT-u",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "47141"
+                  }
+                ]
+              },
+              {
+                "name": "Soluciones",
+                "type": "folder",
+                "id": "1U0R5Hxui3O8xy8OK71znLDA3vckk1gV6",
+                "children": [
+                  {
+                    "name": "21-1",
+                    "type": "folder",
+                    "id": "12oFznVVaq5jZyt4eGbdAq1IL_Zy00SuZ",
+                    "children": [
+                      {
+                        "name": "Pregunta_3.cpp",
+                        "type": "file",
+                        "id": "1U4OuIVQltp6qQAR6_aXoOyKyDKb7ac-y",
+                        "mimeType": "application/octet-stream",
+                        "size": "945"
+                      },
+                      {
+                        "name": "Pregunta_2.cpp",
+                        "type": "file",
+                        "id": "16fo2U5ca7wmCiJPLFD-X6xo_lk_0qiWg",
+                        "mimeType": "application/octet-stream",
+                        "size": "733"
+                      },
+                      {
+                        "name": "Pregunta_1.cpp",
+                        "type": "file",
+                        "id": "1gesIIJW9WWP9xqOJTpjGY33fjJ30erth",
+                        "mimeType": "application/octet-stream",
+                        "size": "1355"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "22-2",
+                    "type": "folder",
+                    "id": "1jRvZTHXkQbOk47nbY8DqX-XRBU57UwY4",
+                    "children": [
+                      {
+                        "name": "Pregunta_3.cpp",
+                        "type": "file",
+                        "id": "13k-n2rGdDEQ51X2o3o7vXxUlwXDy7dYB",
+                        "mimeType": "application/octet-stream",
+                        "size": "1980"
+                      },
+                      {
+                        "name": "Pregunta_2.cpp",
+                        "type": "file",
+                        "id": "1hkOh8ZcduBzBdzp288fYz6hOOqx--oHr",
+                        "mimeType": "application/octet-stream",
+                        "size": "1474"
+                      },
+                      {
+                        "name": "Pregunta_1.cpp",
+                        "type": "file",
+                        "id": "1O2qpKt0pGH2rWpHgG3yj8dyQc7G29lJ1",
+                        "mimeType": "application/octet-stream",
+                        "size": "1060"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "22-1",
+                    "type": "folder",
+                    "id": "1-OvVkf5xSYpRfZ1l8urLJKovssIRA-gt",
+                    "children": [
+                      {
+                        "name": "Pregunta_3.cpp",
+                        "type": "file",
+                        "id": "14ldUvL1U-Ppl7w8BigBqrpX8WIbiCpgX",
+                        "mimeType": "application/octet-stream",
+                        "size": "1407"
+                      },
+                      {
+                        "name": "Pregunta_1.cpp",
+                        "type": "file",
+                        "id": "1hRW4_bV38Yx3HwjkdkPwH0nbOM4q6B-w",
+                        "mimeType": "application/octet-stream",
+                        "size": "1008"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "20-2",
+                    "type": "folder",
+                    "id": "1ZyWz_Sj5yZLhyvnEewOoUdV-37piPUT6",
+                    "children": [
+                      {
+                        "name": "Pregunta_2.cpp",
+                        "type": "file",
+                        "id": "1KQMnT8JZZCqu58hD1iTCNuQ3_3Hf0OBE",
+                        "mimeType": "application/octet-stream",
+                        "size": "1347"
+                      },
+                      {
+                        "name": "Pregunta_3.cpp",
+                        "type": "file",
+                        "id": "1xSA6SWpRaCdfZksyUAfaVPkuijEU2wg2",
+                        "mimeType": "application/octet-stream",
+                        "size": "2387"
+                      },
+                      {
+                        "name": "Pregunta_1.cpp",
+                        "type": "file",
+                        "id": "1lrxdWb-rnN6tPhvvd57GOyvZBJHsAE-X",
+                        "mimeType": "application/octet-stream",
+                        "size": "868"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "21-2",
+                    "type": "folder",
+                    "id": "1JnOlRyxxlmmJIT3McMje0mPCGmn4IZVx",
+                    "children": [
+                      {
+                        "name": "Pregunta_1.cpp",
+                        "type": "file",
+                        "id": "1P7qSaB7X3nk8I3CZ9LVGeBmnVvzq7Vkw",
+                        "mimeType": "application/octet-stream",
+                        "size": "1417"
+                      },
+                      {
+                        "name": "Pregunta_3.cpp",
+                        "type": "file",
+                        "id": "19lENXukZ65xpp6f4i1hcMkDxXcxqL1g8",
+                        "mimeType": "application/octet-stream",
+                        "size": "1071"
+                      },
+                      {
+                        "name": "Pregunta_2.cpp",
+                        "type": "file",
+                        "id": "1oY0uBdrBfmE59S2eIQduCJWTg_96Mi6Q",
+                        "mimeType": "application/octet-stream",
+                        "size": "1744"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "20-1",
+                    "type": "folder",
+                    "id": "1XI0nJupflMLfF_poK3Q8mH-jpxT6rmmd",
+                    "children": [
+                      {
+                        "name": "Pregunta_3.cpp",
+                        "type": "file",
+                        "id": "13ZN95TuQrW6MB5T0v0NVOIKukCRKlvLq",
+                        "mimeType": "application/octet-stream",
+                        "size": "1576"
+                      },
+                      {
+                        "name": "Pregunta_2.cpp",
+                        "type": "file",
+                        "id": "1skJJT9ezQboC28TS6t_sAHbXlopZoa0e",
+                        "mimeType": "application/octet-stream",
+                        "size": "753"
+                      },
+                      {
+                        "name": "Pregunta_1.cpp",
+                        "type": "file",
+                        "id": "1ixGzvaOaQTQtpf9qOuwD5mI3Kub6mZIa",
+                        "mimeType": "application/octet-stream",
+                        "size": "844"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "18-2",
+                    "type": "folder",
+                    "id": "10CGgEESBjl8x5Po2IjgY4-zpldVa_4uU",
+                    "children": [
+                      {
+                        "name": "Pregunta_3.cpp",
+                        "type": "file",
+                        "id": "1vCRrX0sGo-QzYebmQguuVlvHV1Qn2fBQ",
+                        "mimeType": "application/octet-stream",
+                        "size": "1080"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "19-3",
+                    "type": "folder",
+                    "id": "1g6iz5MadpwIYI3QLFqp7VEl_B956Etj6",
+                    "children": [
+                      {
+                        "name": "Pregunta_2.cpp",
+                        "type": "file",
+                        "id": "1J5LvIsjFwPF4XvamGm6oBBtseMltcxCC",
+                        "mimeType": "application/octet-stream",
+                        "size": "1080"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "17-2",
+                    "type": "folder",
+                    "id": "1Z0F_HjFghWZE4KFYNXkoySMMBpw5YYer",
+                    "children": [
+                      {
+                        "name": "Pregunta_3.cpp",
+                        "type": "file",
+                        "id": "1rG6hLGiezmd-63b64It-mC-GWyNO0iSp",
+                        "mimeType": "application/octet-stream",
+                        "size": "1362"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "16-3",
+                    "type": "folder",
+                    "id": "1qvTXoYhOcJiTZP37JpMzHu7jVMxzBfyw",
+                    "children": [
+                      {
+                        "name": "Pregunta_2.cpp",
+                        "type": "file",
+                        "id": "1kZWSvo-00V0z5nMZVQGmORAtpz0AvRo0",
+                        "mimeType": "application/octet-stream",
+                        "size": "1407"
+                      },
+                      {
+                        "name": "Pregunta_1.cpp",
+                        "type": "file",
+                        "id": "1x0P2sEXDqPphNmOZc7wMQCiJeWCZSt5m",
+                        "mimeType": "application/octet-stream",
+                        "size": "1058"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "24-2",
+                "type": "folder",
+                "id": "1GlXcJR0eO2xwKdRR4mpOUAGJSTu2rlHI",
+                "children": [
+                  {
+                    "name": "UNI-SI205-PC1-Pregunta_1.pdf",
+                    "type": "file",
+                    "id": "1PV1f6QuejN0_x2gqweFa1JhCvmVH_l24",
+                    "mimeType": "application/pdf",
+                    "size": "107291"
+                  },
+                  {
+                    "name": "UNI-SI205-PC1-Pregunta_3.pdf",
+                    "type": "file",
+                    "id": "1KYdqbi-iab6PRvEKJ5_AzJZ7qzmveBsw",
+                    "mimeType": "application/pdf",
+                    "size": "231480"
+                  },
+                  {
+                    "name": "UNI-SI205-PC1-Pregunta_2.pdf",
+                    "type": "file",
+                    "id": "1i_EUEVxtQd3K8FCAXyEN0oQZMWS_qLwo",
+                    "mimeType": "application/pdf",
+                    "size": "98382"
+                  }
+                ]
+              },
+              {
+                "name": "25-1",
+                "type": "folder",
+                "id": "1_bCUllMg-ullIRJFMGAmEXn6WxcbXtSG",
+                "children": [
+                  {
+                    "name": "UNI-SI205-PC1-Pregunta_3.pptx",
+                    "type": "file",
+                    "id": "1qTkX2sIGi-BnJIHzxm_-Kc5tRiYH94sI",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "47295"
+                  },
+                  {
+                    "name": "UNI-SI205-PC1-Pregunta_2.pptx",
+                    "type": "file",
+                    "id": "18dVPZLK5hzFboC8iIw3Y5Qcq6Ei2wgh-",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "46668"
+                  },
+                  {
+                    "name": "UNI-SI205-PC1-Pregunta_1.pptx",
+                    "type": "file",
+                    "id": "1_owIX4OmfMA4ipYEFUxZYXOVsBE3G7_H",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "47400"
+                  }
+                ]
+              },
+              {
+                "name": "PC1_S.F..pdf",
+                "type": "file",
+                "id": "1dZE0NxWIqWULtjwqvS6A5e16h8-nC1Az",
+                "mimeType": "application/pdf",
+                "size": "194095"
+              },
+              {
+                "name": "PC1_22-2.pdf",
+                "type": "file",
+                "id": "13geDWnYoHE5uEKmczOyFCDcOw1YrhZpI",
+                "mimeType": "application/pdf",
+                "size": "1446086"
+              },
+              {
+                "name": "PC1_15-2.pdf",
+                "type": "file",
+                "id": "1heh_wKZdqAefT9pAkpyb_ehKCSVaJHwf",
+                "mimeType": "application/pdf",
+                "size": "668708"
+              },
+              {
+                "name": "PC1_16-3.pdf",
+                "type": "file",
+                "id": "1n13wvMq2CcTBLSjF3sRiKQADMcVVW3a0",
+                "mimeType": "application/pdf",
+                "size": "697038"
+              },
+              {
+                "name": "PC1_18-2.pdf",
+                "type": "file",
+                "id": "1e4bQGulNhgDGBgKOAq6ZpSmH0BlHZsBJ",
+                "mimeType": "application/pdf",
+                "size": "202932"
+              },
+              {
+                "name": "PC1_19-3.jpg",
+                "type": "file",
+                "id": "1r49eYTZ0hdVoG_IklzMb6NcJtaXq918N",
+                "mimeType": "image/jpeg",
+                "size": "58676"
+              },
+              {
+                "name": "PC1_22-1.pdf",
+                "type": "file",
+                "id": "1gBter2ENA0tdESKnGkNTtls2pSEmORnC",
+                "mimeType": "application/pdf",
+                "size": "1679041"
+              },
+              {
+                "name": "PC1_17-1.pdf",
+                "type": "file",
+                "id": "1RmcGqfbSSKtlJ7Wqv7GwuM3FrerCRbJi",
+                "mimeType": "application/pdf",
+                "size": "613027"
+              },
+              {
+                "name": "PC1_21-1.pdf",
+                "type": "file",
+                "id": "1poAUTgCvKcwfsECOvIpYexcTAZ3Qvc5A",
+                "mimeType": "application/pdf",
+                "size": "372054"
+              },
+              {
+                "name": "PC1_20-1.pdf",
+                "type": "file",
+                "id": "1c6gH-AO4mHEmcD9nlipMaHHRD3Bs5iLT",
+                "mimeType": "application/pdf",
+                "size": "344285"
+              },
+              {
+                "name": "PC1_20-2.pdf",
+                "type": "file",
+                "id": "1MV1WQyJwCCYvyobewpYsdN8S13M-0TMM",
+                "mimeType": "application/pdf",
+                "size": "415732"
+              },
+              {
+                "name": "Compendio_PC1.pdf",
+                "type": "file",
+                "id": "1GDx6K1oYmAGBplJ9cK6hr1EWXIVaRZ4_",
+                "mimeType": "application/pdf",
+                "size": "899185"
+              },
+              {
+                "name": "PC1_16-2.pdf",
+                "type": "file",
+                "id": "1m9Xm8h5lwqBLsot_jdtEvGBLAnerKAeK",
+                "mimeType": "application/pdf",
+                "size": "949559"
+              },
+              {
+                "name": "PC1_17-2.pdf",
+                "type": "file",
+                "id": "1JQRNmPR11ktG4wzwdNvDlaHCdJNcc5t1",
+                "mimeType": "application/pdf",
+                "size": "140718"
+              },
+              {
+                "name": "PC1_14-2.pdf",
+                "type": "file",
+                "id": "1H5B2L8dze26gV5KpsSnlf5VunbwUXTd-",
+                "mimeType": "application/pdf",
+                "size": "143265"
+              }
+            ]
+          },
+          {
+            "name": "EP",
+            "type": "folder",
+            "id": "1AJjau0srdFQPc4eXyjGuPM_bg3GViXWq",
+            "children": [
+              {
+                "name": "25-2",
+                "type": "folder",
+                "id": "16m6j7WYWa1d144eqMv4k7fyLktBYKyr5",
+                "children": [
+                  {
+                    "name": "UNI-SI205-EP-Pregunta_2.pptx",
+                    "type": "file",
+                    "id": "1qMFjjJcSN5XDjxcNM9gBqrc8XAwvtQGM",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "124803"
+                  },
+                  {
+                    "name": "UNI-SI205-EP-Pregunta_3.pptx",
+                    "type": "file",
+                    "id": "1JLgENsdAdIXU8yoSQmSZZGzkwKnXe9rh",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "102639"
+                  },
+                  {
+                    "name": "UNI-SI205-EP-Pregunta_1.pptx",
+                    "type": "file",
+                    "id": "1ZOBy5jOibvwyTbH87V1IieP_HMklIqMG",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "134428"
+                  }
+                ]
+              },
+              {
+                "name": "Soluciones",
+                "type": "folder",
+                "id": "1rkN2kxRPWm82uaKJwix0WOPcN5NpO8LZ",
+                "children": [
+                  {
+                    "name": "21-2",
+                    "type": "folder",
+                    "id": "1Pk9Z7GgzavT3vO5IQqsUGblfwJnTLtAS",
+                    "children": [
+                      {
+                        "name": "Parcial_-_2021_II_-_Solucionario.pdf",
+                        "type": "file",
+                        "id": "1DtROMXQbPNHPtv4lAeJldkt2WgwpobOe",
+                        "mimeType": "application/pdf",
+                        "size": "134118"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "22-2",
+                    "type": "folder",
+                    "id": "1RV9gnjZKjVqjJdVE4zHxQichYJxLVjpm",
+                    "children": [
+                      {
+                        "name": "Pregunta_1.cpp",
+                        "type": "file",
+                        "id": "1mvUlG0ItstgobZdXNwS-pSf8-EP6YRF1",
+                        "mimeType": "application/octet-stream",
+                        "size": "5147"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "19-3",
+                    "type": "folder",
+                    "id": "1YHyt9PKRztznw3qRl_G0AhoVBFWg0YaE",
+                    "children": [
+                      {
+                        "name": "Pregunta_3",
+                        "type": "folder",
+                        "id": "1zsy2ezOd4z2g37IAYUoOBmnO81BXYamd",
+                        "children": [
+                          {
+                            "name": "EX_PARCIAL_19-III_p3.cpp",
+                            "type": "file",
+                            "id": "1yvFmef8n0MUpMZQwkkd6todqJdkbLklY",
+                            "mimeType": "application/octet-stream",
+                            "size": "404"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "16-2",
+                    "type": "folder",
+                    "id": "1Cf-mjikGU615rx2gpE2k80lCEBzsLiQd",
+                    "children": [
+                      {
+                        "name": "Pregunta_3",
+                        "type": "folder",
+                        "id": "112Iirgwu01ERFWyJXihSlem5raCdShxX",
+                        "children": [
+                          {
+                            "name": "EX_PARCIAL_16-II_p2.cpp",
+                            "type": "file",
+                            "id": "1Qi7fj34snOoj6Rba7t3VCHmJO22LcIQK",
+                            "mimeType": "application/octet-stream",
+                            "size": "1797"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "25-1",
+                "type": "folder",
+                "id": "18BGpSvxdPRkxWjXsi2zAHvzAUplIoU4r",
+                "children": [
+                  {
+                    "name": "EP_25-1_Sol..pdf",
+                    "type": "file",
+                    "id": "16G5crMA0lQDEknDLj5OFyHVIryYLqNGt",
+                    "mimeType": "application/pdf",
+                    "size": "56034"
+                  },
+                  {
+                    "name": "EP_25-1.pdf",
+                    "type": "file",
+                    "id": "13IbVGU9u0H8qBSBNs_27Ra0vMq_CNuKT",
+                    "mimeType": "application/pdf",
+                    "size": "361111"
+                  }
+                ]
+              },
+              {
+                "name": "24-2",
+                "type": "folder",
+                "id": "1SXXA-CcHj5HcdUTmqOCZD1Kr9YRyjFgC",
+                "children": [
+                  {
+                    "name": "EP_24-2_Sol..rar",
+                    "type": "file",
+                    "id": "10GZ0reSF_RjwScsBynVadD5LaRjbKPek",
+                    "mimeType": "application/x-rar",
+                    "size": "2116"
+                  },
+                  {
+                    "name": "UNI-SI205-EP-Pregunta_3.pptx",
+                    "type": "file",
+                    "id": "13O3e-2r8aTD6RqqEE7h9fW4BP0p-Ui8D",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "46858"
+                  },
+                  {
+                    "name": "UNI-SI205-EP-Pregunta_2.pptx",
+                    "type": "file",
+                    "id": "11-hjdI2K3RcRNGX7N7B4NdCqk0_JTF7Q",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "84295"
+                  },
+                  {
+                    "name": "UNI-SI205-EP-Pregunta_1.pptx",
+                    "type": "file",
+                    "id": "1sthHvyCELJtF4ZkC-w6UPeJ1NuKVtOYU",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "51242"
+                  }
+                ]
+              },
+              {
+                "name": "EP_24-1.pdf",
+                "type": "file",
+                "id": "1T5RwlqmNXcWTkN6p8w9ZM9Nry2B9K0rb",
+                "mimeType": "application/pdf",
+                "size": "1493330"
+              },
+              {
+                "name": "EP_16-3.pdf",
+                "type": "file",
+                "id": "1eHGpSf5rGWGo02-BIvOaDGQVUuL4BZuN",
+                "mimeType": "application/pdf",
+                "size": "666121"
+              },
+              {
+                "name": "EP_20-2.pdf",
+                "type": "file",
+                "id": "1rhLo-TrLWMrJlfaEa1k9AchqiUWCdLT5",
+                "mimeType": "application/pdf",
+                "size": "316080"
+              },
+              {
+                "name": "EP_17-2.jpg",
+                "type": "file",
+                "id": "1nJCe2tucgzrcjovIKFGt0PFTHmqMEtHH",
+                "mimeType": "image/jpeg",
+                "size": "3013402"
+              },
+              {
+                "name": "EP_15-2.pdf",
+                "type": "file",
+                "id": "1UPRjPBSF0Rre2yIjDTmMac-3SMDRIOjw",
+                "mimeType": "application/pdf",
+                "size": "690623"
+              },
+              {
+                "name": "EP_22-1.pdf",
+                "type": "file",
+                "id": "1qSxMWfK10UsTKqmNNdwIeSMotO_tE9ds",
+                "mimeType": "application/pdf",
+                "size": "839952"
+              },
+              {
+                "name": "EP_16-2.pdf",
+                "type": "file",
+                "id": "1ClCIM4FMugj261G6EpMZtmwVe0zCAJ3W",
+                "mimeType": "application/pdf",
+                "size": "1115070"
+              },
+              {
+                "name": "EP_17-1.pdf",
+                "type": "file",
+                "id": "1qYmRneqNL6yGlJGrK0EDtcIWmUzME8Ui",
+                "mimeType": "application/pdf",
+                "size": "1529902"
+              },
+              {
+                "name": "EP_21-2.pdf",
+                "type": "file",
+                "id": "1yS2--zxe_ecL2Rvm2KzYp4LJ--oOZBP0",
+                "mimeType": "application/pdf",
+                "size": "400015"
+              },
+              {
+                "name": "Compendio_EP.pdf",
+                "type": "file",
+                "id": "1ymCGge2MiUwb2sQ1iuYEmoA_qy63sCAI",
+                "mimeType": "application/pdf",
+                "size": "4589518"
+              },
+              {
+                "name": "EP_18-1.jpg",
+                "type": "file",
+                "id": "1-xCX5A1sK3j7k418HRmgov3UXYcnKQgw",
+                "mimeType": "image/jpeg",
+                "size": "272371"
+              },
+              {
+                "name": "EP_20-1.pdf",
+                "type": "file",
+                "id": "1qOdR6nzJBMG1MoWqPnf-nnFbo8hIi6SM",
+                "mimeType": "application/pdf",
+                "size": "400501"
+              },
+              {
+                "name": "EP_21-1.pdf",
+                "type": "file",
+                "id": "1gTP1IvCaVpeyrZw5ADOh3HVTHJgANU1g",
+                "mimeType": "application/pdf",
+                "size": "165195"
+              },
+              {
+                "name": "EP_22-2.pdf",
+                "type": "file",
+                "id": "1P4fFmKZJBucSRhfpMTfUADV2C-aHkpdH",
+                "mimeType": "application/pdf",
+                "size": "1425608"
+              },
+              {
+                "name": "EP_19-3.jpg",
+                "type": "file",
+                "id": "1i_VOCVhFNfckPTNtuL67avhhvchMgywn",
+                "mimeType": "image/jpeg",
+                "size": "57899"
+              }
+            ]
+          },
+          {
+            "name": "EF",
+            "type": "folder",
+            "id": "134W2ayCqUYA_dybK5eI9kIhcW-EHvcu2",
+            "children": [
+              {
+                "name": "25-2",
+                "type": "folder",
+                "id": "1lb4ZOOP_7VUkHtoJp_FHKxuAstE8elee",
+                "children": [
+                  {
+                    "name": "UNI-SI205-EF-Pregunta_1.pptx",
+                    "type": "file",
+                    "id": "1zxNjGJ0jJlbB-VdibGjmtNnt9HWFNVnX",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "47466"
+                  },
+                  {
+                    "name": "UNI-SI205-EF-Pregunta_3.pptx",
+                    "type": "file",
+                    "id": "1t0SGfTz4EIiCaLthKPRz2MBTagJXbc7m",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "46571"
+                  },
+                  {
+                    "name": "UNI-SI205-EF-Pregunta_2.pptx",
+                    "type": "file",
+                    "id": "1gaPjE_lcJlzoP4FKw50KjVQlDylAPKEq",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "47692"
+                  }
+                ]
+              },
+              {
+                "name": "Soluciones",
+                "type": "folder",
+                "id": "1fRixEgMus77HM3ZeZOBZ731WvwesFP9L",
+                "children": [
+                  {
+                    "name": "22_-_1",
+                    "type": "folder",
+                    "id": "1keeVc4NoxHESIZMtsqugKYGxhP8kdVyz",
+                    "children": [
+                      {
+                        "name": "pregunta_3.cpp",
+                        "type": "file",
+                        "id": "1jwFA3N1fvTMWOZOlGfgSvShmr-BZvQAP",
+                        "mimeType": "application/octet-stream",
+                        "size": "962"
+                      },
+                      {
+                        "name": "pregunta_1.cpp",
+                        "type": "file",
+                        "id": "1zyZM9EOG9QlNtDUCnjriw2MoG87Acvim",
+                        "mimeType": "application/octet-stream",
+                        "size": "1894"
+                      },
+                      {
+                        "name": "ALGORITMIA.TXT",
+                        "type": "file",
+                        "id": "1D1n9XLIkwBr2eFLpLNFVUA3CvY-iteqA",
+                        "mimeType": "text/plain",
+                        "size": "40"
+                      },
+                      {
+                        "name": "pregunta_2.cpp",
+                        "type": "file",
+                        "id": "1E--olSBpp1YDWKuTDA2OPagiBr9PuGuB",
+                        "mimeType": "application/octet-stream",
+                        "size": "1694"
+                      },
+                      {
+                        "name": "VENTAS.TXT",
+                        "type": "file",
+                        "id": "1pZSfgh0-ldNzZ_uRs9WneWaop6Q6miy2",
+                        "mimeType": "text/plain",
+                        "size": "281"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "21-_2",
+                    "type": "folder",
+                    "id": "1oelVioRHGnK4fdg_t190zmV3OD0IxQV_",
+                    "children": [
+                      {
+                        "name": "pregunta_2.cpp",
+                        "type": "file",
+                        "id": "1h69zCB9tlfa8Zne6ixQEsiZbgJogHsEQ",
+                        "mimeType": "application/octet-stream",
+                        "size": "2911"
+                      },
+                      {
+                        "name": "pregunta_1.cpp",
+                        "type": "file",
+                        "id": "1DqIKysjNfwzw0E-jazPcADpeIUXIerkE",
+                        "mimeType": "application/octet-stream",
+                        "size": "1331"
+                      },
+                      {
+                        "name": "ALUMNOS2.txt",
+                        "type": "file",
+                        "id": "1w29ink1qHNBvimsoaiK3DaWD2nK0Ao1N",
+                        "mimeType": "text/plain",
+                        "size": "66"
+                      },
+                      {
+                        "name": "FRASES.txt",
+                        "type": "file",
+                        "id": "14PW3NI4qiZQatjrJHkK9M6EkHyvrPhw6",
+                        "mimeType": "text/plain",
+                        "size": "130"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "EF_22-1",
+                "type": "folder",
+                "id": "11aDlAGhWXEifNkXEyG8CpeWH-4GELrB3",
+                "children": [
+                  {
+                    "name": "EF_22-1.pdf",
+                    "type": "file",
+                    "id": "13K4FUaHknlqO-LWbWm4hjNsZ1yOYlnSy",
+                    "mimeType": "application/pdf",
+                    "size": "383734"
+                  },
+                  {
+                    "name": "VENTAS.TXT",
+                    "type": "file",
+                    "id": "1tnMIZxLftu_g5MWX-wbeBj_0_rM-fNZQ",
+                    "mimeType": "text/plain",
+                    "size": "281"
+                  },
+                  {
+                    "name": "ALGORITMIA.TXT",
+                    "type": "file",
+                    "id": "1TQtfnzxV1Lv8HFNoPZOxSfDfo3g7FiEq",
+                    "mimeType": "text/plain",
+                    "size": "40"
+                  }
+                ]
+              },
+              {
+                "name": "EF_22-2",
+                "type": "folder",
+                "id": "15b_spRWT9X8TiEbGXjCDDukQgICG4LUf",
+                "children": [
+                  {
+                    "name": "NOTAS.TXT",
+                    "type": "file",
+                    "id": "1vWB274fjJKRp_L_43k3yp3MU7S3xy0dV",
+                    "mimeType": "text/plain",
+                    "size": "68"
+                  },
+                  {
+                    "name": "EF_22-2.pdf",
+                    "type": "file",
+                    "id": "1sf90WfiQoqnwBZoQENO7aVIkvusRPCrw",
+                    "mimeType": "application/pdf",
+                    "size": "961790"
+                  }
+                ]
+              },
+              {
+                "name": "25-1",
+                "type": "folder",
+                "id": "1NXDmXRqIol3amZ_9bLK2zOsCM-8aED74",
+                "children": [
+                  {
+                    "name": "EF_25-1_Sol..pdf",
+                    "type": "file",
+                    "id": "1WciFZFU9OPOyD6VF8-5pT_gQ-UpIwkJo",
+                    "mimeType": "application/pdf",
+                    "size": "60509"
+                  },
+                  {
+                    "name": "EF_25-1.pdf",
+                    "type": "file",
+                    "id": "1O0IBgnGK0OItNPUz9OBktU4oCSWZ04Tk",
+                    "mimeType": "application/pdf",
+                    "size": "328322"
+                  }
+                ]
+              },
+              {
+                "name": "24-2",
+                "type": "folder",
+                "id": "1FvGTmUtwUhIS2t8Fms63abMQJO5tgmFp",
+                "children": [
+                  {
+                    "name": "EF_24-2_Sol..rar",
+                    "type": "file",
+                    "id": "1fJ80VN6DCwGoKo-dFn3x-NNYaNjJw6sj",
+                    "mimeType": "application/x-rar",
+                    "size": "535881"
+                  },
+                  {
+                    "name": "UNI-SI205-EF-Pregunta_3.pptx",
+                    "type": "file",
+                    "id": "1-aSEl5PBQkA5Sgmyja5yoki-wwKcQK4K",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "476403"
+                  },
+                  {
+                    "name": "UNI-SI205-EF-Pregunta_2.pptx",
+                    "type": "file",
+                    "id": "1ciTnqU33NSlyxHM3HKACZ6tSdWfe2PE1",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "76395"
+                  },
+                  {
+                    "name": "UNI-SI205-EF-Pregunta_1.pptx",
+                    "type": "file",
+                    "id": "14ffU_Ohg17BhgT3j6QaH1kiBdSmozGd8",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "46633"
+                  }
+                ]
+              },
+              {
+                "name": "EF_24-1.pdf",
+                "type": "file",
+                "id": "1kwqWnUvaM-D33_OK9cbIi6kFPSUeUq9W",
+                "mimeType": "application/pdf",
+                "size": "1632401"
+              },
+              {
+                "name": "EF_16-3.pdf",
+                "type": "file",
+                "id": "1Ue1XQMcKTVl08nmUTU8OgKVPskYFY2Mu",
+                "mimeType": "application/pdf",
+                "size": "1134527"
+              },
+              {
+                "name": "EF_20-2.pdf",
+                "type": "file",
+                "id": "12lLncgOASNcLt6iY0yVCpTexoQP4dYb7",
+                "mimeType": "application/pdf",
+                "size": "414464"
+              },
+              {
+                "name": "EF_21-2.pdf",
+                "type": "file",
+                "id": "1VedXEXWXl0wmWw9XuSE--yBQi9hOQ41V",
+                "mimeType": "application/pdf",
+                "size": "318536"
+              },
+              {
+                "name": "EF_16-2.pdf",
+                "type": "file",
+                "id": "15xV6nGA2IF91U5qgAQphCqOY4217y7xv",
+                "mimeType": "application/pdf",
+                "size": "1260422"
+              },
+              {
+                "name": "EF_19-3.jpg",
+                "type": "file",
+                "id": "17sbqPiV38lrBgtxlyBWDVRsWQQaeftT4",
+                "mimeType": "image/jpeg",
+                "size": "67661"
+              },
+              {
+                "name": "EF_20-1.pdf",
+                "type": "file",
+                "id": "1Z44URfIsRJQ5C3Xe501yBoQv64hjeVxU",
+                "mimeType": "application/pdf",
+                "size": "383239"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Material_Sotelo",
+        "type": "folder",
+        "id": "1EPiBh7j5qL-9wZaO0JohlFTsiShelREq",
+        "children": [
+          {
+            "name": "UNI-SI205U-11-Archivos.pdf",
+            "type": "file",
+            "id": "1s8w0F-8nADsxJBcDnMd_z5uuu7P46OSO",
+            "mimeType": "application/pdf",
+            "size": "826257"
+          },
+          {
+            "name": "UNI-SI205U-10-Funciones_recursivas.pdf",
+            "type": "file",
+            "id": "1f-JAtB_d1qm1TIBwxC0mT0NgPnoDQOZd",
+            "mimeType": "application/pdf",
+            "size": "592581"
+          },
+          {
+            "name": "UNI-SI205U-09-Funciones.pdf",
+            "type": "file",
+            "id": "1BEQwtgMr3D8_RSmQ3Jx8h_culifhcl9B",
+            "mimeType": "application/pdf",
+            "size": "606496"
+          },
+          {
+            "name": "UNI-SI205U-08-Registros.pdf",
+            "type": "file",
+            "id": "1vKYbhFcz0pv7tFn45Gni6XQkjtju6TT-",
+            "mimeType": "application/pdf",
+            "size": "347396"
+          },
+          {
+            "name": "UNI-SI205U-07-Cadena_de_caracteres.pdf",
+            "type": "file",
+            "id": "1zyRPeL77jxEQbBGzGYvgB3Jj-aE6EDL0",
+            "mimeType": "application/pdf",
+            "size": "972066"
+          },
+          {
+            "name": "UNI-SI205U-06-Arreglos_multidimensionales.pdf",
+            "type": "file",
+            "id": "14gxG_omVwNNfdJXDYWEBBrrNcm_XExkB",
+            "mimeType": "application/pdf",
+            "size": "289750"
+          },
+          {
+            "name": "UNI-SI205U-05-Ordenamiento_y_búsqueda.pdf",
+            "type": "file",
+            "id": "1Uumpd7SQRo9e3fVB2pU2xnAbODcNHZU7",
+            "mimeType": "application/pdf",
+            "size": "916119"
+          },
+          {
+            "name": "UNI-SI205U-04-Arreglos.pdf",
+            "type": "file",
+            "id": "1ovfH70PZ1-9FP34ghiMcA5vp25G1vSB1",
+            "mimeType": "application/pdf",
+            "size": "763940"
+          },
+          {
+            "name": "UNI-SI205U-03-Estructuras_de_control_-_Iteración.pdf",
+            "type": "file",
+            "id": "12g4iPim3lyR8I3X_fnoRrciSOxyvRnxk",
+            "mimeType": "application/pdf",
+            "size": "814558"
+          },
+          {
+            "name": "UNI-SI205U-02-Estructuras_de_control_-_Secuencia_y_selección.pdf",
+            "type": "file",
+            "id": "12oc3Sv3NbSuDkWeWFhJsS5l4CAmlTKPT",
+            "mimeType": "application/pdf",
+            "size": "856091"
+          },
+          {
+            "name": "UNI-SI205U-01-Introducción.pdf",
+            "type": "file",
+            "id": "17mMK29BHmGeAOeqnooBZBklHUblupwcF",
+            "mimeType": "application/pdf",
+            "size": "848474"
+          },
+          {
+            "name": "UNI-SI205U-12-Punteros_y_estructuras_dinámicas-último.pdf",
+            "type": "file",
+            "id": "1c-jvh-BdWWH-7gqM1MwFzxO-i9GKLRTQ",
+            "mimeType": "application/pdf",
+            "size": "644591"
+          }
+        ]
+      },
+      {
+        "name": "Material_Acosta",
+        "type": "folder",
+        "id": "1sZ5qTXfctAJxublR7rwko_PEq-JJb1i6",
+        "children": [
+          {
+            "name": "Examenes",
+            "type": "folder",
+            "id": "1pdg5gFg2R4Dqb38gfdrgrzI4pnhXJITU",
+            "children": [
+              {
+                "name": "Susti",
+                "type": "folder",
+                "id": "1oM4usLE4pdhHhgdTT_zmSfsRaW11UY6w",
+                "children": [
+                  {
+                    "name": "22-1_pregunta_2",
+                    "type": "folder",
+                    "id": "1acKaeHx1ynE0YIKqK7ntyrezEpYJGAgk",
+                    "children": [
+                      {
+                        "name": "22-1_pregunta_2.cpp",
+                        "type": "file",
+                        "id": "1702JNPMCP7MiBSJZNXXi0CD4f0R9ZaoA",
+                        "mimeType": "application/octet-stream",
+                        "size": "3192"
+                      },
+                      {
+                        "name": "COVID19.TXT",
+                        "type": "file",
+                        "id": "1Ej3Ydpeddx5WsB3QVgBwNaaOfzeMfuBQ",
+                        "mimeType": "text/plain",
+                        "size": "107"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "22-2,_pregunta_1",
+                    "type": "folder",
+                    "id": "1clM81brtX-A8nNmvqac-ZNrDjhMejvnN",
+                    "children": [
+                      {
+                        "name": "NOTAS.TXT",
+                        "type": "file",
+                        "id": "1mHQ-lY8tHILK6pl1KUjd9ODtC8zDoxp1",
+                        "mimeType": "text/plain",
+                        "size": "45"
+                      },
+                      {
+                        "name": "22-2,_pregunta_1.cpp",
+                        "type": "file",
+                        "id": "1RIsEv5pVs06QKzj1ex83k0bR_pIGS-ur",
+                        "mimeType": "application/octet-stream",
+                        "size": "1803"
+                      },
+                      {
+                        "name": "SUSTITUTORIO.TXT",
+                        "type": "file",
+                        "id": "1T9uuwvLflXkZsb9pZq77Q-kEvVM7u0g7",
+                        "mimeType": "text/plain",
+                        "size": "14"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Susti_25-1",
+                    "type": "folder",
+                    "id": "13d1E_sgP420LcEwpjdJqzqdgiZmOpMQP",
+                    "children": [
+                      {
+                        "name": "Pregunta_3.cpp",
+                        "type": "file",
+                        "id": "1QX83rvdwMfCDQiwHfyS0J8Crq_eJOPo3",
+                        "mimeType": "application/octet-stream",
+                        "size": "1852"
+                      },
+                      {
+                        "name": "Pregunta_2.cpp",
+                        "type": "file",
+                        "id": "1GM-fVDlt796KY5yLUNhfWSlHwoptFw_l",
+                        "mimeType": "application/octet-stream",
+                        "size": "2379"
+                      },
+                      {
+                        "name": "Pregunta_1.cpp",
+                        "type": "file",
+                        "id": "1mDIDO1aJuPI1PIiFV-rLiAv97_bK2nKb",
+                        "mimeType": "application/octet-stream",
+                        "size": "2383"
+                      },
+                      {
+                        "name": "COVID19.TXT",
+                        "type": "file",
+                        "id": "1I03rxIT85_1GvDm0EBeIdzy7fblZgH0e",
+                        "mimeType": "text/plain",
+                        "size": "107"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "23-1,_pregunta_2.cpp",
+                    "type": "file",
+                    "id": "16qgamP6GMMbnRSGSGBKgeJSBW708GIgD",
+                    "mimeType": "application/octet-stream",
+                    "size": "2017"
+                  },
+                  {
+                    "name": "23-1,_pregunta_1.cpp",
+                    "type": "file",
+                    "id": "1NZpAFy3NzvG7vO7-py1aTqWqJWnqd7Po",
+                    "mimeType": "application/octet-stream",
+                    "size": "3519"
+                  },
+                  {
+                    "name": "23-2_pregunta_3.cpp",
+                    "type": "file",
+                    "id": "1YhWaBVSdp1W1pSR-jITeLRX4qRryyZtv",
+                    "mimeType": "application/octet-stream",
+                    "size": "661"
+                  },
+                  {
+                    "name": "22-1_pregunta_3.cpp",
+                    "type": "file",
+                    "id": "1i5x4EOZuPZit8BvIJ9jNYBNyW3l7t4pj",
+                    "mimeType": "application/octet-stream",
+                    "size": "1066"
+                  }
+                ]
+              },
+              {
+                "name": "PE",
+                "type": "folder",
+                "id": "1tABZlFYbizrpP8vrkUHAqrj52gr_IvRb",
+                "children": [
+                  {
+                    "name": "Problema_1,_24_2.cpp",
+                    "type": "file",
+                    "id": "17Dd7NTNnIo73sZrhZJGk1BXiBvqxgi_h",
+                    "mimeType": "application/octet-stream",
+                    "size": "768"
+                  },
+                  {
+                    "name": "Problema_1.cpp",
+                    "type": "file",
+                    "id": "1CQFl04kHT4R3OZMG_-viUMk_L4Yck9Sq",
+                    "mimeType": "application/octet-stream",
+                    "size": "1100"
+                  },
+                  {
+                    "name": "Problema_3,_24-2.cpp",
+                    "type": "file",
+                    "id": "19IIinrPJ1b69IeunpFbGfeEluGDblroo",
+                    "mimeType": "application/octet-stream",
+                    "size": "741"
+                  },
+                  {
+                    "name": "UNI-SI205-PE.pdf",
+                    "type": "file",
+                    "id": "1AHvX7rNF_0twCv7hUjoCy-TdIOw9p-mO",
+                    "mimeType": "application/pdf",
+                    "size": "171217"
+                  },
+                  {
+                    "name": "UNI-SI205-PE-Pregunta_3.pdf",
+                    "type": "file",
+                    "id": "1MLaYOS6GorgSsgZXM7u37muOPNGgMSJC",
+                    "mimeType": "application/pdf",
+                    "size": "106477"
+                  },
+                  {
+                    "name": "UNI-SI205-PE-Pregunta_2.pdf",
+                    "type": "file",
+                    "id": "1K8Nq4hYX8sk-e39xoB7KfhGbM2Y_PlH7",
+                    "mimeType": "application/pdf",
+                    "size": "95798"
+                  },
+                  {
+                    "name": "UNI-SI205-PE-Pregunta_1.pdf",
+                    "type": "file",
+                    "id": "1nrnjGQGhSDSNXsvz8rvCXrmclN_oj9va",
+                    "mimeType": "application/pdf",
+                    "size": "101362"
+                  }
+                ]
+              },
+              {
+                "name": "PC4",
+                "type": "folder",
+                "id": "1h6_b92MzP-x57jU5q_Dy2m7M5jpjN06J",
+                "children": [
+                  {
+                    "name": "24-2,_pregunta_2",
+                    "type": "folder",
+                    "id": "1dzYzrq8lajdwDJQ0axpgkyvZFPSv41M7",
+                    "children": [
+                      {
+                        "name": "DATOS.txt",
+                        "type": "file",
+                        "id": "1K5rDAVR9VcWG_90PeleHKncbMtiUtVCY",
+                        "mimeType": "text/plain",
+                        "size": "89"
+                      },
+                      {
+                        "name": "24-2,_pregunta_2.cpp",
+                        "type": "file",
+                        "id": "14dVTPoBn7gnHnBoYZ0akp_ipakOxtN_B",
+                        "mimeType": "application/octet-stream",
+                        "size": "2242"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "21-2,_pregunta_1.cpp",
+                    "type": "file",
+                    "id": "16-KTrvpC2cb-sit4sOGoIgxG0rnG2sWP",
+                    "mimeType": "application/octet-stream",
+                    "size": "2740"
+                  },
+                  {
+                    "name": "22-1,_pregunta_1.cpp",
+                    "type": "file",
+                    "id": "1dinpYP3QhE95LIB8MAkk4WyVRiXtfkwQ",
+                    "mimeType": "application/octet-stream",
+                    "size": "1321"
+                  },
+                  {
+                    "name": "22-1,_pregunta_2.cpp",
+                    "type": "file",
+                    "id": "1eNrjlHJepG5ES4lUpqC6ACMIIX7eJfXc",
+                    "mimeType": "application/octet-stream",
+                    "size": "2081"
+                  },
+                  {
+                    "name": "22-1,_pregunta_3.cpp",
+                    "type": "file",
+                    "id": "1r7X-GgberpVYmweU6SZYoNYy7f0toTu5",
+                    "mimeType": "application/octet-stream",
+                    "size": "588"
+                  }
+                ]
+              },
+              {
+                "name": "Parcial",
+                "type": "folder",
+                "id": "1yCU1WQJxVIdAbUch20SrDJ1PvP2cdLxc",
+                "children": [
+                  {
+                    "name": "Pregunta_1,_23-2.cpp",
+                    "type": "file",
+                    "id": "1HudQ_ORqR1Etz90Qpr9vFKcq_xRoM5kj",
+                    "mimeType": "application/octet-stream",
+                    "size": "539"
+                  },
+                  {
+                    "name": "Pregunta_3,_24-1.cpp",
+                    "type": "file",
+                    "id": "1W8LdeZJ1NxsglUDXslfvKMoXIyvPGWmm",
+                    "mimeType": "application/octet-stream",
+                    "size": "1084"
+                  },
+                  {
+                    "name": "Ex_Parciales.zip",
+                    "type": "file",
+                    "id": "1mlqArklH4FXQVZit0ZKTgrmLRMSlZtnC",
+                    "mimeType": "application/zip",
+                    "size": "3988246"
+                  },
+                  {
+                    "name": "Pregunta_2,_24-1.cpp",
+                    "type": "file",
+                    "id": "1xq9ddDWHrpBGXdEiMG8fK0ZHifVwHzNe",
+                    "mimeType": "application/octet-stream",
+                    "size": "1684"
+                  },
+                  {
+                    "name": "Pregunta_1,_24-1.cpp",
+                    "type": "file",
+                    "id": "1aQE0MAA5EvnWioSUFmIUGiYwCzbY-FtI",
+                    "mimeType": "application/octet-stream",
+                    "size": "1220"
+                  },
+                  {
+                    "name": "Pregunta_2,_22-1.cpp",
+                    "type": "file",
+                    "id": "1yrfGbfVb4Z4et-UX4fD_DtsyNgC-Oo7y",
+                    "mimeType": "application/octet-stream",
+                    "size": "752"
+                  },
+                  {
+                    "name": "Pregunta_3,_23-1.cpp",
+                    "type": "file",
+                    "id": "1e_zp-2dZv-zzjnNolZqJkCWtpxHkZoui",
+                    "mimeType": "application/octet-stream",
+                    "size": "2028"
+                  },
+                  {
+                    "name": "UNI-SI205-EP-Pregunta_1.pdf",
+                    "type": "file",
+                    "id": "1Ppo4N_FmJ7fu84hI2bwiCcuuHR_jKuHh",
+                    "mimeType": "application/pdf",
+                    "size": "141921"
+                  },
+                  {
+                    "name": "UNI-SI205-EP-Pregunta_2.pdf",
+                    "type": "file",
+                    "id": "1IOV5EydRuVm39blfJARgHe7rncNjNoDu",
+                    "mimeType": "application/pdf",
+                    "size": "142403"
+                  },
+                  {
+                    "name": "UNI-SI205-EP-Pregunta_3.pdf",
+                    "type": "file",
+                    "id": "1jBYTI-z3JSuFZG7H50V152jFYFjT7qPc",
+                    "mimeType": "application/pdf",
+                    "size": "142170"
+                  }
+                ]
+              },
+              {
+                "name": "PC2",
+                "type": "folder",
+                "id": "10aBu8GtUJUAntbFn395BNXD2J6iOYLtd",
+                "children": [
+                  {
+                    "name": "Sin_Nombre4.cpp",
+                    "type": "file",
+                    "id": "1q0vk4PPYIl8a9adWztb7xx-7BLhO_OfD",
+                    "mimeType": "application/octet-stream",
+                    "size": "423"
+                  },
+                  {
+                    "name": "Pregunta_3,_22-1.cpp",
+                    "type": "file",
+                    "id": "1zup4BapjEy_LsbQikfKe9yFztA0Z4eui",
+                    "mimeType": "application/octet-stream",
+                    "size": "2602"
+                  },
+                  {
+                    "name": "Pregunta_1,_22-1.cpp",
+                    "type": "file",
+                    "id": "1xfaLYm7xwbsDpxcb3pPvg-EHdzKw5pwA",
+                    "mimeType": "application/octet-stream",
+                    "size": "745"
+                  },
+                  {
+                    "name": "Posible_fija.cpp",
+                    "type": "file",
+                    "id": "1dpV9OvyhetNfV0MkEZCn3UAT6sMaHNS_",
+                    "mimeType": "application/octet-stream",
+                    "size": "807"
+                  },
+                  {
+                    "name": "Pregunta_3,_23-1.cpp",
+                    "type": "file",
+                    "id": "1sVqZwmIMLBfjjuEGHoHTf8NGJqBOMRCH",
+                    "mimeType": "application/octet-stream",
+                    "size": "1896"
+                  },
+                  {
+                    "name": "Pregunta_1,_23-1.cpp",
+                    "type": "file",
+                    "id": "1BmhbMylXkzvC7zkXID_wZ2tgVZaTdply",
+                    "mimeType": "application/octet-stream",
+                    "size": "1097"
+                  },
+                  {
+                    "name": "UNI-SI205-PC2-Pregunta_1.pdf",
+                    "type": "file",
+                    "id": "18sajotqiTUvwzXtguuZCZQbc9MTUsFPG",
+                    "mimeType": "application/pdf",
+                    "size": "104091"
+                  },
+                  {
+                    "name": "UNI-SI205-PC2-Pregunta_3.pdf",
+                    "type": "file",
+                    "id": "1zYJisHjnVrBey-ayi_ziBri_T8oRexXG",
+                    "mimeType": "application/pdf",
+                    "size": "151013"
+                  },
+                  {
+                    "name": "UNI-SI205-PC2-Pregunta_2.pdf",
+                    "type": "file",
+                    "id": "1zInG3JyomOla6ifKLP6H0sLHUS4F7G7B",
+                    "mimeType": "application/pdf",
+                    "size": "139341"
+                  }
+                ]
+              },
+              {
+                "name": "PC1",
+                "type": "folder",
+                "id": "1yJoiR8c6x1XYMxnobnf7EdZZQzoMTVdf",
+                "children": [
+                  {
+                    "name": "Pregunta_3,_20-2.cpp",
+                    "type": "file",
+                    "id": "1NP0DKM0rZKxCHerKzYBus3kfRpudoc8I",
+                    "mimeType": "application/octet-stream",
+                    "size": "728"
+                  },
+                  {
+                    "name": "Pregunta_2,_23-II.cpp",
+                    "type": "file",
+                    "id": "1e0O_X4AKbNJxZcbgJcWB7y6sdNyIuyD7",
+                    "mimeType": "application/octet-stream",
+                    "size": "1805"
+                  },
+                  {
+                    "name": "Pregunta_1,_24-1.cpp",
+                    "type": "file",
+                    "id": "196w9HfTDOCLidp2EWuHD2NoLFOhwrNEu",
+                    "mimeType": "application/octet-stream",
+                    "size": "1502"
+                  },
+                  {
+                    "name": "Pregunta_1,_22-1.cpp",
+                    "type": "file",
+                    "id": "1XaVKCDDiaWW8Run4JzfaF5b3TUMlcoKH",
+                    "mimeType": "application/octet-stream",
+                    "size": "595"
+                  },
+                  {
+                    "name": "Pregunta_3,_23-2.cpp",
+                    "type": "file",
+                    "id": "1C4RB8_LvKyyckKJvSuhsg13dXZnLs1wT",
+                    "mimeType": "application/octet-stream",
+                    "size": "492"
+                  },
+                  {
+                    "name": "Pregunta_1,_23-2.cpp",
+                    "type": "file",
+                    "id": "1ShYmv4uiFsE40-oCISp4RbwHwMCyi38v",
+                    "mimeType": "application/octet-stream",
+                    "size": "526"
+                  },
+                  {
+                    "name": "Pregunta_1,_21-2.cpp",
+                    "type": "file",
+                    "id": "1ZZxrYKYVRD01JuMSmslzEBomYDddWI9A",
+                    "mimeType": "application/octet-stream",
+                    "size": "608"
+                  },
+                  {
+                    "name": "UNI-SI205-PC1-Pregunta_3.pdf",
+                    "type": "file",
+                    "id": "1iafS1xMsG4SKCXzMUN8HHFFNbmdw3WX7",
+                    "mimeType": "application/pdf",
+                    "size": "231480"
+                  },
+                  {
+                    "name": "UNI-SI205-PC1-Pregunta_1.pdf",
+                    "type": "file",
+                    "id": "15eJoXM6Ya9b-Fy006xC9-E7l9xdX3Ji8",
+                    "mimeType": "application/pdf",
+                    "size": "107291"
+                  },
+                  {
+                    "name": "UNI-SI205-PC1-Pregunta_2.pdf",
+                    "type": "file",
+                    "id": "1V_hkWxsAjftAxDglWCDxA0OHvPxdhDVR",
+                    "mimeType": "application/pdf",
+                    "size": "98382"
+                  }
+                ]
+              },
+              {
+                "name": "Final",
+                "type": "folder",
+                "id": "1-H7tmG-Bgrxnf2UP0mdwlhY4fc3YLS8M",
+                "children": [
+                  {
+                    "name": "22-1,_pregunta_2",
+                    "type": "folder",
+                    "id": "1iSVRSena8lyh1iD1FsC2tkPci3JZw1se",
+                    "children": [
+                      {
+                        "name": "22-1,_pregunta_2.cpp",
+                        "type": "file",
+                        "id": "1-T4K3mL5xCJE20LIDVayoJLRTUT2t7qH",
+                        "mimeType": "application/octet-stream",
+                        "size": "1545"
+                      },
+                      {
+                        "name": "FRASES.TXT",
+                        "type": "file",
+                        "id": "1vR9Iq_5iUX0lnTPDphczNtF48gNyAby6",
+                        "mimeType": "text/plain",
+                        "size": "128"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "22-1,_pregunta_1",
+                    "type": "folder",
+                    "id": "1QFlTmJ6v_jXK2LOXK39HkRuAwqsk_Fj0",
+                    "children": [
+                      {
+                        "name": "Eliminados.txt",
+                        "type": "file",
+                        "id": "18kGruBogHkynhbJ8_y5CyltzA-8_HLQW",
+                        "mimeType": "text/plain",
+                        "size": "21"
+                      },
+                      {
+                        "name": "22-1,_pregunta_1.cpp",
+                        "type": "file",
+                        "id": "10gPqpQ-wLUF8NyQpz2I-qCWSbQ1ho88M",
+                        "mimeType": "application/octet-stream",
+                        "size": "3582"
+                      },
+                      {
+                        "name": "ALUMNOS.TXT",
+                        "type": "file",
+                        "id": "1L_6jjB3vl4VxHPY6eQzzMoK1j1I2wFHH",
+                        "mimeType": "text/plain",
+                        "size": "64"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "22-1,_pregunta_3.cpp",
+                    "type": "file",
+                    "id": "1ecsaTQbpISiUAL_YZb2ZisxGM5LCybLI",
+                    "mimeType": "application/octet-stream",
+                    "size": "658"
+                  },
+                  {
+                    "name": "22-2,_pregunta_1.cpp",
+                    "type": "file",
+                    "id": "11fpG64PVC173JiSvnEgiT8wIyz3yi7xB",
+                    "mimeType": "application/octet-stream",
+                    "size": "3559"
+                  }
+                ]
+              },
+              {
+                "name": "PC3",
+                "type": "folder",
+                "id": "1x4hCYfGIc95LmEsjOyisxfTL6qjabh80",
+                "children": [
+                  {
+                    "name": "PC3",
+                    "type": "folder",
+                    "id": "1i6MQX_lfFmoYwNidgPk2XCvmwLOPdd0e",
+                    "children": [
+                      {
+                        "name": "UNI-SI-205-PC3-2024-2.docx",
+                        "type": "file",
+                        "id": "1GLsx_xnrhpj_i_hbvW8Qlylmfftx9dPD",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "30637"
+                      },
+                      {
+                        "name": "UNI-SI-205-PC3-2024-1.docx",
+                        "type": "file",
+                        "id": "1I53rPQcXTmyxIJABRoPeRwQa-pQbG94_",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "29640"
+                      },
+                      {
+                        "name": "UNI-SI-205-PC3-2023-2.docx",
+                        "type": "file",
+                        "id": "1YEakUyPHk8A9WmrbwWponTDtzO2ziDhL",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "29733"
+                      },
+                      {
+                        "name": "UNI-SI-205-PC3-2023-1.docx",
+                        "type": "file",
+                        "id": "1eUu-ZVx5Hcs0XeviBjtv_iUm3iiZYHuG",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "32179"
+                      },
+                      {
+                        "name": "UNI-SI-205-PC3-2022-2.docx",
+                        "type": "file",
+                        "id": "1L-X6xrsNA87FqRIT8oi-pbVfXSmzW1oQ",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "26318"
+                      },
+                      {
+                        "name": "UNI-SI-205-PC3-2022-1.docx",
+                        "type": "file",
+                        "id": "1_j2rO4vXZH7rorcp033emsLAfsZf3TnJ",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "34320"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "22-1,_PC3_pregunta_2.cpp",
+                    "type": "file",
+                    "id": "1-XMS3tXsBAbQM8uDtuD1VXtzglkTueRY",
+                    "mimeType": "application/octet-stream",
+                    "size": "663"
+                  },
+                  {
+                    "name": "23-1,_PC3_pregunta_1.cpp",
+                    "type": "file",
+                    "id": "1xBLekk50pOOAV-iN5_6qYkVu-sD2dMGY",
+                    "mimeType": "application/octet-stream",
+                    "size": "679"
+                  },
+                  {
+                    "name": "24-1,_pregunta_1.cpp",
+                    "type": "file",
+                    "id": "1d8Z64HAnhofChrOUZssU3Ujp1UIY-GZb",
+                    "mimeType": "application/octet-stream",
+                    "size": "4411"
+                  },
+                  {
+                    "name": "23-2.cpp",
+                    "type": "file",
+                    "id": "17TpJNFqnJOvSlszBSBwyJZnWswEu3TcC",
+                    "mimeType": "application/octet-stream",
+                    "size": "4404"
+                  },
+                  {
+                    "name": "24-2,_PC3_pregunta_2.cpp",
+                    "type": "file",
+                    "id": "1LE-XplsrDprwNnWysxF7JUpdvuqvhGXI",
+                    "mimeType": "application/octet-stream",
+                    "size": "2116"
+                  },
+                  {
+                    "name": "24-2,_PC3_pregunta_1.cpp",
+                    "type": "file",
+                    "id": "1-WuuJEWh5Bh39zdD8FiDdeueiTgBQ-Gx",
+                    "mimeType": "application/octet-stream",
+                    "size": "1910"
+                  }
+                ]
+              },
+              {
+                "name": "tiene_algunas_pruebas.zip",
+                "type": "file",
+                "id": "1IGPGgIx61KCvbjzApBnw8P3VoFIyVYIJ",
+                "mimeType": "application/zip",
+                "size": "1165516"
+              }
+            ]
+          },
+          {
+            "name": "Clases_25-1",
+            "type": "folder",
+            "id": "1ZclaQgOL8KgvwZkx4v29gy_cKWs0tDGL",
+            "children": [
+              {
+                "name": "Semana_6",
+                "type": "folder",
+                "id": "1kyjQG3_FmVQp_7Sx-OGPJxRtNDSFmKEB",
+                "children": [
+                  {
+                    "name": "Ejercicios_semana_6.docx",
+                    "type": "file",
+                    "id": "1Kt-nkegvziKLxx3m8yc8zlCbwZhw_JhA",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "14973"
+                  },
+                  {
+                    "name": "Semana_6_ejemplo_1.cpp",
+                    "type": "file",
+                    "id": "1AYJnAroWrQlbIHsVEB1bRlYcm8L1q40X",
+                    "mimeType": "application/octet-stream",
+                    "size": "1795"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_5",
+                "type": "folder",
+                "id": "15bOJz_KkytHCSU9IgS_B9CwocCuE2vqo",
+                "children": [
+                  {
+                    "name": "Ejercicios_de_la_semana_5.docx",
+                    "type": "file",
+                    "id": "1AD0HpRfwL0booebCe9Qa2HizzDA9BndZ",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "12830"
+                  },
+                  {
+                    "name": "Semana_5_ejemplo1.cpp",
+                    "type": "file",
+                    "id": "1BIDZ_N-w-b-LIpf81C2ykfA5UMgVHrAa",
+                    "mimeType": "application/octet-stream",
+                    "size": "3033"
+                  },
+                  {
+                    "name": "Semana_5_ejemplo_2.cpp",
+                    "type": "file",
+                    "id": "1Xb7t2cc6W27IM6VnjFQUSH1FKww_bWL0",
+                    "mimeType": "application/octet-stream",
+                    "size": "2172"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_9",
+                "type": "folder",
+                "id": "163iOy9pc7Az7m7_oq_PyONIEVlGjTWUO",
+                "children": [
+                  {
+                    "name": "Semana_9_Ejemplo_5.cpp",
+                    "type": "file",
+                    "id": "1X7FhSLvcJ3qPSTp37TIlc2X4Nui_150E",
+                    "mimeType": "application/octet-stream",
+                    "size": "710"
+                  },
+                  {
+                    "name": "Semana_9_Ejemplo_3.cpp",
+                    "type": "file",
+                    "id": "1sNEMzhq9u8ClGEEpaj0kSE6QEV0-zkqD",
+                    "mimeType": "application/octet-stream",
+                    "size": "597"
+                  },
+                  {
+                    "name": "Semana_9_Ejemplo_6.cpp",
+                    "type": "file",
+                    "id": "1pe0BCUIUrx4CT0kNA0zfS5AihVs6xs7k",
+                    "mimeType": "application/octet-stream",
+                    "size": "1310"
+                  },
+                  {
+                    "name": "Semana_9_Ejemplo_4.cpp",
+                    "type": "file",
+                    "id": "1lpaYlWn1atMMl8qrMRimzzdcBkaNUWna",
+                    "mimeType": "application/octet-stream",
+                    "size": "716"
+                  },
+                  {
+                    "name": "Semana_9_Ejemplo_2.cpp",
+                    "type": "file",
+                    "id": "1Rm2IhihQsua4idvSxjFeLk5x8F7ee1IX",
+                    "mimeType": "application/octet-stream",
+                    "size": "448"
+                  },
+                  {
+                    "name": "Semana_9_Ejemplo_1.cpp",
+                    "type": "file",
+                    "id": "1Hb6ZGUq7OVmCeYULRsIHNmrz8Q15VPIW",
+                    "mimeType": "application/octet-stream",
+                    "size": "599"
+                  },
+                  {
+                    "name": "Algoritmia_Estructura_Datos_semana_9(Cadenas).ppt",
+                    "type": "file",
+                    "id": "1uo3FMMiZDv_XnseWlmVCq5ETQqhufrBu",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "210944"
+                  },
+                  {
+                    "name": "Ejercicios_de_la_semana_9.docx",
+                    "type": "file",
+                    "id": "1dEHDkv8ivcdbyc6u0URDjrKy0NaG3zpe",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "12540"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_14",
+                "type": "folder",
+                "id": "14D1lM9bwpo-Jp-1jWx74IbvBgmDfaLmF",
+                "children": [
+                  {
+                    "name": "Semana_14_Ejemplo_1.cpp",
+                    "type": "file",
+                    "id": "1W7aKoi3AydhXstRrkxk7Jp-KjjNKuPyf",
+                    "mimeType": "application/octet-stream",
+                    "size": "2637"
+                  },
+                  {
+                    "name": "Semana_14_Ejemplo_3.cpp",
+                    "type": "file",
+                    "id": "1ki_JrFOdWpRWFtsjZTDpQAC7O2mwQNZU",
+                    "mimeType": "application/octet-stream",
+                    "size": "2619"
+                  },
+                  {
+                    "name": "Semana_14_Ejemplo_2.cpp",
+                    "type": "file",
+                    "id": "11psRBOrapl06dY16WtsErAoblF5zySac",
+                    "mimeType": "application/octet-stream",
+                    "size": "2045"
+                  },
+                  {
+                    "name": "Ejercicios_semana_14.docx",
+                    "type": "file",
+                    "id": "1O_z5mHS_0_AZT8zodMmt3H-RbRJnjJjD",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "14072"
+                  },
+                  {
+                    "name": "Algoritmia_Estructura_Datos_semana_14(Eliminacion_Insercion).ppt",
+                    "type": "file",
+                    "id": "1-fYJmEa191bxNNyvs1V_aP0cqgOqPvft",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "311808"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_3",
+                "type": "folder",
+                "id": "1smGFw6V5hvV5EOfHLXKPpwKK6j86hwYB",
+                "children": [
+                  {
+                    "name": "Semana_3_ejemplo_6.cpp",
+                    "type": "file",
+                    "id": "1PdlRgSEzC2FrBPKiFQvliGAAuLWkVr4n",
+                    "mimeType": "application/octet-stream",
+                    "size": "1404"
+                  },
+                  {
+                    "name": "Semana_3_ejemplo_7.cpp",
+                    "type": "file",
+                    "id": "1rwJ7ZC1qxzfkKJmS4wgIM8snrT-Eilfo",
+                    "mimeType": "application/octet-stream",
+                    "size": "1807"
+                  },
+                  {
+                    "name": "Semana_3_ejemplo_1.cpp",
+                    "type": "file",
+                    "id": "1cgf35TdBbg6DwNDG-sZtsiPxvJgvUeZF",
+                    "mimeType": "application/octet-stream",
+                    "size": "851"
+                  },
+                  {
+                    "name": "Ejercicios_de_la_semana_3.docx",
+                    "type": "file",
+                    "id": "1nNWeo5884tf82XqgIxqZvYoq0MAd3LAe",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "15206"
+                  },
+                  {
+                    "name": "Semana_3_ejemplo_5.cpp",
+                    "type": "file",
+                    "id": "1ZHcBIWAVDYPvv_cfUhMYvNCacvW0tApd",
+                    "mimeType": "application/octet-stream",
+                    "size": "880"
+                  },
+                  {
+                    "name": "Semana_3_ejemplo_2.cpp",
+                    "type": "file",
+                    "id": "1jcVhzs93p9IFZRz74XZZ4UvlNc7Z8JMz",
+                    "mimeType": "application/octet-stream",
+                    "size": "1295"
+                  },
+                  {
+                    "name": "Semana_3_ejemplo_3.cpp",
+                    "type": "file",
+                    "id": "1dOxfwsZqWO0gSUjNh6PIwQVImsib7CWU",
+                    "mimeType": "application/octet-stream",
+                    "size": "1701"
+                  },
+                  {
+                    "name": "Semana_3_ejemplo_4.cpp",
+                    "type": "file",
+                    "id": "1JIoYIdebSzAdzspmcsws_tizj8_qVlx-",
+                    "mimeType": "application/octet-stream",
+                    "size": "957"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_2",
+                "type": "folder",
+                "id": "1qDmfuKud5QJNIm5gBe2o1hTEzKv9U3cM",
+                "children": [
+                  {
+                    "name": "Semana_2_ejemplo_5.cpp",
+                    "type": "file",
+                    "id": "1MBILp8-d6gJ-FdRpcyaS6fw2VGX5Q3u1",
+                    "mimeType": "application/octet-stream",
+                    "size": "517"
+                  },
+                  {
+                    "name": "Semana_2_ejemplo_3.cpp",
+                    "type": "file",
+                    "id": "1Xow53HDGgXYxM1Jk6npTGxDgvrvLrkdH",
+                    "mimeType": "application/octet-stream",
+                    "size": "743"
+                  },
+                  {
+                    "name": "Ejercicios_de_la_semana_2.docx",
+                    "type": "file",
+                    "id": "1o4gFITGpserAgzB0Snt0l6Hz2-kCraHQ",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "12602"
+                  },
+                  {
+                    "name": "Semana_2_ejemplo_6.cpp",
+                    "type": "file",
+                    "id": "1Enh8qiXM2yaivSSDmfqgpyO_MIpNg_jd",
+                    "mimeType": "application/octet-stream",
+                    "size": "644"
+                  },
+                  {
+                    "name": "Semana_2_ejemplo_4.cpp",
+                    "type": "file",
+                    "id": "1yC-Mkv5S26iA3BvgwkQP91gdd3m__wIn",
+                    "mimeType": "application/octet-stream",
+                    "size": "856"
+                  },
+                  {
+                    "name": "Semana_2_ejemplo_2.cpp",
+                    "type": "file",
+                    "id": "1SxwFYY2a0n90aIhw02COks6R2R7x2bWG",
+                    "mimeType": "application/octet-stream",
+                    "size": "1449"
+                  },
+                  {
+                    "name": "Preg_1_PC_2024-2.cpp",
+                    "type": "file",
+                    "id": "17Y_UYzVHnSxxPhSh4BQ9XBcxb-ZlPA0c",
+                    "mimeType": "application/octet-stream",
+                    "size": "1476"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_4",
+                "type": "folder",
+                "id": "1jZdlvEa_mL17o-rkzV7bRrj0UinPQ3EN",
+                "children": [
+                  {
+                    "name": "Ejercicios_de_la_semana_4.docx",
+                    "type": "file",
+                    "id": "1uhVmcN2T_-oy-OYxXy9LEJOWJSSQUB6J",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "12939"
+                  },
+                  {
+                    "name": "Semana_4_Ejemplo_3.cpp",
+                    "type": "file",
+                    "id": "18kPrNdBv2a9Ecngdgk8C9xFnHp7CBRBV",
+                    "mimeType": "application/octet-stream",
+                    "size": "1879"
+                  },
+                  {
+                    "name": "Semana_4_Ejemplo_2.cpp",
+                    "type": "file",
+                    "id": "1oN0qTaZjRGUiZGTN2MrIl402ncBK4d2R",
+                    "mimeType": "application/octet-stream",
+                    "size": "1630"
+                  },
+                  {
+                    "name": "Semana_4_Ejemplo_1.cpp",
+                    "type": "file",
+                    "id": "1g2sdkZRr5E5A6G3YUfy2HgQ9Go2TXb3Q",
+                    "mimeType": "application/octet-stream",
+                    "size": "1669"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_1",
+                "type": "folder",
+                "id": "1-ltGrXIijf6FETQPhoLEcEgdmLcgmrb4",
+                "children": [
+                  {
+                    "name": "Semana_1_ejemplo_3.cpp",
+                    "type": "file",
+                    "id": "1xNNF20pWMIYw0E_GUBMspmgmtekXmdf2",
+                    "mimeType": "application/octet-stream",
+                    "size": "500"
+                  },
+                  {
+                    "name": "Semana_1_ejemplo_4.cpp",
+                    "type": "file",
+                    "id": "1-5Yfc4N36p_MkW1HZ-TrV3A8S9lBDtcp",
+                    "mimeType": "application/octet-stream",
+                    "size": "652"
+                  },
+                  {
+                    "name": "Semana_1_ejercicio_2.cpp",
+                    "type": "file",
+                    "id": "1PcrRxhDG226AnJFpNlb0oW184Vh_LGRE",
+                    "mimeType": "application/octet-stream",
+                    "size": "1570"
+                  },
+                  {
+                    "name": "Semana_1_ejemplo_5.cpp",
+                    "type": "file",
+                    "id": "1wPVpvJ9zrzH86U8IPwSBFB1LhhoEhAms",
+                    "mimeType": "application/octet-stream",
+                    "size": "444"
+                  },
+                  {
+                    "name": "Semana_1_ejercicio_1.cpp",
+                    "type": "file",
+                    "id": "1c7m-qqpcowUb_PKDKylmZm_K4sUM0cGx",
+                    "mimeType": "application/octet-stream",
+                    "size": "1255"
+                  },
+                  {
+                    "name": "Semana_1_ejemplo_1.cpp",
+                    "type": "file",
+                    "id": "1keWiZ80NvOVEFg1kql6CG8yf9MEVd2tx",
+                    "mimeType": "application/octet-stream",
+                    "size": "520"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_13",
+                "type": "folder",
+                "id": "1Hb-Rn18r9mYTkzjEnOQasdoaQ55x4B1f",
+                "children": [
+                  {
+                    "name": "UNI-SI205U-12-Punteros_y_estructuras_dinámicas.pdf",
+                    "type": "file",
+                    "id": "1hYMKg9_9lePi8cx_y5kIDQ2Ok1huxoDf",
+                    "mimeType": "application/pdf",
+                    "size": "1127702"
+                  },
+                  {
+                    "name": "Semana_13_Ejemplo_9.cpp",
+                    "type": "file",
+                    "id": "16kK8r7ogEPXq6dkTgP7EffDpo4HOwvAJ",
+                    "mimeType": "application/octet-stream",
+                    "size": "1371"
+                  },
+                  {
+                    "name": "Semana_13_Ejemplo_10.cpp",
+                    "type": "file",
+                    "id": "1UprJB4enq2UF9rzy5WJmFGoiNEdHe8g4",
+                    "mimeType": "application/octet-stream",
+                    "size": "2059"
+                  },
+                  {
+                    "name": "Ejuemplo5.cpp",
+                    "type": "file",
+                    "id": "1TZ3EYyq0XUcJOaPteh5ObYN-727022Ib",
+                    "mimeType": "application/octet-stream",
+                    "size": "1137"
+                  },
+                  {
+                    "name": "Ejercicios_semana_13.docx",
+                    "type": "file",
+                    "id": "1WnDxP3CQKETOpW5dvw4pLS60S2ziUWmq",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "14066"
+                  },
+                  {
+                    "name": "Semana_13_Ejemplo_8.cpp",
+                    "type": "file",
+                    "id": "1AgdA7b1mDgmZO8qt_xyDWml0ADKGPxUE",
+                    "mimeType": "application/octet-stream",
+                    "size": "1147"
+                  },
+                  {
+                    "name": "Semana_13_Ejemplo_7.cpp",
+                    "type": "file",
+                    "id": "1aV6PmL7jFbt1zAR_Js9jvIl6QKNHJrpU",
+                    "mimeType": "application/octet-stream",
+                    "size": "1720"
+                  },
+                  {
+                    "name": "Semana_13_Ejemplo_6.cpp",
+                    "type": "file",
+                    "id": "1w7MEb35oDL48hsIfdOol9v3MXgcyLs9z",
+                    "mimeType": "application/octet-stream",
+                    "size": "1153"
+                  },
+                  {
+                    "name": "Semana_13_Ejemplo_5.cpp",
+                    "type": "file",
+                    "id": "12iPKbTmPcBx7dbj6aEOq82UwRlpcqfqz",
+                    "mimeType": "application/octet-stream",
+                    "size": "1366"
+                  },
+                  {
+                    "name": "Semana_13_Ejemplo_4.cpp",
+                    "type": "file",
+                    "id": "12qAfdYNrFyTS75TtVB9c6ibp1rPBk7nL",
+                    "mimeType": "application/octet-stream",
+                    "size": "616"
+                  },
+                  {
+                    "name": "Semana_13_Ejemplo_3.cpp",
+                    "type": "file",
+                    "id": "1qEVty-wS4BsqGfoQkb27Gkc9Ok3_nZms",
+                    "mimeType": "application/octet-stream",
+                    "size": "1260"
+                  },
+                  {
+                    "name": "Semana_13_Ejemplo_2.cpp",
+                    "type": "file",
+                    "id": "1ZHWbWVKMNMCmif_-xLDUrC8bA_6fEyTe",
+                    "mimeType": "application/octet-stream",
+                    "size": "1457"
+                  },
+                  {
+                    "name": "Semana_13_Ejemplo_1.cpp",
+                    "type": "file",
+                    "id": "16umcyMl28rgsUPeo9-nabCVyx3BbL0qC",
+                    "mimeType": "application/octet-stream",
+                    "size": "989"
+                  },
+                  {
+                    "name": "Algoritmia_Estructura_Datos_semana_13(Estructuras_Dinamicas).ppt",
+                    "type": "file",
+                    "id": "1UlZ8jUKG2TVZUwHCVVPJHPAu8-WVSzFK",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "333312"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_15",
+                "type": "folder",
+                "id": "1TAnDiJ73MwESCCP43yqTofNoLs1ls9fT",
+                "children": [
+                  {
+                    "name": "Algoritmia_Estructura_Datos_semana_15(Árbol_Binario).ppt",
+                    "type": "file",
+                    "id": "1L-cFfoBJjxfa4aLrq3CVqjeV9hblXhiF",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "338944"
+                  },
+                  {
+                    "name": "Ejemplo1.cpp",
+                    "type": "file",
+                    "id": "11t7_P6TJEz2yKS8TqlgzWH050Ns5N9t6",
+                    "mimeType": "application/octet-stream",
+                    "size": "1857"
+                  },
+                  {
+                    "name": "Ejemplo3.cpp",
+                    "type": "file",
+                    "id": "1ndw17sSURYtyntxUy2D8SyDubo3XFZ88",
+                    "mimeType": "application/octet-stream",
+                    "size": "2414"
+                  },
+                  {
+                    "name": "Ejemplo2.cpp",
+                    "type": "file",
+                    "id": "1SH_MW2JUlWdXgCaouMU1ShJDEt-WrcQN",
+                    "mimeType": "application/octet-stream",
+                    "size": "1453"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_12",
+                "type": "folder",
+                "id": "1pZP1gUeBig7-HQdfR53NArUOtJ1RjtHu",
+                "children": [
+                  {
+                    "name": "ALUMNOS.TXT",
+                    "type": "file",
+                    "id": "1kkRAs3ammCgOOeVl4ZvWS63zzcXBSf6Z",
+                    "mimeType": "text/plain",
+                    "size": "27"
+                  },
+                  {
+                    "name": "PLANILLA.DAT",
+                    "type": "file",
+                    "id": "1G05HCbarG3dNQ2tDUyXQOPJr-O7mbYIl",
+                    "mimeType": "application/octet-stream",
+                    "size": "0"
+                  },
+                  {
+                    "name": "Algoritmia_Estructura_Datos_semana_12(Archivos).ppt",
+                    "type": "file",
+                    "id": "18B5sJb05EJtlXlQEkdULq6w7sO3mM1pQ",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "384000"
+                  },
+                  {
+                    "name": "Ejemplo9_3.cpp",
+                    "type": "file",
+                    "id": "1G9-ILvvD9K3ABR7NYlXknbT9VKsaakad",
+                    "mimeType": "application/octet-stream",
+                    "size": "2072"
+                  },
+                  {
+                    "name": "Ejemplo8.cpp",
+                    "type": "file",
+                    "id": "1QA_uU2lxjm6j0oypsr1Zztv0KsmCY8YY",
+                    "mimeType": "application/octet-stream",
+                    "size": "1338"
+                  },
+                  {
+                    "name": "Ejemplo9_2.cpp",
+                    "type": "file",
+                    "id": "17N4Ou1bPd2Egjwrzqoq-e4KYwakA2sJN",
+                    "mimeType": "application/octet-stream",
+                    "size": "711"
+                  },
+                  {
+                    "name": "Ejemplo7.cpp",
+                    "type": "file",
+                    "id": "1C2mALAidIx0wA8H1f11JuV0gckzdFjkr",
+                    "mimeType": "application/octet-stream",
+                    "size": "1227"
+                  },
+                  {
+                    "name": "Ejemplo9_1.cpp",
+                    "type": "file",
+                    "id": "1Fh_v6J13uY93sg0FgJG9DD5aX3eVVSyX",
+                    "mimeType": "application/octet-stream",
+                    "size": "1070"
+                  },
+                  {
+                    "name": "Ejemplo9_4.cpp",
+                    "type": "file",
+                    "id": "19JwfrZ8IthktoGFBWEOHR7R1mLhp-fRV",
+                    "mimeType": "application/octet-stream",
+                    "size": "399"
+                  },
+                  {
+                    "name": "Ejemplo9_5.cpp",
+                    "type": "file",
+                    "id": "1UnRNc0ialI6_AoZAe_CNvpjXuzbVtxgZ",
+                    "mimeType": "application/octet-stream",
+                    "size": "1125"
+                  },
+                  {
+                    "name": "Ejemplo3.cpp",
+                    "type": "file",
+                    "id": "1UAMniQoGOFNbu5-b7ur-3BEfyEVYhFH6",
+                    "mimeType": "application/octet-stream",
+                    "size": "1093"
+                  },
+                  {
+                    "name": "Ejemplo2_1.cpp",
+                    "type": "file",
+                    "id": "1bgtGEs3PqGj3RKV3H1QNwL-5B8XyNdUt",
+                    "mimeType": "application/octet-stream",
+                    "size": "608"
+                  },
+                  {
+                    "name": "Ejemplo6_1.cpp",
+                    "type": "file",
+                    "id": "17y40RUg5seqLnSRCBvTbMTAW8K9tAGW0",
+                    "mimeType": "application/octet-stream",
+                    "size": "772"
+                  },
+                  {
+                    "name": "Ejemplo6.cpp",
+                    "type": "file",
+                    "id": "1d2unkPuH9ESacY_X8A7NeHqFyjc2Swb7",
+                    "mimeType": "application/octet-stream",
+                    "size": "572"
+                  },
+                  {
+                    "name": "Ejemplo4.cpp",
+                    "type": "file",
+                    "id": "1aEsACSZ-RkX_JhBfn-RgTS5UFJJ7KIyq",
+                    "mimeType": "application/octet-stream",
+                    "size": "1242"
+                  },
+                  {
+                    "name": "Ejemplo5.cpp",
+                    "type": "file",
+                    "id": "11_ZYvrU6q7_kt5HecUH3RvBHjodS0Jcn",
+                    "mimeType": "application/octet-stream",
+                    "size": "1088"
+                  },
+                  {
+                    "name": "Ejemplo2.cpp",
+                    "type": "file",
+                    "id": "1v8JQkUzkgltE7f7waKTtOgU8TsVHmSTN",
+                    "mimeType": "application/octet-stream",
+                    "size": "572"
+                  },
+                  {
+                    "name": "Ejemplo1.cpp",
+                    "type": "file",
+                    "id": "1MkrPKLRGpoKxZHErnL74zJwB-AyfmA-9",
+                    "mimeType": "application/octet-stream",
+                    "size": "1041"
+                  },
+                  {
+                    "name": "Lista_de_ejercicios_de_la_semana_12.docx",
+                    "type": "file",
+                    "id": "1-4UpzX-fUu-W5d_B7ROQNQDnXfMZTprD",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "14932"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_11",
+                "type": "folder",
+                "id": "1W1en3Zrj-h9hCGC3xfQwG2eze9HciE0y",
+                "children": [
+                  {
+                    "name": "Semana_11_Ejemplo_10.cpp",
+                    "type": "file",
+                    "id": "1sTzbBNSkG1EMAO2il7_4aLW1DFNjPIbP",
+                    "mimeType": "application/octet-stream",
+                    "size": "913"
+                  },
+                  {
+                    "name": "Semana_11_Ejemplo_9.cpp",
+                    "type": "file",
+                    "id": "1OSzSQ-N1sJD_u7WEptZ-SRdO5EHA70f7",
+                    "mimeType": "application/octet-stream",
+                    "size": "509"
+                  },
+                  {
+                    "name": "Semana_11_Ejemplo_8.cpp",
+                    "type": "file",
+                    "id": "164dGzEq9YIXc2OBlUm9q1AjI_CkL7xp3",
+                    "mimeType": "application/octet-stream",
+                    "size": "697"
+                  },
+                  {
+                    "name": "Semana_11_Ejemplo_7.cpp",
+                    "type": "file",
+                    "id": "19tag2YB3ByEZI2Ui8LCPAmwhAcDqZo0h",
+                    "mimeType": "application/octet-stream",
+                    "size": "906"
+                  },
+                  {
+                    "name": "Semana_11_Ejemplo_2.cpp",
+                    "type": "file",
+                    "id": "1hBV1VlIO1-Y3YUCwIPkJg7WuiAbCSxv7",
+                    "mimeType": "application/octet-stream",
+                    "size": "683"
+                  },
+                  {
+                    "name": "Semana_11_Ejemplo_4.cpp",
+                    "type": "file",
+                    "id": "1k69X98VOdoNx8BBkswUqMNPGjpWfNoWR",
+                    "mimeType": "application/octet-stream",
+                    "size": "738"
+                  },
+                  {
+                    "name": "Semana_11_Ejemplo_5.cpp",
+                    "type": "file",
+                    "id": "1_qZYGuJquzC2D8j6j0HbsImbwyfdoyQU",
+                    "mimeType": "application/octet-stream",
+                    "size": "700"
+                  },
+                  {
+                    "name": "Semana_11_Ejemplo_1.cpp",
+                    "type": "file",
+                    "id": "1LeGJNbBGv6PDuFdG0VL6X5R44QOWjQ-Z",
+                    "mimeType": "application/octet-stream",
+                    "size": "420"
+                  },
+                  {
+                    "name": "Semana_11_Ejemplo_3.cpp",
+                    "type": "file",
+                    "id": "1kgQQQ36iLIev-Q23wpABJ1vZV6h8xD_X",
+                    "mimeType": "application/octet-stream",
+                    "size": "536"
+                  },
+                  {
+                    "name": "Ejercicios_semana_11.docx",
+                    "type": "file",
+                    "id": "138BFitpxeD62URUun4RdEcOsL2vBHLD-",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "19852"
+                  },
+                  {
+                    "name": "Semana_11_Ejemplo_6.cpp",
+                    "type": "file",
+                    "id": "1Ggynbxksbc1zs_NWpGMkENHXu6xqSCG9",
+                    "mimeType": "application/octet-stream",
+                    "size": "831"
+                  },
+                  {
+                    "name": "Algoritmia_Estructura_Datos_semana_11(Recursividad).ppt",
+                    "type": "file",
+                    "id": "1y4UCJBaOWQCcOHhY4_mvkM059AHSaY2M",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "211968"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_10",
+                "type": "folder",
+                "id": "1s5sD29pCKNYYwSSJ74FxHJoACJ0Zt9eJ",
+                "children": [
+                  {
+                    "name": "Semana_10_Ejemplo_4.cpp",
+                    "type": "file",
+                    "id": "1dtYH5gy7OiVPgjS_NaO8RbCGi2HlDSD4",
+                    "mimeType": "application/octet-stream",
+                    "size": "4160"
+                  },
+                  {
+                    "name": "Ejercicios_de_la_semana_10.docx",
+                    "type": "file",
+                    "id": "1gZy2najuJ3UPxPD35vEP1stO_zFWOttD",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "13292"
+                  },
+                  {
+                    "name": "Semana_10_Ejemplo_3.cpp",
+                    "type": "file",
+                    "id": "1K70WqPnqVjYWPtqiCDYmTmX4OFBzHjjv",
+                    "mimeType": "application/octet-stream",
+                    "size": "1676"
+                  },
+                  {
+                    "name": "Semana_10_Ejemplo_2.cpp",
+                    "type": "file",
+                    "id": "1L4vXelYjKbopYgV7-DyGFNEvtaCuFXR7",
+                    "mimeType": "application/octet-stream",
+                    "size": "1304"
+                  },
+                  {
+                    "name": "Ejemplo1_Prototipeo.cpp",
+                    "type": "file",
+                    "id": "1Bnzh04OqwNK6P6XgIJCOjEpA5QnjKy4f",
+                    "mimeType": "application/octet-stream",
+                    "size": "700"
+                  },
+                  {
+                    "name": "Semana_10_Ejemplo_1.cpp",
+                    "type": "file",
+                    "id": "1mm5Ave1GGb1TOFjKnoLRYBMis2MXebNg",
+                    "mimeType": "application/octet-stream",
+                    "size": "609"
+                  },
+                  {
+                    "name": "Algoritmia_Estructura_Datos_semana_10(Funciones).ppt",
+                    "type": "file",
+                    "id": "1NJ8CdYEjMqDVFxs3reDXflVH9_T3UFG5",
+                    "mimeType": "application/vnd.ms-powerpoint",
+                    "size": "225280"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Clases_anteriores_(24-2)",
+            "type": "folder",
+            "id": "1P8bBYPYKdbmfGRLjDRnGsLdWTPmaaGxK",
+            "children": [
+              {
+                "name": "Semana_2",
+                "type": "folder",
+                "id": "1dmJW945MM0BIxR2K1JprjyaJS9kJfwJ6",
+                "children": [
+                  {
+                    "name": "Ejercicio4.cpp",
+                    "type": "file",
+                    "id": "1ME-LukLfi89RgFmGSfdntk9xIbm0Oouz",
+                    "mimeType": "application/octet-stream",
+                    "size": "605"
+                  },
+                  {
+                    "name": "PC1.pdf",
+                    "type": "file",
+                    "id": "10J4yeUl1XVRf72vlOJG08ZxQE8Z5eDHG",
+                    "mimeType": "application/pdf",
+                    "size": "194095"
+                  },
+                  {
+                    "name": "Ejercicio5.cpp",
+                    "type": "file",
+                    "id": "13uAQFBeea78VYamWb5xGHpi1c6nCq75j",
+                    "mimeType": "application/octet-stream",
+                    "size": "1275"
+                  },
+                  {
+                    "name": "Ejercicio2.cpp",
+                    "type": "file",
+                    "id": "17tnbqCt2hIAKLE3qCyibGeVg71xIoUbP",
+                    "mimeType": "application/octet-stream",
+                    "size": "942"
+                  },
+                  {
+                    "name": "Ejercicio3.cpp",
+                    "type": "file",
+                    "id": "1xBLxsFqp_vrHAcwSITu8f8an_L23f1-O",
+                    "mimeType": "application/octet-stream",
+                    "size": "359"
+                  },
+                  {
+                    "name": "Ejercicio1.cpp",
+                    "type": "file",
+                    "id": "1uwdJ_4Lt00jaZXw1LphvgUQuxMm2KNil",
+                    "mimeType": "application/octet-stream",
+                    "size": "812"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_3",
+                "type": "folder",
+                "id": "1JYjCWQqA25XalFeZe_xNqZzlh3lApy0J",
+                "children": [
+                  {
+                    "name": "Ejemplo7.cpp",
+                    "type": "file",
+                    "id": "1ui0tYBfYL0oneOuqlTiISezrIpGpKHWt",
+                    "mimeType": "application/octet-stream",
+                    "size": "1604"
+                  },
+                  {
+                    "name": "Ejemplo6.cpp",
+                    "type": "file",
+                    "id": "1pwUxl4wFwlqwmD69YlbYMNSbMY4aZjjY",
+                    "mimeType": "application/octet-stream",
+                    "size": "1470"
+                  },
+                  {
+                    "name": "Ejercicios_de_la_semana_3_(1).docx",
+                    "type": "file",
+                    "id": "1EngsdkgguFoGX0CYQ5T-NCDpRWMFEicU",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "15206"
+                  },
+                  {
+                    "name": "Ejemplo4_(1).cpp",
+                    "type": "file",
+                    "id": "1yLWl42O4SxY4WPRbr2is_yoEDrqzep6w",
+                    "mimeType": "application/octet-stream",
+                    "size": "1054"
+                  },
+                  {
+                    "name": "Ejemplo5_(1).cpp",
+                    "type": "file",
+                    "id": "1zeQnQagJ4w0U2fmFS0JlB-Ina2sgvkdW",
+                    "mimeType": "application/octet-stream",
+                    "size": "894"
+                  },
+                  {
+                    "name": "Ejercicios_de_la_semana_3.docx",
+                    "type": "file",
+                    "id": "1nrkQXrKQOkPmHL2UuuwfVOjo9V_JT9Ji",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "15206"
+                  },
+                  {
+                    "name": "Ejemplo1_(2).cpp",
+                    "type": "file",
+                    "id": "13zvAT7AZlzMx3qqQn_o8TNOvOxfEF8Bc",
+                    "mimeType": "application/octet-stream",
+                    "size": "862"
+                  },
+                  {
+                    "name": "Ejemplo2_(2).cpp",
+                    "type": "file",
+                    "id": "1KiIl4cF6phah-AB3J3V2i1WBeZXy2hJH",
+                    "mimeType": "application/octet-stream",
+                    "size": "1212"
+                  },
+                  {
+                    "name": "Ejemplo3_(1).cpp",
+                    "type": "file",
+                    "id": "1PdlsmHdp6617lf7il3JmTw2JfTxW7cQp",
+                    "mimeType": "application/octet-stream",
+                    "size": "1662"
+                  },
+                  {
+                    "name": "Ejemplo5.cpp",
+                    "type": "file",
+                    "id": "1wT2Sw8v8G5-7cOdPSTaOPrpzLdgK2SA2",
+                    "mimeType": "application/octet-stream",
+                    "size": "525"
+                  },
+                  {
+                    "name": "Ejemplo4.cpp",
+                    "type": "file",
+                    "id": "1OOuQ3OfesQz-ihOprYfGgQAgTwd6HZOS",
+                    "mimeType": "application/octet-stream",
+                    "size": "855"
+                  },
+                  {
+                    "name": "Ejemplo3.cpp",
+                    "type": "file",
+                    "id": "16mwgGLOVw97kt0u24zh5kkyzhQTQINVa",
+                    "mimeType": "application/octet-stream",
+                    "size": "508"
+                  },
+                  {
+                    "name": "Ejemplo2_(1).cpp",
+                    "type": "file",
+                    "id": "1RiIkEVHj9gOLWoRYxgrLsK8_vJC1wniD",
+                    "mimeType": "application/octet-stream",
+                    "size": "928"
+                  },
+                  {
+                    "name": "Ejemplo1_(1).cpp",
+                    "type": "file",
+                    "id": "1437htLfs8Cv7ORyz8B8apReabI-dbGtq",
+                    "mimeType": "application/octet-stream",
+                    "size": "698"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_9",
+                "type": "folder",
+                "id": "1Y_HtXmVeiH3UAwywqlC2i2cx176Oq0lZ",
+                "children": [
+                  {
+                    "name": "Ejercicios_de_la_semana_9.docx",
+                    "type": "file",
+                    "id": "18eCG4c_fzL39x5ZW--HEyP5E6L04b3-T",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "12540"
+                  },
+                  {
+                    "name": "Ejercicio1.cpp",
+                    "type": "file",
+                    "id": "1CIJf2eMSVh32xxJXGzydWXGUBHF-XXwS",
+                    "mimeType": "application/octet-stream",
+                    "size": "217"
+                  },
+                  {
+                    "name": "Ejemplo5.cpp",
+                    "type": "file",
+                    "id": "1S6JSVdRgvBWSTv0IqRv4BJNIfIF0LCsQ",
+                    "mimeType": "application/octet-stream",
+                    "size": "783"
+                  },
+                  {
+                    "name": "Ejemplo7.cpp",
+                    "type": "file",
+                    "id": "1GaVZJ1A9BUZxevY_ZPlsOJXvUvdg_gBn",
+                    "mimeType": "application/octet-stream",
+                    "size": "1664"
+                  },
+                  {
+                    "name": "OJO.cpp",
+                    "type": "file",
+                    "id": "1ncRR7AfhOYsnBkSACWqbRiLoP6Mx3Qfi",
+                    "mimeType": "application/octet-stream",
+                    "size": "931"
+                  },
+                  {
+                    "name": "Ejemplo6.cpp",
+                    "type": "file",
+                    "id": "1w0YIBHKunRFXezzPqcFASyd7kSWMnvNn",
+                    "mimeType": "application/octet-stream",
+                    "size": "1313"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_5",
+                "type": "folder",
+                "id": "1vZ9GEcyuQEreBqXvp50GWPsBzjIVdOuH",
+                "children": [
+                  {
+                    "name": "Ejemplo4.cpp",
+                    "type": "file",
+                    "id": "177ebzaQI2zhWInXQUqrQdOueeg7FWvAI",
+                    "mimeType": "application/octet-stream",
+                    "size": "1123"
+                  },
+                  {
+                    "name": "Ejemplo5.cpp",
+                    "type": "file",
+                    "id": "1LQLgJLvCzcRmctTikLqhMXW7ZeTOHoBp",
+                    "mimeType": "application/octet-stream",
+                    "size": "1464"
+                  },
+                  {
+                    "name": "Ejemplo1.cpp",
+                    "type": "file",
+                    "id": "1e9kkTRjMmvOreoe-E12f-31oJ5O5OQEe",
+                    "mimeType": "application/octet-stream",
+                    "size": "935"
+                  },
+                  {
+                    "name": "Ejemplo3.cpp",
+                    "type": "file",
+                    "id": "1jheAoUKcl4wYOC0oeqjdn33WTrxe8rEN",
+                    "mimeType": "application/octet-stream",
+                    "size": "1658"
+                  },
+                  {
+                    "name": "Ejemplo2.cpp",
+                    "type": "file",
+                    "id": "172eHRMXXDCLEWwQeRhIfzNpMdBANoSXn",
+                    "mimeType": "application/octet-stream",
+                    "size": "989"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_10",
+                "type": "folder",
+                "id": "19JdYFfsb0MyzZKYsmP6rlg04fU1v_V1n",
+                "children": [
+                  {
+                    "name": "Ejercicios_de_la_semana_10.docx",
+                    "type": "file",
+                    "id": "1XbvKO_WmrrDy8CzAdMGu6Gayck6pMz3o",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "13292"
+                  },
+                  {
+                    "name": "Ejemplo5.cpp",
+                    "type": "file",
+                    "id": "1NUxY8PveRI-_6u2_LbUYfXJptY2Z1Trq",
+                    "mimeType": "application/octet-stream",
+                    "size": "4145"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_11",
+                "type": "folder",
+                "id": "1LXcvbmq8biOXKSxOSCMpL11USjJu5qwP",
+                "children": [
+                  {
+                    "name": "Ejercicios_semana_11.docx",
+                    "type": "file",
+                    "id": "1305_A3RTMKlSU31tyaW6kQLHC_gmL7qV",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "19852"
+                  },
+                  {
+                    "name": "Ejemplo4.cpp",
+                    "type": "file",
+                    "id": "1nfVkd2yHpZMfJwJQs00MorR8BzOS-CP9",
+                    "mimeType": "application/octet-stream",
+                    "size": "764"
+                  },
+                  {
+                    "name": "Ejemplo6.cpp",
+                    "type": "file",
+                    "id": "1IXC3lh2ibp4CxpBYwF8FJ6Rz1XkAuxe2",
+                    "mimeType": "application/octet-stream",
+                    "size": "823"
+                  },
+                  {
+                    "name": "Ejemplo5.cpp",
+                    "type": "file",
+                    "id": "1GRAhoFxFv6p8aZibMIFJ5owJpngBCS-8",
+                    "mimeType": "application/octet-stream",
+                    "size": "702"
+                  },
+                  {
+                    "name": "Ejemplo7.cpp",
+                    "type": "file",
+                    "id": "1713xCKdqMO1eUiEO8QrNBxb2gYBYJ2nm",
+                    "mimeType": "application/octet-stream",
+                    "size": "918"
+                  },
+                  {
+                    "name": "Ejemplo2.cpp",
+                    "type": "file",
+                    "id": "154lwQEILdiu2DRwBSY1-2Z9_1B56Z7VZ",
+                    "mimeType": "application/octet-stream",
+                    "size": "780"
+                  },
+                  {
+                    "name": "Ejemplo3.cpp",
+                    "type": "file",
+                    "id": "1RjSn_h-JH7ncPEH2ouxNkBXeMPJ9TpuE",
+                    "mimeType": "application/octet-stream",
+                    "size": "476"
+                  },
+                  {
+                    "name": "Ejemplo1.cpp",
+                    "type": "file",
+                    "id": "1ozwMdenS5baAJBfiLo6m2FWAk-BuH7JC",
+                    "mimeType": "application/octet-stream",
+                    "size": "412"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_13",
+                "type": "folder",
+                "id": "1Fr-T-YPVB7OfnA6GQ_--GSbiRLp0E5sl",
+                "children": [
+                  {
+                    "name": "Ejemplo7.cpp",
+                    "type": "file",
+                    "id": "1rfjD7LbrMfTJURAIaWsXds75J7RM6mfJ",
+                    "mimeType": "application/octet-stream",
+                    "size": "1571"
+                  },
+                  {
+                    "name": "Ejemplo8.cpp",
+                    "type": "file",
+                    "id": "1n3C3LUvM9vHNNam4QPbgO_tRp8na9gEt",
+                    "mimeType": "application/octet-stream",
+                    "size": "1055"
+                  },
+                  {
+                    "name": "Ejemplo6.cpp",
+                    "type": "file",
+                    "id": "1xNCkW1byRP1kt9slHwn5dzMA6KHMS9DU",
+                    "mimeType": "application/octet-stream",
+                    "size": "1066"
+                  },
+                  {
+                    "name": "Ejercicios_semana_13.docx",
+                    "type": "file",
+                    "id": "1jJctMC_NFf3BAuBxWjPxDpNAK98noCn7",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "14066"
+                  },
+                  {
+                    "name": "PEDIDOS.TXT",
+                    "type": "file",
+                    "id": "1mXOz8et8z0Fpw73cYdORlUL0CE36gNHA",
+                    "mimeType": "text/plain",
+                    "size": "60"
+                  },
+                  {
+                    "name": "prueba.cpp",
+                    "type": "file",
+                    "id": "1d9t2DkcACkcW_zUVF7dfsKJ6CbaTox5z",
+                    "mimeType": "application/octet-stream",
+                    "size": "829"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_7",
+                "type": "folder",
+                "id": "1qCuyC6ZchWTPkkcba6LML0rPYY0S6yt4",
+                "children": [
+                  {
+                    "name": "Ejemplo2.cpp",
+                    "type": "file",
+                    "id": "1_jN-xlxwFc0qACg5bc0xZ15SPVtH75ZR",
+                    "mimeType": "application/octet-stream",
+                    "size": "1348"
+                  },
+                  {
+                    "name": "Ejemplo1.cpp",
+                    "type": "file",
+                    "id": "1BZrOrHUGT7SIvgUUyhDiADcsuH3igQwZ",
+                    "mimeType": "application/octet-stream",
+                    "size": "2176"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_4",
+                "type": "folder",
+                "id": "1S8kdP4hgv7V41kv5KjrX9jbWxZiedAPq",
+                "children": [
+                  {
+                    "name": "Ejemplo3.cpp",
+                    "type": "file",
+                    "id": "1ge0VrwQ-fG5kiIw5hLMGt6FzApgWsMiT",
+                    "mimeType": "application/octet-stream",
+                    "size": "1658"
+                  },
+                  {
+                    "name": "Ejemplo5.cpp",
+                    "type": "file",
+                    "id": "1cm5jO6Jzp623330mxy9BRQbFcYZSJz9m",
+                    "mimeType": "application/octet-stream",
+                    "size": "1464"
+                  },
+                  {
+                    "name": "Ejemplo4.cpp",
+                    "type": "file",
+                    "id": "1JyyMEwzPLPgwe0vNEMGkozsvuZCoe1Vh",
+                    "mimeType": "application/octet-stream",
+                    "size": "1123"
+                  },
+                  {
+                    "name": "Ejemplo1.cpp",
+                    "type": "file",
+                    "id": "1Bw7uMCkHjlLQtonNtQRT_2D_ySo3GU95",
+                    "mimeType": "application/octet-stream",
+                    "size": "935"
+                  },
+                  {
+                    "name": "Ejemplo2.cpp",
+                    "type": "file",
+                    "id": "14kJ_bc9rsIwfLTTXDXE_0qH9-u44FUUo",
+                    "mimeType": "application/octet-stream",
+                    "size": "989"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_15",
+                "type": "folder",
+                "id": "1sp2sfnmo8EnfCTzqdX0p4K3FmmER5gqE",
+                "children": [
+                  {
+                    "name": "Ejercicios_semana_15.docx",
+                    "type": "file",
+                    "id": "1iAYQ0yROSkrSbezeYBInpoqiA3EYTXnn",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "14166"
+                  },
+                  {
+                    "name": "PEDIDOS.TXT",
+                    "type": "file",
+                    "id": "1QgLbfVtH3Rqwu18bMKpDEQ1OG6kzO8k4",
+                    "mimeType": "text/plain",
+                    "size": "56"
+                  },
+                  {
+                    "name": "Ejemplo2.cpp",
+                    "type": "file",
+                    "id": "1DpP_6MHsNtZ3UVxxKSx90AksOLWgutV3",
+                    "mimeType": "application/octet-stream",
+                    "size": "1386"
+                  },
+                  {
+                    "name": "Ejemplo1.cpp",
+                    "type": "file",
+                    "id": "1aZxOg9wBWOL5IlfAslj-9KK7Yk6n9AWt",
+                    "mimeType": "application/octet-stream",
+                    "size": "1709"
+                  },
+                  {
+                    "name": "Ejemplo3.cpp",
+                    "type": "file",
+                    "id": "1xUwbekN8BPiprPH1I1vnHEEGP7Xxf2Ce",
+                    "mimeType": "application/octet-stream",
+                    "size": "2274"
+                  },
+                  {
+                    "name": "ALUMNOS.TXT",
+                    "type": "file",
+                    "id": "13vR3wTlmGlhKnhQ4hcucLmQrGSXFNikV",
+                    "mimeType": "text/plain",
+                    "size": "70"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_6",
+                "type": "folder",
+                "id": "1XX96KknhaLjvNt9GNkWxMZAej9DhbyhG",
+                "children": [
+                  {
+                    "name": "Ejemplo3.cpp",
+                    "type": "file",
+                    "id": "15uHfMdFXUsF6eGQwNVhUHSx_dKiJ9S9z",
+                    "mimeType": "application/octet-stream",
+                    "size": "2597"
+                  },
+                  {
+                    "name": "Ejercicio.cpp",
+                    "type": "file",
+                    "id": "1I4OYXlcVj1gxvyyMw9asaed2ZbjWXKE4",
+                    "mimeType": "application/octet-stream",
+                    "size": "306"
+                  },
+                  {
+                    "name": "Ejemplo2.cpp",
+                    "type": "file",
+                    "id": "1QGM2bXoXh5gDlXRIsJAnQEVHNn4abEZ0",
+                    "mimeType": "application/octet-stream",
+                    "size": "1068"
+                  },
+                  {
+                    "name": "Ejemplo1.cpp",
+                    "type": "file",
+                    "id": "1xPVALbJlb3GAOx8Slvkd2yourYxY1yfd",
+                    "mimeType": "application/octet-stream",
+                    "size": "1795"
+                  }
+                ]
+              },
+              {
+                "name": "Semana_1",
+                "type": "folder",
+                "id": "1_E6k-D2GjXC81ucueFf6wdDw-nTWqqHh",
+                "children": []
+              },
+              {
+                "name": "Semana_14",
+                "type": "folder",
+                "id": "1jugEg5oynH9wJcA_t_qDnFFdBI3fkq7j",
+                "children": [
+                  {
+                    "name": "Ejemplo2.cpp",
+                    "type": "file",
+                    "id": "1W97u6OW9Fwaqf0uTyYbmFzWzsHyCDL0f",
+                    "mimeType": "application/octet-stream",
+                    "size": "2053"
+                  },
+                  {
+                    "name": "Ejercicios_semana_14.docx",
+                    "type": "file",
+                    "id": "15WPtOqWtzX_-jIsXmrmolTDpSRNzvUSL",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "14072"
+                  },
+                  {
+                    "name": "Ejercicio3.cpp",
+                    "type": "file",
+                    "id": "1fjEecrTl9xqPC2BjnZpRmrtJIVFbf_i3",
+                    "mimeType": "application/octet-stream",
+                    "size": "715"
+                  },
+                  {
+                    "name": "Ejemplo4.cpp",
+                    "type": "file",
+                    "id": "1fg64kvDUJqvUBeK9PsIFZA_2qN-hzv20",
+                    "mimeType": "application/octet-stream",
+                    "size": "1951"
+                  },
+                  {
+                    "name": "CICLO.TXT",
+                    "type": "file",
+                    "id": "1GRlpB_YWYw79j8zuRvdKKN9mQbAcfvIW",
+                    "mimeType": "text/plain",
+                    "size": "112"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "course_id": "SI605",
+  "course_name": "Arquitectura_Empresarial",
+  "id": "1X-0ihW3tIYahQCXU65tzMXENZvv1Beq4",
+  "scanned_at": "2026-08-07T00:03:39.236299+00:00",
+  "tree": {
+    "name": "Arquitectura_Empresarial",
+    "type": "folder",
+    "id": "1X-0ihW3tIYahQCXU65tzMXENZvv1Beq4",
+    "children": [
+      {
+        "name": "Clases",
+        "type": "folder",
+        "id": "1ZuwSrXwUru6dCZwc4yAvluLQ85w_yFFG",
+        "children": [
+          {
+            "name": "2025_2-FIIS-ARQ_EMPRESARIAL_-_Sesion8.pdf",
+            "type": "file",
+            "id": "1p0cAgmCPFl69DjrcayEmzp7ag-am9qhe",
+            "mimeType": "application/pdf",
+            "size": "1370314"
+          },
+          {
+            "name": "20252-FIIS-AE-Ciberseguridad.pdf",
+            "type": "file",
+            "id": "1h4l_xKXp9z7GDn2xDctg7giGiSYWVaOe",
+            "mimeType": "application/pdf",
+            "size": "1799488"
+          },
+          {
+            "name": "20252-FIIS-AE_-_Plataforma_Tecn.pdf",
+            "type": "file",
+            "id": "1yWxtj2kJUXtB95bQJPEa_XJpb5tiJk6V",
+            "mimeType": "application/pdf",
+            "size": "2175970"
+          },
+          {
+            "name": "2025_2-FIIS-ARQ_EMPRESARIAL_-_Sesion_1.pdf",
+            "type": "file",
+            "id": "1bbLSzj12k6D9KurCPb8gjrQ1cmV8Cu_9",
+            "mimeType": "application/pdf",
+            "size": "2341674"
+          },
+          {
+            "name": "2025_2-FIIS-ARQ_EMPRESARIAL_-_Sesion_2.pdf",
+            "type": "file",
+            "id": "1HB-Bhx4zC7W552SXXY3OsA-MO4vv9_Nj",
+            "mimeType": "application/pdf",
+            "size": "1840241"
+          },
+          {
+            "name": "2025_2-FIIS-ARQ_EMPRESARIAL_-_Sesion6.pdf",
+            "type": "file",
+            "id": "1Qdfxbd07CIBAozdy6aq3xEDfYdZX7VAM",
+            "mimeType": "application/pdf",
+            "size": "971812"
+          },
+          {
+            "name": "2025_2-FIIS-ARQ_EMPRESARIAL_-_Sesion7.pdf",
+            "type": "file",
+            "id": "1Z_y1vjY39rYIdfYWSW2S_1KezFLrebOP",
+            "mimeType": "application/pdf",
+            "size": "1798719"
+          },
+          {
+            "name": "20252-FIIS-ARQ_EMPRESARIAL_-_Sesion_5.pdf",
+            "type": "file",
+            "id": "1s9WXvelkDMKBJ2JWH6zCKHHZplkF-lg5",
+            "mimeType": "application/pdf",
+            "size": "1006800"
+          },
+          {
+            "name": "20252-FIIS-ARQ_EMPRESARIAL_-_Sesion_4.pdf",
+            "type": "file",
+            "id": "1_5W3YKIAXUoeE-ftNliOMbfVOZ5PoU4u",
+            "mimeType": "application/pdf",
+            "size": "2225601"
+          },
+          {
+            "name": "20252-FIIS-ARQ_EMPRESARIAL_-_Sesion_3.pdf",
+            "type": "file",
+            "id": "1DHy2R1LOYFUZQkp2bdZ6fo41EvqowPlE",
+            "mimeType": "application/pdf",
+            "size": "1717995"
+          }
+        ]
+      },
+      {
+        "name": "Examenes",
+        "type": "folder",
+        "id": "1Y-e1iCJu1AwsaSGR9obMmGD9hizo7SNr",
+        "children": [
+          {
+            "name": "Imagen_de_WhatsApp_2025-04-24_a_las_21.57.06_1ba73c22.jpg",
+            "type": "file",
+            "id": "1fsjNVoc9mI_3suDxU64YxyRvB8rrFivU",
+            "mimeType": "image/jpeg",
+            "size": "200345"
+          },
+          {
+            "name": "AE_PC1.pdf",
+            "type": "file",
+            "id": "1w-RishpKA8QrOMPmwuUpM43U5lJABnrq",
+            "mimeType": "application/pdf",
+            "size": "1435605"
+          },
+          {
+            "name": "PRUEBA_DE_ENTRADA_-_CASTAÑEDA.pdf",
+            "type": "file",
+            "id": "1H-EfzA-2ldHGdJp0H4HZEcf94fZGTSSH",
+            "mimeType": "application/pdf",
+            "size": "71510"
+          },
+          {
+            "name": "Prueba_de_Entrada_AE-SI605V_2025_II.docx",
+            "type": "file",
+            "id": "1O4WxEgc7zQrcvIbmXAE25qR-KHaJ24I9",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "76630"
+          }
+        ]
+      },
+      {
+        "name": "Trabajos",
+        "type": "folder",
+        "id": "110VfO_5rsRDZYmESQOIMxgRLN-s2mDEF",
+        "children": [
+          {
+            "name": "Grupo_4_-_Cloud_Computing_-_2do_trabajo.pdf",
+            "type": "file",
+            "id": "1VVxbSLD6O4o3vZ3PDg5c7g31eeE7vneA",
+            "mimeType": "application/pdf",
+            "size": "26028012"
+          },
+          {
+            "name": "Grupo_4_-_bee360_-_Presentacion.pdf",
+            "type": "file",
+            "id": "1yyvYLXkkbbU1jduzOors_COdhtKw1lcr",
+            "mimeType": "application/pdf",
+            "size": "9504809"
+          },
+          {
+            "name": "Grupo_4_-_bee360_-_Documento.docx",
+            "type": "file",
+            "id": "1J_aFrSr_x4YXxFspGah0r7ibXW4uShXO",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "975851"
+          },
+          {
+            "name": "Grupo_4_-_bee360_-_Presentacion.pptx",
+            "type": "file",
+            "id": "1AcBLvWfNZUvW9LKUD-V-GzHVzUZNv4Kd",
+            "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "size": "26098288"
+          },
+          {
+            "name": "Grupo_5_-_Bee360_-_Antecedente.pdf",
+            "type": "file",
+            "id": "1RuQsZ329QyyxSEgqydG8TAmFzx3qKqIs",
+            "mimeType": "application/pdf",
+            "size": "643880"
+          }
+        ]
+      },
+      {
+        "name": "TOGAF_español.pdf",
+        "type": "file",
+        "id": "1wDRMS-PF5vIKh0EWwoD6P8WnhBVYjKBw",
+        "mimeType": "application/pdf",
+        "size": "5877020"
+      },
+      {
+        "name": "Ejemplo_de_Trabajo_4_-_ppt.pptx",
+        "type": "file",
+        "id": "1-WzTdwDCZRFzqjLngvh9W47ftVAwzDiK",
+        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": "5753204"
+      },
+      {
+        "name": "Ejemplo_de_Trabajo_3_-_ppt.pptx",
+        "type": "file",
+        "id": "1KDLyEEwfYj_dnlHgQg2DwdQjvD_X0ngp",
+        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": "7630896"
+      },
+      {
+        "name": "Ejemplo_de_Trabajo_1_-_Monografía.pdf",
+        "type": "file",
+        "id": "1BRTiiFDwW6bL-o-JQBOyx1g14SaMQvEA",
+        "mimeType": "application/pdf",
+        "size": "5173694"
+      },
+      {
+        "name": "Trabajo_de_Plaza_Vea_-_Otro_Curso.pdf",
+        "type": "file",
+        "id": "1M9iew9zlcuCESiQHqMXU6ln8M8dxfjdZ",
+        "mimeType": "application/pdf",
+        "size": "11117167"
+      }
+    ]
+  }
+}

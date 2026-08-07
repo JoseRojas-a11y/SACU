@@ -1,0 +1,55 @@
+{
+  "course_id": "SI401",
+  "course_name": "Lenguaje_de_programación",
+  "id": "1YRZZBo1pzttBxXe8JHUMXgNY3BZDd6xt",
+  "scanned_at": "2026-08-07T00:03:54.909244+00:00",
+  "tree": {
+    "name": "Lenguaje_de_programación",
+    "type": "folder",
+    "id": "1YRZZBo1pzttBxXe8JHUMXgNY3BZDd6xt",
+    "children": [
+      {
+        "name": "Coronel",
+        "type": "folder",
+        "id": "13e1pAX5MkSnXUXvsFNE-j_EsSeJXCooR",
+        "children": [
+          {
+            "name": "PC2",
+            "type": "folder",
+            "id": "1ef3ZQ-FTk66Qw44vQXpYN93fON6nQqWw",
+            "children": [
+              {
+                "name": "PC2_26-1_Coronel.pdf",
+                "type": "file",
+                "id": "1F7EmYoCQpNMFD43iUJIvy7yLwmSCakcO",
+                "mimeType": "application/pdf",
+                "size": "1687249"
+              }
+            ]
+          },
+          {
+            "name": "PC1",
+            "type": "folder",
+            "id": "13l_1Dxd1qbHiAydwcakF8Ygy0HYnMHJb",
+            "children": [
+              {
+                "name": "PC1_26-1.pdf",
+                "type": "file",
+                "id": "1-zu8NNXLubsDhoT4pTGV1ecrBmNhzWCU",
+                "mimeType": "application/pdf",
+                "size": "1135596"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "LP_alumnos_2021_2.pdf",
+        "type": "file",
+        "id": "18b1BM9zsda5wnUgu30TuyA3ERqGXLcLY",
+        "mimeType": "application/pdf",
+        "size": "22137586"
+      }
+    ]
+  }
+}

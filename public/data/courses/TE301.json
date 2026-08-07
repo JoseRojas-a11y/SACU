@@ -1,0 +1,311 @@
+{
+  "course_id": "TE301",
+  "course_name": "Físico_Química_y_Operaciones_Unitarias",
+  "id": "1fL_EaoJkCksaX3R9C0A_wuwty_wFQTY5",
+  "scanned_at": "2026-08-07T00:04:10.721783+00:00",
+  "tree": {
+    "name": "Físico_Química_y_Operaciones_Unitarias",
+    "type": "folder",
+    "id": "1fL_EaoJkCksaX3R9C0A_wuwty_wFQTY5",
+    "children": [
+      {
+        "name": "TEORÍA",
+        "type": "folder",
+        "id": "1SSCaU73sqnwOuhoP_9BaF16KWkJGYmZ1",
+        "children": [
+          {
+            "name": "SEMANA_8",
+            "type": "folder",
+            "id": "1yws_k1bUirOEKdoCER0JE7dGyvTPYxlN",
+            "children": []
+          },
+          {
+            "name": "SEMANA_9",
+            "type": "folder",
+            "id": "1wKJBj_OIG8kI1Yrp2Kft3Sn-MYofuZNM",
+            "children": [
+              {
+                "name": "termodinamica_quimica.pdf",
+                "type": "file",
+                "id": "1fsvzT8GKDdrHtkyoXxlRMUIhYNz53vl3",
+                "mimeType": "application/pdf",
+                "size": "5939768"
+              },
+              {
+                "name": "fundtextil(1).pdf",
+                "type": "file",
+                "id": "1Q6WJV15I_UqIQFl7bB8HTPph5NZVDsCx",
+                "mimeType": "application/pdf",
+                "size": "7980981"
+              },
+              {
+                "name": "grupos_ou.pdf",
+                "type": "file",
+                "id": "1zU6tJDpVnUWXf-G49l-r2p_HimNdhJAU",
+                "mimeType": "application/pdf",
+                "size": "439505"
+              }
+            ]
+          },
+          {
+            "name": "SEMANA_4",
+            "type": "folder",
+            "id": "1cDQ9qcvBUPK1_JIaGCfVkRO8fQbw1pNU",
+            "children": [
+              {
+                "name": "PRÁCTICA_No_1_(1).pdf",
+                "type": "file",
+                "id": "1UqHbjl8Vwg7PzUTIHfisU68AChHVv-Cs",
+                "mimeType": "application/pdf",
+                "size": "488361"
+              },
+              {
+                "name": "PRÁCTICA_No_4.pdf",
+                "type": "file",
+                "id": "14xSLy4zxlKOV4cHQxntnD6rLyLCV7LkQ",
+                "mimeType": "application/pdf",
+                "size": "562597"
+              },
+              {
+                "name": "PRÁCTICA_No_5.pdf",
+                "type": "file",
+                "id": "1LjJpfQmclNdNMfFbkGy6NtVnqT7E0YlG",
+                "mimeType": "application/pdf",
+                "size": "457746"
+              },
+              {
+                "name": "PRÁCTICA_No_2_(1).pdf",
+                "type": "file",
+                "id": "144FUHIOot59MwBzaC-VCiRbz6slm4uud",
+                "mimeType": "application/pdf",
+                "size": "451488"
+              }
+            ]
+          },
+          {
+            "name": "SEMANA_7",
+            "type": "folder",
+            "id": "1_f78UhCJCJNcE7xbz1ztWA4w3HJEFdyW",
+            "children": []
+          },
+          {
+            "name": "SEMANA_5",
+            "type": "folder",
+            "id": "1VuFV2Sg0HvNNuyyQMByotvIIZa45IlIx",
+            "children": []
+          },
+          {
+            "name": "SEMANA_6",
+            "type": "folder",
+            "id": "1s2r7cw2HzxiYFhFfcZ07s4UmTD4arx5t",
+            "children": []
+          },
+          {
+            "name": "SEMANA_12",
+            "type": "folder",
+            "id": "1p2wJfjMo2m8pAmg4BDuDDTAI0r53Krpp",
+            "children": []
+          },
+          {
+            "name": "SEMANA_10",
+            "type": "folder",
+            "id": "1prsDijGKwzee7cKYP6ZZJmbnXPzve3JI",
+            "children": []
+          },
+          {
+            "name": "SEMANA_11",
+            "type": "folder",
+            "id": "1ZSxAQeqes_dxueBQX2recK3WJJEGMc6y",
+            "children": []
+          },
+          {
+            "name": "SEMANA_3",
+            "type": "folder",
+            "id": "1ywreFmbuY8iSNb_NHO9J_Si3lfGzL1_g",
+            "children": [
+              {
+                "name": "medidas_de_laboratorio.pdf",
+                "type": "file",
+                "id": "1biqUjmKyEEuewLTkL60DN8DmhN_0Q0yf",
+                "mimeType": "application/pdf",
+                "size": "596024"
+              },
+              {
+                "name": "PRÁCTICA_No_1.pdf",
+                "type": "file",
+                "id": "1djR4M2Ut6CqCiOrVP-cEqlCLxtHm0-Sb",
+                "mimeType": "application/pdf",
+                "size": "488361"
+              },
+              {
+                "name": "PRÁCTICA_No_2.pdf",
+                "type": "file",
+                "id": "1dZSZ8ncY-Ej-tbM3Iky_xy1g-v97KQbm",
+                "mimeType": "application/pdf",
+                "size": "451488"
+              },
+              {
+                "name": "presentacion.pdf",
+                "type": "file",
+                "id": "10RQh3qRDEvhYWs3FqQjey8fq7ord0HRM",
+                "mimeType": "application/pdf",
+                "size": "1134138"
+              },
+              {
+                "name": "definiciones_(1).pdf",
+                "type": "file",
+                "id": "1GRrvzNRAEISTpwARsxsuG8YYRq4lQtyM",
+                "mimeType": "application/pdf",
+                "size": "7478137"
+              }
+            ]
+          },
+          {
+            "name": "SEMANA_2",
+            "type": "folder",
+            "id": "1D077wxh4hYXCCOdhruGhtUZX6dIHU_cB",
+            "children": [
+              {
+                "name": "TE_301_V_B.ppt",
+                "type": "file",
+                "id": "1MKh_lGeUegfrBt3bCnyDFUJz8SCGKxAb",
+                "mimeType": "application/vnd.ms-powerpoint",
+                "size": "7022080"
+              },
+              {
+                "name": "rol_visitas_ou.pdf",
+                "type": "file",
+                "id": "1JMpLceZBNxkg2mNh0OmS-K-VIz8oTkJW",
+                "mimeType": "application/pdf",
+                "size": "1463258"
+              },
+              {
+                "name": "definiciones.pdf",
+                "type": "file",
+                "id": "1X0BR5IYgY8CIog6GjL1OJ3Q9sgXQnrvw",
+                "mimeType": "application/pdf",
+                "size": "7478137"
+              },
+              {
+                "name": "Seminario_1_de_TE_301_(1).pptx",
+                "type": "file",
+                "id": "1PY3atb2scnkrcGLvOPMlJpgxefyw_w_i",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "7210410"
+              }
+            ]
+          },
+          {
+            "name": "SEMANA_14",
+            "type": "folder",
+            "id": "1Z6fnFHnCU6v7QUxhNd-L-18mgr5j0tuO",
+            "children": []
+          },
+          {
+            "name": "SEMANA_13",
+            "type": "folder",
+            "id": "1fL6eF329ts9Iow4WtFiRraJWEzlc4lDs",
+            "children": [
+              {
+                "name": "visita12.pdf",
+                "type": "file",
+                "id": "17s5CwlhhFaMF9QJGXQogDqYsmMbTHxJ_",
+                "mimeType": "application/pdf",
+                "size": "9619719"
+              },
+              {
+                "name": "visita11.pdf",
+                "type": "file",
+                "id": "1qHkEGr5QWnrIOTd5bF1uoNSpED1p-x4I",
+                "mimeType": "application/pdf",
+                "size": "15790179"
+              },
+              {
+                "name": "termodinamica_quimica(1)(1).pdf",
+                "type": "file",
+                "id": "1YUs59ABP88WjFnhxcRnzonysfRS0y7z2",
+                "mimeType": "application/pdf",
+                "size": "5939768"
+              }
+            ]
+          },
+          {
+            "name": "SEMANA_16",
+            "type": "folder",
+            "id": "1Ud3MKDBbsnAJXGZKCVlU-arCWCBRog66",
+            "children": []
+          },
+          {
+            "name": "SEMANA_1",
+            "type": "folder",
+            "id": "1KQMl0YmYl6SGnPsgb_crxyIqXsLRRGfQ",
+            "children": [
+              {
+                "name": "TE_301_V_A.pptx",
+                "type": "file",
+                "id": "1KNldeE8gDWutneXx2n29aNwCddh_iuHw",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "5007534"
+              },
+              {
+                "name": "Tablas_de_vapor.docx",
+                "type": "file",
+                "id": "1V0bpXdzZdhU5RWnzmtW_oO2DuhrzRTlL",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "11245911"
+              }
+            ]
+          },
+          {
+            "name": "SEMANA_15",
+            "type": "folder",
+            "id": "1Zk_J2xjUZAUz8N2WnPUKHuZUS_OC4UKX",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "LIBROS",
+        "type": "folder",
+        "id": "1Zirqvo4qyxT3Y38SL1VRB-ZoWxmuNlJL",
+        "children": [
+          {
+            "name": "Introduccion_a_la_Termodinamica_en_Ingenieria_Quimica_-_Smith,_Van_Ness.pdf",
+            "type": "file",
+            "id": "1zwnUoPJyRY432E4Mfa5OyFjoWbPsrCkC",
+            "mimeType": "application/pdf",
+            "size": "37327207"
+          },
+          {
+            "name": "Garritz-Gasque-MartinezCapitulo8_gibbs.pdf",
+            "type": "file",
+            "id": "1aCEB_oTK5Byy_rhK-1Pti_bF_nuWPYQ0",
+            "mimeType": "application/pdf",
+            "size": "2261055"
+          },
+          {
+            "name": "Castellan.PDF",
+            "type": "file",
+            "id": "13AkrNn-xs_Dyyn4FXBQyU_xo855f4lcH",
+            "mimeType": "application/pdf",
+            "size": "0"
+          },
+          {
+            "name": "Fisicoquimica,_6ta_Edicion_-_Peter_William_Atkins.pdf",
+            "type": "file",
+            "id": "1LNVny7LVVhU_HWeAq7prOmPJDo-6yyUo",
+            "mimeType": "application/pdf",
+            "size": "73676385"
+          }
+        ]
+      },
+      {
+        "name": "PARCIALES.SOLUC.FICO.pdf",
+        "type": "file",
+        "id": "1fr0KZZMnSJ1JvSfLKEMGJmxJElQoY51m",
+        "mimeType": "application/pdf",
+        "size": "16818994"
+      }
+    ]
+  }
+}

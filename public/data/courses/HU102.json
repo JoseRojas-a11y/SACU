@@ -1,0 +1,1721 @@
+{
+  "course_id": "HU102",
+  "course_name": "Desarrollo_Personal",
+  "id": "1IOg7XRmwKL5cUgK15MDzSDqGdtgLpZg6",
+  "scanned_at": "2026-08-07T00:06:45.105159+00:00",
+  "tree": {
+    "name": "Desarrollo_Personal",
+    "type": "folder",
+    "id": "1IOg7XRmwKL5cUgK15MDzSDqGdtgLpZg6",
+    "children": [
+      {
+        "name": "material_antiguito",
+        "type": "folder",
+        "id": "1khECMfnpEutpeARBxmZpiHDJGFg4s9VH",
+        "children": [
+          {
+            "name": "pc2_chavarri_2.jpg",
+            "type": "file",
+            "id": "13UKU8ESTxJwjR8naBPzJcYVsiLDwT-d5",
+            "mimeType": "image/jpeg",
+            "size": "29756"
+          },
+          {
+            "name": "2020-1_Desarrollo_Personal_-_Practica_Calificada_2.docx",
+            "type": "file",
+            "id": "1k1UJvkRGxsNddIr7wVEL2HpL3_Ss0e_e",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "46229"
+          },
+          {
+            "name": "2020-1_Desarrollo_Personal_-_Monografía_1.docx",
+            "type": "file",
+            "id": "1sXu7m-IPJMKsdMEW_J4ypqKw8gzNqObn",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "56345"
+          },
+          {
+            "name": "1pc_de_desarrollo_de_personal,_Taipe.jpg",
+            "type": "file",
+            "id": "1GICEfMZTUcHu0AdhzKenzKl0SCSLLa15",
+            "mimeType": "image/jpeg",
+            "size": "45786"
+          },
+          {
+            "name": "2020-2_Desarrollo_Personal_-_Practica_Calificada_2.docx",
+            "type": "file",
+            "id": "11jaNwTa8_43MDTEXRuwDUIrtdFmV4idk",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "56504"
+          },
+          {
+            "name": "2020-1_Desarrollo_Personal_-_Monografía_2.docx",
+            "type": "file",
+            "id": "1YkXlLYxrM5a33W05zXkYSbHp_HBb6GfT",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "55118"
+          },
+          {
+            "name": "pc2_chavarri_3.jpg",
+            "type": "file",
+            "id": "1kUUjWDq5rsK2whTDBbh-7Nq0gWZTeySB",
+            "mimeType": "image/jpeg",
+            "size": "31043"
+          },
+          {
+            "name": "2020-2_Desarrollo_Personal_-_Practica_Calificada_3.docx",
+            "type": "file",
+            "id": "1tMeoMC_k62fbIltwzRRLi0dPSg7eAqkp",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "56567"
+          },
+          {
+            "name": "pc2_chavarri.jpg",
+            "type": "file",
+            "id": "1PEQZTxjQkDmFONQdYiegfMKJCO6jp1yl",
+            "mimeType": "image/jpeg",
+            "size": "37286"
+          },
+          {
+            "name": "pc2_chavarri_4.jpg",
+            "type": "file",
+            "id": "17etI6mheY3J0ckzb9lzMmiJHIy5G0UkR",
+            "mimeType": "image/jpeg",
+            "size": "14123"
+          }
+        ]
+      },
+      {
+        "name": "Doris",
+        "type": "folder",
+        "id": "13eCE3IgzEvrVgFlQCOioOikgovs2NzIH",
+        "children": [
+          {
+            "name": "PC's",
+            "type": "folder",
+            "id": "1YmEcDGJ4ohPfdqnFWyFQxnEixwbZJTF3",
+            "children": [
+              {
+                "name": "PC4",
+                "type": "folder",
+                "id": "18tQ14w-EXjFHNHAk6VyEzgRNW179HHU9",
+                "children": [
+                  {
+                    "name": "PC4_25-2_Doris.jpg",
+                    "type": "file",
+                    "id": "1smJlLfRU_Tq9hjoi7Wg16VUMpzXkjuhE",
+                    "mimeType": "image/jpeg",
+                    "size": "4391022"
+                  }
+                ]
+              },
+              {
+                "name": "PC3",
+                "type": "folder",
+                "id": "1fMEDi8mHPLD3EfQfQR3t1LXYPrGWrcU0",
+                "children": [
+                  {
+                    "name": "PC3_25-2_Doris.jpg",
+                    "type": "file",
+                    "id": "1hd2jA45CUc6WgHqul8r4RRSbZE3RwlAq",
+                    "mimeType": "image/jpeg",
+                    "size": "2890434"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Raquel_Chávarri",
+        "type": "folder",
+        "id": "1JPv-j_La9J_P_d0ZY8Qm1xciekcPdHms",
+        "children": [
+          {
+            "name": "Trabajos",
+            "type": "folder",
+            "id": "1-3-hUcIE5ukYTGLo-7V5Lz14QSmzTtuo",
+            "children": [
+              {
+                "name": "LVDMS.docx",
+                "type": "file",
+                "id": "1lHBOSS5WUvHL98pb2-jhdiUYO6EFQOL1",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "715455"
+              },
+              {
+                "name": "SEM_11_-_Aporte.docx",
+                "type": "file",
+                "id": "1PwsIe_qVFFARZ2YHrOMc5nv3WwD4TMGD",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "16897"
+              },
+              {
+                "name": "SEM_3-_aporte.docx",
+                "type": "file",
+                "id": "1tMfpLXUSJuTiccwrlWrqkTkLabYsBKlO",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "15658"
+              },
+              {
+                "name": "SEM_12_-_Trabajo_Como_tratar_con_personas_dificiles.docx",
+                "type": "file",
+                "id": "1BI8ZyzhwF0IBtDyVKzvP9a6agBVRLjlF",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "14667"
+              },
+              {
+                "name": "SEM_13_-_Aporte.docx",
+                "type": "file",
+                "id": "1RVSmMGnLNUEYQ0suyy79tTzug2C8PtKa",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "41337"
+              },
+              {
+                "name": "SEM_7_-_Casos_Int_intra_e_inter.docx",
+                "type": "file",
+                "id": "1ObJRd-2VBvyAsy32DzPw2Qr9yhPJ47_Z",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "12373"
+              },
+              {
+                "name": "SEM_5_-_Aporte.docx",
+                "type": "file",
+                "id": "1z8Luf217GbbuFxYpw2qJ5H-WGhB_LeEO",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "16017"
+              },
+              {
+                "name": "SEM_9_-_Aporte.docx",
+                "type": "file",
+                "id": "14vN3pwMIK3EO9PxVBZNUb4edSlalVtG4",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "16400"
+              },
+              {
+                "name": "SEM_4_-_Aporte.docx",
+                "type": "file",
+                "id": "1JkUMTuUeYqisfCj8Ssk-TD5JipW-sUhD",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "19656"
+              },
+              {
+                "name": "SEM_6_-_Aporte.docx",
+                "type": "file",
+                "id": "10hzpWY5TKTK5rdifYq4MxGZCSRDretCY",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "16393"
+              },
+              {
+                "name": "SEM_10_-_Ficha_Bibliografica.docx",
+                "type": "file",
+                "id": "1cLF_2hhwTGOBvsDaHYAblpofEjltZWLu",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "196498"
+              },
+              {
+                "name": "SEM_10_-_Aporte.docx",
+                "type": "file",
+                "id": "1XqPMbVHZpiUpQ6vbGYdXx3wJ4FhMtUHm",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "17134"
+              },
+              {
+                "name": "SEM_14-_Aporte.docx",
+                "type": "file",
+                "id": "1M8Y2MCXTxpTHpJJ0l8JOvaaGPOnAsbPo",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "17597"
+              },
+              {
+                "name": "SEM_12_-_Aporte.docx",
+                "type": "file",
+                "id": "1diBIcctkvTLdkuI8taYVEaIQi3BFs745",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "20111"
+              }
+            ]
+          },
+          {
+            "name": "TEORIA",
+            "type": "folder",
+            "id": "1K_hOEFzJa2wrA6VtrVcL0L06QsvCiNYf",
+            "children": [
+              {
+                "name": "Sem_5_-_I.E.INTRAPERSONAL.pdf",
+                "type": "file",
+                "id": "1CyZZFBUQuKHS-FTCojDu_dx5xkA-R88X",
+                "mimeType": "application/pdf",
+                "size": "292959"
+              },
+              {
+                "name": "Sem_11-_FUNDAMENTO_COMPORTAMIENTO_GRUPOS.pdf",
+                "type": "file",
+                "id": "1HbRRPHxc6SoGrwxBtQhdGbPSYDJmwwOv",
+                "mimeType": "application/pdf",
+                "size": "784127"
+              },
+              {
+                "name": "Sem_3_-_VALORES.pdf",
+                "type": "file",
+                "id": "1iB6OWRSiJZLZ7GRNN5-eYimxR8-t9Kjr",
+                "mimeType": "application/pdf",
+                "size": "212210"
+              },
+              {
+                "name": "Sem_4_-_ACTITUDES.pdf",
+                "type": "file",
+                "id": "1p40hSqxaKfsWAYR8pJ38mbVWwU-gmPzu",
+                "mimeType": "application/pdf",
+                "size": "282830"
+              },
+              {
+                "name": "Sem_7_-_LA_MOTIVACIÓN.pdf",
+                "type": "file",
+                "id": "1pEAhoZUSTEuGKzB761_Bwgen-3pj593N",
+                "mimeType": "application/pdf",
+                "size": "344072"
+              },
+              {
+                "name": "SEM_1_-_01_TEORÍA_AUTOESTIMA.pdf",
+                "type": "file",
+                "id": "1y08bY8wPPsLj4WpmJiC2ng7a9zFS_9gf",
+                "mimeType": "application/pdf",
+                "size": "598626"
+              },
+              {
+                "name": "Sem_13_-_PROYECTO_DE_VIDA.pdf",
+                "type": "file",
+                "id": "1oGOviP--Wou3AB52Bmvf9PqMdxJAhzus",
+                "mimeType": "application/pdf",
+                "size": "247346"
+              },
+              {
+                "name": "Sem_12_-_LIDERAZGO.pdf",
+                "type": "file",
+                "id": "1SYLJOwKTWSKtUX8fORWZN-H5W6ZgclIg",
+                "mimeType": "application/pdf",
+                "size": "224483"
+              },
+              {
+                "name": "Sem_9_-_LA_COMUNICACIÓN.pdf",
+                "type": "file",
+                "id": "1830Lr5YNIRRaVT-LxdgLZQGFLrmmmZbh",
+                "mimeType": "application/pdf",
+                "size": "689701"
+              },
+              {
+                "name": "Sem_10_-_NATURALEZA_Y_TIPOS_DE_CONFLICTO.pdf",
+                "type": "file",
+                "id": "1pVE2SlOheGIZuM811OFRI8skrry6QhSG",
+                "mimeType": "application/pdf",
+                "size": "220014"
+              },
+              {
+                "name": "SEM_2_-_02_SESIÓN_2_TEORÍA_FUNDAMENTOS_COMPORTAMIENTO.pdf",
+                "type": "file",
+                "id": "13aiRjsg1pUETKWEjW0lDXsA6zWxCB3RU",
+                "mimeType": "application/pdf",
+                "size": "332806"
+              },
+              {
+                "name": "Sem_6_-_I._E._INTERPERSONAL.pdf",
+                "type": "file",
+                "id": "1N-rD0srCesIu093kTODSPBQES_CfKqD2",
+                "mimeType": "application/pdf",
+                "size": "353578"
+              }
+            ]
+          },
+          {
+            "name": "Recursos_para_los_trabajos",
+            "type": "folder",
+            "id": "1e35XEyn2MBhCqSMPyjfD0t5wRDyHaPk9",
+            "children": [
+              {
+                "name": "Mono_2-_Video",
+                "type": "folder",
+                "id": "1cZyk7p-ArVBNOCwp2tPhTqGgsbznIYOr",
+                "children": [
+                  {
+                    "name": "04_CRITERIOS_DE_EVALUACIÓN_PRESENTACIÓN_VIDEO.pdf",
+                    "type": "file",
+                    "id": "1ekDvmVfwJoagFHcZ4etJATx5jn15Sqvn",
+                    "mimeType": "application/pdf",
+                    "size": "91384"
+                  },
+                  {
+                    "name": "03_RÚBRICA_PARA_EVALUAR_AVANCE_VIDEO.pdf",
+                    "type": "file",
+                    "id": "1BzZkVPAXtK6AxiuSvG0EvhCoFPjmd1Vo",
+                    "mimeType": "application/pdf",
+                    "size": "169086"
+                  },
+                  {
+                    "name": "02_ELABORACIÓN_VIDEO_DIDÁCTICO.pdf",
+                    "type": "file",
+                    "id": "1rYoAlif946s6VG5qPge6qqFx1Pyngq0Q",
+                    "mimeType": "application/pdf",
+                    "size": "66317"
+                  },
+                  {
+                    "name": "01_GUIÓN_VIDEO.pdf",
+                    "type": "file",
+                    "id": "1Fv5vmTclZzM0agwi2cvXfkf_WAVAaKxl",
+                    "mimeType": "application/pdf",
+                    "size": "275600"
+                  }
+                ]
+              },
+              {
+                "name": "FICHA_BIBLIOGRÀFICA.pdf",
+                "type": "file",
+                "id": "1YtcFJJHkIULh8KPqkCia2p5TsP8r5z6-",
+                "mimeType": "application/pdf",
+                "size": "71804"
+              },
+              {
+                "name": "EL_AFICHE_DE_MIS_SUEÑOS.pdf",
+                "type": "file",
+                "id": "1OeLsvhtbwAy-oc6TYGPkHij7K1PTWcrV",
+                "mimeType": "application/pdf",
+                "size": "189915"
+              }
+            ]
+          },
+          {
+            "name": "Planchas",
+            "type": "folder",
+            "id": "1arvSVUMhIK1SB0q96eAJMdX4gQ2SGLxy",
+            "children": [
+              {
+                "name": "PC4",
+                "type": "folder",
+                "id": "1EGj3q_dVHDCck4F1-6pnFZTetQAjUmgy",
+                "children": [
+                  {
+                    "name": "PC4_21-2",
+                    "type": "file",
+                    "id": "1PF24KDPKFw1PW2WbH7eQ3GPlwpK1_r6D",
+                    "mimeType": "application/pdf",
+                    "size": "189910"
+                  },
+                  {
+                    "name": "PC4_24-1.pdf",
+                    "type": "file",
+                    "id": "1fiBeWEJY-NDzmOwmmIvYdGggGpWwrmxO",
+                    "mimeType": "application/pdf",
+                    "size": "5262144"
+                  }
+                ]
+              },
+              {
+                "name": "PC2",
+                "type": "folder",
+                "id": "1kVRmk3CPfgaDBW8_zExkalL3ROWAUskP",
+                "children": [
+                  {
+                    "name": "pc2_chavarri_2.jpg",
+                    "type": "file",
+                    "id": "1elR7m0ZunI94cLYt-QyT6x2HZXzUHwyU",
+                    "mimeType": "image/jpeg",
+                    "size": "29756"
+                  },
+                  {
+                    "name": "pc2_chavarri_3.jpg",
+                    "type": "file",
+                    "id": "15Sy-_nhLcYzyP8PzjbAo15bE3LGxckVJ",
+                    "mimeType": "image/jpeg",
+                    "size": "31043"
+                  },
+                  {
+                    "name": "pc2_chavarri_4.jpg",
+                    "type": "file",
+                    "id": "19SeVW0nMhYaRyQ4F5Z6S69CNxkXzgZG5",
+                    "mimeType": "image/jpeg",
+                    "size": "14123"
+                  },
+                  {
+                    "name": "pc2_chavarri.jpg",
+                    "type": "file",
+                    "id": "1Eqx8nMvpwRGHAhnsy2pFjVuCh2q-AouW",
+                    "mimeType": "image/jpeg",
+                    "size": "37286"
+                  }
+                ]
+              },
+              {
+                "name": "PC1",
+                "type": "folder",
+                "id": "1BfX_hLWylawyIyhmSRzlPyf3ZrD7JMfd",
+                "children": [
+                  {
+                    "name": "PC1_2022-1.docx.pdf",
+                    "type": "file",
+                    "id": "1z-e4NhkIOZf6xqR9UqgT6fmelMsFLIom",
+                    "mimeType": "application/pdf",
+                    "size": "382343"
+                  },
+                  {
+                    "name": "PC1_DESARROLLO_PERSONAL",
+                    "type": "file",
+                    "id": "1yh3GR8Tt2h0-zjMz6FwagSjQlKqHjuUs",
+                    "mimeType": "application/pdf",
+                    "size": "210221"
+                  },
+                  {
+                    "name": "PC1_24-1.pdf",
+                    "type": "file",
+                    "id": "1FgO_yOyT0Tbxde1nuaNJVGChzqN_hw06",
+                    "mimeType": "application/pdf",
+                    "size": "4155640"
+                  },
+                  {
+                    "name": "1_PC_DESARROLLO_PERSONAL_de_la_gran_profesora_Chavarry.pdf",
+                    "type": "file",
+                    "id": "15R3om0gLsD27Y7IHKH-B90PBE27cvA6I",
+                    "mimeType": "application/pdf",
+                    "size": "92484"
+                  },
+                  {
+                    "name": "1PC_Desarrollo_Personal_Chavarri_HU102_U.pdf",
+                    "type": "file",
+                    "id": "1G6BjAcfk5dHN_aVA0mHmOfPnXc7c0GhA",
+                    "mimeType": "application/pdf",
+                    "size": "187032"
+                  }
+                ]
+              },
+              {
+                "name": "CHAVARRI-FINAL.docx",
+                "type": "file",
+                "id": "1fGloNAl4xIW9lBRLpVobwC-Vs_kD58Rp",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "468069"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hiromoto",
+        "type": "folder",
+        "id": "1RwIg1KN2Pu54oqtY1V2LXVzIJTIac6Wx",
+        "children": [
+          {
+            "name": "00_TEXTO_BASE_-_Comportamiento-Organizacional-Stephen-Robbins-13a-Edicion.pdf",
+            "type": "file",
+            "id": "158Cqse-iMOFeerQHTQuUuCPTurhSnoPr",
+            "mimeType": "application/pdf",
+            "size": "11968219"
+          },
+          {
+            "name": "Monografía_2",
+            "type": "folder",
+            "id": "1A2jATfpYps4UgclGuezKszGt7I27kKM3",
+            "children": [
+              {
+                "name": "Intructivo_para_monografia_02.pdf",
+                "type": "file",
+                "id": "1LjMW7-g1wIrdSWjf9oMIF6cnqzCnmZX3",
+                "mimeType": "application/pdf",
+                "size": "89411"
+              },
+              {
+                "name": "Guia_del_PMBOK_sexta_edicion_espanol.pdf",
+                "type": "file",
+                "id": "1jWq64R_vdlx3dzIU-13sHqq9xFjzqYrG",
+                "mimeType": "application/pdf",
+                "size": "3389162"
+              }
+            ]
+          },
+          {
+            "name": "Monografía_1",
+            "type": "folder",
+            "id": "1G-A_HPk5ig-5If7AiEGWWLjZ39z5ekWv",
+            "children": [
+              {
+                "name": "Monografia_01_-_Plan_de_vida.docx",
+                "type": "file",
+                "id": "1Dzm_VQlyuRjwuaLOcgeTn46eWJ_lZjkw",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "889623"
+              }
+            ]
+          },
+          {
+            "name": "Planchas",
+            "type": "folder",
+            "id": "1GnvGbOGsaME_LENbQMAEsknK8F4iSt0y",
+            "children": [
+              {
+                "name": "PC3",
+                "type": "folder",
+                "id": "1r5y6oKypBK8E3BQ6lwHwEfDXgblsG2mM",
+                "children": [
+                  {
+                    "name": "PC3_sec._X",
+                    "type": "file",
+                    "id": "1GYqR0GYab_D-G24HSWoYYydJ8c84Q24E",
+                    "mimeType": "application/pdf",
+                    "size": "63094"
+                  }
+                ]
+              },
+              {
+                "name": "PE",
+                "type": "folder",
+                "id": "1xgTQs_pDuQfkMtb3WTiP7clLCM5o8hLu",
+                "children": [
+                  {
+                    "name": "Prueba_de_Entrada_HU102X.pdf",
+                    "type": "file",
+                    "id": "1LEwS7uR-liZ3b183KyF8mPCvqN05GvB-",
+                    "mimeType": "application/pdf",
+                    "size": "58099"
+                  },
+                  {
+                    "name": "PE_2022-1",
+                    "type": "file",
+                    "id": "1U_e1SX1DST0gbuZ9YIEUISXUFTuFxN0r",
+                    "mimeType": "application/pdf",
+                    "size": "109404"
+                  }
+                ]
+              },
+              {
+                "name": "PC2",
+                "type": "folder",
+                "id": "1H2q127gWGTlMvnv_NDalGqGMcYrqeaQV",
+                "children": [
+                  {
+                    "name": "PC2_22-1",
+                    "type": "file",
+                    "id": "1mPBJXQna9TNxnzrhkaKebMrzZ4jRfKuO",
+                    "mimeType": "application/pdf",
+                    "size": "70324"
+                  },
+                  {
+                    "name": "PC2_21-2",
+                    "type": "file",
+                    "id": "1WDjwW_oOrkQRIIDf-CRDw88Zde-utjvO",
+                    "mimeType": "application/pdf",
+                    "size": "70553"
+                  },
+                  {
+                    "name": "PC2_26-I.jpeg",
+                    "type": "file",
+                    "id": "11vXaHMU1xHCiiOdShwAxyKc1ByYTW18N",
+                    "mimeType": "image/jpeg",
+                    "size": "137520"
+                  }
+                ]
+              },
+              {
+                "name": "PC1",
+                "type": "folder",
+                "id": "1NId4ptjx-U_2ucuuSvWClA-BVXBFVfR7",
+                "children": [
+                  {
+                    "name": "PC1_22-1",
+                    "type": "file",
+                    "id": "1OFyLbsxpWeO_arNkkBZrEn85v6-NrKlh",
+                    "mimeType": "application/pdf",
+                    "size": "70929"
+                  },
+                  {
+                    "name": "PC1_21-2",
+                    "type": "file",
+                    "id": "1NoBF1sHWbXJ0OC_xi0jvbdDVlyAAt2uO",
+                    "mimeType": "application/pdf",
+                    "size": "70542"
+                  },
+                  {
+                    "name": "PC_1_20-1",
+                    "type": "file",
+                    "id": "1DiV7XGfREvTxcBB-yMky8MxPeArckDsZ",
+                    "mimeType": "image/jpeg",
+                    "size": "45493"
+                  },
+                  {
+                    "name": "PC1_26-1.jpeg",
+                    "type": "file",
+                    "id": "16vJcPAu9urzrGnhSJU52hil_dijS-I8i",
+                    "mimeType": "image/jpeg",
+                    "size": "132031"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rildo",
+        "type": "folder",
+        "id": "1sTtiCgWHrW8IbLqMN-jPLBLM7k29kfY0",
+        "children": [
+          {
+            "name": "PC's",
+            "type": "folder",
+            "id": "1cYkOYOpjJTRpm1U7KaDOjWroLqQsOk0y",
+            "children": [
+              {
+                "name": "rildo_entrada.jpg",
+                "type": "file",
+                "id": "1Qh0I5V2zyFphBkmRTOK9jfNGthQ5Rqat",
+                "mimeType": "image/jpeg",
+                "size": "85383"
+              },
+              {
+                "name": "PC4",
+                "type": "folder",
+                "id": "18rig6I9_wttiqxecM2KkWQSDdt4cHO28",
+                "children": [
+                  {
+                    "name": "PC4-_SOLUCIONARIO}",
+                    "type": "file",
+                    "id": "1THGc1rM975f3u_lJfpd74RFQaGm1o9kZ",
+                    "mimeType": "application/pdf",
+                    "size": "1170358"
+                  },
+                  {
+                    "name": "PC4_RILDO1.jpg",
+                    "type": "file",
+                    "id": "1rXqAzecHym9KAZgi2ThzojXoiWsQETG2",
+                    "mimeType": "image/jpeg",
+                    "size": "41993"
+                  }
+                ]
+              },
+              {
+                "name": "PC3",
+                "type": "folder",
+                "id": "1j9MQkw-pZtA_LoMRad5JzZ_451e-HPCZ",
+                "children": [
+                  {
+                    "name": "pc3_rildo_(1).jpg",
+                    "type": "file",
+                    "id": "1fRVuM7QQIojEPe1SuWS-p9IAmTOp3ROw",
+                    "mimeType": "image/jpeg",
+                    "size": "55632"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "SEMANA_14_PLANIFICACIÓN_DE_PROYECTO_DE_VIDA",
+            "type": "folder",
+            "id": "1n6bKm6gXtWIhEXni8vjItYzSYe0eR2MS",
+            "children": [
+              {
+                "name": "MATERIAL_INFORMATIVO",
+                "type": "folder",
+                "id": "1O_19mDx0RWxTtPXmTw9CJ2kajpBuK-gN",
+                "children": [
+                  {
+                    "name": "DESARROLLO_TEMA_SESIÓN_14.docx.pdf",
+                    "type": "file",
+                    "id": "1F4igHP47s-KobKla_lRyv-h9FMk4rolv",
+                    "mimeType": "application/pdf",
+                    "size": "1035084"
+                  }
+                ]
+              },
+              {
+                "name": "AGENDA",
+                "type": "folder",
+                "id": "1tWVR3UKGtt_xdCSepVnZqYUtr-_b5kbk",
+                "children": [
+                  {
+                    "name": "AGENDA_SEMANA_14.docx.pdf",
+                    "type": "file",
+                    "id": "1q_DcVl2CUGlSrIJe8h5JFaVNPTUYcTGC",
+                    "mimeType": "application/pdf",
+                    "size": "346436"
+                  }
+                ]
+              },
+              {
+                "name": "INSTRUMENTO_DE_EVALUACIÓN",
+                "type": "folder",
+                "id": "1C9Z6BfT9qvp6OOcc8E2uf7qHbThul5_g",
+                "children": [
+                  {
+                    "name": "RÚBRICA_SUSTENTACIÓN_PROYECTO_DE_VIDA.doc",
+                    "type": "file",
+                    "id": "1ATYct7FLwIRST9vGoliM15VKWzbWWmYZ",
+                    "mimeType": "application/msword",
+                    "size": "171008"
+                  },
+                  {
+                    "name": "RÚBRICA_PROYECTO_DE_VIDA.doc",
+                    "type": "file",
+                    "id": "1gdf6Qi4KX5FPwFdFwp11cG7YZBp0SvtW",
+                    "mimeType": "application/msword",
+                    "size": "164352"
+                  }
+                ]
+              },
+              {
+                "name": "ANEXOS",
+                "type": "folder",
+                "id": "1Lp7kCQZSFopBLlnTNK2LoxeLk4QfJGK6",
+                "children": [
+                  {
+                    "name": "Lectura_1_Proyecto_de_Vida_Planeamiento_Estrategico_Personal.pdf",
+                    "type": "file",
+                    "id": "1aLj-TLjFzI5AW7kwsQmOsDbc-bofiRvX",
+                    "mimeType": "application/pdf",
+                    "size": "1565138"
+                  },
+                  {
+                    "name": "Lectura_2_PROYECTO_DE_VIDA_Y_DESARROLLO_INTEGRAL_HUMANO.pdf",
+                    "type": "file",
+                    "id": "1n6wDizOll1sHomq6yavs1sg8S_PKQS2X",
+                    "mimeType": "application/pdf",
+                    "size": "227782"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "SEMANA_13_CARACTERÍSTICAS_DEL_DOMINIO_PERSONA",
+            "type": "folder",
+            "id": "19Mg1uh6hnBI7Jm9CGiDfQR9Hv-xLEPn5",
+            "children": [
+              {
+                "name": "4_ANEXOS",
+                "type": "folder",
+                "id": "19soiF20YxO71_4tdU8R87aZsPHHE8qf-",
+                "children": [
+                  {
+                    "name": "DESARROLLO_TEMA_SESIÓN_13.docx.pdf",
+                    "type": "file",
+                    "id": "1zSdIOkl_YMaxvcxXAKOMQo_mO1Nw7Cyp",
+                    "mimeType": "application/pdf",
+                    "size": "330689"
+                  },
+                  {
+                    "name": "SESIÓN_13_ESTRUCTURA_ANÁLISIS_DE_CASO_LIDERAZGO_PERSONAL.docx.pdf",
+                    "type": "file",
+                    "id": "1AUcAAh_r0zQALYFxD5GTCFOlukHuYA8j",
+                    "mimeType": "application/pdf",
+                    "size": "148221"
+                  }
+                ]
+              },
+              {
+                "name": "3_EVALUACIÓN",
+                "type": "folder",
+                "id": "1YX3v6VwcrQZcj4hXK4ith_hyX8Ap0opF",
+                "children": [
+                  {
+                    "name": "RUBRICA_PARA_EVALUAR_EL_DOMINIO_PERSONAL.docx",
+                    "type": "file",
+                    "id": "1OEi1jaJx9xVJM8PJ6k2OyAuKbw43zSOD",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "168528"
+                  },
+                  {
+                    "name": "RÚBRICA_13_ANÁLISIS_DE_CASO_SOBRE_LIDERAZGO_PERSONAL_RILDO.doc.pdf",
+                    "type": "file",
+                    "id": "13u0DuEYITloPHStGsOsvu2EEdWLrc-zg",
+                    "mimeType": "application/pdf",
+                    "size": "167266"
+                  }
+                ]
+              },
+              {
+                "name": "2_APRENDIZAJE_INTERACTIVO",
+                "type": "folder",
+                "id": "1aOAE6VTimwXyRQAg0se4GpkFaXFOjRIi",
+                "children": [
+                  {
+                    "name": "Lectura_2_Desarrollo_del_dominio_personal_y_visión.pdf",
+                    "type": "file",
+                    "id": "1aNxF6yRzM-p-WuRJOV2KCTnX_T0X5EF9",
+                    "mimeType": "application/pdf",
+                    "size": "389476"
+                  },
+                  {
+                    "name": "Lectura_1_Estrategias_para_fortalecer_el_Dominio_Personal.pdf",
+                    "type": "file",
+                    "id": "1bl4a0SKQTvXgtBeuVGA9Y_93M3i4-gJu",
+                    "mimeType": "application/pdf",
+                    "size": "227358"
+                  }
+                ]
+              },
+              {
+                "name": "1_ORIENTACIÓN_AL_ESTUDIANTE",
+                "type": "folder",
+                "id": "1hPn2OSJZk1g594lHweCdKVijxE1QiRu1",
+                "children": [
+                  {
+                    "name": "AGENDA_SEMANA_13.docx.pdf",
+                    "type": "file",
+                    "id": "1II-i1AoFNCXGYkmRysd-OMKcYOrsK3pp",
+                    "mimeType": "application/pdf",
+                    "size": "342122"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "SEMANA_12_FUNDAMENTO_DEL_COMPORTAMIENTO_DE_GRUPOS",
+            "type": "folder",
+            "id": "13zVAQ1wlWQBn2HRdUPzICCOZcStvzQ6i",
+            "children": [
+              {
+                "name": "4_ANEXOS",
+                "type": "folder",
+                "id": "1Pl2ehZlBb4qWThTjQ5Pm6PGJs4MDJNwQ",
+                "children": [
+                  {
+                    "name": "DESARROLLO_TEMA_SESIÓN_12.docx.pdf",
+                    "type": "file",
+                    "id": "1TXs4mLsb2mHRRoGT5scTr7CQxtk49L6m",
+                    "mimeType": "application/pdf",
+                    "size": "1068149"
+                  }
+                ]
+              },
+              {
+                "name": "3_EVALUACIÓN",
+                "type": "folder",
+                "id": "130GQbRSa9eeFnw27FHZLGClC6jxNbN9A",
+                "children": [
+                  {
+                    "name": "RÚBRICA_12_ÁRBOL_DE_PROBLEMAS_RILDO.doc.pdf",
+                    "type": "file",
+                    "id": "14WdeCFNKM6Gh7kwjzrASQn_XjUTaq8YB",
+                    "mimeType": "application/pdf",
+                    "size": "112896"
+                  }
+                ]
+              },
+              {
+                "name": "2_APRENDIZAJE_INTERACTIVO",
+                "type": "folder",
+                "id": "1MHTvvKjELGejc1QTIVQwFO5gePYMNZEw",
+                "children": [
+                  {
+                    "name": "Lectura_1_El_líder_y_el_liderazgo_Reflexiones.pdf",
+                    "type": "file",
+                    "id": "1psG56FFH6u0NHoa9hQZvsJf1eKCJ8vNS",
+                    "mimeType": "application/pdf",
+                    "size": "116394"
+                  },
+                  {
+                    "name": "Lectura_2_Liderazgo_desarrollo_del_concepto,_evolución_y_tendencias.pdf",
+                    "type": "file",
+                    "id": "1MFCynmwZhefN_q11nQywzIvVBP8sEFOq",
+                    "mimeType": "application/pdf",
+                    "size": "615483"
+                  }
+                ]
+              },
+              {
+                "name": "1_ORIENTACIÓN_AL_ESTUDIANTE",
+                "type": "folder",
+                "id": "1TIxR3fd6MD3Pduqjn_vyPnomXSwTxNS1",
+                "children": [
+                  {
+                    "name": "AGENDA_SEMANA_12.docx.pdf",
+                    "type": "file",
+                    "id": "1uWvnPRdUAJFxsmbh4aUzIpw00hNh0sN8",
+                    "mimeType": "application/pdf",
+                    "size": "420615"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "SEMANA_11_FUNDAMENTO_DEL_COMPORTAMIENTO_DE_GRUPO",
+            "type": "folder",
+            "id": "14KHGauIKparz7VT6GWXHukSC5uADl_cg",
+            "children": [
+              {
+                "name": "4_ANEXOS",
+                "type": "folder",
+                "id": "1PqPrjN2yj23BEi7a8w2MX1TFWDDr2E-f",
+                "children": [
+                  {
+                    "name": "SESIÓN_11_ESTRUCTURA_Informe_analítico_grupal.docx.pdf",
+                    "type": "file",
+                    "id": "1pykKSnA2gCf6k6iFMoII2k-f_jXXUfeQ",
+                    "mimeType": "application/pdf",
+                    "size": "207817"
+                  }
+                ]
+              },
+              {
+                "name": "2_APRENDIZAJE_INTERACTIVO",
+                "type": "folder",
+                "id": "1krpBDYHM28CIOzi6HTK6bjVpmVFmNxYU",
+                "children": [
+                  {
+                    "name": "Lectura_1_Unidad-3-comportamiento-grupal.pdf",
+                    "type": "file",
+                    "id": "13pPqMtEZwsoChRStF2COt3PDsG60AlC7",
+                    "mimeType": "application/pdf",
+                    "size": "144133"
+                  },
+                  {
+                    "name": "Lectura_2_Propiedad_de_los_grupos.pdf",
+                    "type": "file",
+                    "id": "1jIlP1fUE2p3zE_6VJowYipwBQtUCI2jS",
+                    "mimeType": "application/pdf",
+                    "size": "340644"
+                  },
+                  {
+                    "name": "Lectura_3_Fundamentos_del_Comportamiento_de_Grupos.docx.pdf",
+                    "type": "file",
+                    "id": "1OWdeXL0f-uCisDVpGXQzuc0MCjA9kgTW",
+                    "mimeType": "application/pdf",
+                    "size": "740450"
+                  },
+                  {
+                    "name": "DESARROLLO_TEMA_SESIÓN_11.docx.pdf",
+                    "type": "file",
+                    "id": "1goA7rvJoeUz8L3zNopRSYYpefeKULNoh",
+                    "mimeType": "application/pdf",
+                    "size": "875254"
+                  }
+                ]
+              },
+              {
+                "name": "3_EVALUACIÓN",
+                "type": "folder",
+                "id": "1e04I4x5QzGsU2aEUNPL43PxZvnRmynC3",
+                "children": [
+                  {
+                    "name": "RÚBRICA_11_INFORME_ANALÍTICO_GRUPAL_RILDO.doc.pdf",
+                    "type": "file",
+                    "id": "1AJCD1zCXXuzaV93ReZ30d0zMav0Hu6gs",
+                    "mimeType": "application/pdf",
+                    "size": "82722"
+                  }
+                ]
+              },
+              {
+                "name": "1_ORIENTACIÓN_AL_ESTUDIANTE",
+                "type": "folder",
+                "id": "1kXStwFgvGLoeWwFJVDSqQORjXD3tWZkP",
+                "children": [
+                  {
+                    "name": "AGENDA_SEMANA_11.docx.pdf",
+                    "type": "file",
+                    "id": "1VlKMw7eg7xzNK5ZQcVredgrtB78kCKq0",
+                    "mimeType": "application/pdf",
+                    "size": "261988"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "SEMANA_10_EL_CONFLICTO",
+            "type": "folder",
+            "id": "1h9_LVpy3TA-uhYpn8xEarrvew_2nwnjE",
+            "children": [
+              {
+                "name": "MATERIAL_INFORMATIVO",
+                "type": "folder",
+                "id": "16g39pAUavm5t3PNNsHjy49zYGD3sGdBY",
+                "children": [
+                  {
+                    "name": "DESARROLLO_TEMA_SESIÓN_10.docx.pdf",
+                    "type": "file",
+                    "id": "1FWqU9RG9L4lv6TJ41Cr3_zP7HC7_Jeyr",
+                    "mimeType": "application/pdf",
+                    "size": "786188"
+                  }
+                ]
+              },
+              {
+                "name": "INSTRUMENTO_DE_EVALUACIÓN",
+                "type": "folder",
+                "id": "1WC_fs4xcindcvPFeeX17pTHoY8w44B76",
+                "children": [
+                  {
+                    "name": "RÚBRICA_TEXTO_ARGUMENTATIVO.doc",
+                    "type": "file",
+                    "id": "1n0eiYwdouq7DbMdOlrjgIuI5b9CK2KYK",
+                    "mimeType": "application/msword",
+                    "size": "169472"
+                  }
+                ]
+              },
+              {
+                "name": "ANEXOS",
+                "type": "folder",
+                "id": "1vzq37sV5wK6UTDeTEc-VJrd09hCizYzm",
+                "children": [
+                  {
+                    "name": "Lectura_3_El_conflicto_Elementosd_y_tipos.pdf",
+                    "type": "file",
+                    "id": "1e2dGPHKDZMZT4VV6SYUW2wUgBd8yqino",
+                    "mimeType": "application/pdf",
+                    "size": "119801"
+                  },
+                  {
+                    "name": "Lectura_1_Los_conflictos_y_las_formas_alternativas_de_resolución.pdf",
+                    "type": "file",
+                    "id": "1fFP9dF81SkUDEsLPsqPuwkb5YF73qy2f",
+                    "mimeType": "application/pdf",
+                    "size": "201366"
+                  },
+                  {
+                    "name": "Lectura_2_Los_conflictos.pdf",
+                    "type": "file",
+                    "id": "1jj-mbg2URXJT8e-xGLAhMcfQaY7VEG0h",
+                    "mimeType": "application/pdf",
+                    "size": "3092001"
+                  }
+                ]
+              },
+              {
+                "name": "AGENDA",
+                "type": "folder",
+                "id": "1kpRK6wuK4sOYV-TyCVjHBbP7N8TAgqUC",
+                "children": [
+                  {
+                    "name": "AGENDA_SEMANA_10.docx.pdf",
+                    "type": "file",
+                    "id": "1M62Zt4mRVfXEeICXZZ5ibnJ4gm5ZnEKI",
+                    "mimeType": "application/pdf",
+                    "size": "273013"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "SEMANA_9_RELACIONES_INTERPERSONALES_–_LA_COMUNICACIÓN",
+            "type": "folder",
+            "id": "1Raqv0wrNvYGcIj_L1laOsSk1fXHQtnNb",
+            "children": [
+              {
+                "name": "MATERIAL_INFORMATIVO",
+                "type": "folder",
+                "id": "1YwFiKFygWhUvX4nZqQbNYd-Blo5irEKZ",
+                "children": [
+                  {
+                    "name": "DESARROLLO_TEMA_SESIÓN_9.docx.pdf",
+                    "type": "file",
+                    "id": "1anmlZ6mJY2Bvvs145zfPKfA0hZJDiuBP",
+                    "mimeType": "application/pdf",
+                    "size": "1014316"
+                  }
+                ]
+              },
+              {
+                "name": "INSTRUMENTO_DE_EVALUACIÓN",
+                "type": "folder",
+                "id": "1j33K0dfSvtj8ZZIkZRYuuJATsG14-AX-",
+                "children": [
+                  {
+                    "name": "RÚBRICA_TEXTO_EXPLICATIVO.doc",
+                    "type": "file",
+                    "id": "16XBEeyO06MXFmYG0-8d9AMTf8K8g2maS",
+                    "mimeType": "application/msword",
+                    "size": "166912"
+                  }
+                ]
+              },
+              {
+                "name": "ANEXOS",
+                "type": "folder",
+                "id": "1k24zAbVOgMEsk1UcmQZFt0-oA53muwga",
+                "children": [
+                  {
+                    "name": "Lectura_1_Comunicacion_efectiva_trabajo_equipo.pdf",
+                    "type": "file",
+                    "id": "19TY31ASObEa6c-bOaGMmEV2N79u-3mkz",
+                    "mimeType": "application/pdf",
+                    "size": "1141434"
+                  },
+                  {
+                    "name": "Lectura_2_Comunicacion_Efectiva_para_el_logro_de_una_Vision_Compartida.pdf",
+                    "type": "file",
+                    "id": "1e-gaJI6MbRfnGdxHpcadITPeTN2LsAIc",
+                    "mimeType": "application/pdf",
+                    "size": "389135"
+                  }
+                ]
+              },
+              {
+                "name": "AGENDA",
+                "type": "folder",
+                "id": "1YgkwWJkextl1tncrdvotySegMD0HBJrL",
+                "children": [
+                  {
+                    "name": "AGENDA_SEMANA_9.docx.pdf",
+                    "type": "file",
+                    "id": "1zzhz6vrJmWcPxaWCIKyWY_Nq7LBLDKMd",
+                    "mimeType": "application/pdf",
+                    "size": "323275"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "SEMANA_7_MANEJO_DEL_ESTRÉS_Y_RESILIENCIA",
+            "type": "folder",
+            "id": "1MwYQMGSCn3esGf3KmbWGV4IsyFLO7ADI",
+            "children": [
+              {
+                "name": "4_ANEXOS",
+                "type": "folder",
+                "id": "1Jq2YmmcVfUUVIPTr8J09b7eFfjhRXp2x",
+                "children": [
+                  {
+                    "name": "SESIÓN_7_ESTRUCTURA_ATUCUIDADO_MINDFULNESS.docx.pdf",
+                    "type": "file",
+                    "id": "1Mve6aaSKLPcsogNeWadE5YI_GMiHhorZ",
+                    "mimeType": "application/pdf",
+                    "size": "197051"
+                  }
+                ]
+              },
+              {
+                "name": "3_EVALUACIÓN",
+                "type": "folder",
+                "id": "1BYxc_KXXV9ZjV5iQK2MUiPIsCnF5gUA3",
+                "children": [
+                  {
+                    "name": "RÚBRICA_7_AUTOCUIDADO_MINDFULNESS_RILDO.doc.pdf",
+                    "type": "file",
+                    "id": "1vEAW3oBkYHDnnoMLCDjrWAtRs2_aKB7T",
+                    "mimeType": "application/pdf",
+                    "size": "82548"
+                  }
+                ]
+              },
+              {
+                "name": "1_ORIENTACIÓN_AL_ESTUDIANTE",
+                "type": "folder",
+                "id": "1TXH6MUDX2s8TLUAUq-ny3H1g-Q6-A3mo",
+                "children": [
+                  {
+                    "name": "OE_SESIÓN_7_DESARROLLO.docx.pdf",
+                    "type": "file",
+                    "id": "1x-pW2x-6GQesadDRwiR07Mz_BrHOgw9o",
+                    "mimeType": "application/pdf",
+                    "size": "171102"
+                  }
+                ]
+              },
+              {
+                "name": "2_APRENDIZAJE_INTERACTIVO",
+                "type": "folder",
+                "id": "1us_iQxs0da6c7dU34ZDb3yNN5FkMlj5R",
+                "children": [
+                  {
+                    "name": "1_Manual_de_gestion_del_estres.pdf",
+                    "type": "file",
+                    "id": "16Qc04FqOumvL-52CNpo6D5I4EoAMarII",
+                    "mimeType": "application/pdf",
+                    "size": "349002"
+                  },
+                  {
+                    "name": "2_Resiliencia.pdf",
+                    "type": "file",
+                    "id": "1Ga7xqD1Rx12__0vtn_Kk3oZEFlb4TYK4",
+                    "mimeType": "application/pdf",
+                    "size": "113580"
+                  },
+                  {
+                    "name": "3_RESILIENCIA-BPR-Guide-Spanish.pdf",
+                    "type": "file",
+                    "id": "1GOOlkU49gBjq7EKzauk15Lwe6d2OdjpR",
+                    "mimeType": "application/pdf",
+                    "size": "4197895"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "SEMANA_1_INTRODUCCIÓN_AL_DESARROLLO_PERSONAL_-_AUTOESTIMA_BASE_DE_LA_PERSONALIDAD",
+            "type": "folder",
+            "id": "1fYhXQgQoMOkHu7Z3H658fWqZEfCIimMu",
+            "children": [
+              {
+                "name": "4_ANEXOS",
+                "type": "folder",
+                "id": "1jVAzNTgmsArnn9CQ7W2rcLdnHYbko7j0",
+                "children": [
+                  {
+                    "name": "Lectura_1_Personal_y_Transferible.pdf",
+                    "type": "file",
+                    "id": "1AFy9KhUy4LM3YpHAz1bko7q_ukUZbrZP",
+                    "mimeType": "application/pdf",
+                    "size": "8070457"
+                  },
+                  {
+                    "name": "Lectura_2_Autoestima.pdf",
+                    "type": "file",
+                    "id": "1_imDpry5HRPlcYAR9ko9o3r3Qcf6H5gR",
+                    "mimeType": "application/pdf",
+                    "size": "457875"
+                  }
+                ]
+              },
+              {
+                "name": "3_EVALUACIÓN",
+                "type": "folder",
+                "id": "1mw9VapwYRMzGKaJz3vdTV4Q88lzxyvlV",
+                "children": [
+                  {
+                    "name": "DESARROLLO_EJERCICIOS_SESIÓN_1.docx.pdf",
+                    "type": "file",
+                    "id": "1iiEvPWRmf3PZ1XyWV5YdZZ4FMW4JAsFQ",
+                    "mimeType": "application/pdf",
+                    "size": "295622"
+                  },
+                  {
+                    "name": "RÚBRICA_ORG._DE_INFORMACIÓN.doc",
+                    "type": "file",
+                    "id": "1r6xm1YAyL15X7a1hWJu6X7nsE342MesF",
+                    "mimeType": "application/msword",
+                    "size": "69632"
+                  }
+                ]
+              },
+              {
+                "name": "2_APRENDIZAJE_INTERACTIVO",
+                "type": "folder",
+                "id": "1bg2m3t9XE3bvxBVrOMnryvJWFySq9w_B",
+                "children": [
+                  {
+                    "name": "TEMA_SESIÓN_1_AUTOCONOCIMIENTO.docx.pdf",
+                    "type": "file",
+                    "id": "1XnxQ94C9c2mmqLyiSFpRVHew4DqmidnJ",
+                    "mimeType": "application/pdf",
+                    "size": "528568"
+                  },
+                  {
+                    "name": "FICHA_APLICACIÓN_SESIÓN_1_SILUETA_HUMANA.docx",
+                    "type": "file",
+                    "id": "1RzELOrnNnh5xpKMV79AeisiOIbjVeXKA",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "424353"
+                  },
+                  {
+                    "name": "1_Test_Autoestima_Rosenberg.xlsx",
+                    "type": "file",
+                    "id": "1wMY0c5-7COF9pOepmH2MxydmVwyLkvYp",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "size": "11289"
+                  }
+                ]
+              },
+              {
+                "name": "1_ORIENTACIÓN_AL_ESTUDIANTE",
+                "type": "folder",
+                "id": "1N76FJWVBBz6Et48ZojCZibENYnA6MxJc",
+                "children": [
+                  {
+                    "name": "OE_SESIÓN_1_DESARROLLO_2024.docx.pdf",
+                    "type": "file",
+                    "id": "1L-LK9skrgZ7fvF0oXzbdPYv8QGW2T5Rs",
+                    "mimeType": "application/pdf",
+                    "size": "160923"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "SEMANA_2_AUTOCONOCIMIENTO_Y_MENTALIDAD_DE_CRECIMIENTO",
+            "type": "folder",
+            "id": "14JHTH9Vn6-VwZX6gL_5tgXKDVuOmtEZr",
+            "children": [
+              {
+                "name": "4_ANEXOS",
+                "type": "folder",
+                "id": "1YqpR9_89oYFgRkU17Vec2pbfKDm3g0L4",
+                "children": [
+                  {
+                    "name": "Dialnet-ElAutoconocimientoComoCondicionParaConstruirUnaPer-126263.pdf",
+                    "type": "file",
+                    "id": "14Bcz78C75gWmS28M_n_1FOpdFhecgmqw",
+                    "mimeType": "application/pdf",
+                    "size": "429912"
+                  }
+                ]
+              },
+              {
+                "name": "3_EVALUACIÓN",
+                "type": "folder",
+                "id": "1A4Y2RXvNsEBfemIiBA61UKh2U3vXYTdk",
+                "children": [
+                  {
+                    "name": "RÚBRICA_INFOGRAFÍA_RILDO.doc.pdf",
+                    "type": "file",
+                    "id": "1wS6awA9Mhsg1n49NcxFWYqgHZJ_ay3Km",
+                    "mimeType": "application/pdf",
+                    "size": "91998"
+                  }
+                ]
+              },
+              {
+                "name": "2_APRENDIZAJE_INTERACTIVO",
+                "type": "folder",
+                "id": "1m5-eywrT9MS3n86RAMorhaHI7TkzqdZf",
+                "children": [
+                  {
+                    "name": "La_mentalidad_de_crecimiento.pdf",
+                    "type": "file",
+                    "id": "1iuRq_jTxlfznqxm1D4DMrxJXabrDAmM7",
+                    "mimeType": "application/pdf",
+                    "size": "275623"
+                  },
+                  {
+                    "name": "Autoconocimiento.pdf",
+                    "type": "file",
+                    "id": "1yCB6mG34HGNE4VyrvFxUZtWbk2d3SzdV",
+                    "mimeType": "application/pdf",
+                    "size": "144982"
+                  }
+                ]
+              },
+              {
+                "name": "1_ORIENTACIÓN_AL_ESTUDIANTE",
+                "type": "folder",
+                "id": "1-9zYsqyqIAnVKE0816ZZF0s9Dp3wvx9O",
+                "children": [
+                  {
+                    "name": "OE_SESIÓN_2_DESARROLLO.docx.pdf",
+                    "type": "file",
+                    "id": "18QbWashqI1SY1JQ2r6rcmuGHUJpdK9ic",
+                    "mimeType": "application/pdf",
+                    "size": "161708"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "SEMANA_6_DESARROLLO_DE_HABILIDADES_DE_LIDERAZGO",
+            "type": "folder",
+            "id": "1XRUikI3Khn5QdcLkMmLQR0vNE8vk6r3L",
+            "children": [
+              {
+                "name": "4_ANEXOS",
+                "type": "folder",
+                "id": "1WEBln26vr8XBc_PhL6t18NgbyK_leYf5",
+                "children": [
+                  {
+                    "name": "SESIÓN_6_ESTRUCTURA_PLAN_DE_MEJORA_PERSONAL.docx.pdf",
+                    "type": "file",
+                    "id": "1sVdmh6XP5wPIym1TlP9Ecrrt25J0RkUo",
+                    "mimeType": "application/pdf",
+                    "size": "148399"
+                  },
+                  {
+                    "name": "Test_Estilo_Liderazgo_Kurt_Lewin.xlsx",
+                    "type": "file",
+                    "id": "1bwy05u_FLwltD2RDsmDm8uZ6aVt6BE7i",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "size": "10548"
+                  }
+                ]
+              },
+              {
+                "name": "3_EVALUACIÓN",
+                "type": "folder",
+                "id": "1rXo_8_V-mqQOvK2QjNlT9xuKirqZwqgZ",
+                "children": [
+                  {
+                    "name": "RÚBRICA_6_PLAN_DE_MEJORA_PERSONAL_RILDO.doc.pdf",
+                    "type": "file",
+                    "id": "1eMhNrPhOAnaD5FRFkvI6Wq5y8z9fNjO4",
+                    "mimeType": "application/pdf",
+                    "size": "84614"
+                  }
+                ]
+              },
+              {
+                "name": "2_APRENDIZAJE_INTERACTIVO",
+                "type": "folder",
+                "id": "1c4UNQDUiFpOHZ0_pN6krJdk-eDM8Ouoi",
+                "children": [
+                  {
+                    "name": "“Liderazgo,_una_capacidad.pdf",
+                    "type": "file",
+                    "id": "1ZV8SiBvno7GIqR72SiQJIaZViWjjcdHF",
+                    "mimeType": "application/pdf",
+                    "size": "7819139"
+                  },
+                  {
+                    "name": "DESARROLLO_PERSONAL_LIDERAZGO.-1.pdf",
+                    "type": "file",
+                    "id": "1-mYhG01W-DTu8lru7zAW90B3AC49KivE",
+                    "mimeType": "application/pdf",
+                    "size": "395935"
+                  },
+                  {
+                    "name": "LIDERAZGO_Y_GESTIÓN_PERSONAL.pdf",
+                    "type": "file",
+                    "id": "1plIjNPKn-sWlw4o0AfWpxznVnngIP-l6",
+                    "mimeType": "application/pdf",
+                    "size": "1290038"
+                  }
+                ]
+              },
+              {
+                "name": "1_ORIENTACIÓN_AL_ESTUDIANTE",
+                "type": "folder",
+                "id": "1Ugnh5_eGJJRBwVIId4EeDgY5kMAxu2dl",
+                "children": [
+                  {
+                    "name": "OE_SESIÓN_6_DESARROLLO.docx.pdf",
+                    "type": "file",
+                    "id": "1506pAbKqhF_GlyZQ_70FIL8L14s3Slhy",
+                    "mimeType": "application/pdf",
+                    "size": "167211"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "SEMANA_5_COMUNICACION_EFECTIVA",
+            "type": "folder",
+            "id": "15YG9fmBH0MVGuWiNz8DfIIdaxjbmF-1P",
+            "children": [
+              {
+                "name": "3_EVALUACIÓN",
+                "type": "folder",
+                "id": "1PSpiZ2IAMxwJtu_M4SkRcMKHjsBUK5eA",
+                "children": [
+                  {
+                    "name": "RÚBRICA_ROLE-PLAYING_GRABADO_RILDO.doc.pdf",
+                    "type": "file",
+                    "id": "1-IW7oIyQkFhl7JDuUjUFdjaqnWAfMu9p",
+                    "mimeType": "application/pdf",
+                    "size": "116350"
+                  }
+                ]
+              },
+              {
+                "name": "4_ANEXOS",
+                "type": "folder",
+                "id": "1CcT1eQlIzptoHYqeBTDjdQ1spbVfKV7R",
+                "children": [
+                  {
+                    "name": "SESIÓN_5_ROLE-PLAYING_GRABADO.docx.pdf",
+                    "type": "file",
+                    "id": "1Krd1EHT2TFEuzMtj8YadT997lDI7pXcL",
+                    "mimeType": "application/pdf",
+                    "size": "95625"
+                  }
+                ]
+              },
+              {
+                "name": "2_APRENDIZAJE_INTERACTIVO",
+                "type": "folder",
+                "id": "1sdsKk6kR5oFpqIplsIb1qxCQCkbQUDrB",
+                "children": [
+                  {
+                    "name": "Comunicacion_y_Convivencia.pdf",
+                    "type": "file",
+                    "id": "1FU-YJDq7OeK842YOcViX2Sfy8X9um4z8",
+                    "mimeType": "application/pdf",
+                    "size": "89626"
+                  },
+                  {
+                    "name": "Comunicacion_EmilioMartinez.pdf",
+                    "type": "file",
+                    "id": "1WL0pPZZ0V6eQ0jWvdMkenC090TzS7du8",
+                    "mimeType": "application/pdf",
+                    "size": "544441"
+                  },
+                  {
+                    "name": "Comunicacion_EstrellaMontolio.pdf",
+                    "type": "file",
+                    "id": "11crtnk8ecCDTx0LvnGDFECECmaAr65s3",
+                    "mimeType": "application/pdf",
+                    "size": "3526498"
+                  }
+                ]
+              },
+              {
+                "name": "1_ORIENTACIÓN_AL_ESTUDIANTE",
+                "type": "folder",
+                "id": "1inEY0OUuBAmPbxASaKfKp8WzOb2nw6eW",
+                "children": [
+                  {
+                    "name": "OE_SESIÓN_5_DESARROLLO.docx.pdf",
+                    "type": "file",
+                    "id": "19_lEzLs3oNvtmyAdCkxz-SIXWOTVK0xZ",
+                    "mimeType": "application/pdf",
+                    "size": "166681"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "SEMANA_4_INTELIGENCIA_EMOCIONAL",
+            "type": "folder",
+            "id": "1Tw-zPV1j6Eevx5OL0gMRsXMaEz1pj6wP",
+            "children": [
+              {
+                "name": "4_ANEXOS",
+                "type": "folder",
+                "id": "1Ov188qSpNLsCzcyrzMB9rstKK7gyQSUL",
+                "children": [
+                  {
+                    "name": "La-Inteligencia-Emocional-Daniel-Goleman-1.pdf",
+                    "type": "file",
+                    "id": "154AmPI2zpxfu6MfmtONBQNMx0WdAoXAK",
+                    "mimeType": "application/pdf",
+                    "size": "1956894"
+                  }
+                ]
+              },
+              {
+                "name": "3_EVALUACIÓN",
+                "type": "folder",
+                "id": "1VagK1N7xswhhqOivjdkl04rGdKJOKke0",
+                "children": [
+                  {
+                    "name": "RÚBRICA_ANALISIS_DE_VÍDEO_RILDO.doc.pdf",
+                    "type": "file",
+                    "id": "1BAiKsh4Px93-_HwxGbIOWoo6ezQGNS0v",
+                    "mimeType": "application/pdf",
+                    "size": "97061"
+                  },
+                  {
+                    "name": "RÚBRICA_APLICACIÓN_DE_INTELIGENCIA_EMOCIONAL_RILDO.doc.pdf",
+                    "type": "file",
+                    "id": "1I3jp6d1fIkNwoUfbGxPTi62YJu2qXwhh",
+                    "mimeType": "application/pdf",
+                    "size": "95860"
+                  }
+                ]
+              },
+              {
+                "name": "1_ORIENTACIÓN_AL_ESTUDIANTE",
+                "type": "folder",
+                "id": "1ihNw8NfhSZuZDlvK6mpSjhHTuoXnvYKr",
+                "children": [
+                  {
+                    "name": "OE_SESIÓN_4_DESARROLLO.docx.pdf",
+                    "type": "file",
+                    "id": "1q5AWrd2LeifNoCjT0ciMlm2FVhiwFblY",
+                    "mimeType": "application/pdf",
+                    "size": "170244"
+                  }
+                ]
+              },
+              {
+                "name": "2_APRENDIZAJE_INTERACTIVO",
+                "type": "folder",
+                "id": "1XTcElL5-LDdHxoip5rjy3ebPFnyXttIh",
+                "children": [
+                  {
+                    "name": "SESIÓN_4_APLICACIÓN_DE_INTELIGENCIA_EMOCIONAL.docx.pdf",
+                    "type": "file",
+                    "id": "1lI8hBcr1iaiWvG9n24TE8NBw8xQURzBq",
+                    "mimeType": "application/pdf",
+                    "size": "99225"
+                  },
+                  {
+                    "name": "EA_SESIÓN_4_ANÁLISIS_DE_VÍDEO.docx.pdf",
+                    "type": "file",
+                    "id": "15JFyZYcDohQuVxhWFZv2Za3xuX3S0BKH",
+                    "mimeType": "application/pdf",
+                    "size": "105314"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "SEMANA_3_GESTIÓN_DEL_TIEMPO_Y_PRODUCTIVIDAD",
+            "type": "folder",
+            "id": "1-M3MJ2oS1pgHXHflMjyH1FXjyGglNLeF",
+            "children": [
+              {
+                "name": "4_ANEXOS",
+                "type": "folder",
+                "id": "1j68I7Jg0pKC8e71N5qidq7DudVAUujiG",
+                "children": [
+                  {
+                    "name": "EA_SESIÓN_3_PLAN_DE_PRODUCTIVIDAD.docx.pdf",
+                    "type": "file",
+                    "id": "18yYbUZEyFRAyvxA2hqzkdxRkWCBCJQ5W",
+                    "mimeType": "application/pdf",
+                    "size": "144787"
+                  }
+                ]
+              },
+              {
+                "name": "3_INSTRUMENTO_DE_EVALUACIÓN",
+                "type": "folder",
+                "id": "1LxrSIBhHuFOvvKAYF-Ghe5CvXzgdPD83",
+                "children": [
+                  {
+                    "name": "RÚBRICA_PLAN_DE_PRODUCTIVIDAD_PERSONAL_RILDO.doc.pdf",
+                    "type": "file",
+                    "id": "1EvIhBRQR14Wi2A2vKGAsRnQ7K5nSg642",
+                    "mimeType": "application/pdf",
+                    "size": "97611"
+                  }
+                ]
+              },
+              {
+                "name": "2_APRENDIZAJE_INTERACTIVO",
+                "type": "folder",
+                "id": "1zV64rdZ5nCpfiYaB73kAyuPXlaa8AoEk",
+                "children": [
+                  {
+                    "name": "Gestión_del_Tiempo_Gemma_Segura.txt",
+                    "type": "file",
+                    "id": "1pDy2APP59MSBpGQj4i_T1-_SbnYUpVmy",
+                    "mimeType": "text/plain",
+                    "size": "199"
+                  },
+                  {
+                    "name": "Productividad_personal_y_gestión_del_tiempo_a_través_de_la_Tecnología.pdf",
+                    "type": "file",
+                    "id": "1bpPes4pkNClUN_GvafTZ2qZz_A-hdILQ",
+                    "mimeType": "application/pdf",
+                    "size": "1418733"
+                  }
+                ]
+              },
+              {
+                "name": "1_ORIENTACIÓN_AL_ESTUDIANTE",
+                "type": "folder",
+                "id": "1Rkrc19imHSK-Dai5YN8qGil8jjkbujY6",
+                "children": [
+                  {
+                    "name": "OE_SESIÓN_3_DESARROLLO.docx.pdf",
+                    "type": "file",
+                    "id": "1hHfQLvu1Tx3Xlni_lhrZgFONxkHx5mT7",
+                    "mimeType": "application/pdf",
+                    "size": "162339"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

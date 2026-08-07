@@ -1,0 +1,1510 @@
+{
+  "course_id": "SI601",
+  "course_name": "Investigación_de_Operaciones_II",
+  "id": "13EMo8qILFsWoGCgov3AARMdfNaBTs0Yo",
+  "scanned_at": "2026-08-07T00:03:12.902616+00:00",
+  "tree": {
+    "name": "Investigación_de_Operaciones_II",
+    "type": "folder",
+    "id": "13EMo8qILFsWoGCgov3AARMdfNaBTs0Yo",
+    "children": [
+      {
+        "name": "Libros",
+        "type": "folder",
+        "id": "1xhM51Omg6fMp9fzrnf5d49FngHJMlZXh",
+        "children": [
+          {
+            "name": "Investigacion_de_operaciones_cuarta_edic.pdf",
+            "type": "file",
+            "id": "1B1znACRZTOVHD8k3LuMGKYGgHm7xhV-G",
+            "mimeType": "application/pdf",
+            "size": "64791060"
+          },
+          {
+            "name": "Investigacion_Operativa_II_Universidad_Peruana_de_los_Andes.pdf",
+            "type": "file",
+            "id": "1YVAnaNhIGCw5aIv2AxxgrsKdfBycyEm3",
+            "mimeType": "application/pdf",
+            "size": "1771567"
+          },
+          {
+            "name": "PROBLEMAS_DE_REDES(HUILCA)trabajo2.doc",
+            "type": "file",
+            "id": "1MN7DIusCmM-Px3EKz9MuGLiT2k7CPz78",
+            "mimeType": "application/msword",
+            "size": "1003520"
+          }
+        ]
+      },
+      {
+        "name": "LUJÁN",
+        "type": "folder",
+        "id": "1LEvOBKQhUNoaRQBQYTIwGegBKyoxsL7A",
+        "children": [
+          {
+            "name": "Trabajos_PCs",
+            "type": "folder",
+            "id": "1bXjjWc3W4L2FJSSuQ3_94JhCd6c0lGc1",
+            "children": [
+              {
+                "name": "Contraseña_para_los_archivos.txt",
+                "type": "file",
+                "id": "1xfLFIfHWenzZ3DZfyrl3SB3VE_F5mH5f",
+                "mimeType": "text/plain",
+                "size": "40"
+              },
+              {
+                "name": "susApellidos_PC1_F01_2023-II_-_Ejemplo_1_psw.pdf",
+                "type": "file",
+                "id": "1Iw6fcqCiD-nSQEoA4zz7xeXQM7yaD26-",
+                "mimeType": "application/pdf",
+                "size": "892084"
+              },
+              {
+                "name": "Tarea_IO2_Ex._Final_Cruzado_Gutierrez.docx",
+                "type": "file",
+                "id": "1n1Qq4wuFCwzSxiOrN2ZjCbVIpaeudWsV",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "600120"
+              },
+              {
+                "name": "Plantillas_para_trabajos_opcionales_(max_3_puntos).docx",
+                "type": "file",
+                "id": "1C7mx5j6dQP91yPrZCGsaKcd2VytYPOL4",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "21504"
+              },
+              {
+                "name": "Examenes_si601_2023-I.pdf",
+                "type": "file",
+                "id": "1gFK9Lqiu9W9np7I5T30R91ookvCAFm4a",
+                "mimeType": "application/pdf",
+                "size": "1013152"
+              },
+              {
+                "name": "Tesis_AHP.pdf",
+                "type": "file",
+                "id": "1fYGeYcXJAwpH-94BUz4_S3KyMIHJsCJj",
+                "mimeType": "application/pdf",
+                "size": "1683391"
+              },
+              {
+                "name": "Tarea_2PC_Cruzado_Gutierrez.docx",
+                "type": "file",
+                "id": "1svsDuHOzeiYIqAPV-t9Z_U_Cuj4y3ufF",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "728064"
+              },
+              {
+                "name": "Tarea_1PC_Cruzado_Gutierrez.docx",
+                "type": "file",
+                "id": "1C8hqvnKFbZpZKZCdRUBJHaj5alUHVjD5",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "1774080"
+              },
+              {
+                "name": "Plantilla_para_la_3PC,_problema_de_la_diligencia.doc",
+                "type": "file",
+                "id": "1Nu9pUjUM2Ro44ovPJ2Bi5DaVTi8jYBgr",
+                "mimeType": "application/msword",
+                "size": "82432"
+              },
+              {
+                "name": "SI601_LUJAN_EF_22-1_(pass_'ef').pdf",
+                "type": "file",
+                "id": "15pNHuRzPUF7cM_k16PWZZzrQcLFxD-iV",
+                "mimeType": "application/pdf",
+                "size": "261378"
+              },
+              {
+                "name": "Tarea_Ex._Final_Cruzado_Gutierrez.docx",
+                "type": "file",
+                "id": "1QNOWjW22pHYnhHOoj2oZzFC-8QnRRm6m",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "24972"
+              },
+              {
+                "name": "TD_PC1.docx",
+                "type": "file",
+                "id": "1_lVsUf4G2CGOkAcHwiFLYSIhz1NHu9fV",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "418241"
+              },
+              {
+                "name": "Tesis_Sistema_de_Colas.pdf",
+                "type": "file",
+                "id": "157yr7WQ3JlvjgA8CDRTxUrOTMxXs0xWJ",
+                "mimeType": "application/pdf",
+                "size": "2460662"
+              }
+            ]
+          },
+          {
+            "name": "Clases",
+            "type": "folder",
+            "id": "1MD8KL8H-pgKmRWHd9wUIufWA3h1TTTzD",
+            "children": [
+              {
+                "name": "Contraseña_para_los_archivos.txt",
+                "type": "file",
+                "id": "1g-2U4UkSmD8RI4-qwF5sB4lUFPGeIoEx",
+                "mimeType": "text/plain",
+                "size": "40"
+              },
+              {
+                "name": "semana12-1scolas-2pag_psw_send.pdf",
+                "type": "file",
+                "id": "11iit7VWfrwtifIliq9eReqlStu7HYSjf",
+                "mimeType": "application/pdf",
+                "size": "119525"
+              },
+              {
+                "name": "semana6_crash_psw.pdf",
+                "type": "file",
+                "id": "1BlGmH7GPkjkhjZk42eJ84UBlF7HbF__-",
+                "mimeType": "application/pdf",
+                "size": "1012044"
+              },
+              {
+                "name": "s10_AHP_3_3x3_ejemplo_send_psw.xlsx",
+                "type": "file",
+                "id": "1RHgbYjCoEVhAC3juJy9dHjiZYq6KOc_B",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "29184"
+              },
+              {
+                "name": "semana12-2scolas_formulas1_psw_send.pdf",
+                "type": "file",
+                "id": "1LUlL2CTb5b2voQJO5gVHonTPo2Nookx5",
+                "mimeType": "application/pdf",
+                "size": "171845"
+              },
+              {
+                "name": "semana5_cpm_psw.pdf",
+                "type": "file",
+                "id": "14SScEF_wlMtGmC7QQbobatWxSVCp3UIo",
+                "mimeType": "application/pdf",
+                "size": "955627"
+              },
+              {
+                "name": "s5-pert.CPM",
+                "type": "file",
+                "id": "1Xiaml2oMiGOaT1fGFEdTAU62R5ykNdQH",
+                "mimeType": "application/octet-stream",
+                "size": "402"
+              },
+              {
+                "name": "semana9_x_s8_m1-Diligencia-Stagecoach_psw.pdf",
+                "type": "file",
+                "id": "144o7CItFIEwJhZMUH_IsixpjTVfn3XmM",
+                "mimeType": "application/pdf",
+                "size": "86174"
+              },
+              {
+                "name": "s5-cpm.CPM",
+                "type": "file",
+                "id": "1X_RkovBkA8LOY3aUY9NQF7KS2v0iXFUq",
+                "mimeType": "application/octet-stream",
+                "size": "366"
+              },
+              {
+                "name": "semana9_x_s8_3.1y3.2-L1-P422-429.pdf",
+                "type": "file",
+                "id": "1x6n22md7aGs8gSYj-jXpFW7U04hITT5t",
+                "mimeType": "application/pdf",
+                "size": "323528"
+              },
+              {
+                "name": "semana10-Mochila-Knapsack-P471-474-Taha-9ed.pdf",
+                "type": "file",
+                "id": "1-3JUjkMnRzuuAgOPWHF-2TmrquBbGIqS",
+                "mimeType": "application/pdf",
+                "size": "107646"
+              },
+              {
+                "name": "s10_AHP_2_tablas_send.pdf",
+                "type": "file",
+                "id": "1DX83_keVelsrCnOGXVEr38y2ayeLzXJj",
+                "mimeType": "application/pdf",
+                "size": "143210"
+              },
+              {
+                "name": "semana12-3scolas-traduccion_QSB_psw.pdf",
+                "type": "file",
+                "id": "1BL5aqn617yCfmt52ETV6dl2ZirKlNZQt",
+                "mimeType": "application/pdf",
+                "size": "48877"
+              },
+              {
+                "name": "s10_AHP_1_jerarquia_una_pag_send.pdf",
+                "type": "file",
+                "id": "1rTou9qu5WkFBjyzpCXwMh5H1WTNTr0Up",
+                "mimeType": "application/pdf",
+                "size": "59396"
+              },
+              {
+                "name": "semana6-distribucion_normal_y_otros.pdf",
+                "type": "file",
+                "id": "1_A7WJRgGND0x8nGc4ENSO2u3rWhBJvLO",
+                "mimeType": "application/pdf",
+                "size": "60862"
+              },
+              {
+                "name": "semana3-img-psw.pdf",
+                "type": "file",
+                "id": "1JUuv3sfnjr7OFNdvXvgZUQSv1B9jEg1_",
+                "mimeType": "application/pdf",
+                "size": "1842227"
+              },
+              {
+                "name": "semana2-img-psw.pdf",
+                "type": "file",
+                "id": "12dL0ilkBtfw3K6TfMiGiT__zLvA6Ov2i",
+                "mimeType": "application/pdf",
+                "size": "1505740"
+              },
+              {
+                "name": "semana14-propuestos_psw.pdf",
+                "type": "file",
+                "id": "1vgjd4Zse5qAUlBY4aA-SaNDR1zLbTDPc",
+                "mimeType": "application/pdf",
+                "size": "233441"
+              },
+              {
+                "name": "semana1_psw.pdf",
+                "type": "file",
+                "id": "1oTCY6af1mcrUfR8-4B87uI8IUEVEFx7P",
+                "mimeType": "application/pdf",
+                "size": "1119094"
+              },
+              {
+                "name": "semana6_psw.pdf",
+                "type": "file",
+                "id": "13Mx3OchBH4CdDFKy80Hy70lixODmhubE",
+                "mimeType": "application/pdf",
+                "size": "1324172"
+              },
+              {
+                "name": "semana10-Mochila-Knapsack_psw.pdf",
+                "type": "file",
+                "id": "1Nq8_4kw71L5YWGxOiOYSJRdXp7MlgTJB",
+                "mimeType": "application/pdf",
+                "size": "143291"
+              }
+            ]
+          },
+          {
+            "name": "WinQSB2.0_win7",
+            "type": "folder",
+            "id": "1xbKLGOwXtu2TYYvmqY444-ToKJyNJwu2",
+            "children": [
+              {
+                "name": "FLOWSHOP.JO_",
+                "type": "file",
+                "id": "1sC9i8UVHoT4L6HZMIaDXTxM8RJ9VB1G5",
+                "mimeType": "application/octet-stream",
+                "size": "407"
+              },
+              {
+                "name": "GSWDLL.DL_",
+                "type": "file",
+                "id": "1KiF8MFpO7VrXODeERVjrPX05BhCewZI6",
+                "mimeType": "application/octet-stream",
+                "size": "30948"
+              },
+              {
+                "name": "DISCOUNT.IT_",
+                "type": "file",
+                "id": "1ZkJqWr7elEzub6ERJnebbGZW8msdVe-N",
+                "mimeType": "application/octet-stream",
+                "size": "355"
+              },
+              {
+                "name": "NLP1.NL_",
+                "type": "file",
+                "id": "1bRhcl-5Kw8HHTxobzY_o-nQ1B2eDezRq",
+                "mimeType": "application/octet-stream",
+                "size": "140"
+              },
+              {
+                "name": "NET.EX_",
+                "type": "file",
+                "id": "1V7NI4bnzaf2Fjw7cGWjHKGB2LPOQU4_9",
+                "mimeType": "application/octet-stream",
+                "size": "146526"
+              },
+              {
+                "name": "VARIABLE.QC_",
+                "type": "file",
+                "id": "1_Ym5p7q1jCWKUuONYPjhOzBOSoQstUwy",
+                "mimeType": "application/octet-stream",
+                "size": "3172"
+              },
+              {
+                "name": "LINEBAL.FL_",
+                "type": "file",
+                "id": "1pfvBAW7415wkE8XyfeqmgACoc7PjIt2Z",
+                "mimeType": "application/octet-stream",
+                "size": "416"
+              },
+              {
+                "name": "QPHELP.HL_",
+                "type": "file",
+                "id": "1gTbLtd44hFtxZ7YAKnIaEwLQ0g89OgmS",
+                "mimeType": "application/octet-stream",
+                "size": "89662"
+              },
+              {
+                "name": "QCCHELP.HL_",
+                "type": "file",
+                "id": "1u8Ayxq0JbN-v0z7GlobJBWRa7lDFg-LU",
+                "mimeType": "application/octet-stream",
+                "size": "133089"
+              },
+              {
+                "name": "MKPHELP.HL_",
+                "type": "file",
+                "id": "1JURXo1tnyPK5hcpUZRd4m2Y5Rh9kgRyc",
+                "mimeType": "application/octet-stream",
+                "size": "33598"
+              },
+              {
+                "name": "FCHELP.HL_",
+                "type": "file",
+                "id": "1r36JaImxm2uS--JjNqn1_iG0JzH-TgLp",
+                "mimeType": "application/octet-stream",
+                "size": "48419"
+              },
+              {
+                "name": "THREED.VB_",
+                "type": "file",
+                "id": "1FQ0ZaybEikS9eApPsL5XP6W2T7haaiJs",
+                "mimeType": "application/octet-stream",
+                "size": "33649"
+              },
+              {
+                "name": "NETFLOW.NE_",
+                "type": "file",
+                "id": "1Mo_qZVF_hvS4LDhc02um42GCEiNy3vvY",
+                "mimeType": "application/octet-stream",
+                "size": "306"
+              },
+              {
+                "name": "QUEUE2.QA_",
+                "type": "file",
+                "id": "1IbFTIPZh6CJWjneO4YsJseFcbwzr0jF-",
+                "mimeType": "application/octet-stream",
+                "size": "505"
+              },
+              {
+                "name": "PRODINVT.DP_",
+                "type": "file",
+                "id": "1TCzBB23lcT6RN_sI8yVeMDC5HlTy6-Gy",
+                "mimeType": "application/octet-stream",
+                "size": "215"
+              },
+              {
+                "name": "QSS3.QS_",
+                "type": "file",
+                "id": "1wM6pIfd1LgfkbbAtsh4Sm6ZAfiqfcaoX",
+                "mimeType": "application/octet-stream",
+                "size": "519"
+              },
+              {
+                "name": "LAYOUT.FL_",
+                "type": "file",
+                "id": "1vzg6YYfMwnMkS2UL5P7ydEifo1ixdq8l",
+                "mimeType": "application/octet-stream",
+                "size": "988"
+              },
+              {
+                "name": "QSSHELP.HL_",
+                "type": "file",
+                "id": "1PXwCwPsQZEN6D-y60rj1Oc4pr28qV880",
+                "mimeType": "application/octet-stream",
+                "size": "127122"
+              },
+              {
+                "name": "EOQ.IT_",
+                "type": "file",
+                "id": "1KI-8JNJT8QO2AQ30KMJps_9rYieH1KsP",
+                "mimeType": "application/octet-stream",
+                "size": "319"
+              },
+              {
+                "name": "GAME.DA_",
+                "type": "file",
+                "id": "1n76RS5wgmSt5UuAsCGXhhicglqtN7IQA",
+                "mimeType": "application/octet-stream",
+                "size": "159"
+              },
+              {
+                "name": "NETHELP.HL_",
+                "type": "file",
+                "id": "1N8FBUoe6UfpGc5gT9ehKas-uEOtNmgk0",
+                "mimeType": "application/octet-stream",
+                "size": "96088"
+              },
+              {
+                "name": "QP.QP_",
+                "type": "file",
+                "id": "1CtqmK1NkUwq_qJfi2tIYxW4gBPOIkJ_d",
+                "mimeType": "application/octet-stream",
+                "size": "253"
+              },
+              {
+                "name": "DAHELP.HL_",
+                "type": "file",
+                "id": "1aiR52XXBKT3qzrnzr-eaYi4WWF1LagHY",
+                "mimeType": "application/octet-stream",
+                "size": "43515"
+              },
+              {
+                "name": "MRP.EX_",
+                "type": "file",
+                "id": "1Y0Prnz3ESecHtAYmA5mIoVUn64iASxsO",
+                "mimeType": "application/octet-stream",
+                "size": "83128"
+              },
+              {
+                "name": "LPNORMAL.LP_",
+                "type": "file",
+                "id": "1-MiaCmTIylAbV8vqgF97T0xJN_ecxoSq",
+                "mimeType": "application/octet-stream",
+                "size": "201"
+              },
+              {
+                "name": "GRID.VB_",
+                "type": "file",
+                "id": "1XFf6sL0bso7P-6v87SRyi1HAnTKQysqm",
+                "mimeType": "application/octet-stream",
+                "size": "27658"
+              },
+              {
+                "name": "FLL.EX_",
+                "type": "file",
+                "id": "1h2FG8eRQ_C3LHgiqCC2fZNcg9YxRjtjB",
+                "mimeType": "application/octet-stream",
+                "size": "105932"
+              },
+              {
+                "name": "MAXFLOW.NE_",
+                "type": "file",
+                "id": "1pupq1Shd240V9G744pNAE0iu-aNdQPMw",
+                "mimeType": "application/octet-stream",
+                "size": "248"
+              },
+              {
+                "name": "ASA1.AS_",
+                "type": "file",
+                "id": "1dkyG17CmCzZr5wsKNlOqATgIr07JgQXV",
+                "mimeType": "application/octet-stream",
+                "size": "450"
+              },
+              {
+                "name": "NEWSBOY.IT_",
+                "type": "file",
+                "id": "1RWqM7rkMgpS18azkn6mfJYupgtzpqV_S",
+                "mimeType": "application/octet-stream",
+                "size": "340"
+              },
+              {
+                "name": "QSSGRAPH.QS_",
+                "type": "file",
+                "id": "1VIP3lTHamZ2pO_2dFwxP7_WesaW6mLJU",
+                "mimeType": "application/octet-stream",
+                "size": "515"
+              },
+              {
+                "name": "LINEREG.FC_",
+                "type": "file",
+                "id": "1SvG2g42WM6J02L_UmwMsy3n_xkJtruY-",
+                "mimeType": "application/octet-stream",
+                "size": "294"
+              },
+              {
+                "name": "SETUPQSB.EX_",
+                "type": "file",
+                "id": "1arH_LSWR-iSU1tvqwiWRB0O46MseTpui",
+                "mimeType": "application/octet-stream",
+                "size": "18813"
+              },
+              {
+                "name": "APSIMPLE.AP_",
+                "type": "file",
+                "id": "1ypvyp68yArLVPBlzurR64Bb7vEMd3dYa",
+                "mimeType": "application/octet-stream",
+                "size": "567"
+              },
+              {
+                "name": "ASA.EX_",
+                "type": "file",
+                "id": "1ycTWeAxeP72qgezjBUoJZYAnJ29r7vKm",
+                "mimeType": "application/octet-stream",
+                "size": "162456"
+              },
+              {
+                "name": "FLLHELP.HL_",
+                "type": "file",
+                "id": "1wpBJHrsXM-nPbi7FDCobmckbdOXrwgwd",
+                "mimeType": "application/octet-stream",
+                "size": "44273"
+              },
+              {
+                "name": "AP.EX_",
+                "type": "file",
+                "id": "1uS-KqNUMc1A7J7RBqzhjUwShY7Eko3JH",
+                "mimeType": "application/octet-stream",
+                "size": "102028"
+              },
+              {
+                "name": "APTRP.AP_",
+                "type": "file",
+                "id": "1Vl73SEEcySrpz-Goa2jEMezQUa4tvAOn",
+                "mimeType": "application/octet-stream",
+                "size": "378"
+              },
+              {
+                "name": "IQP.QP_",
+                "type": "file",
+                "id": "1O75NYYre0AY0zgzXHdqCeY5nvx0ViAGM",
+                "mimeType": "application/octet-stream",
+                "size": "249"
+              },
+              {
+                "name": "JOBSHOP.JO_",
+                "type": "file",
+                "id": "1V8u9vQ0X_0pAGUH4saCGG6PPblZCqsFP",
+                "mimeType": "application/octet-stream",
+                "size": "435"
+              },
+              {
+                "name": "APLP.AP_",
+                "type": "file",
+                "id": "1kdU-ujddBFpJbaDAuIM827GlouGeBK0m",
+                "mimeType": "application/octet-stream",
+                "size": "583"
+              },
+              {
+                "name": "QSB.MR_",
+                "type": "file",
+                "id": "1z7crssR8m6tfGYoB5r-xja8HyuobE52k",
+                "mimeType": "application/octet-stream",
+                "size": "654"
+              },
+              {
+                "name": "SALES.FC_",
+                "type": "file",
+                "id": "1Sov_ob5JoEYx9q4_UWnZOsDGsWbO2EQs",
+                "mimeType": "application/octet-stream",
+                "size": "214"
+              },
+              {
+                "name": "TRNSPORT.NE_",
+                "type": "file",
+                "id": "1keUJ9QPuWHm2auZ56Oqx2j-ni5u1MNNX",
+                "mimeType": "application/octet-stream",
+                "size": "237"
+              },
+              {
+                "name": "QSS1.QS_",
+                "type": "file",
+                "id": "1W2ziKqRJMyAcAF3rzrT1qYNIL-JARNiF",
+                "mimeType": "application/octet-stream",
+                "size": "378"
+              },
+              {
+                "name": "PERT.CP_",
+                "type": "file",
+                "id": "1kroLC98ek0B59RZOWZxlyhuHMZN7vOzn",
+                "mimeType": "application/octet-stream",
+                "size": "423"
+              },
+              {
+                "name": "ASAHELP.HL_",
+                "type": "file",
+                "id": "1M4Zykbs-uamBAvkbtwi_XvDTryoZmad3",
+                "mimeType": "application/octet-stream",
+                "size": "51304"
+              },
+              {
+                "name": "GRAPH.VB_",
+                "type": "file",
+                "id": "1Hb3icSkhL9UcIeIPCskgP9vbTmKddJ8v",
+                "mimeType": "application/octet-stream",
+                "size": "40938"
+              },
+              {
+                "name": "CPMGRAPH.CP_",
+                "type": "file",
+                "id": "1nUAlgvWQBNaHE6teVaWhQUSpWWhNAve6",
+                "mimeType": "application/octet-stream",
+                "size": "406"
+              },
+              {
+                "name": "ITSHELP.HL_",
+                "type": "file",
+                "id": "1tTYFgBtjI_6YQmMoO61ikpVl6B0neUzs",
+                "mimeType": "application/octet-stream",
+                "size": "58378"
+              },
+              {
+                "name": "QA.EX_",
+                "type": "file",
+                "id": "1rvEJUtFkeOFRJyc7zskr4jZURDPXf9mJ",
+                "mimeType": "application/octet-stream",
+                "size": "89971"
+              },
+              {
+                "name": "COMMDLG.DL_",
+                "type": "file",
+                "id": "1fdQfPgf2eMpSLzPjhOH8xtfs9gYFfWtm",
+                "mimeType": "application/octet-stream",
+                "size": "50924"
+              },
+              {
+                "name": "ILP.LP_",
+                "type": "file",
+                "id": "1kn_2hO7IvOTeEJvpFsEtZjhOs5K5DdnW",
+                "mimeType": "application/octet-stream",
+                "size": "197"
+              },
+              {
+                "name": "DP.EX_",
+                "type": "file",
+                "id": "1P-e2WjFe-cy8vsF5uR02kb2Sm4mJRGkU",
+                "mimeType": "application/octet-stream",
+                "size": "75337"
+              },
+              {
+                "name": "GSW.EX_",
+                "type": "file",
+                "id": "1gbMCi57i_I_seJmboiUy82M7tsxLe2Aq",
+                "mimeType": "application/octet-stream",
+                "size": "138927"
+              },
+              {
+                "name": "SHTPATH.NE_",
+                "type": "file",
+                "id": "1aYJB_RBCy4gjHI1wmfMLiEF6ZPdOPeAv",
+                "mimeType": "application/octet-stream",
+                "size": "287"
+              },
+              {
+                "name": "ASA2.AS_",
+                "type": "file",
+                "id": "1C4-Wi2u8Wt-Vuh7fCJGC9l_kwEuH0UIm",
+                "mimeType": "application/octet-stream",
+                "size": "499"
+              },
+              {
+                "name": "FC.EX_",
+                "type": "file",
+                "id": "1s72udmww5A9UBduIwlz-DNYuj8FpRy08",
+                "mimeType": "application/octet-stream",
+                "size": "95161"
+              },
+              {
+                "name": "GP-IGP.EX_",
+                "type": "file",
+                "id": "1rHoZqzNDbvaGkpuwOAGp5muT39Yyqhdz",
+                "mimeType": "application/octet-stream",
+                "size": "137210"
+              },
+              {
+                "name": "CRSS.IT_",
+                "type": "file",
+                "id": "1KED8saq_iWGvCvkITUANoTDw49BgVNkj",
+                "mimeType": "application/octet-stream",
+                "size": "389"
+              },
+              {
+                "name": "APHELP.HL_",
+                "type": "file",
+                "id": "1bzzXU5dEtzv4OM_WALosNBqk1xFD5ZoU",
+                "mimeType": "application/octet-stream",
+                "size": "46192"
+              },
+              {
+                "name": "QUEUE1.QA_",
+                "type": "file",
+                "id": "1v-TyE8H68kBltf4cZHvIWI2Pcwgt8Qn-",
+                "mimeType": "application/octet-stream",
+                "size": "295"
+              },
+              {
+                "name": "LP-ILP.EX_",
+                "type": "file",
+                "id": "1K4DMkQOGg4Aco5xeXxPz-p_5zse6QP9W",
+                "mimeType": "application/octet-stream",
+                "size": "131126"
+              },
+              {
+                "name": "LP.LP_",
+                "type": "file",
+                "id": "1UU8CPXiCU4BowcFS-F78cOZ0DJ3zBZxK",
+                "mimeType": "application/octet-stream",
+                "size": "197"
+              },
+              {
+                "name": "CPM.CP_",
+                "type": "file",
+                "id": "1jdMppWEAEyp274BE8kypIQw4Y-Qwa7nm",
+                "mimeType": "application/octet-stream",
+                "size": "400"
+              },
+              {
+                "name": "KNAPSACK.DP_",
+                "type": "file",
+                "id": "1yYp8mplaQom5uf9Y5Vvq1XKOMmoldWJN",
+                "mimeType": "application/octet-stream",
+                "size": "173"
+              },
+              {
+                "name": "MKP2.MK_",
+                "type": "file",
+                "id": "1N5FxtE5O-xSiNtpSRmOd9VvSJos4atjB",
+                "mimeType": "application/octet-stream",
+                "size": "173"
+              },
+              {
+                "name": "MRPHELP.HL_",
+                "type": "file",
+                "id": "15z5Dt4Q6NW1syOSHFVQAafrs_Ncomnx8",
+                "mimeType": "application/octet-stream",
+                "size": "54077"
+              },
+              {
+                "name": "LOCATION.FL_",
+                "type": "file",
+                "id": "1QESrY8Lzv2BubE3mQPbYzqKiYJnuhAom",
+                "mimeType": "application/octet-stream",
+                "size": "290"
+              },
+              {
+                "name": "GPHELP.HL_",
+                "type": "file",
+                "id": "1-dYNASgE8I3JKUDY23eaDPsjm2uKLm0h",
+                "mimeType": "application/octet-stream",
+                "size": "92625"
+              },
+              {
+                "name": "DPHELP.HL_",
+                "type": "file",
+                "id": "1M7a1woTP61VFd_w-iSAedjqCZ8Ku4f9s",
+                "mimeType": "application/octet-stream",
+                "size": "37157"
+              },
+              {
+                "name": "PERTGRPH.CP_",
+                "type": "file",
+                "id": "16HrYLNc_skDTWhnbwactga7LxEkzQs-d",
+                "mimeType": "application/octet-stream",
+                "size": "387"
+              },
+              {
+                "name": "VER.DL_",
+                "type": "file",
+                "id": "1RH0-Ot6X-9hlPFYfcr9XQSw56zaAH9Fh",
+                "mimeType": "application/octet-stream",
+                "size": "6307"
+              },
+              {
+                "name": "QP-IQP.EX_",
+                "type": "file",
+                "id": "1KhEA7BkDmiS4nNXpqrgbnkaL3ZU1MDEF",
+                "mimeType": "application/octet-stream",
+                "size": "133460"
+              },
+              {
+                "name": "NLP.EX_",
+                "type": "file",
+                "id": "1rQjj5hyJ-sVnBDfdqkkGS8xxaSNWBigW",
+                "mimeType": "application/octet-stream",
+                "size": "83777"
+              },
+              {
+                "name": "ITS.EX_",
+                "type": "file",
+                "id": "1vpDsXOwpzNpIfDl6H4VUDkGMa6oKdMPm",
+                "mimeType": "application/octet-stream",
+                "size": "143152"
+              },
+              {
+                "name": "QSS2.QS_",
+                "type": "file",
+                "id": "1lFVyhEfMF2PF_dKiQu1cAtgmRCXcgVWr",
+                "mimeType": "application/octet-stream",
+                "size": "370"
+              },
+              {
+                "name": "NLP2.NL_",
+                "type": "file",
+                "id": "1MeHb8VaP0DoVlxkP0aFhAICLKtjHbriy",
+                "mimeType": "application/octet-stream",
+                "size": "165"
+              },
+              {
+                "name": "BAYESIAN.DA_",
+                "type": "file",
+                "id": "1iHhMr8r7FgzoYHwP6f1cffNBISrGvsSf",
+                "mimeType": "application/octet-stream",
+                "size": "159"
+              },
+              {
+                "name": "QPNORMAL.QP_",
+                "type": "file",
+                "id": "1Zd5_0BoYt8cFnS6qXYnGEOoHgeiiPu_3",
+                "mimeType": "application/octet-stream",
+                "size": "240"
+              },
+              {
+                "name": "PARETO.QC_",
+                "type": "file",
+                "id": "1qEvwHAyYnKDQwqrelA2szUaH4GoOwWPQ",
+                "mimeType": "application/octet-stream",
+                "size": "681"
+              },
+              {
+                "name": "NLP3.NL_",
+                "type": "file",
+                "id": "1ExV_HcM0OtD_Twv5U_Tzj0R9LGB6z5XU",
+                "mimeType": "application/octet-stream",
+                "size": "170"
+              },
+              {
+                "name": "VBRUN300.DL_",
+                "type": "file",
+                "id": "1bE0x2na9h0gNPhlTwA3fneYiDA151cDB",
+                "mimeType": "application/octet-stream",
+                "size": "276684"
+              },
+              {
+                "name": "LOTSIZE.IT_",
+                "type": "file",
+                "id": "1vIxVKUAy0KUhJCA6dfY50RmPgRnAbEyK",
+                "mimeType": "application/octet-stream",
+                "size": "177"
+              },
+              {
+                "name": "SETUP.EXE",
+                "type": "file",
+                "id": "1pUipJER7qdmwZEYmv9SpmPxC4PAvU6m0",
+                "mimeType": "application/x-dosexec",
+                "size": "15312"
+              },
+              {
+                "name": "PAYOFF.DA_",
+                "type": "file",
+                "id": "1CkbcI25fsXv53qXnLwdguhH_rhZK34_w",
+                "mimeType": "application/octet-stream",
+                "size": "239"
+              },
+              {
+                "name": "CRSQ.IT_",
+                "type": "file",
+                "id": "1lW0306R5EW8y8uP7nIIpUN6WfglXHNq8",
+                "mimeType": "application/octet-stream",
+                "size": "376"
+              },
+              {
+                "name": "TSP.NE_",
+                "type": "file",
+                "id": "1CGd1O8spKUgOyrpwr_2pDexqcglPWRSg",
+                "mimeType": "application/octet-stream",
+                "size": "257"
+              },
+              {
+                "name": "QSS.EX_",
+                "type": "file",
+                "id": "1aT10R-v38zLLCI8eTDIIsMlZndrkRY05",
+                "mimeType": "application/octet-stream",
+                "size": "117310"
+              },
+              {
+                "name": "SETUP.LST",
+                "type": "file",
+                "id": "10O0xwvW-zwSTsrKKGwN9ifNtg0PgTLQJ",
+                "mimeType": "application/octet-stream",
+                "size": "42"
+              },
+              {
+                "name": "PRRSS.IT_",
+                "type": "file",
+                "id": "1NcZOSM4Fh2gk09Y6xiuEP5UxM1014hby",
+                "mimeType": "application/octet-stream",
+                "size": "387"
+              },
+              {
+                "name": "LPHELP.HL_",
+                "type": "file",
+                "id": "1kMskPYFXx-B5K_THP4iiGKiMTbRER5QR",
+                "mimeType": "application/octet-stream",
+                "size": "90819"
+              },
+              {
+                "name": "DA.EX_",
+                "type": "file",
+                "id": "16xLHZsdYj29BmqQZWFOeBmzYgoNBYR80",
+                "mimeType": "application/octet-stream",
+                "size": "93515"
+              },
+              {
+                "name": "GP.GP_",
+                "type": "file",
+                "id": "1cE6B6d_cdPwbu2Jo7S2TMRE4i5nmIpRN",
+                "mimeType": "application/octet-stream",
+                "size": "241"
+              },
+              {
+                "name": "GPNORMAL.GP_",
+                "type": "file",
+                "id": "1eSeUEVpngNCMFY28HirL6rg3Yc_f3ZPq",
+                "mimeType": "application/octet-stream",
+                "size": "243"
+              },
+              {
+                "name": "STAGE.DP_",
+                "type": "file",
+                "id": "17SSkULBjuRIPuc50G4Y3_89KuGa0XCt0",
+                "mimeType": "application/octet-stream",
+                "size": "183"
+              },
+              {
+                "name": "PROBPLOT.QC_",
+                "type": "file",
+                "id": "1W29RePCtFE0FRdapBgGBDtuZDs7QMTIH",
+                "mimeType": "application/octet-stream",
+                "size": "683"
+              },
+              {
+                "name": "PERT-CPM.EX_",
+                "type": "file",
+                "id": "1JXGLoLrga4pTqBTtBMAsECbFhg5g61mo",
+                "mimeType": "application/octet-stream",
+                "size": "134629"
+              },
+              {
+                "name": "QAHELP.HL_",
+                "type": "file",
+                "id": "1oCOHuDhkVeffUpfrcCBNmbpV56gS5OUq",
+                "mimeType": "application/octet-stream",
+                "size": "73404"
+              },
+              {
+                "name": "ASSIMENT.NE_",
+                "type": "file",
+                "id": "1XcIfv2-Oq-k2QdZLeaimq5C3t2KwM1WZ",
+                "mimeType": "application/octet-stream",
+                "size": "200"
+              }
+            ]
+          },
+          {
+            "name": "EP",
+            "type": "folder",
+            "id": "1pkNueKssXofc97gIFiJ-AxyGZiPOTFMq",
+            "children": [
+              {
+                "name": "SI601V_EP_24-1.pdf",
+                "type": "file",
+                "id": "1jTazHD37W_JjVmviFDxr0gviMqY9b2y-",
+                "mimeType": "application/pdf",
+                "size": "191787"
+              },
+              {
+                "name": "SI601U_EP_21-2_+_Solución.pdf",
+                "type": "file",
+                "id": "1l8Ze1Kvl4pn27BRe891uGLtPSRyBd-XY",
+                "mimeType": "application/pdf",
+                "size": "1470477"
+              },
+              {
+                "name": "SI601V_EP_23-2.pdf",
+                "type": "file",
+                "id": "1Qu0vESgW7rhkwGLZT1yAJ05-vKlDjQUQ",
+                "mimeType": "application/pdf",
+                "size": "253599"
+              },
+              {
+                "name": "SI601V_EP_23-1.pdf",
+                "type": "file",
+                "id": "1uMVq-UKUCGxZtGmgRKglh3YENOrH5lsy",
+                "mimeType": "application/pdf",
+                "size": "248798"
+              },
+              {
+                "name": "SI601V_EP_20-1.pdf",
+                "type": "file",
+                "id": "1fJ9srksOEmr7PTg8OWhzJiYzRnVZsF7f",
+                "mimeType": "application/pdf",
+                "size": "88612"
+              }
+            ]
+          },
+          {
+            "name": "PC3",
+            "type": "folder",
+            "id": "1MWF0xUY7XlcGhagqLX8bQi3RmcRe-dO4",
+            "children": [
+              {
+                "name": "SI601V_PC3_23-1.pdf",
+                "type": "file",
+                "id": "1NHJuRmdQdzA1tqI8r1IHR2tEJc3oulcV",
+                "mimeType": "application/pdf",
+                "size": "264162"
+              },
+              {
+                "name": "SI601V_PC3_24-1.pdf",
+                "type": "file",
+                "id": "1vPMEko4m0NRf2PUctm6q_8XzK_vdMyP9",
+                "mimeType": "application/pdf",
+                "size": "164187"
+              },
+              {
+                "name": "SI601V_PC3_23-2.pdf",
+                "type": "file",
+                "id": "1jzWxJV70M8CR6XscgtzDUQbjLThk7Vx8",
+                "mimeType": "application/pdf",
+                "size": "257484"
+              }
+            ]
+          },
+          {
+            "name": "ES",
+            "type": "folder",
+            "id": "1FPLGO_7Gbojeyt-NXuei0w0x4yp5q9mA",
+            "children": [
+              {
+                "name": "SI601V_ES_24-1.pdf",
+                "type": "file",
+                "id": "1n5-fKZnZlbhZYMSaaWIZTZ7GD86Fj2IN",
+                "mimeType": "application/pdf",
+                "size": "170307"
+              },
+              {
+                "name": "SI601V_ES_23-1.pdf",
+                "type": "file",
+                "id": "1D3uOXWRw_ntwzufGrOqWryCJq84k7mQj",
+                "mimeType": "application/pdf",
+                "size": "319382"
+              }
+            ]
+          },
+          {
+            "name": "PC1",
+            "type": "folder",
+            "id": "1jZk0RLU-yEgzNQlvKwV62Ml8un0irXkp",
+            "children": [
+              {
+                "name": "SI601V_PC1_24-1.pdf",
+                "type": "file",
+                "id": "16Js6XeCuUc1M60udeBpVb-JdV0EucHHo",
+                "mimeType": "application/pdf",
+                "size": "196973"
+              },
+              {
+                "name": "SI601V_PC1_23-1.pdf",
+                "type": "file",
+                "id": "16Zwr5NLsh3Q7-QalGx9sI2temPpzDKfw",
+                "mimeType": "application/pdf",
+                "size": "440074"
+              },
+              {
+                "name": "SI601V_PC1_23-2.pdf",
+                "type": "file",
+                "id": "14Wfuzjx0aovMas-C7MLujcSpN8ysKJUp",
+                "mimeType": "application/pdf",
+                "size": "301825"
+              }
+            ]
+          },
+          {
+            "name": "PC4",
+            "type": "folder",
+            "id": "1kF37bbsqz_ZJXQzMZ_cUnR6CPYo1-Sxp",
+            "children": [
+              {
+                "name": "SI601V_PC4_24-1.pdf",
+                "type": "file",
+                "id": "1Xf6hEyoqjQSbC3UgVdjVu2vMzkCHSJTk",
+                "mimeType": "application/pdf",
+                "size": "152770"
+              },
+              {
+                "name": "SI601V_PC4_23-1.pdf",
+                "type": "file",
+                "id": "1AZUhCM3-mEeqKx7BKh6Pd0DiUnXMahFk",
+                "mimeType": "application/pdf",
+                "size": "190269"
+              },
+              {
+                "name": "SI601V_PC4_23-2.pdf",
+                "type": "file",
+                "id": "1RRgAR1b1j5nfXkW2zVxLs2FMc746zsJP",
+                "mimeType": "application/pdf",
+                "size": "227287"
+              }
+            ]
+          },
+          {
+            "name": "EF",
+            "type": "folder",
+            "id": "1aGId0lOrAz_0agvO7sxOVE2_QOIsYQm5",
+            "children": [
+              {
+                "name": "SI601V_EF_21-2.pdf",
+                "type": "file",
+                "id": "1W5fWhtUIEmMgaEPrretH871Gk0_FRtV7",
+                "mimeType": "application/pdf",
+                "size": "451477"
+              },
+              {
+                "name": "SI601V_EF_22-1.pdf",
+                "type": "file",
+                "id": "1Vn3o6zqAqfCheA2lgu3PUFzf1bUO4ZPJ",
+                "mimeType": "application/pdf",
+                "size": "249735"
+              },
+              {
+                "name": "SI601V_EF_24-1.pdf",
+                "type": "file",
+                "id": "1-fwSGz8UFZ2gfxHfYvkfw_gP6NhlRrHg",
+                "mimeType": "application/pdf",
+                "size": "152010"
+              },
+              {
+                "name": "SI601V_EF_23-1.pdf",
+                "type": "file",
+                "id": "1gczd_AjDICkGS-BxXuGbbnnD77UVBj1m",
+                "mimeType": "application/pdf",
+                "size": "317416"
+              },
+              {
+                "name": "SI601V_EF_23-2.pdf",
+                "type": "file",
+                "id": "1lv5k5PNRj0mPNs4rOAy72IS8he0UMb5V",
+                "mimeType": "application/pdf",
+                "size": "228452"
+              }
+            ]
+          },
+          {
+            "name": "PC2",
+            "type": "folder",
+            "id": "1ni0LIOV1YYaTH5ELbV5XugxS0Hb2hpPy",
+            "children": [
+              {
+                "name": "SI601V_PC2_23-1.pdf",
+                "type": "file",
+                "id": "1fGZnGmFuPk9pbOI3g8QREuTwPcT14xT3",
+                "mimeType": "application/pdf",
+                "size": "524091"
+              },
+              {
+                "name": "SI601V_PC2_24-1.pdf",
+                "type": "file",
+                "id": "1SipGW71yZYdOKgDmbGZwY00nzjub1TWl",
+                "mimeType": "application/pdf",
+                "size": "270077"
+              },
+              {
+                "name": "SI601V_PC2_23-2.pdf",
+                "type": "file",
+                "id": "1VyB6qda6VVL43OYntZKI-q6RNT_6eSCE",
+                "mimeType": "application/pdf",
+                "size": "476172"
+              },
+              {
+                "name": "SI601V_PC2_20-1.pdf",
+                "type": "file",
+                "id": "1quUJ0VFB1qgqT2V2wtPxrn_NSWAei5oM",
+                "mimeType": "application/pdf",
+                "size": "72583"
+              }
+            ]
+          },
+          {
+            "name": "Ruta_más_corta.pdf",
+            "type": "file",
+            "id": "1VVneXsdjM3SYVU-lqLnAyclkrcA6UXYI",
+            "mimeType": "application/pdf",
+            "size": "344086"
+          },
+          {
+            "name": "cpm,_PERT,_costos.pdf",
+            "type": "file",
+            "id": "1oip38Li7iUCQ9_i8f0tIdMoBcqW85M5W",
+            "mimeType": "application/pdf",
+            "size": "280660"
+          },
+          {
+            "name": "Flujo_máximo_y_minimo.pdf",
+            "type": "file",
+            "id": "1ffG_7hTR734ewLTRPf-9TPmd5TcA-gZy",
+            "mimeType": "application/pdf",
+            "size": "371763"
+          }
+        ]
+      },
+      {
+        "name": "MEDINA",
+        "type": "folder",
+        "id": "1sPfP4xQYbNIN5AQNMI-t9V_gQinypfEV",
+        "children": [
+          {
+            "name": "PC3",
+            "type": "folder",
+            "id": "1ByaupLO1OlIAzlWcHmHzanh_Ym6WMdG8",
+            "children": [
+              {
+                "name": "RAMOS_RAMOS_ANTHONY_JOSEPH_-_Práctica_N°3_IO2.xlsx",
+                "type": "file",
+                "id": "1Wiwze6Q18Z4HOjuzvZ4Rgst0AP9bVYxX",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "1096969"
+              },
+              {
+                "name": "PRACTICA_CALIFICADA_N°_3_SI-601_Y_2020-2.docx",
+                "type": "file",
+                "id": "19C3D92mnnVCFiwg3cbBZEKiMR4StL9jR",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "23622"
+              }
+            ]
+          },
+          {
+            "name": "PC2",
+            "type": "folder",
+            "id": "1Ayk251uw4R8NFd6hUcNyDjeQzdai1r_C",
+            "children": [
+              {
+                "name": "PRACTICA_CALIFICADA_N°_2_SI-601_Y_2020_-_II_SOLUCION.xlsx",
+                "type": "file",
+                "id": "1n1zv5LgX17otyh5rq8JBxxhtkLARcolH",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "116018"
+              },
+              {
+                "name": "PRACTICA_N°_2_SI601_W_2022-I_SO9LUCIÓN.xlsx",
+                "type": "file",
+                "id": "1AujGIZSgjd7vJCdKmoc5-V1jc4uOIQWy",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "131043"
+              },
+              {
+                "name": "PRACTICA_CALIFICADA_N°_2_SI-601_Y_2020-2.docx",
+                "type": "file",
+                "id": "1LeW_9jJMeJT85775z4AGSB5mp1Y3xMDK",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "99770"
+              }
+            ]
+          },
+          {
+            "name": "PC4",
+            "type": "folder",
+            "id": "1KUkxLGCRANUFa71X6T5oi95XEhplOI1t",
+            "children": []
+          },
+          {
+            "name": "PC1",
+            "type": "folder",
+            "id": "1rM63cK9vwn2UiWnsKa2qgPP8h8OOXXdX",
+            "children": [
+              {
+                "name": "PRACTICA_CALIFICA_N°1_SOLUCIÓN.pdf",
+                "type": "file",
+                "id": "1FZOF693YKuI4UAh_isuZ_nvqYC9lN9fD",
+                "mimeType": "application/pdf",
+                "size": "266524"
+              },
+              {
+                "name": "Práctica_N°1_IO2_2020-1_solucionada.xlsx",
+                "type": "file",
+                "id": "1Bw7DFrTQcnh0BqIqCrB4chk2EyoYsEt5",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "1087398"
+              },
+              {
+                "name": "PRACTICA_N°_1_SI601_W_2022-I_SOLUCION.xlsx",
+                "type": "file",
+                "id": "1pI6iPGEhr1oI8FYVKDRBgXVNYjUXX1Im",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "90407"
+              },
+              {
+                "name": "PRACTICA_CALIFICADA_N°_1_SI-601_Y_2020_-_II_SOLUCION.xlsx",
+                "type": "file",
+                "id": "1a_clTbvtbBiAOLC2G5IstBPKm6ATljvs",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "177815"
+              },
+              {
+                "name": "PC1_Solución_20-1.pdf",
+                "type": "file",
+                "id": "1bgKjEBZ-Hfhh20E0KXFjFcjFAKfbCfyr",
+                "mimeType": "application/pdf",
+                "size": "510339"
+              },
+              {
+                "name": "PC1_24-1.pdf",
+                "type": "file",
+                "id": "1jOtTRtz2_mbEDD2uYFE0LQaONJvmBxPF",
+                "mimeType": "application/pdf",
+                "size": "780810"
+              }
+            ]
+          },
+          {
+            "name": "ES",
+            "type": "folder",
+            "id": "1JPVTJabD5mRStW0DtNab1oHUQLfDV99X",
+            "children": [
+              {
+                "name": "Examen_Sustitutorio_SI601_W_2024-II.docx",
+                "type": "file",
+                "id": "1CeZGShHGQpobslIdv-V70RUs0I_Q33-k",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "25316"
+              },
+              {
+                "name": "SOLUCION_ES_SI601_W_2024-II.xlsx",
+                "type": "file",
+                "id": "10NaKNMKXuzV54DWMupnTRZFunBbeTUAn",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "95289"
+              }
+            ]
+          },
+          {
+            "name": "EF",
+            "type": "folder",
+            "id": "11EJcxZ4oYf6la3ASpGoPNL9a-7M0RIxX",
+            "children": [
+              {
+                "name": "SOLUCION_EF_SI601_W_2024-II.xlsx",
+                "type": "file",
+                "id": "1BZP0JovtiIz2og-wm1K1P2zCRAauenIt",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "96838"
+              },
+              {
+                "name": "Examen_Final_SI601_W_2024-II.docx",
+                "type": "file",
+                "id": "1lPghdviGR7D8TjjPVvi13rsxN0dXS4wl",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "24140"
+              }
+            ]
+          },
+          {
+            "name": "EP",
+            "type": "folder",
+            "id": "1N2Xgbu888ys9KnlhmlALqjUSFPNNbXkx",
+            "children": [
+              {
+                "name": "EXAMEN_PARCIAL_SI-601_Y_2020-2.docx",
+                "type": "file",
+                "id": "13HPGc0jzRndYWR1RJPHRGISyZ2AkiuEZ",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "40008"
+              },
+              {
+                "name": "SOLUCION_EP_SI601_W_2024-II.xlsx",
+                "type": "file",
+                "id": "1J6zuuJXDjxYZHrDvTGnpvh0aQEkxnW33",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "148331"
+              },
+              {
+                "name": "EXAMEN_PARCIAL_SI-601_W_2022_-_I_SOLUCIÓN.xlsx",
+                "type": "file",
+                "id": "1DeRl3p1y7pMO6axQH8tlLZ444zRNRXZ5",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "91593"
+              },
+              {
+                "name": "EXAMEN_PARCIAL_SI-601_Y_2020_-_II_SOLUCIÓN.xlsx",
+                "type": "file",
+                "id": "1wBEE0aZ82o-qC-XFRV9jOqYsrZgMqinF",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "114653"
+              },
+              {
+                "name": "SOLUCION_EXAMEN_PARCIAL_2020-I_(1).xls",
+                "type": "file",
+                "id": "1EgydTzfYYoXakE1UJ_8AN6U3iXVC42QY",
+                "mimeType": "application/vnd.ms-excel",
+                "size": "1027072"
+              },
+              {
+                "name": "Examen_Parcial_SI601_W_2024-II.docx",
+                "type": "file",
+                "id": "1f_S-kcV8BPf3FEB3HHCGvdVXxiDSQXlX",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "73121"
+              }
+            ]
+          },
+          {
+            "name": "Para_Teoria_de_Cola.xlsx",
+            "type": "file",
+            "id": "1qZg2XEQr-CS3pKMCzrSs0DmSJOph012D",
+            "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "size": "290216"
+          },
+          {
+            "name": "EXAMENES_Y_PRACTICAS_IO2_22-1.xlsx",
+            "type": "file",
+            "id": "1rzOuwlkONP46KyAVJwhbUi-5gKZxXeEo",
+            "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "size": "1295537"
+          },
+          {
+            "name": "EXÁMENES_Y_PRACTICAS_IO2_22-2.xlsx",
+            "type": "file",
+            "id": "1vQhmTzy4guD7FFXE0rJy8zO2th0Arq1h",
+            "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "size": "2524081"
+          },
+          {
+            "name": "EXAMENES_Y_PRACTICAS_IO2_20-2.xlsx",
+            "type": "file",
+            "id": "1BZwUw0gES6touipJYGBup66Rc_978EOW",
+            "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "size": "657082"
+          },
+          {
+            "name": "EXAMENES_Y_PRACTICAS_IO2_21-2.xlsx",
+            "type": "file",
+            "id": "12_haQhDUQ4A9gp_5r8OR_rc9_G-KGLid",
+            "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "size": "1184380"
+          },
+          {
+            "name": "Drive_Medina_pre_pandemia.url",
+            "type": "file",
+            "id": "10Li2ja7o3hVnkXxtpF8TbYHGHF9cYvei",
+            "mimeType": "text/x-url",
+            "size": "111"
+          },
+          {
+            "name": "Ciclo_23-2.url",
+            "type": "file",
+            "id": "1hpgN4rg08zjuy5jW8GLQRhUmUD8iu3pC",
+            "mimeType": "text/x-url",
+            "size": "146"
+          },
+          {
+            "name": "Teoría_Medina_IO1.pdf",
+            "type": "file",
+            "id": "1_TtUzlQPaZKkyd1HPGD-J4DiQ2QxpPlJ",
+            "mimeType": "application/pdf",
+            "size": "10910949"
+          }
+        ]
+      }
+    ]
+  }
+}

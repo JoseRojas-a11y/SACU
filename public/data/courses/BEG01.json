@@ -1,0 +1,1235 @@
+{
+  "course_id": "BEG01",
+  "course_name": "Economía_general",
+  "id": "1ChbvBElvSEyuYtmbVixwgpageShY8pID",
+  "scanned_at": "2026-08-07T00:15:06.910822+00:00",
+  "tree": {
+    "name": "Economía_general",
+    "type": "folder",
+    "id": "1ChbvBElvSEyuYtmbVixwgpageShY8pID",
+    "children": [
+      {
+        "name": "TEORÍA",
+        "type": "folder",
+        "id": "1_z9908f_Yp9G2ZA0IQcQNIpBS-LvdNBR",
+        "children": [
+          {
+            "name": "PALACIOS",
+            "type": "folder",
+            "id": "1IzmxMjUIVp9uq3vmbplpRIi5S0i0LABF",
+            "children": [
+              {
+                "name": "SEMANA_16",
+                "type": "folder",
+                "id": "1ZPxw-tx-msdN76gaxcMvazTL8OBGy6oR",
+                "children": []
+              },
+              {
+                "name": "SEMANA_15",
+                "type": "folder",
+                "id": "1srGKfQD1wjGPkKVjyrSzDQiybcGT_ilz",
+                "children": [
+                  {
+                    "name": "PD_5_y_solucionario_Balanza_de_Pagos_2002-2013_2da_parte_.pdf",
+                    "type": "file",
+                    "id": "1YJAgUvnTHNVsxwbBIi5NUSc5Rx1TNDnX",
+                    "mimeType": "application/pdf",
+                    "size": "71620"
+                  },
+                  {
+                    "name": "Práctica_Dir_Balanza_de_pagos_1a_parte_.pdf",
+                    "type": "file",
+                    "id": "1ugsDbpmFcEyhoPDQ7FgeIW0Zxkl15fYE",
+                    "mimeType": "application/pdf",
+                    "size": "318858"
+                  },
+                  {
+                    "name": "7._Arancel_2025_2_.pdf",
+                    "type": "file",
+                    "id": "1aWfn1uDX2RXysBVdpvLruPJd1v5k7DjE",
+                    "mimeType": "application/pdf",
+                    "size": "1140955"
+                  },
+                  {
+                    "name": "7._Arancel_contexto_internacional_2025_2.pdf",
+                    "type": "file",
+                    "id": "1IvGXQkCaT95uEOycJiCEXvrHf1DR9W91",
+                    "mimeType": "application/pdf",
+                    "size": "202548"
+                  },
+                  {
+                    "name": "Pract_Dirig_EG_11_Aranceles_con_solucionario.pdf",
+                    "type": "file",
+                    "id": "1QWlWfzh34BhtIF0S7HojG6NL8UDbj5VD",
+                    "mimeType": "application/pdf",
+                    "size": "324872"
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_14",
+                "type": "folder",
+                "id": "13mMrjq2G27r4p9oRulzbTDgoVlumLCOW",
+                "children": []
+              },
+              {
+                "name": "SEMANA_13",
+                "type": "folder",
+                "id": "19gKZgd1MCysTnqJnm1rPhoMY5-BymPvy",
+                "children": [
+                  {
+                    "name": "Práctica_Dirigida_Crec_a_lgo_pzo_con_solucionario_2025_2.pdf",
+                    "type": "file",
+                    "id": "1CvfSY5gRvon-hqA9ymYQ-GpZbapASK5b",
+                    "mimeType": "application/pdf",
+                    "size": "411117"
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_12",
+                "type": "folder",
+                "id": "14_LBNaNo6HJCqjd75ixyFTWPiuJ6qbNV",
+                "children": [
+                  {
+                    "name": "Balanza_de_Pagos_2025_2.pdf",
+                    "type": "file",
+                    "id": "1WaQlYZ72huK_iuftfh69KiHpgIZ8_Q-g",
+                    "mimeType": "application/pdf",
+                    "size": "829793"
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_11",
+                "type": "folder",
+                "id": "1Vrm4d0YxFmJ07507y1l_ejIX2cYerfcH",
+                "children": [
+                  {
+                    "name": "Práctica_Dirigida_7_y_solucionario_monopolio_2025_2.pdf",
+                    "type": "file",
+                    "id": "1txI5ekLFamgZvr_r39zk8RIupcT4PUOG",
+                    "mimeType": "application/pdf",
+                    "size": "445805"
+                  },
+                  {
+                    "name": "Diap_crec_y_prog_tecn_2025_2.pptx",
+                    "type": "file",
+                    "id": "12uNMOdJr7fkTvJM8qdCsueHsci6j8hH6",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "3188497"
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_10",
+                "type": "folder",
+                "id": "110DphQ0h-HxI2tGu2SOZAjNd9-wVLzFX",
+                "children": [
+                  {
+                    "name": "PRÁCTICA_DIRIGIDA_PBI_2025_2_.pdf",
+                    "type": "file",
+                    "id": "1zC8W5akB3Ya_QaOiyZp6mRbReDMIK6Sy",
+                    "mimeType": "application/pdf",
+                    "size": "227750"
+                  },
+                  {
+                    "name": "8.2_PBI,_Tabla_de_IP_2025_2.pptx",
+                    "type": "file",
+                    "id": "1gZ9QLEdF4-LZPjdzaipO6fl-BRyPoAW2",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "2357272"
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_9",
+                "type": "folder",
+                "id": "14ng7d5hzaCiAPqIEZiTq4Jpb11fxDOK6",
+                "children": [
+                  {
+                    "name": "6.2_monopolio_2025_2.pdf",
+                    "type": "file",
+                    "id": "1fKIh6-Xs9kAZBNOwJ3SuH1lVRgc7VJlU",
+                    "mimeType": "application/pdf",
+                    "size": "1590798"
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_7",
+                "type": "folder",
+                "id": "1ASu-E8TBpgM5i5UuQ0fqnfZFiyZaHb5j",
+                "children": [
+                  {
+                    "name": "Práctica_Dirigida_y_solucionario_Competencia_perfecta_2025_2.pdf",
+                    "type": "file",
+                    "id": "1IW8k41wn4pCsucfrjbnhpfqngcAPgzjU",
+                    "mimeType": "application/pdf",
+                    "size": "268673"
+                  },
+                  {
+                    "name": "6.1_competencia_perfecta.pptx",
+                    "type": "file",
+                    "id": "1xhK8EgpC65grXdYqe_ijuOGPN3c9kAfN",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "1095577"
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_6",
+                "type": "folder",
+                "id": "1BbxAqGhngd7mc0_NV5mqcHDywToCVW-j",
+                "children": [
+                  {
+                    "name": "PD_y_solucionario_exc_del_prod_y_consum_2025_2.pdf",
+                    "type": "file",
+                    "id": "1N9EVw4CGIA22CiNzEgjtwLb9gY-0A8z_",
+                    "mimeType": "application/pdf",
+                    "size": "272763"
+                  },
+                  {
+                    "name": "3_Excedente_consumidor_productor_2025_2.pptx",
+                    "type": "file",
+                    "id": "1tDUhyuOKONsxFBvgd3GgYgIjZ3Wlx-jp",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "601606"
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_5",
+                "type": "folder",
+                "id": "1-YeYIxxH246pSI1HmM30rs30UEfQj0Ik",
+                "children": [
+                  {
+                    "name": "Práctica_dirigida_3_y_solucionario_Elasticidad_2025_1.pdf",
+                    "type": "file",
+                    "id": "1hKd_kkp07IkJcgmqr5ZXN1M2u107chAw",
+                    "mimeType": "application/pdf",
+                    "size": "430131"
+                  },
+                  {
+                    "name": "Práctica_dirigida_3_Elasticidad_2025_2.pdf",
+                    "type": "file",
+                    "id": "1MMsyxJoEz0wMloPEz2PuAl1kQHPPFK_S",
+                    "mimeType": "application/pdf",
+                    "size": "147795"
+                  },
+                  {
+                    "name": "4_ELASTICIDAD_2025_2.pdf",
+                    "type": "file",
+                    "id": "1a3UNQBqUhVVZ5L8u31XmgvMvUfYauWNf",
+                    "mimeType": "application/pdf",
+                    "size": "737366"
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_4",
+                "type": "folder",
+                "id": "1aMLxpcENOrtXj2R2LGwPxS_fwnLeHy-E",
+                "children": [
+                  {
+                    "name": "Práctica_dirigida_2_of_y_dem_con_solucionario.pdf",
+                    "type": "file",
+                    "id": "1jxtSzlpOdsBeXqtk35JpcprMGoFUbojg",
+                    "mimeType": "application/pdf",
+                    "size": "618883"
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_3",
+                "type": "folder",
+                "id": "1cFQCnGLGe2hW3cC62vjveF0aEB73uvOq",
+                "children": [
+                  {
+                    "name": "PRÁCTICA_DIRIGIDA_1_ECONOMÍA_GENERAL_FIIS_ok.pdf",
+                    "type": "file",
+                    "id": "1iHK0mivxzyoaCc69w1D9Kat3DCBxE3xK",
+                    "mimeType": "application/pdf",
+                    "size": "256216"
+                  },
+                  {
+                    "name": "Diap_of_y_dem_2025_2_.pdf",
+                    "type": "file",
+                    "id": "1vL01ooITB_j0fWKSbYjz7XxziGLWtgZP",
+                    "mimeType": "application/pdf",
+                    "size": "1111992"
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_2",
+                "type": "folder",
+                "id": "1DriQ_icX0aLoFZ6F6D0_e3ILtl4Tx_ey",
+                "children": [
+                  {
+                    "name": "Problemas_BEG01_FPP_2025_2.pdf",
+                    "type": "file",
+                    "id": "1j1_Aq3klH0mCGUJsinEPVEonDWBTiyGB",
+                    "mimeType": "application/pdf",
+                    "size": "473049"
+                  },
+                  {
+                    "name": "2_modelos_económicos._Frontera_dd_PP_y_VC_okok.pdf",
+                    "type": "file",
+                    "id": "1O8xb9Z7Y-Yj6vdPE6-lg9NpjHQ7Pp25y",
+                    "mimeType": "application/pdf",
+                    "size": "555807"
+                  }
+                ]
+              },
+              {
+                "name": "SEMANA_1",
+                "type": "folder",
+                "id": "1sR3ynrB7ircs1_Ff-wTNE8FFBEcWqP6L",
+                "children": [
+                  {
+                    "name": "7._Crisis_(ilustraciones).pdf",
+                    "type": "file",
+                    "id": "1jAiUDYnonsbKX5bqCnJ8z9SOp8WVKrL0",
+                    "mimeType": "application/pdf",
+                    "size": "468452"
+                  },
+                  {
+                    "name": "6._Inflación_(ilustraciones_y_actualización).pdf",
+                    "type": "file",
+                    "id": "1-HGw_S03JCEMDUTzsCY5pGxan81LG7cA",
+                    "mimeType": "application/pdf",
+                    "size": "164121"
+                  },
+                  {
+                    "name": "5._Aranceles_(ilustraciones_y_actualización).pdf",
+                    "type": "file",
+                    "id": "15Tt-c_-FBq-RfTWzV9kvcGtMR3vr7_GQ",
+                    "mimeType": "application/pdf",
+                    "size": "542588"
+                  },
+                  {
+                    "name": "4._Notas_sobre_el_capital_monopolista._Quinto.pdf",
+                    "type": "file",
+                    "id": "18W3bzNtNBtAtzdDFcTakCLRLrZS4r0qB",
+                    "mimeType": "application/pdf",
+                    "size": "1062386"
+                  },
+                  {
+                    "name": "3._Competencia_perfecta_(ilustraciones,_actualización)_pp_5-9.pdf",
+                    "type": "file",
+                    "id": "1v5wx2QHZRrynP_L7FZhT_iikGq9RYL9y",
+                    "mimeType": "application/pdf",
+                    "size": "3927276"
+                  },
+                  {
+                    "name": "2._Lecturas_hasta_elasticidad_pp_13-24idad.pdf",
+                    "type": "file",
+                    "id": "1Qm0J7H74_8qN4SZqZnLqm7fQj3ZKkIaa",
+                    "mimeType": "application/pdf",
+                    "size": "6446791"
+                  },
+                  {
+                    "name": "1._Mercancía_El_Capital._Marx_hasta_la_página_76.pdf",
+                    "type": "file",
+                    "id": "1viq5Op-DOjXi1fijZO90mg5fLKxvGk3T",
+                    "mimeType": "application/pdf",
+                    "size": "568038"
+                  },
+                  {
+                    "name": "1_b_Economía-concepto.pdf",
+                    "type": "file",
+                    "id": "1YhrqnkNjXvr0bOl9jygvY75JcUghU7OS",
+                    "mimeType": "application/pdf",
+                    "size": "156125"
+                  },
+                  {
+                    "name": "2_a_Inicio._Bien_o_mercancía_Expos.pdf",
+                    "type": "file",
+                    "id": "1fy7hq0D3g_oM_kijwsykI2o1fYk4PCsw",
+                    "mimeType": "application/pdf",
+                    "size": "127005"
+                  },
+                  {
+                    "name": "2_b_Marx._La_mercancía.pdf",
+                    "type": "file",
+                    "id": "1UMWPSPk2efmNeCL3ViCGvqu4Lxbay2qY",
+                    "mimeType": "application/pdf",
+                    "size": "85934"
+                  },
+                  {
+                    "name": "1_a_Ambito_científico.pdf",
+                    "type": "file",
+                    "id": "1bwlndkSm_vgkDhSnZkn7zHOZ3wT1TPwZ",
+                    "mimeType": "application/pdf",
+                    "size": "170477"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "SEMANA_1",
+            "type": "folder",
+            "id": "1vV19CDFyOGoHSF-0fVPYKN5qVOPUp_uZ",
+            "children": [
+              {
+                "name": "Lectura_Pensamiento_económico_de_Keynes.pdf",
+                "type": "file",
+                "id": "1oxhw6qtnz75vIeWyOdhB7IWlHjzZgeXm",
+                "mimeType": "application/pdf",
+                "size": "189284"
+              },
+              {
+                "name": "Lectura_oppenheime_Robots_después_del_covid-19.docx",
+                "type": "file",
+                "id": "1gjMwGIX6OFd4cmvDmBJ0jDaozpeEK2dT",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "52784"
+              },
+              {
+                "name": "Clase_1.2_Clásicos_Neoclásicos.pptx",
+                "type": "file",
+                "id": "1qemE1GbRRCTgySDPukkQ2_9iG-S0UhG4",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "1011856"
+              },
+              {
+                "name": "Clase_1.1_Sept_6.pptx",
+                "type": "file",
+                "id": "1xZ3e2DfieVs_nYKeBOkUe9hQUNTxSIKZ",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "1547870"
+              },
+              {
+                "name": "Lectura_oppenheime_Robots_después_del_covid-19.pdf",
+                "type": "file",
+                "id": "1YoUDOXZra2cvvG0OsQNUy-aBLtp_Tc7l",
+                "mimeType": "application/pdf",
+                "size": "171418"
+              },
+              {
+                "name": "CLASE_1.1_BIENVENIDA_Y_REFLEXIÓN_EN_TIEMPOS_COVID-19.pdf",
+                "type": "file",
+                "id": "1gH8WusuSEMh7GKj78pFO45TjWbtokTpH",
+                "mimeType": "application/pdf",
+                "size": "592891"
+              },
+              {
+                "name": "Lectura_Holandeses_académicos_proponen.pdf",
+                "type": "file",
+                "id": "1SsdW9syVnjokRfbJpS2ZbmKGo7E4o5Tx",
+                "mimeType": "application/pdf",
+                "size": "438929"
+              },
+              {
+                "name": "Lect._BCRP_Indicadores_económicos_al_Ier_TRim_2021.pdf",
+                "type": "file",
+                "id": "1IemXn0r4ly0Qbl8eI15G6Ip3aluvflFE",
+                "mimeType": "application/pdf",
+                "size": "401041"
+              },
+              {
+                "name": "Constructivismo_de_Marx.docx",
+                "type": "file",
+                "id": "1zsgobmQXKFNiYX7nmWPHk0t61E7hIpnx",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "20815"
+              },
+              {
+                "name": "Lectura_1_Datos_2020_BCRP.pdf",
+                "type": "file",
+                "id": "1cMBQ-gCwSlolRxO7wkTQprC_2MkmzdT8",
+                "mimeType": "application/pdf",
+                "size": "403041"
+              },
+              {
+                "name": "Lect._Macroeconomía_Breve_Historia.pdf",
+                "type": "file",
+                "id": "1TKzFdAyYDUMlgaaBCrJdOLmlQ3EzpYNm",
+                "mimeType": "application/pdf",
+                "size": "112659"
+              },
+              {
+                "name": "Clase_1.1_Sept_6.pdf",
+                "type": "file",
+                "id": "1ITIuX6N2oFNe-TElHg8r0Oi7EqlKTFdh",
+                "mimeType": "application/pdf",
+                "size": "1662628"
+              },
+              {
+                "name": "Lectura_Pensamiento_económico_de_Keynes.docx",
+                "type": "file",
+                "id": "12k0rRUpZupRdpZ9ciAXqboiFsgp1CnQf",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "18592"
+              },
+              {
+                "name": "CLASE_1.1_BIENVENIDA_Y_REFLEXIÓN_EN_TIEMPOS_COVID-19.pptx",
+                "type": "file",
+                "id": "1jO-JGf8Gfhc1gSfuTYUqXop4AgVEus5Q",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "2677122"
+              },
+              {
+                "name": "Lectura_4_Ideas_de_Marx_Vigentes_hoy.docx",
+                "type": "file",
+                "id": "1JCdgCLJ7lLQhxMqVUTeabNWgr5V1QKIB",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "247198"
+              },
+              {
+                "name": "Constructivismo_de_Marx.pdf",
+                "type": "file",
+                "id": "1E8LeqzXYQm7o_2m_Hcb5wYlClHc_R3iw",
+                "mimeType": "application/pdf",
+                "size": "164190"
+              },
+              {
+                "name": "Clase_1.2_Clásicos_Neoclásicos.pdf",
+                "type": "file",
+                "id": "1N6QS0GvFyTzLnN0LHX8KX-01m4eCk6uz",
+                "mimeType": "application/pdf",
+                "size": "1242208"
+              },
+              {
+                "name": "Keynes_en_tiempos_COVID.pdf",
+                "type": "file",
+                "id": "1eDSUU5pfhLLn2GET4qxpAX8XJ5nPfGGz",
+                "mimeType": "application/pdf",
+                "size": "162154"
+              },
+              {
+                "name": "Keynes_en_tiempos_COVID.docx",
+                "type": "file",
+                "id": "1AcDCGI_eSB8l_VGChftYU0feriJyMZhc",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "22562"
+              },
+              {
+                "name": "Lectura_4_Ideas_de_Marx_Vigentes_hoy.pdf",
+                "type": "file",
+                "id": "1t3vladETLo43VWAWZ_hIH4R2P1OyDP1F",
+                "mimeType": "application/pdf",
+                "size": "355503"
+              },
+              {
+                "name": "Lectura_LA_Teoría_de_keynes.pdf",
+                "type": "file",
+                "id": "1Hp1_USiS4M_64yMLuOZXq0n1IlxECkeX",
+                "mimeType": "application/pdf",
+                "size": "255181"
+              },
+              {
+                "name": "Lect._INEI_Indicadores_Junio_2021.pdf",
+                "type": "file",
+                "id": "1IvH8UxOCR0E8rCiU7ZiK0acAcq06tPL3",
+                "mimeType": "application/pdf",
+                "size": "1688931"
+              },
+              {
+                "name": "Lectura_INEI_a_enero_2021.pdf",
+                "type": "file",
+                "id": "1OIAlyGkcf3kw4MQnw6l5cEEg-kJctCqD",
+                "mimeType": "application/pdf",
+                "size": "1312167"
+              },
+              {
+                "name": "Lectura_Holandeses_académicos_proponen.docx",
+                "type": "file",
+                "id": "1R6C4ov-l0dD-RpInWqofU2C2FqFPvOys",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "120632"
+              },
+              {
+                "name": "Lectura_LA_Teoría_de_keynes.docx",
+                "type": "file",
+                "id": "1BXGyrWgkDNWq3hzd26p1EZEzXtUIk0Ty",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "38159"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PLANCHITAS",
+        "type": "folder",
+        "id": "1tP2nZ7CIC9rg6XKLZAYkUhY8n9_1mdeq",
+        "children": [
+          {
+            "name": "PALACIOS_SAMANIEGO,_LEONCIO_GABRIEL",
+            "type": "folder",
+            "id": "1Il9mhv7JzyKacGNB6yzZSQQ-F5ZCimVm",
+            "children": [
+              {
+                "name": "EF",
+                "type": "folder",
+                "id": "1pBCyjHnunU88Eyvhsvr_0U6n95tN2nz0",
+                "children": [
+                  {
+                    "name": "BEG01_EF_25-II_y_solución_fiis_2025_2.pdf",
+                    "type": "file",
+                    "id": "1umMonu-iHcbKXS4PwQ2Lk6L5Jnnn4YqX",
+                    "mimeType": "application/pdf",
+                    "size": "267677"
+                  }
+                ]
+              },
+              {
+                "name": "ES",
+                "type": "folder",
+                "id": "1_SHpYxwpL6IsPAO_JFUARpZ0AeJnUf-R",
+                "children": [
+                  {
+                    "name": "BEG01_ES_25-II_y_solucionario_FIIS_BEG01_Y_17_12_2025.pdf",
+                    "type": "file",
+                    "id": "14JeZgh6vCBtJZrtOR6rPyusBeHQMuADY",
+                    "mimeType": "application/pdf",
+                    "size": "499896"
+                  }
+                ]
+              },
+              {
+                "name": "EP",
+                "type": "folder",
+                "id": "1EMDuYrpryH5jzxh4v5gIxT_gEuuQqrCM",
+                "children": [
+                  {
+                    "name": "BEG01_EP_25-II_y_solucionario.pdf",
+                    "type": "file",
+                    "id": "1zBzpKg1K41PlHAwOZiLmkC2anSQZ_nSF",
+                    "mimeType": "application/pdf",
+                    "size": "530680"
+                  }
+                ]
+              },
+              {
+                "name": "PC4",
+                "type": "folder",
+                "id": "1j8I-FUh7XjARcz40iTAIgLb-xgH1k8xB",
+                "children": [
+                  {
+                    "name": "BEG01_PC4_25-II.pdf",
+                    "type": "file",
+                    "id": "1I0KU3nchwMmdHVueIi_Ii6lbVueXwZPN",
+                    "mimeType": "application/pdf",
+                    "size": "289231"
+                  }
+                ]
+              },
+              {
+                "name": "PE",
+                "type": "folder",
+                "id": "1viL1-vnKrxvfQMve2NDAMGtADnuV-4jr",
+                "children": [
+                  {
+                    "name": "BEG01_PE_25-II.docx",
+                    "type": "file",
+                    "id": "1n8IIqWooQ4fsJNGewk5ru5uilhYUysUa",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "14327"
+                  }
+                ]
+              },
+              {
+                "name": "PC3",
+                "type": "folder",
+                "id": "1dXbP7jNmTz5O67FsdElUBUV-MR-MGIMm",
+                "children": [
+                  {
+                    "name": "BEG01_PC3_25-II_y_solucionario_PBI_2025_2.pdf",
+                    "type": "file",
+                    "id": "1YUctTIm0JNxumi0F09IlO3vNylBa_NOJ",
+                    "mimeType": "application/pdf",
+                    "size": "287606"
+                  }
+                ]
+              },
+              {
+                "name": "PC2",
+                "type": "folder",
+                "id": "1bDawECiuiXtgRWkCth__3P1nCY16q0FW",
+                "children": [
+                  {
+                    "name": "BEG01_PC2_25-II_y_solucionario_oferta_y_demanda_FIIS_2025_2-.pdf",
+                    "type": "file",
+                    "id": "1BZaqGRfJykWSsfu-fAKVIggnCH259Qms",
+                    "mimeType": "application/pdf",
+                    "size": "321032"
+                  }
+                ]
+              },
+              {
+                "name": "PC1",
+                "type": "folder",
+                "id": "1SHHG37IxO36sBxgEJZxMLEDP2NCLbYev",
+                "children": [
+                  {
+                    "name": "BEG01_PC1_25-II_y_solucionario_modelos_económicos_2025_2_FISS_OK.pdf",
+                    "type": "file",
+                    "id": "1gTySjq2AdpZUnMk5IescbLPRkIoaOVfb",
+                    "mimeType": "application/pdf",
+                    "size": "301621"
+                  },
+                  {
+                    "name": "PRÁCTICA_DIRIGIDA_1_ECONOMÍA_GENERAL_FIIS_25-II.pdf",
+                    "type": "file",
+                    "id": "1vUI5o-2pGJu6BGaloFk2-07kkXkimgd2",
+                    "mimeType": "application/pdf",
+                    "size": "256216"
+                  },
+                  {
+                    "name": "Problemas_BEG01_FPP_2025_2.pdf",
+                    "type": "file",
+                    "id": "1QT2OUgxAtHlMKTsR44hvVbHPJZzJ56Gt",
+                    "mimeType": "application/pdf",
+                    "size": "473049"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "QUINTEROS_CHAVEZ,_SILVIO",
+            "type": "folder",
+            "id": "1Du6WVv65Lu_JUzd8fUkOH7NqRTATowz1",
+            "children": [
+              {
+                "name": "PC_4",
+                "type": "folder",
+                "id": "1CAh5saZFKmKcpxnPSyjXjVIoVrJSkLXk",
+                "children": [
+                  {
+                    "name": "20-1_PC4_TRABAJOMONOGRAFICO_QUINTEROS.pdf",
+                    "type": "file",
+                    "id": "1adolreuwDUt5Pd1D5fSwHuU8-EcTw_mW",
+                    "mimeType": "application/pdf",
+                    "size": "1918633"
+                  }
+                ]
+              },
+              {
+                "name": "E._S",
+                "type": "folder",
+                "id": "1sGhhdtHjV4NgwQH28FEVXdAFa_o99xcm",
+                "children": [
+                  {
+                    "name": "20-2_SOL_ES_QUINTEROS.pdf",
+                    "type": "file",
+                    "id": "1ZDDg3fnLJMoXgBXIkyWqkkLP7YQTh1Xf",
+                    "mimeType": "application/pdf",
+                    "size": "140726"
+                  },
+                  {
+                    "name": "19-1_ES_QUINTEROS.pdf",
+                    "type": "file",
+                    "id": "1JJzGwYwrifEGfOfoEHROlz6SdflH3KwH",
+                    "mimeType": "application/pdf",
+                    "size": "71801"
+                  }
+                ]
+              },
+              {
+                "name": "PC_2",
+                "type": "folder",
+                "id": "1WQxu--1sB3RsA8pVnTu7-Fzzt4tPw6PD",
+                "children": [
+                  {
+                    "name": "19-2_PC2_QUINTEROS.pdf",
+                    "type": "file",
+                    "id": "1ZvxocmQADZhT3Qnwf1FW3Py2JqshSQ9j",
+                    "mimeType": "application/pdf",
+                    "size": "117843"
+                  },
+                  {
+                    "name": "20-1_PC2_QUINTEROS.xlsx",
+                    "type": "file",
+                    "id": "1SzycUHmBceFgEjHJ2l_ALVML6slJK2qi",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "size": "11500"
+                  }
+                ]
+              },
+              {
+                "name": "E._P",
+                "type": "folder",
+                "id": "110SH_pH6J_DevaNi4nugr7BEppdfXnqF",
+                "children": [
+                  {
+                    "name": "19-1_EP_QUINTEROS.pdf",
+                    "type": "file",
+                    "id": "15_dW2V50k9j6JwDb1ef3EjhE4lDoKJP0",
+                    "mimeType": "application/pdf",
+                    "size": "6518"
+                  },
+                  {
+                    "name": "20-1_EP_QUINTEROS.pdf",
+                    "type": "file",
+                    "id": "1HmnaWqI4rYvMpv44Wh0lW18sE2mdYl1W",
+                    "mimeType": "application/pdf",
+                    "size": "252069"
+                  },
+                  {
+                    "name": "19-2_EP_QUINTEROS.pdf",
+                    "type": "file",
+                    "id": "1Itwac_5qqNa57-lCHG_8mGnt4sqzXgxM",
+                    "mimeType": "application/pdf",
+                    "size": "7391"
+                  },
+                  {
+                    "name": "Comparto_'1._SOLUCION_-_EX_-PARCIAL_22-2_-_ECOGRAL'_contigo",
+                    "type": "file",
+                    "id": "17dWa9Cli1VyHyzul_S0sY5eedunlhXWf",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "size": "27043"
+                  },
+                  {
+                    "name": "20-1_SOL_EP_QUINTEROS_EXCEL.xlsx",
+                    "type": "file",
+                    "id": "1SSTwUpy8Xfoyn2jDAcp-_QUcPeDPBNFv",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "size": "18877"
+                  },
+                  {
+                    "name": "20-1_EP_QUINTEROS_EXCEL.xlsx",
+                    "type": "file",
+                    "id": "1DK3v_YG8fWV2zlyqaZGT3E7IALYFl22F",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "size": "11124"
+                  },
+                  {
+                    "name": "20-1_SOL_EP_QUINTEROS.pdf",
+                    "type": "file",
+                    "id": "16RmAxLAB9qH7VwNk0dUZotMlzLg-cvUy",
+                    "mimeType": "application/pdf",
+                    "size": "656278"
+                  }
+                ]
+              },
+              {
+                "name": "PC_3",
+                "type": "folder",
+                "id": "1CUgGyEXrLITIayvC21d1eJGPsbuaQzjX",
+                "children": [
+                  {
+                    "name": "20-1_SOL_PC3_QUINTEROS.pdf",
+                    "type": "file",
+                    "id": "1VVZQyh17n1U-qMZJcNiyjxLK1yRZp5wM",
+                    "mimeType": "application/pdf",
+                    "size": "301367"
+                  },
+                  {
+                    "name": "20-1_PC3_QUINTEROS.pdf",
+                    "type": "file",
+                    "id": "1AVmPcE_fm48HJ36dEDubi6mKijqOWNve",
+                    "mimeType": "application/pdf",
+                    "size": "142313"
+                  }
+                ]
+              },
+              {
+                "name": "PC_1",
+                "type": "folder",
+                "id": "1m_1yb6dtYKRdpK3UbLi_ygZ0zdsm1SGM",
+                "children": [
+                  {
+                    "name": "17-1_PC1_QUINTEROS.pdf",
+                    "type": "file",
+                    "id": "1Sgcxgfe5Chb5-v4_EoXsbC_YvR3Tyn51",
+                    "mimeType": "application/pdf",
+                    "size": "355803"
+                  },
+                  {
+                    "name": "18-1_PC1_QUINTEROS.pdf",
+                    "type": "file",
+                    "id": "14323SdtOhSkLs8FpMO91APlmi7KleORr",
+                    "mimeType": "application/pdf",
+                    "size": "221861"
+                  },
+                  {
+                    "name": "20-1_PC1_QUINTEROS.pdf",
+                    "type": "file",
+                    "id": "18kk46BpGwO5lc-XMdKg0SNXGtg-sDaOT",
+                    "mimeType": "application/pdf",
+                    "size": "576523"
+                  },
+                  {
+                    "name": "18-2_PC1_QUINTEROS.pdf",
+                    "type": "file",
+                    "id": "1gnIKodupwcIHKqMoD2aCM6ZX475qPfxm",
+                    "mimeType": "application/pdf",
+                    "size": "328487"
+                  },
+                  {
+                    "name": "PC1_-_20-2.docx",
+                    "type": "file",
+                    "id": "1RWhPtSot1jokvrwepQkNYfOtptO-SaqH",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "13796"
+                  },
+                  {
+                    "name": "NN_PC1_QUINTEROS.pdf",
+                    "type": "file",
+                    "id": "1Be88kZboqF0pLnLVezTsHPlU1aD6ycyR",
+                    "mimeType": "application/pdf",
+                    "size": "1743243"
+                  }
+                ]
+              },
+              {
+                "name": "MICRO_MACRO",
+                "type": "folder",
+                "id": "18zY4uK_aA3FYC33zObI0X9omFwYK3x7_",
+                "children": [
+                  {
+                    "name": "19-1_MA_QUINTEROS.pdf",
+                    "type": "file",
+                    "id": "1RBOqG_2DT_5PU56X4Ii2scL7N4jT4u_V",
+                    "mimeType": "application/pdf",
+                    "size": "406683"
+                  }
+                ]
+              },
+              {
+                "name": "E._F",
+                "type": "folder",
+                "id": "1FYhgkhaqS_L55ctQhK5acIAt8ymUvu18",
+                "children": [
+                  {
+                    "name": "20-2_EF_QUINTEROS.pdf",
+                    "type": "file",
+                    "id": "1imn8cbhCtflpBvG4YEL8ja5d2KzVRcK2",
+                    "mimeType": "application/pdf",
+                    "size": "417350"
+                  },
+                  {
+                    "name": "20-2_SOL_EF_QUINTEROS.pdf",
+                    "type": "file",
+                    "id": "1BuN9tz7B7obUykJWc6SCWQ5TBYxEeSFD",
+                    "mimeType": "application/pdf",
+                    "size": "226648"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "MIRANDA_TORRES,_CESAR_AURELIO",
+            "type": "folder",
+            "id": "1vIqXa_92qSIdD7yYt2rglLXteiFFfmGT",
+            "children": [
+              {
+                "name": "PC_4",
+                "type": "folder",
+                "id": "1hPY1oP_I7ogtCMOR3bRulS1XhGW3IYQu",
+                "children": [
+                  {
+                    "name": "19-1_PC4_MIRANDA.jpg",
+                    "type": "file",
+                    "id": "1YIMIV0zSpXNHhpZISzPhrjtkAWg4yFl0",
+                    "mimeType": "image/jpeg",
+                    "size": "158131"
+                  },
+                  {
+                    "name": "20-1_PC4_TRABAJOMONOGRÁFICO_MIRANDA.pdf",
+                    "type": "file",
+                    "id": "1ZI_IDOA2UKwi_i9sbV_HxHh0tZwaolHJ",
+                    "mimeType": "application/pdf",
+                    "size": "661746"
+                  },
+                  {
+                    "name": "20-1_PC4_MIRANDA.pdf",
+                    "type": "file",
+                    "id": "15GB0cKwB6AhFtynH6kc81pbPPW4qz1gF",
+                    "mimeType": "application/pdf",
+                    "size": "108801"
+                  },
+                  {
+                    "name": "18-1_PC4_MIRANDA.jpg",
+                    "type": "file",
+                    "id": "12jKXNL7zbGHCJjhCatFk0Sx0cC2w5k1X",
+                    "mimeType": "image/jpeg",
+                    "size": "33184"
+                  },
+                  {
+                    "name": "19-2_PC4_MIRANDA.pdf",
+                    "type": "file",
+                    "id": "1xegyHXu9eM7HcDXONeV1JhP-UaC_IzoO",
+                    "mimeType": "application/pdf",
+                    "size": "369206"
+                  }
+                ]
+              },
+              {
+                "name": "PE",
+                "type": "folder",
+                "id": "1_cpEmxo_rOakaHFamdAbVj8sIYxc4cmy",
+                "children": [
+                  {
+                    "name": "NN_PE_MIRANDA.pdf",
+                    "type": "file",
+                    "id": "1DjFkxt44x6_m58K_lxDPDfayYQlCnJWm",
+                    "mimeType": "application/pdf",
+                    "size": "96529"
+                  }
+                ]
+              },
+              {
+                "name": "PC_2",
+                "type": "folder",
+                "id": "1uVcNW1y2TsenCRlv4mCB-dVHB7OWAbI8",
+                "children": [
+                  {
+                    "name": "20-2_PC2_MIRANDA.pdf",
+                    "type": "file",
+                    "id": "1akgMV-VZkPAIJ2iFXzjoAMlr0mQ7Erj-",
+                    "mimeType": "application/pdf",
+                    "size": "111091"
+                  }
+                ]
+              },
+              {
+                "name": "ES",
+                "type": "folder",
+                "id": "15sit7bdghjFyZ8VPnhzBokLpUNqApQXR",
+                "children": []
+              },
+              {
+                "name": "EP",
+                "type": "folder",
+                "id": "1aqLSJGNuFe3vQSjEqIQcov-BoMp4nz-C",
+                "children": [
+                  {
+                    "name": "20-1_EP_MIRANDA_X.pdf",
+                    "type": "file",
+                    "id": "1bd1Cm0WvJYzeUIVpj1192rSDBwwBfQEU",
+                    "mimeType": "application/pdf",
+                    "size": "526048"
+                  },
+                  {
+                    "name": "20-1_EP_MIRANDA_V.pdf",
+                    "type": "file",
+                    "id": "1YBOj-Y8OKE6mFZBOUL9FEJXhX0i-5qxO",
+                    "mimeType": "application/pdf",
+                    "size": "542781"
+                  }
+                ]
+              },
+              {
+                "name": "EF",
+                "type": "folder",
+                "id": "138Q1HQ8KoBIcPaDSNmez6D6ADIcYfm9u",
+                "children": [
+                  {
+                    "name": "20-2_EF_MIRANDA.pdf",
+                    "type": "file",
+                    "id": "1Pum_4xwBJ5pDdwMyOGGrPjaZ5QJVNHcV",
+                    "mimeType": "application/pdf",
+                    "size": "142415"
+                  },
+                  {
+                    "name": "20-2_SOL_EF_MIRANDA.pdf",
+                    "type": "file",
+                    "id": "1BCMqGCBahOfqZXnhPNjCD0JSREXxmSjQ",
+                    "mimeType": "application/pdf",
+                    "size": "1006764"
+                  },
+                  {
+                    "name": "BFI01_MIRANDA_EF_20-1_V.pdf",
+                    "type": "file",
+                    "id": "18lLGR4YOkuo4N51aWTACXWdjtiEgiRWZ",
+                    "mimeType": "application/pdf",
+                    "size": "111539"
+                  },
+                  {
+                    "name": "20-1_EF_MIRANDA_X.pdf",
+                    "type": "file",
+                    "id": "13y4l36SItBb4jRmrzKq7fBVQyjkrqVJD",
+                    "mimeType": "application/pdf",
+                    "size": "113516"
+                  }
+                ]
+              },
+              {
+                "name": "PC_3",
+                "type": "folder",
+                "id": "1h-EZiS6kCwtCkM5mAYOBHYkIKXx3Wk0U",
+                "children": [
+                  {
+                    "name": "20-1_PC3_MIRANDA_V.pdf",
+                    "type": "file",
+                    "id": "1z8IoFkz7g7pQAIi7zjpy35-78pYj1OLi",
+                    "mimeType": "application/pdf",
+                    "size": "111284"
+                  },
+                  {
+                    "name": "20-1_PC3_MIRANDA_X.pdf",
+                    "type": "file",
+                    "id": "16udSjiImUOy5I7EDyIiexPLTFrxQUIpW",
+                    "mimeType": "application/pdf",
+                    "size": "142681"
+                  },
+                  {
+                    "name": "19-1_PC3_MIRANDA.jpg",
+                    "type": "file",
+                    "id": "1ZPkzQf3R68y41nfdap80mZk64GgHDzyR",
+                    "mimeType": "image/jpeg",
+                    "size": "263179"
+                  }
+                ]
+              },
+              {
+                "name": "PC_1",
+                "type": "folder",
+                "id": "1dbgE26SQWfTUOlLhjBjsx678JvpjmKea",
+                "children": [
+                  {
+                    "name": "20-2_PC1_MIRANDA.pdf",
+                    "type": "file",
+                    "id": "18m77qN7Tl4tAf_Vdie2mCliCBtxx3kjU",
+                    "mimeType": "application/pdf",
+                    "size": "110860"
+                  },
+                  {
+                    "name": "20-1_PC1_MIRANDA.pdf",
+                    "type": "file",
+                    "id": "1G-JFoSGZEFfgZrRQLcVBtzhAKeCoW9tK",
+                    "mimeType": "application/pdf",
+                    "size": "125424"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "MONDRAGÓN_HERNÁNDEZ,_MARGARITA_DELICIA",
+            "type": "folder",
+            "id": "1QJ4HI1SvWTMQOif-T7Vhac1hM3ovtuPn",
+            "children": [
+              {
+                "name": "PC_1",
+                "type": "folder",
+                "id": "1bc8VrLPbTyeR3Y-T7QfnSwHwIxoO-fap",
+                "children": [
+                  {
+                    "name": "20-1_MA_MONDRAGON.pdf",
+                    "type": "file",
+                    "id": "1aTW-4UXCZmoImR-P-rIG1gvTsMbuTnsX",
+                    "mimeType": "application/pdf",
+                    "size": "929872"
+                  },
+                  {
+                    "name": "20-1_PC1_MONDRAGON.pdf",
+                    "type": "file",
+                    "id": "1eP-dMGLnJy8w_-09Qri76vRiM_rbiGt1",
+                    "mimeType": "application/pdf",
+                    "size": "207519"
+                  }
+                ]
+              },
+              {
+                "name": "ES",
+                "type": "folder",
+                "id": "12YViXIlNqnQOJStx4hDxdBq8paXNYd6q",
+                "children": [
+                  {
+                    "name": "20-1_ES_MONDRAGON.pdf",
+                    "type": "file",
+                    "id": "1cR-0Riufg9k7921-KGZUjF80CUIPblKT",
+                    "mimeType": "application/pdf",
+                    "size": "563263"
+                  }
+                ]
+              },
+              {
+                "name": "EP",
+                "type": "folder",
+                "id": "1lqSxpzv5bpfNg8ENA_udTNc3vWgzYOxL",
+                "children": [
+                  {
+                    "name": "20-1_EF_MONDRAGON.pdf",
+                    "type": "file",
+                    "id": "1O3qiiVElFkDEmH0DNc9urW0NK4lB3OH8",
+                    "mimeType": "application/pdf",
+                    "size": "383126"
+                  }
+                ]
+              },
+              {
+                "name": "EF",
+                "type": "folder",
+                "id": "1iIAIpvPsj2x_uWNkCd4WTkSP38zUDdAM",
+                "children": [
+                  {
+                    "name": "20-2_SOL_EF_MONDRAGON.pdf",
+                    "type": "file",
+                    "id": "1egztSruYaZI6GX-6EWRW-goyYjbxaUZo",
+                    "mimeType": "application/pdf",
+                    "size": "535415"
+                  },
+                  {
+                    "name": "20-1_EF_MONDRAGON.pdf",
+                    "type": "file",
+                    "id": "1VpPqjto4-Lax38rtZi4Lz7oW8rXjunOv",
+                    "mimeType": "application/pdf",
+                    "size": "702114"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "S_Sílabo_2025_2_BEG01_Y_FIIS_-.pdf",
+        "type": "file",
+        "id": "1EevUIXGLk038GkxkrD2Q9jgOXxxsp4Va",
+        "mimeType": "application/pdf",
+        "size": "328733"
+      },
+      {
+        "name": "Bibliografía_recomendada",
+        "type": "folder",
+        "id": "10ORLrw5SWReHYiTDpcU_adJfYjv_QMPq",
+        "children": [
+          {
+            "name": "Economía_-_Michael_Loria_Parkin.pdf",
+            "type": "file",
+            "id": "1_ByFgSLoX2Wt4IF3v6cOqSTBuce_dGJ5",
+            "mimeType": "application/pdf",
+            "size": "9193792"
+          },
+          {
+            "name": "Economía_para_no_economistas_-_Editorial_Rubén_Tansini.pdf",
+            "type": "file",
+            "id": "156nj4lQXFRfPrpcHQIDHEcWJ5h7YBwR5",
+            "mimeType": "application/pdf",
+            "size": "2538185"
+          },
+          {
+            "name": "Texto_del_curso_Mankiew_7ma_edición.pdf",
+            "type": "file",
+            "id": "1MZO-MJ_hhw2CAMI4FLsx6kNV9hziqGl0",
+            "mimeType": "application/pdf",
+            "size": "9425003"
+          },
+          {
+            "name": "Economia_Principios_de_6taedicion_Gregory_M_(1).pdf",
+            "type": "file",
+            "id": "13PZ7w8nemiZcGBnhB6yxQ8TxI--aggTy",
+            "mimeType": "application/pdf",
+            "size": "15541702"
+          },
+          {
+            "name": "Macroeconomía_-_Gregory_Mankiw.pdf",
+            "type": "file",
+            "id": "1ugtjdW3s_D8pILGlqLB24blPxp9lI1fM",
+            "mimeType": "application/pdf",
+            "size": "7693785"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,732 @@
+{
+  "course_id": "BEF01",
+  "course_name": "Ética_y_Filosofía_política",
+  "id": "1QvVkZjbb_T-9oRXHwOqyINgXmc-typtY",
+  "scanned_at": "2026-08-07T00:15:21.451668+00:00",
+  "tree": {
+    "name": "Ética_y_Filosofía_política",
+    "type": "folder",
+    "id": "1QvVkZjbb_T-9oRXHwOqyINgXmc-typtY",
+    "children": [
+      {
+        "name": "Rildo",
+        "type": "folder",
+        "id": "14jWYIHSLDw2lNKrxPe8AO_rYq4_uY9L6",
+        "children": [
+          {
+            "name": "TEORÍA",
+            "type": "folder",
+            "id": "1ppU_rbyMldM52DJAgxd7E7bclOPCKOax",
+            "children": [
+              {
+                "name": "semana_7",
+                "type": "folder",
+                "id": "1WNypCCZAze2V3JlzKCPkuzsCaUA4jtUU",
+                "children": [
+                  {
+                    "name": "ETICA_TEMA_SESIÓN_7.docx.pdf",
+                    "type": "file",
+                    "id": "1M2YhYbOUmPeBEAUL_eNnPhW8ow_cAEMB",
+                    "mimeType": "application/pdf",
+                    "size": "1209806"
+                  }
+                ]
+              },
+              {
+                "name": "semana_8",
+                "type": "folder",
+                "id": "1W00uQGDT8iNbp3j2EcOlZw1Cta1I4S9I",
+                "children": []
+              },
+              {
+                "name": "semana_6",
+                "type": "folder",
+                "id": "1psGNBlGTJCnxmFn7rWZDV_9Kme9y_ZJo",
+                "children": [
+                  {
+                    "name": "ETICA_TEMA_SESIÓN_6.docx.pdf",
+                    "type": "file",
+                    "id": "17Nb-ldCM04Y_37sUiVzIpdAzg73OzrYT",
+                    "mimeType": "application/pdf",
+                    "size": "1304177"
+                  }
+                ]
+              },
+              {
+                "name": "semana_9",
+                "type": "folder",
+                "id": "10XXqqaKH46rSv4J4ZD_Qm9fITmc8RKrV",
+                "children": [
+                  {
+                    "name": "Sylabo.pdf",
+                    "type": "file",
+                    "id": "1qNJbcH3gdLEaLue3h4_PVhYaIAIGXix1",
+                    "mimeType": "application/pdf",
+                    "size": "239648"
+                  },
+                  {
+                    "name": "Lectura_3_El_problema_filosófico_de_la_universalización_moral.pdf",
+                    "type": "file",
+                    "id": "1sxB5Sn-h0LeIZmHSR2QIRCfB1S4D2oKG",
+                    "mimeType": "application/pdf",
+                    "size": "158919"
+                  },
+                  {
+                    "name": "ETICA_TEMA_SESIÓN_9.docx.pdf",
+                    "type": "file",
+                    "id": "1gbYNykojHAVUT4pQ9YK1Qm-MMbMqFt4x",
+                    "mimeType": "application/pdf",
+                    "size": "1162838"
+                  },
+                  {
+                    "name": "Clase_1.pdf",
+                    "type": "file",
+                    "id": "1zYR8dG59QtfjVr5x-NnXV1ju3TrcdNfe",
+                    "mimeType": "application/pdf",
+                    "size": "674347"
+                  },
+                  {
+                    "name": "Clase_2.pdf",
+                    "type": "file",
+                    "id": "1VZr1lRhubtLXv3hDhOTUGzZsUd9255o8",
+                    "mimeType": "application/pdf",
+                    "size": "801452"
+                  }
+                ]
+              },
+              {
+                "name": "semana_5",
+                "type": "folder",
+                "id": "1gJMg4fuv2OkxWbZMAT7MYbuX2YmdjJV4",
+                "children": [
+                  {
+                    "name": "ETICA_TEMA_SESIÓN_5.docx.pdf",
+                    "type": "file",
+                    "id": "1Pt0GB7FSZzp8u-aeHoK4ZFVeiQM7FX1P",
+                    "mimeType": "application/pdf",
+                    "size": "602354"
+                  }
+                ]
+              },
+              {
+                "name": "semana_4",
+                "type": "folder",
+                "id": "1HowAa_ENEO_-VReN5Xvt19LEwUKRWIma",
+                "children": [
+                  {
+                    "name": "Lectura_2_ARISTÓTELES_LA_POLÍTICA_Y_EL_ESTADO.pdf",
+                    "type": "file",
+                    "id": "1u4FWss3OjVi879cRxvdufLHFdzkuj0qk",
+                    "mimeType": "application/pdf",
+                    "size": "152217"
+                  },
+                  {
+                    "name": "Lectura_3_Fundamentos_y_Evolución_de_los_Derechos_Fundamentales.pdf",
+                    "type": "file",
+                    "id": "1mvvv62wT_e4tAnCy6ORFIIMqknPXxjz2",
+                    "mimeType": "application/pdf",
+                    "size": "221217"
+                  },
+                  {
+                    "name": "ETICA_TEMA_SESIÓN_4.docx_(1).pdf",
+                    "type": "file",
+                    "id": "1eKqJs-qtP3dg6yZdzA8ycBue0hFMh3uk",
+                    "mimeType": "application/pdf",
+                    "size": "514517"
+                  },
+                  {
+                    "name": "Lectura_1_LA_HISTORIA_DE_LAS_IDEAS_POLÍTICAS_(1).pdf",
+                    "type": "file",
+                    "id": "14srU_NDAfN4At7Z3Uj84MPWvAMMBb_RO",
+                    "mimeType": "application/pdf",
+                    "size": "92023"
+                  },
+                  {
+                    "name": "ETICA_TEMA_SESIÓN_4.docx.pdf",
+                    "type": "file",
+                    "id": "1vVLfegD9ZWIN3-VkeDjnsoagILJgWOVj",
+                    "mimeType": "application/pdf",
+                    "size": "542949"
+                  }
+                ]
+              },
+              {
+                "name": "semana_2",
+                "type": "folder",
+                "id": "16feQtkQ_2ZZ1sKeJ66_I-QfvE3K0UPxg",
+                "children": [
+                  {
+                    "name": "ETICA_TEMA_SESIÓN_2.docx.pdf",
+                    "type": "file",
+                    "id": "1zCO6KupwajMBtbZ70DtO0cRJWOlzb2Vp",
+                    "mimeType": "application/pdf",
+                    "size": "821414"
+                  }
+                ]
+              },
+              {
+                "name": "semana_3",
+                "type": "folder",
+                "id": "1qwbr5juBb7WNr84peJNMY8DlyRDGpCR2",
+                "children": [
+                  {
+                    "name": "Clase_3.pdf",
+                    "type": "file",
+                    "id": "13rU1TrBqirciZohqy-AZ-m1DkEcI9Lmi",
+                    "mimeType": "application/pdf",
+                    "size": "896327"
+                  },
+                  {
+                    "name": "Lectura_2_Ciencia_Politica_Vs_Filosofia_Politica.pdf",
+                    "type": "file",
+                    "id": "1lA3ZyZEkUzSbcpwcTuThFWBuKN4wzC2A",
+                    "mimeType": "application/pdf",
+                    "size": "177392"
+                  },
+                  {
+                    "name": "Lectura_1_El_concepto_de_lo_político.pdf",
+                    "type": "file",
+                    "id": "1vZBsY8qPc0Pe7amaG5RNScd8-YDSF9-s",
+                    "mimeType": "application/pdf",
+                    "size": "124411"
+                  },
+                  {
+                    "name": "Lectura_3_Pensar_la_ideología_y_las_identidades_políticas.pdf",
+                    "type": "file",
+                    "id": "15uC9wOCP6QlZrMBS8UB-nA4vNJt0cyq5",
+                    "mimeType": "application/pdf",
+                    "size": "525238"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "EVIDENCIAS_20-1",
+            "type": "folder",
+            "id": "1QgTMjTORICeEyWQa3OSq6_dzNsuPNfri",
+            "children": [
+              {
+                "name": "GRUPO_4_EVIDENCIA_5_U.docx",
+                "type": "file",
+                "id": "1aj4FSOuFjNmLESTwZ9LTByRaH4IMdXBl",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "28045"
+              },
+              {
+                "name": "GRUPO_4_EVIDENCIA_3.docx",
+                "type": "file",
+                "id": "1caZ4ahxbrycw9R_0hO0N9C0pjZjMO7YA",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "61362"
+              },
+              {
+                "name": "GRUPO_4_EVIDENCIA_2.docx",
+                "type": "file",
+                "id": "1ADjoCyeVIEjD_1MfC5R_E_bsUyOZmvLX",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "59343"
+              },
+              {
+                "name": "GRUPO_4_EVIDENCIA_9_U.docx",
+                "type": "file",
+                "id": "1xRMrXtcO-IXmpbB72tfuOaP9mKCBYxnY",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "19877"
+              },
+              {
+                "name": "GRUPO_4_EVIDENCIA_10_U_CUADRO.docx",
+                "type": "file",
+                "id": "1y6IJvoJehpFoiZ6XfteyVMnMJ1e1SCl8",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "479571"
+              },
+              {
+                "name": "GRUPO_4_EVIDENCIA_4.doc",
+                "type": "file",
+                "id": "1ypmBLW5JQ5OmJpRlag4VEP_3kRwMNFJy",
+                "mimeType": "application/msword",
+                "size": "88064"
+              },
+              {
+                "name": "GRUPO_4_EVIDENCIA_7_U.docx",
+                "type": "file",
+                "id": "19jUqPxcIeub4BC5yw2rsacj4ls1Te9eO",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "65636"
+              },
+              {
+                "name": "GRUPO_4_EVIDENCIA_10_U_TEXTO.docx",
+                "type": "file",
+                "id": "1o87Gs47H7_mmF6vJEdOI7rHs4WqT4aMI",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "16973"
+              },
+              {
+                "name": "GRUPO_4_EVIDENCIA_1.docx",
+                "type": "file",
+                "id": "1qCCCMlJJRdk9prc9HquW9xhU-RGVgxkM",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "29626"
+              }
+            ]
+          },
+          {
+            "name": "107565934_2652878395031453_952078671582204357_n.jpg",
+            "type": "file",
+            "id": "1N3IOpjYWmUcsKV6HuHrZR7KIE4cI3AcQ",
+            "mimeType": "image/jpeg",
+            "size": "44086"
+          },
+          {
+            "name": "106796220_2652878098364816_2708573918888752076_n.jpg",
+            "type": "file",
+            "id": "1ySRYedlCIl7KEdx3ndcK9Rm9UryJCUA6",
+            "mimeType": "image/jpeg",
+            "size": "46333"
+          },
+          {
+            "name": "107083016_2652877988364827_3792612146046902856_n.jpg",
+            "type": "file",
+            "id": "14H6fElV33zhjYQ_0f00qJSIi7f-lkAdX",
+            "mimeType": "image/jpeg",
+            "size": "39254"
+          },
+          {
+            "name": "106534206_2652878011698158_5963161978354814699_n.jpg",
+            "type": "file",
+            "id": "1CxIQYzyKO2xJgor5-rjpJTuAeKRvMeSs",
+            "mimeType": "image/jpeg",
+            "size": "39575"
+          },
+          {
+            "name": "90235701_2787618941355806_4340832027688304640_n.jpg",
+            "type": "file",
+            "id": "1v2fSIsZ2LYQWYvGlgO8NlJfAPBCLBp6h",
+            "mimeType": "image/jpeg",
+            "size": "193675"
+          },
+          {
+            "name": "107058492_2652878151698144_4923191885920110259_n.jpg",
+            "type": "file",
+            "id": "1eK0shBhiYnVJO1Yg4kPgLlunn9Ri1sUT",
+            "mimeType": "image/jpeg",
+            "size": "42312"
+          },
+          {
+            "name": "106228282_2652878368364789_2336283248864843511_n.jpg",
+            "type": "file",
+            "id": "1nPr4l6e7m6G_9y7wpaTYEpLQdI1kw5KV",
+            "mimeType": "image/jpeg",
+            "size": "45874"
+          },
+          {
+            "name": "90211309_2787618848022482_2809746130206720_n.jpg",
+            "type": "file",
+            "id": "1sFd0Y2qeQUyQaJLZho8U6iHHBR13iFWH",
+            "mimeType": "image/jpeg",
+            "size": "162119"
+          },
+          {
+            "name": "107373501_2652878435031449_8828469582195252613_n.jpg",
+            "type": "file",
+            "id": "1VUNIg_n3apq4qi47ubbutIpaXpeukSZu",
+            "mimeType": "image/jpeg",
+            "size": "45666"
+          },
+          {
+            "name": "106112663_2652878338364792_7615155818018733515_n.jpg",
+            "type": "file",
+            "id": "13wGv1wUDykorQBhbpCxFWSD63MwdtIxM",
+            "mimeType": "image/jpeg",
+            "size": "38224"
+          },
+          {
+            "name": "90127773_2787619098022457_9205387484073033728_n.jpg",
+            "type": "file",
+            "id": "12hwO1SEM9FGrRKEjXwQGo2ZHdZj-AkLv",
+            "mimeType": "image/jpeg",
+            "size": "162378"
+          },
+          {
+            "name": "107538756_2652877948364831_3717788080673172751_n.jpg",
+            "type": "file",
+            "id": "1OMz6EcLbk0aHMk5P4RwcbZY5wM-DVRKe",
+            "mimeType": "image/jpeg",
+            "size": "40925"
+          },
+          {
+            "name": "106212072_2652877855031507_2393016414463617583_n.jpg",
+            "type": "file",
+            "id": "1A_sNSqTwxxnhPOkulkAy41KtVzaTFLLX",
+            "mimeType": "image/jpeg",
+            "size": "46531"
+          },
+          {
+            "name": "106735342_2652877871698172_7022869094415554842_n.jpg",
+            "type": "file",
+            "id": "1b_70JHDOBd1PO9ctJ53-rFKzDy2RttyR",
+            "mimeType": "image/jpeg",
+            "size": "44789"
+          },
+          {
+            "name": "90255983_2787618684689165_7118535489958707200_n.jpg",
+            "type": "file",
+            "id": "1WnTmMVERtH9cEPF77OJjfip_e_EbC-hL",
+            "mimeType": "image/jpeg",
+            "size": "230291"
+          },
+          {
+            "name": "107374958_2652877918364834_8273799756894653003_n.jpg",
+            "type": "file",
+            "id": "17EN3g5zyVXfC118biiULy_69WkSo59KU",
+            "mimeType": "image/jpeg",
+            "size": "47783"
+          },
+          {
+            "name": "107624574_2652878195031473_8141270911824280757_n.jpg",
+            "type": "file",
+            "id": "1dB4RGW1b1mKnkGCq-JHUf8OCknklb79M",
+            "mimeType": "image/jpeg",
+            "size": "40907"
+          },
+          {
+            "name": "107832972_2652878295031463_3516328061438382204_n.jpg",
+            "type": "file",
+            "id": "1CsLDm5zKlFRaty64cFMCX6eMQydCAGcD",
+            "mimeType": "image/jpeg",
+            "size": "38484"
+          },
+          {
+            "name": "107699765_2652878251698134_5677810427287129705_n.jpg",
+            "type": "file",
+            "id": "1FnX4ctobdeB19WHNEPtRaWfuHbF-Tkci",
+            "mimeType": "image/jpeg",
+            "size": "46068"
+          },
+          {
+            "name": "106527665_2652878048364821_4199584865866870950_n.jpg",
+            "type": "file",
+            "id": "1V5NcAzSH2_7EazPuot8ee3f_C9oKcDPM",
+            "mimeType": "image/jpeg",
+            "size": "40733"
+          },
+          {
+            "name": "105848092_2652877971698162_4901458946698657333_n.jpg",
+            "type": "file",
+            "id": "16Eecv3IFAoUAQWDWrWcPwVckuuGeHt5t",
+            "mimeType": "image/jpeg",
+            "size": "36680"
+          }
+        ]
+      },
+      {
+        "name": "Eloy_Ayala",
+        "type": "folder",
+        "id": "1t1aGw6Uwe3E6is2EVc73_GdTRAsyV11O",
+        "children": [
+          {
+            "name": "PLANCHAS",
+            "type": "folder",
+            "id": "1R8UDSAfMO-Y_v7jQllBZYLsH2TqYkeCa",
+            "children": [
+              {
+                "name": "PE_(sin_valor)",
+                "type": "folder",
+                "id": "1i_I0cGIRABeY_Z90rBW8ohp3gm124VDW",
+                "children": [
+                  {
+                    "name": "PE_22-2_W,X.pdf",
+                    "type": "file",
+                    "id": "1cjj6rOeDkj3wscV4gfQ8m7QCDrPUL2on",
+                    "mimeType": "application/pdf",
+                    "size": "286234"
+                  }
+                ]
+              },
+              {
+                "name": "PC4",
+                "type": "folder",
+                "id": "11lxXaQgnLEpdgk9RhyQ0b1hdZhnE8pPy",
+                "children": [
+                  {
+                    "name": "23-1",
+                    "type": "folder",
+                    "id": "1LwIrKOVCP-0-mfwI1kGQML_dDUhqeZpW",
+                    "children": [
+                      {
+                        "name": "PC4_2.jpg",
+                        "type": "file",
+                        "id": "1pN_1yagX9Jor9kp02jPQ70HlxLvFTg80",
+                        "mimeType": "image/jpeg",
+                        "size": "217747"
+                      },
+                      {
+                        "name": "PC4_1.jpg",
+                        "type": "file",
+                        "id": "1iP0ryvPLZVWtrHu3esntgb49SG9JLwT0",
+                        "mimeType": "image/jpeg",
+                        "size": "189178"
+                      },
+                      {
+                        "name": "PC4_3.jpg",
+                        "type": "file",
+                        "id": "1RLHH81SzUZre88OOB8rBgA-_pM5Gtll4",
+                        "mimeType": "image/jpeg",
+                        "size": "161943"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "PC4_Eloy_23-1.pdf",
+                    "type": "file",
+                    "id": "1Re83ykxA08dslhbJUsobQGMPJHBwX7-s",
+                    "mimeType": "application/pdf",
+                    "size": "692264"
+                  }
+                ]
+              },
+              {
+                "name": "PC3",
+                "type": "folder",
+                "id": "1t4j1FkmkZXi35OAjptQyEId4Arf_AoUo",
+                "children": [
+                  {
+                    "name": "23-1",
+                    "type": "folder",
+                    "id": "1ic1rBNV9cX1WA58jRPKlageiKJ_uII8S",
+                    "children": [
+                      {
+                        "name": "PC3_3.jpg",
+                        "type": "file",
+                        "id": "1RWfANRpHTQaaUE2X9ReX17ej3f_PO8Z4",
+                        "mimeType": "image/jpeg",
+                        "size": "196489"
+                      },
+                      {
+                        "name": "PC3_2.jpg",
+                        "type": "file",
+                        "id": "1Wjp8mI3v7Mt97jVuyN9aU5i2Oprve5gw",
+                        "mimeType": "image/jpeg",
+                        "size": "154098"
+                      },
+                      {
+                        "name": "PC3_4.jpg",
+                        "type": "file",
+                        "id": "1tZLsztNSz5ynv1DyzFFkvB7SssXM5EgJ",
+                        "mimeType": "image/jpeg",
+                        "size": "118249"
+                      },
+                      {
+                        "name": "PC3_1.jpg",
+                        "type": "file",
+                        "id": "1FJDx9KXhnHp_3UxlDCmMnpWC0ZDKQFWQ",
+                        "mimeType": "image/jpeg",
+                        "size": "136101"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "PC3_Eloy_23-1.pdf",
+                    "type": "file",
+                    "id": "1dK45pXjJupEZC3_CcBtEnLGzPFQom8zn",
+                    "mimeType": "application/pdf",
+                    "size": "779648"
+                  },
+                  {
+                    "name": "PC3_22-2.pdf",
+                    "type": "file",
+                    "id": "1IEUwaPQqgP3Dd292pbWGy79U4LU8fokS",
+                    "mimeType": "application/pdf",
+                    "size": "98968"
+                  }
+                ]
+              },
+              {
+                "name": "PC2",
+                "type": "folder",
+                "id": "14ysbkqdlcQmnaGkRnE0g88awZ3P4DrrQ",
+                "children": [
+                  {
+                    "name": "23-1",
+                    "type": "folder",
+                    "id": "1EvZ77aDCPzrXDwV7oIDEKMjdY6f8FmWl",
+                    "children": [
+                      {
+                        "name": "pc2_etica_23-1_p3.jpeg",
+                        "type": "file",
+                        "id": "1EU1sSNJ3qchDuOLLR-QUH-2_ibbbT2iO",
+                        "mimeType": "image/jpeg",
+                        "size": "37696"
+                      },
+                      {
+                        "name": "pc2_etica_23-1_p5.jpeg",
+                        "type": "file",
+                        "id": "1i7Z6dABcS4XiyDuyVyjHXtv_K8wZ9_5w",
+                        "mimeType": "image/jpeg",
+                        "size": "59613"
+                      },
+                      {
+                        "name": "pc2_etica_23-1_p1.jpeg",
+                        "type": "file",
+                        "id": "17E1QW7ueWlS89teg3mhZaH1-6AEib_Va",
+                        "mimeType": "image/jpeg",
+                        "size": "63957"
+                      },
+                      {
+                        "name": "pc2_etica_23-1_p2.jpeg",
+                        "type": "file",
+                        "id": "1TEOVibZk4Xsa8j_KXUP55Yl--nx5WO5g",
+                        "mimeType": "image/jpeg",
+                        "size": "44440"
+                      },
+                      {
+                        "name": "pc2_etica_23-1_p4.jpeg",
+                        "type": "file",
+                        "id": "1n61DkBCsH0plh_2XFzFk5oNlkHvuSkRc",
+                        "mimeType": "image/jpeg",
+                        "size": "19760"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "PC2_Eloy_23-1.pdf",
+                    "type": "file",
+                    "id": "1myqyIDVf217YSVstjnUoJY6g6UawTWXo",
+                    "mimeType": "application/pdf",
+                    "size": "423811"
+                  },
+                  {
+                    "name": "PC2_22-1.pdf",
+                    "type": "file",
+                    "id": "1814YtPZ5byDSnmUNIK1Q65Gl1DeDBgdr",
+                    "mimeType": "application/pdf",
+                    "size": "471187"
+                  },
+                  {
+                    "name": "PC2_21-2_W,X.pdf",
+                    "type": "file",
+                    "id": "1jFYBGyY9ozM64V6YHREuJ3AN4T8I7KUW",
+                    "mimeType": "application/pdf",
+                    "size": "314586"
+                  }
+                ]
+              },
+              {
+                "name": "PC1",
+                "type": "folder",
+                "id": "1DEmpaLUK0Gw1DLeDgs5fETroC0E4jWHM",
+                "children": [
+                  {
+                    "name": "23-1",
+                    "type": "folder",
+                    "id": "1xIu4UmXQvReSDBVw6pyvpzq4dMXyu3z3",
+                    "children": [
+                      {
+                        "name": "PC1_2.jpg",
+                        "type": "file",
+                        "id": "1XaII9XMrT4RGCFD5m1ilS8aY-jPFkb16",
+                        "mimeType": "image/jpeg",
+                        "size": "257060"
+                      },
+                      {
+                        "name": "PC1_1.jpg",
+                        "type": "file",
+                        "id": "1bJFMt8abru5Tnn1UGkxBkb-r2Fk44ZN6",
+                        "mimeType": "image/jpeg",
+                        "size": "223393"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "PC1_22-1.pdf",
+                    "type": "file",
+                    "id": "1LVqruJ2t8hoThEE24Q6d_KHkKA4ug_57",
+                    "mimeType": "application/pdf",
+                    "size": "530023"
+                  },
+                  {
+                    "name": "I_PC_-_SEM_II_Respuestas.pdf",
+                    "type": "file",
+                    "id": "1kDIn0Ng5XjH2wNdUJEMXubT97xJRg1Cp",
+                    "mimeType": "application/pdf",
+                    "size": "490911"
+                  },
+                  {
+                    "name": "I_PC_-_SEM_II_Respuestas.docx",
+                    "type": "file",
+                    "id": "1UBYxH_D0GAy_F2Lu5Af7GpWlpAVc4Q9Y",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "78284"
+                  },
+                  {
+                    "name": "PC1_22-2_W,X.pdf",
+                    "type": "file",
+                    "id": "1SZOhTL41WV6cyKihR_qY8tP7F4pVyQx4",
+                    "mimeType": "application/pdf",
+                    "size": "346359"
+                  },
+                  {
+                    "name": "1ra_PC_-Cuestionario_-_Respuestas.pdf",
+                    "type": "file",
+                    "id": "1cGfRyFHuxtKbBAefrsIra6t6OufJVLD4",
+                    "mimeType": "application/pdf",
+                    "size": "175097"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "LECTURAS_ANALÍTICAS",
+            "type": "folder",
+            "id": "1vnYHVM4uRoAZ4dZ9IQ-Q2Rk2sz71slXd",
+            "children": [
+              {
+                "name": "DESARROLLO_DEL_PENSAMIENTO_FILOSÓFICO_EN_EL_DEVENIR_HISTÓRICO",
+                "type": "folder",
+                "id": "1q5hb8iQU8GseebOUu97atSDmgrEeLYU1",
+                "children": [
+                  {
+                    "name": "LA-24-2-PARTE2.jpg",
+                    "type": "file",
+                    "id": "1bPkrgClqqxJMjZNuK8qMVrgdyRq2RwNx",
+                    "mimeType": "image/jpeg",
+                    "size": "1001103"
+                  },
+                  {
+                    "name": "LA-24-2-PARTE3.jpg",
+                    "type": "file",
+                    "id": "1QOnB00baaQINVjsO12oegToaibp3K0vt",
+                    "mimeType": "image/jpeg",
+                    "size": "1005109"
+                  },
+                  {
+                    "name": "LA-24-2-PARTE4.jpg",
+                    "type": "file",
+                    "id": "1EbA9jetVbPWFRUfhYq15_413fxM_4dA-",
+                    "mimeType": "image/jpeg",
+                    "size": "1091700"
+                  },
+                  {
+                    "name": "LA-24-2-PARTE1.jpg",
+                    "type": "file",
+                    "id": "1B3V1h6t_c1FSGwmqEpSYXqccRDKDxWat",
+                    "mimeType": "image/jpeg",
+                    "size": "1087208"
+                  }
+                ]
+              },
+              {
+                "name": "LA_VINCULACIÓN_ENTRE_ÉTICA_Y_POLÍTICA_EN_ARISTÓTELES",
+                "type": "folder",
+                "id": "1INqE1q2C31bXgKAlpPhAMhuQZh9EqkYQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

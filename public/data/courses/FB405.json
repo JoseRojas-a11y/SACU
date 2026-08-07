@@ -1,0 +1,860 @@
+{
+  "course_id": "FB405",
+  "course_name": "Estadística_Aplicada",
+  "id": "1Qbqb5ZyH4C6y-3SY-ApL5ofhY3HsTOwY",
+  "scanned_at": "2026-08-07T00:07:15.307743+00:00",
+  "tree": {
+    "name": "Estadística_Aplicada",
+    "type": "folder",
+    "id": "1Qbqb5ZyH4C6y-3SY-ApL5ofhY3HsTOwY",
+    "children": [
+      {
+        "name": "Tabla_General",
+        "type": "file",
+        "id": "1kfrW0zO06sJTGWbJV0rHeeajvv_pvHK4",
+        "mimeType": "application/pdf",
+        "size": "443161"
+      },
+      {
+        "name": "Cuaderno_Aplicada_Yarko",
+        "type": "file",
+        "id": "1o8_h0OzXEI4HsQNLWeLlAvW0zOr0Xzdd",
+        "mimeType": "application/pdf",
+        "size": "17723815"
+      },
+      {
+        "name": "Sílabo_FB405",
+        "type": "file",
+        "id": "18xzGExCskH2x1n8S0rg-EJQ2UAbDwZPb",
+        "mimeType": "application/pdf",
+        "size": "581778"
+      },
+      {
+        "name": "Libros",
+        "type": "folder",
+        "id": "14vtyZXV7DLnDpFhbV95B-XpF8l0mA58d",
+        "children": [
+          {
+            "name": "Cómo_mentir_con_estadisticas.pdf",
+            "type": "file",
+            "id": "1c_ZXqpzU-gvKImHMet7urtiX-j1JFdYF",
+            "mimeType": "application/pdf",
+            "size": "2303627"
+          },
+          {
+            "name": "Mendenhall_(2006)_-_INT_A_LA_PROBABILIDAD_Y_ESTADISTICA.pdf",
+            "type": "file",
+            "id": "10npiEVHJIlkaXA_acKVhIDwUnAE6hUbb",
+            "mimeType": "application/pdf",
+            "size": "8502103"
+          },
+          {
+            "name": "disec3b1o-de-experimentosmontgomery_(1).pdf",
+            "type": "file",
+            "id": "1liz6Ot_ETqHtSJQrr-T1NJ5_uuE2ODoq",
+            "mimeType": "application/pdf",
+            "size": "27685403"
+          },
+          {
+            "name": "HINES_Y_MONTOGGOMERY_-_PROBABILIDAD_Y_ESTADISTICA.pdf",
+            "type": "file",
+            "id": "1zBG6_LqlRBKl0Gh8a3x39IOawEbWJRfm",
+            "mimeType": "application/pdf",
+            "size": "31341220"
+          },
+          {
+            "name": "metodos-cuantitativos-para-los-negocios-anderson-11th.pdf",
+            "type": "file",
+            "id": "1Sx8K-rhaIvj1FP7SQ6PQHnH4I9yfTKQ9",
+            "mimeType": "application/pdf",
+            "size": "4742422"
+          },
+          {
+            "name": "EA._Econometria.pdf",
+            "type": "file",
+            "id": "1m8NxI6B7aPOeACRP1X8sDh5hNiuA0BM2",
+            "mimeType": "application/pdf",
+            "size": "1635416"
+          }
+        ]
+      },
+      {
+        "name": "Teoría",
+        "type": "folder",
+        "id": "13PTabY63T5tzrrAlDTpGU9R8rvKrjPaC",
+        "children": [
+          {
+            "name": "8.1._Análisis_de_Varianza_y_Diseño_de_Experimentos.pdf",
+            "type": "file",
+            "id": "1kBQOtVFjWXgQqj_sKX01iqfldB-Lh93g",
+            "mimeType": "application/pdf",
+            "size": "1164576"
+          },
+          {
+            "name": "7.2._Descripciones_bivariantes_y_regresión_Ejercicios.pdf",
+            "type": "file",
+            "id": "1pzhGFbgUEEeiIyuyzlIav-cUOiU07j5h",
+            "mimeType": "application/pdf",
+            "size": "1103636"
+          },
+          {
+            "name": "7.1._Series_de_tiempo.pdf",
+            "type": "file",
+            "id": "17RjyptNiU_3ybrS6TMOY2Qz6t3r7UGwh",
+            "mimeType": "application/pdf",
+            "size": "1806910"
+          },
+          {
+            "name": "6.4._Regresión_Lineal_Múltiple_Ejercicios_Resueltos.pdf",
+            "type": "file",
+            "id": "1lG7sgqSx_MvnwaX_WD1eChQuVyhC1lgq",
+            "mimeType": "application/pdf",
+            "size": "1484899"
+          },
+          {
+            "name": "6.3._Regresión_Lineal_Múltiple_Variables_Dicotómicas.pdf",
+            "type": "file",
+            "id": "1yBAoDRV0fyw0UHJjRaJKTpfdHKBgEEDI",
+            "mimeType": "application/pdf",
+            "size": "118307"
+          },
+          {
+            "name": "6.2._Regresion_Lineal_Multiple_Fórmulas.pdf",
+            "type": "file",
+            "id": "1BSPiwD51cC_fD50lEWLgy_ZG0V2ACqUN",
+            "mimeType": "application/pdf",
+            "size": "259111"
+          },
+          {
+            "name": "6.1._Regresión_Lineal_Múltiple.pdf",
+            "type": "file",
+            "id": "14gLiOOO3OoSwxRitHwoywab7BXGdgHxq",
+            "mimeType": "application/pdf",
+            "size": "725907"
+          },
+          {
+            "name": "5.3._Regresión_No_Lineal.pdf",
+            "type": "file",
+            "id": "1baPnNjIuTR1dEBt0_og18tyJnQYT174b",
+            "mimeType": "application/pdf",
+            "size": "2052056"
+          },
+          {
+            "name": "5.2._Regresión_Lineal_Simple_alt..pdf",
+            "type": "file",
+            "id": "1aIGeptFIbqa8Zln8kQE7zhiqSLV0jR2a",
+            "mimeType": "application/pdf",
+            "size": "864076"
+          },
+          {
+            "name": "5.1._Regresión_Lineal_Simple.pdf",
+            "type": "file",
+            "id": "1lNnR9L-nANIw7E167agjyhMoJ0V6_g1s",
+            "mimeType": "application/pdf",
+            "size": "809099"
+          },
+          {
+            "name": "4.2._Vector_Aleatorio_Discreto.pdf",
+            "type": "file",
+            "id": "1lYneAlgiV2yuqPhNjqwImK_YOQzD6T81",
+            "mimeType": "application/pdf",
+            "size": "716438"
+          },
+          {
+            "name": "4.1._Vector_Aleatorio_Continuo.pdf",
+            "type": "file",
+            "id": "1IvnAfEIgQ3dZCP3zZsg5zMYVAscaBGEZ",
+            "mimeType": "application/pdf",
+            "size": "1124767"
+          },
+          {
+            "name": "3.3._Contrastes_No_Paramétricos_II.pdf",
+            "type": "file",
+            "id": "1SwtdqtStwTEg9q8saRAxKXjoWU6xgzIb",
+            "mimeType": "application/pdf",
+            "size": "523441"
+          },
+          {
+            "name": "3.2._Contrastes_No_Paramétricos_I.pdf",
+            "type": "file",
+            "id": "1zztGePdaG9PD4yJ0WiB41jyxJZD_F3W3",
+            "mimeType": "application/pdf",
+            "size": "475860"
+          },
+          {
+            "name": "3.1._Aplicaciones_Chi-Cuadrado.pdf",
+            "type": "file",
+            "id": "1VcfcHFIxLeiMW_1Cl0YAOtYZugHv_VIR",
+            "mimeType": "application/pdf",
+            "size": "387603"
+          },
+          {
+            "name": "2.2._Prueba_de_hipótesis_Ejercicios.pdf",
+            "type": "file",
+            "id": "1V4SS6T7pTRu4nSlxC2MuRGVDolEJFjlA",
+            "mimeType": "application/pdf",
+            "size": "2275302"
+          },
+          {
+            "name": "2.1._Prueba_de_hipótesis.pdf",
+            "type": "file",
+            "id": "1P-Uo09sMYagB3eaUymV7svtuovGwfA7F",
+            "mimeType": "application/pdf",
+            "size": "782843"
+          },
+          {
+            "name": "1.3._Estimación_por_intervalo_Ejercicios.pdf",
+            "type": "file",
+            "id": "1mJWVX5_VCSR88EO0XnH0ZQ7KfNfM4s1Q",
+            "mimeType": "application/pdf",
+            "size": "2100311"
+          },
+          {
+            "name": "1.2._Estimación_por_intervalo.pdf",
+            "type": "file",
+            "id": "1PHxZmOPM5GONWs6-nNMnj8zM07bToltC",
+            "mimeType": "application/pdf",
+            "size": "2165086"
+          },
+          {
+            "name": "1.1._Estimación_Puntual.pdf",
+            "type": "file",
+            "id": "13pzwOhNoWs6YZzHzlxPqJEl8yANQOJBC",
+            "mimeType": "application/pdf",
+            "size": "1749700"
+          }
+        ]
+      },
+      {
+        "name": "Prof._Yolanda",
+        "type": "folder",
+        "id": "1-iSOA67Y9bZRsMPPnOB8hR6ozDiy2qfd",
+        "children": [
+          {
+            "name": "ES",
+            "type": "folder",
+            "id": "1NDlLJxd3xVIuNEkGkOoDh_0SZxvPikyu",
+            "children": [
+              {
+                "name": "FB405_ES_23-2_Yolanda.pdf",
+                "type": "file",
+                "id": "1SQ-v0BFpogHPNq2GZnZQukjqWMYIYoVk",
+                "mimeType": "application/pdf",
+                "size": "414984"
+              }
+            ]
+          },
+          {
+            "name": "PC4",
+            "type": "folder",
+            "id": "1KHVJOfsoxrqyip8nu6g_2ip8e7GX1iGu",
+            "children": [
+              {
+                "name": "FB405_PC4_23-2_Yolanda.jpeg",
+                "type": "file",
+                "id": "1ze9xT--qywwD1aprR2PvGKk7nATBfgYR",
+                "mimeType": "image/jpeg",
+                "size": "368199"
+              },
+              {
+                "name": "FB405_PC4_24-2_Yolanda.pdf",
+                "type": "file",
+                "id": "1IrDN9f6G52l2ltMW4cV6ophKEUDKVLQM",
+                "mimeType": "application/pdf",
+                "size": "234373"
+              }
+            ]
+          },
+          {
+            "name": "PC3",
+            "type": "folder",
+            "id": "1K8NW-4NA2-7nhsBG6QQD5Us_Bn7X6U2y",
+            "children": [
+              {
+                "name": "FB405_PC3_23-1_Yolanda.jpeg",
+                "type": "file",
+                "id": "1mjdhh1q_qZCT53E6n3KS498jWt-bvoGp",
+                "mimeType": "image/jpeg",
+                "size": "212179"
+              },
+              {
+                "name": "FB405_PC3_24-1_Yolanda.jpeg",
+                "type": "file",
+                "id": "1tTaq_oqBcPLzqkopFJ2f1EKkubmiXxcf",
+                "mimeType": "image/jpeg",
+                "size": "223928"
+              },
+              {
+                "name": "FB405_PC3_24-2_Yolanda.jpeg",
+                "type": "file",
+                "id": "1r2Gr-rmYi-sW_yBM-r2RR1QKKrqsuxkb",
+                "mimeType": "image/jpeg",
+                "size": "279427"
+              },
+              {
+                "name": "FB405_PC3_23-2_Yolanda_Solucionario.pdf",
+                "type": "file",
+                "id": "1dBJHBgNBEwPpMqxr0J26egQr0P7_6EJi",
+                "mimeType": "application/pdf",
+                "size": "405917"
+              }
+            ]
+          },
+          {
+            "name": "PC2",
+            "type": "folder",
+            "id": "15VbE9WK4jllzYUZJTssuR8DpYB2oRdDS",
+            "children": [
+              {
+                "name": "FB405_PC2_23-2_Yolanda.pdf",
+                "type": "file",
+                "id": "13ZIVHPJHBJW4GCLRL_p7Gjy0drpbIBqO",
+                "mimeType": "application/pdf",
+                "size": "394291"
+              },
+              {
+                "name": "FB405_PC2_22-2_Yolanda.pdf",
+                "type": "file",
+                "id": "1cQC9GgOFNbkb_usA5BwtVUIchElNtPTk",
+                "mimeType": "application/pdf",
+                "size": "210115"
+              },
+              {
+                "name": "FB405_PC2_24-1_Yolanda.jpeg",
+                "type": "file",
+                "id": "1KpiLk6diTmF0tsNClpXvrL-PO_HK2CQ_",
+                "mimeType": "image/jpeg",
+                "size": "429436"
+              },
+              {
+                "name": "FB405_PC2_24-2_Yolanda.pdf",
+                "type": "file",
+                "id": "1eWc-7CoWslma0RBfTtMW96tDrjeHPDga",
+                "mimeType": "application/pdf",
+                "size": "285962"
+              }
+            ]
+          },
+          {
+            "name": "PC1",
+            "type": "folder",
+            "id": "1p3-TBiq8ypLDtkzxHrittH8KEucZb92I",
+            "children": [
+              {
+                "name": "FB405_PC1_23-2_Yolanda.jpeg",
+                "type": "file",
+                "id": "1q8-Odc-Aa7IWLaxvxIAgNg5OoSvVXgPD",
+                "mimeType": "image/jpeg",
+                "size": "333436"
+              },
+              {
+                "name": "FB405_PC1_23-1_Yolanda.jpeg",
+                "type": "file",
+                "id": "1u2SsFyW4wQR2ldHRfeFhb6H2nM7CXWNq",
+                "mimeType": "image/jpeg",
+                "size": "179575"
+              },
+              {
+                "name": "FB405_PC1_24-2_Yolanda.jpeg",
+                "type": "file",
+                "id": "1yLz6D4JELOG3dfaoiSza4F7-7GjWAEx8",
+                "mimeType": "image/jpeg",
+                "size": "469167"
+              },
+              {
+                "name": "FB405_PC1_24-1_Yolanda.jpeg",
+                "type": "file",
+                "id": "1gpEvUP-Z0gC11iKtRsA24jqu33UDhgVi",
+                "mimeType": "image/jpeg",
+                "size": "623765"
+              },
+              {
+                "name": "FB405_PC1_25-2_Yolanda.jpeg",
+                "type": "file",
+                "id": "14kq3lSNL4vl2suNOFuYd6tks_amJnIui",
+                "mimeType": "image/jpeg",
+                "size": "328411"
+              },
+              {
+                "name": "FB405_PC1_25-1_Yolanda.jpeg",
+                "type": "file",
+                "id": "1C_4PPLF5TE-HH0WGEtAvF8bqFcCsWsVM",
+                "mimeType": "image/jpeg",
+                "size": "311912"
+              }
+            ]
+          },
+          {
+            "name": "EF",
+            "type": "folder",
+            "id": "1yGm3g3HQJTUX19aI-fbxeCUu1kN0OdOo",
+            "children": [
+              {
+                "name": "FB405_EF_24-1_Yolanda.pdf",
+                "type": "file",
+                "id": "1ET6PmNVsCOotvMQMiPb75n_p4x4SkE4v",
+                "mimeType": "application/pdf",
+                "size": "116650"
+              },
+              {
+                "name": "FB405_EF_23-2_Yolanda.pdf",
+                "type": "file",
+                "id": "184PEnEZBPs1BKa9Y8T8iPYksuD3n4qL3",
+                "mimeType": "application/pdf",
+                "size": "433684"
+              },
+              {
+                "name": "FB405_EF_23-1_Yolanda.pdf",
+                "type": "file",
+                "id": "1RBS-kJK9IUijZ4eGiCJLzfV0zGgd_wNb",
+                "mimeType": "application/pdf",
+                "size": "209156"
+              },
+              {
+                "name": "FB405_EF_24-2_Yolanda.pdf",
+                "type": "file",
+                "id": "1M5pv3B5v_frmJ_pW3-bSWv38HOQMLrVE",
+                "mimeType": "application/pdf",
+                "size": "519308"
+              },
+              {
+                "name": "FB405_EF_25-2_Yolanda.pdf",
+                "type": "file",
+                "id": "1uVlbQ8JuYnfTwfduE71YIUw0to6bUfj9",
+                "mimeType": "application/pdf",
+                "size": "1228048"
+              }
+            ]
+          },
+          {
+            "name": "EP",
+            "type": "folder",
+            "id": "1lxmC5gA9Y2l123S1XY5NfVB374OWbruZ",
+            "children": [
+              {
+                "name": "FB405_EP_23-1_Yolanda.pdf",
+                "type": "file",
+                "id": "1t89fEAAdN0almvGm4TgVG5AGffVyHcIY",
+                "mimeType": "application/pdf",
+                "size": "450565"
+              },
+              {
+                "name": "FB405_EP_23-2_Yolanda.pdf",
+                "type": "file",
+                "id": "1DY_KemKk8PMUWVilNHqDwNFjuztxEoPA",
+                "mimeType": "application/pdf",
+                "size": "6086856"
+              },
+              {
+                "name": "FB405_EP_24-2_Yolanda.pdf",
+                "type": "file",
+                "id": "1PdozCPSXbCO0e8tH1Vu1EU7XiFrE8bHQ",
+                "mimeType": "application/pdf",
+                "size": "332146"
+              },
+              {
+                "name": "FB405_EP_25-2_Yolanda_Solucionario.jpeg",
+                "type": "file",
+                "id": "1Gg0CUgH8_8VXYZs8yZRN18tdQ4G_7Kww",
+                "mimeType": "image/jpeg",
+                "size": "361648"
+              }
+            ]
+          },
+          {
+            "name": "PE",
+            "type": "folder",
+            "id": "1G72rDtoDMOte8omFVMnFA10-3izB8hZn",
+            "children": [
+              {
+                "name": "FB405_PE_24-1_Yolanda.pdf",
+                "type": "file",
+                "id": "1YDvG7ITkFrWeYL1dCu_QKWSFIH7QyCE0",
+                "mimeType": "application/pdf",
+                "size": "127072"
+              },
+              {
+                "name": "FB405_PE_25-1_Yolanda.jpeg",
+                "type": "file",
+                "id": "1FRvlL8zu0vPH7OkGxpCeFa5yULrzjCYB",
+                "mimeType": "image/jpeg",
+                "size": "282186"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Prof._Yarko",
+        "type": "folder",
+        "id": "1sw10e9QlioPl6ZYE2BHa8yau9F9AiSJc",
+        "children": [
+          {
+            "name": "ES",
+            "type": "folder",
+            "id": "1NCPerfox4nc-GInsdzQGVr75kukfpdMd",
+            "children": [
+              {
+                "name": "FB405_ES_23-1_Yarko.jpeg",
+                "type": "file",
+                "id": "1Zu9AoJFXLnpNcw04ZU4tb33aOioZFMg7",
+                "mimeType": "image/jpeg",
+                "size": "319080"
+              },
+              {
+                "name": "FB405_ES_23-2_Yarko.jpeg",
+                "type": "file",
+                "id": "1Z_MH9PGuSFNBAJiRd_5AsvMbbRRoOw_R",
+                "mimeType": "image/jpeg",
+                "size": "332868"
+              },
+              {
+                "name": "FB405_ES_24-2_Yarko.pdf",
+                "type": "file",
+                "id": "17Fixqfv9yz--uKnE_yf31lxMubbDU5EY",
+                "mimeType": "application/pdf",
+                "size": "184327"
+              }
+            ]
+          },
+          {
+            "name": "EP",
+            "type": "folder",
+            "id": "1RaTxQc5ucm8XRL6pjtOxmZ-WOa4UTAXw",
+            "children": [
+              {
+                "name": "FB405_EP_26-1_Yarko.jpeg",
+                "type": "file",
+                "id": "1tvVjh7TRG7KX2vDkF4-2g2gA6rAT1I6d",
+                "mimeType": "image/jpeg",
+                "size": "297574"
+              },
+              {
+                "name": "FB405_EP_23-1_Yarko.jpeg",
+                "type": "file",
+                "id": "1JRVIXsW0KKfYLGtDraQmcOnpw6qEpnYw",
+                "mimeType": "image/jpeg",
+                "size": "550145"
+              },
+              {
+                "name": "FB405_EP_23-2_Yarko.jpeg",
+                "type": "file",
+                "id": "1zSJ2I0L4je0DfcjL34mLowypL-Hk7VIv",
+                "mimeType": "image/jpeg",
+                "size": "534343"
+              },
+              {
+                "name": "FB405_EP_23-3_Yarko.jpeg",
+                "type": "file",
+                "id": "1PE_Vuu2n077g7kaLwghYJCAc8WqbftzA",
+                "mimeType": "image/jpeg",
+                "size": "545494"
+              },
+              {
+                "name": "FB405_EP_24-2_Yarko.jpeg",
+                "type": "file",
+                "id": "1536rWEMWalV1kKy2waBzMuuDq1QNOjI6",
+                "mimeType": "image/jpeg",
+                "size": "607035"
+              },
+              {
+                "name": "FB405_EP_25-1_Yarko.jpeg",
+                "type": "file",
+                "id": "1OMpOw5a-WaRK07u5iwB_NF6-P7ErGtH4",
+                "mimeType": "image/jpeg",
+                "size": "378237"
+              },
+              {
+                "name": "FB405_EP_24-3_Yarko.jpeg",
+                "type": "file",
+                "id": "12Nwy8V2FCvo3gw8QQHzcmdZ_nH98q4aJ",
+                "mimeType": "image/jpeg",
+                "size": "677870"
+              }
+            ]
+          },
+          {
+            "name": "EF",
+            "type": "folder",
+            "id": "1XaI_pRsFV3Ff3inkLnnjQDKNDHQENlnh",
+            "children": [
+              {
+                "name": "FB405_EF_25-3_Yarko",
+                "type": "file",
+                "id": "1HEa-ovG0Ob6F1-pg1OwuXphhJsC1zB0v",
+                "mimeType": "image/jpeg",
+                "size": "139233"
+              },
+              {
+                "name": "FB405_EF_26-1_YarkoUbeda.jpeg",
+                "type": "file",
+                "id": "1avYiK4yFF5SZpnpTioq-fMdxyheln-ra",
+                "mimeType": "image/jpeg",
+                "size": "213594"
+              },
+              {
+                "name": "FB405_EF_23-1_Yarko.pdf",
+                "type": "file",
+                "id": "1eTbc9Hc5iICcNKiJDrAxNIdRHbqYpYJA",
+                "mimeType": "application/pdf",
+                "size": "381917"
+              },
+              {
+                "name": "FB405_EF_24-1_Yarko.jpeg",
+                "type": "file",
+                "id": "1RMlsruBhNcwWf1Yht6L5QlQ-z9MJXoKN",
+                "mimeType": "image/jpeg",
+                "size": "298214"
+              },
+              {
+                "name": "FB405_EF_23-3_Yarko.jpeg",
+                "type": "file",
+                "id": "1h1W3GrrDKw20YGMQ124lJSBJM1PO_OaF",
+                "mimeType": "image/jpeg",
+                "size": "523161"
+              },
+              {
+                "name": "FB405_EF_24-2_Yarko.jpeg",
+                "type": "file",
+                "id": "1kx7Vmbu2K1Ux6MAgTRzsOe4WWfGQzN-s",
+                "mimeType": "image/jpeg",
+                "size": "606964"
+              },
+              {
+                "name": "FB405_EF_24-3_Yarko.jpeg",
+                "type": "file",
+                "id": "1GrRMBwtLdEo-0YW2YpC-RBZvR8RMlA3m",
+                "mimeType": "image/jpeg",
+                "size": "665406"
+              }
+            ]
+          },
+          {
+            "name": "PC4",
+            "type": "folder",
+            "id": "18-YUCHA5vWDWuCf-SmQllqrJH2UnUtjB",
+            "children": [
+              {
+                "name": "FB405_PC4_24-3_Yarko.jpeg",
+                "type": "file",
+                "id": "17vFtsgv9bEYA0GTIc6b8kqvlpMo8G8bK",
+                "mimeType": "image/jpeg",
+                "size": "191729"
+              },
+              {
+                "name": "FB405_PC4_24-1_Yarko.jpeg",
+                "type": "file",
+                "id": "1eloxd0Zo7kT8xMOXsRdjo80gYff_nN2j",
+                "mimeType": "image/jpeg",
+                "size": "432573"
+              },
+              {
+                "name": "FB405_PC4_23-1_Yarko.jpeg",
+                "type": "file",
+                "id": "1EIQ1XPv2fQ-adXaJxN6v4v1gjXThdTYW",
+                "mimeType": "image/jpeg",
+                "size": "462521"
+              },
+              {
+                "name": "FB405_PC4_23-2_Yarko.jpeg",
+                "type": "file",
+                "id": "11i6iLdLxOMXT7Rl1V-ovt8Aa5kD17FJZ",
+                "mimeType": "image/jpeg",
+                "size": "289346"
+              },
+              {
+                "name": "FB405_PC4_24-2_Yarko.jpeg",
+                "type": "file",
+                "id": "1Iq2GWl4bhsDJlsIEyh179pWOCDVL4-2w",
+                "mimeType": "image/jpeg",
+                "size": "517049"
+              }
+            ]
+          },
+          {
+            "name": "PC3",
+            "type": "folder",
+            "id": "1lUzi4U8nsXbOk9ADWm5YMP5as3CirtvR",
+            "children": [
+              {
+                "name": "FB405_PC3_23-1_Yarko.jpeg",
+                "type": "file",
+                "id": "1_Wmd0Wpm7Q0yycvV9NcDqXXIFDPAU7ye",
+                "mimeType": "image/jpeg",
+                "size": "279333"
+              },
+              {
+                "name": "FB405_PC3_24-1_Yarko.jpeg",
+                "type": "file",
+                "id": "1jQu7iZMZpTqjqP791rjrgHKaScj_dqGD",
+                "mimeType": "image/jpeg",
+                "size": "453134"
+              },
+              {
+                "name": "FB405_PC3_23-3_Yarko_Solucionario.pdf",
+                "type": "file",
+                "id": "1Jb_jRJg0naU9SY_nxupFVdmMwC3Zpbp5",
+                "mimeType": "application/pdf",
+                "size": "678202"
+              },
+              {
+                "name": "FB405_PC3_24-2_Yarko.jpeg",
+                "type": "file",
+                "id": "17F34PF0JfyJ0uWgafmMVw3Ah_6Q8c0_K",
+                "mimeType": "image/jpeg",
+                "size": "529016"
+              },
+              {
+                "name": "FB405_PC3_25-1_Yarko.jpeg",
+                "type": "file",
+                "id": "16HWs9EFZv2n8zYmD8vqg3ROg3_q3S_JC",
+                "mimeType": "image/jpeg",
+                "size": "614862"
+              },
+              {
+                "name": "FB405_PC3_24-3_Yarko.jpeg",
+                "type": "file",
+                "id": "1FhExmgdHBIknHUGNpAj6mUCDbmEx4KAS",
+                "mimeType": "image/jpeg",
+                "size": "583841"
+              }
+            ]
+          },
+          {
+            "name": "PC2",
+            "type": "folder",
+            "id": "1cH4flP8msR_AQKblI1hlBfdRBHs0bY4E",
+            "children": [
+              {
+                "name": "FB405_PC2_26-1_Yarko.jpeg",
+                "type": "file",
+                "id": "1Cp1PyrXgFgqLLlXcophUKJqAPcZ2Y2hr",
+                "mimeType": "image/jpeg",
+                "size": "354374"
+              },
+              {
+                "name": "FB405_PC2_20-1_Yarko.pdf",
+                "type": "file",
+                "id": "1XUUgekiyLWDKIg_VUClq12sVNugWAUtt",
+                "mimeType": "application/pdf",
+                "size": "158147"
+              },
+              {
+                "name": "FB405_PC2_23-1_Yarko.jpeg",
+                "type": "file",
+                "id": "1PiVIazmzzqEN4DXX_Xe9rFF6AZlAmNAn",
+                "mimeType": "image/jpeg",
+                "size": "162914"
+              },
+              {
+                "name": "FB405_PC2_23-2_Yarko.jpeg",
+                "type": "file",
+                "id": "1eLEj5HgqPqewOT6TQXr1YwoO-kxIRIur",
+                "mimeType": "image/jpeg",
+                "size": "521620"
+              },
+              {
+                "name": "FB405_PC2_23-3_Yarko.jpeg",
+                "type": "file",
+                "id": "1Nd5JtXBOmmvKGUe1S3X0a5Y9TnuRv0cx",
+                "mimeType": "image/jpeg",
+                "size": "296438"
+              },
+              {
+                "name": "FB405_PC2_24-1_Yarko.jpeg",
+                "type": "file",
+                "id": "1-FJjuyFP7n8Mb4ZK7l0eUpQKWURMIjwh",
+                "mimeType": "image/jpeg",
+                "size": "426184"
+              },
+              {
+                "name": "FB405_PC2_24-2_Yarko.jpeg",
+                "type": "file",
+                "id": "1p_PMVvikS4Xwi14WqUD29KvdC0FA5gNT",
+                "mimeType": "image/jpeg",
+                "size": "648927"
+              },
+              {
+                "name": "FB405_PC2_24-3_Yarko.jpeg",
+                "type": "file",
+                "id": "12_xDkzS2SiVivMSQVu2UhWPJZoRKffE4",
+                "mimeType": "image/jpeg",
+                "size": "717965"
+              }
+            ]
+          },
+          {
+            "name": "PC1",
+            "type": "folder",
+            "id": "1veAC2F6MomacV-7K7cO_4ETMcI1jrgpw",
+            "children": [
+              {
+                "name": "FB405_PC1_26-1_Yarko.jpeg",
+                "type": "file",
+                "id": "1B7TqMrFMiRVRAHdGAW882PSMOxFrbMVX",
+                "mimeType": "image/jpeg",
+                "size": "204140"
+              },
+              {
+                "name": "FB405_PC1_24-1_Yarko.jpeg",
+                "type": "file",
+                "id": "1Hc1jkQrEtC_8_va557cqs16C2h-k6_m2",
+                "mimeType": "image/jpeg",
+                "size": "289544"
+              },
+              {
+                "name": "FB405_PC1_23-1_Yarko.jpeg",
+                "type": "file",
+                "id": "1Br_l4mi7frF6NEYy3hqLDehdGzE3EeFk",
+                "mimeType": "image/jpeg",
+                "size": "580738"
+              },
+              {
+                "name": "FB405_PC1_23-2_Yarko.jpeg",
+                "type": "file",
+                "id": "12F-rwxk6x_TP1qMVM73upECOPP2KAavq",
+                "mimeType": "image/jpeg",
+                "size": "552572"
+              },
+              {
+                "name": "FB405_PC1_24-2_Yarko.jpeg",
+                "type": "file",
+                "id": "1SSsGUf71qjGogA0fZsmfXEGJ1sE9nqA-",
+                "mimeType": "image/jpeg",
+                "size": "444189"
+              },
+              {
+                "name": "FB405_PC1_24-3_Yarko.jpeg",
+                "type": "file",
+                "id": "15hK2EgPKHRhLCOjzStGybgypDC2-I_aI",
+                "mimeType": "image/jpeg",
+                "size": "750517"
+              }
+            ]
+          },
+          {
+            "name": "PE",
+            "type": "folder",
+            "id": "1J7toKcV3ftAogBTHKUCNdadJCUMia-Ks",
+            "children": [
+              {
+                "name": "FB405_PE_25-1_Yarko.pdf",
+                "type": "file",
+                "id": "1CqumicEcOcPPxxCEUV16Kdb50-_mjKA3",
+                "mimeType": "application/pdf",
+                "size": "208775"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Apuntes_Estadística_Aplicada_(Yolanda_25-1).pdf",
+        "type": "file",
+        "id": "1ef7yH36kb_DRr9_q3kqMsHXZZlGB0g_3",
+        "mimeType": "application/pdf",
+        "size": "140476986"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1586 @@
+{
+  "course_id": "GE502",
+  "course_name": "Ingeniería_del_Trabajo_I",
+  "id": "1ieXrRf--rTpjU1xshzYZZBfLouqK6J7d",
+  "scanned_at": "2026-08-06T23:58:14.549313+00:00",
+  "tree": {
+    "name": "Ingeniería_del_Trabajo_I",
+    "type": "folder",
+    "id": "1ieXrRf--rTpjU1xshzYZZBfLouqK6J7d",
+    "children": [
+      {
+        "name": "Eguzquiza",
+        "type": "folder",
+        "id": "1KecBz_8khs2U-KDwFrykpkBvRAvCYrUv",
+        "children": [
+          {
+            "name": "TEORÍA",
+            "type": "folder",
+            "id": "1q9DxS53Q_lvNxg1xLZ4eRuXU1FBuWDAW",
+            "children": [
+              {
+                "name": "LIBROS",
+                "type": "folder",
+                "id": "1F6sLig7MaGDx-QfJIDWZZZDZW-5zMliv",
+                "children": [
+                  {
+                    "name": "Diaz_disposicion_planta.pdf",
+                    "type": "file",
+                    "id": "1fA-tgd9YZcZ1S4L59gYlsniLBMmB0j0a",
+                    "mimeType": "application/pdf",
+                    "size": "3659278"
+                  },
+                  {
+                    "name": "ESTUDIO_DEL_TRABAJO_ROBERTO_GARCIA_CRIOL.pdf",
+                    "type": "file",
+                    "id": "1icmTMk1NrSZ__CzsMHeYqvFeBVoQZUz_",
+                    "mimeType": "application/pdf",
+                    "size": "36861109"
+                  },
+                  {
+                    "name": "Manual_Del_Ingeniero_Industrial_Maynard.pdf",
+                    "type": "file",
+                    "id": "1GSTMto6q8eFzULbug6Mdw8l3faIbgGPB",
+                    "mimeType": "application/pdf",
+                    "size": "53639603"
+                  },
+                  {
+                    "name": "ALMACENES_PLANEACION_,_ORGANIZACION_Y_CONTROL_-_ALFONSO_GARCIA_CANTU.pdf",
+                    "type": "file",
+                    "id": "1aS7K04HZVWSLE1hXyDYfUj50MBYFMsJb",
+                    "mimeType": "application/pdf",
+                    "size": "28830069"
+                  },
+                  {
+                    "name": "Ingeniería_de_Métodos.pdf",
+                    "type": "file",
+                    "id": "1mtnBvqeUQ0fY7NtJgSfyJ7-VF2bfxPMu",
+                    "mimeType": "application/pdf",
+                    "size": "6493510"
+                  },
+                  {
+                    "name": "Direccion_de_la_Produccion_y_de_Operaciones.pdf",
+                    "type": "file",
+                    "id": "1adrJZHyceNE2ynlbJAnIh8woJC5B84tl",
+                    "mimeType": "application/pdf",
+                    "size": "8159744"
+                  }
+                ]
+              },
+              {
+                "name": "Materiales_por_semana",
+                "type": "folder",
+                "id": "185ikaJmeptLoVir7xJ2J_KKj710kn5B0",
+                "children": [
+                  {
+                    "name": "Semana_7",
+                    "type": "folder",
+                    "id": "1DOfWbgEwXu2jduz71fpqDNxIiqpOadUZ",
+                    "children": [
+                      {
+                        "name": "TAREA_Nº01,GE-502U,20-2.docx",
+                        "type": "file",
+                        "id": "1gDc5ObWxOrxFlLmKHg5XAnczNqo9F-jg",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "53417"
+                      },
+                      {
+                        "name": "TEST-Nº03_GE-502U_20-2.docx",
+                        "type": "file",
+                        "id": "1jMEnGcaE0sSdFVTl9-HnLnuZ_yNaCeeO",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "76872"
+                      },
+                      {
+                        "name": "INTRODUCCION_A_LA_DISTRIBUCION_DE_PLANTA.ppt",
+                        "type": "file",
+                        "id": "1-kjXnrukGT1OvVdRI_1MZ5cyI33xQhLx",
+                        "mimeType": "application/vnd.ms-powerpoint",
+                        "size": "467968"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Semana_9",
+                    "type": "folder",
+                    "id": "1cldBm0EtO1tjUyml8hSKJP0LJolUuMPs",
+                    "children": [
+                      {
+                        "name": "FACTORES_DE_DISTRIBUCION.ppt",
+                        "type": "file",
+                        "id": "10R73fLDgnsVYQjM7ERU7t6PYU2yEdMek",
+                        "mimeType": "application/vnd.ms-powerpoint",
+                        "size": "1032192"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Semana_6",
+                    "type": "folder",
+                    "id": "1Gr1b2U8wGALNPmcMHgWleTiwcaQWTF6R",
+                    "children": [
+                      {
+                        "name": "LOCALIZACION_DE_PLANTA-UNIDAD_SIETE.ppt",
+                        "type": "file",
+                        "id": "18ef0AUASvzjEzQ4vGqkfWZgzyKYV1HWM",
+                        "mimeType": "application/vnd.ms-powerpoint",
+                        "size": "1175040"
+                      },
+                      {
+                        "name": "PC2-GE-502U,_20-2.docx",
+                        "type": "file",
+                        "id": "14kbnCnS2tkr2jJ8TPgGdvyAGAnUxZgmQ",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "77583"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Semana_5",
+                    "type": "folder",
+                    "id": "1vrZVAVr8gMOX7aTJXiC8W5mSIQ8slZfu",
+                    "children": [
+                      {
+                        "name": "MEDICION_DEL_TRABAJO_2.pptx",
+                        "type": "file",
+                        "id": "1Vd4jfzEzjwo3E9DKm8D-NVytLRcL0Kl1",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "3296010"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Semana_8",
+                    "type": "folder",
+                    "id": "1Hmzyo9cWweTKg6UikzZrFHmmc7RqtioZ",
+                    "children": []
+                  },
+                  {
+                    "name": "Semana_4",
+                    "type": "folder",
+                    "id": "1ywKEn0Me5T78ZVDuQ-7CYrsFYIABvLuY",
+                    "children": [
+                      {
+                        "name": "ESTUDIO_DE_OTROS_DIAGRMAS.pptx",
+                        "type": "file",
+                        "id": "1xhXSMlmm51HX2mMijvwlPnv_MsWG7TJ5",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "2531242"
+                      },
+                      {
+                        "name": "TEST-Nº02_GE-502U_20-2.docx",
+                        "type": "file",
+                        "id": "1KYDLny3IkzRryjVSfBwhN9JAbAYqNbeL",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "75553"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Semana_3",
+                    "type": "folder",
+                    "id": "1L1YEK3NMuboNth0JqNETG4MS0DYyiick",
+                    "children": [
+                      {
+                        "name": "DIAGRAMA_DE_RECORRIDO.pptx",
+                        "type": "file",
+                        "id": "18pxcU1WVd_OqufKakLAw4v6l7nYUjxiK",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "1913325"
+                      },
+                      {
+                        "name": "PC1,GE502U,20-2.docx",
+                        "type": "file",
+                        "id": "1eieBAdHTidqTx3d_epNv1j7OiRSEtj7I",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "81554"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Semana_10",
+                    "type": "folder",
+                    "id": "1sONX_lNcuuorTarJrvblijpd6dkekNcR",
+                    "children": [
+                      {
+                        "name": "TEST_Nº_04_GE-502U,_20-2.docx",
+                        "type": "file",
+                        "id": "15xua4eX-vzUjEKnJeo_VrgF0rsCbWW8J",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "40927"
+                      },
+                      {
+                        "name": "ANALISIS_P_-_Q.ppt",
+                        "type": "file",
+                        "id": "1LDGs6YarZMpfftRoJ7NW46WpoA4EDEdl",
+                        "mimeType": "application/vnd.ms-powerpoint",
+                        "size": "1075200"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Semana_14",
+                    "type": "folder",
+                    "id": "1TPFCwuJPVVxqNZTG9867taCxSj0TV44b",
+                    "children": [
+                      {
+                        "name": "PRESENTACION_DEL_TRABAJO_FINAL.pptx",
+                        "type": "file",
+                        "id": "15YNWeSDL07OdJIJZmUHudfaub68p5LzZ",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "56192"
+                      },
+                      {
+                        "name": "TEST_Nº_06_GE-502U,_20-2.docx",
+                        "type": "file",
+                        "id": "1V3PmwfI9-SJPK9DYPKS1m1pvwcjONcxU",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "1404938"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Semana_16",
+                    "type": "folder",
+                    "id": "1_HfIHogB8qCFWet7kZ1tvIRCQ5hTTr7Q",
+                    "children": [
+                      {
+                        "name": "EXAMEN_FINAL.pptx",
+                        "type": "file",
+                        "id": "1QL8Whh7qnlN9OCfs1Yy9Mw9C3mi4wKBH",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "38475"
+                      },
+                      {
+                        "name": "EXFIGE502U-20-2.docx",
+                        "type": "file",
+                        "id": "1DuCWruCda2oE80d81Kb7ZckfVf2FsTVC",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "1019076"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Semana_15",
+                    "type": "folder",
+                    "id": "1d6eEj4q_WF1EdA2PrluJuXRt6fdx1hGh",
+                    "children": [
+                      {
+                        "name": "SUTENTACION_DEL_TRABAJO_FINAL_(1).pptx",
+                        "type": "file",
+                        "id": "1k4R3dmiJlU8BdFtYAFQOQ_O6Lyl3A3WU",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "58637"
+                      },
+                      {
+                        "name": "SUTENTACION_DEL_TRABAJO_FINAL.pptx",
+                        "type": "file",
+                        "id": "1TbCPI-snG4U6eDJZ7yLvx9vpGfpVPd3H",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "58637"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Semana_12",
+                    "type": "folder",
+                    "id": "17okGCIT91F52vg0kMTXGnp8f72Jl_3di",
+                    "children": [
+                      {
+                        "name": "EVALUACION_DE_ALTERNATIVA_DE_DISPOSICION_DE_PLANTA.ppt",
+                        "type": "file",
+                        "id": "1XLsrzgsnFzcW2bmH7UZtTvUxkpPXGBof",
+                        "mimeType": "application/vnd.ms-powerpoint",
+                        "size": "725504"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Semana_2",
+                    "type": "folder",
+                    "id": "1KGN7a34Qvs1KNYYAa7ecVKKL5y9hBh3b",
+                    "children": [
+                      {
+                        "name": "ESTUDIO_DE_METODOS-ETAPAS_GE-502.pptx",
+                        "type": "file",
+                        "id": "1TMl4-r3rU_ZqADMGRlfuPAjsIbzkA52S",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "2772656"
+                      },
+                      {
+                        "name": "TEST-Nº01_GE-502U_20-2.docx",
+                        "type": "file",
+                        "id": "13YpH5kttiQDNpgP_8IFOlZJLtONJDfZM",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "73955"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Semana_13",
+                    "type": "folder",
+                    "id": "1QBcGCEvXt-TaL4-_sVZpYAU7erTikvQi",
+                    "children": [
+                      {
+                        "name": "IMPLEMENTACION_DE_LA_ALTERNATIVA_ELEGIDA_(1).pptx",
+                        "type": "file",
+                        "id": "1vO5NizCjXB_UB9hay8BUvi_Oug4uPOwf",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "105812"
+                      },
+                      {
+                        "name": "PC4-GE-502U,_20-2.docx",
+                        "type": "file",
+                        "id": "1ISR9R3u4u0_1p3BvK8MzUlCsX0xYTvsL",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "565538"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Semana_11",
+                    "type": "folder",
+                    "id": "1JCIvCdn5hVGP8T5njL_hFxoijsXP_t-0",
+                    "children": [
+                      {
+                        "name": "TEST_Nº_05_GE-502U,_20-2.docx",
+                        "type": "file",
+                        "id": "1v6NSzNam-T5IjeFLlvTmM5XsXLUGMdy2",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "47346"
+                      },
+                      {
+                        "name": "MANEJO_DE_MATERIALES_(1)_(1).ppt",
+                        "type": "file",
+                        "id": "1td-N-8viLsBaMxTNi73hcdaJQ5EIc0wc",
+                        "mimeType": "application/vnd.ms-powerpoint",
+                        "size": "353792"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Semana_1",
+                    "type": "folder",
+                    "id": "1BJRkotEkWFRQBILDRrqpjqMphhMioKnF",
+                    "children": [
+                      {
+                        "name": "ORIGENES_DE_LA_EMPRESA.ppt",
+                        "type": "file",
+                        "id": "1EJFNvFAaUVnEOvQMMGXLkaQjqXe4ULAE",
+                        "mimeType": "application/vnd.ms-powerpoint",
+                        "size": "630784"
+                      },
+                      {
+                        "name": "PRODUCTIVIDADEN_LA_EMPRESA.pptx",
+                        "type": "file",
+                        "id": "1rKDW1AZHGjp1nkBflRRosQtVoRz6bNMl",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "6129581"
+                      },
+                      {
+                        "name": "FORMATO_DE_ELAB._DEL_TRABAJO_GE-502U,_20-1.docx",
+                        "type": "file",
+                        "id": "19HYb21aGSd9t3bu0oDZ5S3dN7c05Dvsu",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "size": "25962"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "PAUTAS,GE502U,_20-2,.docx",
+                "type": "file",
+                "id": "1vbAiKOyYLNRUhaiFpMBMNE743QtXyGIC",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "22348"
+              },
+              {
+                "name": "GE-502U-PROG._20-2(1).xlsx",
+                "type": "file",
+                "id": "1OXAhzaKFLdq_GK7gSo5JT5CPO0X-3s4N",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "12252"
+              },
+              {
+                "name": "GE-502U-SILABO-20-2.docx",
+                "type": "file",
+                "id": "132TW3Q8WS9h2_1qzB3ZvpP6_ZmW1yw_R",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "74764"
+              },
+              {
+                "name": "MATERIAL_POSTPARCIAL.pdf",
+                "type": "file",
+                "id": "1RIllN4rm_XtIO-oNMltEOfAhFEvyrsCg",
+                "mimeType": "application/pdf",
+                "size": "67229219"
+              },
+              {
+                "name": "GE-502U,_20-2,INDICE_DEL_TRABAJO.docx",
+                "type": "file",
+                "id": "1aBVZHtc5piLnHr_bfitsPU4bZexKIQti",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "35989"
+              },
+              {
+                "name": "CARATULA_DELTRABAJO_20-2_E_INDICACIONES.docx",
+                "type": "file",
+                "id": "1v6g9vyK0tMVrfZpigFF3BZfivUW6Hhn7",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "21869"
+              }
+            ]
+          },
+          {
+            "name": "PLANCHITAS_EGUSQUIZA",
+            "type": "folder",
+            "id": "1CK-pUucSDe_rgSG5-HQoqIbmzJADDHcN",
+            "children": [
+              {
+                "name": "Test",
+                "type": "folder",
+                "id": "1bnSqm0P8uj2NYehXG6et1W8Nf3CFy4CC",
+                "children": [
+                  {
+                    "name": "TAREA_Nº_02_GE-502U,_20-2.docx",
+                    "type": "file",
+                    "id": "1NW-JVwV7bsrvB8jCbq43n6thkOnYwtdX",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "122251"
+                  },
+                  {
+                    "name": "TEST-Nº02_GE-502U_20-2.docx",
+                    "type": "file",
+                    "id": "1HX0s_J5Jt7u0gKsTHuQoY2h3_Xvgw_bT",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "75553"
+                  },
+                  {
+                    "name": "TEST-Nº01_GE-502U_20-2.docx",
+                    "type": "file",
+                    "id": "1LHAEvqx-rDW-ZhzWB_rgOIKjVOlMhyA9",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "71500"
+                  },
+                  {
+                    "name": "TEST_Nº_04_GE-502U,_20-2.docx",
+                    "type": "file",
+                    "id": "1gadB9SjfdgDwqfslU9kZG6T9dveOwPK6",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "40927"
+                  },
+                  {
+                    "name": "TEST_Nº_05_GE-502U,_20-2.docx",
+                    "type": "file",
+                    "id": "1Y8yWxqnpLNQjlSTRW2wPX6QgWfNeiD66",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "47346"
+                  },
+                  {
+                    "name": "TEST-Nº03_GE-502U_20-2.docx",
+                    "type": "file",
+                    "id": "1ssOTNd9DcJtNBYST5D7KivAWLbVzoVuJ",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "73222"
+                  },
+                  {
+                    "name": "TEST_Nº_06_GE-502U,_20-2.docx",
+                    "type": "file",
+                    "id": "1ldCvJrO2UyF5Lgu7vZdZ4b5QK80ild6t",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1404938"
+                  }
+                ]
+              },
+              {
+                "name": "PC4",
+                "type": "folder",
+                "id": "1lmgPPegyqOZUotPBJq3-oVe1Ii3JemKo",
+                "children": [
+                  {
+                    "name": "PC4-GE-502U,_20-2.docx",
+                    "type": "file",
+                    "id": "1TVizte79ccjlWjHOdKXTU5XklbP7Liz8",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "565538"
+                  },
+                  {
+                    "name": "PC4-GE-502U,_20-2,_LINO_SOTA.docx",
+                    "type": "file",
+                    "id": "1p_huYWcr2PbScfdG2W4UVms92clyxCxr",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "571285"
+                  }
+                ]
+              },
+              {
+                "name": "SUSTI",
+                "type": "folder",
+                "id": "1gXFWGg6EQF4FEIpKEtIxyPICLRvec-8m",
+                "children": [
+                  {
+                    "name": "EGUZQUIZA_ES_2021-2.pdf",
+                    "type": "file",
+                    "id": "1yQGDJYxfnqkfaR5nEPub3GNgOL65oDaD",
+                    "mimeType": "application/pdf",
+                    "size": "463745"
+                  },
+                  {
+                    "name": "EGUZQUIZA_ES_2020-1.pdf",
+                    "type": "file",
+                    "id": "1fwcS7VWmTZnrUf_Brj23jsIp90PXhHwX",
+                    "mimeType": "application/pdf",
+                    "size": "510683"
+                  },
+                  {
+                    "name": "EXSUS-GE-502U,_20-1_PANTA_ORTEGA_LEONARD_TOMAS.docx",
+                    "type": "file",
+                    "id": "1esNJLkoTt8kq1DZrSHzS10r1mLzKvNTL",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "243448"
+                  },
+                  {
+                    "name": "LAU_ES_2021-1_(1).pdf",
+                    "type": "file",
+                    "id": "1DJdWM_KxqTNYTzHG2l7EPzwZodDbrcc0",
+                    "mimeType": "application/pdf",
+                    "size": "766640"
+                  }
+                ]
+              },
+              {
+                "name": "PC2",
+                "type": "folder",
+                "id": "1ZxhZI7JM45Zpbku0AlGULCgPANDz65y3",
+                "children": [
+                  {
+                    "name": "PC2-GE-502U,_20-2.docx",
+                    "type": "file",
+                    "id": "10V0noeUwuJ5mk45jMz3Yu9-kRk_40rY6",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "77583"
+                  },
+                  {
+                    "name": "EGUZQUIZA_PC2_2020-1_(1).pdf",
+                    "type": "file",
+                    "id": "1leVcwXd47_Qu_enyLLOZ3JV-vgfevLyY",
+                    "mimeType": "application/pdf",
+                    "size": "1039218"
+                  },
+                  {
+                    "name": "PC2-GE-502U,_20-1_PC4-GE502_15-2.docx",
+                    "type": "file",
+                    "id": "1hHg3-p1cplHCAc5L0V7hgoeAaaV4t9o7",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "653495"
+                  },
+                  {
+                    "name": "PC2-GE-502U,_21-1_(1).docx",
+                    "type": "file",
+                    "id": "1-QN7k8vrNEx5merZBWxwt-lfyp1ldKGx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "617389"
+                  }
+                ]
+              },
+              {
+                "name": "FINAL",
+                "type": "folder",
+                "id": "1WH4FnTI64P-uh-95LZcN_E4qIcdTmbAP",
+                "children": [
+                  {
+                    "name": "EXFIGE502U-20-2.docx",
+                    "type": "file",
+                    "id": "1tX_Do2XRI9iKcA0kR82ztYhXQFlbmSey",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1019076"
+                  },
+                  {
+                    "name": "FINAL_20-2_EGUSQUIZA.pdf",
+                    "type": "file",
+                    "id": "1yWbyRHzZvWrKjTIkO5xjkwC20QYzcPhd",
+                    "mimeType": "application/pdf",
+                    "size": "437449"
+                  },
+                  {
+                    "name": "SOLUCIONARIO_DE_EXAMEN_FINAL_DE_GE-502U,_20-2.docx",
+                    "type": "file",
+                    "id": "106gu1njcERujOHTX06sxFX7r5a17vnOC",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1037295"
+                  },
+                  {
+                    "name": "EXFIGE502U-21-1,_LINO_SOTA.docx",
+                    "type": "file",
+                    "id": "1pC0VDi1q58rYpUZZPa4BrQIzryGnjuIP",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1383638"
+                  },
+                  {
+                    "name": "EGUZQUIZA_EF_2020-2.pdf",
+                    "type": "file",
+                    "id": "1gwKHtUf6EFSFSzy8w0tgKGUQgoXiQTZn",
+                    "mimeType": "application/pdf",
+                    "size": "1154033"
+                  },
+                  {
+                    "name": "EGUZQUIZA_EF_2021-1.pdf",
+                    "type": "file",
+                    "id": "1HPEJqEoIW4yIF59QXoKLBrXnEt6tvcJP",
+                    "mimeType": "application/pdf",
+                    "size": "957058"
+                  }
+                ]
+              },
+              {
+                "name": "PC3",
+                "type": "folder",
+                "id": "1Lkdb1ZPnFKt1Tpx8wJ2QIZwBlkRJqfxB",
+                "children": [
+                  {
+                    "name": "EGUZQUIZA_PC3_2020-1.pdf",
+                    "type": "file",
+                    "id": "1QZLVW0sqbYcLhwUm3C6GollYq-RW1uGZ",
+                    "mimeType": "application/pdf",
+                    "size": "770239"
+                  },
+                  {
+                    "name": "PC3-GE-502U,_20-1.docx",
+                    "type": "file",
+                    "id": "1cjunDtG7uFPaFqBJKRZWTmTSteaZlmYt",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "76271"
+                  },
+                  {
+                    "name": "PC3-GE-502U,_21-1.docx",
+                    "type": "file",
+                    "id": "1GInzE0_brm23pFOK1SwvetikICl77hMl",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1060040"
+                  },
+                  {
+                    "name": "EGUZQUIZA_PC3_2020-2.pdf",
+                    "type": "file",
+                    "id": "1wPzPh94r_z5fSGK91s8-zaYwLfvjKf_-",
+                    "mimeType": "application/pdf",
+                    "size": "669969"
+                  }
+                ]
+              },
+              {
+                "name": "PLANCHITAS",
+                "type": "folder",
+                "id": "1iqf-N1y2e5RbtEhqL4gqWhhAQvbbB6X3",
+                "children": [
+                  {
+                    "name": "PC2-GE-502U,_21-1.docx",
+                    "type": "file",
+                    "id": "1em1Ktnoh0nsrPu8S6b1vdcNCtZHNH8Sz",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "617389"
+                  },
+                  {
+                    "name": "EXFIGE502U-21-1.docx",
+                    "type": "file",
+                    "id": "1yaYZW_05kUyNmxXMp7-hWhNLl8snfCip",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1121396"
+                  },
+                  {
+                    "name": "PC3-GE-502U,_21-1.docx",
+                    "type": "file",
+                    "id": "1OVDk-byfYMQtb1BjsYOMDpLxTZQexOex",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1060040"
+                  },
+                  {
+                    "name": "PC4-GE-502U,_20-2.docx",
+                    "type": "file",
+                    "id": "1ALrf4h0gYDggW685bVMRS7bv-35iPV_U",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "565548"
+                  },
+                  {
+                    "name": "PC1,GE502U,21-1.docx",
+                    "type": "file",
+                    "id": "1t0Jy1xc-lg9AWaoruUELKChgbMMxJM7B",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "924291"
+                  },
+                  {
+                    "name": "EXPA-GE-502U,_21-1.docx",
+                    "type": "file",
+                    "id": "1Gq5_HVfg0kBRl_GEEOn4XYzlFfgcbN1Q",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1429888"
+                  },
+                  {
+                    "name": "PRUEBA_DE_ENTRADA_GE-502U,_21-1.doc",
+                    "type": "file",
+                    "id": "1F14idsUll6sJWB-22w4RDzpOMKndNpZ2",
+                    "mimeType": "application/msword",
+                    "size": "80384"
+                  }
+                ]
+              },
+              {
+                "name": "PC1",
+                "type": "folder",
+                "id": "1Ti8QUbelY3RgnNbRTR9Ob2DSx-ZTpg3P",
+                "children": [
+                  {
+                    "name": "PC1,GE502U,21-1.docx",
+                    "type": "file",
+                    "id": "1Z1Qq9gJS7s2xmUE52hssHGwmqveExV5p",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "82380"
+                  },
+                  {
+                    "name": "PC1,GE502U,20-2.docx",
+                    "type": "file",
+                    "id": "1VwEhhCWZK9LHwlfbfsFqCcLLyjMIuQ4Z",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "81554"
+                  },
+                  {
+                    "name": "EGUZQUIZA_PC1_2020-1.pdf",
+                    "type": "file",
+                    "id": "1fYJzIk5xGRZOtfNqzlQ73eXHOdwRMGJH",
+                    "mimeType": "application/pdf",
+                    "size": "658151"
+                  },
+                  {
+                    "name": "EGUZQUIZA_PC1_2022-1.pdf",
+                    "type": "file",
+                    "id": "1lamwDepcC40SMCwDG1DkMIl976aGIpZM",
+                    "mimeType": "application/pdf",
+                    "size": "966178"
+                  },
+                  {
+                    "name": "GE-502U_PC1-20-1.docx",
+                    "type": "file",
+                    "id": "1Wy37oD6DD1YCYF06oTqRWt4hy7v7hjUd",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "625777"
+                  }
+                ]
+              },
+              {
+                "name": "PARCIAL",
+                "type": "folder",
+                "id": "1_4cgJFdWWpZlSI0-GSkUA78H8V7PZ0mr",
+                "children": [
+                  {
+                    "name": "EGUZQUIZA_EP_2020-1.pdf",
+                    "type": "file",
+                    "id": "1xv4k8Bauq7mCSdDI_b8wkslwp_ILuYFU",
+                    "mimeType": "application/pdf",
+                    "size": "757718"
+                  },
+                  {
+                    "name": "Egúzquiza_EP_A_2021-1.pdf",
+                    "type": "file",
+                    "id": "1mkZ9qnkkD14khzVxBHLlMR_DDtV92g8z",
+                    "mimeType": "application/pdf",
+                    "size": "44819"
+                  },
+                  {
+                    "name": "EGUZQUIZA_EP-2021-2.pdf",
+                    "type": "file",
+                    "id": "1oWtLps-PTICLFc5eoq78jCvrxZN_pWIf",
+                    "mimeType": "application/pdf",
+                    "size": "885349"
+                  },
+                  {
+                    "name": "EXPA-GE-502U,_20-2.docx",
+                    "type": "file",
+                    "id": "1LEjcUvxeyRIS5_6yShBWVZlpHmiKVInL",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "75471"
+                  },
+                  {
+                    "name": "EXPA-GE-502U,_20-1.docx",
+                    "type": "file",
+                    "id": "16cRB9gkrxRIViiYqKd7axzBEjcKM2FYC",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "75320"
+                  },
+                  {
+                    "name": "EXPA-GE-502U,_21-1,_LINO_SOTA.docx",
+                    "type": "file",
+                    "id": "1A7HiwwGzRoIpNhHOOH8Esr5BVhonhwFM",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1452665"
+                  },
+                  {
+                    "name": "Egúzquiza_EP_B_2021-1.pdf",
+                    "type": "file",
+                    "id": "1YAfSxJTwXEKBxvjLn0Abuekeblq__iIA",
+                    "mimeType": "application/pdf",
+                    "size": "143766"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Lau-Lostanau",
+        "type": "folder",
+        "id": "1nQhbTlcS1vh6QX8RJDHGXE1pyNtF4eA9",
+        "children": [
+          {
+            "name": "TEORÍA",
+            "type": "folder",
+            "id": "1lO6-Vh8ED4-9CbBbi0EDIK3o36uHkHz4",
+            "children": [
+              {
+                "name": "Clases",
+                "type": "folder",
+                "id": "1aHbRdI67HMMF2GbH9OzhxB_46g-5G1tN",
+                "children": [
+                  {
+                    "name": "2020-clase3-_MEJORA_DE_METODOS_DE_TRABAJ0.pdf",
+                    "type": "file",
+                    "id": "1OVAk5MvhDbeoIc1uiYGxcvhRpnZmqooW",
+                    "mimeType": "application/pdf",
+                    "size": "1433582"
+                  },
+                  {
+                    "name": "2020-clase7-_ECONOMÍA_DE_MOVIMIENTOS.pdf",
+                    "type": "file",
+                    "id": "1JINOUaBYW8B8ScpGPAAbe_HgtQ4Sl4uk",
+                    "mimeType": "application/pdf",
+                    "size": "1185387"
+                  },
+                  {
+                    "name": "2020-clase6-_Diag._Bimanual_Ejemplo_ensamble_lapicero.pdf",
+                    "type": "file",
+                    "id": "1kMcyRX_wPpeKwEADJkAAdNt4Xhr6ud6p",
+                    "mimeType": "application/pdf",
+                    "size": "200193"
+                  },
+                  {
+                    "name": "2020-clase4-_DOP+DAP.pdf",
+                    "type": "file",
+                    "id": "1nhMJnDdHGl9ypH4cy-WA3UmyS7PY4xQB",
+                    "mimeType": "application/pdf",
+                    "size": "515232"
+                  },
+                  {
+                    "name": "2020-clase2-_ESTUDIO-TRABAJO.pdf",
+                    "type": "file",
+                    "id": "1WWJ7zz8LIS97KwL0nJ40YoDrFabBjdXz",
+                    "mimeType": "application/pdf",
+                    "size": "451685"
+                  },
+                  {
+                    "name": "2020-clase13-SLP-_esquema.pdf",
+                    "type": "file",
+                    "id": "1H-bJLJsGItzMlXS-sHYy0-cl3T67cQO7",
+                    "mimeType": "application/pdf",
+                    "size": "1049523"
+                  },
+                  {
+                    "name": "2020-_DIECISIETE_habilidades-_TEMPLE.pdf",
+                    "type": "file",
+                    "id": "1kQofVraLIEkHvvh_YD93o0UXSPwKBQl-",
+                    "mimeType": "application/pdf",
+                    "size": "738347"
+                  },
+                  {
+                    "name": "2020-clase4-_DIAGRAMAS-estudio_trabajo.pdf",
+                    "type": "file",
+                    "id": "11I-SBa2xIu3GdMCEf3oKykQQh4CbB4_f",
+                    "mimeType": "application/pdf",
+                    "size": "393386"
+                  },
+                  {
+                    "name": "2020-herr1-_LOGISTICA.pdf",
+                    "type": "file",
+                    "id": "179yH519mayQwPstwcumhw4hDmIQa8r9K",
+                    "mimeType": "application/pdf",
+                    "size": "1012291"
+                  },
+                  {
+                    "name": "2020-clase6-_Diag._Bim-_Ejemplo.pdf",
+                    "type": "file",
+                    "id": "1M4Eh4kjVIQwzYJVrayqdamMzxGqinlJ1",
+                    "mimeType": "application/pdf",
+                    "size": "200193"
+                  },
+                  {
+                    "name": "2020-clase16-SLP-_selec_alternativas.pdf",
+                    "type": "file",
+                    "id": "1OCo6JUbAWwpt4hdu7nWRPiZ98bgJrmHp",
+                    "mimeType": "application/pdf",
+                    "size": "1123011"
+                  },
+                  {
+                    "name": "2020-herr4-_MARKETING.pdf",
+                    "type": "file",
+                    "id": "1q1h05AkmAT-aYrvZP6oBfTkVeFJyW4D2",
+                    "mimeType": "application/pdf",
+                    "size": "845495"
+                  },
+                  {
+                    "name": "2020-clase9-_LOCALIZ.pdf",
+                    "type": "file",
+                    "id": "1VGI9LTZrREWHcHox8PhkuDR3S5zrqPg3",
+                    "mimeType": "application/pdf",
+                    "size": "903232"
+                  },
+                  {
+                    "name": "2020-clase17-SLP-_caso_BOMBONES.pdf",
+                    "type": "file",
+                    "id": "189Mb9DWaZ2fv7euZ42MT8ZrqLuce9Rv7",
+                    "mimeType": "application/pdf",
+                    "size": "1318264"
+                  },
+                  {
+                    "name": "2020-clase14-_SLP-_relacional+_espacios.pdf",
+                    "type": "file",
+                    "id": "1EKLkIjWFIvThR8xagiGUVPj8UIOvZp0U",
+                    "mimeType": "application/pdf",
+                    "size": "647988"
+                  },
+                  {
+                    "name": "2020-clase10_DISTRIBUCION_DE_PLANTA_+LOCALIZ.pdf",
+                    "type": "file",
+                    "id": "1HS8dh5QXlJBT8FSKiJjDO9FhT2Ln4gZX",
+                    "mimeType": "application/pdf",
+                    "size": "1531271"
+                  },
+                  {
+                    "name": "2020-clase4-_Diagrama_de_flujo.pdf",
+                    "type": "file",
+                    "id": "1s82guJPgTHezC7jbIo9Ha53S7_7lTcQX",
+                    "mimeType": "application/pdf",
+                    "size": "396135"
+                  },
+                  {
+                    "name": "2020-clase3-_ING_PRODUCCION.pdf",
+                    "type": "file",
+                    "id": "1QwMJR2MnB9MuBXyUNE20z-Ov0U1yTtFE",
+                    "mimeType": "application/pdf",
+                    "size": "1171421"
+                  },
+                  {
+                    "name": "2020-clase8-_DIAGRAMA_DE_MICROMOVIMIENTOS_b.pdf",
+                    "type": "file",
+                    "id": "1AxRNdT7xbbbAbyS3_1DFhX3iyL0dGlRH",
+                    "mimeType": "application/pdf",
+                    "size": "1336705"
+                  },
+                  {
+                    "name": "2020-clase3-_OBJETIVO_DE_LA_INDUSTRIA.pdf",
+                    "type": "file",
+                    "id": "1yyG-BnHCnFyobV2XUWhIrDhc7TB_IXFU",
+                    "mimeType": "application/pdf",
+                    "size": "193428"
+                  },
+                  {
+                    "name": "2020-clase15-SLP-_NUMmaq_+decision_altern.pdf",
+                    "type": "file",
+                    "id": "1GVO78NsLDr-62xIj06bdlWF7u8sg9Ahs",
+                    "mimeType": "application/pdf",
+                    "size": "1251536"
+                  },
+                  {
+                    "name": "2020-clase1-_DT1-intro+dop.pdf",
+                    "type": "file",
+                    "id": "1tAxwPX91-dogdRIYtjqk9WnfzoUscXJu",
+                    "mimeType": "application/pdf",
+                    "size": "512725"
+                  }
+                ]
+              },
+              {
+                "name": "clase14-Cursogramas_de_producción.pdf",
+                "type": "file",
+                "id": "1xs0hxozYs5v5rs6ShXQ7y6Trf9Q4ynY2",
+                "mimeType": "application/pdf",
+                "size": "170926"
+              },
+              {
+                "name": "F02_I1-181-_GE502-syllabus181-Ing.Trab_I_(1).pdf",
+                "type": "file",
+                "id": "1V0JYYReglNjXV5WIUMiM9T0KDxzA_XjP",
+                "mimeType": "application/pdf",
+                "size": "386889"
+              },
+              {
+                "name": "GE-502-_EnvaseyEmbalaje2006-extracto.pdf",
+                "type": "file",
+                "id": "1_87LiHHwwmFxqFlxM9P66JTWP8gpQibn",
+                "mimeType": "application/pdf",
+                "size": "16671408"
+              },
+              {
+                "name": "ejemplo_H-M.xlsx",
+                "type": "file",
+                "id": "1of_aD7WbNTkT2PnDsdc0CrONS9Zlgh8S",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "11395"
+              },
+              {
+                "name": "monografia_ingenieria_trabajo.pdf",
+                "type": "file",
+                "id": "10SH9Cups44fVU_NEPeiXWo24oNDKUpcG",
+                "mimeType": "application/pdf",
+                "size": "22723689"
+              },
+              {
+                "name": "GE502-c11-_Distrib.de_Planta-_R._Muther.pdf",
+                "type": "file",
+                "id": "1_hOxV65vaVr8BB_4gTBMvy-CPyuwIKJ_",
+                "mimeType": "application/pdf",
+                "size": "558998"
+              },
+              {
+                "name": "Aplicaciones_Bimanual+Therbligs.pdf",
+                "type": "file",
+                "id": "1i93XflZg7z7uoY6QDTrO1UY7jJEsBc51",
+                "mimeType": "application/pdf",
+                "size": "999061"
+              },
+              {
+                "name": "Ingenieria_Industrial_metodos_estandares_y_diseno_del_trabajo_12ed._-_Niebel.pdf",
+                "type": "file",
+                "id": "1K-11ESrzo34l6w6FEwqOm0w_KGT3RT93",
+                "mimeType": "application/pdf",
+                "size": "22832006"
+              },
+              {
+                "name": "GRUPO_X_-_GE502V.docx.pdf",
+                "type": "file",
+                "id": "1C5TdtuYh7qZTlQXAhzv0JSul3j5CbNzx",
+                "mimeType": "application/pdf",
+                "size": "75867"
+              },
+              {
+                "name": "GRUPO_X_-_GE502V.docx",
+                "type": "file",
+                "id": "1L13zh3_0CE9uRAE_KkRdtqQmryqZ1bxA",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "13946"
+              },
+              {
+                "name": "Libro_introducción_al_trabajo.pdf",
+                "type": "file",
+                "id": "1FYILKee_oydrFqcWwM7kH3yQ2DaOXNkN",
+                "mimeType": "application/pdf",
+                "size": "10170256"
+              }
+            ]
+          },
+          {
+            "name": "UNIVIRTUAL",
+            "type": "folder",
+            "id": "152qjhyRJlvJBAAFTiRICOOe--a7zotzC",
+            "children": [
+              {
+                "name": "Silabo_-_ABET_2018_GE502_Ingeniería_del_Trabajo_I.pdf",
+                "type": "file",
+                "id": "1A04bQb5aNQ9QbOuQFL-6s6C0obfqqgmq",
+                "mimeType": "application/pdf",
+                "size": "386889"
+              },
+              {
+                "name": "Introducción_al_Estudio_del_Trabajo.pdf",
+                "type": "file",
+                "id": "1iJh7CI4fN55fCaapGwKaxQIJMAOHdVsm",
+                "mimeType": "application/pdf",
+                "size": "11501403"
+              },
+              {
+                "name": "7-Diagrama_SIMO.docx",
+                "type": "file",
+                "id": "11UWA6RvCIhL3wfWa7AanIPW_y3G83yPZ",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "882478"
+              },
+              {
+                "name": "Links.txt",
+                "type": "file",
+                "id": "1i91xeVgqDaJfp-9-DGHNKimLdRJa2L8x",
+                "mimeType": "text/plain",
+                "size": "591"
+              },
+              {
+                "name": "ingenieria-de-metodos-y-medicion-del-trabajo-eficiencia-para-la-pequec3b1a-industria.pdf",
+                "type": "file",
+                "id": "1ynTeXmJ6z3RCl-DSXnj77N5T0Tapa-LA",
+                "mimeType": "application/pdf",
+                "size": "433897"
+              },
+              {
+                "name": "Ingeniería_Industrial_Métodos,_estándares_y_diseño_del_trabajo.pdf",
+                "type": "file",
+                "id": "1DPyksTzB2fSpwx7W9u_e0INWh14l5WPX",
+                "mimeType": "application/pdf",
+                "size": "22832006"
+              },
+              {
+                "name": "LA_INDUSTRIA_Y_SU_OBJETIVO.doc",
+                "type": "file",
+                "id": "1z-aw48VfH2XsfGCqFRILguVX0g0-0Ftu",
+                "mimeType": "application/msword",
+                "size": "52224"
+              },
+              {
+                "name": "5-Diagrama_Hombre-Máquina_-_Enunciado.docx",
+                "type": "file",
+                "id": "1gh5MKlz63wZEtXjXowsGtn7oapjano6r",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "18227"
+              },
+              {
+                "name": "2-Norma_ASME_para_Diagramas_del_Proces.pdf",
+                "type": "file",
+                "id": "1hwNbxCcbUU1cbtFh78IqxYVF9MlDxGNw",
+                "mimeType": "application/pdf",
+                "size": "1148272"
+              },
+              {
+                "name": "4-2020-GE502V-clase4-Diagrama_de_flujo.pdf",
+                "type": "file",
+                "id": "1l9yCdOALA5JTAfaiL7XqoODLafeIU_-0",
+                "mimeType": "application/pdf",
+                "size": "396135"
+              },
+              {
+                "name": "3-diagramas.pdf",
+                "type": "file",
+                "id": "19krhTNLg3fELk-7spLm6RB0PgulBINjU",
+                "mimeType": "application/pdf",
+                "size": "393386"
+              },
+              {
+                "name": "5-Man_-_Machine_Chart_(1).pdf",
+                "type": "file",
+                "id": "1bTxCk2tyaUL7DyoUkKcEsBLq2vF1hYUM",
+                "mimeType": "application/pdf",
+                "size": "316391"
+              },
+              {
+                "name": "5-DIAGRAMA_BIMANUAL.xlsx",
+                "type": "file",
+                "id": "1Ig-SwqyLGC2vp6B2XSKaFt-KJg9twLjT",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "20760"
+              },
+              {
+                "name": "5-D.R..pdf",
+                "type": "file",
+                "id": "1Gg-pn1SDjbcJ51nGSbWhkffWin4puTNt",
+                "mimeType": "application/pdf",
+                "size": "2553680"
+              },
+              {
+                "name": "5-Diagrama_de_Recorrido.docx",
+                "type": "file",
+                "id": "1a91qrciQQuMKlNDqETlDy-HpU4wbth9Z",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "41670"
+              },
+              {
+                "name": "12-ANEXO_1_-_R.M._N°_375-2008-TR.pdf",
+                "type": "file",
+                "id": "1qpR1nw77ty8ELaOhiFLUz4YtSt_wKisy",
+                "mimeType": "application/pdf",
+                "size": "2437140"
+              },
+              {
+                "name": "3-2020-_clase4-DAP-figuras.pdf",
+                "type": "file",
+                "id": "1hMdHmIc-RWCrNNhMoA4ZIY20mepY5HAH",
+                "mimeType": "application/pdf",
+                "size": "675749"
+              },
+              {
+                "name": "1-2020-clase1-DT1-intro+dop.pdf",
+                "type": "file",
+                "id": "1ooMU2IDflqgtLsXgjiYYIY7jESS2i_uS",
+                "mimeType": "application/pdf",
+                "size": "522557"
+              },
+              {
+                "name": "4-2020-_clase4-DOP+DAP.pdf",
+                "type": "file",
+                "id": "1E4tsKXGGfFvatdnM0jCnOp38OQAjiDRb",
+                "mimeType": "application/pdf",
+                "size": "515232"
+              },
+              {
+                "name": "7-2020-clase7-_ECONOMÍA_DE_MOVIMIENTOS.pdf",
+                "type": "file",
+                "id": "1bCwulflQVrj_Tie9mj6AXZgbrE4dZFWl",
+                "mimeType": "application/pdf",
+                "size": "1181045"
+              },
+              {
+                "name": "2-2020-OBJETIVO_DE_LA_INDUSTRIA.pdf",
+                "type": "file",
+                "id": "1sqlj4eRGjllhmoD9Eq7W9Plt1EvPSjag",
+                "mimeType": "application/pdf",
+                "size": "185911"
+              },
+              {
+                "name": "12-SLP_para_Distribucion_en_Planta_2017.pdf",
+                "type": "file",
+                "id": "1DD0vkS8YQcLxb--GIL1GHtrPuub1EJRi",
+                "mimeType": "application/pdf",
+                "size": "717571"
+              },
+              {
+                "name": "3-mejora.pdf",
+                "type": "file",
+                "id": "1Z1nMpRczMiEOVQFbtN878BtZEB71utg9",
+                "mimeType": "application/pdf",
+                "size": "1433582"
+              },
+              {
+                "name": "6-Diag._Bimanual_Ejemplo_ensamble_lapicero_(2).pdf",
+                "type": "file",
+                "id": "1fKVaN4dwEa3LTqH-68LTCZbCFOuvSKyG",
+                "mimeType": "application/pdf",
+                "size": "200193"
+              },
+              {
+                "name": "4-d._h-m.pdf",
+                "type": "file",
+                "id": "1aGo1oY5y30p__QUecPUovHXsZe2GTE8T",
+                "mimeType": "application/pdf",
+                "size": "994294"
+              },
+              {
+                "name": "3-diagrama_de_flujo.pdf",
+                "type": "file",
+                "id": "1nVYNsEAsc9IclM6v7EuafhSEin-4xyoX",
+                "mimeType": "application/pdf",
+                "size": "515232"
+              },
+              {
+                "name": "14-2020-clase14-SLP-_esquema.pdf",
+                "type": "file",
+                "id": "1w_D9q6RWkz1_zgHMVV6mgRMzHgC4o7Ln",
+                "mimeType": "application/pdf",
+                "size": "1062128"
+              },
+              {
+                "name": "15-2020-clase15-SLP-_NUMmaq_+decision_altern.pdf",
+                "type": "file",
+                "id": "1B9jwkRCEq5AP_enOli2yjLrWwzzbFWcL",
+                "mimeType": "application/pdf",
+                "size": "1263435"
+              },
+              {
+                "name": "2-IT1_DOP_v261120.docx",
+                "type": "file",
+                "id": "1lr8PYCWRbC82QXvJ5IpgBCQhAz8gS6CX",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "58056"
+              },
+              {
+                "name": "6-2020-clase6-_DIAGRAMA_BI-MANUAL.pdf",
+                "type": "file",
+                "id": "1YxX6-W9frqVBm08xpoFESqe_zdCnfcRx",
+                "mimeType": "application/pdf",
+                "size": "1134529"
+              },
+              {
+                "name": "4-2020-clase4-DIAGRAMAS-estudio_trabajo.pdf",
+                "type": "file",
+                "id": "1IYm94BoLWbxBoVorjAJNAgcj5pIWSfF7",
+                "mimeType": "application/pdf",
+                "size": "393386"
+              },
+              {
+                "name": "12-Dialnet-EstudioErgonomicoEnElCentroOerlikonBalzersElayDeAn-4584973.pdf",
+                "type": "file",
+                "id": "1qQWp5Sgkpx7QblG-y2SMBtQjtPQu8Lzz",
+                "mimeType": "application/pdf",
+                "size": "144352"
+              },
+              {
+                "name": "2-2020-GE502V-clase2-ESTUDIO-TRABAJO.pdf",
+                "type": "file",
+                "id": "1iRWhBol6uo6m5tljeCVpsDu8IS-PgdEF",
+                "mimeType": "application/pdf",
+                "size": "399578"
+              },
+              {
+                "name": "1-Introducción_al_curso.pdf",
+                "type": "file",
+                "id": "1DyKPf_fQ7Nz2nRSpDz3BNxCHhlMpZ6FE",
+                "mimeType": "application/pdf",
+                "size": "2941721"
+              },
+              {
+                "name": "202-_prueba_de_entrada-GE602.docx",
+                "type": "file",
+                "id": "1hSs-3wcx74fVHxK-eSsgTrMFBfotrkxX",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "14300"
+              },
+              {
+                "name": "12-P-Q.docx",
+                "type": "file",
+                "id": "1DZvd9xpXBSDJsWPL_1Nrof906wNQCaUQ",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "900273"
+              },
+              {
+                "name": "2-2020-EST_TRABAJO-_intro.pdf",
+                "type": "file",
+                "id": "1dZnQNnLVm0HHZix_fki5UkKAWQDELkho",
+                "mimeType": "application/pdf",
+                "size": "269582"
+              },
+              {
+                "name": "1-2020-GE502V-clase1-INTRO1.pdf",
+                "type": "file",
+                "id": "180pibYzeRnSsqf4F4QccTpaQ8ZCPuPRd",
+                "mimeType": "application/pdf",
+                "size": "531370"
+              },
+              {
+                "name": "4-2020-_clase4-DAP-figuras.pdf",
+                "type": "file",
+                "id": "1D8lzWusChD5C81tLU2-KlzlgUO_XDxGA",
+                "mimeType": "application/pdf",
+                "size": "675749"
+              },
+              {
+                "name": "5-Diagrama_H-M_17-2.xlsx",
+                "type": "file",
+                "id": "1CDWRqtHc4VLkUxu3cvAYhml50rOt3sID",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "10260"
+              }
+            ]
+          },
+          {
+            "name": "PLANCHITAS_LAU-LOSTA",
+            "type": "folder",
+            "id": "1Nhxqs2cx2yUmQF88Mo0bCP8ZXBFPLcgY",
+            "children": [
+              {
+                "name": "PC04",
+                "type": "folder",
+                "id": "1RB1wq1B0q8ipVZoygC__u1HfZHQVHTPw",
+                "children": [
+                  {
+                    "name": "pc4_2.jpg",
+                    "type": "file",
+                    "id": "1igx0PNi73zuqoKxLpD4bzVg7OPu_izBX",
+                    "mimeType": "image/jpeg",
+                    "size": "19108"
+                  },
+                  {
+                    "name": "pc4_1.jpg",
+                    "type": "file",
+                    "id": "1YXVWwmH6rAEQtJFyftjHyeOilH7hiBDs",
+                    "mimeType": "image/jpeg",
+                    "size": "44933"
+                  },
+                  {
+                    "name": "Lostaunau_PC4_2020-1.pdf",
+                    "type": "file",
+                    "id": "1PwTjY9EURwUHnEyk35kpOsfsH73WKcLe",
+                    "mimeType": "application/pdf",
+                    "size": "46994"
+                  }
+                ]
+              },
+              {
+                "name": "PC02",
+                "type": "folder",
+                "id": "1JIU3Zk-QodUtrkeA-b_erwHSC9b777yB",
+                "children": [
+                  {
+                    "name": "practica_2_(1).docx",
+                    "type": "file",
+                    "id": "1aCj38rMiWcDAJe9zwtowCixsowYRmseK",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "18113"
+                  },
+                  {
+                    "name": "PC2.docx",
+                    "type": "file",
+                    "id": "180nBxqkMRJ_L-qTR7NWyu6I_FMyLJLXk",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "409343"
+                  }
+                ]
+              },
+              {
+                "name": "PC03",
+                "type": "folder",
+                "id": "1hP1j1fYzxUJQBvxtbgQyZ0bpf1oPtiyn",
+                "children": [
+                  {
+                    "name": "PC3-GE-502U,_20-2.docx",
+                    "type": "file",
+                    "id": "1t6oDDlf1r06YzouvlO-zqGhsAH4oYetF",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "75657"
+                  },
+                  {
+                    "name": "pc3_3.jpg",
+                    "type": "file",
+                    "id": "1Ns7aOmTzytIUuMnUnZ65k4EBZb654kuw",
+                    "mimeType": "image/jpeg",
+                    "size": "105305"
+                  },
+                  {
+                    "name": "LOSTAUNAU_PC3_2020-1.pdf",
+                    "type": "file",
+                    "id": "1_Dfem13myhvN4DRfhQVchW1-LbSWc68O",
+                    "mimeType": "application/pdf",
+                    "size": "117671"
+                  },
+                  {
+                    "name": "pc3_1.jpg",
+                    "type": "file",
+                    "id": "1uAifiaKXj_KekgOoHRVnrjGQhFL3wJt7",
+                    "mimeType": "image/jpeg",
+                    "size": "74558"
+                  }
+                ]
+              },
+              {
+                "name": "SUSTI",
+                "type": "folder",
+                "id": "1Ukh7JuSj_DYmmTmf1oCi_6C8vG5e3nui",
+                "children": [
+                  {
+                    "name": "202-GE503-_SUSTI-_parte_A_y_parte_B.doc",
+                    "type": "file",
+                    "id": "11paN6oXKFQAdgSyUpcrW-UM-M95CvHa7",
+                    "mimeType": "application/msword",
+                    "size": "97792"
+                  },
+                  {
+                    "name": "202-GE503-_SUSTI-_parte_A.doc",
+                    "type": "file",
+                    "id": "1eh-rGfB1w5H4FpUDXL_2e1Oe7y8FHMvd",
+                    "mimeType": "application/msword",
+                    "size": "56320"
+                  },
+                  {
+                    "name": "202-GE503-_SUSTI-_parte_B.doc",
+                    "type": "file",
+                    "id": "1Rw2a27TnR2rwtgWe0BSo-_dstTJb-rW4",
+                    "mimeType": "application/msword",
+                    "size": "90112"
+                  }
+                ]
+              },
+              {
+                "name": "PC01",
+                "type": "folder",
+                "id": "1u7sTGdoonlbqovLQcGN7UG_QLcHWbMx5",
+                "children": []
+              },
+              {
+                "name": "PARCIAL",
+                "type": "folder",
+                "id": "1hrDOvzp1E3iapXuvaEJptdulPzJ2Zx7d",
+                "children": [
+                  {
+                    "name": "LAU_EP_2020-2.pdf",
+                    "type": "file",
+                    "id": "1CLSHRjIYFs2C-a-DJK0By_zgFaVKeQW3",
+                    "mimeType": "application/pdf",
+                    "size": "60354"
+                  },
+                  {
+                    "name": "202-GE502-TAREA_ExParc.doc",
+                    "type": "file",
+                    "id": "1pJ10k5bBCQOatfGj0AzFtBHCP5JO7Z60",
+                    "mimeType": "application/msword",
+                    "size": "53248"
+                  },
+                  {
+                    "name": "202-GE502-Parcial_parte_A.doc",
+                    "type": "file",
+                    "id": "1ZjQVN006lLlgIO0qXlE8oXlMa2ccttUZ",
+                    "mimeType": "application/msword",
+                    "size": "54272"
+                  },
+                  {
+                    "name": "Lau_EP_2020-1.pdf",
+                    "type": "file",
+                    "id": "12efzp8c6dbM_x0RpO1PaadRCUNTCCcjE",
+                    "mimeType": "application/pdf",
+                    "size": "175354"
+                  },
+                  {
+                    "name": "202-GE502-Parcial-_parte_B_(1).docx",
+                    "type": "file",
+                    "id": "1uW-k67mL1m1_N4rVxCZsxMd23TdXQQ-z",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "36470"
+                  },
+                  {
+                    "name": "202-GE502-Parcial-_parte_B.docx",
+                    "type": "file",
+                    "id": "1f2edI0tNkZcQ5qAKWXq7mpXDHiaTQMg2",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "39049"
+                  }
+                ]
+              },
+              {
+                "name": "FINAL",
+                "type": "folder",
+                "id": "1U19z7f5g4BN3UcwMR8QP6YoYXdfkg-eR",
+                "children": [
+                  {
+                    "name": "LAU_EF_2020-1.pdf",
+                    "type": "file",
+                    "id": "1Q1IA0eyCXlpZXwoAmD02IgKcqUwUcs0P",
+                    "mimeType": "application/pdf",
+                    "size": "199162"
+                  },
+                  {
+                    "name": "SOLUCIONARIO_DE_EXAMEN_FINAL_DE_GE-502U,_20-2_(1).docx",
+                    "type": "file",
+                    "id": "1h6NKT8f7qLwDa3XKmWzPwoZDBcE7eag-",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "1037295"
+                  },
+                  {
+                    "name": "201-ge502-final.docx",
+                    "type": "file",
+                    "id": "10pZQ1IsD7V5ni-Uk8e6KWsYI3pl9RxjQ",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "51676"
+                  },
+                  {
+                    "name": "202-GE503-_ExFinal-_parte_A.docx",
+                    "type": "file",
+                    "id": "1fcemQxKLqHQWuwPgVKuKIBZn39nGxkG8",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size": "31055"
+                  },
+                  {
+                    "name": "202-GE503-_ExFinal-_parte_B.doc",
+                    "type": "file",
+                    "id": "1E29NGNFu1Xx_JTUgCENjHBnicnAXRuSf",
+                    "mimeType": "application/msword",
+                    "size": "52736"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

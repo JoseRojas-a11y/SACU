@@ -1,0 +1,678 @@
+{
+  "course_id": "SW305",
+  "course_name": "Algoritmia_y_estructura_de_datos_Avanzada",
+  "id": "1x8KEB_7JQU82N-mXV5qkswEJ2U_bf2c3",
+  "scanned_at": "2026-08-06T23:56:53.734752+00:00",
+  "tree": {
+    "name": "Algoritmia_y_estructura_de_datos_Avanzada",
+    "type": "folder",
+    "id": "1x8KEB_7JQU82N-mXV5qkswEJ2U_bf2c3",
+    "children": [
+      {
+        "name": "Planchas",
+        "type": "folder",
+        "id": "1lZMjy102rbwJv8q6wCA5oBXmszW9Epsx",
+        "children": [
+          {
+            "name": "EF",
+            "type": "folder",
+            "id": "156Awtbd2AzsKa06cPNx-HoG0vxydTtA6",
+            "children": [
+              {
+                "name": "EF_26-1",
+                "type": "file",
+                "id": "1s4LlOTiLR3JvsKZD6zJgM1dnuyOOOPuo",
+                "mimeType": "application/pdf",
+                "size": "759837"
+              }
+            ]
+          },
+          {
+            "name": "PC4",
+            "type": "folder",
+            "id": "1hgq0l0KGmKC6hV3YIE69WKz0yTKlzLNo",
+            "children": [
+              {
+                "name": "PC4-26-1.pdf",
+                "type": "file",
+                "id": "1-JdiGmUlsYnDqUh2qegwACHvtVLPluPG",
+                "mimeType": "application/pdf",
+                "size": "306468"
+              }
+            ]
+          },
+          {
+            "name": "PC3",
+            "type": "folder",
+            "id": "1kPR6USLRM_zly2QJgjhi8i7x_O73FY2X",
+            "children": [
+              {
+                "name": "PC3_-_26-1.pdf",
+                "type": "file",
+                "id": "12TPsv6MCRrAIKPogzMCazghpYWvvVGy7",
+                "mimeType": "application/pdf",
+                "size": "457719"
+              }
+            ]
+          },
+          {
+            "name": "EP",
+            "type": "folder",
+            "id": "1XOZ-Z8D4a5ATgT9kiOwPgmkV4JfJECdV",
+            "children": [
+              {
+                "name": "EP-26-1.pdf",
+                "type": "file",
+                "id": "1sLRt9KyoThYKiA29WXTpeTe747TppyPq",
+                "mimeType": "application/pdf",
+                "size": "393516"
+              }
+            ]
+          },
+          {
+            "name": "PC2",
+            "type": "folder",
+            "id": "1nfH78DOaQuNDOPQhDpESwrhV6fATMzml",
+            "children": [
+              {
+                "name": "PC2_26-1.pdf",
+                "type": "file",
+                "id": "177YIBQ4tnZvIjMWJrBF6RYSyznhNGF9E",
+                "mimeType": "application/pdf",
+                "size": "224005"
+              },
+              {
+                "name": "PC2_25-1.pdf",
+                "type": "file",
+                "id": "14l6XmVOB8jvPevElTJw3TfXFD9s_OtTC",
+                "mimeType": "application/pdf",
+                "size": "1816180"
+              }
+            ]
+          },
+          {
+            "name": "PC1",
+            "type": "folder",
+            "id": "1CsYJB_bs9t-_sFxqnXOKI5PlORU0rmIU",
+            "children": [
+              {
+                "name": "PC1_26-1_Audante.pdf",
+                "type": "file",
+                "id": "1MSqv6CYYv3L28gmPs7soX_GDvXjpLHiN",
+                "mimeType": "application/pdf",
+                "size": "6094994"
+              },
+              {
+                "name": "PC1_ALGORITMIA_ESTRUCTURA_DE_DATOS_AVANZADA_(1).docx.pdf",
+                "type": "file",
+                "id": "1yMoWdhBKvBC46B-bJqUCu0GGGR_p79kp",
+                "mimeType": "application/pdf",
+                "size": "362985"
+              }
+            ]
+          },
+          {
+            "name": "PE",
+            "type": "folder",
+            "id": "1ar6sDIZJ44sSZyR17LqsuXAPQ9v7idU9",
+            "children": [
+              {
+                "name": "PE_ALGORITMIA_ESTRUCTURA_DE_DATOS_AVANZADA_25-I_(2).docx.pdf",
+                "type": "file",
+                "id": "1xvh1tqn_x5nhRZZaGa-PijkyQ-MhDXfx",
+                "mimeType": "application/pdf",
+                "size": "1488168"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Material_de_Audante",
+        "type": "folder",
+        "id": "1jW1f1sua4P1jXgXyRlGe6uxdbgAH4m8o",
+        "children": [
+          {
+            "name": "AlgoritmiaAvanzadaMao.rar",
+            "type": "file",
+            "id": "1-fIuruq2N1lxQx0NhOcn5hBhE0IyTlo7",
+            "mimeType": "application/x-rar",
+            "size": "166924887"
+          },
+          {
+            "name": "Semana_15",
+            "type": "folder",
+            "id": "1Lpx3Vw_GVMkDd_iNEtQZrsXZo7cl1XEl",
+            "children": [
+              {
+                "name": "ProblemasDP_(1).zip",
+                "type": "file",
+                "id": "16i623_b77lle_aaGlQl3wTaB6dLZssXY",
+                "mimeType": "application/x-zip-compressed",
+                "size": "464887"
+              },
+              {
+                "name": "ProgramacionDinamicav1.1.pdf",
+                "type": "file",
+                "id": "1Ey_rJ2ZtgI2bYtyJ5rTCdL3MnO_DoaiW",
+                "mimeType": "application/pdf",
+                "size": "655110"
+              },
+              {
+                "name": "dirigidawighted_(2).zip",
+                "type": "file",
+                "id": "1ZbIFAZr9Hs7X8R16VYwns81DSYoSPzxg",
+                "mimeType": "application/x-zip-compressed",
+                "size": "259031"
+              },
+              {
+                "name": "Sesion13.1_Grafos_v1.6_(1).pdf",
+                "type": "file",
+                "id": "1QpFHKsuXYB-BPtzR1Cjk5u4qK0I-PN1b",
+                "mimeType": "application/pdf",
+                "size": "4193742"
+              },
+              {
+                "name": "problemasWeightedGraph_(3).zip",
+                "type": "file",
+                "id": "1-bHyrs8D1js4z31fIDqH2W5fM4jTz6xm",
+                "mimeType": "application/x-zip-compressed",
+                "size": "295381"
+              }
+            ]
+          },
+          {
+            "name": "Semana_14",
+            "type": "folder",
+            "id": "1aUmgt3VUILHcK0nM5VtsThARK3Ui_QTF",
+            "children": [
+              {
+                "name": "Sesion13.1_Grafos_v1.5.pdf",
+                "type": "file",
+                "id": "10vH_X8mFaCeORUGCwxSZovPZ3AD7uXQ-",
+                "mimeType": "application/pdf",
+                "size": "3921799"
+              },
+              {
+                "name": "finding_cycles.zip",
+                "type": "file",
+                "id": "1djMLDTiooRNjgWYRA2QrMhMo1CyAIPhl",
+                "mimeType": "application/x-zip-compressed",
+                "size": "6399"
+              },
+              {
+                "name": "problemasDFS_(1).zip",
+                "type": "file",
+                "id": "1nExQ-JYOMRM9ZJgBgYZg98N7Y5dElU1a",
+                "mimeType": "application/x-zip-compressed",
+                "size": "63187"
+              }
+            ]
+          },
+          {
+            "name": "Semana_13",
+            "type": "folder",
+            "id": "1jjhNw0Jf1mlTBQrRMVOPCCm_YF0uzKbx",
+            "children": [
+              {
+                "name": "Sesion13.1_Grafos_v1.2.pdf",
+                "type": "file",
+                "id": "1GC72UPZ-4hsmEBurzBylsCYvN6YrqWau",
+                "mimeType": "application/pdf",
+                "size": "3835420"
+              },
+              {
+                "name": "problemasBFS_(1).zip",
+                "type": "file",
+                "id": "1gQCbd2fYb6yWLwt6j6MmTjUN3qeenSK-",
+                "mimeType": "application/x-zip-compressed",
+                "size": "259687"
+              }
+            ]
+          },
+          {
+            "name": "Semana_12",
+            "type": "folder",
+            "id": "1gPVJlmQwBLk1vvTnDOyll5oelvmPR95s",
+            "children": [
+              {
+                "name": "bfs_grafo10aristas.zip",
+                "type": "file",
+                "id": "1kcob4ArmOJf5quiBxUBZJUaNkMt7J5rH",
+                "mimeType": "application/x-zip-compressed",
+                "size": "6710"
+              },
+              {
+                "name": "findpath_explicacion.zip",
+                "type": "file",
+                "id": "1KGUbf6oj-3ixnx0P-fsH8kalth6T3pb6",
+                "mimeType": "application/x-zip-compressed",
+                "size": "4799"
+              },
+              {
+                "name": "findpath_nondirected2.zip",
+                "type": "file",
+                "id": "1rk3HcSLnvITgVUdmQ3cdzBCrOGpan7t9",
+                "mimeType": "application/x-zip-compressed",
+                "size": "5793"
+              },
+              {
+                "name": "Sesion0.1_overviewJava_Collections_v1.0.pdf",
+                "type": "file",
+                "id": "1kLi7C4u0HPQ5Uk2S16n9x2Qo-N9w6g74",
+                "mimeType": "application/pdf",
+                "size": "1894439"
+              },
+              {
+                "name": "AlgoAvanzada_Collections.pdf",
+                "type": "file",
+                "id": "1tjYhJiIhHFOu5xfQLSNCzp4onL0MOG0P",
+                "mimeType": "application/pdf",
+                "size": "217691"
+              }
+            ]
+          },
+          {
+            "name": "Semana_10",
+            "type": "folder",
+            "id": "11jUgMAECJ6vM0lc3S7kz45yXVlFQa2hd",
+            "children": [
+              {
+                "name": "Sesion13.1_Grafos_v1.0.pdf",
+                "type": "file",
+                "id": "1rg8k11jWtUEJKBRgWmiPFSsMUNGPnas0",
+                "mimeType": "application/pdf",
+                "size": "2710105"
+              }
+            ]
+          },
+          {
+            "name": "Semana_9",
+            "type": "folder",
+            "id": "1wcrluV9q5pRJt7yP3xFneTvYK-7aSmdP",
+            "children": [
+              {
+                "name": "problemasPropuestosBacktracking.zip",
+                "type": "file",
+                "id": "1_Lg4wmWjb5TI5t5-otN8oKNf3hLnwDPE",
+                "mimeType": "application/x-zip-compressed",
+                "size": "100334"
+              },
+              {
+                "name": "Backtrackingv1.5.pdf",
+                "type": "file",
+                "id": "1GJ3R96l5vRpzzHYy03XmcMG1WsII5GVf",
+                "mimeType": "application/pdf",
+                "size": "1090153"
+              },
+              {
+                "name": "861.pdf",
+                "type": "file",
+                "id": "1yuvxKyC9U8eZYVR23bNIMDfPMZX9hgQ8",
+                "mimeType": "application/pdf",
+                "size": "42017"
+              },
+              {
+                "name": "524.pdf",
+                "type": "file",
+                "id": "1SnpILtJ2IwBlg5eygEkA2yXeTpnkP-ya",
+                "mimeType": "application/pdf",
+                "size": "24339"
+              },
+              {
+                "name": "Backtrackingv1.4.pdf",
+                "type": "file",
+                "id": "1KE7RZq13IT2xZ1KgP09oAx6Om7OHei9Y",
+                "mimeType": "application/pdf",
+                "size": "876315"
+              }
+            ]
+          },
+          {
+            "name": "Semana_7",
+            "type": "folder",
+            "id": "1s-VCX-LJoPIpuLMAiqbuj3XusRYdNSBX",
+            "children": [
+              {
+                "name": "Sesion6.3_TAD_ABBv1.2_(1).pdf",
+                "type": "file",
+                "id": "1gWvGIpMRf-y6z4aUkQf6Gq7XGH4bSxGN",
+                "mimeType": "application/pdf",
+                "size": "3861306"
+              }
+            ]
+          },
+          {
+            "name": "Semana_6",
+            "type": "folder",
+            "id": "1rBlFwL_YpY9kjOTsp7IUptpDBJy7JjW_",
+            "children": [
+              {
+                "name": "Dirigida.pdf",
+                "type": "file",
+                "id": "1Sl_0xhJIFhKKI6Th4t-M7vZRxOpdvGoP",
+                "mimeType": "application/pdf",
+                "size": "166317"
+              },
+              {
+                "name": "Ejercicios_Árboles_Binarios_de_Búsqueda_(1).pdf",
+                "type": "file",
+                "id": "1PjD7nvawpWYhPl_v5suEqQYZlHtomaXY",
+                "mimeType": "application/pdf",
+                "size": "257539"
+              },
+              {
+                "name": "Sesion6.3_TAD_ABB_(1).pdf",
+                "type": "file",
+                "id": "1voD65p1UIq8Wnl2Rpg9kr290gOSuPjOe",
+                "mimeType": "application/pdf",
+                "size": "3360311"
+              },
+              {
+                "name": "CriterioParaLos3Casos.pdf",
+                "type": "file",
+                "id": "1Ljpf0oqnY_B5I_qotaiDHIPRTr3ksR9l",
+                "mimeType": "application/pdf",
+                "size": "101503"
+              },
+              {
+                "name": "Sesion3.3_Analisis_Algoritmicov-parte3_v1.1_(1).pdf",
+                "type": "file",
+                "id": "1DBbh-CGsO8ee0u0-7jAZw-D8prkwG9nW",
+                "mimeType": "application/pdf",
+                "size": "1316569"
+              },
+              {
+                "name": "ArbolDeRecuersion_prob3.pdf",
+                "type": "file",
+                "id": "1vlPMyZBOmwDRI7qMKZGFclVR4TIe56GD",
+                "mimeType": "application/pdf",
+                "size": "455587"
+              },
+              {
+                "name": "ArbolDeRecuersion_prob3_doc_(1).pdf",
+                "type": "file",
+                "id": "1cIclUEsFTDDfJBUfeYLVqWeFlzShDstq",
+                "mimeType": "application/pdf",
+                "size": "362405"
+              }
+            ]
+          },
+          {
+            "name": "Semana_5",
+            "type": "folder",
+            "id": "1Ol3KGi6T1Zl5ufDsOmJp7kevglr3mJDZ",
+            "children": [
+              {
+                "name": "ArbolDeRecuersion_prob2.pdf",
+                "type": "file",
+                "id": "1r_qakMh1D6FaATAn55NXDkPeFLjA97G7",
+                "mimeType": "application/pdf",
+                "size": "445042"
+              },
+              {
+                "name": "Sesion3.3_Analisis_Algoritmicov-parte3_v1.0.pdf",
+                "type": "file",
+                "id": "1izAd7xANU7_2iNs0G8CX9uJH5u76s33o",
+                "mimeType": "application/pdf",
+                "size": "1202262"
+              },
+              {
+                "name": "ArbolDeRecuersion_prob1.pdf",
+                "type": "file",
+                "id": "1YMAvtD5gRtA-v-h8wD7RyOfoDbHmAfiZ",
+                "mimeType": "application/pdf",
+                "size": "386524"
+              }
+            ]
+          },
+          {
+            "name": "Semana_4",
+            "type": "folder",
+            "id": "17XY6T6xuosyJn5xHELH7C71APo2Q-W8U",
+            "children": [
+              {
+                "name": "Sesion3.2_Analisis_Algoritmicov-parte2_v1.0_ima_(2).pdf",
+                "type": "file",
+                "id": "1ETV_YS9cm9ONBS1Dvzz3yanu3G11rfIN",
+                "mimeType": "application/pdf",
+                "size": "4897580"
+              },
+              {
+                "name": "solucion_recurrencias_polinomio_característico.pdf",
+                "type": "file",
+                "id": "18j69iikkPpELCHJRZ5A6szH3Iqhs8N2H",
+                "mimeType": "application/pdf",
+                "size": "451042"
+              },
+              {
+                "name": "solucion_recurrencias_por_sustitucion.pdf",
+                "type": "file",
+                "id": "19nL1Hbdu7KZt5NUuU_rQaOMcofbyX6uS",
+                "mimeType": "application/pdf",
+                "size": "107632"
+              },
+              {
+                "name": "analisis_asintótico_por_definición_ejemplos.pdf",
+                "type": "file",
+                "id": "1sij7t4fyzumkdoXcj1lrbACMF5rRhDY0",
+                "mimeType": "application/pdf",
+                "size": "403912"
+              },
+              {
+                "name": "analisis_asintótico_por_limites_ejemplos_.pdf",
+                "type": "file",
+                "id": "1p1by1J7u--82wIbtQ0nLfq7ULsBUSQt3",
+                "mimeType": "application/pdf",
+                "size": "138678"
+              },
+              {
+                "name": "analisis_algo_guia_solucion_recurrencias.pdf",
+                "type": "file",
+                "id": "1riHT02rXn2bL88KPxciyAATQGFDYND4j",
+                "mimeType": "application/pdf",
+                "size": "308097"
+              },
+              {
+                "name": "Soluciones_ejercicos_complejidad_forma1_(1).pdf",
+                "type": "file",
+                "id": "1biWt3MHM8sY3l77rASIrcoybNW6G5i06",
+                "mimeType": "application/pdf",
+                "size": "316368"
+              },
+              {
+                "name": "Soluciones_ejercicos_complejidad_forma2.pdf",
+                "type": "file",
+                "id": "1l--XQqrKNkc4eXVqAQXN14alOcYyq1ih",
+                "mimeType": "application/pdf",
+                "size": "313616"
+              },
+              {
+                "name": "Tabla_de_Complejidad_de_Estructuras_de_Datosv1.1_(2).xlsx",
+                "type": "file",
+                "id": "1jqCO04hROBMsd3XSlGzR85ZWW7Lq1wvT",
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "size": "8440"
+              },
+              {
+                "name": "EjercicioDeAnalisisDeAlgoritmosv1.1.pdf",
+                "type": "file",
+                "id": "1q1GKIYolp1zv9r8qMeDNOkiz5YVhEdn-",
+                "mimeType": "application/pdf",
+                "size": "168197"
+              },
+              {
+                "name": "Sesion3.1_Analisis_Algoritmicov1.3_-draft.pdf",
+                "type": "file",
+                "id": "15hbtLXRJJSe-22ygrlA9QoCZJB-1Skky",
+                "mimeType": "application/pdf",
+                "size": "2660013"
+              }
+            ]
+          },
+          {
+            "name": "Semana_3",
+            "type": "folder",
+            "id": "1nWsQNEAQGviTZUatGr_jBD6_uiJEQInx",
+            "children": [
+              {
+                "name": "Sesion2.2_TAD_Stack_v1.2.pdf",
+                "type": "file",
+                "id": "1JJRZe-E3ShE1hMNxgnsaSMCumNLY1roL",
+                "mimeType": "application/pdf",
+                "size": "836799"
+              },
+              {
+                "name": "ProblemasListaDoblementeEnlazada.pdf",
+                "type": "file",
+                "id": "1eoveL0XWeRGy5A5KjwxCa_SzNKgP3D8B",
+                "mimeType": "application/pdf",
+                "size": "146456"
+              },
+              {
+                "name": "ProblemasListaEnlazada.pdf",
+                "type": "file",
+                "id": "1Bdtgjam-TgiIoKMrNeB7ubJ2IigRZATM",
+                "mimeType": "application/pdf",
+                "size": "98634"
+              },
+              {
+                "name": "Sesion2.5_TAD_DoubleLinkedListv1.2_alumnos.pdf",
+                "type": "file",
+                "id": "1hFfpnOSF3Qqf71oUMU1s4TaoAa14_hqT",
+                "mimeType": "application/pdf",
+                "size": "1092733"
+              },
+              {
+                "name": "Sesion2.4_TAD_SingleLinkedListv1.2_alumnos.pdf",
+                "type": "file",
+                "id": "1Y8NsVnHlUQzmkHNvrLhjd4l712hr18wj",
+                "mimeType": "application/pdf",
+                "size": "1388809"
+              },
+              {
+                "name": "Sesion2.3_TAD_Queue_v1.2.pdf",
+                "type": "file",
+                "id": "1_E67xY0RTX_3ZETL2hIZ2JcDvcQDAyTa",
+                "mimeType": "application/pdf",
+                "size": "1071877"
+              }
+            ]
+          },
+          {
+            "name": "SW305_Sílabo-Algoritmia-y-Estructura-de-datos-avanzada-2026-I-v1.0.pdf",
+            "type": "file",
+            "id": "1Uka7remgOprLxNcXHFvFg23fuEOiTIpA",
+            "mimeType": "application/pdf",
+            "size": "384150"
+          },
+          {
+            "name": "Semana_2",
+            "type": "folder",
+            "id": "1Oe55SRqoYpug3tSNdS_Q04-MANH1ljP9",
+            "children": [
+              {
+                "name": "Sesion2.4_TAD_SingleLinkedListv1.2.pdf",
+                "type": "file",
+                "id": "1xnnHr4Ma7V4Ll9Qg3n6n1IvKRc-NwgmM",
+                "mimeType": "application/pdf",
+                "size": "1573010"
+              },
+              {
+                "name": "Sesion2.5_TAD_DoubleLinkedListv1.2.pdf",
+                "type": "file",
+                "id": "1iL__ejCwIAVbmQdH0GtFepTdXRSu30fE",
+                "mimeType": "application/pdf",
+                "size": "1250284"
+              },
+              {
+                "name": "Sesion2.2_TAD_Stack_v1.2.pdf",
+                "type": "file",
+                "id": "1gEzWR7GoZx3ZNRwEfU2EizCuspD3v9UN",
+                "mimeType": "application/pdf",
+                "size": "900408"
+              },
+              {
+                "name": "Sesion2.3_TAD_Queue_v1.1.pdf",
+                "type": "file",
+                "id": "1USD9v9OF8v0ru_ZCIGloNY6eHaDXfD0d",
+                "mimeType": "application/pdf",
+                "size": "1084876"
+              },
+              {
+                "name": "Sesion2.2_TAD_Stack_v1.1.pdf",
+                "type": "file",
+                "id": "1DEN5lJxI_a1Gyv-tS1wbCyiZlEaiYHKJ",
+                "mimeType": "application/pdf",
+                "size": "901002"
+              },
+              {
+                "name": "Sesion2.1_TAD_Lineales.pdf",
+                "type": "file",
+                "id": "1vX6DaY0Th2o2t3XvH4p_adt5bNrh1hAn",
+                "mimeType": "application/pdf",
+                "size": "859089"
+              },
+              {
+                "name": "Sesion1.2_TAD.pdf",
+                "type": "file",
+                "id": "1-9eIUVPI-4Ftc7g5VIP-ArgHWyd6GEla",
+                "mimeType": "application/pdf",
+                "size": "589486"
+              }
+            ]
+          },
+          {
+            "name": "Semana_1",
+            "type": "folder",
+            "id": "17RaGAu8zEDwEWtQfxi26Ml8vVIopp9fK",
+            "children": [
+              {
+                "name": "Sesion0.4_laboratorio_instalacion_.v1.0.pdf",
+                "type": "file",
+                "id": "1KfM35yIIh0ZkEC2NeoJC7zDvdtKYi5cW",
+                "mimeType": "application/pdf",
+                "size": "1669770"
+              },
+              {
+                "name": "Sesion0.1_overviewJava_v1.0.pdf",
+                "type": "file",
+                "id": "1XsSAyZL-DlBkkJQoN5v4QdSVtDcW3gOa",
+                "mimeType": "application/pdf",
+                "size": "3097878"
+              },
+              {
+                "name": "Sesion0.3_migracion_ideas_punteros.pdf",
+                "type": "file",
+                "id": "1qp8uY0JyxkY1KNxfTCqv9X1lKFbJyxCZ",
+                "mimeType": "application/pdf",
+                "size": "1079981"
+              },
+              {
+                "name": "Sesion0.2_maven.pdf",
+                "type": "file",
+                "id": "1KC6hiSVXQlR8CLGB_vCjzVpavEF3esIe",
+                "mimeType": "application/pdf",
+                "size": "291222"
+              },
+              {
+                "name": "Sesion1.1_sintaxisJava.pdf",
+                "type": "file",
+                "id": "1hRBvVJJrm42Ygm2ooFp_OCG7eANCHOXv",
+                "mimeType": "application/pdf",
+                "size": "994709"
+              },
+              {
+                "name": "0_presentacion.pdf",
+                "type": "file",
+                "id": "1VXYgfFVITdCmDEww0YhGaCI_UQsg8Dk6",
+                "mimeType": "application/pdf",
+                "size": "311142"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
