@@ -5,15 +5,15 @@ export default function ProfesorFeature() {
   const setActiveView = useUIStore((state) => state.setActiveView)
 
   return (
-    <div className="min-h-screen bg-[var(--theme-bg-main)] text-[var(--theme-text-main)] animate-fade-in flex flex-col justify-center items-center pt-24 sm:pt-28 pb-16 px-4 sm:px-6 relative overflow-hidden">
+    <div className="min-h-screen bg-gradient-to-br from-[#1b0222] via-[#3a0066] to-[#8300ca] text-white animate-fade-in flex flex-col justify-center items-center pt-24 sm:pt-32 pb-16 px-4 sm:px-6 relative overflow-hidden">
       {/* Background ambient lighting */}
-      <div className="absolute top-1/3 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[500px] h-[500px] bg-[#cc6dfe]/15 rounded-full blur-3xl pointer-events-none" />
+      <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-[#cc6dfe]/20 rounded-full blur-3xl pointer-events-none z-0" />
 
       {/* Main Glass Card */}
-      <div className="relative z-10 max-w-2xl w-full bg-white/90 backdrop-blur-xl rounded-3xl p-8 sm:p-12 border border-[#e2e8f0] shadow-2xl text-center flex flex-col items-center">
+      <div className="relative z-10 max-w-2xl w-full bg-white/95 backdrop-blur-2xl rounded-3xl p-8 sm:p-12 border border-white/20 shadow-2xl text-center flex flex-col items-center text-slate-900">
         {/* Floating Icon / Astronaut Header */}
         <div className="relative mb-6">
-          <div className="w-24 h-24 sm:w-28 sm:h-28 rounded-full bg-gradient-to-br from-[#1b0222] to-[#8300ca] p-4 flex items-center justify-center shadow-lg shadow-[#8300ca]/30">
+          <div className="w-24 h-24 sm:w-28 sm:h-28 rounded-full bg-gradient-to-br from-[#1b0222] to-[#8300ca] p-4 flex items-center justify-center shadow-lg shadow-[#8300ca]/40">
             <img src={Astronauta} alt="Próximamente" className="w-full h-auto animate-astronaut-float pointer-events-none drop-shadow-md" />
           </div>
           <span className="absolute -bottom-1 -right-1 flex h-4 w-4">

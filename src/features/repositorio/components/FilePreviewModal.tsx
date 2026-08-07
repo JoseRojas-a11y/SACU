@@ -1,4 +1,5 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
+import { createPortal } from 'react-dom'
 import { DriveFileNode, formatDisplayName } from '../services/courseDriveService'
 
 interface FilePreviewModalProps {
@@ -13,6 +14,32 @@ function isImageFile(fileName: string): boolean {
 
 export function FilePreviewModal({ file, onClose }: FilePreviewModalProps) {
   const [imageError, setImageError] = useState(false)
+  const [iframeLoading, setIframeLoading] = useState(true)
+
+  // Lock background page scrolling when modal is open and handle ESC key
+  useEffect(() => {
+    if (!file) return
+
+    const originalOverflow = document.body.style.overflow
+    const originalPaddingRight = document.body.style.paddingRight
+
+    document.body.style.overflow = 'hidden'
+
+    function handleKeyDown(e: KeyboardEvent) {
+      if (e.key === 'Escape') {
+        onClose()
+      }
+    }
+
+    window.addEventListener('keydown', handleKeyDown)
+
+    return () => {
+      document.body.style.overflow = originalOverflow
+      document.body.style.paddingRight = originalPaddingRight
+      window.removeEventListener('keydown', handleKeyDown)
+    }
+  }, [file, onClose])
+
   if (!file) return null
 
   const formattedTitle = formatDisplayName(file.name)
@@ -21,45 +48,50 @@ export function FilePreviewModal({ file, onClose }: FilePreviewModalProps) {
   const driveUrl = `https://drive.google.com/file/d/${file.id}/view`
   const directImageUrl = `https://lh3.googleusercontent.com/d/${file.id}=s1600`
 
-  return (
+  return createPortal(
     <div
-      className="fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-6 bg-slate-950/80 backdrop-blur-md animate-fade-in"
+      className="preview-modal-overlay animate-fade-in"
       onClick={onClose}
     >
+      {/* Modal Dialog Box */}
       <div
-        className="bg-slate-900 rounded-3xl border border-slate-800 shadow-2xl w-full max-w-5xl h-[88vh] flex flex-col overflow-hidden"
+        className="preview-modal-dialog"
         onClick={(e) => e.stopPropagation()}
       >
-        {/* Modal Header */}
-        <div className="flex items-center justify-between px-5 py-4 border-b border-slate-800 bg-slate-950/70">
-          <div className="flex items-center gap-3 min-w-0">
-            <span className="p-2 rounded-xl bg-indigo-500/20 text-indigo-400 border border-indigo-500/30 text-lg flex-shrink-0">
+        {/* Modal Header Bar */}
+        <div className="flex items-center justify-between px-4 sm:px-6 py-3 sm:py-3.5 border-b border-white/10 bg-[#14011a]/95 backdrop-blur-md flex-shrink-0">
+          <div className="flex items-center gap-2.5 sm:gap-3 min-w-0 pr-2">
+            <span className="w-8 h-8 sm:w-9 sm:h-9 rounded-xl bg-[#cc6dfe]/20 text-[#cc6dfe] border border-[#cc6dfe]/30 text-base sm:text-lg flex items-center justify-center flex-shrink-0">
               {isImage ? '🖼️' : '📄'}
             </span>
             <div className="min-w-0">
-              <h3 className="text-sm sm:text-base font-bold text-white truncate" title={formattedTitle}>
+              <h3 className="text-xs sm:text-sm md:text-base font-bold text-white truncate leading-snug" title={formattedTitle}>
                 {formattedTitle}
               </h3>
-              <p className="text-[11px] text-slate-400 font-mono">Google Drive ID: {file.id}</p>
+              <p className="text-[10px] sm:text-[11px] text-[#cbd5e1]/70 font-mono truncate">
+                {file.name}
+              </p>
             </div>
           </div>
 
           <div className="flex items-center gap-2 flex-shrink-0">
             <a
-              href={driveUrl}
+              href={`https://drive.google.com/uc?export=download&id=${file.id}`}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-indigo-600 hover:bg-indigo-500 text-white text-xs font-bold transition-all shadow-xs"
+              download
+              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-[#8300ca] hover:bg-[#6e00aa] text-white text-xs font-bold transition-all shadow-xs active:scale-95"
+              title="Descargar archivo directamente"
             >
-              <span>Abrir en Drive</span>
               <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
-                <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 6H5.25A2.25 2.25 0 0 0 3 8.25v10.5A2.25 2.25 0 0 0 5.25 21h10.5A2.25 2.25 0 0 0 18 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" />
+                <path strokeLinecap="round" strokeLinejoin="round" d="M3 16.5v2.25A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75V16.5M16.5 12 12 16.5m0 0L7.5 12m4.5 4.5V3" />
               </svg>
+              <span>Descargar</span>
             </a>
 
             <button
               onClick={onClose}
-              className="p-2 rounded-xl text-slate-400 hover:text-white hover:bg-slate-800 transition-colors cursor-pointer"
+              className="w-8 h-8 sm:w-9 sm:h-9 rounded-xl text-slate-300 hover:text-white hover:bg-white/10 transition-colors flex items-center justify-center cursor-pointer"
               title="Cerrar vista previa"
             >
               <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
@@ -69,26 +101,39 @@ export function FilePreviewModal({ file, onClose }: FilePreviewModalProps) {
           </div>
         </div>
 
-        {/* Preview Viewport */}
-        <div className="flex-1 bg-slate-950 relative overflow-hidden flex items-center justify-center p-2">
+        {/* Modal Viewport Body */}
+        <div className="flex-1 bg-[#0b010e] relative overflow-hidden flex items-center justify-center p-1 sm:p-2">
           {isImage && !imageError ? (
-            <img
-              src={directImageUrl}
-              alt={formattedTitle}
-              onError={() => setImageError(true)}
-              className="max-w-full max-h-full object-contain rounded-xl shadow-lg"
-            />
+            <div className="w-full h-full flex items-center justify-center p-2 overflow-auto">
+              <img
+                src={directImageUrl}
+                alt={formattedTitle}
+                onError={() => setImageError(true)}
+                className="max-w-full max-h-full object-contain rounded-lg shadow-2xl"
+              />
+            </div>
           ) : (
-            <iframe
-              src={previewUrl}
-              className="w-full h-full border-none rounded-b-2xl"
-              title={`Vista previa de ${formattedTitle}`}
-              allow="autoplay"
-            />
+            <div className="w-full h-full relative">
+              {iframeLoading && (
+                <div className="absolute inset-0 flex flex-col items-center justify-center bg-[#0b010e] text-white z-10">
+                  <div className="w-9 h-9 border-3 border-[#cc6dfe] border-t-transparent rounded-full animate-spin mb-3" />
+                  <p className="text-xs font-semibold text-[#cbd5e1]">
+                    Cargando vista previa del archivo...
+                  </p>
+                </div>
+              )}
+              <iframe
+                src={previewUrl}
+                onLoad={() => setIframeLoading(false)}
+                className="w-full h-full border-none rounded-b-xl"
+                title={`Vista previa de ${formattedTitle}`}
+                allow="autoplay"
+              />
+            </div>
           )}
         </div>
       </div>
-    </div>
+    </div>,
+    document.body
   )
 }
-
