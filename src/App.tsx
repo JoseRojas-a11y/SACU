@@ -6,6 +6,7 @@ import { NotificationToast } from './core/components/NotificationToast'
 import { LoadingFallback } from './core/components/LoadingFallback'
 import { useFaculties } from './features/repositorio/hooks/useFaculties'
 import { useMaterials } from './features/repositorio/hooks/useMaterials'
+import { useDriveCourses } from './features/repositorio/hooks/useDriveCourses'
 import { useUIStore } from './core/store/useUIStore'
 import { Material } from './core/types'
 
@@ -26,6 +27,7 @@ export default function App() {
 
   const { data: faculties = [] } = useFaculties()
   const { data: materials = [] } = useMaterials({ faculty: selectedFaculty })
+  const { totalCourses: driveTotalCourses = 0, totalFiles: driveTotalFiles = 0 } = useDriveCourses()
 
   useEffect(() => {
     function handleScroll() {
@@ -42,10 +44,9 @@ export default function App() {
     }
   }
 
-  // System stats summary
-  const totalMaterials = materials.length
-  const totalCourses = new Set(materials.map(m => m.course)).size
-  const totalAuthors = new Set(materials.map(m => m.author)).size
+  // System stats summary: prefer repository-wide scanned files and courses totals
+  const totalMaterials = driveTotalFiles > 0 ? driveTotalFiles : materials.length
+  const totalCourses = driveTotalCourses > 0 ? driveTotalCourses : new Set(materials.map(m => m.course)).size
 
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col font-sans text-slate-800 antialiased selection:bg-indigo-500 selection:text-white">
@@ -58,7 +59,6 @@ export default function App() {
           setSelectedCourse(null)
         }}
         onOpenUpload={() => setUploadModal(true)}
-        scrolled={scrolled}
       />
 
       {/* Hero section on Repositorio view when no specific course selected */}
@@ -74,7 +74,6 @@ export default function App() {
           }}
           totalMaterials={totalMaterials}
           totalCourses={totalCourses}
-          totalAuthors={totalAuthors}
         />
       )}
 

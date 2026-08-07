@@ -1,0 +1,296 @@
+/* Hero Section Styles */
+.hero-card-container {
+  overflow: hidden;
+  position: relative;
+  color: #ffffff;
+  box-shadow: 0 4px 20px 0 rgba(27, 2, 34, 0.15);
+  background: linear-gradient(135deg, #1b0222 0%, #3d0066 50%, #8300ca 100%);
+  min-height: 480px;
+}
+
+@media (min-width: 1024px) {
+  .hero-card-container {
+    min-height: auto;
+    background: transparent;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  }
+}
+
+.hero-image {
+  display: none;
+  width: 100%;
+  height: auto;
+}
+
+@media (min-width: 1024px) {
+  .hero-image {
+    display: block;
+  }
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 5.5rem 1rem 2.5rem 1rem;
+  width: 100%;
+  max-width: 80rem;
+  margin: 0 auto;
+}
+
+@media (min-width: 640px) {
+  .hero-content {
+    padding: 6rem 1.5rem 3rem 1.5rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .hero-content {
+    position: absolute;
+    top: 54%;
+    left: 50%;
+    transform: translate(-45%, -50%);
+    flex-direction: row;
+    align-items: center;
+    gap: 2rem;
+    padding: 0;
+    margin: 0;
+    width: auto;
+  }
+}
+
+.hero-body {
+  position: relative;
+  z-index: 10;
+  width: 100%;
+  max-width: 48rem;
+  min-width: 0;
+}
+
+@media (min-width: 1024px) {
+  .hero-body {
+    min-width: 500px;
+  }
+}
+
+.hero-title {
+  font-size: 1.75rem;
+  font-weight: 800;
+  letter-spacing: -0.025em;
+  margin-bottom: 0.5rem;
+  font-family: var(--font-sans);
+  color: #ffffff;
+}
+
+@media (min-width: 640px) {
+  .hero-title {
+    font-size: 2.25rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .hero-title {
+    font-size: 3rem;
+    color: #000000;
+  }
+}
+
+.hero-subtitle {
+  font-size: 0.875rem;
+  color: rgba(255, 255, 255, 0.9);
+  margin-bottom: 1.5rem;
+  font-weight: 400;
+  max-width: 36rem;
+}
+
+@media (min-width: 1024px) {
+  .hero-subtitle {
+    font-size: 1rem;
+    color: #1f1f1f;
+  }
+}
+
+.hero-search-wrapper {
+  margin-bottom: 1.5rem;
+  position: relative;
+  width: 100%;
+  max-width: 36rem;
+}
+
+.hero-search-bar {
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.18);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-radius: 9999px;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  padding: 0.5rem 1rem;
+  transition: all 0.15s ease;
+}
+
+@media (min-width: 1024px) {
+  .hero-search-bar {
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(28, 28, 28, 0.2);
+  }
+}
+
+.hero-search-bar:focus-within {
+  border-color: #cc6dfe;
+  color: #901bcf;
+  box-shadow: 0 0 0 3px rgba(204, 109, 254, 0.25);
+}
+
+.hero-search-input {
+  width: 100%;
+  background-color: transparent;
+  font-size: 0.8125rem;
+  color: #ffffff;
+  outline: none;
+  border: none;
+}
+
+.hero-search-input::placeholder {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+@media (min-width: 1024px) {
+  .hero-search-input {
+    font-size: 0.875rem;
+    color: #660699;
+  }
+
+  .hero-search-input::placeholder {
+    color: #000000;
+  }
+}
+
+.hero-stats-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  width: 100%;
+  max-width: 36rem;
+}
+
+@media (min-width: 640px) {
+  .hero-stats-group {
+    flex-direction: row;
+    gap: 1rem;
+  }
+}
+
+.hero-stat-card {
+  background-color: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 0.75rem;
+  padding: 0.875rem 1rem;
+  flex: 1 1 0%;
+}
+
+@media (min-width: 1024px) {
+  .hero-stat-card {
+    background-color: rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(24, 24, 24, 0.282);
+  }
+}
+
+.hero-stat-label {
+  font-size: 10px;
+  font-family: var(--font-mono);
+  color: rgba(255, 255, 255, 0.85);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.25rem;
+  font-weight: 600;
+}
+
+@media (min-width: 1024px) {
+  .hero-stat-label {
+    color: #000000;
+  }
+}
+
+.hero-stat-value {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #cc6dfe;
+  font-family: var(--font-mono);
+}
+
+@media (min-width: 640px) {
+  .hero-stat-value {
+    font-size: 1.875rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .hero-stat-value {
+    color: #9539c7;
+  }
+}
+
+.hero-astronauta-container {
+  position: relative;
+  width: 180px;
+  max-width: 100%;
+  min-width: 0;
+  z-index: 5;
+  height: auto;
+  align-self: center;
+}
+
+@media (min-width: 640px) {
+  .hero-astronauta-container {
+    width: 240px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .hero-astronauta-container {
+    width: 380px;
+    min-width: 320px;
+    max-width: 50%;
+  }
+}
+
+.hero-glow-bg {
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 50%;
+  opacity: 0.3;
+  pointer-events: none;
+  background: radial-gradient(circle at center, #cc6dfe 0%, transparent 70%);
+}
+
+@media (max-width: 1024px) {
+  .hero-glow-bg {
+    display: none;
+  }
+}
+
+/* Flying Astronaut Animation */
+@keyframes floatAstronaut {
+
+  0%,
+  100% {
+    transform: rotate(-15deg);
+  }
+
+  50% {
+    transform: translateY(-14px) rotate(-8deg);
+  }
+}
+
+.animate-astronaut-float {
+  animation: floatAstronaut 4.5s ease-in-out infinite;
+}

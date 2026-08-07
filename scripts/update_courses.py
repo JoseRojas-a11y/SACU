@@ -259,15 +259,18 @@ class CourseScanner:
         return results
 
     def _generate_index_manifest(self, courses_data: List[Dict[str, Any]]):
-        manifest = []
+        courses_list = []
+        total_scanned_files = 0
+
         for c in courses_data:
             course_id = c.get("course_id", "")
             course_name = c.get("course_name", "")
             scanned_at = c.get("scanned_at", datetime.now(timezone.utc).isoformat())
             tree = c.get("tree", {})
             total_files = count_tree_files(tree)
+            total_scanned_files += total_files
 
-            manifest.append({
+            courses_list.append({
                 "course_id": course_id,
                 "course_name": course_name,
                 "id": c.get("id"),
@@ -276,13 +279,20 @@ class CourseScanner:
             })
 
         # Ordenar por course_id
-        manifest.sort(key=lambda x: x["course_id"])
+        courses_list.sort(key=lambda x: x["course_id"])
+
+        manifest = {
+            "total_courses": len(courses_list),
+            "total_files": total_scanned_files,
+            "scanned_at": datetime.now(timezone.utc).isoformat(),
+            "courses": courses_list
+        }
 
         manifest_path = os.path.join(self.storage_dir, "index.json")
         with open(manifest_path, "w", encoding="utf-8") as f:
             json.dump(manifest, f, ensure_ascii=False, indent=2)
 
-        print(f"[CourseScanner] Manifest unificado generado: {manifest_path} ({len(manifest)} cursos)")
+        print(f"[CourseScanner] Manifest unificado generado: {manifest_path} ({len(courses_list)} cursos, {total_scanned_files} archivos totales)")
 
 if __name__ == "__main__":
     scanner = CourseScanner(COURSES_DIR)

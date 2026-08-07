@@ -23,6 +23,13 @@ export interface DriveCourseInfo {
   total_files?: number
 }
 
+export interface DriveCatalogIndex {
+  total_courses: number
+  total_files: number
+  scanned_at?: string
+  courses: DriveCourseInfo[]
+}
+
 export interface DriveCourseData {
   course_id: string
   course_name: string
@@ -41,12 +48,36 @@ export async function fetchDriveCourses(): Promise<DriveCourseInfo[]> {
       const data = await res.json()
       if (Array.isArray(data)) {
         return data
+      } else if (data && Array.isArray(data.courses)) {
+        return data.courses
       }
     }
   } catch (e) {
     console.warn('[SACU Static Data] Error al cargar /data/courses/index.json', e)
   }
   return []
+}
+
+export async function fetchDriveCatalogIndex(): Promise<DriveCatalogIndex | null> {
+  try {
+    const res = await fetch('/data/courses/index.json')
+    if (res.ok) {
+      const data = await res.json()
+      if (Array.isArray(data)) {
+        const totalFiles = data.reduce((acc: number, c: DriveCourseInfo) => acc + (c.total_files || 0), 0)
+        return {
+          total_courses: data.length,
+          total_files: totalFiles,
+          courses: data
+        }
+      } else if (data && Array.isArray(data.courses)) {
+        return data as DriveCatalogIndex
+      }
+    }
+  } catch (e) {
+    console.warn('[SACU Static Data] Error al cargar /data/courses/index.json', e)
+  }
+  return null
 }
 
 export async function fetchCourseDriveData(courseId: string): Promise<DriveCourseData> {

@@ -1,21 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&display=swap');
 @import 'tailwindcss';
+
+@import './styles/navbar.css';
+@import './styles/hero.css';
+@import './styles/repositorio.css';
+@import './styles/course-viewer.css';
+@import './styles/footer.css';
 
 @layer base {
   :root {
-    --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-    --font-mono: 'JetBrains Mono', monospace;
-    --color-surface: #f8fafc;
-    --color-navy: #0f1b3d;
-    --color-brand: #4f73ff;
+    /* SACU Theme Design System Tokens */
+    --theme-primary: #8300ca;
+    --theme-primary-hover: #901bcf;
+    --theme-primary-dark: #6e00aa;
+    --theme-accent: #cc6dfe;
+    --theme-accent-bright: #9b0be8;
+    --theme-purple-text: #9539c7;
+    --theme-purple-glow: rgba(204, 109, 254, 0.6);
+    --theme-purple-bg: rgba(131, 0, 202, 0.08);
+
+    --theme-dark-bg: #1b0222;
+    --theme-text-main: #191c1e;
+    --theme-text-secondary: #5c647a;
+    --theme-text-muted: #cbd5e1;
+
+    --theme-bg-main: #f7f9fb;
+    --theme-surface: #ffffff;
+    --theme-surface-subtle: #f2f4f6;
+
+    --theme-border: #e2e8f0;
+    --theme-border-subtle: #f1f5f9;
+    --theme-border-purple: rgba(185, 0, 202, 0.3);
+
+    --font-sans: 'Geist', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-mono: 'Geist', monospace;
+
+    /* Legacy compatibility bindings */
+    --color-background: var(--theme-bg-main);
+    --color-surface: var(--theme-surface);
+    --color-primary: var(--theme-primary);
 
     overscroll-behavior-y: none;
   }
 
   body {
     font-family: var(--font-sans);
-    background-color: var(--color-surface);
-    color: #0f172a;
+    background-color: var(--theme-bg-main);
+    color: var(--theme-text-main);
   }
+}
+
+.hero-gradient {
+  background: linear-gradient(135deg, #1e1b4b 0%, #312e81 100%);
+}
+
+.bento-card {
+  transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.2s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.2s ease;
+}
+
+.bento-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 24px -6px rgba(131, 0, 202, 0.08);
+  border-color: #d2c1d8;
 }
 
 /* Custom animations */
@@ -37,17 +83,17 @@
 
 /* Custom scrollbar */
 ::-webkit-scrollbar {
-  width: 8px;
-  height: 8px;
+  width: 6px;
+  height: 6px;
 }
 
 ::-webkit-scrollbar-track {
-  background: #f1f5f9;
+  background: transparent;
 }
 
 ::-webkit-scrollbar-thumb {
   background: #cbd5e1;
-  border-radius: 4px;
+  border-radius: 10px;
 }
 
 ::-webkit-scrollbar-thumb:hover {

@@ -2,7 +2,7 @@
   "course_id": "BMA03",
   "course_name": "Álgebra_lineal",
   "id": "15FWsZRX-edQyrjWkAjoul9t1dR00e11g",
-  "scanned_at": "2026-08-07T00:12:59.783466+00:00",
+  "scanned_at": "2026-08-07T07:54:22.450989+00:00",
   "tree": {
     "name": "Álgebra_lineal",
     "type": "folder",
@@ -2125,6 +2125,13 @@
             "id": "1-8fQN69xdE3XpcKW9dodai-37WPhpR9T",
             "children": [
               {
+                "name": "EF_21-3_Sol.pdf",
+                "type": "file",
+                "id": "1_wUbk3toDd0beyqv0D5p2PLe_LNwtcJz",
+                "mimeType": "application/pdf",
+                "size": "244638"
+              },
+              {
                 "name": "EF_26-I_(con_solu)",
                 "type": "file",
                 "id": "1A5pk_iEPh0AzhuJ7IKNtbN74wBxwqVPJ",
@@ -2298,20 +2305,6 @@
                 "id": "1ZB4vDqWx3eBuq9aKWvy5gq8_z3ZZeRFB",
                 "mimeType": "application/pdf",
                 "size": "288714"
-              },
-              {
-                "name": "21-3",
-                "type": "folder",
-                "id": "1HmD5oeKifT_qNyEJFBJPQiC7sU1lQvJz",
-                "children": [
-                  {
-                    "name": "BMA-03_EF_2022-0_SOLUCIONARIO.pdf",
-                    "type": "file",
-                    "id": "1_wUbk3toDd0beyqv0D5p2PLe_LNwtcJz",
-                    "mimeType": "application/pdf",
-                    "size": "244638"
-                  }
-                ]
               }
             ]
           },

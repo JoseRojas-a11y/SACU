@@ -2,7 +2,7 @@
   "course_id": "AA002",
   "course_name": "Adicionales",
   "id": "1VjTcAiVKiT5Q8FxYQ8bGAn3YhJBTmqGg",
-  "scanned_at": "2026-08-07T00:16:12.477772+00:00",
+  "scanned_at": "2026-08-07T07:57:34.787723+00:00",
   "tree": {
     "name": "Adicionales",
     "type": "folder",
@@ -22,55 +22,358 @@
                 "name": "PIT707_Six_Sigma",
                 "type": "folder",
                 "id": "1bdZxPZt0jBRKE4VDgxmWqP438Ft-q9iF",
-                "children": []
+                "children": [
+                  {
+                    "name": "Silabo_PIT707_Six_Sigma.pdf",
+                    "type": "file",
+                    "id": "1g2592oKk9lmGQbt312gBjPF_WLEzf4HZ",
+                    "mimeType": "application/pdf",
+                    "size": "1288486"
+                  }
+                ]
               },
               {
                 "name": "PIT700_Power_Automate",
                 "type": "folder",
                 "id": "1NN6U3NsOG_u1S8_iQFPtzAutjIPTppaf",
-                "children": []
+                "children": [
+                  {
+                    "name": "Silabo_PIT700_Power_Automate.pdf",
+                    "type": "file",
+                    "id": "1JsriYpm-OatedbwpyHqMaMH2ZgV3o-1I",
+                    "mimeType": "application/pdf",
+                    "size": "2118819"
+                  }
+                ]
               },
               {
                 "name": "PIT699_Power_Apps",
                 "type": "folder",
                 "id": "1tcwQ6ZQSErvvLmj8pDJ9NSfVFz-jxKII",
-                "children": []
+                "children": [
+                  {
+                    "name": "Sesión_2",
+                    "type": "folder",
+                    "id": "1cF7S57X_KQFtwHPQVRGQcG-9efV_VStc",
+                    "children": [
+                      {
+                        "name": "Entorno_de_desarrollo_y_creación_de_apps.pdf",
+                        "type": "file",
+                        "id": "1g4Qhhru11PxsmHKE3gDMJWeKWl02YBEH",
+                        "mimeType": "application/pdf",
+                        "size": "11700939"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_1",
+                    "type": "folder",
+                    "id": "1Y1QkZHlD1OKE7RGIwXOKgnyo8BNuPJf_",
+                    "children": [
+                      {
+                        "name": "Fundamentos_de_Power_Apps.pdf",
+                        "type": "file",
+                        "id": "1nUh6DejeevzQsgEXJIBl2rL-0UsGRuoE",
+                        "mimeType": "application/pdf",
+                        "size": "9415566"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Silabo_PIT699_Power_Apps.pdf",
+                    "type": "file",
+                    "id": "1stBmav-I4ds37lcO6DnvTnQQHWiLvcZB",
+                    "mimeType": "application/pdf",
+                    "size": "1705585"
+                  }
+                ]
               },
               {
                 "name": "PIT686_Git_y_GitHub:_Control_de_Versiones_Software",
                 "type": "folder",
                 "id": "1XEfHrpxMUVQHaGoRcutjmO1xoK7MDL3f",
-                "children": []
+                "children": [
+                  {
+                    "name": "Silabo_PIT686_Git_y_GitHub_Control_de_Versiones_Software.pdf",
+                    "type": "file",
+                    "id": "1QkRmhfemmsij4YKntCC4ZsmQyDs6GJDK",
+                    "mimeType": "application/pdf",
+                    "size": "2855153"
+                  }
+                ]
               },
               {
                 "name": "PIT684_Gestión_Financiera_con_Excel",
                 "type": "folder",
                 "id": "1RoSLteurSUBCrsoxu1W_rXfFY36m0EtH",
-                "children": []
+                "children": [
+                  {
+                    "name": "Silabo_PIT684_Gestion_Financiera_con_Excel.pdf",
+                    "type": "file",
+                    "id": "1tfQs6lioyhLu5QAQKTe0sWkcnUfJdO2q",
+                    "mimeType": "application/pdf",
+                    "size": "4039245"
+                  }
+                ]
               },
               {
                 "name": "PIT679_Fundamentos_de_Oracle",
                 "type": "folder",
                 "id": "1LcYAceOqauKhT5DL8PNJM4hx0SNcHEho",
-                "children": []
+                "children": [
+                  {
+                    "name": "Sesión_2",
+                    "type": "folder",
+                    "id": "1JdWO-F1rq5yAOj36QAUhbJvD4ss7qUQl",
+                    "children": [
+                      {
+                        "name": "Tema_3:_Tablas_externas",
+                        "type": "folder",
+                        "id": "1n5DZXFA5YSPBp7ceu2RGHo1SvluxHACz",
+                        "children": [
+                          {
+                            "name": "03_-_Tablas_Externas.pdf",
+                            "type": "file",
+                            "id": "18YafugbKa8RIuMuhkbJ_K8inWZ1U7yun",
+                            "mimeType": "application/pdf",
+                            "size": "487243"
+                          },
+                          {
+                            "name": "Tablas.rar",
+                            "type": "file",
+                            "id": "1AzeSMSFQOUdx8CFbtY8eFOTkqu-rCKTr",
+                            "mimeType": "application/x-compressed",
+                            "size": "7058"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Tema_2:_Organización_por_schemas",
+                        "type": "folder",
+                        "id": "1t_DEK_fFfB89XYX3pnAKM_7j_UwfNiNy",
+                        "children": [
+                          {
+                            "name": "02_-_Organización_por_schemas.pdf",
+                            "type": "file",
+                            "id": "1eDEH_3o1snBBFT2QOfHmwgs2R-cljrKH",
+                            "mimeType": "application/pdf",
+                            "size": "439688"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_1",
+                    "type": "folder",
+                    "id": "1kE36YU5gIZngiztI_P2zS5p6Ce3Tuwum",
+                    "children": [
+                      {
+                        "name": "Tema_1:_Gestion_de_Almacenamiento",
+                        "type": "folder",
+                        "id": "1DdQ6ORbrtbbtsrdiwskEcTGylBxUwLwj",
+                        "children": [
+                          {
+                            "name": "01_-_Gestión_de_Almacenamiento.pdf",
+                            "type": "file",
+                            "id": "1Yfli6lYNEzNCOk7YBCUUQNw1cRZDsAxR",
+                            "mimeType": "application/pdf",
+                            "size": "491858"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Tema_0:_Despliegue_Maquina_Virtual",
+                        "type": "folder",
+                        "id": "1hWzUKlptTOQS7Ipw_8C-veiCijWx2Rhs",
+                        "children": [
+                          {
+                            "name": "03_-_Guia_de_instalacion_y_conexion_SQL_Developer.pdf",
+                            "type": "file",
+                            "id": "1At0rYeFpZIkj9omUUuuA8NbtgS-MaiNW",
+                            "mimeType": "application/pdf",
+                            "size": "216330"
+                          },
+                          {
+                            "name": "02_-_Guia_de_despliegue_de_Maquina_Virtual.pdf",
+                            "type": "file",
+                            "id": "1Uj_xa_vwFv6SAoNyLK4FNPz2V4KFFL7F",
+                            "mimeType": "application/pdf",
+                            "size": "279315"
+                          },
+                          {
+                            "name": "01_-_Guia_de_instalacion_de_Virtual_Box.pdf",
+                            "type": "file",
+                            "id": "1KANNqhY9P7JUeZTUYLdxmWUThnGf_NaA",
+                            "mimeType": "application/pdf",
+                            "size": "171688"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Silabo_PIT679_Fundamentos_de_Oracle.pdf",
+                    "type": "file",
+                    "id": "19ZYmM3A5LfSXQ5Q_cQiYjqEEV5XCzBic",
+                    "mimeType": "application/pdf",
+                    "size": "2189990"
+                  }
+                ]
               },
               {
                 "name": "PIT677_Fundamentos_de_Linux",
                 "type": "folder",
                 "id": "12-rrHwjNQ-lLi8XykEyD0Snp7HGzkeUf",
-                "children": []
+                "children": [
+                  {
+                    "name": "Silabo_PIT677_Fundamentos_de_Linux.pdf",
+                    "type": "file",
+                    "id": "1QX4AzxkzpavdVk6dacUk7O7d7RCTuAkK",
+                    "mimeType": "application/pdf",
+                    "size": "3377190"
+                  }
+                ]
               },
               {
                 "name": "PIT658_Finanzas:_Principios_y_Tendencias_para_la_Toma_de_Decisiones_Tecnológicas",
                 "type": "folder",
                 "id": "12ayc0E4XOv51g1Z02NBUiBVuMYDVTBpe",
-                "children": []
+                "children": [
+                  {
+                    "name": "Sesión_1",
+                    "type": "folder",
+                    "id": "1nHXKNqqhJ0ODCRvmNLh7EgKZVicnJJnV",
+                    "children": [
+                      {
+                        "name": "S1_Presentacion_de_clase.pdf",
+                        "type": "file",
+                        "id": "1BRvZ-03hzdeInS4camnFhbdhKSysvqgT",
+                        "mimeType": "application/pdf",
+                        "size": "4430559"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Silabo_PIT658_Finanzas.pdf",
+                    "type": "file",
+                    "id": "14TQXefHPcioBTK9ZtR_RycYTjdMKFLXW",
+                    "mimeType": "application/pdf",
+                    "size": "1839591"
+                  }
+                ]
               },
               {
                 "name": "PIT657_Excel_con_Macros",
                 "type": "folder",
                 "id": "1172moDIJVvdJV95Ko7Uott4Jtn1bS7i3",
-                "children": []
+                "children": [
+                  {
+                    "name": "Sesión_2",
+                    "type": "folder",
+                    "id": "1WGMwgqiq-jQtTc5FBUNNh2jn4QKDakoP",
+                    "children": [
+                      {
+                        "name": "Laboratorio02.xlsx",
+                        "type": "file",
+                        "id": "1K17VklBnnNcaCCF0L6e6DAeJTS-t_QXI",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                        "size": "114467"
+                      },
+                      {
+                        "name": "Ejercicio02-Resuelto.xlsx",
+                        "type": "file",
+                        "id": "1AxNQRuemF8aQ-n_Quu-Bnr742K-188vp",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                        "size": "75775"
+                      },
+                      {
+                        "name": "Ejercicio03.xlsx",
+                        "type": "file",
+                        "id": "1XzXOIjaUrmNzb7iISdvR6PumL_9p9-wb",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                        "size": "139017"
+                      },
+                      {
+                        "name": "Ejercicio02.xlsx",
+                        "type": "file",
+                        "id": "1sMF2Uylvufvw8awKALkNH6U6942EcoYB",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                        "size": "55182"
+                      },
+                      {
+                        "name": "Actividad01.txt",
+                        "type": "file",
+                        "id": "13XoWWY4I729gnzD1WfdPSJOZMRAr9OP1",
+                        "mimeType": "text/plain",
+                        "size": "588"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_1",
+                    "type": "folder",
+                    "id": "1nwJOwNK94vgclTtXl1IzWj0J2dma4w0Y",
+                    "children": [
+                      {
+                        "name": "Sesión01-PIT.pptx",
+                        "type": "file",
+                        "id": "1gA1P41uaIl9QunCiqimuDhJvLBnSF2SX",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "size": "695592"
+                      },
+                      {
+                        "name": "Laboratorio01.xlsx",
+                        "type": "file",
+                        "id": "17OTtMBCr7f_-ksUhUIrofNW2wY-hv3Vj",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                        "size": "127053"
+                      },
+                      {
+                        "name": "Ejercicio01-Resuelto.xlsx",
+                        "type": "file",
+                        "id": "1bYDIOBotp5Y0Y5qgMzB9qkcTrX2-7_9K",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                        "size": "85544"
+                      },
+                      {
+                        "name": "Ejercicio01.xlsx",
+                        "type": "file",
+                        "id": "17DlqTueBAIkY3bJsLm2hcRg4GfALz-z3",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                        "size": "79317"
+                      },
+                      {
+                        "name": "Imagen_para_ChatGPT.jpg",
+                        "type": "file",
+                        "id": "1Xc8SjnFG1Yyfjyt43Mk98XUzMkJjE1YL",
+                        "mimeType": "image/png",
+                        "size": "64668"
+                      },
+                      {
+                        "name": "Ejemplo_1-Usando_ChatGPT.txt",
+                        "type": "file",
+                        "id": "1qnxa2ujpmqN4ynwv-DndRP6TbHG95awW",
+                        "mimeType": "text/plain",
+                        "size": "1473"
+                      },
+                      {
+                        "name": "Apuntes01.txt",
+                        "type": "file",
+                        "id": "1MF7-33OO1pHCEwF-94njckRzhBsp3nDZ",
+                        "mimeType": "text/plain",
+                        "size": "4527"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Silabo_PIT657_Excel_con_Macros.pdf",
+                    "type": "file",
+                    "id": "19GhxZ4ryB6OyS5eSLMpb-_Mn7hDpTfbO",
+                    "mimeType": "application/pdf",
+                    "size": "1511363"
+                  }
+                ]
               },
               {
                 "name": "PIT651_Copilot_Office_365",
@@ -78,10 +381,45 @@
                 "id": "1ocnQteZRCGy7P7JFlRaiGouK7E6ZcR97",
                 "children": [
                   {
+                    "name": "Sesión_3",
+                    "type": "folder",
+                    "id": "1gplyik1oWYg2h3zkQRzf5TFx-MNBFWxN",
+                    "children": [
+                      {
+                        "name": "Copilot_en_Excel_-_Automatización_inicial.pdf",
+                        "type": "file",
+                        "id": "17jVbBHtwJ3lot-wH4I5jnYanwBdIs6IU",
+                        "mimeType": "application/pdf",
+                        "size": "13504153"
+                      }
+                    ]
+                  },
+                  {
                     "name": "Sesión_2",
                     "type": "folder",
                     "id": "1AxYy49zpn7NVREtzF2ZyRY6iLqRBA9PL",
                     "children": [
+                      {
+                        "name": "Resumenes.txt",
+                        "type": "file",
+                        "id": "1q8e-y2sJiPnnV17r7nwfz7GYmx8Q4ZYO",
+                        "mimeType": "text/plain",
+                        "size": "649"
+                      },
+                      {
+                        "name": "Nuevas_columnas.txt",
+                        "type": "file",
+                        "id": "14Xp36e4uOt184eVs8DDwaVxkjrtCcfup",
+                        "mimeType": "text/plain",
+                        "size": "386"
+                      },
+                      {
+                        "name": "Crear_tabla-prompt.txt",
+                        "type": "file",
+                        "id": "1pe9YWVzISPjBkZmkDa8tvmKQVYr-YamA",
+                        "mimeType": "text/plain",
+                        "size": "593"
+                      },
                       {
                         "name": "Copilot_en_Excel_-_Fundamentos.pdf",
                         "type": "file",
@@ -132,7 +470,57 @@
                 "name": "PIT653_Desarrollo_de_Aplicaciones_con_Inteligencia_Artificial_Gemini",
                 "type": "folder",
                 "id": "122bUEt_fJ_0TA9XXoCZjN0O70N8Gg-w6",
-                "children": []
+                "children": [
+                  {
+                    "name": "Sesión_2",
+                    "type": "folder",
+                    "id": "1TOTfS8lNzN1SC0uAC4i5OMGBXYeRN9ji",
+                    "children": [
+                      {
+                        "name": "ejemplo6.zip",
+                        "type": "file",
+                        "id": "1JV2WTY4uKC2LMGsYbMBsZnjRqrk7Dmvw",
+                        "mimeType": "application/x-zip-compressed",
+                        "size": "6752240"
+                      },
+                      {
+                        "name": "Tema_2-Gemini",
+                        "type": "file",
+                        "id": "1xNJhtcAJF3WaIyhLaGOdXfasbm7l2DTH",
+                        "mimeType": "application/pdf",
+                        "size": "108974"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sesión_1",
+                    "type": "folder",
+                    "id": "1Se6fMLM_zfBsVqQE58hEVNTdCN1J3GzP",
+                    "children": [
+                      {
+                        "name": "Archivo_de_clase_1.zip",
+                        "type": "file",
+                        "id": "1CiLgYA9BHkQFg6tk2C0rwV9iunLEjTSr",
+                        "mimeType": "application/x-zip-compressed",
+                        "size": "6727854"
+                      },
+                      {
+                        "name": "Tema_1-IA_de_los_Fundamentos_a_Gemini.pdf",
+                        "type": "file",
+                        "id": "1jy_PDZW4XoVeZcfVfUBDXqUu01XWSWNz",
+                        "mimeType": "application/pdf",
+                        "size": "1409290"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Silabo_PIT653_Desarrollo_de_Aplicaciones_con_Inteligencia_Artificial_Gemini.pdf",
+                    "type": "file",
+                    "id": "1rMBKe3TfpA6rUFPX9bgJNpXqFhvBQccl",
+                    "mimeType": "application/pdf",
+                    "size": "1697694"
+                  }
+                ]
               },
               {
                 "name": "PIT647_Ciencia_de_Datos_1:_Exploratory_Data_Analysis",

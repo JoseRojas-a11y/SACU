@@ -7,11 +7,24 @@ import {
 } from '../services/courseDriveService'
 import { FolderSidebar } from './FolderSidebar'
 import { FileGrid } from './FileGrid'
+import Astronauta from '../../../core/public/astronauta.png'
 
 interface CourseDriveViewerProps {
   courseId: string
   driveFolderId?: string
   onBack: () => void
+}
+
+function countTreeFiles(node: any): number {
+  if (!node) return 0
+  if (node.type === 'file') return 1
+  let sum = 0
+  if (Array.isArray(node.children)) {
+    for (const child of node.children) {
+      sum += countTreeFiles(child)
+    }
+  }
+  return sum
 }
 
 export function CourseDriveViewer({ courseId, onBack }: CourseDriveViewerProps) {
@@ -20,22 +33,26 @@ export function CourseDriveViewer({ courseId, onBack }: CourseDriveViewerProps) 
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
+    window.scrollTo({ top: 0, behavior: 'instant' })
     let isMounted = true
     setLoading(true)
 
-    fetchCourseDriveData(courseId).then((res) => {
-      if (isMounted) {
-        setData(res)
-        if (res.tree) {
-          // Preselect first subfolder if available, otherwise root folder
-          const firstSub = res.tree.children.find(
-            (child): child is DriveFolderNode => child.type === 'folder'
-          )
-          setSelectedFolder(firstSub || res.tree)
+    fetchCourseDriveData(courseId)
+      .then((res) => {
+        if (isMounted) {
+          setData(res)
+          if (res && res.tree) {
+            setSelectedFolder(res.tree)
+          }
+          setLoading(false)
         }
-        setLoading(false)
-      }
-    })
+      })
+      .catch((err) => {
+        console.error('Error al cargar datos del curso:', err)
+        if (isMounted) {
+          setLoading(false)
+        }
+      })
 
     return () => {
       isMounted = false
@@ -43,58 +60,78 @@ export function CourseDriveViewer({ courseId, onBack }: CourseDriveViewerProps) 
   }, [courseId])
 
   const formattedCourseTitle = data ? formatDisplayName(data.course_name) : courseId
+  const totalCourseFiles = data?.tree ? countTreeFiles(data.tree) : 0
 
   return (
-    <div className="animate-fade-in min-h-screen bg-slate-50 pb-16">
-      {/* Sub-Hero Header */}
-      <section
-        className="pt-16 pb-8 relative overflow-hidden text-white"
-        style={{ background: 'linear-gradient(155deg, #080e22 0%, #0f1b3d 50%, #172651 100%)' }}
-      >
-        <div className="max-w-7xl mx-auto px-4 sm:px-6">
-          <button
-            onClick={onBack}
-            className="inline-flex items-center gap-1.5 mb-3 text-gray-400 text-xs font-semibold hover:text-white transition-colors cursor-pointer"
-          >
-            <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
-              <path strokeLinecap="round" strokeLinejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5" />
-            </svg>
-            Volver a la selección de cursos
-          </button>
+    <div className="animate-fade-in min-h-screen bg-[var(--theme-bg-main)] text-[var(--theme-text-main)]">
+      {/* Course Hero Banner Header (Integrates seamlessly with absolute floating Navbar) */}
+      <section className="relative overflow-hidden bg-gradient-to-br from-[#1b0222] via-[#3c0066] to-[#8300ca] text-white pt-20 sm:pt-24 pb-8 sm:pb-10 shadow-md">
+        {/* Ambient Glow */}
+        <div className="absolute top-0 right-0 w-96 h-96 bg-[#cc6dfe]/20 rounded-full blur-3xl pointer-events-none z-0" />
 
-          <div className="flex items-center gap-3">
-            <span className="px-2.5 py-1 rounded-lg bg-indigo-500/20 text-indigo-300 border border-indigo-400/30 text-xs font-mono font-bold">
-              {courseId}
-            </span>
-            <h1 className="text-2xl sm:text-3xl font-extrabold text-white tracking-tight">
-              {formattedCourseTitle}
-            </h1>
+        {/* Flying Astronaut (Fixed relative to section, centered vertically, responsive positioning, behind text z-10) */}
+        <div className="absolute top-1/2 right-[5%] sm:right-[20%] md:right-[30%] z-0 pointer-events-none opacity-30 sm:opacity-85 w-32 sm:w-56 md:w-72 astronaut-rotated">
+          <img src={Astronauta} alt="" className="w-full h-auto drop-shadow-[0_12px_24px_rgba(204,109,254,0.35)]" />
+        </div>
+
+        <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6">
+          {/* Top Navigation & Breadcrumbs */}
+          <div className="flex flex-wrap items-center gap-2 text-xs font-medium text-[#cbd5e1] mb-3">
+            <button
+              onClick={onBack}
+              className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/10 hover:bg-white/20 text-[#cc6dfe] hover:text-white text-xs font-semibold backdrop-blur-md transition-all cursor-pointer border border-white/10"
+            >
+              <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5" />
+              </svg>
+              <span>Volver a Cursos</span>
+            </button>
+            <span className="opacity-40">/</span>
+            <span className="text-white font-semibold truncate max-w-[260px] sm:max-w-md">{courseId}</span>
+            <span>-</span>
+            <span className="text-white font-semibold truncate max-w-[260px] sm:max-w-md">{formattedCourseTitle}</span>
           </div>
 
-          <p className="mt-2 text-slate-300 text-xs font-medium">
-            Visualizador de contenido académico sincronizado desde Google Drive
-          </p>
+          {/* Title & Statistics */}
+          <div className="flex flex-col md:flex-row md:items-end justify-between gap-4 mt-2">
+            <div>
+              <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-white tracking-tight leading-tight">
+                {formattedCourseTitle}
+              </h1>
+            </div>
+
+            <div className="flex items-center gap-3 bg-white/10 backdrop-blur-md px-4 py-2.5 rounded-xl border border-white/15 self-start md:self-auto">
+              <div className="text-right">
+                <div className="text-[10px] font-mono text-[#cbd5e1] uppercase font-bold tracking-wider">
+                  Archivos Disponibles
+                </div>
+                <div className="text-lg font-extrabold font-mono text-[#cc6dfe]">
+                  {loading ? '...' : totalCourseFiles}
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </section>
 
       {/* Main Content Area */}
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 py-6">
+      <main className="max-w-7xl mx-auto px-4 sm:px-6 py-6 sm:py-8">
         {loading ? (
-          <div className="flex flex-col items-center justify-center py-20 bg-white rounded-3xl border border-slate-200 shadow-xs">
-            <div className="w-10 h-10 border-4 border-indigo-600 border-t-transparent rounded-full animate-spin mb-3" />
-            <p className="text-sm font-semibold text-slate-600">
+          <div className="flex flex-col items-center justify-center py-20 bg-white rounded-2xl border border-[var(--theme-border)] shadow-xs">
+            <div className="w-9 h-9 border-3 border-[var(--theme-primary)] border-t-transparent rounded-full animate-spin mb-3" />
+            <p className="text-xs font-semibold text-slate-600">
               Cargando estructura del curso {courseId}...
             </p>
           </div>
         ) : !data || !data.tree ? (
-          <div className="text-center py-16 bg-white rounded-3xl border border-slate-200 shadow-xs">
-            <p className="text-sm font-semibold text-slate-600">
+          <div className="text-center py-16 bg-white rounded-2xl border border-[var(--theme-border)] shadow-xs">
+            <p className="text-xs font-semibold text-slate-600">
               No se pudo cargar la información para este curso.
             </p>
           </div>
         ) : (
           <div className="grid grid-cols-1 lg:grid-cols-4 gap-6">
-            {/* Sidebar Left: Folder Tree (~25-30%) */}
+            {/* Sidebar Left: Folder Tree (~25%) */}
             <div className="lg:col-span-1">
               <FolderSidebar
                 rootFolder={data.tree}
@@ -103,9 +140,14 @@ export function CourseDriveViewer({ courseId, onBack }: CourseDriveViewerProps) 
               />
             </div>
 
-            {/* Main Content Right: File Grid (~70-75%) */}
+            {/* Main Content Right: File Grid (~75%) */}
             <div className="lg:col-span-3">
-              <FileGrid folder={selectedFolder} courseName={data.course_name} />
+              <FileGrid
+                folder={selectedFolder}
+                rootFolder={data.tree}
+                courseName={data.course_name}
+                onSelectFolder={setSelectedFolder}
+              />
             </div>
           </div>
         )}

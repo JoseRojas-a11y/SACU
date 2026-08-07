@@ -1,10 +1,30 @@
-import { useState } from 'react'
+import { useState, useMemo } from 'react'
 import { DriveFolderNode, DriveFileNode, formatDisplayName } from '../services/courseDriveService'
 import { FilePreviewModal } from './FilePreviewModal'
 
 interface FileGridProps {
   folder: DriveFolderNode | null
+  rootFolder?: DriveFolderNode | null
   courseName: string
+  onSelectFolder?: (folder: DriveFolderNode) => void
+}
+
+function findFolderPath(root: DriveFolderNode | null, targetId: string): DriveFolderNode[] {
+  if (!root) return []
+  if (root.id === targetId) return [root]
+
+  if (Array.isArray(root.children)) {
+    for (const child of root.children) {
+      if (child && child.type === 'folder') {
+        const subPath = findFolderPath(child, targetId)
+        if (subPath.length > 0) {
+          return [root, ...subPath]
+        }
+      }
+    }
+  }
+
+  return []
 }
 
 function getFileIcon(fileName: string) {
@@ -64,7 +84,7 @@ function FileCardItem({ file, onPreview }: FileCardItemProps) {
   const currentThumbUrl = thumbnailSources[thumbIndex]
 
   return (
-    <div className="bg-white rounded-3xl border border-slate-200/90 shadow-xs hover:shadow-xl hover:border-indigo-300 transition-all flex flex-col justify-between overflow-hidden group">
+    <div className="bg-white rounded-2xl border border-[#e2e8f0] shadow-xs hover:shadow-md hover:border-[#d2c1d8] transition-all flex flex-col justify-between overflow-hidden group">
       {/* Top Image Preview (First Page / Image Thumbnail) */}
       <div
         onClick={() => onPreview(file)}
@@ -87,16 +107,16 @@ function FileCardItem({ file, onPreview }: FileCardItemProps) {
         )}
 
         {/* Floating Tag Badge */}
-        <div className="absolute top-3 right-3 shadow-sm">
+        <div className="absolute top-3 right-3 shadow-xs">
           <span className={`px-2.5 py-1 text-[10px] font-mono font-bold rounded-lg border backdrop-blur-md ${style.color}`}>
             {style.tag}
           </span>
         </div>
 
         {/* Hover Overlay Icon */}
-        <div className="absolute inset-0 bg-indigo-950/30 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
-          <span className="px-3 py-1.5 rounded-xl bg-white/90 text-indigo-950 text-xs font-extrabold shadow-lg flex items-center gap-1.5 backdrop-blur-xs">
-            <svg className="w-4 h-4 text-indigo-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
+        <div className="absolute inset-0 bg-[#1e1b4b]/30 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
+          <span className="px-3 py-1.5 rounded-xl bg-white/90 text-[#191c1e] text-xs font-extrabold shadow-lg flex items-center gap-1.5 backdrop-blur-xs">
+            <svg className="w-4 h-4 text-[#8300ca]" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
               <path strokeLinecap="round" strokeLinejoin="round" d="M2.036 12.322a1.012 1.012 0 0 1 0-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178Z" />
               <path strokeLinecap="round" strokeLinejoin="round" d="M15 12a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" />
             </svg>
@@ -109,17 +129,17 @@ function FileCardItem({ file, onPreview }: FileCardItemProps) {
       <div className="p-4 flex-1 flex flex-col justify-between">
         <h3
           onClick={() => onPreview(file)}
-          className="text-xs font-bold text-slate-800 line-clamp-2 leading-snug group-hover:text-indigo-600 transition-colors cursor-pointer"
+          className="text-xs font-bold text-[#191c1e] line-clamp-2 leading-snug group-hover:text-[#8300ca] transition-colors cursor-pointer"
           title={formattedTitle}
         >
           {formattedTitle}
         </h3>
 
         {/* Card Footer Actions */}
-        <div className="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between gap-2">
+        <div className="mt-4 pt-3 border-t border-[#e2e8f0] flex items-center justify-between gap-2">
           <button
             onClick={() => onPreview(file)}
-            className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-slate-100 hover:bg-indigo-50 text-slate-700 hover:text-indigo-600 text-xs font-bold transition-colors cursor-pointer"
+            className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-[#f2f4f6] hover:bg-[#e2e8f0] text-slate-700 hover:text-[#8300ca] text-xs font-semibold transition-colors cursor-pointer"
           >
             <span>Ver páginas</span>
           </button>
@@ -128,7 +148,7 @@ function FileCardItem({ file, onPreview }: FileCardItemProps) {
             href={driveUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-1 px-3 py-1.5 rounded-xl bg-indigo-600 hover:bg-indigo-700 text-white text-xs font-bold transition-colors cursor-pointer shadow-xs"
+            className="inline-flex items-center gap-1 px-3 py-1.5 rounded-lg bg-[#8300ca] hover:bg-[#6e00aa] text-white text-xs font-semibold transition-colors cursor-pointer shadow-xs"
             title="Abrir en Google Drive"
           >
             <span>Drive</span>
@@ -142,13 +162,18 @@ function FileCardItem({ file, onPreview }: FileCardItemProps) {
   )
 }
 
-export function FileGrid({ folder, courseName }: FileGridProps) {
+export function FileGrid({ folder, rootFolder, courseName, onSelectFolder }: FileGridProps) {
   const [previewFile, setPreviewFile] = useState<DriveFileNode | null>(null)
+
+  const folderPath = useMemo(() => {
+    if (!rootFolder || !folder) return []
+    return findFolderPath(rootFolder, folder.id)
+  }, [rootFolder, folder])
 
   if (!folder) {
     return (
-      <div className="bg-white rounded-3xl p-12 text-center border border-slate-200/80">
-        <div className="w-16 h-16 bg-indigo-50 text-indigo-500 rounded-2xl flex items-center justify-center text-3xl mx-auto mb-3">
+      <div className="bg-white rounded-2xl p-12 text-center border border-[#e2e8f0] shadow-xs">
+        <div className="w-14 h-14 bg-[#f2f4f6] text-[#8300ca] rounded-2xl flex items-center justify-center text-3xl mx-auto mb-3">
           📂
         </div>
         <h3 className="text-base font-bold text-slate-800">Selecciona una carpeta</h3>
@@ -159,32 +184,60 @@ export function FileGrid({ folder, courseName }: FileGridProps) {
     )
   }
 
-  const files = folder.children.filter((child): child is DriveFileNode => child.type === 'file')
-  const folderDisplayName = formatDisplayName(folder.name)
+  const children = Array.isArray(folder?.children) ? folder.children : []
+  const files = children.filter((child): child is DriveFileNode => Boolean(child && child.type === 'file'))
+  const folderDisplayName = formatDisplayName(folder?.name || '')
 
   return (
     <div className="space-y-5">
       {/* Folder Header */}
-      <div className="bg-white rounded-3xl p-6 border border-slate-200/80 shadow-xs flex flex-wrap items-center justify-between gap-4">
+      <div className="bg-white rounded-2xl p-5 border border-[#e2e8f0] shadow-xs flex flex-wrap items-center justify-between gap-4">
         <div>
-          <div className="flex items-center gap-2 text-xs font-semibold text-indigo-600 mb-1">
-            <span>{formatDisplayName(courseName)}</span>
-            <span>/</span>
-            <span className="text-slate-400 font-normal">Carpeta activa</span>
+          <div className="flex items-center gap-1.5 flex-wrap text-xs font-medium text-slate-500 mb-1">
+            {folderPath.length > 0 ? (
+              folderPath.map((node, index) => {
+                const isLast = index === folderPath.length - 1
+                const formatted = formatDisplayName(node.name)
+                return (
+                  <div key={node.id} className="flex items-center gap-1.5">
+                    {index > 0 && <span className="text-slate-300">/</span>}
+                    {onSelectFolder && !isLast ? (
+                      <button
+                        onClick={() => onSelectFolder(node)}
+                        className="hover:text-[#8300ca] hover:underline cursor-pointer transition-colors"
+                      >
+                        {formatted}
+                      </button>
+                    ) : (
+                      <span className={isLast ? 'text-[#8300ca] font-semibold' : 'text-slate-600'}>
+                        {formatted}
+                      </span>
+                    )}
+                  </div>
+                )
+              })
+            ) : (
+              <div className="flex items-center gap-1.5">
+                <span>{formatDisplayName(courseName)}</span>
+                <span>/</span>
+                <span className="text-[#8300ca] font-semibold">{folderDisplayName}</span>
+              </div>
+            )}
           </div>
-          <h2 className="text-xl font-extrabold text-slate-900 flex items-center gap-2">
-            <span>📁</span> {folderDisplayName}
+
+          <h2 className="text-xl font-extrabold text-[#191c1e] flex items-center gap-2">
+            {folderDisplayName}
           </h2>
         </div>
-        <span className="px-3 py-1 bg-indigo-50 text-indigo-700 font-mono text-xs font-bold rounded-full border border-indigo-100">
+        <span className="px-3 py-1 bg-[#f2f4f6] text-[#5c647a] font-mono text-xs font-bold rounded-full border border-[#e2e8f0]">
           {files.length} {files.length === 1 ? 'archivo' : 'archivos'}
         </span>
       </div>
 
       {/* Files Grid */}
       {files.length === 0 ? (
-        <div className="bg-white rounded-3xl p-12 text-center border border-slate-200/80">
-          <div className="w-12 h-12 bg-slate-100 text-slate-400 rounded-2xl flex items-center justify-center text-2xl mx-auto mb-3">
+        <div className="bg-white rounded-2xl p-12 text-center border border-[#e2e8f0] shadow-xs">
+          <div className="w-12 h-12 bg-[#f2f4f6] text-slate-400 rounded-2xl flex items-center justify-center text-2xl mx-auto mb-3">
             📭
           </div>
           <h4 className="text-sm font-bold text-slate-700">Esta carpeta no contiene archivos</h4>
