@@ -4,7 +4,6 @@ export interface DriveFileNode {
   id: string
   mimeType?: string
   size?: number
-  thumbnail_url?: string
 }
 
 export interface DriveFolderNode {

@@ -131,27 +131,13 @@ class CourseScanner:
                 "children": children_nodes
             }
         else:
-            file_node = {
+            return {
                 "name": std_name,
                 "type": "file",
                 "id": item['id'],
                 "mimeType": item.get('mimeType', 'application/octet-stream'),
                 "size": item.get('size')
             }
-
-            # Si están configuradas las credenciales de Cloudflare o la bandera de miniaturas en .env
-            if os.getenv("ENABLE_CLOUDFLARE_THUMBNAILS", "false").lower() == "true" or os.getenv("CLOUDFLARE_R2_ACCOUNT_ID"):
-                try:
-                    from cloudflare_uploader import download_and_optimize_thumbnail, upload_thumbnail_to_cloudflare
-                    img_bytes = download_and_optimize_thumbnail(item['id'], max_size_kb=250)
-                    if img_bytes:
-                        thumb_url = upload_thumbnail_to_cloudflare(item['id'], img_bytes)
-                        if thumb_url:
-                            file_node["thumbnail_url"] = thumb_url
-                except Exception as e:
-                    print(f"[CourseScanner] No se pudo generar thumbnail para {item['id']}: {e}")
-
-            return file_node
 
     def _scan_google_drive(self) -> List[Dict[str, Any]]:
         top_items = self._fetch_drive_items(GOOGLE_DRIVE_FOLDER_ID)
