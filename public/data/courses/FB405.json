@@ -2,7 +2,7 @@
   "course_id": "FB405",
   "course_name": "Estadística_Aplicada",
   "id": "1Qbqb5ZyH4C6y-3SY-ApL5ofhY3HsTOwY",
-  "scanned_at": "2026-08-07T07:49:04.725495+00:00",
+  "scanned_at": "2026-08-18T20:20:29.210934+00:00",
   "tree": {
     "name": "Estadística_Aplicada",
     "type": "folder",
@@ -83,6 +83,13 @@
         "type": "folder",
         "id": "13PTabY63T5tzrrAlDTpGU9R8rvKrjPaC",
         "children": [
+          {
+            "name": "1.3._Estimación_puntual_y_por_intervalo_Ejercicios.pdf",
+            "type": "file",
+            "id": "1mJWVX5_VCSR88EO0XnH0ZQ7KfNfM4s1Q",
+            "mimeType": "application/pdf",
+            "size": "2100311"
+          },
           {
             "name": "8.1._Análisis_de_Varianza_y_Diseño_de_Experimentos.pdf",
             "type": "file",
@@ -201,13 +208,6 @@
             "id": "1P-Uo09sMYagB3eaUymV7svtuovGwfA7F",
             "mimeType": "application/pdf",
             "size": "782843"
-          },
-          {
-            "name": "1.3._Estimación_por_intervalo_Ejercicios.pdf",
-            "type": "file",
-            "id": "1mJWVX5_VCSR88EO0XnH0ZQ7KfNfM4s1Q",
-            "mimeType": "application/pdf",
-            "size": "2100311"
           },
           {
             "name": "1.2._Estimación_por_intervalo.pdf",

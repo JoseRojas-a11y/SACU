@@ -10,6 +10,7 @@ export interface DriveFolderNode {
   name: string
   type: 'folder'
   id: string
+  total_files?: number
   children: (DriveFolderNode | DriveFileNode)[]
 }
 

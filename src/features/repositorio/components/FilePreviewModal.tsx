@@ -4,6 +4,7 @@ import { DriveFileNode, formatDisplayName } from '../services/courseDriveService
 
 interface FilePreviewModalProps {
   file: DriveFileNode | null
+  pageNumber?: number
   onClose: () => void
 }
 
@@ -12,7 +13,7 @@ function isImageFile(fileName: string): boolean {
   return ['jpg', 'jpeg', 'png', 'gif', 'webp', 'svg', 'bmp'].includes(ext)
 }
 
-export function FilePreviewModal({ file, onClose }: FilePreviewModalProps) {
+export function FilePreviewModal({ file, pageNumber, onClose }: FilePreviewModalProps) {
   const [imageError, setImageError] = useState(false)
   const [iframeLoading, setIframeLoading] = useState(true)
 
@@ -65,9 +66,16 @@ export function FilePreviewModal({ file, onClose }: FilePreviewModalProps) {
               {isImage ? '🖼️' : '📄'}
             </span>
             <div className="min-w-0">
-              <h3 className="text-xs sm:text-sm md:text-base font-bold text-white truncate leading-snug" title={formattedTitle}>
-                {formattedTitle}
-              </h3>
+              <div className="flex items-center gap-2">
+                <h3 className="text-xs sm:text-sm md:text-base font-bold text-white truncate leading-snug" title={formattedTitle}>
+                  {formattedTitle}
+                </h3>
+                {pageNumber && (
+                  <span className="px-2 py-0.5 rounded-full text-[10px] font-mono font-bold bg-[#cc6dfe]/20 text-[#cc6dfe] border border-[#cc6dfe]/40 flex-shrink-0">
+                    📍 Página {pageNumber}
+                  </span>
+                )}
+              </div>
               <p className="text-[10px] sm:text-[11px] text-[#cbd5e1]/70 font-mono truncate">
                 {file.name}
               </p>

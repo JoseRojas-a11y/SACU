@@ -12,9 +12,16 @@ interface TreeNodeProps {
   selectedFolder: DriveFolderNode | null
   onSelectFolder: (folder: DriveFolderNode) => void
   level?: number
+  isFirstChild?: boolean
 }
 
-function FolderTreeNode({ folder, selectedFolder, onSelectFolder, level = 0 }: TreeNodeProps) {
+function FolderTreeNode({
+  folder,
+  selectedFolder,
+  onSelectFolder,
+  level = 0,
+  isFirstChild = false
+}: TreeNodeProps) {
   const [isOpen, setIsOpen] = useState(true)
   if (!folder) return null
 
@@ -24,29 +31,46 @@ function FolderTreeNode({ folder, selectedFolder, onSelectFolder, level = 0 }: T
   const subfolders = children.filter(
     (child): child is DriveFolderNode => Boolean(child && child.type === 'folder')
   )
-  const fileCount = children.filter((child) => Boolean(child && child.type === 'file')).length
+  const totalFiles = typeof folder.total_files === 'number'
+    ? folder.total_files
+    : children.filter((child) => Boolean(child && child.type === 'file')).length
 
   const displayName = formatDisplayName(folder.name || '')
 
+  // Sombra e intensidad de oscurecimiento según la profundidad de la jerarquía (level)
+  const shadowAlpha = Math.min(level * 0.04, 0.35)
+  const darkAlpha = Math.min(level * 0.02, 0.2)
+  const brightness = Math.max(100 - level * 2.25, 80)
+
+  // La sombra en la parte superior sólo se aplica al PRIMER elemento al descender de nivel
+  const treeNodeStyle = {
+    paddingLeft: `${Math.max(12, level * 14)}px`,
+    ...(!isSelected && level > 0 ? {
+      backgroundColor: `rgba(15, 23, 42, ${darkAlpha})`,
+      filter: `brightness(${brightness}%)`,
+      ...(isFirstChild ? {
+        boxShadow: `inset 0 3px 5px -1px rgba(0, 0, 0, ${shadowAlpha})`
+      } : {})
+    } : {})
+  }
+
   return (
-    <div className="select-none">
+    <div className="select-none [direction:ltr]">
       <div
         onClick={() => onSelectFolder(folder)}
-        className={`tree-node-item group ${
-          isSelected ? 'tree-node-item-selected' : 'tree-node-item-idle'
-        }`}
-        style={{ paddingLeft: `${Math.max(12, level * 14)}px` }}
+        className={`tree-node-item group ${isSelected ? 'tree-node-item-selected' : 'tree-node-item-idle'
+          }`}
+        style={treeNodeStyle}
       >
-        <div className="flex items-center gap-2 min-w-0">
+        <div className="flex items-center min-w-0">
           {subfolders.length > 0 ? (
             <button
               onClick={(e) => {
                 e.stopPropagation()
                 setIsOpen(!isOpen)
               }}
-              className={`p-0.5 rounded transition-transform hover:bg-black/5 cursor-pointer ${
-                isOpen ? 'rotate-90' : ''
-              }`}
+              className={`p-0.5 rounded transition-transform hover:bg-black/5 cursor-pointer ${isOpen ? 'rotate-90' : ''
+                }`}
             >
               <svg className="w-3 h-3 text-[#8300ca]" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
                 <path strokeLinecap="round" strokeLinejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" />
@@ -58,9 +82,8 @@ function FolderTreeNode({ folder, selectedFolder, onSelectFolder, level = 0 }: T
 
           {/* Folder Icon */}
           <svg
-            className={`w-4 h-4 flex-shrink-0 transition-colors ${
-              isSelected ? 'text-[#8300ca]' : 'text-[#8300ca]/70 group-hover:text-[#8300ca]'
-            }`}
+            className={`w-4 h-4 flex-shrink-0 transition-colors ${isSelected ? 'text-[#8300ca]' : 'text-[#8300ca]/70 group-hover:text-[#8300ca]'
+              }`}
             fill="currentColor"
             viewBox="0 0 24 24"
           >
@@ -72,27 +95,28 @@ function FolderTreeNode({ folder, selectedFolder, onSelectFolder, level = 0 }: T
           </span>
         </div>
 
-        {fileCount > 0 && (
+        {totalFiles > 0 && (
           <span
-            className={`px-1.5 py-0.5 text-[10px] rounded-md font-mono font-semibold flex-shrink-0 ${
-              isSelected ? 'bg-white/80 text-[#8300ca]' : 'bg-[#e2e8f0]/80 text-[#4f4255]'
-            }`}
+            className={`px-1.5 py-0.5 text-[10px] rounded-md font-mono font-semibold flex-shrink-0 ${isSelected ? 'bg-white/80 text-[#8300ca]' : 'bg-[#e2e8f0]/80 text-[#4f4255]'
+              }`}
+            title={`${totalFiles} archivos en esta carpeta`}
           >
-            {fileCount}
+            {totalFiles}
           </span>
         )}
       </div>
 
       {/* Render Subfolders */}
       {isOpen && subfolders.length > 0 && (
-        <div className="mt-0.5">
-          {subfolders.map((sub) => (
+        <div>
+          {subfolders.map((sub, index) => (
             <FolderTreeNode
               key={sub.id}
               folder={sub}
               selectedFolder={selectedFolder}
               onSelectFolder={onSelectFolder}
               level={level + 1}
+              isFirstChild={index === 0}
             />
           ))}
         </div>
@@ -121,7 +145,7 @@ export function FolderSidebar({ rootFolder, selectedFolder, onSelectFolder }: Fo
         </button>
       </div>
 
-      <nav className={`space-y-1 overflow-y-auto max-h-[calc(100vh-280px)] pr-1 ${isMobileOpen ? 'block' : 'hidden lg:block'}`}>
+      <nav className={`space-y-1 overflow-y-auto [direction:rtl] max-h-[calc(120vh-280px)] pl-1 ${isMobileOpen ? 'block' : 'hidden lg:block'}`}>
         <FolderTreeNode
           folder={rootFolder}
           selectedFolder={selectedFolder}

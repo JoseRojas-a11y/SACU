@@ -59,12 +59,13 @@ def parse_course_folder_name(folder_name: str, fallback_counter: int) -> tuple[s
     return fallback_id, standardize_name(folder_name)
 
 def count_tree_files(node: Dict[str, Any]) -> int:
-    """Cuenta el número total de archivos en el árbol del curso."""
+    """Cuenta el número total de archivos en el árbol del curso y anota cada carpeta con total_files."""
     if node.get("type") == "file":
         return 1
     count = 0
     for child in node.get("children", []):
         count += count_tree_files(child)
+    node["total_files"] = count
     return count
 
 class CourseScanner:
@@ -187,12 +188,16 @@ class CourseScanner:
                     with open(filepath, "r", encoding="utf-8") as f:
                         data = json.load(f)
                         if "course_id" in data and "tree" in data:
+                            count_tree_files(data["tree"])
+                            with open(filepath, "w", encoding="utf-8") as wf:
+                                json.dump(data, wf, ensure_ascii=False, indent=2)
                             results.append(data)
-                except Exception:
+                except Exception as e:
+                    print(f"Error actualizando {filename}: {e}")
                     continue
 
         if results:
-            print(f"[CourseScanner] Se encontraron y validaron {len(results)} cursos existentes en almacenamiento.")
+            print(f"[CourseScanner] Se encontraron, anotaron y validaron {len(results)} cursos existentes en almacenamiento.")
             return results
 
         print("[CourseScanner] No se encontraron JSONs existentes. Generando conjunto inicial de demostración...")

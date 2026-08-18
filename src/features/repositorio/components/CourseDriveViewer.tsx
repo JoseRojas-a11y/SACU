@@ -2,11 +2,14 @@ import { useState, useEffect } from 'react'
 import {
   DriveCourseData,
   DriveFolderNode,
+  DriveFileNode,
   fetchCourseDriveData,
   formatDisplayName
 } from '../services/courseDriveService'
 import { FolderSidebar } from './FolderSidebar'
 import { FileGrid } from './FileGrid'
+import { CourseSmartSearch } from './CourseSmartSearch'
+import { FilePreviewModal } from './FilePreviewModal'
 import Astronauta from '../../../core/public/astronauta.png'
 
 interface CourseDriveViewerProps {
@@ -14,6 +17,8 @@ interface CourseDriveViewerProps {
   driveFolderId?: string
   onBack: () => void
 }
+
+type CourseViewMode = 'explorer' | 'search'
 
 function countTreeFiles(node: any): number {
   if (!node) return 0
@@ -31,6 +36,9 @@ export function CourseDriveViewer({ courseId, onBack }: CourseDriveViewerProps) 
   const [data, setData] = useState<DriveCourseData | null>(null)
   const [selectedFolder, setSelectedFolder] = useState<DriveFolderNode | null>(null)
   const [loading, setLoading] = useState(true)
+  const [viewMode, setViewMode] = useState<CourseViewMode>('explorer')
+  const [previewFile, setPreviewFile] = useState<DriveFileNode | null>(null)
+  const [previewPage, setPreviewPage] = useState<number | undefined>(undefined)
 
   useEffect(() => {
     window.scrollTo({ top: 0, behavior: 'instant' })
@@ -61,6 +69,11 @@ export function CourseDriveViewer({ courseId, onBack }: CourseDriveViewerProps) 
 
   const formattedCourseTitle = data ? formatDisplayName(data.course_name) : courseId
   const totalCourseFiles = data?.tree ? countTreeFiles(data.tree) : 0
+
+  function handlePreviewFromSearch(file: DriveFileNode, pageNumber?: number) {
+    setPreviewFile(file)
+    setPreviewPage(pageNumber)
+  }
 
   return (
     <div className="animate-fade-in min-h-screen bg-[var(--theme-bg-main)] text-[var(--theme-text-main)]">
@@ -93,7 +106,7 @@ export function CourseDriveViewer({ courseId, onBack }: CourseDriveViewerProps) 
           </div>
 
           {/* Title & Statistics */}
-          <div className="flex flex-col md:flex-row md:items-end justify-between gap-4 mt-2">
+          <div className="flex flex-col md:flex-row md:items-end justify-between gap-4 mt-2 mb-6">
             <div>
               <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-white tracking-tight leading-tight">
                 {formattedCourseTitle}
@@ -110,6 +123,31 @@ export function CourseDriveViewer({ courseId, onBack }: CourseDriveViewerProps) 
                 </div>
               </div>
             </div>
+          </div>
+
+          {/* Mode Switcher Tabs (Explorador de Carpetas vs Buscador Inteligente) */}
+          <div className="flex items-center gap-2 pt-2 border-t border-white/10 backdrop-blur-[4px]">
+            <button
+              onClick={() => setViewMode('explorer')}
+              className={`course-mode-tab ${viewMode === 'explorer' ? 'course-mode-tab-active' : 'course-mode-tab-idle'
+                }`}
+            >
+              <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="M2.25 12.75V12A2.25 2.25 0 0 1 4.5 9.75h15A2.25 2.25 0 0 1 21.75 12v.75m-8.69-6.44-2.12-2.12a1.5 1.5 0 0 0-1.061-.44H4.5A2.25 2.25 0 0 0 2.25 6v12a2.25 2.25 0 0 0 2.25 2.25h15A2.25 2.25 0 0 0 21.75 18V9a2.25 2.25 0 0 0-2.25-2.25h-5.379a1.5 1.5 0 0 1-1.06-.44Z" />
+              </svg>
+              <span>Explorador de Carpetas</span>
+            </button>
+
+            <button
+              onClick={() => setViewMode('search')}
+              className={`course-mode-tab ${viewMode === 'search' ? 'course-mode-tab-active' : 'course-mode-tab-idle'
+                }`}
+            >
+              <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" />
+              </svg>
+              <span>Búsqueda Especializada</span>
+            </button>
           </div>
         </div>
       </section>
@@ -129,7 +167,17 @@ export function CourseDriveViewer({ courseId, onBack }: CourseDriveViewerProps) 
               No se pudo cargar la información para este curso.
             </p>
           </div>
+        ) : viewMode === 'search' ? (
+          /* Smart Search View */
+          <CourseSmartSearch
+            courseId={courseId}
+            courseName={data.course_name}
+            rootFolder={data.tree}
+            onPreviewFile={handlePreviewFromSearch}
+            onBackToExplorer={() => setViewMode('explorer')}
+          />
         ) : (
+          /* Classic Folder & File Explorer View */
           <div className="grid grid-cols-1 lg:grid-cols-4 gap-6">
             {/* Sidebar Left: Folder Tree (~25%) */}
             <div className="lg:col-span-1">
@@ -152,6 +200,19 @@ export function CourseDriveViewer({ courseId, onBack }: CourseDriveViewerProps) 
           </div>
         )}
       </main>
+
+      {/* File Preview Modal for Search View Actions */}
+      {previewFile && (
+        <FilePreviewModal
+          file={previewFile}
+          pageNumber={previewPage}
+          onClose={() => {
+            setPreviewFile(null)
+            setPreviewPage(undefined)
+          }}
+        />
+      )}
     </div>
   )
 }
+

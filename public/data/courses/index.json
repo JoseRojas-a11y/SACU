@@ -1,440 +1,440 @@
 {
   "total_courses": 62,
-  "total_files": 11928,
-  "scanned_at": "2026-08-07T07:57:34.813252+00:00",
+  "total_files": 11936,
+  "scanned_at": "2026-08-18T20:29:51.719600+00:00",
   "courses": [
     {
       "course_id": "AA001",
-      "course_name": "Cursos_eliminados",
-      "id": "1llqeXn8D3jRD39nY10Kp67KMuCsDstbC",
-      "scanned_at": "2026-08-07T07:36:22.798114+00:00",
-      "total_files": 596
-    },
-    {
-      "course_id": "AA002",
       "course_name": "Adicionales",
       "id": "1VjTcAiVKiT5Q8FxYQ8bGAn3YhJBTmqGg",
-      "scanned_at": "2026-08-07T07:57:34.787723+00:00",
-      "total_files": 286
+      "scanned_at": "2026-08-18T20:29:51.676404+00:00",
+      "total_files": 761
     },
     {
       "course_id": "BEF01",
       "course_name": "Ética_y_Filosofía_política",
       "id": "1QvVkZjbb_T-9oRXHwOqyINgXmc-typtY",
-      "scanned_at": "2026-08-07T07:56:45.467505+00:00",
+      "scanned_at": "2026-08-18T20:28:05.953367+00:00",
       "total_files": 78
     },
     {
       "course_id": "BEG01",
       "course_name": "Economía_general",
       "id": "1ChbvBElvSEyuYtmbVixwgpageShY8pID",
-      "scanned_at": "2026-08-07T07:56:31.153958+00:00",
+      "scanned_at": "2026-08-18T20:27:53.221577+00:00",
       "total_files": 123
     },
     {
       "course_id": "BFI01",
       "course_name": "Física_1",
       "id": "1Iit498I9f36ubsriUaMnSQjUIDm9j3_B",
-      "scanned_at": "2026-08-07T07:56:00.589703+00:00",
-      "total_files": 565
+      "scanned_at": "2026-08-18T20:27:26.255009+00:00",
+      "total_files": 566
     },
     {
       "course_id": "BIC01",
       "course_name": "Intr._a_la_computación",
       "id": "1CYkqrGFyzuI2M6-BwUk-N2vei89pTkyj",
-      "scanned_at": "2026-08-07T07:38:12.324926+00:00",
+      "scanned_at": "2026-08-18T20:09:46.636320+00:00",
       "total_files": 219
     },
     {
       "course_id": "BMA01",
       "course_name": "Cálculo_diferencial",
       "id": "1CTy2N2wPCscglbg4gaM8O0zNv6DS948t",
-      "scanned_at": "2026-08-07T07:55:07.986582+00:00",
-      "total_files": 291
+      "scanned_at": "2026-08-18T20:26:39.078712+00:00",
+      "total_files": 292
     },
     {
       "course_id": "BMA02",
       "course_name": "Cálculo_integral",
       "id": "1vkilNaHxEiHxMWsXblkWiI6g-fkfsur6",
-      "scanned_at": "2026-08-07T07:54:48.326536+00:00",
+      "scanned_at": "2026-08-18T20:26:22.122119+00:00",
       "total_files": 265
     },
     {
       "course_id": "BMA03",
       "course_name": "Álgebra_lineal",
       "id": "15FWsZRX-edQyrjWkAjoul9t1dR00e11g",
-      "scanned_at": "2026-08-07T07:54:22.450989+00:00",
+      "scanned_at": "2026-08-18T20:26:00.138299+00:00",
       "total_files": 459
     },
     {
       "course_id": "BQU01",
       "course_name": "Química_I",
       "id": "11zwqJfH6X5lLKE8YZFs0pOG4TEV5mSaw",
-      "scanned_at": "2026-08-07T07:53:41.543659+00:00",
-      "total_files": 390
+      "scanned_at": "2026-08-18T20:25:25.304958+00:00",
+      "total_files": 391
     },
     {
       "course_id": "BRC01",
       "course_name": "Redacción_y_comunicación",
       "id": "1tugS8kQiKAQCAAwWGgm87WRxbWttcb-9",
-      "scanned_at": "2026-08-07T07:53:01.284076+00:00",
+      "scanned_at": "2026-08-18T20:24:47.217062+00:00",
       "total_files": 184
     },
     {
       "course_id": "BRN01",
       "course_name": "Realidad_Nacional",
       "id": "1cSH-V8LGIB1dvYvqt_lG41VPUXHloPUU",
-      "scanned_at": "2026-08-07T07:52:37.444182+00:00",
+      "scanned_at": "2026-08-18T20:24:20.233256+00:00",
       "total_files": 76
     },
     {
       "course_id": "FB101",
       "course_name": "Geometría_analítica",
       "id": "1QV3Xb3QcDwD2j16zBgAi-eW7Pyc1bsZZ",
-      "scanned_at": "2026-08-07T07:52:18.827444+00:00",
+      "scanned_at": "2026-08-18T20:24:04.124736+00:00",
       "total_files": 131
     },
     {
       "course_id": "FB202",
       "course_name": "Química_II",
       "id": "1UGzmLpXHFlBij8LUOT5UBFdsznMM5MSc",
-      "scanned_at": "2026-08-07T07:52:09.491666+00:00",
+      "scanned_at": "2026-08-18T20:23:55.507015+00:00",
       "total_files": 192
     },
     {
       "course_id": "FB301",
       "course_name": "Matemática_Discreta",
       "id": "1QyG9ZCaIMqBWo_zjIVsXNvP1A9nCG_5B",
-      "scanned_at": "2026-08-07T07:51:39.476023+00:00",
+      "scanned_at": "2026-08-18T20:23:14.867097+00:00",
       "total_files": 385
     },
     {
       "course_id": "FB303",
       "course_name": "Cálculo_multivariable",
       "id": "15ut1IDTmUK_ux5U8g5aN2JbEDnKswadB",
-      "scanned_at": "2026-08-07T07:51:20.834664+00:00",
+      "scanned_at": "2026-08-18T20:22:44.544590+00:00",
       "total_files": 284
     },
     {
       "course_id": "FB305",
       "course_name": "Estadística_y_probabilidades",
       "id": "16WESFV3l90UVc21MnSjbRZzD7Dh6GPT6",
-      "scanned_at": "2026-08-07T07:51:03.491718+00:00",
+      "scanned_at": "2026-08-18T20:22:28.019308+00:00",
       "total_files": 254
     },
     {
       "course_id": "FB401",
       "course_name": "Física_2",
       "id": "1xIZyFar03zmySTQCGeR1RaYWcpoC9hxd",
-      "scanned_at": "2026-08-07T07:50:49.079100+00:00",
+      "scanned_at": "2026-08-18T20:22:14.358286+00:00",
       "total_files": 761
     },
     {
       "course_id": "FB402",
       "course_name": "Cálculo_Numérico",
       "id": "1z-Dey9Yhli1wJaUTIbd-TCYnRHChtx1D",
-      "scanned_at": "2026-08-07T07:49:39.252808+00:00",
+      "scanned_at": "2026-08-18T20:20:59.683444+00:00",
       "total_files": 72
     },
     {
       "course_id": "FB403",
       "course_name": "Ecuaciones_diferenciales",
       "id": "1CuQ_ETvnMiVuNSXwKQ1GYmhr1Gf8SBha",
-      "scanned_at": "2026-08-07T07:49:29.703112+00:00",
+      "scanned_at": "2026-08-18T20:20:50.824156+00:00",
       "total_files": 261
     },
     {
       "course_id": "FB405",
       "course_name": "Estadística_Aplicada",
       "id": "1Qbqb5ZyH4C6y-3SY-ApL5ofhY3HsTOwY",
-      "scanned_at": "2026-08-07T07:49:04.725495+00:00",
+      "scanned_at": "2026-08-18T20:20:29.210934+00:00",
       "total_files": 101
     },
     {
       "course_id": "FB501",
       "course_name": "Matemática_aplicada",
       "id": "1Y1A-VGz1tqhKqTyXmw90t5YPHkqY7Yig",
-      "scanned_at": "2026-08-07T07:48:53.284422+00:00",
+      "scanned_at": "2026-08-18T20:20:18.425030+00:00",
       "total_files": 61
     },
     {
       "course_id": "GE101",
       "course_name": "Intr._a_la_ingeniería_industrial",
       "id": "1B9ssm0ICZvYD6EHlnvGGYNvxNAkQr-Uf",
-      "scanned_at": "2026-08-07T07:37:38.216218+00:00",
+      "scanned_at": "2026-08-18T20:09:14.240592+00:00",
       "total_files": 52
     },
     {
       "course_id": "GE501",
       "course_name": "Teoría_Organizacional",
       "id": "1MMexLzlh1dpq3v3xarLECGDTyQZ8iqU3",
-      "scanned_at": "2026-08-07T07:36:49.983622+00:00",
+      "scanned_at": "2026-08-18T20:08:15.316619+00:00",
       "total_files": 66
     },
     {
       "course_id": "GE502",
       "course_name": "Ingeniería_del_Trabajo_I",
       "id": "1ieXrRf--rTpjU1xshzYZZBfLouqK6J7d",
-      "scanned_at": "2026-08-07T07:39:53.411821+00:00",
+      "scanned_at": "2026-08-18T20:11:27.262978+00:00",
       "total_files": 183
     },
     {
       "course_id": "GE602",
       "course_name": "Contabilidad_financiera",
       "id": "1kW2nXRu15y10G_ZnHCs2xhqOLZeQcuN-",
-      "scanned_at": "2026-08-07T07:39:27.900564+00:00",
+      "scanned_at": "2026-08-18T20:11:06.327038+00:00",
       "total_files": 215
     },
     {
       "course_id": "GE604",
       "course_name": "Administración_y_Organización",
       "id": "1ShPDiH6npYSy7XI1sN45XGSeOd0YG7_-",
-      "scanned_at": "2026-08-07T07:40:07.167913+00:00",
+      "scanned_at": "2026-08-18T20:11:58.698193+00:00",
       "total_files": 51
     },
     {
       "course_id": "GE605",
       "course_name": "Sistema_y_Gestión_Financiera",
       "id": "1AeLT-aVCDA-LtgETDFJKTi2cT1bAIybo",
-      "scanned_at": "2026-08-07T07:48:39.504504+00:00",
+      "scanned_at": "2026-08-18T20:20:06.995004+00:00",
       "total_files": 75
     },
     {
       "course_id": "GE703",
       "course_name": "Sistemas_Integrados_Empresariales",
       "id": "16aqx5R_vEPSOSXkcCahE0AwLu2txhxop",
-      "scanned_at": "2026-08-07T07:48:33.408909+00:00",
+      "scanned_at": "2026-08-18T20:20:01.310212+00:00",
       "total_files": 1
     },
     {
       "course_id": "GP235",
       "course_name": "Gestión_Financiera",
       "id": "1vhEq_ABfyNXBarpqwc2XTRCFmXo7AK3g",
-      "scanned_at": "2026-08-07T07:40:58.116136+00:00",
+      "scanned_at": "2026-08-18T20:12:46.493879+00:00",
       "total_files": 40
     },
     {
       "course_id": "GP704",
       "course_name": "Contabilidad_de_Costos_y_Presupuestos",
       "id": "1ZSYeDIb60BcKoDEDD8wpzCfEsGk48nCU",
-      "scanned_at": "2026-08-07T07:37:20.484017+00:00",
+      "scanned_at": "2026-08-18T20:08:58.323930+00:00",
       "total_files": 2
     },
     {
       "course_id": "HU102",
       "course_name": "Desarrollo_Personal",
       "id": "1IOg7XRmwKL5cUgK15MDzSDqGdtgLpZg6",
-      "scanned_at": "2026-08-07T07:48:32.480135+00:00",
+      "scanned_at": "2026-08-18T20:20:00.361597+00:00",
       "total_files": 153
+    },
+    {
+      "course_id": "HU201",
+      "course_name": "Sociología",
+      "id": "1_OV8z1PVG1P5VOpV_0YfAvcP9mtBL5o_",
+      "scanned_at": "2026-08-18T20:11:47.571432+00:00",
+      "total_files": 125
     },
     {
       "course_id": "HU301",
       "course_name": "Metodología_de_la_Investigación",
       "id": "1kN5UAjA7lcQRwHkUEhlvi76t74FC4OII",
-      "scanned_at": "2026-08-07T07:47:44.509224+00:00",
+      "scanned_at": "2026-08-18T20:19:00.994549+00:00",
       "total_files": 14
     },
     {
       "course_id": "IA001",
       "course_name": "Int._a_la_Inteligencia_Artificial",
       "id": "1N5IamtdydjnX_sSDXozu4M1TS16L9HJs",
-      "scanned_at": "2026-08-07T07:37:22.972165+00:00",
+      "scanned_at": "2026-08-18T20:09:01.048636+00:00",
       "total_files": 19
     },
     {
       "course_id": "SI101",
       "course_name": "Intr._a_la_Ingeniería_de_Sistemas",
       "id": "1_aJ2ETD-CdF4Znp6DsNoMWe110VNBXL7",
-      "scanned_at": "2026-08-07T07:37:01.154111+00:00",
+      "scanned_at": "2026-08-18T20:08:34.989370+00:00",
       "total_files": 98
     },
     {
       "course_id": "SI205",
       "course_name": "Algoritmia_y_estructura_de_datos",
       "id": "1v7kfRxH4GU-T70VZY8b9aKRA6YAlWnYB",
-      "scanned_at": "2026-08-07T07:47:40.549914+00:00",
+      "scanned_at": "2026-08-18T20:18:57.951186+00:00",
       "total_files": 466
     },
     {
       "course_id": "SI302",
       "course_name": "Programación_orientada_a_objetos",
       "id": "1n00wvOr0EFH-1aBF8EP9WzhM0XFdpI1c",
-      "scanned_at": "2026-08-07T07:44:42.723135+00:00",
+      "scanned_at": "2026-08-18T20:16:09.239951+00:00",
       "total_files": 2241
     },
     {
       "course_id": "SI401",
       "course_name": "Lenguaje_de_programación",
       "id": "1YRZZBo1pzttBxXe8JHUMXgNY3BZDd6xt",
-      "scanned_at": "2026-08-07T07:45:36.353362+00:00",
+      "scanned_at": "2026-08-18T20:17:05.169848+00:00",
       "total_files": 3
     },
     {
       "course_id": "SI403",
       "course_name": "Metodología_de_Sistemas_Blandos",
       "id": "1MDnERzW5NlLgwRRsqW00h_7d4kv7JgRE",
-      "scanned_at": "2026-08-07T07:45:34.082221+00:00",
+      "scanned_at": "2026-08-18T20:17:03.205707+00:00",
       "total_files": 103
     },
     {
       "course_id": "SI405",
       "course_name": "Modelado_conceptual_de_datos",
       "id": "1yoUJNHPm3l7rLNJM471YcaanK80zG9hi",
-      "scanned_at": "2026-08-07T07:45:29.618723+00:00",
+      "scanned_at": "2026-08-18T20:16:59.362606+00:00",
       "total_files": 9
     },
     {
       "course_id": "SI501",
       "course_name": "Investigación_de_Operaciones_I",
       "id": "1Wq39RYAw1pY2eT97MHUxu48WtvcFZzX_",
-      "scanned_at": "2026-08-07T07:40:35.999287+00:00",
+      "scanned_at": "2026-08-18T20:12:24.262097+00:00",
       "total_files": 385
     },
     {
       "course_id": "SI502",
       "course_name": "Diseño_de_Base_de_Datos",
       "id": "1BKgOJT4QTQL5Q2aGxFwS_7lXnvAorVo6",
-      "scanned_at": "2026-08-07T07:45:27.223330+00:00",
+      "scanned_at": "2026-08-18T20:16:57.463015+00:00",
       "total_files": 32
     },
     {
       "course_id": "SI503",
       "course_name": "Ingeniería_de_procesos",
       "id": "1W91TqxLCMGai1M2h4Tq0Xs-KgmfvIRad",
-      "scanned_at": "2026-08-07T07:36:37.416991+00:00",
+      "scanned_at": "2026-08-18T20:07:58.544452+00:00",
       "total_files": 35
     },
     {
       "course_id": "SI601",
       "course_name": "Investigación_de_Operaciones_II",
       "id": "13EMo8qILFsWoGCgov3AARMdfNaBTs0Yo",
-      "scanned_at": "2026-08-07T07:44:57.966173+00:00",
+      "scanned_at": "2026-08-18T20:16:23.767754+00:00",
       "total_files": 194
     },
     {
       "course_id": "SI603",
       "course_name": "Modelado_de_Ciclo_de_Vida",
       "id": "1uLpmf_y9Yns6i530IgLwFwON7DcaiPsi",
-      "scanned_at": "2026-08-07T07:44:45.888943+00:00",
+      "scanned_at": "2026-08-18T20:16:12.389272+00:00",
       "total_files": 17
     },
     {
       "course_id": "SI604",
       "course_name": "Análisis_de_Diseño_de_Sistemas",
       "id": "1g2fL3uDdB8hoKjKqdrZiYaEjGi0ovgBj",
-      "scanned_at": "2026-08-07T07:44:43.782572+00:00",
+      "scanned_at": "2026-08-18T20:16:10.291908+00:00",
       "total_files": 1
     },
     {
       "course_id": "SI605",
       "course_name": "Arquitectura_Empresarial",
       "id": "1X-0ihW3tIYahQCXU65tzMXENZvv1Beq4",
-      "scanned_at": "2026-08-07T07:45:20.525617+00:00",
+      "scanned_at": "2026-08-18T20:16:51.582438+00:00",
       "total_files": 24
     },
     {
       "course_id": "SW101",
       "course_name": "Intr._a_la_ingeniería_de_software",
       "id": "1aicpZFkeh4JPJY8N5ZOFBo4b91AN69HG",
-      "scanned_at": "2026-08-07T07:38:22.915640+00:00",
+      "scanned_at": "2026-08-18T20:09:59.000559+00:00",
       "total_files": 71
     },
     {
       "course_id": "SW301",
       "course_name": "Arquitectura_de_Computadoras_I",
       "id": "1fZUP3f6cCjo6EKJgkeW5MMK4aD51dE9t",
-      "scanned_at": "2026-08-07T07:45:18.367440+00:00",
+      "scanned_at": "2026-08-18T20:16:49.462996+00:00",
       "total_files": 43
     },
     {
       "course_id": "SW303",
       "course_name": "Lenguajes_de_Programación_I_(Imperativo)",
       "id": "1LleuD-Ic62mv1t7sexW2ju2i0BgH2hpP",
-      "scanned_at": "2026-08-07T07:45:11.907165+00:00",
-      "total_files": 62
+      "scanned_at": "2026-08-18T20:16:41.728206+00:00",
+      "total_files": 63
     },
     {
       "course_id": "SW305",
       "course_name": "Algoritmia_y_estructura_de_datos_Avanzada",
       "id": "1x8KEB_7JQU82N-mXV5qkswEJ2U_bf2c3",
-      "scanned_at": "2026-08-07T07:38:33.382391+00:00",
+      "scanned_at": "2026-08-18T20:10:12.043715+00:00",
       "total_files": 73
     },
     {
       "course_id": "SW403",
       "course_name": "Lenguajes_de_Programación_II_(Orientado_a_Objetos)",
       "id": "1zVGZI6tXyQX9LolxMxBBfTlqwXp7ZKtK",
-      "scanned_at": "2026-08-07T07:44:44.226830+00:00",
+      "scanned_at": "2026-08-18T20:16:10.832872+00:00",
       "total_files": 0
     },
     {
       "course_id": "SW405",
       "course_name": "Ingeniería_de_Requerimientos_I",
       "id": "1XwcAMpZR6O5s7yvG1pKmQYU6tIsiHMzN",
-      "scanned_at": "2026-08-07T07:37:19.094050+00:00",
+      "scanned_at": "2026-08-18T20:08:56.859824+00:00",
       "total_files": 30
     },
     {
       "course_id": "SW407",
       "course_name": "Sistemas_Operativos",
       "id": "1AC5dvIarxXmGHDtF0RHsvmaSNDi69thr",
-      "scanned_at": "2026-08-07T07:45:42.328585+00:00",
+      "scanned_at": "2026-08-18T20:17:11.825811+00:00",
       "total_files": 26
     },
     {
       "course_id": "SW501",
       "course_name": "Arquitectura_de_Computadoras_II",
       "id": "1MjhvvmAJmfo2SyZwCh85pGudg_ofLjo-",
-      "scanned_at": "2026-08-07T07:37:19.493131+00:00",
+      "scanned_at": "2026-08-18T20:08:57.332110+00:00",
       "total_files": 0
     },
     {
       "course_id": "TE205",
       "course_name": "Dibujo_Técnico_y_Geometría_Descriptiva",
       "id": "1oL0s4f3q-j2f7n4IYfzs1UVw0MdXM9ph",
-      "scanned_at": "2026-08-07T07:37:09.132374+00:00",
+      "scanned_at": "2026-08-18T20:08:44.873372+00:00",
       "total_files": 177
     },
     {
       "course_id": "TE301",
       "course_name": "Físico_Química_y_Operaciones_Unitarias",
       "id": "1fL_EaoJkCksaX3R9C0A_wuwty_wFQTY5",
-      "scanned_at": "2026-08-07T07:45:52.498732+00:00",
+      "scanned_at": "2026-08-18T20:17:20.504054+00:00",
       "total_files": 26
     },
     {
       "course_id": "TE302",
       "course_name": "Diseño_Asistido_por_Computador",
       "id": "1uHqZ-_d0e9hrlTw04GhAnBbXyQL25f5W",
-      "scanned_at": "2026-08-07T07:46:06.033575+00:00",
+      "scanned_at": "2026-08-18T20:17:32.445646+00:00",
       "total_files": 160
     },
     {
       "course_id": "TE401",
       "course_name": "Termodinámica",
       "id": "1IWnyhsuuhCyQw_1Mf4HMW5jmyD12st9Q",
-      "scanned_at": "2026-08-07T07:46:34.032424+00:00",
+      "scanned_at": "2026-08-18T20:17:59.061133+00:00",
       "total_files": 323
     },
     {
       "course_id": "TE501",
       "course_name": "Electricidad_y_electrónica_industrial",
       "id": "16xqCq-YTGIUgXKAOCrZaXkYfhzM_C0c3",
-      "scanned_at": "2026-08-07T07:38:57.728244+00:00",
+      "scanned_at": "2026-08-18T20:10:36.528614+00:00",
       "total_files": 216
     },
     {
       "course_id": "TE503",
       "course_name": "Procesos_Industriales_I",
       "id": "1MHUQ0rRIv6PrUaltl-nfNWmrdkDVPLQP",
-      "scanned_at": "2026-08-07T07:40:00.757422+00:00",
+      "scanned_at": "2026-08-18T20:11:53.507912+00:00",
       "total_files": 87
     },
     {
       "course_id": "TE601",
       "course_name": "Ingeniería_de_materiales",
       "id": "1B-tXb_pxnrPC7sZlWFcBADc6a7J8XysP",
-      "scanned_at": "2026-08-07T07:40:57.543387+00:00",
+      "scanned_at": "2026-08-18T20:12:45.987778+00:00",
       "total_files": 121
     }
   ]

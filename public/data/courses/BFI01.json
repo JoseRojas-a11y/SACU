@@ -2,7 +2,7 @@
   "course_id": "BFI01",
   "course_name": "Física_1",
   "id": "1Iit498I9f36ubsriUaMnSQjUIDm9j3_B",
-  "scanned_at": "2026-08-07T07:56:00.589703+00:00",
+  "scanned_at": "2026-08-18T20:27:26.255009+00:00",
   "tree": {
     "name": "Física_1",
     "type": "folder",
@@ -2783,6 +2783,13 @@
             "type": "folder",
             "id": "1v-1Ec1yU3DKjUKYJqI41rgO78vxVoDFE",
             "children": [
+              {
+                "name": "BFI01_EF_26-1_Solucionario",
+                "type": "file",
+                "id": "1PGptzkVkhXHxbUMSmbzIGE1zuZcL-F3m",
+                "mimeType": "application/pdf",
+                "size": "1010157"
+              },
               {
                 "name": "BFI01_EF_26-1.pdf",
                 "type": "file",

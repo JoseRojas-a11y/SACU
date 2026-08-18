@@ -1,0 +1,1162 @@
+{
+  "course_id": "HU201",
+  "course_name": "Sociología",
+  "id": "1_OV8z1PVG1P5VOpV_0YfAvcP9mtBL5o_",
+  "scanned_at": "2026-08-18T20:11:47.571432+00:00",
+  "tree": {
+    "name": "Sociología",
+    "type": "folder",
+    "id": "1_OV8z1PVG1P5VOpV_0YfAvcP9mtBL5o_",
+    "children": [
+      {
+        "name": "SOLUCIONARIO_ORCE",
+        "type": "folder",
+        "id": "1YICDKivp-b5vM7fSmOQCl_ZHz1P7idu1",
+        "children": [
+          {
+            "name": "PC4",
+            "type": "folder",
+            "id": "1qq_VnlnEeL7NrsrkN-ri4ILLTLj-Qcl_",
+            "children": []
+          },
+          {
+            "name": "PC3",
+            "type": "folder",
+            "id": "1oEN59v-nRDIOvjm-mRjSEI07ZroKmZ4B",
+            "children": []
+          },
+          {
+            "name": "PC1",
+            "type": "folder",
+            "id": "1D-Mml4f2b3HIZ8kF4ETM7ZuwkHD78O2v",
+            "children": []
+          },
+          {
+            "name": "PC2",
+            "type": "folder",
+            "id": "1rR8QXm6yOHyEgvvk_sTJiPMLCAHOxhvP",
+            "children": []
+          },
+          {
+            "name": "ES",
+            "type": "folder",
+            "id": "1us7mC7CYk7_YxNxCyAUQ8EKV9ZWdg5ML",
+            "children": [
+              {
+                "name": "Examen_Sustitutorio-SOCIOLOGIA-2021-2.docx",
+                "type": "file",
+                "id": "1it4-JRFqLATa6rvaezK1QrnG_j8MFeRB",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "57063"
+              }
+            ]
+          },
+          {
+            "name": "EF",
+            "type": "folder",
+            "id": "19E8kHh-MDGYpcGmgWCj6M0QN7xTwvbUB",
+            "children": [
+              {
+                "name": "AYALA_EF_2021-2.pdf",
+                "type": "file",
+                "id": "1R5Cuj0quzPCD5J1KYT6QtdY7ufDe6F4W",
+                "mimeType": "application/pdf",
+                "size": "151511"
+              }
+            ]
+          },
+          {
+            "name": "EP",
+            "type": "folder",
+            "id": "1_UqW2FiaXo6zh4X9sYhaAoS087KGAz5_",
+            "children": [
+              {
+                "name": "SANCHEZ_EP_2021-2.pdf_compressed_(1).pdf",
+                "type": "file",
+                "id": "1VpR5LRTlVnRuvsQos3PpsUtCkeQx7-cx",
+                "mimeType": "application/pdf",
+                "size": "183606"
+              },
+              {
+                "name": "AYALA_EP_2021-2.pdf.pdf",
+                "type": "file",
+                "id": "1e0j7ktAg0P8Zgk0UU9V0iA1Tj5bPxMi-",
+                "mimeType": "application/pdf",
+                "size": "472296"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Chavarry",
+        "type": "folder",
+        "id": "1HBoJmPSzXISHGN_nRaEKP9MZ3_09TpYt",
+        "children": [
+          {
+            "name": "Semana_8",
+            "type": "folder",
+            "id": "17U5G_zRhoSQ2rb_oHnVE9D-GyvT6enoM",
+            "children": [
+              {
+                "name": "CAUSAS_DE_LA_REV._INDUSTRIAL_CONTINUADA.pptx",
+                "type": "file",
+                "id": "1btTAwWOydzeWSszd_i2Zw5H8FKqGq9QR",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "4805813"
+              },
+              {
+                "name": "CAUSAS_DE_LA_REVOLUCIÓN_INDUSTRIAL_CONTINUADA.pdf",
+                "type": "file",
+                "id": "1lWR2x7p1z4oCEXF48L-c5_mNzdbHyeo1",
+                "mimeType": "application/pdf",
+                "size": "737460"
+              }
+            ]
+          },
+          {
+            "name": "TAREAS",
+            "type": "folder",
+            "id": "1eXDtn6YuulIoDmbCd5O3DTNMKOEQK8o6",
+            "children": [
+              {
+                "name": "FICHA_BIBLIOGRÁFICA_3.docx",
+                "type": "file",
+                "id": "13QCm1UxV7_Vx8sBqiUsu20t4RTpHvULT",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "26867"
+              },
+              {
+                "name": "Grández_Resumen-Privacidad_vs_Conocimiento-Implicaciones_sociales_del_Proyecto_Internacional_del_Genoma_Humano.docx",
+                "type": "file",
+                "id": "1WPRdMq1IUKvZwH9xpcN8P0wUTXM2b4v0",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "16015"
+              },
+              {
+                "name": "Aporte_9_Sociología_Grández_Carbajal.docx",
+                "type": "file",
+                "id": "1mPy3NTVb5WRcur4LGrUfZk7a2ToMmFpM",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "14847"
+              },
+              {
+                "name": "Aporte_8_Sociología_Grández_Carbajal.docx",
+                "type": "file",
+                "id": "1MhDYZm8rpla7J-3FirOgSymTiG7cWwIa",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "15559"
+              },
+              {
+                "name": "05.Etnocentrismonv.doc",
+                "type": "file",
+                "id": "1gu4VKkZyls91Wwlr9MjEEUp_KWSIfh_k",
+                "mimeType": "application/msword",
+                "size": "188928"
+              },
+              {
+                "name": "Grández_Carbajal_Comentario_sobre_el_video.docx",
+                "type": "file",
+                "id": "1No-ny0sQ4GyOQsD31HtD2ZkEOYUrtAvY",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "12994"
+              },
+              {
+                "name": "FICHA_BIBLIOGRÁFICA_1.doc",
+                "type": "file",
+                "id": "1XsWiS7ZuRHTETh5Crv_ce5WLc4qGflWD",
+                "mimeType": "application/msword",
+                "size": "30720"
+              },
+              {
+                "name": "Etnocentrismo,_xenofobia_y_migraciones_internacionales_en_una_perspectiva_comparada.pdf",
+                "type": "file",
+                "id": "1kseFK-1COiaUYYjHVgoPKDC5NeXa2gC8",
+                "mimeType": "application/pdf",
+                "size": "1449342"
+              },
+              {
+                "name": "EXAMEN_FINAL_1.docx",
+                "type": "file",
+                "id": "1FnWQWRWl4Z1x3uybSpDvBHfzrRiZ9yDN",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "31172"
+              },
+              {
+                "name": "FICHA_BIBLIOGRÁFICA_4.docx",
+                "type": "file",
+                "id": "1BjMAgriGiPPubg-ctyGLx8apo7__ptvA",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "16881"
+              },
+              {
+                "name": "Resumen-La_educación_como_factor_de_desarrollo.docx",
+                "type": "file",
+                "id": "1IN64jlc39eBPXqzgsimYQQ_8pgV9xE2V",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "18230"
+              },
+              {
+                "name": "PRÁCTICA_N°3-Sociología_Grupo_1.docx",
+                "type": "file",
+                "id": "1ooTwcPj06hXq6aTserGrQyaEq1WkSyIW",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "16389"
+              },
+              {
+                "name": "Aporte_12_Sociología_Grández_Carbajal.docx",
+                "type": "file",
+                "id": "1m8r1CXWWHkOxUCCzb0oDxXKF2Ov1Vjca",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "15551"
+              },
+              {
+                "name": "Del_relativismo_cultural_al_etnocentrismo_(y_vuelta).pdf",
+                "type": "file",
+                "id": "1puZQGiTtaFNB-AogG8jcRJPbUG4zqaYs",
+                "mimeType": "application/pdf",
+                "size": "397348"
+              },
+              {
+                "name": "04_LECTURA_SOCIOLOGÍA_ANTONNY_GUIDDENS.pdf",
+                "type": "file",
+                "id": "1Q0FLDXjdIW03mnlYT-tvNfrPmqqI6NQP",
+                "mimeType": "application/pdf",
+                "size": "327622"
+              },
+              {
+                "name": "Grupo_1_Monografía-_Etnocentrismo_y_Relativismo_cultural_-_Sociología.pdf",
+                "type": "file",
+                "id": "1RPGyij7S2490Sn2so4WYTCMrBD9L2eDr",
+                "mimeType": "application/pdf",
+                "size": "272537"
+              },
+              {
+                "name": "Aporte_11_Sociología_Grández_Carbajal.docx",
+                "type": "file",
+                "id": "1gZapsUxoW8x9eJBnvmsMvF6TkVcLFdSg",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "14574"
+              },
+              {
+                "name": "Grupo_1_Monografía-_Etnocentrismo_y_Relativismo_cultural_-_Sociología.docx",
+                "type": "file",
+                "id": "1H0chgiGAnsvucn6Z6oIegzWRUVnLnSRM",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "689350"
+              },
+              {
+                "name": "EXAMEN_PARCIAL_2020-I_Grández_Carbajal.docx",
+                "type": "file",
+                "id": "17hmZ695R8MtNhSa2wULb0KWp57upc1Zh",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "34722"
+              },
+              {
+                "name": "Grández_EXAMEN_FINAL_2_2020_I.docx",
+                "type": "file",
+                "id": "1frBIPY1mhRVc2I9vu3DBXhwM50r5yOd4",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "132057"
+              },
+              {
+                "name": "La_influencia_del_relativismo_cultural_en_la_investigación_social_entre_los_academicos_de_la_Escuela_Nacional_de_Antropologia_e_Historia_de_Mexico.pdf",
+                "type": "file",
+                "id": "15ZlmuwIm5ylrrmIS2D605t5FAc7lx6sj",
+                "mimeType": "application/pdf",
+                "size": "836705"
+              },
+              {
+                "name": "El_eurocentrismo_y_el_etnocentrismo_en_América_latina.pdf",
+                "type": "file",
+                "id": "1QCuZy00njNLCKemitGsWPmdInre5mExg",
+                "mimeType": "application/pdf",
+                "size": "257802"
+              },
+              {
+                "name": "Aporte_10_Sociología_Grández_Carbajal.docx",
+                "type": "file",
+                "id": "1ynGf39a9f3JlGbgbTSR5erbxQ0cwBB_u",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "16335"
+              },
+              {
+                "name": "Dialnet-ActualidadDelRelativismoCultural-4221153.pdf",
+                "type": "file",
+                "id": "1cP4At-4dCR-wBYXL4H6hnO1qkc0qdrFH",
+                "mimeType": "application/pdf",
+                "size": "525774"
+              },
+              {
+                "name": "FICHA_BIBLIOGRÁFICA_2.docx",
+                "type": "file",
+                "id": "15nxZbNUGRlLlLfLPZE6GXcfuHiiDsZTQ",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "28320"
+              }
+            ]
+          },
+          {
+            "name": "Semana_7",
+            "type": "folder",
+            "id": "1C3UWMn7cHfQJuI-wntBsJWqyJsZ7mY8W",
+            "children": [
+              {
+                "name": "02_TEORÍA_REV._INDUSTRIA_L.pptx",
+                "type": "file",
+                "id": "1QktR-JCfIuTIZoRq2DOQWyBqM3vCut51",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "5275177"
+              },
+              {
+                "name": "03_SEPARATA_BREVE_HISTORIA_DE_LA_REV._INDUSTRIAL.pdf",
+                "type": "file",
+                "id": "1d6hcZMedDmq-br2qAU6BtPvIOlpFXBrb",
+                "mimeType": "application/pdf",
+                "size": "236936"
+              },
+              {
+                "name": "LA_EDUCACIÓN_COMO_FACTOR_DEL_DESARROLLO.docx",
+                "type": "file",
+                "id": "1FDrQVFE5qg3Bu-Le8goxW7TVNy4BLWfd",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "49223"
+              },
+              {
+                "name": "01_ACTIVIDADES_SESIÓN_07.pptx",
+                "type": "file",
+                "id": "1ktiChsrYKKWclWq7idrxgDFmdAGgX52h",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "1465823"
+              }
+            ]
+          },
+          {
+            "name": "Semana_14",
+            "type": "folder",
+            "id": "1gpzU9F1tr4DmuBrhY9ZBvQWOQduE9WeW",
+            "children": [
+              {
+                "name": "03_SEPARATA_INTERACCIÓN_SOCIAL_Y_REALIDAD_II.pdf",
+                "type": "file",
+                "id": "1EmcLe3ur_ecNllSRFMvcbLcWCWYWSNUX",
+                "mimeType": "application/pdf",
+                "size": "691572"
+              },
+              {
+                "name": "01_ACTIVIDADES_DE_LA_SESIÓN_14_INTERACCIÓN_SOCIAL_Y_REALIDAD_II.pptx",
+                "type": "file",
+                "id": "1tAEwVlcqVngkxE_AnX_EYIno60PK9sU3",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "1169628"
+              },
+              {
+                "name": "02_TEORÍA_INTERACCIÓN_SOCIAL_Y_REALIDAD_II.pptx",
+                "type": "file",
+                "id": "1AhzRsaqC3I43815B6UK1LDDJDm3D6H2_",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "21707662"
+              },
+              {
+                "name": "Privacidad_vs_Conocimiento_Implicaciones_sociales_del_Proyecto_Internacional_del_Genoma_Humano.pdf",
+                "type": "file",
+                "id": "1fCOObec2bJKdXewk55Mt4o-lamrH87z3",
+                "mimeType": "application/pdf",
+                "size": "714149"
+              }
+            ]
+          },
+          {
+            "name": "Semana_6",
+            "type": "folder",
+            "id": "1_L1wEYxfrK5IeOVLgZglVYj3aKJEeOWa",
+            "children": [
+              {
+                "name": "01_ACTIVIDADES_SESIÓN_06.pptx",
+                "type": "file",
+                "id": "1w-vukzXwnuffx6SzH3MDpQfuV-UTGUQL",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "2603683"
+              },
+              {
+                "name": "03_SEPARATA_SISTEMAS_SOCIO.pdf",
+                "type": "file",
+                "id": "1Ob3y62X0t4N8ZlGc_zE4B1bJg6IlZjtv",
+                "mimeType": "application/pdf",
+                "size": "195272"
+              },
+              {
+                "name": "04_FICHA_DE_ANÁLISIS_DE_VÍDEO.pdf",
+                "type": "file",
+                "id": "1FUY--rxh_xcZGPPuu5vUV2Pu_WiDEgF-",
+                "mimeType": "application/pdf",
+                "size": "128697"
+              },
+              {
+                "name": "02_TEORÍA_SISTEMAS_SOCIOCULTURALES.ppt",
+                "type": "file",
+                "id": "1bh8057_zlOzhNlipcjqIW_0rxu9Ij1V9",
+                "mimeType": "application/vnd.ms-powerpoint",
+                "size": "18786304"
+              }
+            ]
+          },
+          {
+            "name": "Semana_5",
+            "type": "folder",
+            "id": "12LLc4Jli5f0RqJDYJIcsjkZAUZzmsNVN",
+            "children": [
+              {
+                "name": "04_LECTURA_ZYGMUNT_BAUMAN.pdf",
+                "type": "file",
+                "id": "1uzuU9yk2E0A55TlAu5iolJ6zhMJ3yix4",
+                "mimeType": "application/pdf",
+                "size": "212858"
+              },
+              {
+                "name": "01_ACTIVIDADES_SESIÓN_05.pptx",
+                "type": "file",
+                "id": "1FG5_W_tQ945LgdUb0JpIlaHxCl6qTV8C",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "572700"
+              },
+              {
+                "name": "02_TEORÍA_PRINCIPALES_PERSPECTIVAS_TEÓRICAS_(1).pptx",
+                "type": "file",
+                "id": "1PklGzmhNzDKcxK7RvOJbpAXkcNJ4s7CN",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "5040594"
+              },
+              {
+                "name": "03_SEPARATA_PRINCIPALES_PERSPECTIVAS_TEÓRICAS.pdf",
+                "type": "file",
+                "id": "1ogfaU-B5MfWXFZ-obzmbQw62gEBWz4_e",
+                "mimeType": "application/pdf",
+                "size": "279889"
+              }
+            ]
+          },
+          {
+            "name": "Semana_4",
+            "type": "folder",
+            "id": "1QkyqwddfQBcqgKnAyJk_i8PKm1WdRIlf",
+            "children": [
+              {
+                "name": "03_SEPARATA_SOCIEDADES_HUMANAS.pdf",
+                "type": "file",
+                "id": "15Qy8RYsnrlQwDVg3wm3uqsfgDWWUZSb7",
+                "mimeType": "application/pdf",
+                "size": "179636"
+              },
+              {
+                "name": "02_TEORÍA_SOCIEDADES_HUMANAS.ppt",
+                "type": "file",
+                "id": "19UthD0EH25zPCJEyrtwH6g7T28Tb_1hp",
+                "mimeType": "application/vnd.ms-powerpoint",
+                "size": "11490816"
+              },
+              {
+                "name": "01_ACTIVIDADES_SESIÓN_04.pptx",
+                "type": "file",
+                "id": "17B-G0FryyEjyL-qrcI2i6Vx7YvICneAM",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "233862"
+              }
+            ]
+          },
+          {
+            "name": "Semana_1",
+            "type": "folder",
+            "id": "19BH4KAiVgaNhHYe0oG171Sa3haGiP00v",
+            "children": [
+              {
+                "name": "01_ACTIVIDADES_DE_LA_SESIÓN_01.pptx",
+                "type": "file",
+                "id": "1wpuAXGSAUDhdjluQH6dXpQ-rHRMwIpj_",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "228910"
+              },
+              {
+                "name": "1.jpeg",
+                "type": "file",
+                "id": "1Msh4IaFnQHze2eVKo2NP8MeLO7MvZJOp",
+                "mimeType": "image/jpeg",
+                "size": "121562"
+              },
+              {
+                "name": "02_TEORÍA_CONDICIÓN_SOCIAL_DEL_HOMBRE.pptx",
+                "type": "file",
+                "id": "1sTLc2xtiJt0Zukn_lvSVI1MHz-c7Wzjy",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "8970406"
+              },
+              {
+                "name": "01_PRESENTACIÓN_DEL_CURSO.pptx",
+                "type": "file",
+                "id": "1cvvjjRVUB1lI0Mbg8EAX4t7tJPWdI3NH",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "822069"
+              },
+              {
+                "name": "04_LECTURA_SOCIOLOGÍA_ANTONNY_GUIDDENS.pdf",
+                "type": "file",
+                "id": "197RPRBBuPDtbHuKb5MMwP2WpfIDGc50y",
+                "mimeType": "application/pdf",
+                "size": "327618"
+              },
+              {
+                "name": "03_SEPARATA_CONDICIÓN_SOCIAL_DEL_HOMBRE.pdf",
+                "type": "file",
+                "id": "1yzeGjjDn-OR9tpWCsJL9jA6otYOEwXXA",
+                "mimeType": "application/pdf",
+                "size": "132569"
+              },
+              {
+                "name": "03_FICHA_BIBLIOGRÁFICA.pdf",
+                "type": "file",
+                "id": "1fsPV5CyyEF1lK2RP6GiBvqhjxh6Gvxr9",
+                "mimeType": "application/pdf",
+                "size": "28571"
+              },
+              {
+                "name": "2.jpeg",
+                "type": "file",
+                "id": "1OR8AGmW8DqpdaLZTS8lTgYa2ufHl2bpE",
+                "mimeType": "image/jpeg",
+                "size": "105726"
+              },
+              {
+                "name": "04_NORMAS_PARA_PRESENTACIÓN_MONOGRAFÍA.pdf",
+                "type": "file",
+                "id": "1rclc3bawyg16ubqKfWpSA2ksDVLA7na0",
+                "mimeType": "application/pdf",
+                "size": "168127"
+              }
+            ]
+          },
+          {
+            "name": "Semana_15",
+            "type": "folder",
+            "id": "1lu6wxaZ4J7eIARTDrECAqIwVGdF6YLwh",
+            "children": [
+              {
+                "name": "03_SEPARATA_TEORÍAS_DE_LA_DESIGUALDAD_SOCIAL.pdf",
+                "type": "file",
+                "id": "1kPnLjGtVOLPNfe56YQWH33xAGv5_FC65",
+                "mimeType": "application/pdf",
+                "size": "1264860"
+              },
+              {
+                "name": "02_TEORÍAS_DE_LA_DESIGUALDAD_SOCIAL.pptx",
+                "type": "file",
+                "id": "1l5xfPmUzAVkC8alf5JzLTSd-mlZsn34U",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "19344397"
+              }
+            ]
+          },
+          {
+            "name": "Mono_2019-1",
+            "type": "folder",
+            "id": "16ikbtHJJFcCPeK2gK9-TUTXnbk5t0lkJ",
+            "children": [
+              {
+                "name": "para_exponer.docx",
+                "type": "file",
+                "id": "1toaRiEhQsG68_rog93762Q2NeJUCedBd",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "2944075"
+              },
+              {
+                "name": "PERIODICO_MURAL_DEPORTES.pdf",
+                "type": "file",
+                "id": "11Exsjox59NlKEwE-x43_jsYwDG4sQChz",
+                "mimeType": "application/pdf",
+                "size": "460165"
+              },
+              {
+                "name": "CAPITULO_1_JHEFFERSON.docx",
+                "type": "file",
+                "id": "1e2J15P2GrzKLklBg-K6dn0NDsnsDGLmM",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "934345"
+              },
+              {
+                "name": "avance_cap_1.docx",
+                "type": "file",
+                "id": "195fjS2B-9xeyMEZ8mkULZSJsTcvQbK9O",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "2853972"
+              },
+              {
+                "name": "PERIODICO_MURAL_DEPORTES_segunda_presentacion.docx",
+                "type": "file",
+                "id": "1WUuwZzdN2gLt_PU6XP1uzzkWluSiQ2VM",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "125434"
+              },
+              {
+                "name": "INDICE.docx",
+                "type": "file",
+                "id": "10dbeZxy_ZAF02e2XXE6gGgTuhVIokHR5",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "42293"
+              },
+              {
+                "name": "CARATULA.docx",
+                "type": "file",
+                "id": "1Qj-Qjhx_W5xumVTn_JqTdjVqNnEFwefo",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "62382"
+              },
+              {
+                "name": "cap1y_2-convertido.docx",
+                "type": "file",
+                "id": "1NregnE7cbWXAUyzbK1ypNvmwRGgWyV0K",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "890186"
+              },
+              {
+                "name": "cap1y_2.pdf",
+                "type": "file",
+                "id": "1fdLpdpKYqy35aBh0KWmNiB5AkxhzuyYh",
+                "mimeType": "application/pdf",
+                "size": "943472"
+              },
+              {
+                "name": "Cpaitulo_1.docx",
+                "type": "file",
+                "id": "1Feofq08lH78d84N4jOTmRYiPOyC69TQN",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "1347617"
+              },
+              {
+                "name": "PERIODICO_MURAL_FARFAN.pdf",
+                "type": "file",
+                "id": "1zS5Ke8KlEovjyEtxxOJcVai4ZAeOLOZP",
+                "mimeType": "application/pdf",
+                "size": "315556"
+              },
+              {
+                "name": "DOC-20190402-WA0013.pdf",
+                "type": "file",
+                "id": "1NuZynKB4WV0d9qJRw2WMIc4smnCcTlJT",
+                "mimeType": "application/pdf",
+                "size": "308016"
+              },
+              {
+                "name": "DOC-20190402-WA0012.pdf",
+                "type": "file",
+                "id": "12voKsjQD_r30yw6_LeX1SMUumk7yHTVN",
+                "mimeType": "application/pdf",
+                "size": "94695"
+              },
+              {
+                "name": "PERIODICO_MURAL_DEPORTES.docx",
+                "type": "file",
+                "id": "1Ft3euBCXkGADJKEpZmxP-K4Fu8iVmef5",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "70123"
+              },
+              {
+                "name": "indice_3.docx",
+                "type": "file",
+                "id": "1M-p4eh7M-3ecDp3kN4wjVtCMfDXqpqss",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "25294"
+              },
+              {
+                "name": "TECNOLOGÍA,_CAMBIO_CULTURAL_Y_DIVERSIDAD.pptx",
+                "type": "file",
+                "id": "1Kky-ai1m8RYSS-LJvHOEuF07a4tze4Ah",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "224559"
+              },
+              {
+                "name": "para_exponer.pdf",
+                "type": "file",
+                "id": "1qtcmyZlAYaIAHjSTtPadfOiyC1RaLYOO",
+                "mimeType": "application/pdf",
+                "size": "2157376"
+              },
+              {
+                "name": "PERIODICO_MURAL_FARFAN.docx",
+                "type": "file",
+                "id": "1tXJ2aLDBOddW_5BIMFnh4wAZzVjULjWc",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "147050"
+              },
+              {
+                "name": "CARATULA1.docx",
+                "type": "file",
+                "id": "1-L8BGa0yzWRIZmgFKOMbIjQkLsVFcPnz",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "139517"
+              },
+              {
+                "name": "avance_cap45_1.docx",
+                "type": "file",
+                "id": "19DjdbmQbtjoBjsccujWqJ6UW-PVydEE-",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "2853959"
+              }
+            ]
+          },
+          {
+            "name": "Semana_3",
+            "type": "folder",
+            "id": "1C4D5KcKl6b08_90PBLgoWk7GlRUWP3w-",
+            "children": [
+              {
+                "name": "01_ACTIVIDADES_SESIÓN_03.pptx",
+                "type": "file",
+                "id": "1V22Uiv3LEOXVUhTEPqVwcO3B1Bl_XMt5",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "288637"
+              },
+              {
+                "name": "02_TEORÍA_ESBOZO_HISTÓRICO.pptx",
+                "type": "file",
+                "id": "1jy13yFEdbbqDatPJi0ZXqv8yX5PUVZMd",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "5688637"
+              },
+              {
+                "name": "04_LECTURA_FUNDAMENTOS_DE_LA_SOCIOLOGÍA.pdf",
+                "type": "file",
+                "id": "1QSkuMwljdIppiFhlO-RiUcvrXeB9TrzM",
+                "mimeType": "application/pdf",
+                "size": "599819"
+              },
+              {
+                "name": "03_SEPARATA_ESBOZO_HISTÓRICO_TEORÍA_SOCIOLÓGICA.pdf",
+                "type": "file",
+                "id": "1Gh6XtU0yT5-cnt4MX0579osx8S84b4Pw",
+                "mimeType": "application/pdf",
+                "size": "139011"
+              }
+            ]
+          },
+          {
+            "name": "Semana_11",
+            "type": "folder",
+            "id": "1GDp4VYCFDHMnWXaKuDKRrdjWnbjxa-xt",
+            "children": [
+              {
+                "name": "O1_ACTIVIDADES_DE_LA_SESIÓN_10.pptx",
+                "type": "file",
+                "id": "116MqmHzQF9rV6CRKQdZoA2FIoNFuvWVC",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "779703"
+              },
+              {
+                "name": "02_TEORÍAS_DEL_CAMBIO_SOCIAL_I.pptx",
+                "type": "file",
+                "id": "1d8qRDPeejFw7e63zJusXBGQEpsvqAghy",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "18747935"
+              },
+              {
+                "name": "03_SEPARATA_TEORÍA_DEL_CAMBIO_SOCIAL.pdf",
+                "type": "file",
+                "id": "1ULm4GiVK2jmSVvw-Bz7CTiELFNT7sLdz",
+                "mimeType": "application/pdf",
+                "size": "478821"
+              }
+            ]
+          },
+          {
+            "name": "Semana_13",
+            "type": "folder",
+            "id": "1mRvayhXgkuu51ZmIBD7yAgRhwWBbsRh5",
+            "children": [
+              {
+                "name": "02_TEORÍA_DE_INTERACCIÓN_SOCIAL_Y_REALIDAD_I.pptx",
+                "type": "file",
+                "id": "1ktq5XGwCaHcEzEeSmnyiDF18I82UB69p",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "33062825"
+              },
+              {
+                "name": "03_SEPARATA_INTERACCIÓN_SOCIAL_Y_REALIDAD_I.pdf",
+                "type": "file",
+                "id": "1Ubm_O8wQ5c8wId_M2wQwO6RFYlCKx9ke",
+                "mimeType": "application/pdf",
+                "size": "620923"
+              }
+            ]
+          },
+          {
+            "name": "Semana_12",
+            "type": "folder",
+            "id": "1ER-QFHTqbtGlFO20hk9DlCy9mH_iJwf0",
+            "children": [
+              {
+                "name": "03_SEPARATA_TEORÍA_DEL_CAMBIO_SOCIAL_II.pdf",
+                "type": "file",
+                "id": "1_3rd0McQI7x_kWCy5M3Ru4iHV6hGR-Kk",
+                "mimeType": "application/pdf",
+                "size": "415324"
+              },
+              {
+                "name": "01_ACTIVIDADES_DE_LA_SESIÓN_11_TEORÍAS_DEL_CAMBIO_SOCIAL_II.pptx",
+                "type": "file",
+                "id": "15KpcHs9NHd5NTKKYo0IgoIX_NEyBMD29",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "816046"
+              },
+              {
+                "name": "02_TEORÍA_TEORÍAS_DEL_CAMBIO_II.pptx",
+                "type": "file",
+                "id": "1pQFyKZwSXh1S9vu8XoA72ljKD3djsZuc",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "19776562"
+              }
+            ]
+          },
+          {
+            "name": "Semana_2",
+            "type": "folder",
+            "id": "1nykImUB6YzEtZrSWWEW_adYSt1Rlzcy5",
+            "children": [
+              {
+                "name": "03_SEPARATA_¿QUE_ES_LA_SOCIOLOGÍA.pdf",
+                "type": "file",
+                "id": "10uz-nkDZ53XmWZDdKEZiNRLH80WIGb4_",
+                "mimeType": "application/pdf",
+                "size": "214434"
+              },
+              {
+                "name": "02_TEORÍA_¿QUE_ES_SOCIOLOGÍA.pptx",
+                "type": "file",
+                "id": "1iS6C03stb1oA8DugZ2M6GLN2lXUtH_QQ",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "11008752"
+              },
+              {
+                "name": "01_ACTIVIDADES_SESIÓN_2.pptx",
+                "type": "file",
+                "id": "1FqPmKeRyoDLupU7vLZjK064j9f6TvnVi",
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "size": "211150"
+              }
+            ]
+          },
+          {
+            "name": "SOCIOLOGÍA_20-2.html",
+            "type": "file",
+            "id": "1FU_ct-gZfq27m9mx0gvpLZgGsmZOnk6e",
+            "mimeType": "text/html",
+            "size": "422"
+          },
+          {
+            "name": "EXAMEN_FINAL_2020II_-_Sociología.docx",
+            "type": "file",
+            "id": "1S2080DfaXei2MTrDbqQtYAjL-hlxMXAW",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "26417"
+          },
+          {
+            "name": "EXAMEN_PARCIAL_2020_I.docx",
+            "type": "file",
+            "id": "1I7OPtV-dStW4AqX4rLoh2lqCvuZHxdMK",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "26999"
+          },
+          {
+            "name": "SÍLABO_SOCIOLOGÍA.pdf",
+            "type": "file",
+            "id": "1E-1JW5X4sATbHHNmeBj-SQsZoyJgGny9",
+            "mimeType": "application/pdf",
+            "size": "277426"
+          },
+          {
+            "name": "04_LECTURA_SOCIOLOGÍA_ANTONNY_GUIDDENS.pdf",
+            "type": "file",
+            "id": "1ZpfQtEKBdYOuwFpLxpsYJ5OX3r98B_x5",
+            "mimeType": "application/pdf",
+            "size": "327618"
+          },
+          {
+            "name": "02_CRONOGRAMA_DE_ACTIVIDADES.pptx",
+            "type": "file",
+            "id": "14DRaYtnijPZKwZ06yi1RbH06XiH9U2YA",
+            "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "size": "88752"
+          }
+        ]
+      },
+      {
+        "name": "Sanchez_Carlo",
+        "type": "folder",
+        "id": "1gxy5457zFyaKDL7dmv6jk13jVqMVdo3B",
+        "children": [
+          {
+            "name": "Sociologia_final_2020-1.docx",
+            "type": "file",
+            "id": "1c5rI8lFS7SJDvv_KRC6iUg8oWdexMWZF",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "57377"
+          },
+          {
+            "name": "Examen_Parcial_V.docx",
+            "type": "file",
+            "id": "1BQr9zhSGQBSQFNvQFpTgG8J7NCDNJ0C0",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "56882"
+          },
+          {
+            "name": "Examen_Parcial_W_(1).docx",
+            "type": "file",
+            "id": "1BvIkgkALNCBLMiut0p9qCpXd6nfwxSOX",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "56879"
+          },
+          {
+            "name": "Examen_Parcial_20-1.docx",
+            "type": "file",
+            "id": "1CbrHjejgmoL5wuLAHoMshuJgVktqxEFJ",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "57970"
+          },
+          {
+            "name": "Examen_Final_V.docx",
+            "type": "file",
+            "id": "1oEhhbJYWMujz8w7CdCjkruBGg-sP1TOZ",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": "55690"
+          }
+        ]
+      },
+      {
+        "name": "SOLUCIONARIO_ALUMNO",
+        "type": "folder",
+        "id": "1-gDDnrlCTGpo_G0zBTamnpktaK2pqFLd",
+        "children": [
+          {
+            "name": "PC4",
+            "type": "folder",
+            "id": "1stONvsfwUGAbipdYwDge4wDiwMV1Hwk1",
+            "children": []
+          },
+          {
+            "name": "PC1",
+            "type": "folder",
+            "id": "1q486G6C7nyagonek4OyJy8UXv7pslDJY",
+            "children": []
+          },
+          {
+            "name": "ES",
+            "type": "folder",
+            "id": "1x5lye40xXu8_s2kkfksA9w-vsUfpmW05",
+            "children": []
+          },
+          {
+            "name": "PC3",
+            "type": "folder",
+            "id": "1Y9hY7gIrIaGy6tZO7uR4tyqH27AUWDJl",
+            "children": [
+              {
+                "name": "CHAVARRI_PC3_2020-1.pdf",
+                "type": "file",
+                "id": "1iXFhVbcpVa4cRr2D4PZ2531KhtOiFQGi",
+                "mimeType": "application/pdf",
+                "size": "16786"
+              }
+            ]
+          },
+          {
+            "name": "EF",
+            "type": "folder",
+            "id": "1m3FO6biZCoqLQaHtWzW0RxVYlEkCzLEz",
+            "children": [
+              {
+                "name": "CHAVARRI_EF_2020-1.pdf",
+                "type": "file",
+                "id": "1EU80GbjmfHXbS3_ncFTZQZahWnqucl96",
+                "mimeType": "application/pdf",
+                "size": "417051"
+              }
+            ]
+          },
+          {
+            "name": "EP",
+            "type": "folder",
+            "id": "1e_C-0V6M_3gHCgD1EUSBy1CXFaZdFqpn",
+            "children": [
+              {
+                "name": "CHAVARRI_EP_2020-1.pdf",
+                "type": "file",
+                "id": "1w77iTn87ju-YYTSAo21ZLN-YuC0od7v1",
+                "mimeType": "application/pdf",
+                "size": "319487"
+              }
+            ]
+          },
+          {
+            "name": "PC2",
+            "type": "folder",
+            "id": "1FeApaO7BU0VAJS6eoAjlxbBaOuR6zbBz",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "EXAMENES",
+        "type": "folder",
+        "id": "1bXF91sKWpigucdT8Muvh_9ItXKcNpY9N",
+        "children": [
+          {
+            "name": "ES",
+            "type": "folder",
+            "id": "1M6bJygSEoSDdpHW_6PAe54rcOjeBSwms",
+            "children": []
+          },
+          {
+            "name": "PC4",
+            "type": "folder",
+            "id": "1r5PDe2Fa9yaeY65IE-tFYmu777yJs22C",
+            "children": []
+          },
+          {
+            "name": "PC3",
+            "type": "folder",
+            "id": "193QU5I8IQL5HucbAwn2JaCpADjKmG-vA",
+            "children": []
+          },
+          {
+            "name": "PC1",
+            "type": "folder",
+            "id": "1KZCXJWRenZmhoarM0rIrU_nspGF17XdP",
+            "children": []
+          },
+          {
+            "name": "PC2",
+            "type": "folder",
+            "id": "14op9rcqIoOvyQgzdQFu5AOZ4BBlnAs34",
+            "children": []
+          },
+          {
+            "name": "EF",
+            "type": "folder",
+            "id": "116HFC1HwWjA3risWfOemH8SG3Bdb-kAS",
+            "children": [
+              {
+                "name": "Cavarri_EF_2020-2.pdf",
+                "type": "file",
+                "id": "19-iF4-MG6s2UDNB4W1IdBO9MrmEZxnbt",
+                "mimeType": "application/pdf",
+                "size": "308172"
+              },
+              {
+                "name": "Sanchez_EF_2020-2.pdf",
+                "type": "file",
+                "id": "1zPZxPvhAXbbeyh8GgjBwpTNji2pt3ZJF",
+                "mimeType": "application/pdf",
+                "size": "159101"
+              },
+              {
+                "name": "AYALA_EF_2022-1.docx",
+                "type": "file",
+                "id": "1CnCCkyyOcPZQ5k0PQnEbkeKZvtosDPWr",
+                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size": "31172"
+              }
+            ]
+          },
+          {
+            "name": "EP",
+            "type": "folder",
+            "id": "1ZXoHc7a4xh68VxmVd2H52kCExyO8W-5y",
+            "children": [
+              {
+                "name": "Sanchez_EP_2020-2.pdf",
+                "type": "file",
+                "id": "1cLXSsot-4t70G2mHEApZlpShz9SAzRs1",
+                "mimeType": "application/pdf",
+                "size": "163966"
+              },
+              {
+                "name": "Sanchez_EP_2020-1.pdf",
+                "type": "file",
+                "id": "1_2gXmqXUWapOBuGYGmV4bV_AcLpNWml2",
+                "mimeType": "application/pdf",
+                "size": "162789"
+              },
+              {
+                "name": "Sanchez_EP_2021-1.pdf",
+                "type": "file",
+                "id": "1u4rv7xqdeZ7mXK1MnaDXM33Dkqf4v9da",
+                "mimeType": "application/pdf",
+                "size": "162333"
+              },
+              {
+                "name": "Chavarri_EP_2020-1.pdf",
+                "type": "file",
+                "id": "1Jgl7VGVLy3CcF8xcWGtgDuVcbfHjpv3G",
+                "mimeType": "application/pdf",
+                "size": "312266"
+              },
+              {
+                "name": "Sanchez_EP_2020-2..pdf",
+                "type": "file",
+                "id": "1QWim9NFSMQsZ56lq-eiQtQRBI3W0zQzX",
+                "mimeType": "application/pdf",
+                "size": "164673"
+              },
+              {
+                "name": "Cavarri_EP_2021-2.pdf",
+                "type": "file",
+                "id": "1OO6QT_ZRHO1bokpQbOEYRwm0imBETy34",
+                "mimeType": "application/pdf",
+                "size": "601242"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Examen_Parcial_(1).docx",
+        "type": "file",
+        "id": "1aQMFMXEzryZs7380el45F-shF3YG1IVN",
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size": "57292"
+      },
+      {
+        "name": "SÍLABO_SOCIOLOGÍA.pdf",
+        "type": "file",
+        "id": "1kNx2dxs_-nBPDYA-yCmHSQsqLoxzigFQ",
+        "mimeType": "application/pdf",
+        "size": "277426"
+      },
+      {
+        "name": "RECOMENDACIONES_DE_SOCIOLOGÍA.docx",
+        "type": "file",
+        "id": "1vYYWCYpKBQu_DAikWir7aeK7qX43huG4",
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size": "6545"
+      },
+      {
+        "name": "RESPUESTAS_AL_EXAMEN_FINAL_2O2OII_SOCIOLOGÍA_U.docx",
+        "type": "file",
+        "id": "139T9vxnhO1QZ39xK00xNrwGpO86FhiRM",
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size": "29299"
+      },
+      {
+        "name": "SOLUCIONARIO_EXAMEN_SUSTITUTORIO_SOCIOLOGÍA_U.docx",
+        "type": "file",
+        "id": "1hKvRk2IRKbUbZXHzoGiB7lGYbus4ZtBT",
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size": "29359"
+      },
+      {
+        "name": "Examen_Final_W_(1).docx",
+        "type": "file",
+        "id": "1vT1WAFYBGxJosRi1mpEfVfvb6ihR6K1r",
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size": "55983"
+      }
+    ]
+  }
+}

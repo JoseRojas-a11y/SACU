@@ -2,7 +2,7 @@
   "course_id": "BMA01",
   "course_name": "Cálculo_diferencial",
   "id": "1CTy2N2wPCscglbg4gaM8O0zNv6DS948t",
-  "scanned_at": "2026-08-07T07:55:07.986582+00:00",
+  "scanned_at": "2026-08-18T20:26:39.078712+00:00",
   "tree": {
     "name": "Cálculo_diferencial",
     "type": "folder",
@@ -963,6 +963,13 @@
             "type": "folder",
             "id": "1ci1tIYa4Hoy9BlzhYO8iCP4QZDSm2Okt",
             "children": [
+              {
+                "name": "BMA01_ES_26-1.jpeg",
+                "type": "file",
+                "id": "1jVHL7GxWMuj7Aa3nDaJjGbgIGD_uiCya",
+                "mimeType": "image/jpeg",
+                "size": "146469"
+              },
               {
                 "name": "Planchas_antiguas",
                 "type": "folder",

@@ -2,7 +2,7 @@
   "course_id": "SW303",
   "course_name": "Lenguajes_de_Programación_I_(Imperativo)",
   "id": "1LleuD-Ic62mv1t7sexW2ju2i0BgH2hpP",
-  "scanned_at": "2026-08-07T07:45:11.907165+00:00",
+  "scanned_at": "2026-08-18T20:16:41.728206+00:00",
   "tree": {
     "name": "Lenguajes_de_Programación_I_(Imperativo)",
     "type": "folder",
@@ -13,6 +13,20 @@
         "type": "folder",
         "id": "185Vu7D5yTzXhzaXyFq-w4gGOsC4oZzFJ",
         "children": [
+          {
+            "name": "PC4",
+            "type": "folder",
+            "id": "1RHAZwD2YGbRYzAk60uq1_OeJ3DiihT4B",
+            "children": [
+              {
+                "name": "SW303-PC4-26-1.pdf",
+                "type": "file",
+                "id": "1YqT1CAzaq0whvgQlEHSDoALqBY8RFpXt",
+                "mimeType": "application/pdf",
+                "size": "151725"
+              }
+            ]
+          },
           {
             "name": "ES",
             "type": "folder",
@@ -499,6 +513,13 @@
         ]
       },
       {
+        "name": "SW303_LP_1_Silabo.pdf",
+        "type": "file",
+        "id": "1-NGRinnRPAhneOgw1detvVdtmAErolp3",
+        "mimeType": "application/pdf",
+        "size": "146602"
+      },
+      {
         "name": "Material_Herencia",
         "type": "folder",
         "id": "1C9Rk9Qq0wDn094_qXLAdyrgC-Qh5UW4W",
@@ -642,13 +663,6 @@
                 "size": "4521199"
               }
             ]
-          },
-          {
-            "name": "SW303_LP_1_Silabo.pdf",
-            "type": "file",
-            "id": "1-NGRinnRPAhneOgw1detvVdtmAErolp3",
-            "mimeType": "application/pdf",
-            "size": "146602"
           }
         ]
       }
