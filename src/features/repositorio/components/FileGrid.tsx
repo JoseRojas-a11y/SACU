@@ -53,6 +53,64 @@ function getFileIcon(fileName: string) {
   return { icon: '📑', color: 'bg-indigo-50 text-indigo-600 border-indigo-200', tag: ext.toUpperCase() || 'FILE' }
 }
 
+interface FolderCardItemProps {
+  folder: DriveFolderNode
+  onSelect: (folder: DriveFolderNode) => void
+}
+
+function FolderCardItem({ folder, onSelect }: FolderCardItemProps) {
+  const displayName = formatDisplayName(folder.name)
+
+  const fileCount = typeof folder.total_files === 'number'
+    ? folder.total_files
+    : Array.isArray(folder.children)
+      ? folder.children.filter(c => c && c.type === 'file').length
+      : 0
+
+  const subfoldersCount = Array.isArray(folder.children)
+    ? folder.children.filter(c => c && c.type === 'folder').length
+    : 0
+
+  return (
+    <div
+      onClick={() => onSelect(folder)}
+      className="bg-white rounded-2xl border border-slate-200 p-4 shadow-xs hover:shadow-md hover:border-[#8300ca] hover:bg-[#8300ca]/5 transition-all cursor-pointer group flex items-center justify-between gap-3 active:scale-[0.99]"
+    >
+      <div className="flex items-center gap-3.5 min-w-0">
+        <div className="w-11 h-11 rounded-xl bg-[#8300ca]/10 text-[#8300ca] border border-[#8300ca]/20 flex items-center justify-center flex-shrink-0 group-hover:scale-105 group-hover:bg-[#8300ca] group-hover:text-white transition-all shadow-inner">
+          <svg
+            className="w-5 h-5 transition-transform duration-200 group-hover:scale-110"
+            fill="currentColor"
+            viewBox="0 0 24 24"
+          >
+            <path d="M19.5 21a3 3 0 0 0 3-3v-4.5a3 3 0 0 0-3-3h-15a3 3 0 0 0-3 3V18a3 3 0 0 0 3 3h15ZM1.5 10.5V6a3 3 0 0 1 3-3h5.379a3 3 0 0 1 2.121.879l1.243 1.242a1.5 1.5 0 0 0 1.06.44H19.5a3 3 0 0 1 3 3v2.04a4.5 4.5 0 0 0-3-.54H4.5a4.5 4.5 0 0 0-3 .54Z" />
+          </svg>
+        </div>
+        <div className="min-w-0">
+          <h4 className="text-xs sm:text-sm font-bold text-slate-900 group-hover:text-[#8300ca] transition-colors truncate">
+            {displayName}
+          </h4>
+          <p className="text-[11px] font-mono text-slate-500 mt-0.5 flex items-center gap-1.5 flex-wrap">
+            <span>{fileCount} {fileCount === 1 ? 'archivo' : 'archivos'}</span>
+            {subfoldersCount > 0 && (
+              <>
+                <span className="opacity-40">•</span>
+                <span>{subfoldersCount} {subfoldersCount === 1 ? 'subcarpeta' : 'subcarpetas'}</span>
+              </>
+            )}
+          </p>
+        </div>
+      </div>
+
+      <div className="w-8 h-8 rounded-xl bg-slate-100 group-hover:bg-[#8300ca] text-slate-400 group-hover:text-white flex items-center justify-center transition-all flex-shrink-0 shadow-2xs">
+        <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
+          <path strokeLinecap="round" strokeLinejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" />
+        </svg>
+      </div>
+    </div>
+  )
+}
+
 interface FileCardItemProps {
   file: DriveFileNode
   onPreview: (file: DriveFileNode) => void
@@ -64,9 +122,7 @@ function FileCardItem({ file, onPreview }: FileCardItemProps) {
 
   const formattedTitle = formatDisplayName(file.name)
   const style = getFileIcon(file.name)
-  const driveUrl = `https://drive.google.com/file/d/${file.id}/view`
 
-  // Multi-stage robust thumbnail fallback sources for Google Drive
   const thumbnailSources = [
     `https://lh3.googleusercontent.com/d/${file.id}=w800`,
     `https://drive.google.com/thumbnail?id=${file.id}&sz=w800`,
@@ -174,8 +230,10 @@ export function FileGrid({ folder, rootFolder, courseName, onSelectFolder }: Fil
   if (!folder) {
     return (
       <div className="bg-white rounded-2xl p-12 text-center border border-[#e2e8f0] shadow-xs">
-        <div className="w-14 h-14 bg-[#f2f4f6] text-[#8300ca] rounded-2xl flex items-center justify-center text-3xl mx-auto mb-3">
-          📂
+        <div className="w-14 h-14 bg-[#8300ca]/10 text-[#8300ca] border border-[#8300ca]/20 rounded-2xl flex items-center justify-center mx-auto mb-3 shadow-inner">
+          <svg className="w-7 h-7" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M19.5 21a3 3 0 0 0 3-3v-4.5a3 3 0 0 0-3-3h-15a3 3 0 0 0-3 3V18a3 3 0 0 0 3 3h15ZM1.5 10.5V6a3 3 0 0 1 3-3h5.379a3 3 0 0 1 2.121.879l1.243 1.242a1.5 1.5 0 0 0 1.06.44H19.5a3 3 0 0 1 3 3v2.04a4.5 4.5 0 0 0-3-.54H4.5a4.5 4.5 0 0 0-3 .54Z" />
+          </svg>
         </div>
         <h3 className="text-base font-bold text-slate-800">Selecciona una carpeta</h3>
         <p className="text-xs text-slate-500 mt-1">
@@ -186,11 +244,12 @@ export function FileGrid({ folder, rootFolder, courseName, onSelectFolder }: Fil
   }
 
   const children = Array.isArray(folder?.children) ? folder.children : []
+  const subfolders = children.filter((child): child is DriveFolderNode => Boolean(child && child.type === 'folder'))
   const files = children.filter((child): child is DriveFileNode => Boolean(child && child.type === 'file'))
   const folderDisplayName = formatDisplayName(folder?.name || '')
 
   return (
-    <div className="space-y-5">
+    <div className="space-y-6">
       {/* Folder Header */}
       <div className="bg-white rounded-2xl p-5 border border-[#e2e8f0] shadow-xs flex flex-wrap items-center justify-between gap-4">
         <div>
@@ -230,31 +289,81 @@ export function FileGrid({ folder, rootFolder, courseName, onSelectFolder }: Fil
             {folderDisplayName}
           </h2>
         </div>
-        <span className="px-3 py-1 bg-[#f2f4f6] text-[#5c647a] font-mono text-xs font-bold rounded-full border border-[#e2e8f0]">
-          {files.length} {files.length === 1 ? 'archivo' : 'archivos'}
-        </span>
+
+        {/* Resumen de elementos en la carpeta */}
+        <div className="flex items-center gap-2">
+          {subfolders.length > 0 && (
+            <span className="px-3 py-1 bg-purple-50 text-[var(--theme-primary)] font-mono text-xs font-bold rounded-full border border-purple-200 flex items-center gap-1.5">
+              <svg className="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
+                <path d="M19.5 21a3 3 0 0 0 3-3v-4.5a3 3 0 0 0-3-3h-15a3 3 0 0 0-3 3V18a3 3 0 0 0 3 3h15ZM1.5 10.5V6a3 3 0 0 1 3-3h5.379a3 3 0 0 1 2.121.879l1.243 1.242a1.5 1.5 0 0 0 1.06.44H19.5a3 3 0 0 1 3 3v2.04a4.5 4.5 0 0 0-3-.54H4.5a4.5 4.5 0 0 0-3 .54Z" />
+              </svg>
+              <span>{subfolders.length} {subfolders.length === 1 ? 'carpeta' : 'carpetas'}</span>
+            </span>
+          )}
+          <span className="px-3 py-1 bg-[#f2f4f6] text-[#5c647a] font-mono text-xs font-bold rounded-full border border-[#e2e8f0]">
+            📄 {files.length} {files.length === 1 ? 'archivo' : 'archivos'}
+          </span>
+        </div>
       </div>
 
-      {/* Files Grid */}
-      {files.length === 0 ? (
+      {/* Subcarpetas dentro del Grid */}
+      {subfolders.length > 0 && (
+        <div className="space-y-3">
+          <div className="flex items-center justify-between px-1">
+            <h3 className="text-xs font-bold text-slate-500 uppercase tracking-wider font-mono flex items-center gap-1.5">
+              <svg className="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
+                <path d="M19.5 21a3 3 0 0 0 3-3v-4.5a3 3 0 0 0-3-3h-15a3 3 0 0 0-3 3V18a3 3 0 0 0 3 3h15ZM1.5 10.5V6a3 3 0 0 1 3-3h5.379a3 3 0 0 1 2.121.879l1.243 1.242a1.5 1.5 0 0 0 1.06.44H19.5a3 3 0 0 1 3 3v2.04a4.5 4.5 0 0 0-3-.54H4.5a4.5 4.5 0 0 0-3 .54Z" />
+              </svg>
+              <span>Carpetas en este nivel ({subfolders.length})</span>
+            </h3>
+          </div>
+
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3.5">
+            {subfolders.map((sub) => (
+              <FolderCardItem
+                key={sub.id}
+                folder={sub}
+                onSelect={(f) => onSelectFolder?.(f)}
+              />
+            ))}
+          </div>
+        </div>
+      )}
+
+      {/* Archivos en el Grid */}
+      {files.length > 0 && (
+        <div className="space-y-3">
+          {subfolders.length > 0 && (
+            <div className="flex items-center justify-between px-1 pt-2">
+              <h3 className="text-xs font-bold text-slate-500 uppercase tracking-wider font-mono flex items-center gap-1.5">
+                <span>📄</span>
+                <span>Archivos ({files.length})</span>
+              </h3>
+            </div>
+          )}
+
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+            {files.map((file) => (
+              <FileCardItem
+                key={file.id}
+                file={file}
+                onPreview={(f) => setPreviewFile(f)}
+              />
+            ))}
+          </div>
+        </div>
+      )}
+
+      {/* Estado Vacío cuando no hay subcarpetas ni archivos */}
+      {subfolders.length === 0 && files.length === 0 && (
         <div className="bg-white rounded-2xl p-12 text-center border border-[#e2e8f0] shadow-xs">
           <div className="w-12 h-12 bg-[#f2f4f6] text-slate-400 rounded-2xl flex items-center justify-center text-2xl mx-auto mb-3">
             📭
           </div>
-          <h4 className="text-sm font-bold text-slate-700">Esta carpeta no contiene archivos</h4>
+          <h4 className="text-sm font-bold text-slate-700">Esta carpeta no contiene carpetas ni archivos</h4>
           <p className="text-xs text-slate-400 mt-1">
-            Explora las subcarpetas en el menú lateral.
+            Usa el menú lateral o el navegador superior para dirigirte a otras carpetas.
           </p>
-        </div>
-      ) : (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
-          {files.map((file) => (
-            <FileCardItem
-              key={file.id}
-              file={file}
-              onPreview={(f) => setPreviewFile(f)}
-            />
-          ))}
         </div>
       )}
 
@@ -266,5 +375,3 @@ export function FileGrid({ folder, rootFolder, courseName, onSelectFolder }: Fil
     </div>
   )
 }
-
-

@@ -4,7 +4,7 @@ export function Footer() {
       <div className="footer-container">
         <div className="footer-brand">
           <div className="footer-logo-box">
-            P
+            <img src="/logo-sacu.ico" alt="Logo SACU" />
           </div>
           <div>
             <span className="footer-brand-title">SACU</span>

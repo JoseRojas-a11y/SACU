@@ -58,6 +58,7 @@ export default function App() {
           setSelectedFaculty(id)
           setSelectedCourse(null)
         }}
+        onResetCourse={() => setSelectedCourse(null)}
         onOpenUpload={() => setUploadModal(true)}
       />
 

@@ -41,6 +41,7 @@
     --color-primary: var(--theme-primary);
 
     overscroll-behavior-y: none;
+    overscroll-behavior-x: none;
   }
 
   body {
