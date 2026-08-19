@@ -25,7 +25,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                 "size": "506717"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "PC4",
@@ -39,7 +40,8 @@
                 "mimeType": "image/jpeg",
                 "size": "200204"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "Semana_9",
@@ -67,7 +69,8 @@
                 "mimeType": "application/pdf",
                 "size": "451342"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "Semana_7",
@@ -81,7 +84,8 @@
                 "mimeType": "application/pdf",
                 "size": "448927"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "Semana_4",
@@ -116,7 +120,8 @@
                 "mimeType": "application/pdf",
                 "size": "16636386"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "Semana_5",
@@ -130,7 +135,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                 "size": "475141"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "Semana_6",
@@ -144,7 +150,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                 "size": "481529"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "Semana_3",
@@ -158,7 +165,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                 "size": "520998"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "Semana_2",
@@ -172,7 +180,8 @@
                 "mimeType": "application/pdf",
                 "size": "2946938"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "Semana_11",
@@ -186,7 +195,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                 "size": "503443"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "Semana_13",
@@ -207,7 +217,8 @@
                 "mimeType": "application/pdf",
                 "size": "257617"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "Semana_12",
@@ -228,7 +239,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                 "size": "507409"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "Semana_10",
@@ -249,7 +261,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                 "size": "532968"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "Semana_1",
@@ -270,7 +283,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                 "size": "710104"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "Introducción",
@@ -284,9 +298,11 @@
                 "mimeType": "application/pdf",
                 "size": "252665"
               }
-            ]
+            ],
+            "total_files": 1
           }
-        ]
+        ],
+        "total_files": 24
       },
       {
         "name": "Huerta",
@@ -322,9 +338,11 @@
                         "mimeType": "text/plain",
                         "size": "116"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "PC3",
@@ -338,7 +356,8 @@
                     "mimeType": "application/pdf",
                     "size": "310261"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC2",
@@ -352,7 +371,8 @@
                     "mimeType": "application/pdf",
                     "size": "275274"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC1",
@@ -366,9 +386,11 @@
                     "mimeType": "application/pdf",
                     "size": "258094"
                   }
-                ]
+                ],
+                "total_files": 1
               }
-            ]
+            ],
+            "total_files": 5
           },
           {
             "name": "Diapositivas",
@@ -438,7 +460,8 @@
                 "mimeType": "application/pdf",
                 "size": "1340202"
               }
-            ]
+            ],
+            "total_files": 9
           },
           {
             "name": "Debates",
@@ -485,11 +508,14 @@
                     "mimeType": "application/pdf",
                     "size": "313948"
                   }
-                ]
+                ],
+                "total_files": 5
               }
-            ]
+            ],
+            "total_files": 5
           }
-        ]
+        ],
+        "total_files": 19
       },
       {
         "name": "Syllabus_rev_2025_I_BRN01_V_(1).doc",
@@ -592,9 +618,11 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                 "size": "1675748"
               }
-            ]
+            ],
+            "total_files": 11
           }
-        ]
+        ],
+        "total_files": 12
       },
       {
         "name": "Mondragón",
@@ -676,7 +704,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                 "size": "344867"
               }
-            ]
+            ],
+            "total_files": 10
           },
           {
             "name": "Planchas",
@@ -744,7 +773,8 @@
                     "mimeType": "application/pdf",
                     "size": "173315"
                   }
-                ]
+                ],
+                "total_files": 8
               },
               {
                 "name": "PC3",
@@ -758,11 +788,14 @@
                     "mimeType": "application/pdf",
                     "size": "159026"
                   }
-                ]
+                ],
+                "total_files": 1
               }
-            ]
+            ],
+            "total_files": 9
           }
-        ]
+        ],
+        "total_files": 19
       },
       {
         "name": "Teoria_expo.docx",
@@ -771,6 +804,7 @@
         "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
         "size": "457022"
       }
-    ]
+    ],
+    "total_files": 76
   }
 }

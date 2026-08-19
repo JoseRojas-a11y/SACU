@@ -100,7 +100,8 @@
                     "mimeType": "application/vnd.ms-powerpoint",
                     "size": "2729984"
                   }
-                ]
+                ],
+                "total_files": 11
               },
               {
                 "name": "Libros",
@@ -156,7 +157,8 @@
                     "mimeType": "application/pdf",
                     "size": "35101865"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "PLANCHITAS",
@@ -203,7 +205,8 @@
                         "mimeType": "image/jpeg",
                         "size": "43968"
                       }
-                    ]
+                    ],
+                    "total_files": 5
                   },
                   {
                     "name": "pc3_18",
@@ -238,7 +241,8 @@
                         "mimeType": "image/jpeg",
                         "size": "105593"
                       }
-                    ]
+                    ],
+                    "total_files": 4
                   },
                   {
                     "name": "FM_SUSTI_16-1.pdf",
@@ -611,7 +615,8 @@
                     "mimeType": "application/pdf",
                     "size": "133980"
                   }
-                ]
+                ],
+                "total_files": 62
               },
               {
                 "name": "Material_Camote",
@@ -786,9 +791,11 @@
                     "mimeType": "application/msword",
                     "size": "60928"
                   }
-                ]
+                ],
+                "total_files": 24
               }
-            ]
+            ],
+            "total_files": 104
           },
           {
             "name": "Análisis_y_Modelamiento_de_Datos_-_SW401",
@@ -814,7 +821,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "14328"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Laboratorios",
@@ -856,7 +864,8 @@
                     "mimeType": "application/msword",
                     "size": "149504"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "ppts",
@@ -884,7 +893,8 @@
                     "mimeType": "application/pdf",
                     "size": "8795730"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "Material_Bibliografico",
@@ -912,9 +922,11 @@
                     "mimeType": "application/pdf",
                     "size": "7339504"
                   }
-                ]
+                ],
+                "total_files": 3
               }
-            ]
+            ],
+            "total_files": 13
           },
           {
             "name": "Teoría_y_ciencia_de_sistemas_aplicados_-_SI301",
@@ -966,7 +978,8 @@
                         "mimeType": "application/pdf",
                         "size": "223623"
                       }
-                    ]
+                    ],
+                    "total_files": 5
                   },
                   {
                     "name": "ES",
@@ -994,7 +1007,8 @@
                         "mimeType": "image/jpeg",
                         "size": "80697"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "PC2",
@@ -1022,7 +1036,8 @@
                         "mimeType": "image/jpeg",
                         "size": "155798"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "EP",
@@ -1057,7 +1072,8 @@
                         "mimeType": "application/pdf",
                         "size": "45079"
                       }
-                    ]
+                    ],
+                    "total_files": 4
                   },
                   {
                     "name": "PC1",
@@ -1092,9 +1108,11 @@
                         "mimeType": "image/jpeg",
                         "size": "88042"
                       }
-                    ]
+                    ],
+                    "total_files": 4
                   }
-                ]
+                ],
+                "total_files": 19
               },
               {
                 "name": "Rocío_Salas",
@@ -1141,7 +1159,8 @@
                         "mimeType": "application/pdf",
                         "size": "339952"
                       }
-                    ]
+                    ],
+                    "total_files": 5
                   },
                   {
                     "name": "ES",
@@ -1155,7 +1174,8 @@
                         "mimeType": "application/pdf",
                         "size": "234220"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "EF",
@@ -1190,7 +1210,8 @@
                         "mimeType": "image/jpeg",
                         "size": "127807"
                       }
-                    ]
+                    ],
+                    "total_files": 4
                   },
                   {
                     "name": "PC2",
@@ -1204,7 +1225,8 @@
                         "mimeType": "image/jpeg",
                         "size": "108226"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Requisitos_INCOSE.pdf",
@@ -1220,9 +1242,11 @@
                     "mimeType": "application/pdf",
                     "size": "10199458"
                   }
-                ]
+                ],
+                "total_files": 13
               }
-            ]
+            ],
+            "total_files": 32
           },
           {
             "name": "Sistemas_Biológicos_y_Ecológicos_-_SI207",
@@ -1274,7 +1298,8 @@
                         "mimeType": "image/jpeg",
                         "size": "54398"
                       }
-                    ]
+                    ],
+                    "total_files": 5
                   },
                   {
                     "name": "EP",
@@ -1312,7 +1337,8 @@
                                 "mimeType": "application/pdf",
                                 "size": "270028"
                               }
-                            ]
+                            ],
+                            "total_files": 1
                           },
                           {
                             "name": "solucionario_examen_parcial_2023-I_V.pdf",
@@ -1321,7 +1347,8 @@
                             "mimeType": "application/pdf",
                             "size": "245019"
                           }
-                        ]
+                        ],
+                        "total_files": 3
                       },
                       {
                         "name": "EP_24-2_Sol..pdf",
@@ -1344,7 +1371,8 @@
                         "mimeType": "application/pdf",
                         "size": "109992"
                       }
-                    ]
+                    ],
+                    "total_files": 7
                   },
                   {
                     "name": "ES_24-2_Sol..pdf",
@@ -1353,7 +1381,8 @@
                     "mimeType": "application/pdf",
                     "size": "114690"
                   }
-                ]
+                ],
+                "total_files": 13
               },
               {
                 "name": "Heidi_Sánchez",
@@ -1423,7 +1452,8 @@
                     "mimeType": "image/jpeg",
                     "size": "71193"
                   }
-                ]
+                ],
+                "total_files": 9
               },
               {
                 "name": "Ex_profesor_Hans_Carreño_y_otros",
@@ -1612,7 +1642,8 @@
                     "mimeType": "image/jpeg",
                     "size": "47250"
                   }
-                ]
+                ],
+                "total_files": 26
               },
               {
                 "name": "Pamela_Obando",
@@ -1673,7 +1704,8 @@
                         "mimeType": "application/pdf",
                         "size": "7588"
                       }
-                    ]
+                    ],
+                    "total_files": 7
                   },
                   {
                     "name": "Teoría",
@@ -1750,7 +1782,8 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                         "size": "19287628"
                       }
-                    ]
+                    ],
+                    "total_files": 10
                   },
                   {
                     "name": "diagrama_de_flujo_hemostasia.pdf",
@@ -1773,7 +1806,8 @@
                     "mimeType": "application/pdf",
                     "size": "206944"
                   }
-                ]
+                ],
+                "total_files": 20
               },
               {
                 "name": "resumen_para_el_final_de_biologicos.docx",
@@ -1782,7 +1816,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "3399501"
               }
-            ]
+            ],
+            "total_files": 69
           },
           {
             "name": "Teoría_General_de_Sistemas_-_SI204",
@@ -1808,7 +1843,8 @@
                     "mimeType": "image/jpeg",
                     "size": "27423"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Antaurco",
@@ -1827,7 +1863,8 @@
                         "mimeType": "application/pdf",
                         "size": "697272"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "EF",
@@ -1841,7 +1878,8 @@
                         "mimeType": "application/pdf",
                         "size": "320319"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "PC3",
@@ -1855,7 +1893,8 @@
                         "mimeType": "application/pdf",
                         "size": "1140522"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "EXAMEN_PARCIAL",
@@ -1869,7 +1908,8 @@
                         "mimeType": "application/pdf",
                         "size": "133763"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "METODOLOGIA_DE_EXAMENES",
@@ -1897,7 +1937,8 @@
                         "mimeType": "application/pdf",
                         "size": "19633389"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "Teoría_(ppt's)",
@@ -1960,7 +2001,8 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                         "size": "2012474"
                       }
-                    ]
+                    ],
+                    "total_files": 8
                   },
                   {
                     "name": "acerca_del_trabajo.docx",
@@ -1990,7 +2032,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "75087"
                   }
-                ]
+                ],
+                "total_files": 19
               },
               {
                 "name": "Osorio",
@@ -2004,9 +2047,11 @@
                     "mimeType": "application/pdf",
                     "size": "264624"
                   }
-                ]
+                ],
+                "total_files": 1
               }
-            ]
+            ],
+            "total_files": 22
           },
           {
             "name": "Teoría_y_ciencia_de_sistemas_-_SI203",
@@ -2191,7 +2236,8 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                         "size": "8296062"
                       }
-                    ]
+                    ],
+                    "total_files": 24
                   },
                   {
                     "name": "Parcial_Canchano.pdf",
@@ -2242,7 +2288,8 @@
                     "mimeType": "text/plain",
                     "size": "824"
                   }
-                ]
+                ],
+                "total_files": 31
               },
               {
                 "name": "Daniel_Llanos",
@@ -2527,7 +2574,8 @@
                         "mimeType": "application/pdf",
                         "size": "289388"
                       }
-                    ]
+                    ],
+                    "total_files": 39
                   },
                   {
                     "name": "TCS-_EXAMENES_-_LLANOS.rar",
@@ -2655,7 +2703,8 @@
                     "mimeType": "application/pdf",
                     "size": "2064407"
                   }
-                ]
+                ],
+                "total_files": 57
               },
               {
                 "name": "Erwin_Salas",
@@ -2693,7 +2742,8 @@
                             "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                             "size": "18906"
                           }
-                        ]
+                        ],
+                        "total_files": 3
                       },
                       {
                         "name": "eb32057a-8609-4d33-b73d-eb2b15a8aa14_Monografa_I_-_TCS.pdf",
@@ -2709,7 +2759,8 @@
                         "mimeType": "application/pdf",
                         "size": "1777852"
                       }
-                    ]
+                    ],
+                    "total_files": 5
                   },
                   {
                     "name": "Resúmenes_Bertalanffy",
@@ -2735,7 +2786,8 @@
                             "mimeType": "application/pdf",
                             "size": "93043"
                           }
-                        ]
+                        ],
+                        "total_files": 2
                       },
                       {
                         "name": "Cap._4",
@@ -2756,7 +2808,8 @@
                             "mimeType": "application/pdf",
                             "size": "70808"
                           }
-                        ]
+                        ],
+                        "total_files": 2
                       },
                       {
                         "name": "Cap._8",
@@ -2777,7 +2830,8 @@
                             "mimeType": "application/pdf",
                             "size": "65717"
                           }
-                        ]
+                        ],
+                        "total_files": 2
                       },
                       {
                         "name": "Cap._6",
@@ -2798,7 +2852,8 @@
                             "mimeType": "application/pdf",
                             "size": "88882"
                           }
-                        ]
+                        ],
+                        "total_files": 2
                       },
                       {
                         "name": "Cap._3",
@@ -2819,7 +2874,8 @@
                             "mimeType": "application/pdf",
                             "size": "164130"
                           }
-                        ]
+                        ],
+                        "total_files": 2
                       },
                       {
                         "name": "Cap._1",
@@ -2833,7 +2889,8 @@
                             "mimeType": "application/pdf",
                             "size": "63027604"
                           }
-                        ]
+                        ],
+                        "total_files": 1
                       },
                       {
                         "name": "Cap._7",
@@ -2847,7 +2904,8 @@
                             "mimeType": "application/pdf",
                             "size": "1016877"
                           }
-                        ]
+                        ],
+                        "total_files": 1
                       },
                       {
                         "name": "Cap._2",
@@ -2868,7 +2926,8 @@
                             "mimeType": "application/pdf",
                             "size": "434600"
                           }
-                        ]
+                        ],
+                        "total_files": 2
                       },
                       {
                         "name": "Cap._10",
@@ -2889,7 +2948,8 @@
                             "mimeType": "application/pdf",
                             "size": "78139"
                           }
-                        ]
+                        ],
+                        "total_files": 2
                       },
                       {
                         "name": "Cap._9",
@@ -2910,9 +2970,11 @@
                             "mimeType": "application/pdf",
                             "size": "145942"
                           }
-                        ]
+                        ],
+                        "total_files": 2
                       }
-                    ]
+                    ],
+                    "total_files": 18
                   },
                   {
                     "name": "TL",
@@ -3073,7 +3135,8 @@
                         "mimeType": "image/jpeg",
                         "size": "240654"
                       }
-                    ]
+                    ],
+                    "total_files": 22
                   },
                   {
                     "name": "EF",
@@ -3113,7 +3176,8 @@
                             "mimeType": "image/jpeg",
                             "size": "174233"
                           }
-                        ]
+                        ],
+                        "total_files": 4
                       },
                       {
                         "name": "Test_Final_TCS.pdf",
@@ -3122,7 +3186,8 @@
                         "mimeType": "application/pdf",
                         "size": "56040"
                       }
-                    ]
+                    ],
+                    "total_files": 5
                   },
                   {
                     "name": "EP",
@@ -3178,7 +3243,8 @@
                         "mimeType": "application/pdf",
                         "size": "65314"
                       }
-                    ]
+                    ],
+                    "total_files": 7
                   },
                   {
                     "name": "TCS_Bertalanffy.pdf",
@@ -3215,7 +3281,8 @@
                     "mimeType": "application/pdf",
                     "size": "286685"
                   }
-                ]
+                ],
+                "total_files": 62
               },
               {
                 "name": "Libros",
@@ -3243,7 +3310,8 @@
                     "mimeType": "application/pdf",
                     "size": "19633389"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "Rocío_Salas",
@@ -3269,7 +3337,8 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                         "size": "14164"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "SOLUCIÓN_PARCIAL_23-2_Y_PC2_24-1.docx",
@@ -3332,7 +3401,8 @@
                         "mimeType": "application/pdf",
                         "size": "92734"
                       }
-                    ]
+                    ],
+                    "total_files": 7
                   },
                   {
                     "name": "EF",
@@ -3365,9 +3435,11 @@
                             "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                             "size": "15272"
                           }
-                        ]
+                        ],
+                        "total_files": 2
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "PC2",
@@ -3388,11 +3460,14 @@
                         "mimeType": "image/jpeg",
                         "size": "45226"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   }
-                ]
+                ],
+                "total_files": 15
               }
-            ]
+            ],
+            "total_files": 168
           },
           {
             "name": "Psicología_sistémica_-_SI201",
@@ -3421,7 +3496,8 @@
                             "mimeType": "image/jpeg",
                             "size": "78373"
                           }
-                        ]
+                        ],
+                        "total_files": 1
                       },
                       {
                         "name": "ES_23-1_U.png",
@@ -3444,7 +3520,8 @@
                         "mimeType": "application/pdf",
                         "size": "689380"
                       }
-                    ]
+                    ],
+                    "total_files": 4
                   },
                   {
                     "name": "EF",
@@ -3463,7 +3540,8 @@
                             "mimeType": "application/pdf",
                             "size": "314786"
                           }
-                        ]
+                        ],
+                        "total_files": 1
                       },
                       {
                         "name": "EF_22-2_U",
@@ -3477,7 +3555,8 @@
                             "mimeType": "application/pdf",
                             "size": "354532"
                           }
-                        ]
+                        ],
+                        "total_files": 1
                       },
                       {
                         "name": "SI201_EF_20-1.pdf",
@@ -3528,7 +3607,8 @@
                         "mimeType": "application/pdf",
                         "size": "586413"
                       }
-                    ]
+                    ],
+                    "total_files": 9
                   },
                   {
                     "name": "EP",
@@ -3547,7 +3627,8 @@
                             "mimeType": "image/jpeg",
                             "size": "68806"
                           }
-                        ]
+                        ],
+                        "total_files": 1
                       },
                       {
                         "name": "EXAMEN_PARCIAL_2023-I_U.pdf",
@@ -3591,7 +3672,8 @@
                         "mimeType": "application/pdf",
                         "size": "377275"
                       }
-                    ]
+                    ],
+                    "total_files": 7
                   },
                   {
                     "name": "PE",
@@ -3612,9 +3694,11 @@
                         "mimeType": "application/pdf",
                         "size": "157137"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   }
-                ]
+                ],
+                "total_files": 22
               },
               {
                 "name": "Ocrospoma",
@@ -3654,7 +3738,8 @@
                         "mimeType": "application/pdf",
                         "size": "172726"
                       }
-                    ]
+                    ],
+                    "total_files": 4
                   },
                   {
                     "name": "EF",
@@ -3703,7 +3788,8 @@
                         "mimeType": "application/pdf",
                         "size": "183760"
                       }
-                    ]
+                    ],
+                    "total_files": 6
                   },
                   {
                     "name": "EP",
@@ -3759,7 +3845,8 @@
                         "mimeType": "application/pdf",
                         "size": "214547"
                       }
-                    ]
+                    ],
+                    "total_files": 7
                   },
                   {
                     "name": "PC3",
@@ -3780,7 +3867,8 @@
                         "mimeType": "application/pdf",
                         "size": "231086"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "PC1",
@@ -3815,9 +3903,11 @@
                         "mimeType": "application/pdf",
                         "size": "203486"
                       }
-                    ]
+                    ],
+                    "total_files": 4
                   }
-                ]
+                ],
+                "total_files": 23
               },
               {
                 "name": "Recursos_Neyra",
@@ -3836,7 +3926,8 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                         "size": "8713159"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Trabajo",
@@ -3857,7 +3948,8 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                         "size": "24128"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "CLASE_11.pptx",
@@ -3957,7 +4049,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "90798"
                   }
-                ]
+                ],
+                "total_files": 17
               },
               {
                 "name": "Lecturas",
@@ -3971,11 +4064,14 @@
                     "mimeType": "application/pdf",
                     "size": "242506"
                   }
-                ]
+                ],
+                "total_files": 1
               }
-            ]
+            ],
+            "total_files": 63
           }
-        ]
+        ],
+        "total_files": 471
       },
       {
         "name": "Cursos_PIT/OTI",
@@ -3999,7 +4095,8 @@
                     "mimeType": "application/pdf",
                     "size": "1288486"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PIT700_Power_Automate",
@@ -4013,7 +4110,8 @@
                     "mimeType": "application/pdf",
                     "size": "2118819"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PIT699_Power_Apps",
@@ -4032,7 +4130,8 @@
                         "mimeType": "application/pdf",
                         "size": "11700939"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_1",
@@ -4046,7 +4145,8 @@
                         "mimeType": "application/pdf",
                         "size": "9415566"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Silabo_PIT699_Power_Apps.pdf",
@@ -4055,7 +4155,8 @@
                     "mimeType": "application/pdf",
                     "size": "1705585"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "PIT686_Git_y_GitHub:_Control_de_Versiones_Software",
@@ -4069,7 +4170,8 @@
                     "mimeType": "application/pdf",
                     "size": "2855153"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PIT684_Gestión_Financiera_con_Excel",
@@ -4083,7 +4185,8 @@
                     "mimeType": "application/pdf",
                     "size": "4039245"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PIT679_Fundamentos_de_Oracle",
@@ -4114,7 +4217,8 @@
                             "mimeType": "application/x-compressed",
                             "size": "7058"
                           }
-                        ]
+                        ],
+                        "total_files": 2
                       },
                       {
                         "name": "Tema_2:_Organización_por_schemas",
@@ -4128,9 +4232,11 @@
                             "mimeType": "application/pdf",
                             "size": "439688"
                           }
-                        ]
+                        ],
+                        "total_files": 1
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "Sesión_1",
@@ -4149,7 +4255,8 @@
                             "mimeType": "application/pdf",
                             "size": "491858"
                           }
-                        ]
+                        ],
+                        "total_files": 1
                       },
                       {
                         "name": "Tema_0:_Despliegue_Maquina_Virtual",
@@ -4177,9 +4284,11 @@
                             "mimeType": "application/pdf",
                             "size": "171688"
                           }
-                        ]
+                        ],
+                        "total_files": 3
                       }
-                    ]
+                    ],
+                    "total_files": 4
                   },
                   {
                     "name": "Silabo_PIT679_Fundamentos_de_Oracle.pdf",
@@ -4188,7 +4297,8 @@
                     "mimeType": "application/pdf",
                     "size": "2189990"
                   }
-                ]
+                ],
+                "total_files": 8
               },
               {
                 "name": "PIT677_Fundamentos_de_Linux",
@@ -4199,7 +4309,8 @@
                     "name": "Sesión_2",
                     "type": "folder",
                     "id": "1EJRaulOqlHHZlh7JSaZHHxNPK7c9k-y5",
-                    "children": []
+                    "children": [],
+                    "total_files": 0
                   },
                   {
                     "name": "Sesión_1",
@@ -4213,7 +4324,8 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                         "size": "1367023"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Silabo_PIT677_Fundamentos_de_Linux.pdf",
@@ -4222,7 +4334,8 @@
                     "mimeType": "application/pdf",
                     "size": "3377190"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "PIT658_Finanzas:_Principios_y_Tendencias_para_la_Toma_de_Decisiones_Tecnológicas",
@@ -4241,7 +4354,8 @@
                         "mimeType": "application/pdf",
                         "size": "4430559"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Silabo_PIT658_Finanzas.pdf",
@@ -4250,7 +4364,8 @@
                     "mimeType": "application/pdf",
                     "size": "1839591"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "PIT657_Excel_con_Macros",
@@ -4297,7 +4412,8 @@
                         "mimeType": "text/plain",
                         "size": "588"
                       }
-                    ]
+                    ],
+                    "total_files": 5
                   },
                   {
                     "name": "Sesión_1",
@@ -4353,7 +4469,8 @@
                         "mimeType": "text/plain",
                         "size": "4527"
                       }
-                    ]
+                    ],
+                    "total_files": 7
                   },
                   {
                     "name": "Silabo_PIT657_Excel_con_Macros.pdf",
@@ -4362,7 +4479,8 @@
                     "mimeType": "application/pdf",
                     "size": "1511363"
                   }
-                ]
+                ],
+                "total_files": 13
               },
               {
                 "name": "PIT651_Copilot_Office_365",
@@ -4381,7 +4499,8 @@
                         "mimeType": "application/pdf",
                         "size": "13504153"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_2",
@@ -4416,7 +4535,8 @@
                         "mimeType": "application/pdf",
                         "size": "14040212"
                       }
-                    ]
+                    ],
+                    "total_files": 4
                   },
                   {
                     "name": "Sesión_1",
@@ -4430,7 +4550,8 @@
                         "mimeType": "application/pdf",
                         "size": "13067554"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Silabo_PIT651_Copilot_Office_365",
@@ -4439,7 +4560,8 @@
                     "mimeType": "application/pdf",
                     "size": "1707743"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "PIT648_Ciencia_de_Datos_2:_Big_Data",
@@ -4453,7 +4575,8 @@
                     "mimeType": "application/pdf",
                     "size": "1563761"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PIT653_Desarrollo_de_Aplicaciones_con_Inteligencia_Artificial_Gemini",
@@ -4472,7 +4595,8 @@
                         "mimeType": "application/pdf",
                         "size": "216008"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_3",
@@ -4486,7 +4610,8 @@
                         "mimeType": "application/pdf",
                         "size": "142260"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_2",
@@ -4507,7 +4632,8 @@
                         "mimeType": "application/pdf",
                         "size": "108974"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "Sesión_1",
@@ -4528,7 +4654,8 @@
                         "mimeType": "application/pdf",
                         "size": "1409290"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "Silabo_PIT653_Desarrollo_de_Aplicaciones_con_Inteligencia_Artificial_Gemini.pdf",
@@ -4537,7 +4664,8 @@
                     "mimeType": "application/pdf",
                     "size": "1697694"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "PIT647_Ciencia_de_Datos_1:_Exploratory_Data_Analysis",
@@ -4556,7 +4684,8 @@
                         "mimeType": "application/pdf",
                         "size": "478262"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_5",
@@ -4570,7 +4699,8 @@
                         "mimeType": "application/pdf",
                         "size": "912430"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_4",
@@ -4584,7 +4714,8 @@
                         "mimeType": "application/pdf",
                         "size": "6065388"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_3",
@@ -4598,7 +4729,8 @@
                         "mimeType": "application/pdf",
                         "size": "5338081"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_2",
@@ -4619,7 +4751,8 @@
                         "mimeType": "text/csv",
                         "size": "28629"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "Sesión_1",
@@ -4633,7 +4766,8 @@
                         "mimeType": "application/pdf",
                         "size": "4095397"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Silabo_PIT647_Ciencia_de_Datos_1.pdf",
@@ -4642,7 +4776,8 @@
                     "mimeType": "application/pdf",
                     "size": "2154274"
                   }
-                ]
+                ],
+                "total_files": 8
               },
               {
                 "name": "PIT638_CANVA:_Diseño_Visual_Creativo",
@@ -4661,7 +4796,8 @@
                         "mimeType": "application/pdf",
                         "size": "166507"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_4",
@@ -4675,7 +4811,8 @@
                         "mimeType": "application/pdf",
                         "size": "273525"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_3",
@@ -4689,7 +4826,8 @@
                         "mimeType": "application/pdf",
                         "size": "260144"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_2",
@@ -4703,7 +4841,8 @@
                         "mimeType": "application/pdf",
                         "size": "284017"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_1",
@@ -4717,7 +4856,8 @@
                         "mimeType": "application/pdf",
                         "size": "166822"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Silabo_PIT638_CANVA.pdf",
@@ -4726,9 +4866,11 @@
                     "mimeType": "application/pdf",
                     "size": "1667838"
                   }
-                ]
+                ],
+                "total_files": 6
               }
-            ]
+            ],
+            "total_files": 61
           },
           {
             "name": "PIT_2026_9°_Edición",
@@ -4934,7 +5076,8 @@
                         "mimeType": "application/pdf",
                         "size": "1895935"
                       }
-                    ]
+                    ],
+                    "total_files": 26
                   },
                   {
                     "name": "Sesión_6",
@@ -4969,7 +5112,8 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                         "size": "51972"
                       }
-                    ]
+                    ],
+                    "total_files": 4
                   },
                   {
                     "name": "Sesión_5",
@@ -5011,7 +5155,8 @@
                         "mimeType": "application/x-zip-compressed",
                         "size": "1804897"
                       }
-                    ]
+                    ],
+                    "total_files": 5
                   },
                   {
                     "name": "Sesión_4",
@@ -5039,7 +5184,8 @@
                         "mimeType": "application/x-zip-compressed",
                         "size": "800957"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "Sesión_3",
@@ -5067,7 +5213,8 @@
                         "mimeType": "application/x-zip-compressed",
                         "size": "799291"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "Sesión_1",
@@ -5088,7 +5235,8 @@
                         "mimeType": "application/x-zip-compressed",
                         "size": "795874"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "Sesión_2",
@@ -5116,7 +5264,8 @@
                         "mimeType": "application/x-zip-compressed",
                         "size": "798138"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "Silabo_PIT605_LaTex.pdf",
@@ -5125,7 +5274,8 @@
                     "mimeType": "application/pdf",
                     "size": "3474025"
                   }
-                ]
+                ],
+                "total_files": 48
               },
               {
                 "name": "Agradecimiento.txt",
@@ -5158,7 +5308,8 @@
                         "mimeType": "application/pdf",
                         "size": "216008"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_3",
@@ -5172,7 +5323,8 @@
                         "mimeType": "application/pdf",
                         "size": "142260"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_2",
@@ -5186,7 +5338,8 @@
                         "mimeType": "application/pdf",
                         "size": "108974"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_1",
@@ -5207,9 +5360,11 @@
                         "mimeType": "application/pdf",
                         "size": "229050"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "PIT621_Programación_en_PYTHON_Intermedio",
@@ -5235,7 +5390,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "23019"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_4",
@@ -5249,7 +5405,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "37727"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_3",
@@ -5263,7 +5420,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "34387"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_2",
@@ -5277,7 +5435,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "36710"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_1",
@@ -5291,9 +5450,11 @@
                         "mimeType": "application/octet-stream",
                         "size": "90692"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "PIT620_Programación_en_PYTHON_Básico",
@@ -5319,7 +5480,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "42298"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_5",
@@ -5333,7 +5495,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "107634"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_4",
@@ -5347,7 +5510,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "125787"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_3",
@@ -5361,7 +5525,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "43343"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_2",
@@ -5382,7 +5547,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "100289"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "Sesión_1",
@@ -5410,9 +5576,11 @@
                         "mimeType": "application/octet-stream",
                         "size": "5858"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   }
-                ]
+                ],
+                "total_files": 10
               },
               {
                 "name": "PIT569_Fundamentos_de_C++",
@@ -5431,7 +5599,8 @@
                         "mimeType": "application/pdf",
                         "size": "680489"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_5",
@@ -5445,7 +5614,8 @@
                         "mimeType": "application/pdf",
                         "size": "549554"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_4",
@@ -5459,7 +5629,8 @@
                         "mimeType": "application/pdf",
                         "size": "915567"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_3",
@@ -5473,7 +5644,8 @@
                         "mimeType": "application/pdf",
                         "size": "705864"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_2",
@@ -5487,7 +5659,8 @@
                         "mimeType": "application/pdf",
                         "size": "818029"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_1",
@@ -5515,7 +5688,8 @@
                         "mimeType": "application/pdf",
                         "size": "260998"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "Links_del_taller_de_Fundamentos_de_C++.txt",
@@ -5524,7 +5698,8 @@
                     "mimeType": "text/plain",
                     "size": "528"
                   }
-                ]
+                ],
+                "total_files": 9
               },
               {
                 "name": "PIT563_Diseño_Gráfico_con_Inteligencia_Artificial",
@@ -5543,7 +5718,8 @@
                         "mimeType": "application/pdf",
                         "size": "560752"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_2",
@@ -5564,7 +5740,8 @@
                         "mimeType": "application/pdf",
                         "size": "886577"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "Sesión_1",
@@ -5578,7 +5755,8 @@
                         "mimeType": "application/pdf",
                         "size": "547369"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Links_del_taller_de_Diseño_Grafico_con_IA.txt",
@@ -5587,7 +5765,8 @@
                     "mimeType": "text/plain",
                     "size": "810"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "PIT548_CANVA:Diseño_Visual_Creativo",
@@ -5606,7 +5785,8 @@
                         "mimeType": "application/pdf",
                         "size": "274395"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_4",
@@ -5620,7 +5800,8 @@
                         "mimeType": "application/pdf",
                         "size": "273525"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Sesión_3",
@@ -5641,7 +5822,8 @@
                         "mimeType": "application/pdf",
                         "size": "107244"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "Sesión_2",
@@ -5662,7 +5844,8 @@
                         "mimeType": "application/pdf",
                         "size": "103043"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "Sesión_1",
@@ -5683,7 +5866,8 @@
                         "mimeType": "application/pdf",
                         "size": "100665"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "Links_del_taller_de_CANVA.txt",
@@ -5692,9 +5876,11 @@
                     "mimeType": "text/plain",
                     "size": "797"
                   }
-                ]
+                ],
+                "total_files": 9
               }
-            ]
+            ],
+            "total_files": 94
           },
           {
             "name": "OTI25_Office_e_Introducción_a_la_programación_para_Ingresantes",
@@ -5734,7 +5920,8 @@
                     "mimeType": "application/pdf",
                     "size": "11572327"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Sesión_4",
@@ -5769,7 +5956,8 @@
                     "mimeType": "application/octet-stream",
                     "size": "5399"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "Sesión_3",
@@ -5783,7 +5971,8 @@
                     "mimeType": "application/x-zip-compressed",
                     "size": "1082980"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "Sesión_2",
@@ -5804,7 +5993,8 @@
                     "mimeType": "application/x-zip-compressed",
                     "size": "366336"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Sesión_1",
@@ -5832,11 +6022,14 @@
                     "mimeType": "application/x-zip-compressed",
                     "size": "103936"
                   }
-                ]
+                ],
+                "total_files": 3
               }
-            ]
+            ],
+            "total_files": 14
           }
-        ]
+        ],
+        "total_files": 169
       },
       {
         "name": "MALLAS_CURRICULARES",
@@ -5864,7 +6057,8 @@
             "mimeType": "image/jpeg",
             "size": "130033"
           }
-        ]
+        ],
+        "total_files": 2
       },
       {
         "name": "Cuadricula_de_examen.pdf",
@@ -5885,7 +6079,8 @@
             "mimeType": "application/pdf",
             "size": "12757800"
           }
-        ]
+        ],
+        "total_files": 1
       },
       {
         "name": "MIT_Integration_Bee_-_Integrales_+_Respuestas",
@@ -5925,7 +6120,8 @@
                 "mimeType": "application/pdf",
                 "size": "90306"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "Cuartos_de_Final",
@@ -5960,7 +6156,8 @@
                 "mimeType": "application/pdf",
                 "size": "244086"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "Clasificatorias",
@@ -5995,7 +6192,8 @@
                 "mimeType": "application/pdf",
                 "size": "120370"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "Semifinales",
@@ -6030,9 +6228,11 @@
                 "mimeType": "application/pdf",
                 "size": "132312"
               }
-            ]
+            ],
+            "total_files": 4
           }
-        ]
+        ],
+        "total_files": 16
       },
       {
         "name": "134_LIBROS_-_MIR",
@@ -6739,8 +6939,10 @@
             "mimeType": "application/pdf",
             "size": "16078761"
           }
-        ]
+        ],
+        "total_files": 100
       }
-    ]
+    ],
+    "total_files": 761
   }
 }

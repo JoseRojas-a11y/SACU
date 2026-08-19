@@ -62,7 +62,8 @@
             "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
             "size": "5657235"
           }
-        ]
+        ],
+        "total_files": 7
       },
       {
         "name": "1.Bilma",
@@ -121,7 +122,8 @@
                     "mimeType": "image/jpeg",
                     "size": "211042"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "Sustitutorio",
@@ -149,7 +151,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "32379"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "Parcial",
@@ -268,7 +271,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "27696"
                   }
-                ]
+                ],
+                "total_files": 16
               },
               {
                 "name": "Examenes_21-1",
@@ -310,9 +314,11 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "22371"
                   }
-                ]
+                ],
+                "total_files": 5
               }
-            ]
+            ],
+            "total_files": 30
           },
           {
             "name": "Videos-Petroleo-Carbon..docx",
@@ -335,7 +341,8 @@
             "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
             "size": "23151"
           }
-        ]
+        ],
+        "total_files": 33
       },
       {
         "name": "Libros",
@@ -627,7 +634,8 @@
                 "mimeType": "application/pdf",
                 "size": "6691552"
               }
-            ]
+            ],
+            "total_files": 40
           },
           {
             "name": "Metodos_de_la_industria.pdf",
@@ -643,7 +651,8 @@
             "mimeType": "application/pdf",
             "size": "86254848"
           }
-        ]
+        ],
+        "total_files": 42
       },
       {
         "name": "PLANCHITAS",
@@ -654,13 +663,15 @@
             "name": "SOLUCIONARIO_ALUMNO",
             "type": "folder",
             "id": "10sFeFO-sBCDLIef94i0HWhR52sE4lxo2",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "SOLUCIONARIO_ORCE",
             "type": "folder",
             "id": "1SZG2Fw-OHSDIBHxTG6dK8LnLiXUdxnpJ",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "Parcial_19-2_2.jpg",
@@ -690,7 +701,8 @@
             "mimeType": "image/jpeg",
             "size": "98306"
           }
-        ]
+        ],
+        "total_files": 4
       },
       {
         "name": "sílabo_TP_223.doc",
@@ -699,6 +711,7 @@
         "mimeType": "application/msword",
         "size": "175616"
       }
-    ]
+    ],
+    "total_files": 87
   }
 }

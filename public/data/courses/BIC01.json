@@ -86,9 +86,11 @@
                     "mimeType": "application/pdf",
                     "size": "1149424"
                   }
-                ]
+                ],
+                "total_files": 7
               }
-            ]
+            ],
+            "total_files": 8
           },
           {
             "name": "Janjachi",
@@ -135,7 +137,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "17261"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "Libro_-_Fundamentos_de_programación_-_Luis_Joyanes_Aguilar.pdf",
@@ -296,7 +299,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "1569386"
                   }
-                ]
+                ],
+                "total_files": 21
               },
               {
                 "name": "Planchas",
@@ -322,7 +326,8 @@
                         "mimeType": "application/pdf",
                         "size": "198119"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "PC4",
@@ -336,7 +341,8 @@
                         "mimeType": "application/pdf",
                         "size": "353247"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "PC3",
@@ -357,7 +363,8 @@
                         "mimeType": "application/pdf",
                         "size": "110382"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "PC2",
@@ -371,7 +378,8 @@
                         "mimeType": "application/pdf",
                         "size": "182125"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "PC1",
@@ -385,11 +393,14 @@
                         "mimeType": "application/pdf",
                         "size": "472662"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   }
-                ]
+                ],
+                "total_files": 7
               }
-            ]
+            ],
+            "total_files": 34
           },
           {
             "name": "Ulloa",
@@ -408,7 +419,8 @@
                     "mimeType": "application/pdf",
                     "size": "66977"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC1",
@@ -422,9 +434,11 @@
                     "mimeType": "application/pdf",
                     "size": "212929"
                   }
-                ]
+                ],
+                "total_files": 1
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "Navarro",
@@ -457,7 +471,8 @@
                     "mimeType": "application/pdf",
                     "size": "172780"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "Teoría",
@@ -569,7 +584,8 @@
                     "mimeType": "application/pdf",
                     "size": "1023853"
                   }
-                ]
+                ],
+                "total_files": 15
               },
               {
                 "name": "Planchas",
@@ -595,7 +611,8 @@
                         "mimeType": "text/plain",
                         "size": "3405"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "PC3",
@@ -609,7 +626,8 @@
                         "mimeType": "image/jpeg",
                         "size": "3523267"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "PC2",
@@ -630,7 +648,8 @@
                         "mimeType": "image/jpeg",
                         "size": "3671733"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "PC1",
@@ -644,11 +663,14 @@
                         "mimeType": "image/jpeg",
                         "size": "117895"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   }
-                ]
+                ],
+                "total_files": 6
               }
-            ]
+            ],
+            "total_files": 24
           },
           {
             "name": "Huarote",
@@ -672,7 +694,8 @@
                         "mimeType": "application/pdf",
                         "size": "366531"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "PE",
@@ -686,7 +709,8 @@
                         "mimeType": "application/pdf",
                         "size": "224949"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "PC1",
@@ -700,9 +724,11 @@
                         "mimeType": "application/pdf",
                         "size": "105819"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "Teoría",
@@ -800,9 +826,11 @@
                     "mimeType": "application/pdf",
                     "size": "1757876"
                   }
-                ]
+                ],
+                "total_files": 13
               }
-            ]
+            ],
+            "total_files": 16
           },
           {
             "name": "Cossa",
@@ -821,7 +849,8 @@
                     "mimeType": "application/pdf",
                     "size": "837775"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC1",
@@ -835,7 +864,8 @@
                     "mimeType": "image/jpeg",
                     "size": "322866"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "Clases",
@@ -940,9 +970,11 @@
                     "mimeType": "application/pdf",
                     "size": "3929753"
                   }
-                ]
+                ],
+                "total_files": 14
               }
-            ]
+            ],
+            "total_files": 16
           },
           {
             "name": "Coronel",
@@ -968,7 +1000,8 @@
                     "mimeType": "application/pdf",
                     "size": "1754013"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "PC3",
@@ -989,7 +1022,8 @@
                     "mimeType": "application/pdf",
                     "size": "171317"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "PC2",
@@ -1010,7 +1044,8 @@
                     "mimeType": "application/pdf",
                     "size": "303959"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "PPT's",
@@ -1113,9 +1148,11 @@
                         "mimeType": "application/pdf",
                         "size": "557847"
                       }
-                    ]
+                    ],
+                    "total_files": 13
                   }
-                ]
+                ],
+                "total_files": 13
               },
               {
                 "name": "PC1",
@@ -1136,9 +1173,11 @@
                     "mimeType": "application/pdf",
                     "size": "161887"
                   }
-                ]
+                ],
+                "total_files": 2
               }
-            ]
+            ],
+            "total_files": 21
           },
           {
             "name": "Aníval_Torre",
@@ -1157,7 +1196,8 @@
                     "mimeType": "application/pdf",
                     "size": "177405"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC3",
@@ -1192,7 +1232,8 @@
                     "mimeType": "application/pdf",
                     "size": "205427"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "PC2",
@@ -1227,7 +1268,8 @@
                     "mimeType": "application/pdf",
                     "size": "105514"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "PC1",
@@ -1248,7 +1290,8 @@
                     "mimeType": "application/pdf",
                     "size": "126924"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Apuntes_de_clases_iniciales_(teóricas)",
@@ -1283,7 +1326,8 @@
                     "mimeType": "text/plain",
                     "size": "840"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "Diapositivas_(25-1)",
@@ -1388,11 +1432,14 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "10033467"
                   }
-                ]
+                ],
+                "total_files": 14
               }
-            ]
+            ],
+            "total_files": 29
           }
-        ]
+        ],
+        "total_files": 150
       },
       {
         "name": "Material_obsoleto_(no_es_necesaria_su_revisión)",
@@ -1537,7 +1584,8 @@
                 "mimeType": "image/jpeg",
                 "size": "64958"
               }
-            ]
+            ],
+            "total_files": 14
           },
           {
             "name": "Ejercicios_de_Acosta",
@@ -1591,7 +1639,8 @@
                     "mimeType": "application/msword",
                     "size": "28160"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "18-2",
@@ -1612,9 +1661,11 @@
                     "mimeType": "application/msword",
                     "size": "38400"
                   }
-                ]
+                ],
+                "total_files": 2
               }
-            ]
+            ],
+            "total_files": 8
           },
           {
             "name": "practicas_19-3",
@@ -1649,7 +1700,8 @@
                 "mimeType": "image/jpeg",
                 "size": "92450"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "practicas_18-1",
@@ -1726,7 +1778,8 @@
                 "mimeType": "image/jpeg",
                 "size": "35684"
               }
-            ]
+            ],
+            "total_files": 10
           },
           {
             "name": "practicas_19-1",
@@ -1761,9 +1814,11 @@
                 "mimeType": "image/jpeg",
                 "size": "42997"
               }
-            ]
+            ],
+            "total_files": 4
           }
-        ]
+        ],
+        "total_files": 45
       },
       {
         "name": "Libros",
@@ -1777,7 +1832,8 @@
             "mimeType": "application/pdf",
             "size": "41985275"
           }
-        ]
+        ],
+        "total_files": 1
       },
       {
         "name": "Planchas_(EP,_EF_y_ES)",
@@ -1831,7 +1887,8 @@
                 "mimeType": "application/pdf",
                 "size": "160631"
               }
-            ]
+            ],
+            "total_files": 6
           },
           {
             "name": "EF",
@@ -1901,7 +1958,8 @@
                 "mimeType": "application/pdf",
                 "size": "214444"
               }
-            ]
+            ],
+            "total_files": 9
           },
           {
             "name": "EP",
@@ -1957,10 +2015,13 @@
                 "mimeType": "application/pdf",
                 "size": "188371"
               }
-            ]
+            ],
+            "total_files": 7
           }
-        ]
+        ],
+        "total_files": 22
       }
-    ]
+    ],
+    "total_files": 219
   }
 }

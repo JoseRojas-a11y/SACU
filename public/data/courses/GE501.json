@@ -12,7 +12,8 @@
         "name": "RIZABAL",
         "type": "folder",
         "id": "1kl_-PM0PGRu0ArZWF-rZ7QfAhzKDolOC",
-        "children": []
+        "children": [],
+        "total_files": 0
       },
       {
         "name": "DORIS",
@@ -50,7 +51,8 @@
                     "mimeType": "application/pdf",
                     "size": "396211"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "SEMANA_13",
@@ -71,7 +73,8 @@
                     "mimeType": "application/pdf",
                     "size": "2330498"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "SEMANA_12",
@@ -106,7 +109,8 @@
                     "mimeType": "application/pdf",
                     "size": "1915978"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "SEMANA_11",
@@ -155,7 +159,8 @@
                     "mimeType": "application/pdf",
                     "size": "907149"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "SEMANA_10",
@@ -218,7 +223,8 @@
                     "mimeType": "application/pdf",
                     "size": "684700"
                   }
-                ]
+                ],
+                "total_files": 8
               },
               {
                 "name": "SEMANA_9",
@@ -260,7 +266,8 @@
                     "mimeType": "application/pdf",
                     "size": "1634409"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "SEMANA_4",
@@ -295,7 +302,8 @@
                     "mimeType": "application/pdf",
                     "size": "626292"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "SEMANA_6",
@@ -323,7 +331,8 @@
                     "mimeType": "application/pdf",
                     "size": "185467"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "SEMANA_7",
@@ -351,7 +360,8 @@
                     "mimeType": "application/pdf",
                     "size": "513483"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "SEMANA_5",
@@ -386,7 +396,8 @@
                     "mimeType": "application/pdf",
                     "size": "8246169"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "SEMANA_2",
@@ -435,7 +446,8 @@
                     "mimeType": "application/pdf",
                     "size": "242618"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "SEMANA_3",
@@ -477,7 +489,8 @@
                     "mimeType": "application/pdf",
                     "size": "17163546"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "SEMANA_1",
@@ -505,9 +518,11 @@
                     "mimeType": "application/pdf",
                     "size": "3587077"
                   }
-                ]
+                ],
+                "total_files": 3
               }
-            ]
+            ],
+            "total_files": 56
           },
           {
             "name": "Planchas",
@@ -533,7 +548,8 @@
                     "mimeType": "application/pdf",
                     "size": "144102"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "EF",
@@ -554,7 +570,8 @@
                     "mimeType": "application/pdf",
                     "size": "139196"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "EP",
@@ -575,7 +592,8 @@
                     "mimeType": "application/pdf",
                     "size": "441839"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "PC4",
@@ -589,7 +607,8 @@
                     "mimeType": "application/pdf",
                     "size": "658886"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC3",
@@ -603,7 +622,8 @@
                     "mimeType": "application/pdf",
                     "size": "265767"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC2",
@@ -617,7 +637,8 @@
                     "mimeType": "application/pdf",
                     "size": "257025"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC1",
@@ -631,12 +652,16 @@
                     "mimeType": "application/pdf",
                     "size": "609381"
                   }
-                ]
+                ],
+                "total_files": 1
               }
-            ]
+            ],
+            "total_files": 10
           }
-        ]
+        ],
+        "total_files": 66
       }
-    ]
+    ],
+    "total_files": 66
   }
 }

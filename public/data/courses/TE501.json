@@ -137,7 +137,8 @@
                 "mimeType": "application/pdf",
                 "size": "3852643"
               }
-            ]
+            ],
+            "total_files": 17
           },
           {
             "name": "libro-Electronica-Teoria-de-Circuitos-y-Dispositivos-Electronicos-Boylestad.pdf",
@@ -202,7 +203,8 @@
             "mimeType": "application/pdf",
             "size": "100983971"
           }
-        ]
+        ],
+        "total_files": 26
       },
       {
         "name": "1.Benites",
@@ -247,7 +249,8 @@
                     "mimeType": "image/jpeg",
                     "size": "123587"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "3pc",
@@ -275,7 +278,8 @@
                     "mimeType": "image/jpeg",
                     "size": "56026"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "1pc",
@@ -338,7 +342,8 @@
                     "mimeType": "image/jpeg",
                     "size": "339209"
                   }
-                ]
+                ],
+                "total_files": 8
               },
               {
                 "name": "PARCIAL",
@@ -387,7 +392,8 @@
                     "mimeType": "image/jpeg",
                     "size": "145861"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "2pc",
@@ -436,7 +442,8 @@
                     "mimeType": "image/jpeg",
                     "size": "137301"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "4pc",
@@ -457,7 +464,8 @@
                     "mimeType": "image/jpeg",
                     "size": "36709"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Prueba_de_entrada",
@@ -478,7 +486,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "495670"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "FINAL",
@@ -520,7 +529,8 @@
                     "mimeType": "image/jpeg",
                     "size": "49095"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "SUSTI.docx",
@@ -550,7 +560,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "819891"
               }
-            ]
+            ],
+            "total_files": 40
           },
           {
             "name": "TEORÍA",
@@ -569,7 +580,8 @@
                     "mimeType": "application/pdf",
                     "size": "786891"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "Semana_04",
@@ -590,7 +602,8 @@
                     "mimeType": "application/pdf",
                     "size": "1466952"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Semana_03",
@@ -604,7 +617,8 @@
                     "mimeType": "application/pdf",
                     "size": "1319430"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "Semana_01",
@@ -618,7 +632,8 @@
                     "mimeType": "application/pdf",
                     "size": "2183410"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "Semana_02",
@@ -632,11 +647,14 @@
                     "mimeType": "application/pdf",
                     "size": "1535514"
                   }
-                ]
+                ],
+                "total_files": 1
               }
-            ]
+            ],
+            "total_files": 6
           }
-        ]
+        ],
+        "total_files": 46
       },
       {
         "name": "2.Tarazona",
@@ -667,7 +685,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "372771"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "parcial",
@@ -730,7 +749,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "1413417"
                   }
-                ]
+                ],
+                "total_files": 8
               },
               {
                 "name": "2pc",
@@ -786,7 +806,8 @@
                     "mimeType": "image/jpeg",
                     "size": "77106"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "Prueba_de_entrada",
@@ -800,7 +821,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "13565"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "Susti",
@@ -821,7 +843,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "491144"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "3pc",
@@ -835,7 +858,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "1135726"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "Final",
@@ -884,7 +908,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "870089"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "1pc",
@@ -919,9 +944,11 @@
                     "mimeType": "image/jpeg",
                     "size": "40718"
                   }
-                ]
+                ],
+                "total_files": 4
               }
-            ]
+            ],
+            "total_files": 31
           },
           {
             "name": "TEORÍA",
@@ -1122,7 +1149,8 @@
                     "mimeType": "application/pdf",
                     "size": "307057"
                   }
-                ]
+                ],
+                "total_files": 27
               },
               {
                 "name": "PLANCHITAS",
@@ -1183,7 +1211,8 @@
                         "mimeType": "image/jpeg",
                         "size": "77106"
                       }
-                    ]
+                    ],
+                    "total_files": 7
                   },
                   {
                     "name": "Prueba_de_entrada",
@@ -1197,7 +1226,8 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                         "size": "13565"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Final",
@@ -1246,7 +1276,8 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                         "size": "689310"
                       }
-                    ]
+                    ],
+                    "total_files": 6
                   },
                   {
                     "name": "1pc",
@@ -1281,7 +1312,8 @@
                         "mimeType": "image/jpeg",
                         "size": "41825"
                       }
-                    ]
+                    ],
+                    "total_files": 4
                   },
                   {
                     "name": "Susti",
@@ -1302,7 +1334,8 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                         "size": "483792"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "4pc",
@@ -1323,7 +1356,8 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                         "size": "372771"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "parcial",
@@ -1386,7 +1420,8 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                         "size": "583537"
                       }
-                    ]
+                    ],
+                    "total_files": 8
                   },
                   {
                     "name": "3pc",
@@ -1400,9 +1435,11 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                         "size": "1135726"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   }
-                ]
+                ],
+                "total_files": 31
               },
               {
                 "name": "Clases_en_ppt",
@@ -1444,7 +1481,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "15720323"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "Clases_en_word",
@@ -1477,7 +1515,8 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                         "size": "652752"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "clase_electri_07_12_2020.docx",
@@ -1696,11 +1735,14 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "4214424"
                   }
-                ]
+                ],
+                "total_files": 34
               }
-            ]
+            ],
+            "total_files": 97
           }
-        ]
+        ],
+        "total_files": 128
       },
       {
         "name": "PLANCHITAS",
@@ -1798,7 +1840,8 @@
             "mimeType": "image/jpeg",
             "size": "339209"
           }
-        ]
+        ],
+        "total_files": 13
       },
       {
         "name": "Silabo_Electricidad_y_Electrónica_Industrial.docx",
@@ -1821,6 +1864,7 @@
         "mimeType": "text/html",
         "size": "466"
       }
-    ]
+    ],
+    "total_files": 216
   }
 }

@@ -22,7 +22,8 @@
                 "name": "SEMANA_16",
                 "type": "folder",
                 "id": "1ZPxw-tx-msdN76gaxcMvazTL8OBGy6oR",
-                "children": []
+                "children": [],
+                "total_files": 0
               },
               {
                 "name": "SEMANA_15",
@@ -64,13 +65,15 @@
                     "mimeType": "application/pdf",
                     "size": "324872"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "SEMANA_14",
                 "type": "folder",
                 "id": "13mMrjq2G27r4p9oRulzbTDgoVlumLCOW",
-                "children": []
+                "children": [],
+                "total_files": 0
               },
               {
                 "name": "SEMANA_13",
@@ -84,7 +87,8 @@
                     "mimeType": "application/pdf",
                     "size": "411117"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "SEMANA_12",
@@ -98,7 +102,8 @@
                     "mimeType": "application/pdf",
                     "size": "829793"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "SEMANA_11",
@@ -119,7 +124,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "3188497"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "SEMANA_10",
@@ -140,7 +146,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "2357272"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "SEMANA_9",
@@ -154,7 +161,8 @@
                     "mimeType": "application/pdf",
                     "size": "1590798"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "SEMANA_7",
@@ -175,7 +183,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "1095577"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "SEMANA_6",
@@ -196,7 +205,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "601606"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "SEMANA_5",
@@ -224,7 +234,8 @@
                     "mimeType": "application/pdf",
                     "size": "737366"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "SEMANA_4",
@@ -238,7 +249,8 @@
                     "mimeType": "application/pdf",
                     "size": "618883"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "SEMANA_3",
@@ -259,7 +271,8 @@
                     "mimeType": "application/pdf",
                     "size": "1111992"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "SEMANA_2",
@@ -280,7 +293,8 @@
                     "mimeType": "application/pdf",
                     "size": "555807"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "SEMANA_1",
@@ -364,9 +378,11 @@
                     "mimeType": "application/pdf",
                     "size": "170477"
                   }
-                ]
+                ],
+                "total_files": 11
               }
-            ]
+            ],
+            "total_files": 35
           },
           {
             "name": "SEMANA_1",
@@ -548,9 +564,11 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "38159"
               }
-            ]
+            ],
+            "total_files": 25
           }
-        ]
+        ],
+        "total_files": 60
       },
       {
         "name": "PLANCHITAS",
@@ -574,7 +592,8 @@
                     "mimeType": "application/pdf",
                     "size": "267677"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "ES",
@@ -588,7 +607,8 @@
                     "mimeType": "application/pdf",
                     "size": "499896"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "EP",
@@ -602,7 +622,8 @@
                     "mimeType": "application/pdf",
                     "size": "530680"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC4",
@@ -616,7 +637,8 @@
                     "mimeType": "application/pdf",
                     "size": "289231"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PE",
@@ -630,7 +652,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "14327"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC3",
@@ -644,7 +667,8 @@
                     "mimeType": "application/pdf",
                     "size": "287606"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC2",
@@ -658,7 +682,8 @@
                     "mimeType": "application/pdf",
                     "size": "321032"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC1",
@@ -686,9 +711,11 @@
                     "mimeType": "application/pdf",
                     "size": "473049"
                   }
-                ]
+                ],
+                "total_files": 3
               }
-            ]
+            ],
+            "total_files": 10
           },
           {
             "name": "QUINTEROS_CHAVEZ,_SILVIO",
@@ -707,7 +734,8 @@
                     "mimeType": "application/pdf",
                     "size": "1918633"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "E._S",
@@ -728,7 +756,8 @@
                     "mimeType": "application/pdf",
                     "size": "71801"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "PC_2",
@@ -749,7 +778,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
                     "size": "11500"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "E._P",
@@ -805,7 +835,8 @@
                     "mimeType": "application/pdf",
                     "size": "656278"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "PC_3",
@@ -826,7 +857,8 @@
                     "mimeType": "application/pdf",
                     "size": "142313"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "PC_1",
@@ -875,7 +907,8 @@
                     "mimeType": "application/pdf",
                     "size": "1743243"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "MICRO_MACRO",
@@ -889,7 +922,8 @@
                     "mimeType": "application/pdf",
                     "size": "406683"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "E._F",
@@ -910,9 +944,11 @@
                     "mimeType": "application/pdf",
                     "size": "226648"
                   }
-                ]
+                ],
+                "total_files": 2
               }
-            ]
+            ],
+            "total_files": 23
           },
           {
             "name": "MIRANDA_TORRES,_CESAR_AURELIO",
@@ -959,7 +995,8 @@
                     "mimeType": "application/pdf",
                     "size": "369206"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "PE",
@@ -973,7 +1010,8 @@
                     "mimeType": "application/pdf",
                     "size": "96529"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC_2",
@@ -987,13 +1025,15 @@
                     "mimeType": "application/pdf",
                     "size": "111091"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "ES",
                 "type": "folder",
                 "id": "15sit7bdghjFyZ8VPnhzBokLpUNqApQXR",
-                "children": []
+                "children": [],
+                "total_files": 0
               },
               {
                 "name": "EP",
@@ -1014,7 +1054,8 @@
                     "mimeType": "application/pdf",
                     "size": "542781"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "EF",
@@ -1049,7 +1090,8 @@
                     "mimeType": "application/pdf",
                     "size": "113516"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "PC_3",
@@ -1077,7 +1119,8 @@
                     "mimeType": "image/jpeg",
                     "size": "263179"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "PC_1",
@@ -1098,9 +1141,11 @@
                     "mimeType": "application/pdf",
                     "size": "125424"
                   }
-                ]
+                ],
+                "total_files": 2
               }
-            ]
+            ],
+            "total_files": 18
           },
           {
             "name": "MONDRAGÓN_HERNÁNDEZ,_MARGARITA_DELICIA",
@@ -1126,7 +1171,8 @@
                     "mimeType": "application/pdf",
                     "size": "207519"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "ES",
@@ -1140,7 +1186,8 @@
                     "mimeType": "application/pdf",
                     "size": "563263"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "EP",
@@ -1154,7 +1201,8 @@
                     "mimeType": "application/pdf",
                     "size": "383126"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "EF",
@@ -1175,11 +1223,14 @@
                     "mimeType": "application/pdf",
                     "size": "702114"
                   }
-                ]
+                ],
+                "total_files": 2
               }
-            ]
+            ],
+            "total_files": 6
           }
-        ]
+        ],
+        "total_files": 57
       },
       {
         "name": "S_Sílabo_2025_2_BEG01_Y_FIIS_-.pdf",
@@ -1228,8 +1279,10 @@
             "mimeType": "application/pdf",
             "size": "7693785"
           }
-        ]
+        ],
+        "total_files": 5
       }
-    ]
+    ],
+    "total_files": 123
   }
 }

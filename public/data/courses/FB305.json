@@ -81,7 +81,8 @@
                 "mimeType": "application/pdf",
                 "size": "247464"
               }
-            ]
+            ],
+            "total_files": 8
           },
           {
             "name": "Prof._Yolanda",
@@ -107,7 +108,8 @@
                     "mimeType": "application/pdf",
                     "size": "106857"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "ES",
@@ -135,7 +137,8 @@
                     "mimeType": "application/pdf",
                     "size": "193147"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "EF",
@@ -184,7 +187,8 @@
                     "mimeType": "application/pdf",
                     "size": "269360"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "EP",
@@ -240,7 +244,8 @@
                     "mimeType": "application/pdf",
                     "size": "301184"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "PC4",
@@ -275,7 +280,8 @@
                     "mimeType": "application/pdf",
                     "size": "325062"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "PC3",
@@ -324,7 +330,8 @@
                     "mimeType": "image/jpeg",
                     "size": "82674"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "PC2",
@@ -373,7 +380,8 @@
                     "mimeType": "application/pdf",
                     "size": "351368"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "PC1",
@@ -415,9 +423,11 @@
                     "mimeType": "image/jpeg",
                     "size": "95834"
                   }
-                ]
+                ],
+                "total_files": 5
               }
-            ]
+            ],
+            "total_files": 39
           },
           {
             "name": "Prof._Yarko+Cutipa",
@@ -520,7 +530,8 @@
                     "mimeType": "image/jpeg",
                     "size": "67107"
                   }
-                ]
+                ],
+                "total_files": 13
               },
               {
                 "name": "PE",
@@ -576,7 +587,8 @@
                     "mimeType": "application/pdf",
                     "size": "417665"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "PC4",
@@ -737,7 +749,8 @@
                     "mimeType": "image/jpeg",
                     "size": "450108"
                   }
-                ]
+                ],
+                "total_files": 22
               },
               {
                 "name": "PC3",
@@ -898,7 +911,8 @@
                     "mimeType": "image/jpeg",
                     "size": "431163"
                   }
-                ]
+                ],
+                "total_files": 22
               },
               {
                 "name": "PC2",
@@ -1073,7 +1087,8 @@
                     "mimeType": "image/jpeg",
                     "size": "407603"
                   }
-                ]
+                ],
+                "total_files": 24
               },
               {
                 "name": "formulario.pdf",
@@ -1199,7 +1214,8 @@
                     "mimeType": "image/jpeg",
                     "size": "439223"
                   }
-                ]
+                ],
+                "total_files": 16
               },
               {
                 "name": "EF",
@@ -1360,7 +1376,8 @@
                     "mimeType": "application/pdf",
                     "size": "4362138"
                   }
-                ]
+                ],
+                "total_files": 22
               },
               {
                 "name": "EP",
@@ -1493,11 +1510,14 @@
                     "mimeType": "image/jpeg",
                     "size": "60136"
                   }
-                ]
+                ],
+                "total_files": 18
               }
-            ]
+            ],
+            "total_files": 145
           }
-        ]
+        ],
+        "total_files": 192
       },
       {
         "name": "Teoría",
@@ -1719,7 +1739,8 @@
                 "mimeType": "application/pdf",
                 "size": "794944"
               }
-            ]
+            ],
+            "total_files": 28
           },
           {
             "name": "Links_Estadística.txt",
@@ -1838,9 +1859,11 @@
                 "mimeType": "application/pdf",
                 "size": "1058448"
               }
-            ]
+            ],
+            "total_files": 14
           }
-        ]
+        ],
+        "total_files": 46
       },
       {
         "name": "Sílabo_Estadística_y_Probabilidades.pdf",
@@ -1952,8 +1975,10 @@
             "mimeType": "application/pdf",
             "size": "10490655"
           }
-        ]
+        ],
+        "total_files": 13
       }
-    ]
+    ],
+    "total_files": 254
   }
 }

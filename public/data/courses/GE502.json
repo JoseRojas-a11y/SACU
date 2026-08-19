@@ -65,7 +65,8 @@
                     "mimeType": "application/pdf",
                     "size": "8159744"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "Materiales_por_semana",
@@ -98,7 +99,8 @@
                         "mimeType": "application/vnd.ms-powerpoint",
                         "size": "467968"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "Semana_9",
@@ -112,7 +114,8 @@
                         "mimeType": "application/vnd.ms-powerpoint",
                         "size": "1032192"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Semana_6",
@@ -133,7 +136,8 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                         "size": "77583"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "Semana_5",
@@ -147,13 +151,15 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                         "size": "3296010"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Semana_8",
                     "type": "folder",
                     "id": "1Hmzyo9cWweTKg6UikzZrFHmmc7RqtioZ",
-                    "children": []
+                    "children": [],
+                    "total_files": 0
                   },
                   {
                     "name": "Semana_4",
@@ -174,7 +180,8 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                         "size": "75553"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "Semana_3",
@@ -195,7 +202,8 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                         "size": "81554"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "Semana_10",
@@ -216,7 +224,8 @@
                         "mimeType": "application/vnd.ms-powerpoint",
                         "size": "1075200"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "Semana_14",
@@ -237,7 +246,8 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                         "size": "1404938"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "Semana_16",
@@ -258,7 +268,8 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                         "size": "1019076"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "Semana_15",
@@ -279,7 +290,8 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                         "size": "58637"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "Semana_12",
@@ -293,7 +305,8 @@
                         "mimeType": "application/vnd.ms-powerpoint",
                         "size": "725504"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Semana_2",
@@ -314,7 +327,8 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                         "size": "73955"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "Semana_13",
@@ -335,7 +349,8 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                         "size": "565538"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "Semana_11",
@@ -356,7 +371,8 @@
                         "mimeType": "application/vnd.ms-powerpoint",
                         "size": "353792"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "Semana_1",
@@ -384,9 +400,11 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                         "size": "25962"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   }
-                ]
+                ],
+                "total_files": 29
               },
               {
                 "name": "PAUTAS,GE502U,_20-2,.docx",
@@ -430,7 +448,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "21869"
               }
-            ]
+            ],
+            "total_files": 41
           },
           {
             "name": "PLANCHITAS_EGUSQUIZA",
@@ -491,7 +510,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "1404938"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "PC4",
@@ -512,7 +532,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "571285"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "SUSTI",
@@ -547,7 +568,8 @@
                     "mimeType": "application/pdf",
                     "size": "766640"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "PC2",
@@ -582,7 +604,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "617389"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "FINAL",
@@ -631,7 +654,8 @@
                     "mimeType": "application/pdf",
                     "size": "957058"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "PC3",
@@ -666,7 +690,8 @@
                     "mimeType": "application/pdf",
                     "size": "669969"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "PLANCHITAS",
@@ -722,7 +747,8 @@
                     "mimeType": "application/msword",
                     "size": "80384"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "PC1",
@@ -764,7 +790,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "625777"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "PARCIAL",
@@ -820,11 +847,14 @@
                     "mimeType": "application/pdf",
                     "size": "143766"
                   }
-                ]
+                ],
+                "total_files": 7
               }
-            ]
+            ],
+            "total_files": 46
           }
-        ]
+        ],
+        "total_files": 87
       },
       {
         "name": "Lau-Lostanau",
@@ -995,7 +1025,8 @@
                     "mimeType": "application/pdf",
                     "size": "512725"
                   }
-                ]
+                ],
+                "total_files": 22
               },
               {
                 "name": "clase14-Cursogramas_de_producción.pdf",
@@ -1074,7 +1105,8 @@
                 "mimeType": "application/pdf",
                 "size": "10170256"
               }
-            ]
+            ],
+            "total_files": 33
           },
           {
             "name": "UNIVIRTUAL",
@@ -1361,7 +1393,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
                 "size": "10260"
               }
-            ]
+            ],
+            "total_files": 40
           },
           {
             "name": "PLANCHITAS_LAU-LOSTA",
@@ -1394,7 +1427,8 @@
                     "mimeType": "application/pdf",
                     "size": "46994"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "PC02",
@@ -1415,7 +1449,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "409343"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "PC03",
@@ -1450,7 +1485,8 @@
                     "mimeType": "image/jpeg",
                     "size": "74558"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "SUSTI",
@@ -1478,13 +1514,15 @@
                     "mimeType": "application/msword",
                     "size": "90112"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "PC01",
                 "type": "folder",
                 "id": "1u7sTGdoonlbqovLQcGN7UG_QLcHWbMx5",
-                "children": []
+                "children": [],
+                "total_files": 0
               },
               {
                 "name": "PARCIAL",
@@ -1533,7 +1571,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "39049"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "FINAL",
@@ -1575,12 +1614,16 @@
                     "mimeType": "application/msword",
                     "size": "52736"
                   }
-                ]
+                ],
+                "total_files": 5
               }
-            ]
+            ],
+            "total_files": 23
           }
-        ]
+        ],
+        "total_files": 96
       }
-    ]
+    ],
+    "total_files": 183
   }
 }

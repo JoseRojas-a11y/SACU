@@ -86,7 +86,8 @@
                     "mimeType": "application/pdf",
                     "size": "120345"
                   }
-                ]
+                ],
+                "total_files": 9
               },
               {
                 "name": "Formatos",
@@ -156,7 +157,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "18860"
                   }
-                ]
+                ],
+                "total_files": 9
               },
               {
                 "name": "Lenguajes_y_Programas",
@@ -271,7 +273,8 @@
                             "mimeType": "application/pdf",
                             "size": "787711"
                           }
-                        ]
+                        ],
+                        "total_files": 14
                       },
                       {
                         "name": "SQL_Server_en_General_(Coronel).pdf",
@@ -292,7 +295,8 @@
                             "mimeType": "application/vnd.google-apps.document",
                             "size": "1024"
                           }
-                        ]
+                        ],
+                        "total_files": 1
                       },
                       {
                         "name": "SQL-SERVER-IMPLEMENTACION-2001",
@@ -332,7 +336,8 @@
                                 "mimeType": "application/pdf",
                                 "size": "125731"
                               }
-                            ]
+                            ],
+                            "total_files": 4
                           },
                           {
                             "name": "Lec04",
@@ -381,7 +386,8 @@
                                 "mimeType": "application/pdf",
                                 "size": "98905"
                               }
-                            ]
+                            ],
+                            "total_files": 6
                           },
                           {
                             "name": "Lec01",
@@ -437,7 +443,8 @@
                                 "mimeType": "image/png",
                                 "size": "75789"
                               }
-                            ]
+                            ],
+                            "total_files": 7
                           },
                           {
                             "name": "Lec07",
@@ -472,7 +479,8 @@
                                 "mimeType": "image/png",
                                 "size": "71247"
                               }
-                            ]
+                            ],
+                            "total_files": 4
                           },
                           {
                             "name": "Lec09",
@@ -493,7 +501,8 @@
                                 "mimeType": "text/x-sql",
                                 "size": "1547"
                               }
-                            ]
+                            ],
+                            "total_files": 2
                           },
                           {
                             "name": "Lec08",
@@ -514,7 +523,8 @@
                                 "mimeType": "application/pdf",
                                 "size": "246357"
                               }
-                            ]
+                            ],
+                            "total_files": 2
                           },
                           {
                             "name": "img",
@@ -528,7 +538,8 @@
                                 "mimeType": "image/png",
                                 "size": "112399"
                               }
-                            ]
+                            ],
+                            "total_files": 1
                           },
                           {
                             "name": "Lec02",
@@ -556,7 +567,8 @@
                                 "mimeType": "text/x-sql",
                                 "size": "819"
                               }
-                            ]
+                            ],
+                            "total_files": 3
                           },
                           {
                             "name": "Lec05",
@@ -591,7 +603,8 @@
                                 "mimeType": "application/pdf",
                                 "size": "137915"
                               }
-                            ]
+                            ],
+                            "total_files": 4
                           },
                           {
                             "name": "Lec03",
@@ -626,7 +639,8 @@
                                 "mimeType": "application/pdf",
                                 "size": "221653"
                               }
-                            ]
+                            ],
+                            "total_files": 4
                           },
                           {
                             "name": "GRUPOS.txt",
@@ -649,7 +663,8 @@
                             "mimeType": "text/plain",
                             "size": "342"
                           }
-                        ]
+                        ],
+                        "total_files": 40
                       },
                       {
                         "name": "UNI-SQL-SERVER-IMPL-2021-10",
@@ -731,7 +746,8 @@
                                 "mimeType": "image/png",
                                 "size": "43430"
                               }
-                            ]
+                            ],
+                            "total_files": 10
                           },
                           {
                             "name": "Clase02_18OCT21",
@@ -794,7 +810,8 @@
                                 "mimeType": "application/pdf",
                                 "size": "647707"
                               }
-                            ]
+                            ],
+                            "total_files": 8
                           },
                           {
                             "name": "Clase03_20OCT21",
@@ -850,7 +867,8 @@
                                 "mimeType": "text/x-sql",
                                 "size": "2028"
                               }
-                            ]
+                            ],
+                            "total_files": 7
                           },
                           {
                             "name": "Clase04_25OCT21",
@@ -885,7 +903,8 @@
                                 "mimeType": "application/pdf",
                                 "size": "526229"
                               }
-                            ]
+                            ],
+                            "total_files": 4
                           },
                           {
                             "name": "Clase08_10NOV21",
@@ -913,7 +932,8 @@
                                 "mimeType": "application/pdf",
                                 "size": "487593"
                               }
-                            ]
+                            ],
+                            "total_files": 3
                           },
                           {
                             "name": "Clase06_03NOV21",
@@ -990,7 +1010,8 @@
                                 "mimeType": "image/png",
                                 "size": "39884"
                               }
-                            ]
+                            ],
+                            "total_files": 10
                           },
                           {
                             "name": "Clase07_08NOV21",
@@ -1053,7 +1074,8 @@
                                 "mimeType": "text/x-sql",
                                 "size": "1827"
                               }
-                            ]
+                            ],
+                            "total_files": 8
                           },
                           {
                             "name": "Clase05_27OCT21",
@@ -1151,7 +1173,8 @@
                                 "mimeType": "text/x-sql",
                                 "size": "117"
                               }
-                            ]
+                            ],
+                            "total_files": 13
                           },
                           {
                             "name": "ComandosGIT.txt",
@@ -1174,7 +1197,8 @@
                             "mimeType": "text/plain",
                             "size": "267"
                           }
-                        ]
+                        ],
+                        "total_files": 66
                       },
                       {
                         "name": "SQL-SERVER-ADM-002-master",
@@ -1256,7 +1280,8 @@
                                 "mimeType": "text/x-sql",
                                 "size": "488"
                               }
-                            ]
+                            ],
+                            "total_files": 10
                           },
                           {
                             "name": "RECURSOS",
@@ -1284,7 +1309,8 @@
                                 "mimeType": "application/pdf",
                                 "size": "2336539"
                               }
-                            ]
+                            ],
+                            "total_files": 3
                           },
                           {
                             "name": "Clase02",
@@ -1361,7 +1387,8 @@
                                 "mimeType": "application/pdf",
                                 "size": "1372022"
                               }
-                            ]
+                            ],
+                            "total_files": 10
                           },
                           {
                             "name": "Clase06",
@@ -1396,7 +1423,8 @@
                                 "mimeType": "application/pdf",
                                 "size": "1311244"
                               }
-                            ]
+                            ],
+                            "total_files": 4
                           },
                           {
                             "name": "Clase04",
@@ -1429,7 +1457,8 @@
                                     "mimeType": "text/x-sql",
                                     "size": "61"
                                   }
-                                ]
+                                ],
+                                "total_files": 3
                               },
                               {
                                 "name": "SQLAdmLabCopiaDeSeguridad.pdf",
@@ -1466,7 +1495,8 @@
                                 "mimeType": "text/x-sql",
                                 "size": "274"
                               }
-                            ]
+                            ],
+                            "total_files": 8
                           },
                           {
                             "name": "Clase08",
@@ -1505,11 +1535,14 @@
                                                     "mimeType": "application/msword",
                                                     "size": "19968"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 1
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 1
                                           }
-                                        ]
+                                        ],
+                                        "total_files": 1
                                       },
                                       {
                                         "name": "EDUTEC-REPORTES",
@@ -1554,9 +1587,11 @@
                                                     "mimeType": "application/octet-stream",
                                                     "size": "2882"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 4
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 4
                                           },
                                           {
                                             "name": "EDUTEC-REPORTES.rptproj",
@@ -1600,7 +1635,8 @@
                                             "mimeType": "application/octet-stream",
                                             "size": "427"
                                           }
-                                        ]
+                                        ],
+                                        "total_files": 10
                                       },
                                       {
                                         "name": "EDUTEC-REPORTES.sln",
@@ -1609,7 +1645,8 @@
                                         "mimeType": "application/octet-stream",
                                         "size": "1313"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 12
                                   },
                                   {
                                     "name": "ProyectoDemo",
@@ -1659,7 +1696,8 @@
                                                     "mimeType": "text/xml",
                                                     "size": "12961"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 4
                                               },
                                               {
                                                 "name": "Release",
@@ -1694,9 +1732,11 @@
                                                     "mimeType": "application/octet-stream",
                                                     "size": "862"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 4
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 8
                                           },
                                           {
                                             "name": "ProyectoDemo.rptproj.user",
@@ -1754,7 +1794,8 @@
                                             "mimeType": "text/xml",
                                             "size": "3654"
                                           }
-                                        ]
+                                        ],
+                                        "total_files": 16
                                       },
                                       {
                                         "name": ".vs",
@@ -1778,11 +1819,14 @@
                                                     "mimeType": "application/msword",
                                                     "size": "18944"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 1
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 1
                                           }
-                                        ]
+                                        ],
+                                        "total_files": 1
                                       },
                                       {
                                         "name": "ProyectoDemo.sln",
@@ -1798,7 +1842,8 @@
                                         "mimeType": "application/msword",
                                         "size": "17920"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 19
                                   },
                                   {
                                     "name": "ConfigurarProyecto.PNG",
@@ -1828,7 +1873,8 @@
                                     "mimeType": "image/png",
                                     "size": "142272"
                                   }
-                                ]
+                                ],
+                                "total_files": 35
                               },
                               {
                                 "name": "SSIS",
@@ -1883,9 +1929,11 @@
                                                     "mimeType": "text/xml",
                                                     "size": "637"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 4
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 4
                                           },
                                           {
                                             "name": "bin",
@@ -1904,9 +1952,11 @@
                                                     "mimeType": "application/x-zip",
                                                     "size": "8179"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 1
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 1
                                           },
                                           {
                                             "name": "ProyectoVentas2.database",
@@ -1943,7 +1993,8 @@
                                             "mimeType": "application/octet-stream",
                                             "size": "53712"
                                           }
-                                        ]
+                                        ],
+                                        "total_files": 10
                                       },
                                       {
                                         "name": ".vs",
@@ -1967,11 +2018,14 @@
                                                     "mimeType": "application/msword",
                                                     "size": "16384"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 1
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 1
                                           }
-                                        ]
+                                        ],
+                                        "total_files": 1
                                       },
                                       {
                                         "name": "ProyectoVentas2.sln",
@@ -1980,7 +2034,8 @@
                                         "mimeType": "application/octet-stream",
                                         "size": "806"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 12
                                   },
                                   {
                                     "name": "Integration_Services_Project1",
@@ -2009,11 +2064,14 @@
                                                     "mimeType": "application/msword",
                                                     "size": "17920"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 1
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 1
                                           }
-                                        ]
+                                        ],
+                                        "total_files": 1
                                       },
                                       {
                                         "name": "Integration_Services_Project1",
@@ -2058,9 +2116,11 @@
                                                     "mimeType": "text/xml",
                                                     "size": "32173"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 4
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 4
                                           },
                                           {
                                             "name": "bin",
@@ -2079,9 +2139,11 @@
                                                     "mimeType": "application/x-zip",
                                                     "size": "6685"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 1
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 1
                                           },
                                           {
                                             "name": "Integration_Services_Project1.database",
@@ -2118,7 +2180,8 @@
                                             "mimeType": "text/xml",
                                             "size": "943"
                                           }
-                                        ]
+                                        ],
+                                        "total_files": 10
                                       },
                                       {
                                         "name": "Integration_Services_Project1.sln",
@@ -2127,7 +2190,8 @@
                                         "mimeType": "application/octet-stream",
                                         "size": "848"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 12
                                   },
                                   {
                                     "name": "EDUTEC-Ventas",
@@ -2177,9 +2241,11 @@
                                                     "mimeType": "text/xml",
                                                     "size": "640"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 4
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 4
                                           },
                                           {
                                             "name": "bin",
@@ -2198,9 +2264,11 @@
                                                     "mimeType": "application/x-zip",
                                                     "size": "6221"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 1
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 1
                                           },
                                           {
                                             "name": "Project.params",
@@ -2237,7 +2305,8 @@
                                             "mimeType": "application/octet-stream",
                                             "size": "1691"
                                           }
-                                        ]
+                                        ],
+                                        "total_files": 10
                                       },
                                       {
                                         "name": ".vs",
@@ -2261,11 +2330,14 @@
                                                     "mimeType": "application/msword",
                                                     "size": "18432"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 1
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 1
                                           }
-                                        ]
+                                        ],
+                                        "total_files": 1
                                       },
                                       {
                                         "name": "EDUTEC-Ventas.sln",
@@ -2274,7 +2346,8 @@
                                         "mimeType": "application/octet-stream",
                                         "size": "800"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 12
                                   },
                                   {
                                     "name": "Imagen02.png",
@@ -2346,9 +2419,11 @@
                                     "mimeType": "image/png",
                                     "size": "307577"
                                   }
-                                ]
+                                ],
+                                "total_files": 46
                               }
-                            ]
+                            ],
+                            "total_files": 81
                           },
                           {
                             "name": "Clase01",
@@ -2488,7 +2563,8 @@
                                 "mimeType": "text/x-sql",
                                 "size": "144"
                               }
-                            ]
+                            ],
+                            "total_files": 19
                           },
                           {
                             "name": "Clase07",
@@ -2563,7 +2639,8 @@
                                     "mimeType": "image/png",
                                     "size": "53070"
                                   }
-                                ]
+                                ],
+                                "total_files": 9
                               },
                               {
                                 "name": "SSIS",
@@ -2597,11 +2674,14 @@
                                                     "mimeType": "application/msword",
                                                     "size": "17920"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 1
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 1
                                           }
-                                        ]
+                                        ],
+                                        "total_files": 1
                                       },
                                       {
                                         "name": "Integration_Services_Project1",
@@ -2625,9 +2705,11 @@
                                                     "mimeType": "application/x-zip",
                                                     "size": "6685"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 1
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 1
                                           },
                                           {
                                             "name": "obj",
@@ -2667,9 +2749,11 @@
                                                     "mimeType": "text/xml",
                                                     "size": "651"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 4
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 4
                                           },
                                           {
                                             "name": "Integration_Services_Project1.database",
@@ -2706,7 +2790,8 @@
                                             "mimeType": "application/octet-stream",
                                             "size": "16430"
                                           }
-                                        ]
+                                        ],
+                                        "total_files": 10
                                       },
                                       {
                                         "name": "Integration_Services_Project1.sln",
@@ -2715,7 +2800,8 @@
                                         "mimeType": "application/octet-stream",
                                         "size": "848"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 12
                                   },
                                   {
                                     "name": "TransformacionFecha.PNG",
@@ -2780,9 +2866,11 @@
                                     "mimeType": "text/x-sql",
                                     "size": "1166"
                                   }
-                                ]
+                                ],
+                                "total_files": 21
                               }
-                            ]
+                            ],
+                            "total_files": 30
                           },
                           {
                             "name": "Clase05",
@@ -2829,7 +2917,8 @@
                                     "mimeType": "text/x-sql",
                                     "size": "227"
                                   }
-                                ]
+                                ],
+                                "total_files": 5
                               },
                               {
                                 "name": "NotificacionTarea.PNG",
@@ -2859,11 +2948,14 @@
                                 "mimeType": "text/plain",
                                 "size": "119"
                               }
-                            ]
+                            ],
+                            "total_files": 9
                           }
-                        ]
+                        ],
+                        "total_files": 174
                       }
-                    ]
+                    ],
+                    "total_files": 296
                   },
                   {
                     "name": "SpringBoot",
@@ -2982,7 +3074,8 @@
                         "mimeType": "application/pdf",
                         "size": "804985"
                       }
-                    ]
+                    ],
+                    "total_files": 16
                   },
                   {
                     "name": "Java",
@@ -3038,7 +3131,8 @@
                         "mimeType": "application/pdf",
                         "size": "617960"
                       }
-                    ]
+                    ],
+                    "total_files": 7
                   },
                   {
                     "name": "Java_Orientada_a_Objetos",
@@ -3122,9 +3216,11 @@
                         "mimeType": "application/pdf",
                         "size": "747388"
                       }
-                    ]
+                    ],
+                    "total_files": 11
                   }
-                ]
+                ],
+                "total_files": 330
               },
               {
                 "name": "Java_Orientado_a_Objetos_(Coronel).pdf",
@@ -3133,15 +3229,18 @@
                 "mimeType": "application/pdf",
                 "size": "3133910"
               }
-            ]
+            ],
+            "total_files": 349
           },
           {
             "name": "Prof._López",
             "type": "folder",
             "id": "17W4w-Nt84r0siTnPgd4eInozedtgsOjH",
-            "children": []
+            "children": [],
+            "total_files": 0
           }
-        ]
+        ],
+        "total_files": 349
       },
       {
         "name": "Clases_(múltiples_profesores)",
@@ -3188,7 +3287,8 @@
                 "mimeType": "application/msword",
                 "size": "26112"
               }
-            ]
+            ],
+            "total_files": 5
           },
           {
             "name": "Semana_4",
@@ -3216,7 +3316,8 @@
                 "mimeType": "image/jpeg",
                 "size": "38899"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "Semana_5",
@@ -3272,7 +3373,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                 "size": "444575"
               }
-            ]
+            ],
+            "total_files": 7
           },
           {
             "name": "Semana_3",
@@ -3417,7 +3519,8 @@
                     "mimeType": "application/vnd.ms-powerpoint",
                     "size": "1452544"
                   }
-                ]
+                ],
+                "total_files": 19
               },
               {
                 "name": "Sesion3v1.1.pptx",
@@ -3440,7 +3543,8 @@
                 "mimeType": "application/msword",
                 "size": "25600"
               }
-            ]
+            ],
+            "total_files": 22
           },
           {
             "name": "Semana_7",
@@ -3473,7 +3577,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "13425"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "Proy_JCF",
@@ -3536,7 +3641,8 @@
                                                 "mimeType": "text/x-java",
                                                 "size": "1489"
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 3
                                           },
                                           {
                                             "name": "view",
@@ -3550,7 +3656,8 @@
                                                 "mimeType": "text/x-java",
                                                 "size": "7506"
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 1
                                           },
                                           {
                                             "name": "ctl",
@@ -3564,7 +3671,8 @@
                                                 "mimeType": "text/x-java",
                                                 "size": "2339"
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 1
                                           },
                                           {
                                             "name": "bean",
@@ -3592,19 +3700,26 @@
                                                 "mimeType": "text/x-java",
                                                 "size": "1122"
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 3
                                           }
-                                        ]
+                                        ],
+                                        "total_files": 8
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 8
                                   }
-                                ]
+                                ],
+                                "total_files": 8
                               }
-                            ]
+                            ],
+                            "total_files": 8
                           }
-                        ]
+                        ],
+                        "total_files": 8
                       }
-                    ]
+                    ],
+                    "total_files": 8
                   },
                   {
                     "name": "target",
@@ -3623,7 +3738,8 @@
                             "mimeType": "application/octet-stream",
                             "size": "0"
                           }
-                        ]
+                        ],
+                        "total_files": 1
                       },
                       {
                         "name": "maven-status",
@@ -3659,13 +3775,17 @@
                                         "mimeType": "application/octet-stream",
                                         "size": "160"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 2
                                   }
-                                ]
+                                ],
+                                "total_files": 2
                               }
-                            ]
+                            ],
+                            "total_files": 2
                           }
-                        ]
+                        ],
+                        "total_files": 2
                       },
                       {
                         "name": "classes",
@@ -3727,7 +3847,8 @@
                                             "mimeType": "application/java",
                                             "size": "549"
                                           }
-                                        ]
+                                        ],
+                                        "total_files": 5
                                       },
                                       {
                                         "name": "test",
@@ -3755,7 +3876,8 @@
                                             "mimeType": "application/java",
                                             "size": "2029"
                                           }
-                                        ]
+                                        ],
+                                        "total_files": 3
                                       },
                                       {
                                         "name": "ctl",
@@ -3769,7 +3891,8 @@
                                             "mimeType": "application/java",
                                             "size": "1888"
                                           }
-                                        ]
+                                        ],
+                                        "total_files": 1
                                       },
                                       {
                                         "name": "bean",
@@ -3797,13 +3920,17 @@
                                             "mimeType": "application/java",
                                             "size": "621"
                                           }
-                                        ]
+                                        ],
+                                        "total_files": 3
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 12
                                   }
-                                ]
+                                ],
+                                "total_files": 12
                               }
-                            ]
+                            ],
+                            "total_files": 12
                           },
                           {
                             "name": "org",
@@ -3855,11 +3982,14 @@
                                         "mimeType": "application/java",
                                         "size": "807"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 5
                                   }
-                                ]
+                                ],
+                                "total_files": 5
                               }
-                            ]
+                            ],
+                            "total_files": 5
                           },
                           {
                             "name": "com",
@@ -3904,11 +4034,14 @@
                                         "mimeType": "application/java",
                                         "size": "555"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 4
                                   }
-                                ]
+                                ],
+                                "total_files": 4
                               }
-                            ]
+                            ],
+                            "total_files": 4
                           },
                           {
                             "name": ".netbeans_automatic_build",
@@ -3917,9 +4050,11 @@
                             "mimeType": "application/octet-stream",
                             "size": "0"
                           }
-                        ]
+                        ],
+                        "total_files": 22
                       }
-                    ]
+                    ],
+                    "total_files": 25
                   },
                   {
                     "name": "pom.xml",
@@ -3928,7 +4063,8 @@
                     "mimeType": "text/xml",
                     "size": "664"
                   }
-                ]
+                ],
+                "total_files": 34
               },
               {
                 "name": "AppTaller_vr07",
@@ -3966,7 +4102,8 @@
                             "mimeType": "application/octet-stream",
                             "size": "184"
                           }
-                        ]
+                        ],
+                        "total_files": 3
                       },
                       {
                         "name": "project.xml",
@@ -3996,7 +4133,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "4605"
                       }
-                    ]
+                    ],
+                    "total_files": 7
                   },
                   {
                     "name": "src",
@@ -4158,7 +4296,8 @@
                                     "mimeType": "text/xml",
                                     "size": "1531"
                                   }
-                                ]
+                                ],
+                                "total_files": 20
                               },
                               {
                                 "name": "service",
@@ -4179,7 +4318,8 @@
                                     "mimeType": "text/x-java",
                                     "size": "336"
                                   }
-                                ]
+                                ],
+                                "total_files": 2
                               },
                               {
                                 "name": "ctl",
@@ -4221,7 +4361,8 @@
                                     "mimeType": "text/x-java",
                                     "size": "343"
                                   }
-                                ]
+                                ],
+                                "total_files": 5
                               },
                               {
                                 "name": "database",
@@ -4235,7 +4376,8 @@
                                     "mimeType": "text/x-java",
                                     "size": "1053"
                                   }
-                                ]
+                                ],
+                                "total_files": 1
                               },
                               {
                                 "name": "img",
@@ -4886,7 +5028,8 @@
                                     "mimeType": "image/png",
                                     "size": "1146"
                                   }
-                                ]
+                                ],
+                                "total_files": 92
                               },
                               {
                                 "name": "dao",
@@ -4928,7 +5071,8 @@
                                     "mimeType": "text/x-java",
                                     "size": "5864"
                                   }
-                                ]
+                                ],
+                                "total_files": 5
                               },
                               {
                                 "name": "test",
@@ -4942,7 +5086,8 @@
                                     "mimeType": "text/x-java",
                                     "size": "549"
                                   }
-                                ]
+                                ],
+                                "total_files": 1
                               },
                               {
                                 "name": "dto",
@@ -4991,7 +5136,8 @@
                                     "mimeType": "text/x-java",
                                     "size": "1496"
                                   }
-                                ]
+                                ],
+                                "total_files": 6
                               },
                               {
                                 "name": "util",
@@ -5012,13 +5158,17 @@
                                     "mimeType": "text/x-java",
                                     "size": "409"
                                   }
-                                ]
+                                ],
+                                "total_files": 2
                               }
-                            ]
+                            ],
+                            "total_files": 134
                           }
-                        ]
+                        ],
+                        "total_files": 134
                       }
-                    ]
+                    ],
+                    "total_files": 134
                   },
                   {
                     "name": "build",
@@ -5052,7 +5202,8 @@
                                         "mimeType": "application/java",
                                         "size": "1554"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 1
                                   },
                                   {
                                     "name": "service",
@@ -5073,7 +5224,8 @@
                                         "mimeType": "application/java",
                                         "size": "332"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 2
                                   },
                                   {
                                     "name": "util",
@@ -5094,7 +5246,8 @@
                                         "mimeType": "application/java",
                                         "size": "385"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 2
                                   },
                                   {
                                     "name": "view",
@@ -5528,7 +5681,8 @@
                                         "mimeType": "application/java",
                                         "size": "572"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 61
                                   },
                                   {
                                     "name": "ctl",
@@ -5570,7 +5724,8 @@
                                         "mimeType": "application/java",
                                         "size": "879"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 5
                                   },
                                   {
                                     "name": "dto",
@@ -5619,7 +5774,8 @@
                                         "mimeType": "application/java",
                                         "size": "1645"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 6
                                   },
                                   {
                                     "name": "img",
@@ -6270,7 +6426,8 @@
                                         "mimeType": "image/png",
                                         "size": "1401"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 92
                                   },
                                   {
                                     "name": "test",
@@ -6284,7 +6441,8 @@
                                         "mimeType": "application/java",
                                         "size": "1055"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 1
                                   },
                                   {
                                     "name": "dao",
@@ -6326,11 +6484,14 @@
                                         "mimeType": "application/java",
                                         "size": "3561"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 5
                                   }
-                                ]
+                                ],
+                                "total_files": 175
                               }
-                            ]
+                            ],
+                            "total_files": 175
                           },
                           {
                             "name": ".netbeans_automatic_build",
@@ -6346,9 +6507,11 @@
                             "mimeType": "application/octet-stream",
                             "size": "0"
                           }
-                        ]
+                        ],
+                        "total_files": 177
                       }
-                    ]
+                    ],
+                    "total_files": 177
                   },
                   {
                     "name": "lib",
@@ -6367,7 +6530,8 @@
                             "mimeType": "application/java-archive",
                             "size": "112261"
                           }
-                        ]
+                        ],
+                        "total_files": 1
                       },
                       {
                         "name": "ojdbc6.jar",
@@ -6488,7 +6652,8 @@
                         "mimeType": "application/java-archive",
                         "size": "575389"
                       }
-                    ]
+                    ],
+                    "total_files": 18
                   },
                   {
                     "name": "manifest.mf",
@@ -6504,7 +6669,8 @@
                     "mimeType": "text/xml",
                     "size": "3627"
                   }
-                ]
+                ],
+                "total_files": 338
               },
               {
                 "name": "AppTaller_vr05",
@@ -6907,7 +7073,8 @@
                                         "mimeType": "application/java",
                                         "size": "9720"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 53
                                   },
                                   {
                                     "name": "test",
@@ -6921,7 +7088,8 @@
                                         "mimeType": "application/java",
                                         "size": "1055"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 1
                                   },
                                   {
                                     "name": "util",
@@ -6942,7 +7110,8 @@
                                         "mimeType": "application/java",
                                         "size": "385"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 2
                                   },
                                   {
                                     "name": "img",
@@ -7593,7 +7762,8 @@
                                         "mimeType": "image/png",
                                         "size": "16219"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 92
                                   },
                                   {
                                     "name": "dto",
@@ -7635,7 +7805,8 @@
                                         "mimeType": "application/java",
                                         "size": "1906"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 5
                                   },
                                   {
                                     "name": "dao",
@@ -7670,7 +7841,8 @@
                                         "mimeType": "application/java",
                                         "size": "5853"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 4
                                   },
                                   {
                                     "name": "service",
@@ -7691,7 +7863,8 @@
                                         "mimeType": "application/java",
                                         "size": "610"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 2
                                   },
                                   {
                                     "name": "ctl",
@@ -7726,7 +7899,8 @@
                                         "mimeType": "application/java",
                                         "size": "879"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 4
                                   },
                                   {
                                     "name": "database",
@@ -7740,11 +7914,14 @@
                                         "mimeType": "application/java",
                                         "size": "1554"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 1
                                   }
-                                ]
+                                ],
+                                "total_files": 164
                               }
-                            ]
+                            ],
+                            "total_files": 164
                           },
                           {
                             "name": ".netbeans_update_resources",
@@ -7760,9 +7937,11 @@
                             "mimeType": "application/octet-stream",
                             "size": "0"
                           }
-                        ]
+                        ],
+                        "total_files": 166
                       }
-                    ]
+                    ],
+                    "total_files": 166
                   },
                   {
                     "name": "lib",
@@ -7781,7 +7960,8 @@
                             "mimeType": "application/java-archive",
                             "size": "112261"
                           }
-                        ]
+                        ],
+                        "total_files": 1
                       },
                       {
                         "name": "jfreechart-1.0.19.jar",
@@ -7902,7 +8082,8 @@
                         "mimeType": "application/java-archive",
                         "size": "52592"
                       }
-                    ]
+                    ],
+                    "total_files": 18
                   },
                   {
                     "name": "nbproject",
@@ -7935,7 +8116,8 @@
                             "mimeType": "text/xml",
                             "size": "343"
                           }
-                        ]
+                        ],
+                        "total_files": 3
                       },
                       {
                         "name": "build-impl.xml",
@@ -7965,7 +8147,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "4605"
                       }
-                    ]
+                    ],
+                    "total_files": 7
                   },
                   {
                     "name": "src",
@@ -8113,7 +8296,8 @@
                                     "mimeType": "text/xml",
                                     "size": "1531"
                                   }
-                                ]
+                                ],
+                                "total_files": 18
                               },
                               {
                                 "name": "util",
@@ -8134,7 +8318,8 @@
                                     "mimeType": "text/x-java",
                                     "size": "206"
                                   }
-                                ]
+                                ],
+                                "total_files": 2
                               },
                               {
                                 "name": "img",
@@ -8785,7 +8970,8 @@
                                     "mimeType": "image/png",
                                     "size": "1327"
                                   }
-                                ]
+                                ],
+                                "total_files": 92
                               },
                               {
                                 "name": "dto",
@@ -8827,7 +9013,8 @@
                                     "mimeType": "text/x-java",
                                     "size": "1464"
                                   }
-                                ]
+                                ],
+                                "total_files": 5
                               },
                               {
                                 "name": "test",
@@ -8841,7 +9028,8 @@
                                     "mimeType": "text/x-java",
                                     "size": "549"
                                   }
-                                ]
+                                ],
+                                "total_files": 1
                               },
                               {
                                 "name": "ctl",
@@ -8876,7 +9064,8 @@
                                     "mimeType": "text/x-java",
                                     "size": "343"
                                   }
-                                ]
+                                ],
+                                "total_files": 4
                               },
                               {
                                 "name": "service",
@@ -8897,7 +9086,8 @@
                                     "mimeType": "text/x-java",
                                     "size": "336"
                                   }
-                                ]
+                                ],
+                                "total_files": 2
                               },
                               {
                                 "name": "dao",
@@ -8932,7 +9122,8 @@
                                     "mimeType": "text/x-java",
                                     "size": "2007"
                                   }
-                                ]
+                                ],
+                                "total_files": 4
                               },
                               {
                                 "name": "database",
@@ -8946,13 +9137,17 @@
                                     "mimeType": "text/x-java",
                                     "size": "1053"
                                   }
-                                ]
+                                ],
+                                "total_files": 1
                               }
-                            ]
+                            ],
+                            "total_files": 129
                           }
-                        ]
+                        ],
+                        "total_files": 129
                       }
-                    ]
+                    ],
+                    "total_files": 129
                   },
                   {
                     "name": "manifest.mf",
@@ -8968,7 +9163,8 @@
                     "mimeType": "text/xml",
                     "size": "3627"
                   }
-                ]
+                ],
+                "total_files": 322
               },
               {
                 "name": "BD",
@@ -8996,7 +9192,8 @@
                     "mimeType": "text/x-sql",
                     "size": "6888"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "ventas_create.txt",
@@ -9040,7 +9237,8 @@
                 "mimeType": "application/vnd.ms-powerpoint",
                 "size": "572928"
               }
-            ]
+            ],
+            "total_files": 706
           },
           {
             "name": "Semana_1",
@@ -9096,7 +9294,8 @@
                 "mimeType": "application/msword",
                 "size": "23552"
               }
-            ]
+            ],
+            "total_files": 7
           },
           {
             "name": "Semana_12",
@@ -9377,7 +9576,8 @@
                             "mimeType": "application/java",
                             "size": "3785"
                           }
-                        ]
+                        ],
+                        "total_files": 37
                       },
                       {
                         "name": "util",
@@ -9405,7 +9605,8 @@
                             "mimeType": "application/java",
                             "size": "2322"
                           }
-                        ]
+                        ],
+                        "total_files": 3
                       },
                       {
                         "name": "javax",
@@ -9440,7 +9641,8 @@
                             "mimeType": "application/java",
                             "size": "2344"
                           }
-                        ]
+                        ],
+                        "total_files": 4
                       },
                       {
                         "name": "native",
@@ -9464,7 +9666,8 @@
                                     "mimeType": "application/x-sharedlib",
                                     "size": "846568"
                                   }
-                                ]
+                                ],
+                                "total_files": 1
                               },
                               {
                                 "name": "x86_64",
@@ -9478,7 +9681,8 @@
                                     "mimeType": "application/x-sharedlib",
                                     "size": "954272"
                                   }
-                                ]
+                                ],
+                                "total_files": 1
                               },
                               {
                                 "name": "ppc64",
@@ -9492,7 +9696,8 @@
                                     "mimeType": "application/x-sharedlib",
                                     "size": "981544"
                                   }
-                                ]
+                                ],
+                                "total_files": 1
                               },
                               {
                                 "name": "armv7",
@@ -9506,7 +9711,8 @@
                                     "mimeType": "application/x-sharedlib",
                                     "size": "851340"
                                   }
-                                ]
+                                ],
+                                "total_files": 1
                               },
                               {
                                 "name": "aarch64",
@@ -9520,7 +9726,8 @@
                                     "mimeType": "application/x-sharedlib",
                                     "size": "889696"
                                   }
-                                ]
+                                ],
+                                "total_files": 1
                               },
                               {
                                 "name": "android-arm",
@@ -9534,7 +9741,8 @@
                                     "mimeType": "application/x-sharedlib",
                                     "size": "888004"
                                   }
-                                ]
+                                ],
+                                "total_files": 1
                               },
                               {
                                 "name": "arm",
@@ -9548,7 +9756,8 @@
                                     "mimeType": "application/x-sharedlib",
                                     "size": "863620"
                                   }
-                                ]
+                                ],
+                                "total_files": 1
                               },
                               {
                                 "name": "armv6",
@@ -9562,9 +9771,11 @@
                                     "mimeType": "application/x-sharedlib",
                                     "size": "843200"
                                   }
-                                ]
+                                ],
+                                "total_files": 1
                               }
-                            ]
+                            ],
+                            "total_files": 8
                           },
                           {
                             "name": "Linux-Alpine",
@@ -9583,9 +9794,11 @@
                                     "mimeType": "application/x-sharedlib",
                                     "size": "958720"
                                   }
-                                ]
+                                ],
+                                "total_files": 1
                               }
-                            ]
+                            ],
+                            "total_files": 1
                           },
                           {
                             "name": "Mac",
@@ -9604,7 +9817,8 @@
                                     "mimeType": "application/octet-stream",
                                     "size": "1100668"
                                   }
-                                ]
+                                ],
+                                "total_files": 1
                               },
                               {
                                 "name": "aarch64",
@@ -9618,9 +9832,11 @@
                                     "mimeType": "application/octet-stream",
                                     "size": "973096"
                                   }
-                                ]
+                                ],
+                                "total_files": 1
                               }
-                            ]
+                            ],
+                            "total_files": 2
                           },
                           {
                             "name": "FreeBSD",
@@ -9639,7 +9855,8 @@
                                     "mimeType": "application/x-sharedlib",
                                     "size": "1066288"
                                   }
-                                ]
+                                ],
+                                "total_files": 1
                               },
                               {
                                 "name": "x86",
@@ -9653,7 +9870,8 @@
                                     "mimeType": "application/x-sharedlib",
                                     "size": "843572"
                                   }
-                                ]
+                                ],
+                                "total_files": 1
                               },
                               {
                                 "name": "x86_64",
@@ -9667,9 +9885,11 @@
                                     "mimeType": "application/x-sharedlib",
                                     "size": "941952"
                                   }
-                                ]
+                                ],
+                                "total_files": 1
                               }
-                            ]
+                            ],
+                            "total_files": 3
                           },
                           {
                             "name": "Windows",
@@ -9688,7 +9908,8 @@
                                     "mimeType": "application/x-dosexec",
                                     "size": "867840"
                                   }
-                                ]
+                                ],
+                                "total_files": 1
                               },
                               {
                                 "name": "aarch64",
@@ -9702,7 +9923,8 @@
                                     "mimeType": "application/x-dosexec",
                                     "size": "978432"
                                   }
-                                ]
+                                ],
+                                "total_files": 1
                               },
                               {
                                 "name": "x86",
@@ -9716,7 +9938,8 @@
                                     "mimeType": "application/x-dosexec",
                                     "size": "809472"
                                   }
-                                ]
+                                ],
+                                "total_files": 1
                               },
                               {
                                 "name": "armv7",
@@ -9730,9 +9953,11 @@
                                     "mimeType": "application/x-dosexec",
                                     "size": "724992"
                                   }
-                                ]
+                                ],
+                                "total_files": 1
                               }
-                            ]
+                            ],
+                            "total_files": 4
                           },
                           {
                             "name": "DragonFlyBSD",
@@ -9751,11 +9976,14 @@
                                     "mimeType": "application/x-sharedlib",
                                     "size": "822152"
                                   }
-                                ]
+                                ],
+                                "total_files": 1
                               }
-                            ]
+                            ],
+                            "total_files": 1
                           }
-                        ]
+                        ],
+                        "total_files": 19
                       },
                       {
                         "name": "jdbc3",
@@ -9832,7 +10060,8 @@
                             "mimeType": "application/java",
                             "size": "8847"
                           }
-                        ]
+                        ],
+                        "total_files": 10
                       },
                       {
                         "name": "jdbc4",
@@ -9888,7 +10117,8 @@
                             "mimeType": "application/java",
                             "size": "2461"
                           }
-                        ]
+                        ],
+                        "total_files": 7
                       },
                       {
                         "name": "core",
@@ -9958,7 +10188,8 @@
                             "mimeType": "application/java",
                             "size": "219"
                           }
-                        ]
+                        ],
+                        "total_files": 9
                       },
                       {
                         "name": "ExtendedCommand$SQLExtension.class",
@@ -10205,9 +10436,11 @@
                         "mimeType": "application/java",
                         "size": "5035"
                       }
-                    ]
+                    ],
+                    "total_files": 124
                   }
-                ]
+                ],
+                "total_files": 124
               },
               {
                 "name": "META-INF",
@@ -10264,11 +10497,14 @@
                                 "mimeType": "application/octet-stream",
                                 "size": "1312"
                               }
-                            ]
+                            ],
+                            "total_files": 5
                           }
-                        ]
+                        ],
+                        "total_files": 5
                       }
-                    ]
+                    ],
+                    "total_files": 5
                   },
                   {
                     "name": "services",
@@ -10282,7 +10518,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "15"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "native-image",
@@ -10327,11 +10564,14 @@
                                 "mimeType": "application/json",
                                 "size": "385"
                               }
-                            ]
+                            ],
+                            "total_files": 4
                           }
-                        ]
+                        ],
+                        "total_files": 4
                       }
-                    ]
+                    ],
+                    "total_files": 4
                   },
                   {
                     "name": "MANIFEST.MF",
@@ -10340,7 +10580,8 @@
                     "mimeType": "application/octet-stream",
                     "size": "1069"
                   }
-                ]
+                ],
+                "total_files": 11
               },
               {
                 "name": "HIA11-Diseño_de_vista.docx",
@@ -10370,7 +10611,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                 "size": "159093"
               }
-            ]
+            ],
+            "total_files": 139
           },
           {
             "name": "Semana_13",
@@ -10394,7 +10636,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "24"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "MANIFEST.MF",
@@ -10410,7 +10653,8 @@
                     "mimeType": "application/octet-stream",
                     "size": "847"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "com",
@@ -10448,7 +10692,8 @@
                             "mimeType": "application/java",
                             "size": "760"
                           }
-                        ]
+                        ],
+                        "total_files": 3
                       },
                       {
                         "name": "cj",
@@ -11160,7 +11405,8 @@
                                 "mimeType": "application/java",
                                 "size": "1011"
                               }
-                            ]
+                            ],
+                            "total_files": 100
                           },
                           {
                             "name": "x",
@@ -11872,9 +12118,11 @@
                                     "mimeType": "application/java",
                                     "size": "5562"
                                   }
-                                ]
+                                ],
+                                "total_files": 100
                               }
-                            ]
+                            ],
+                            "total_files": 100
                           },
                           {
                             "name": "result",
@@ -12112,7 +12360,8 @@
                                 "mimeType": "application/java",
                                 "size": "1255"
                               }
-                            ]
+                            ],
+                            "total_files": 33
                           },
                           {
                             "name": "sasl",
@@ -12175,7 +12424,8 @@
                                 "mimeType": "application/java",
                                 "size": "2056"
                               }
-                            ]
+                            ],
+                            "total_files": 8
                           },
                           {
                             "name": "protocol",
@@ -12262,7 +12512,8 @@
                                         "mimeType": "application/java",
                                         "size": "9340"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 10
                                   },
                                   {
                                     "name": "authentication",
@@ -12367,7 +12618,8 @@
                                         "mimeType": "application/java",
                                         "size": "4048"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 14
                                   },
                                   {
                                     "name": "ReaderValueEncoder.class",
@@ -12957,7 +13209,8 @@
                                     "mimeType": "application/java",
                                     "size": "10857"
                                   }
-                                ]
+                                ],
+                                "total_files": 108
                               },
                               {
                                 "name": "result",
@@ -12978,7 +13231,8 @@
                                     "mimeType": "application/java",
                                     "size": "4665"
                                   }
-                                ]
+                                ],
+                                "total_files": 2
                               },
                               {
                                 "name": "x",
@@ -13328,7 +13582,8 @@
                                     "mimeType": "application/java",
                                     "size": "1009"
                                   }
-                                ]
+                                ],
+                                "total_files": 49
                               },
                               {
                                 "name": "PacketReceivedTimeHolder.class",
@@ -13764,7 +14019,8 @@
                                 "mimeType": "application/java",
                                 "size": "176"
                               }
-                            ]
+                            ],
+                            "total_files": 221
                           },
                           {
                             "name": "log",
@@ -13848,7 +14104,8 @@
                                 "mimeType": "application/java",
                                 "size": "7418"
                               }
-                            ]
+                            ],
+                            "total_files": 11
                           },
                           {
                             "name": "configurations",
@@ -13904,7 +14161,8 @@
                                 "mimeType": "application/octet-stream",
                                 "size": "425"
                               }
-                            ]
+                            ],
+                            "total_files": 7
                           },
                           {
                             "name": "exceptions",
@@ -14121,7 +14379,8 @@
                                 "mimeType": "application/java",
                                 "size": "1157"
                               }
-                            ]
+                            ],
+                            "total_files": 30
                           },
                           {
                             "name": "util",
@@ -14275,7 +14534,8 @@
                                 "mimeType": "application/java",
                                 "size": "14161"
                               }
-                            ]
+                            ],
+                            "total_files": 21
                           },
                           {
                             "name": "jdbc",
@@ -14294,7 +14554,8 @@
                                     "mimeType": "application/java",
                                     "size": "2311"
                                   }
-                                ]
+                                ],
+                                "total_files": 1
                               },
                               {
                                 "name": "jmx",
@@ -14329,7 +14590,8 @@
                                     "mimeType": "application/java",
                                     "size": "2230"
                                   }
-                                ]
+                                ],
+                                "total_files": 4
                               },
                               {
                                 "name": "interceptors",
@@ -14371,7 +14633,8 @@
                                     "mimeType": "application/java",
                                     "size": "3677"
                                   }
-                                ]
+                                ],
+                                "total_files": 5
                               },
                               {
                                 "name": "result",
@@ -14448,7 +14711,8 @@
                                     "mimeType": "application/java",
                                     "size": "2262"
                                   }
-                                ]
+                                ],
+                                "total_files": 10
                               },
                               {
                                 "name": "exceptions",
@@ -14539,7 +14803,8 @@
                                     "mimeType": "application/java",
                                     "size": "1509"
                                   }
-                                ]
+                                ],
+                                "total_files": 12
                               },
                               {
                                 "name": "ha",
@@ -14707,7 +14972,8 @@
                                     "mimeType": "application/java",
                                     "size": "2817"
                                   }
-                                ]
+                                ],
+                                "total_files": 23
                               },
                               {
                                 "name": "integration",
@@ -14726,9 +14992,11 @@
                                         "mimeType": "application/java",
                                         "size": "2714"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 1
                                   }
-                                ]
+                                ],
+                                "total_files": 1
                               },
                               {
                                 "name": "admin",
@@ -14742,7 +15010,8 @@
                                     "mimeType": "application/java",
                                     "size": "1777"
                                   }
-                                ]
+                                ],
+                                "total_files": 1
                               },
                               {
                                 "name": "EscapeProcessor.class",
@@ -15360,7 +15629,8 @@
                                 "mimeType": "application/java",
                                 "size": "1540"
                               }
-                            ]
+                            ],
+                            "total_files": 145
                           },
                           {
                             "name": "interceptors",
@@ -15374,7 +15644,8 @@
                                 "mimeType": "application/java",
                                 "size": "1596"
                               }
-                            ]
+                            ],
+                            "total_files": 1
                           },
                           {
                             "name": "conf",
@@ -15463,7 +15734,8 @@
                                     "mimeType": "application/java",
                                     "size": "5525"
                                   }
-                                ]
+                                ],
+                                "total_files": 11
                               },
                               {
                                 "name": "AbstractPropertyDefinition.class",
@@ -15752,7 +16024,8 @@
                                 "mimeType": "application/java",
                                 "size": "1552"
                               }
-                            ]
+                            ],
+                            "total_files": 52
                           },
                           {
                             "name": "callback",
@@ -15787,7 +16060,8 @@
                                 "mimeType": "application/java",
                                 "size": "129"
                               }
-                            ]
+                            ],
+                            "total_files": 4
                           },
                           {
                             "name": "admin",
@@ -15801,7 +16075,8 @@
                                 "mimeType": "application/java",
                                 "size": "4948"
                               }
-                            ]
+                            ],
+                            "total_files": 1
                           },
                           {
                             "name": "DataStoreMetadata.class",
@@ -16174,11 +16449,14 @@
                             "mimeType": "application/java",
                             "size": "7563"
                           }
-                        ]
+                        ],
+                        "total_files": 787
                       }
-                    ]
+                    ],
+                    "total_files": 790
                   }
-                ]
+                ],
+                "total_files": 790
               },
               {
                 "name": "img",
@@ -16227,7 +16505,8 @@
                     "mimeType": "image/png",
                     "size": "5872"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "README",
@@ -16313,7 +16592,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "76069"
               }
-            ]
+            ],
+            "total_files": 811
           },
           {
             "name": "Semana_11",
@@ -16348,7 +16628,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "76936"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "Semana_15",
@@ -16369,7 +16650,8 @@
                 "mimeType": "image/jpeg",
                 "size": "110118"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "Semana_10",
@@ -16404,7 +16686,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "76770"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "Semana_6",
@@ -16463,7 +16746,8 @@
                                                     "mimeType": "text/x-java",
                                                     "size": "409"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 1
                                               },
                                               {
                                                 "name": "estwhile",
@@ -16512,7 +16796,8 @@
                                                     "mimeType": "text/x-java",
                                                     "size": "282"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 6
                                               },
                                               {
                                                 "name": "estfor",
@@ -16547,7 +16832,8 @@
                                                     "mimeType": "text/x-java",
                                                     "size": "243"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 4
                                               },
                                               {
                                                 "name": "estswitch",
@@ -16589,7 +16875,8 @@
                                                     "mimeType": "text/x-java",
                                                     "size": "615"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 5
                                               },
                                               {
                                                 "name": "estif",
@@ -16638,7 +16925,8 @@
                                                     "mimeType": "text/x-java",
                                                     "size": "214"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 6
                                               },
                                               {
                                                 "name": "enums",
@@ -16659,21 +16947,29 @@
                                                     "mimeType": "text/x-java",
                                                     "size": "98"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 2
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 24
                                           }
-                                        ]
+                                        ],
+                                        "total_files": 24
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 24
                                   }
-                                ]
+                                ],
+                                "total_files": 24
                               }
-                            ]
+                            ],
+                            "total_files": 24
                           }
-                        ]
+                        ],
+                        "total_files": 24
                       }
-                    ]
+                    ],
+                    "total_files": 24
                   },
                   {
                     "name": ".settings",
@@ -16687,7 +16983,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "642"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "bin",
@@ -16736,7 +17033,8 @@
                                                     "mimeType": "application/java",
                                                     "size": "811"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 1
                                               },
                                               {
                                                 "name": "estif",
@@ -16785,7 +17083,8 @@
                                                     "mimeType": "application/java",
                                                     "size": "1029"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 6
                                               },
                                               {
                                                 "name": "estswitch",
@@ -16827,7 +17126,8 @@
                                                     "mimeType": "application/java",
                                                     "size": "816"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 5
                                               },
                                               {
                                                 "name": "estfor",
@@ -16862,7 +17162,8 @@
                                                     "mimeType": "application/java",
                                                     "size": "723"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 4
                                               },
                                               {
                                                 "name": "estwhile",
@@ -16911,7 +17212,8 @@
                                                     "mimeType": "application/java",
                                                     "size": "709"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 6
                                               },
                                               {
                                                 "name": "enums",
@@ -16932,21 +17234,29 @@
                                                     "mimeType": "application/java",
                                                     "size": "1219"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 2
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 24
                                           }
-                                        ]
+                                        ],
+                                        "total_files": 24
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 24
                                   }
-                                ]
+                                ],
+                                "total_files": 24
                               }
-                            ]
+                            ],
+                            "total_files": 24
                           }
-                        ]
+                        ],
+                        "total_files": 24
                       }
-                    ]
+                    ],
+                    "total_files": 24
                   },
                   {
                     "name": ".project",
@@ -16962,7 +17272,8 @@
                     "mimeType": "text/xml",
                     "size": "396"
                   }
-                ]
+                ],
+                "total_files": 51
               },
               {
                 "name": "PrjS02-Arreglos",
@@ -17021,7 +17332,8 @@
                                                         "mimeType": "application/java",
                                                         "size": "577"
                                                       }
-                                                    ]
+                                                    ],
+                                                    "total_files": 1
                                                   },
                                                   {
                                                     "name": "dimension2",
@@ -17056,7 +17368,8 @@
                                                         "mimeType": "application/java",
                                                         "size": "887"
                                                       }
-                                                    ]
+                                                    ],
+                                                    "total_files": 4
                                                   },
                                                   {
                                                     "name": "dimension1",
@@ -17084,23 +17397,32 @@
                                                         "mimeType": "application/java",
                                                         "size": "977"
                                                       }
-                                                    ]
+                                                    ],
+                                                    "total_files": 3
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 8
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 8
                                           }
-                                        ]
+                                        ],
+                                        "total_files": 8
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 8
                                   }
-                                ]
+                                ],
+                                "total_files": 8
                               }
-                            ]
+                            ],
+                            "total_files": 8
                           }
-                        ]
+                        ],
+                        "total_files": 8
                       }
-                    ]
+                    ],
+                    "total_files": 8
                   },
                   {
                     "name": "src",
@@ -17168,7 +17490,8 @@
                                                         "mimeType": "text/x-java",
                                                         "size": "437"
                                                       }
-                                                    ]
+                                                    ],
+                                                    "total_files": 3
                                                   },
                                                   {
                                                     "name": "dimension2",
@@ -17203,7 +17526,8 @@
                                                         "mimeType": "text/x-java",
                                                         "size": "481"
                                                       }
-                                                    ]
+                                                    ],
+                                                    "total_files": 4
                                                   },
                                                   {
                                                     "name": "dimension3",
@@ -17217,23 +17541,32 @@
                                                         "mimeType": "text/x-java",
                                                         "size": "267"
                                                       }
-                                                    ]
+                                                    ],
+                                                    "total_files": 1
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 8
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 8
                                           }
-                                        ]
+                                        ],
+                                        "total_files": 8
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 8
                                   }
-                                ]
+                                ],
+                                "total_files": 8
                               }
-                            ]
+                            ],
+                            "total_files": 8
                           }
-                        ]
+                        ],
+                        "total_files": 8
                       }
-                    ]
+                    ],
+                    "total_files": 8
                   },
                   {
                     "name": ".settings",
@@ -17254,7 +17587,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "642"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": ".project",
@@ -17270,7 +17604,8 @@
                     "mimeType": "text/xml",
                     "size": "396"
                   }
-                ]
+                ],
+                "total_files": 20
               },
               {
                 "name": "PrjS01.-Pedidos",
@@ -17309,7 +17644,8 @@
                                         "mimeType": "text/x-java",
                                         "size": "2005"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 1
                                   },
                                   {
                                     "name": "aplicacion",
@@ -17323,15 +17659,20 @@
                                         "mimeType": "text/x-java",
                                         "size": "874"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 1
                                   }
-                                ]
+                                ],
+                                "total_files": 2
                               }
-                            ]
+                            ],
+                            "total_files": 2
                           }
-                        ]
+                        ],
+                        "total_files": 2
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "bin",
@@ -17365,7 +17706,8 @@
                                         "mimeType": "application/java",
                                         "size": "1616"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 1
                                   },
                                   {
                                     "name": "beans",
@@ -17379,15 +17721,20 @@
                                         "mimeType": "application/java",
                                         "size": "2664"
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 1
                                   }
-                                ]
+                                ],
+                                "total_files": 2
                               }
-                            ]
+                            ],
+                            "total_files": 2
                           }
-                        ]
+                        ],
+                        "total_files": 2
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": ".settings",
@@ -17401,7 +17748,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "781"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": ".classpath",
@@ -17417,7 +17765,8 @@
                     "mimeType": "text/xml",
                     "size": "391"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "PrjS01-Operadores",
@@ -17450,7 +17799,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "854"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "appClientModule",
@@ -17494,7 +17844,8 @@
                                                 "mimeType": "text/x-java",
                                                 "size": "438"
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 1
                                           },
                                           {
                                             "name": "ternarios",
@@ -17508,7 +17859,8 @@
                                                 "mimeType": "text/x-java",
                                                 "size": "634"
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 1
                                           },
                                           {
                                             "name": "relacionales",
@@ -17522,7 +17874,8 @@
                                                 "mimeType": "text/x-java",
                                                 "size": "820"
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 1
                                           },
                                           {
                                             "name": "matematicos",
@@ -17543,7 +17896,8 @@
                                                 "mimeType": "text/x-java",
                                                 "size": "469"
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 2
                                           },
                                           {
                                             "name": "logicos",
@@ -17557,17 +17911,23 @@
                                                 "mimeType": "text/x-java",
                                                 "size": "491"
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 1
                                           }
-                                        ]
+                                        ],
+                                        "total_files": 6
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 6
                                   }
-                                ]
+                                ],
+                                "total_files": 6
                               }
-                            ]
+                            ],
+                            "total_files": 6
                           }
-                        ]
+                        ],
+                        "total_files": 6
                       },
                       {
                         "name": "META-INF",
@@ -17581,7 +17941,8 @@
                             "mimeType": "application/octet-stream",
                             "size": "39"
                           }
-                        ]
+                        ],
+                        "total_files": 1
                       },
                       {
                         "name": ".project",
@@ -17597,7 +17958,8 @@
                         "mimeType": "text/xml",
                         "size": "396"
                       }
-                    ]
+                    ],
+                    "total_files": 9
                   },
                   {
                     "name": "build",
@@ -17621,7 +17983,8 @@
                                 "mimeType": "application/octet-stream",
                                 "size": "39"
                               }
-                            ]
+                            ],
+                            "total_files": 1
                           },
                           {
                             "name": "pe",
@@ -17660,7 +18023,8 @@
                                                     "mimeType": "application/java",
                                                     "size": "1265"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 1
                                               },
                                               {
                                                 "name": "math",
@@ -17674,7 +18038,8 @@
                                                     "mimeType": "application/java",
                                                     "size": "856"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 1
                                               },
                                               {
                                                 "name": "ternarios",
@@ -17688,7 +18053,8 @@
                                                     "mimeType": "application/java",
                                                     "size": "961"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 1
                                               },
                                               {
                                                 "name": "matematicos",
@@ -17709,7 +18075,8 @@
                                                     "mimeType": "application/java",
                                                     "size": "760"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 2
                                               },
                                               {
                                                 "name": "logicos",
@@ -17723,17 +18090,23 @@
                                                     "mimeType": "application/java",
                                                     "size": "1034"
                                                   }
-                                                ]
+                                                ],
+                                                "total_files": 1
                                               }
-                                            ]
+                                            ],
+                                            "total_files": 6
                                           }
-                                        ]
+                                        ],
+                                        "total_files": 6
                                       }
-                                    ]
+                                    ],
+                                    "total_files": 6
                                   }
-                                ]
+                                ],
+                                "total_files": 6
                               }
-                            ]
+                            ],
+                            "total_files": 6
                           },
                           {
                             "name": ".project",
@@ -17749,9 +18122,11 @@
                             "mimeType": "text/xml",
                             "size": "396"
                           }
-                        ]
+                        ],
+                        "total_files": 9
                       }
-                    ]
+                    ],
+                    "total_files": 9
                   },
                   {
                     "name": ".project",
@@ -17767,7 +18142,8 @@
                     "mimeType": "text/xml",
                     "size": "517"
                   }
-                ]
+                ],
+                "total_files": 23
               },
               {
                 "name": "Lab5_Objetos20221.doc",
@@ -17811,7 +18187,8 @@
                 "mimeType": "application/vnd.ms-powerpoint",
                 "size": "498688"
               }
-            ]
+            ],
+            "total_files": 107
           },
           {
             "name": "Semana_14",
@@ -17839,7 +18216,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                 "size": "257277"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "Semana_2",
@@ -17874,7 +18252,8 @@
                 "mimeType": "application/vnd.ms-powerpoint",
                 "size": "2018816"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "Links_POO.txt",
@@ -17883,7 +18262,8 @@
             "mimeType": "text/plain",
             "size": "642"
           }
-        ]
+        ],
+        "total_files": 1825
       },
       {
         "name": "Planchas",
@@ -17899,19 +18279,22 @@
                 "name": "ES",
                 "type": "folder",
                 "id": "1PURtEIIAD0R3l8vWFiSfkVp_PUC5S_ee",
-                "children": []
+                "children": [],
+                "total_files": 0
               },
               {
                 "name": "EF",
                 "type": "folder",
                 "id": "1sFOJzMyGHQRfrMMx8aCcaE4FyXvypWg5",
-                "children": []
+                "children": [],
+                "total_files": 0
               },
               {
                 "name": "EP",
                 "type": "folder",
                 "id": "1N-5mG7mKlIiZCpM0P0TEaW54Sbjcvu-B",
-                "children": []
+                "children": [],
+                "total_files": 0
               },
               {
                 "name": "PC2",
@@ -17946,7 +18329,8 @@
                     "mimeType": "application/pdf",
                     "size": "205306"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "PC1",
@@ -17981,15 +18365,18 @@
                     "mimeType": "application/pdf",
                     "size": "291296"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "PE",
                 "type": "folder",
                 "id": "1ua6K5LHicW1fwGJAG60-U-r9OW4Ucvxu",
-                "children": []
+                "children": [],
+                "total_files": 0
               }
-            ]
+            ],
+            "total_files": 8
           },
           {
             "name": "Prof._López",
@@ -18000,13 +18387,15 @@
                 "name": "ES",
                 "type": "folder",
                 "id": "1G-XfXwFzPiv-NRhcN8dPdSNcn7a_s3OW",
-                "children": []
+                "children": [],
+                "total_files": 0
               },
               {
                 "name": "EF",
                 "type": "folder",
                 "id": "14wsoFew8_MbFlxRV6_B5h0RvXPnskMCN",
-                "children": []
+                "children": [],
+                "total_files": 0
               },
               {
                 "name": "EP",
@@ -18027,7 +18416,8 @@
                     "mimeType": "application/pdf",
                     "size": "261802"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "PC2",
@@ -18041,7 +18431,8 @@
                     "mimeType": "image/jpeg",
                     "size": "77080"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC1",
@@ -18062,15 +18453,18 @@
                     "mimeType": "image/jpeg",
                     "size": "95688"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "PE",
                 "type": "folder",
                 "id": "1XZ-LudIr8RTmx52qNOiJtoI3siV3GFGy",
-                "children": []
+                "children": [],
+                "total_files": 0
               }
-            ]
+            ],
+            "total_files": 5
           },
           {
             "name": "Prof._Coronel",
@@ -18138,7 +18532,8 @@
                     "mimeType": "application/pdf",
                     "size": "74689"
                   }
-                ]
+                ],
+                "total_files": 8
               },
               {
                 "name": "ES",
@@ -18187,7 +18582,8 @@
                     "mimeType": "application/pdf",
                     "size": "159372"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "EF",
@@ -18250,7 +18646,8 @@
                     "mimeType": "application/pdf",
                     "size": "117411"
                   }
-                ]
+                ],
+                "total_files": 8
               },
               {
                 "name": "EP",
@@ -18327,7 +18724,8 @@
                     "mimeType": "application/pdf",
                     "size": "191813"
                   }
-                ]
+                ],
+                "total_files": 10
               },
               {
                 "name": "PC2",
@@ -18376,7 +18774,8 @@
                     "mimeType": "application/pdf",
                     "size": "439078"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "PE",
@@ -18390,7 +18789,8 @@
                     "mimeType": "application/pdf",
                     "size": "1559479"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC1",
@@ -18460,11 +18860,14 @@
                     "mimeType": "application/pdf",
                     "size": "156034"
                   }
-                ]
+                ],
+                "total_files": 9
               }
-            ]
+            ],
+            "total_files": 48
           }
-        ]
+        ],
+        "total_files": 61
       },
       {
         "name": "Sílabo_POO.pdf",
@@ -18513,8 +18916,10 @@
             "mimeType": "application/pdf",
             "size": "11682575"
           }
-        ]
+        ],
+        "total_files": 5
       }
-    ]
+    ],
+    "total_files": 2241
   }
 }

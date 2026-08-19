@@ -25,7 +25,8 @@
                 "mimeType": "application/pdf",
                 "size": "75910"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "EF",
@@ -53,7 +54,8 @@
                 "mimeType": "application/pdf",
                 "size": "213684"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "EP",
@@ -81,7 +83,8 @@
                 "mimeType": "application/pdf",
                 "size": "70079"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "PC4",
@@ -95,7 +98,8 @@
                 "mimeType": "application/pdf",
                 "size": "175771"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "PC3",
@@ -109,7 +113,8 @@
                 "mimeType": "application/pdf",
                 "size": "29449"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "PC2",
@@ -123,7 +128,8 @@
                 "mimeType": "application/pdf",
                 "size": "27880"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "PC1",
@@ -137,9 +143,11 @@
                 "mimeType": "image/png",
                 "size": "358919"
               }
-            ]
+            ],
+            "total_files": 1
           }
-        ]
+        ],
+        "total_files": 11
       },
       {
         "name": "SILABO-SW405_Ingenieria_de_Requerimientos_I.pdf",
@@ -165,7 +173,8 @@
                 "mimeType": "application/pdf",
                 "size": "758576"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "Tema_10",
@@ -193,7 +202,8 @@
                 "mimeType": "application/pdf",
                 "size": "1079321"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "Tema_9",
@@ -214,7 +224,8 @@
                 "mimeType": "application/pdf",
                 "size": "964942"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "Tema_7",
@@ -235,7 +246,8 @@
                 "mimeType": "application/pdf",
                 "size": "814038"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "Tema_6",
@@ -249,7 +261,8 @@
                 "mimeType": "application/pdf",
                 "size": "1703786"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "Extra",
@@ -263,7 +276,8 @@
                 "mimeType": "application/pdf",
                 "size": "3205728"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "Tema_5",
@@ -291,7 +305,8 @@
                 "mimeType": "application/pdf",
                 "size": "784006"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "Tema_4",
@@ -305,7 +320,8 @@
                 "mimeType": "application/pdf",
                 "size": "908752"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "Tema_3",
@@ -326,7 +342,8 @@
                 "mimeType": "application/pdf",
                 "size": "1559843"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "Tema_2",
@@ -340,7 +357,8 @@
                 "mimeType": "application/pdf",
                 "size": "1208212"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "Tema_1",
@@ -354,10 +372,13 @@
                 "mimeType": "application/pdf",
                 "size": "1724147"
               }
-            ]
+            ],
+            "total_files": 1
           }
-        ]
+        ],
+        "total_files": 18
       }
-    ]
+    ],
+    "total_files": 30
   }
 }

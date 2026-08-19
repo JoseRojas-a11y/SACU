@@ -95,7 +95,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                 "size": "98499"
               }
-            ]
+            ],
+            "total_files": 11
           },
           {
             "name": "PC4_-_Modelado_de_Procesos_-_Plaza_Vea.pdf",
@@ -139,8 +140,10 @@
             "mimeType": "application/x-compressed",
             "size": "10769446"
           }
-        ]
+        ],
+        "total_files": 17
       }
-    ]
+    ],
+    "total_files": 17
   }
 }

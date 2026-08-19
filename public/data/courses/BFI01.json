@@ -65,7 +65,8 @@
                     "mimeType": "image/jpeg",
                     "size": "68312"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "BFI01_Aplazados_22-3_Cañote.jpeg",
@@ -95,7 +96,8 @@
                 "mimeType": "application/pdf",
                 "size": "38030"
               }
-            ]
+            ],
+            "total_files": 8
           },
           {
             "name": "Prof._Salcedo",
@@ -114,7 +116,8 @@
                     "mimeType": "application/pdf",
                     "size": "600306"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC2",
@@ -135,7 +138,8 @@
                     "mimeType": "application/pdf",
                     "size": "377755"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "PC1",
@@ -163,9 +167,11 @@
                     "mimeType": "application/pdf",
                     "size": "292525"
                   }
-                ]
+                ],
+                "total_files": 3
               }
-            ]
+            ],
+            "total_files": 6
           },
           {
             "name": "Prof._Peña",
@@ -184,9 +190,11 @@
                     "mimeType": "application/pdf",
                     "size": "178954"
                   }
-                ]
+                ],
+                "total_files": 1
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "Prof._Valdivia",
@@ -331,7 +339,8 @@
                     "mimeType": "application/pdf",
                     "size": "541385"
                   }
-                ]
+                ],
+                "total_files": 19
               },
               {
                 "name": "PC5",
@@ -492,7 +501,8 @@
                     "mimeType": "application/pdf",
                     "size": "439293"
                   }
-                ]
+                ],
+                "total_files": 22
               },
               {
                 "name": "PC4",
@@ -639,7 +649,8 @@
                     "mimeType": "application/pdf",
                     "size": "344893"
                   }
-                ]
+                ],
+                "total_files": 20
               },
               {
                 "name": "PC3",
@@ -800,7 +811,8 @@
                     "mimeType": "application/pdf",
                     "size": "656245"
                   }
-                ]
+                ],
+                "total_files": 22
               },
               {
                 "name": "PC1",
@@ -1038,7 +1050,8 @@
                     "mimeType": "application/pdf",
                     "size": "267363"
                   }
-                ]
+                ],
+                "total_files": 33
               },
               {
                 "name": "PC2",
@@ -1269,9 +1282,11 @@
                     "mimeType": "application/pdf",
                     "size": "529999"
                   }
-                ]
+                ],
+                "total_files": 32
               }
-            ]
+            ],
+            "total_files": 148
           },
           {
             "name": "Prof._Romero",
@@ -1311,7 +1326,8 @@
                     "mimeType": "image/jpeg",
                     "size": "136287"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "PC5",
@@ -1346,7 +1362,8 @@
                     "mimeType": "application/pdf",
                     "size": "430651"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "PC3",
@@ -1381,7 +1398,8 @@
                     "mimeType": "application/pdf",
                     "size": "450257"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "PC4",
@@ -1416,7 +1434,8 @@
                     "mimeType": "image/jpeg",
                     "size": "580848"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "PC1",
@@ -1458,7 +1477,8 @@
                     "mimeType": "image/jpeg",
                     "size": "557207"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "PC2",
@@ -1493,9 +1513,11 @@
                     "mimeType": "image/jpeg",
                     "size": "639356"
                   }
-                ]
+                ],
+                "total_files": 4
               }
-            ]
+            ],
+            "total_files": 25
           },
           {
             "name": "Prof._Mosquera",
@@ -1514,7 +1536,8 @@
                     "mimeType": "image/jpeg",
                     "size": "236595"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC4",
@@ -1535,7 +1558,8 @@
                     "mimeType": "application/pdf",
                     "size": "187395"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "PC3",
@@ -1570,7 +1594,8 @@
                     "mimeType": "application/pdf",
                     "size": "887306"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "PC5",
@@ -1605,7 +1630,8 @@
                     "mimeType": "application/pdf",
                     "size": "194353"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "PC2",
@@ -1640,7 +1666,8 @@
                     "mimeType": "application/pdf",
                     "size": "968344"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "PC1",
@@ -1696,9 +1723,11 @@
                     "mimeType": "application/pdf",
                     "size": "219157"
                   }
-                ]
+                ],
+                "total_files": 7
               }
-            ]
+            ],
+            "total_files": 22
           },
           {
             "name": "Prof._Cañote",
@@ -1773,7 +1802,8 @@
                     "mimeType": "application/pdf",
                     "size": "163967"
                   }
-                ]
+                ],
+                "total_files": 9
               },
               {
                 "name": "PC4",
@@ -1899,7 +1929,8 @@
                     "mimeType": "application/pdf",
                     "size": "250239"
                   }
-                ]
+                ],
+                "total_files": 17
               },
               {
                 "name": "PC5",
@@ -2011,7 +2042,8 @@
                     "mimeType": "application/pdf",
                     "size": "2573052"
                   }
-                ]
+                ],
+                "total_files": 15
               },
               {
                 "name": "PC3",
@@ -2137,7 +2169,8 @@
                     "mimeType": "application/pdf",
                     "size": "6495133"
                   }
-                ]
+                ],
+                "total_files": 17
               },
               {
                 "name": "PC1",
@@ -2291,9 +2324,11 @@
                     "mimeType": "application/pdf",
                     "size": "209977"
                   }
-                ]
+                ],
+                "total_files": 21
               }
-            ]
+            ],
+            "total_files": 79
           },
           {
             "name": "Prof._Bartolomé",
@@ -2333,7 +2368,8 @@
                     "mimeType": "application/pdf",
                     "size": "175198"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "PC5",
@@ -2361,7 +2397,8 @@
                     "mimeType": "application/pdf",
                     "size": "286954"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "PC4",
@@ -2382,7 +2419,8 @@
                     "mimeType": "application/pdf",
                     "size": "135504"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "PC3",
@@ -2403,7 +2441,8 @@
                     "mimeType": "application/pdf",
                     "size": "193761"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "PC2",
@@ -2431,7 +2470,8 @@
                     "mimeType": "application/pdf",
                     "size": "170570"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "PC1",
@@ -2459,9 +2499,11 @@
                     "mimeType": "application/pdf",
                     "size": "186302"
                   }
-                ]
+                ],
+                "total_files": 3
               }
-            ]
+            ],
+            "total_files": 17
           },
           {
             "name": "ES",
@@ -2536,7 +2578,8 @@
                     "mimeType": "application/pdf",
                     "size": "92925"
                   }
-                ]
+                ],
+                "total_files": 8
               },
               {
                 "name": "BFI01_ES_25-2.pdf",
@@ -2615,7 +2658,8 @@
                 "mimeType": "application/pdf",
                 "size": "93545"
               }
-            ]
+            ],
+            "total_files": 20
           },
           {
             "name": "EP",
@@ -2776,7 +2820,8 @@
                 "mimeType": "application/pdf",
                 "size": "1144680"
               }
-            ]
+            ],
+            "total_files": 22
           },
           {
             "name": "EF",
@@ -2951,9 +2996,11 @@
                 "mimeType": "application/pdf",
                 "size": "125813"
               }
-            ]
+            ],
+            "total_files": 24
           }
-        ]
+        ],
+        "total_files": 372
       },
       {
         "name": "Libro_Cañote_Física_1",
@@ -3056,7 +3103,8 @@
                 "mimeType": "application/pdf",
                 "size": "1076584"
               }
-            ]
+            ],
+            "total_files": 11
           },
           {
             "name": "Temas_Generales",
@@ -3075,7 +3123,8 @@
                     "mimeType": "application/pdf",
                     "size": "601826"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "Termodinamica",
@@ -3089,7 +3138,8 @@
                     "mimeType": "application/pdf",
                     "size": "1500131"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "Hidroestatica",
@@ -3110,7 +3160,8 @@
                     "mimeType": "application/pdf",
                     "size": "586316"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Fluidos",
@@ -3138,7 +3189,8 @@
                     "mimeType": "application/pdf",
                     "size": "980584"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "M.A.S",
@@ -3173,7 +3225,8 @@
                     "mimeType": "application/pdf",
                     "size": "4949445"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "General_Problemas",
@@ -3194,7 +3247,8 @@
                     "mimeType": "application/pdf",
                     "size": "79438"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Elasticidad",
@@ -3215,9 +3269,11 @@
                     "mimeType": "application/pdf",
                     "size": "1186628"
                   }
-                ]
+                ],
+                "total_files": 2
               }
-            ]
+            ],
+            "total_files": 15
           },
           {
             "name": "Romero",
@@ -3285,7 +3341,8 @@
                     "mimeType": "application/pdf",
                     "size": "183803"
                   }
-                ]
+                ],
+                "total_files": 8
               },
               {
                 "name": "Semana_13",
@@ -3355,7 +3412,8 @@
                     "mimeType": "application/pdf",
                     "size": "2302209"
                   }
-                ]
+                ],
+                "total_files": 9
               },
               {
                 "name": "Semana_12",
@@ -3376,7 +3434,8 @@
                     "mimeType": "application/pdf",
                     "size": "113406"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Semana_11",
@@ -3418,7 +3477,8 @@
                     "mimeType": "application/pdf",
                     "size": "871116"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "Semana_10",
@@ -3439,7 +3499,8 @@
                     "mimeType": "application/pdf",
                     "size": "1297655"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Semana_7",
@@ -3467,7 +3528,8 @@
                     "mimeType": "application/pdf",
                     "size": "537953"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "Semana_9",
@@ -3502,7 +3564,8 @@
                     "mimeType": "application/pdf",
                     "size": "905915"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "Semana_6",
@@ -3523,7 +3586,8 @@
                     "mimeType": "application/pdf",
                     "size": "390781"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Semana_5",
@@ -3558,7 +3622,8 @@
                     "mimeType": "application/pdf",
                     "size": "2737231"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "Semana_3",
@@ -3579,7 +3644,8 @@
                     "mimeType": "application/pdf",
                     "size": "341282"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Semana_2",
@@ -3614,7 +3680,8 @@
                     "mimeType": "application/pdf",
                     "size": "1297553"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "Semana_1",
@@ -3649,9 +3716,11 @@
                     "mimeType": "application/pdf",
                     "size": "474503"
                   }
-                ]
+                ],
+                "total_files": 4
               }
-            ]
+            ],
+            "total_files": 49
           },
           {
             "name": "San_Bartolomé",
@@ -3677,7 +3746,8 @@
                     "mimeType": "application/pdf",
                     "size": "527725"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Semana_4_-_Cinemática_en_coordenadas_curvilineas",
@@ -3719,7 +3789,8 @@
                     "mimeType": "application/pdf",
                     "size": "422880"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "Semana_2_-_Equilibrio_Estático",
@@ -3754,7 +3825,8 @@
                     "mimeType": "application/pdf",
                     "size": "266101"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "Semana_10_-_Mecánica_de_fluidos",
@@ -3775,7 +3847,8 @@
                     "mimeType": "application/pdf",
                     "size": "1528966"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Semana_6_-_Dinámica_curvilínea_-_Leyes_de_Newton",
@@ -3810,7 +3883,8 @@
                     "mimeType": "application/pdf",
                     "size": "1281592"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "Semana_9_-_Sistema_de_partículas",
@@ -3831,7 +3905,8 @@
                     "mimeType": "application/pdf",
                     "size": "1260821"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Semana_13_-_Ondas_sonoras_Doppler_-_Sobreposición",
@@ -3852,7 +3927,8 @@
                     "mimeType": "application/pdf",
                     "size": "1421976"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Semana_3_-_Movimiento_en_una_y_dos_dimensiones",
@@ -3873,7 +3949,8 @@
                     "mimeType": "application/pdf",
                     "size": "4454003"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Semana_7_-_Trabajo_y_energía",
@@ -3908,7 +3985,8 @@
                     "mimeType": "application/pdf",
                     "size": "1085570"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "Semana_1_-_Álgebra_Vectorial",
@@ -3936,7 +4014,8 @@
                     "mimeType": "application/pdf",
                     "size": "2195671"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "Semana_15_-_Leyes_de_la_termodinámica",
@@ -3971,7 +4050,8 @@
                     "mimeType": "application/pdf",
                     "size": "447545"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "Semana_12_-_Movimiento_ondulatorio_-_Ondas_sonoras",
@@ -3992,7 +4072,8 @@
                     "mimeType": "application/pdf",
                     "size": "1401606"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Semana_11_-_Oscilaciones_-_MAS_-_Amortiguamiento",
@@ -4027,7 +4108,8 @@
                     "mimeType": "application/pdf",
                     "size": "351213"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "Semana_14_-_Temperatura_y_calor",
@@ -4062,9 +4144,11 @@
                     "mimeType": "application/pdf",
                     "size": "135504"
                   }
-                ]
+                ],
+                "total_files": 4
               }
-            ]
+            ],
+            "total_files": 44
           },
           {
             "name": "Valdivia",
@@ -4139,7 +4223,8 @@
                     "mimeType": "application/pdf",
                     "size": "2362778"
                   }
-                ]
+                ],
+                "total_files": 9
               },
               {
                 "name": "LOS_5_TEST_DE_LOS_LABORATORIOS_DE_FISICA_1_VALDIVIA.pdf",
@@ -4148,9 +4233,11 @@
                 "mimeType": "application/pdf",
                 "size": "1011375"
               }
-            ]
+            ],
+            "total_files": 10
           }
-        ]
+        ],
+        "total_files": 129
       },
       {
         "name": "Guías_de_laboratorio",
@@ -4213,7 +4300,8 @@
             "mimeType": "application/pdf",
             "size": "3483622"
           }
-        ]
+        ],
+        "total_files": 8
       },
       {
         "name": "Agradecimientos",
@@ -4449,7 +4537,8 @@
                 "mimeType": "application/pdf",
                 "size": "6970713"
               }
-            ]
+            ],
+            "total_files": 22
           },
           {
             "name": "Alonso_Finn_Fisica_Vol_I.pdf",
@@ -4598,8 +4687,10 @@
             "mimeType": "application/pdf",
             "size": "36852242"
           }
-        ]
+        ],
+        "total_files": 52
       }
-    ]
+    ],
+    "total_files": 566
   }
 }

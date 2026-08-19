@@ -17,25 +17,29 @@
             "name": "PC4",
             "type": "folder",
             "id": "1qq_VnlnEeL7NrsrkN-ri4ILLTLj-Qcl_",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "PC3",
             "type": "folder",
             "id": "1oEN59v-nRDIOvjm-mRjSEI07ZroKmZ4B",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "PC1",
             "type": "folder",
             "id": "1D-Mml4f2b3HIZ8kF4ETM7ZuwkHD78O2v",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "PC2",
             "type": "folder",
             "id": "1rR8QXm6yOHyEgvvk_sTJiPMLCAHOxhvP",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "ES",
@@ -49,7 +53,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "57063"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "EF",
@@ -63,7 +68,8 @@
                 "mimeType": "application/pdf",
                 "size": "151511"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "EP",
@@ -84,9 +90,11 @@
                 "mimeType": "application/pdf",
                 "size": "472296"
               }
-            ]
+            ],
+            "total_files": 2
           }
-        ]
+        ],
+        "total_files": 4
       },
       {
         "name": "Chavarry",
@@ -112,7 +120,8 @@
                 "mimeType": "application/pdf",
                 "size": "737460"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "TAREAS",
@@ -294,7 +303,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "28320"
               }
-            ]
+            ],
+            "total_files": 25
           },
           {
             "name": "Semana_7",
@@ -329,7 +339,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                 "size": "1465823"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "Semana_14",
@@ -364,7 +375,8 @@
                 "mimeType": "application/pdf",
                 "size": "714149"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "Semana_6",
@@ -399,7 +411,8 @@
                 "mimeType": "application/vnd.ms-powerpoint",
                 "size": "18786304"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "Semana_5",
@@ -434,7 +447,8 @@
                 "mimeType": "application/pdf",
                 "size": "279889"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "Semana_4",
@@ -462,7 +476,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                 "size": "233862"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "Semana_1",
@@ -532,7 +547,8 @@
                 "mimeType": "application/pdf",
                 "size": "168127"
               }
-            ]
+            ],
+            "total_files": 9
           },
           {
             "name": "Semana_15",
@@ -553,7 +569,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                 "size": "19344397"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "Mono_2019-1",
@@ -700,7 +717,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "2853959"
               }
-            ]
+            ],
+            "total_files": 20
           },
           {
             "name": "Semana_3",
@@ -735,7 +753,8 @@
                 "mimeType": "application/pdf",
                 "size": "139011"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "Semana_11",
@@ -763,7 +782,8 @@
                 "mimeType": "application/pdf",
                 "size": "478821"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "Semana_13",
@@ -784,7 +804,8 @@
                 "mimeType": "application/pdf",
                 "size": "620923"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "Semana_12",
@@ -812,7 +833,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                 "size": "19776562"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "Semana_2",
@@ -840,7 +862,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                 "size": "211150"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "SOCIOLOGÍA_20-2.html",
@@ -884,7 +907,8 @@
             "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
             "size": "88752"
           }
-        ]
+        ],
+        "total_files": 98
       },
       {
         "name": "Sanchez_Carlo",
@@ -926,7 +950,8 @@
             "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
             "size": "55690"
           }
-        ]
+        ],
+        "total_files": 5
       },
       {
         "name": "SOLUCIONARIO_ALUMNO",
@@ -937,19 +962,22 @@
             "name": "PC4",
             "type": "folder",
             "id": "1stONvsfwUGAbipdYwDge4wDiwMV1Hwk1",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "PC1",
             "type": "folder",
             "id": "1q486G6C7nyagonek4OyJy8UXv7pslDJY",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "ES",
             "type": "folder",
             "id": "1x5lye40xXu8_s2kkfksA9w-vsUfpmW05",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "PC3",
@@ -963,7 +991,8 @@
                 "mimeType": "application/pdf",
                 "size": "16786"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "EF",
@@ -977,7 +1006,8 @@
                 "mimeType": "application/pdf",
                 "size": "417051"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "EP",
@@ -991,15 +1021,18 @@
                 "mimeType": "application/pdf",
                 "size": "319487"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "PC2",
             "type": "folder",
             "id": "1FeApaO7BU0VAJS6eoAjlxbBaOuR6zbBz",
-            "children": []
+            "children": [],
+            "total_files": 0
           }
-        ]
+        ],
+        "total_files": 3
       },
       {
         "name": "EXAMENES",
@@ -1010,31 +1043,36 @@
             "name": "ES",
             "type": "folder",
             "id": "1M6bJygSEoSDdpHW_6PAe54rcOjeBSwms",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "PC4",
             "type": "folder",
             "id": "1r5PDe2Fa9yaeY65IE-tFYmu777yJs22C",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "PC3",
             "type": "folder",
             "id": "193QU5I8IQL5HucbAwn2JaCpADjKmG-vA",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "PC1",
             "type": "folder",
             "id": "1KZCXJWRenZmhoarM0rIrU_nspGF17XdP",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "PC2",
             "type": "folder",
             "id": "14op9rcqIoOvyQgzdQFu5AOZ4BBlnAs34",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "EF",
@@ -1062,7 +1100,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "31172"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "EP",
@@ -1111,9 +1150,11 @@
                 "mimeType": "application/pdf",
                 "size": "601242"
               }
-            ]
+            ],
+            "total_files": 6
           }
-        ]
+        ],
+        "total_files": 9
       },
       {
         "name": "Examen_Parcial_(1).docx",
@@ -1157,6 +1198,7 @@
         "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
         "size": "55983"
       }
-    ]
+    ],
+    "total_files": 125
   }
 }

@@ -144,9 +144,11 @@
                 "mimeType": "application/pdf",
                 "size": "754266"
               }
-            ]
+            ],
+            "total_files": 18
           }
-        ]
+        ],
+        "total_files": 18
       },
       {
         "name": "LIBROS",
@@ -195,7 +197,8 @@
             "mimeType": "application/pdf",
             "size": "15231115"
           }
-        ]
+        ],
+        "total_files": 6
       },
       {
         "name": "Planchas",
@@ -228,7 +231,8 @@
                 "mimeType": "application/pdf",
                 "size": "187899"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "PC3",
@@ -270,7 +274,8 @@
                 "mimeType": "application/pdf",
                 "size": "1548973"
               }
-            ]
+            ],
+            "total_files": 5
           },
           {
             "name": "PC2",
@@ -298,7 +303,8 @@
                 "mimeType": "application/pdf",
                 "size": "201071"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "PC1",
@@ -326,7 +332,8 @@
                 "mimeType": "application/pdf",
                 "size": "162820"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "PE",
@@ -347,7 +354,8 @@
                 "mimeType": "application/pdf",
                 "size": "147875"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "ES",
@@ -375,7 +383,8 @@
                 "mimeType": "application/pdf",
                 "size": "244947"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "EF",
@@ -410,7 +419,8 @@
                 "mimeType": "application/pdf",
                 "size": "20289463"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "EP",
@@ -480,7 +490,8 @@
                 "mimeType": "application/pdf",
                 "size": "4278487"
               }
-            ]
+            ],
+            "total_files": 9
           },
           {
             "name": "Prof._Sotomayor",
@@ -520,7 +531,8 @@
                     "mimeType": "application/pdf",
                     "size": "153831"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "2022-2,_prueba_de_entrada",
@@ -541,7 +553,8 @@
                     "mimeType": "application/pdf",
                     "size": "138719"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "2022-2,_Examen_sustitutorio",
@@ -555,7 +568,8 @@
                     "mimeType": "application/pdf",
                     "size": "378379"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "2022-2,_FB402,_práctica_3,_problema_3,_solucionario.pdf",
@@ -606,7 +620,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
                 "size": "125637"
               }
-            ]
+            ],
+            "total_files": 14
           },
           {
             "name": "PC04_Y_FINAL_calculo_numérico.pdf",
@@ -615,7 +630,8 @@
             "mimeType": "application/pdf",
             "size": "25513807"
           }
-        ]
+        ],
+        "total_files": 47
       },
       {
         "name": "Apuntes_CN_(Hualla_25-1).pdf",
@@ -624,6 +640,7 @@
         "mimeType": "application/pdf",
         "size": "108317615"
       }
-    ]
+    ],
+    "total_files": 72
   }
 }

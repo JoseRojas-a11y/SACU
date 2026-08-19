@@ -104,7 +104,8 @@
             "mimeType": "application/pdf",
             "size": "576768"
           }
-        ]
+        ],
+        "total_files": 10
       },
       {
         "name": "Planchas",
@@ -144,7 +145,8 @@
                 "mimeType": "application/pdf",
                 "size": "7655144"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "EP",
@@ -165,7 +167,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "16870"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "EF",
@@ -179,7 +182,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "31504"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "ES",
@@ -193,7 +197,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "20398"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "PC4",
@@ -207,7 +212,8 @@
                 "mimeType": "application/pdf",
                 "size": "542383"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "PC3",
@@ -221,7 +227,8 @@
                 "mimeType": "application/pdf",
                 "size": "402463"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "PC2",
@@ -249,7 +256,8 @@
                 "mimeType": "application/octet-stream",
                 "size": "81700"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "PC1",
@@ -284,9 +292,11 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "2623297"
               }
-            ]
+            ],
+            "total_files": 4
           }
-        ]
+        ],
+        "total_files": 17
       },
       {
         "name": "Libros",
@@ -307,8 +317,10 @@
             "mimeType": "application/pdf",
             "size": "7141667"
           }
-        ]
+        ],
+        "total_files": 2
       }
-    ]
+    ],
+    "total_files": 32
   }
 }

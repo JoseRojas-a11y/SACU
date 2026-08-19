@@ -76,7 +76,8 @@
             "mimeType": "application/pdf",
             "size": "1635416"
           }
-        ]
+        ],
+        "total_files": 6
       },
       {
         "name": "Teoría",
@@ -223,7 +224,8 @@
             "mimeType": "application/pdf",
             "size": "1749700"
           }
-        ]
+        ],
+        "total_files": 20
       },
       {
         "name": "Prof._Yolanda",
@@ -242,7 +244,8 @@
                 "mimeType": "application/pdf",
                 "size": "414984"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "PC4",
@@ -263,7 +266,8 @@
                 "mimeType": "application/pdf",
                 "size": "234373"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "PC3",
@@ -298,7 +302,8 @@
                 "mimeType": "application/pdf",
                 "size": "405917"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "PC2",
@@ -333,7 +338,8 @@
                 "mimeType": "application/pdf",
                 "size": "285962"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "PC1",
@@ -382,7 +388,8 @@
                 "mimeType": "image/jpeg",
                 "size": "311912"
               }
-            ]
+            ],
+            "total_files": 6
           },
           {
             "name": "EF",
@@ -424,7 +431,8 @@
                 "mimeType": "application/pdf",
                 "size": "1228048"
               }
-            ]
+            ],
+            "total_files": 5
           },
           {
             "name": "EP",
@@ -459,7 +467,8 @@
                 "mimeType": "image/jpeg",
                 "size": "361648"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "PE",
@@ -480,9 +489,11 @@
                 "mimeType": "image/jpeg",
                 "size": "282186"
               }
-            ]
+            ],
+            "total_files": 2
           }
-        ]
+        ],
+        "total_files": 28
       },
       {
         "name": "Prof._Yarko",
@@ -515,7 +526,8 @@
                 "mimeType": "application/pdf",
                 "size": "184327"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "EP",
@@ -571,7 +583,8 @@
                 "mimeType": "image/jpeg",
                 "size": "677870"
               }
-            ]
+            ],
+            "total_files": 7
           },
           {
             "name": "EF",
@@ -627,7 +640,8 @@
                 "mimeType": "image/jpeg",
                 "size": "665406"
               }
-            ]
+            ],
+            "total_files": 7
           },
           {
             "name": "PC4",
@@ -669,7 +683,8 @@
                 "mimeType": "image/jpeg",
                 "size": "517049"
               }
-            ]
+            ],
+            "total_files": 5
           },
           {
             "name": "PC3",
@@ -718,7 +733,8 @@
                 "mimeType": "image/jpeg",
                 "size": "583841"
               }
-            ]
+            ],
+            "total_files": 6
           },
           {
             "name": "PC2",
@@ -781,7 +797,8 @@
                 "mimeType": "image/jpeg",
                 "size": "717965"
               }
-            ]
+            ],
+            "total_files": 8
           },
           {
             "name": "PC1",
@@ -830,7 +847,8 @@
                 "mimeType": "image/jpeg",
                 "size": "750517"
               }
-            ]
+            ],
+            "total_files": 6
           },
           {
             "name": "PE",
@@ -844,9 +862,11 @@
                 "mimeType": "application/pdf",
                 "size": "208775"
               }
-            ]
+            ],
+            "total_files": 1
           }
-        ]
+        ],
+        "total_files": 43
       },
       {
         "name": "Apuntes_Estadística_Aplicada_(Yolanda_25-1).pdf",
@@ -855,6 +875,7 @@
         "mimeType": "application/pdf",
         "size": "140476986"
       }
-    ]
+    ],
+    "total_files": 101
   }
 }

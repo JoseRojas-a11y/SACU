@@ -37,7 +37,8 @@
                     "mimeType": "application/pdf",
                     "size": "166478"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "EP",
@@ -51,7 +52,8 @@
                     "mimeType": "application/pdf",
                     "size": "34226"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "EF",
@@ -93,9 +95,11 @@
                     "mimeType": "image/jpeg",
                     "size": "5105199"
                   }
-                ]
+                ],
+                "total_files": 5
               }
-            ]
+            ],
+            "total_files": 8
           },
           {
             "name": "Sanchez",
@@ -121,7 +125,8 @@
                     "mimeType": "application/pdf",
                     "size": "52159"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "PE",
@@ -135,7 +140,8 @@
                     "mimeType": "application/pdf",
                     "size": "175505"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "ES",
@@ -149,7 +155,8 @@
                     "mimeType": "image/jpeg",
                     "size": "151533"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC3",
@@ -163,7 +170,8 @@
                     "mimeType": "image/jpeg",
                     "size": "130117"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC2",
@@ -177,7 +185,8 @@
                     "mimeType": "application/pdf",
                     "size": "156472"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC1",
@@ -191,7 +200,8 @@
                     "mimeType": "application/pdf",
                     "size": "138855"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "EF",
@@ -205,7 +215,8 @@
                     "mimeType": "image/jpeg",
                     "size": "173025"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "EP",
@@ -226,9 +237,11 @@
                     "mimeType": "application/pdf",
                     "size": "183245"
                   }
-                ]
+                ],
+                "total_files": 2
               }
-            ]
+            ],
+            "total_files": 10
           },
           {
             "name": "Expos",
@@ -256,9 +269,11 @@
                 "mimeType": "application/pdf",
                 "size": "1168096"
               }
-            ]
+            ],
+            "total_files": 3
           }
-        ]
+        ],
+        "total_files": 21
       },
       {
         "name": "Observaciones",
@@ -293,7 +308,8 @@
             "mimeType": "application/pdf",
             "size": "7291308"
           }
-        ]
+        ],
+        "total_files": 3
       },
       {
         "name": "PPTs",
@@ -557,7 +573,8 @@
                 "mimeType": "application/pdf",
                 "size": "71315"
               }
-            ]
+            ],
+            "total_files": 36
           },
           {
             "name": "Antaurco",
@@ -627,9 +644,11 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                 "size": "516762"
               }
-            ]
+            ],
+            "total_files": 9
           }
-        ]
+        ],
+        "total_files": 45
       },
       {
         "name": "Silabus_Intro._a_la_Ing._Software.docx",
@@ -638,6 +657,7 @@
         "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
         "size": "77513"
       }
-    ]
+    ],
+    "total_files": 71
   }
 }

@@ -25,7 +25,8 @@
                 "mimeType": "application/pdf",
                 "size": "759837"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "PC4",
@@ -39,7 +40,8 @@
                 "mimeType": "application/pdf",
                 "size": "306468"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "PC3",
@@ -53,7 +55,8 @@
                 "mimeType": "application/pdf",
                 "size": "457719"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "EP",
@@ -67,7 +70,8 @@
                 "mimeType": "application/pdf",
                 "size": "393516"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "PC2",
@@ -88,7 +92,8 @@
                 "mimeType": "application/pdf",
                 "size": "1816180"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "PC1",
@@ -109,7 +114,8 @@
                 "mimeType": "application/pdf",
                 "size": "362985"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "PE",
@@ -123,9 +129,11 @@
                 "mimeType": "application/pdf",
                 "size": "1488168"
               }
-            ]
+            ],
+            "total_files": 1
           }
-        ]
+        ],
+        "total_files": 9
       },
       {
         "name": "Material_de_Audante",
@@ -179,7 +187,8 @@
                 "mimeType": "application/x-zip-compressed",
                 "size": "295381"
               }
-            ]
+            ],
+            "total_files": 5
           },
           {
             "name": "Semana_14",
@@ -207,7 +216,8 @@
                 "mimeType": "application/x-zip-compressed",
                 "size": "63187"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "Semana_13",
@@ -228,7 +238,8 @@
                 "mimeType": "application/x-zip-compressed",
                 "size": "259687"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "Semana_12",
@@ -270,7 +281,8 @@
                 "mimeType": "application/pdf",
                 "size": "217691"
               }
-            ]
+            ],
+            "total_files": 5
           },
           {
             "name": "Semana_10",
@@ -284,7 +296,8 @@
                 "mimeType": "application/pdf",
                 "size": "2710105"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "Semana_9",
@@ -326,7 +339,8 @@
                 "mimeType": "application/pdf",
                 "size": "876315"
               }
-            ]
+            ],
+            "total_files": 5
           },
           {
             "name": "Semana_7",
@@ -340,7 +354,8 @@
                 "mimeType": "application/pdf",
                 "size": "3861306"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "Semana_6",
@@ -396,7 +411,8 @@
                 "mimeType": "application/pdf",
                 "size": "362405"
               }
-            ]
+            ],
+            "total_files": 7
           },
           {
             "name": "Semana_5",
@@ -424,7 +440,8 @@
                 "mimeType": "application/pdf",
                 "size": "386524"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "Semana_4",
@@ -508,7 +525,8 @@
                 "mimeType": "application/pdf",
                 "size": "2660013"
               }
-            ]
+            ],
+            "total_files": 11
           },
           {
             "name": "Semana_3",
@@ -557,7 +575,8 @@
                 "mimeType": "application/pdf",
                 "size": "1071877"
               }
-            ]
+            ],
+            "total_files": 6
           },
           {
             "name": "SW305_Sílabo-Algoritmia-y-Estructura-de-datos-avanzada-2026-I-v1.0.pdf",
@@ -620,7 +639,8 @@
                 "mimeType": "application/pdf",
                 "size": "589486"
               }
-            ]
+            ],
+            "total_files": 7
           },
           {
             "name": "Semana_1",
@@ -669,10 +689,13 @@
                 "mimeType": "application/pdf",
                 "size": "311142"
               }
-            ]
+            ],
+            "total_files": 6
           }
-        ]
+        ],
+        "total_files": 64
       }
-    ]
+    ],
+    "total_files": 73
   }
 }

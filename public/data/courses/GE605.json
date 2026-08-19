@@ -144,7 +144,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
                 "size": "9298"
               }
-            ]
+            ],
+            "total_files": 18
           },
           {
             "name": "Monografias",
@@ -212,7 +213,8 @@
                     "mimeType": "text/csv",
                     "size": "203"
                   }
-                ]
+                ],
+                "total_files": 8
               },
               {
                 "name": "Monografia_2",
@@ -261,9 +263,11 @@
                     "mimeType": "application/octet-stream",
                     "size": "374010"
                   }
-                ]
+                ],
+                "total_files": 6
               }
-            ]
+            ],
+            "total_files": 14
           },
           {
             "name": "Examenes",
@@ -282,7 +286,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "38362"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "EP",
@@ -345,7 +350,8 @@
                     "mimeType": "application/pdf",
                     "size": "189391"
                   }
-                ]
+                ],
+                "total_files": 8
               },
               {
                 "name": "EF",
@@ -378,7 +384,8 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
                         "size": "32488"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "GE605V_EF_21-2.docx",
@@ -443,7 +450,8 @@
                     "mimeType": "application/pdf",
                     "size": "380552"
                   }
-                ]
+                ],
+                "total_files": 12
               },
               {
                 "name": "PC4_-_GRUPO_3.pdf",
@@ -585,7 +593,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
                 "size": "21128"
               }
-            ]
+            ],
+            "total_files": 41
           },
           {
             "name": "UNI_25-2_Financiera_-_Grupos_y_Empresas.xlsx",
@@ -601,8 +610,10 @@
             "mimeType": "text/plain",
             "size": "65"
           }
-        ]
+        ],
+        "total_files": 75
       }
-    ]
+    ],
+    "total_files": 75
   }
 }

@@ -88,7 +88,8 @@
                 "mimeType": "application/pdf",
                 "size": "753067"
               }
-            ]
+            ],
+            "total_files": 10
           },
           {
             "name": "Formato_de_PCs.txt",
@@ -179,7 +180,8 @@
                 "mimeType": "application/pdf",
                 "size": "200556"
               }
-            ]
+            ],
+            "total_files": 11
           },
           {
             "name": "Semana_12",
@@ -214,7 +216,8 @@
                 "mimeType": "application/pdf",
                 "size": "812142"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "Semana_11",
@@ -242,7 +245,8 @@
                 "mimeType": "application/pdf",
                 "size": "775841"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "Semana_10",
@@ -256,7 +260,8 @@
                 "mimeType": "application/pdf",
                 "size": "955971"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "Semana_9",
@@ -291,7 +296,8 @@
                 "mimeType": "application/pdf",
                 "size": "765644"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "Semana_7",
@@ -305,7 +311,8 @@
                 "mimeType": "application/pdf",
                 "size": "843778"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "Semana_6",
@@ -333,7 +340,8 @@
                 "mimeType": "application/pdf",
                 "size": "618169"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "Semana_5",
@@ -368,7 +376,8 @@
                 "mimeType": "application/pdf",
                 "size": "988222"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "Semana_4",
@@ -445,7 +454,8 @@
                 "mimeType": "application/pdf",
                 "size": "123886"
               }
-            ]
+            ],
+            "total_files": 10
           },
           {
             "name": "Semana_3",
@@ -480,7 +490,8 @@
                 "mimeType": "application/pdf",
                 "size": "1180084"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "Semana_2",
@@ -534,7 +545,8 @@
                     "mimeType": "application/pdf",
                     "size": "62377"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "Clase_02-IIS.pdf",
@@ -557,7 +569,8 @@
                 "mimeType": "application/pdf",
                 "size": "264624"
               }
-            ]
+            ],
+            "total_files": 9
           },
           {
             "name": "Semana_1",
@@ -571,9 +584,11 @@
                 "mimeType": "application/pdf",
                 "size": "1517904"
               }
-            ]
+            ],
+            "total_files": 1
           }
-        ]
+        ],
+        "total_files": 66
       },
       {
         "name": "SI101_Silabo.pdf",
@@ -601,7 +616,8 @@
             "mimeType": "application/pdf",
             "size": "5149866"
           }
-        ]
+        ],
+        "total_files": 2
       },
       {
         "name": "ES",
@@ -636,7 +652,8 @@
             "mimeType": "application/pdf",
             "size": "32494"
           }
-        ]
+        ],
+        "total_files": 4
       },
       {
         "name": "EF",
@@ -748,7 +765,8 @@
             "mimeType": "application/pdf",
             "size": "126400"
           }
-        ]
+        ],
+        "total_files": 15
       },
       {
         "name": "EP",
@@ -825,8 +843,10 @@
             "mimeType": "application/pdf",
             "size": "701257"
           }
-        ]
+        ],
+        "total_files": 10
       }
-    ]
+    ],
+    "total_files": 98
   }
 }

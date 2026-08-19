@@ -32,7 +32,8 @@
                 "mimeType": "application/pdf",
                 "size": "439652"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "FINAL",
@@ -60,7 +61,8 @@
                 "mimeType": "application/pdf",
                 "size": "1048183"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "PARCIAL",
@@ -123,7 +125,8 @@
                 "mimeType": "image/jpeg",
                 "size": "46768"
               }
-            ]
+            ],
+            "total_files": 8
           },
           {
             "name": "PC01",
@@ -207,7 +210,8 @@
                 "mimeType": "image/jpeg",
                 "size": "27935"
               }
-            ]
+            ],
+            "total_files": 11
           },
           {
             "name": "PC04",
@@ -228,9 +232,11 @@
                 "mimeType": "application/pdf",
                 "size": "137227"
               }
-            ]
+            ],
+            "total_files": 2
           }
-        ]
+        ],
+        "total_files": 26
       },
       {
         "name": "Aguero",
@@ -280,7 +286,8 @@
                         "mimeType": "application/pdf",
                         "size": "312253"
                       }
-                    ]
+                    ],
+                    "total_files": 4
                   },
                   {
                     "name": "Semana_10",
@@ -301,7 +308,8 @@
                         "mimeType": "application/pdf",
                         "size": "4324798"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "Semana_05",
@@ -343,7 +351,8 @@
                         "mimeType": "application/vnd.ms-powerpoint",
                         "size": "839168"
                       }
-                    ]
+                    ],
+                    "total_files": 5
                   },
                   {
                     "name": "Semana_09",
@@ -364,7 +373,8 @@
                         "mimeType": "application/pdf",
                         "size": "580114"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "Semana_02",
@@ -378,7 +388,8 @@
                         "mimeType": "application/pdf",
                         "size": "795674"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Semana_07",
@@ -392,7 +403,8 @@
                         "mimeType": "application/pdf",
                         "size": "2311619"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "Semana_06",
@@ -413,7 +425,8 @@
                         "mimeType": "application/vnd.ms-powerpoint",
                         "size": "967168"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "Semana_03",
@@ -448,7 +461,8 @@
                         "mimeType": "application/vnd.ms-powerpoint",
                         "size": "1773568"
                       }
-                    ]
+                    ],
+                    "total_files": 4
                   },
                   {
                     "name": "Semana_01",
@@ -469,9 +483,11 @@
                         "mimeType": "application/pdf",
                         "size": "795674"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   }
-                ]
+                ],
+                "total_files": 23
               },
               {
                 "name": "Material_PC4",
@@ -555,7 +571,8 @@
                     "mimeType": "application/vnd.ms-powerpoint",
                     "size": "2213376"
                   }
-                ]
+                ],
+                "total_files": 11
               },
               {
                 "name": "Material_PC3",
@@ -618,7 +635,8 @@
                     "mimeType": "application/pdf",
                     "size": "2434497"
                   }
-                ]
+                ],
+                "total_files": 8
               },
               {
                 "name": "Manuales",
@@ -646,7 +664,8 @@
                     "mimeType": "application/pdf",
                     "size": "8883121"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "Documento_sin_título.docx",
@@ -662,7 +681,8 @@
                 "mimeType": "application/pdf",
                 "size": "7875233"
               }
-            ]
+            ],
+            "total_files": 47
           },
           {
             "name": "PLANCHITAS",
@@ -688,7 +708,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "25709"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Parcial",
@@ -733,7 +754,8 @@
                             "mimeType": "application/pdf",
                             "size": "183994"
                           }
-                        ]
+                        ],
+                        "total_files": 4
                       },
                       {
                         "name": "Material_2da_PC",
@@ -789,9 +811,11 @@
                             "mimeType": "application/vnd.ms-powerpoint",
                             "size": "46627328"
                           }
-                        ]
+                        ],
+                        "total_files": 7
                       }
-                    ]
+                    ],
+                    "total_files": 11
                   },
                   {
                     "name": "PARCIAL_MATERIALES_2021-1_(1).doc",
@@ -835,7 +859,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "18252"
                   }
-                ]
+                ],
+                "total_files": 17
               },
               {
                 "name": "Final",
@@ -870,7 +895,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "21404"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "2pc",
@@ -912,7 +938,8 @@
                     "mimeType": "application/msword",
                     "size": "30720"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "3pc",
@@ -933,7 +960,8 @@
                     "mimeType": "application/pdf",
                     "size": "238499"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "4pc",
@@ -982,7 +1010,8 @@
                     "mimeType": "image/jpeg",
                     "size": "46827"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "1pc",
@@ -1066,7 +1095,8 @@
                     "mimeType": "image/jpeg",
                     "size": "65102"
                   }
-                ]
+                ],
+                "total_files": 11
               },
               {
                 "name": "EVALUACIONES_PCs-18-2.pdf",
@@ -1075,10 +1105,13 @@
                 "mimeType": "application/pdf",
                 "size": "2430972"
               }
-            ]
+            ],
+            "total_files": 48
           }
-        ]
+        ],
+        "total_files": 95
       }
-    ]
+    ],
+    "total_files": 121
   }
 }

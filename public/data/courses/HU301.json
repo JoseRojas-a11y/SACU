@@ -39,7 +39,8 @@
                 "mimeType": "application/pdf",
                 "size": "143158"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "Planchas",
@@ -102,9 +103,11 @@
                 "mimeType": "image/jpeg",
                 "size": "627909"
               }
-            ]
+            ],
+            "total_files": 8
           }
-        ]
+        ],
+        "total_files": 11
       },
       {
         "name": "FORMATO_2A_SILABO_mi_23-1.pdf",
@@ -137,10 +140,13 @@
                 "mimeType": "image/jpeg",
                 "size": "5915125"
               }
-            ]
+            ],
+            "total_files": 2
           }
-        ]
+        ],
+        "total_files": 2
       }
-    ]
+    ],
+    "total_files": 14
   }
 }

@@ -46,7 +46,8 @@
                 "mimeType": "image/jpeg",
                 "size": "53579"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "Tareas",
@@ -88,7 +89,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                 "size": "2344951"
               }
-            ]
+            ],
+            "total_files": 5
           },
           {
             "name": "Planchas",
@@ -107,7 +109,8 @@
                     "mimeType": "application/pdf",
                     "size": "222633"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "EF",
@@ -128,7 +131,8 @@
                     "mimeType": "application/pdf",
                     "size": "2081632"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "EP",
@@ -170,7 +174,8 @@
                     "mimeType": "application/pdf",
                     "size": "1196725"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "PC2",
@@ -191,7 +196,8 @@
                     "mimeType": "application/pdf",
                     "size": "1092121"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "PC1",
@@ -233,9 +239,11 @@
                     "mimeType": "application/pdf",
                     "size": "221539"
                   }
-                ]
+                ],
+                "total_files": 5
               }
-            ]
+            ],
+            "total_files": 15
           },
           {
             "name": "Problemas",
@@ -263,9 +271,11 @@
                 "mimeType": "application/pdf",
                 "size": "741041"
               }
-            ]
+            ],
+            "total_files": 3
           }
-        ]
+        ],
+        "total_files": 26
       },
       {
         "name": "Teoría",
@@ -298,7 +308,8 @@
                 "mimeType": "application/pdf",
                 "size": "5073556"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "PPT",
@@ -389,9 +400,11 @@
                 "mimeType": "application/pdf",
                 "size": "1571090"
               }
-            ]
+            ],
+            "total_files": 12
           }
-        ]
+        ],
+        "total_files": 15
       },
       {
         "name": "SILABO_ARQUITECTURA_I.pdf",
@@ -400,6 +413,7 @@
         "mimeType": "application/pdf",
         "size": "281875"
       }
-    ]
+    ],
+    "total_files": 43
   }
 }

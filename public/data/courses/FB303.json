@@ -58,7 +58,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "469113"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Semana_15",
@@ -79,7 +80,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "2302785"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Semana_1",
@@ -100,7 +102,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "3691469"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Semana_2",
@@ -121,7 +124,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "475102"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Semana_12",
@@ -142,7 +146,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "462347"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Semana_11",
@@ -156,7 +161,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "948903"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "Semana_4",
@@ -177,7 +183,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "50885"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Semana_6",
@@ -191,7 +198,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "522117"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "Semana_10",
@@ -212,7 +220,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "79525"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Semana_14",
@@ -233,7 +242,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "78306"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Semana_13",
@@ -261,7 +271,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "990644"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "Semana_9",
@@ -282,7 +293,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "5127397"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Semana_7",
@@ -303,7 +315,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "690151"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Semana_5",
@@ -331,9 +344,11 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "2024235"
                   }
-                ]
+                ],
+                "total_files": 3
               }
-            ]
+            ],
+            "total_files": 28
           },
           {
             "name": "Ejercicios_sobre_transformaciones.pdf",
@@ -480,7 +495,8 @@
                 "mimeType": "application/pdf",
                 "size": "837107"
               }
-            ]
+            ],
+            "total_files": 17
           },
           {
             "name": "Material_Echeandía",
@@ -543,9 +559,11 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                 "size": "172916"
               }
-            ]
+            ],
+            "total_files": 8
           }
-        ]
+        ],
+        "total_files": 56
       },
       {
         "name": "Libros",
@@ -629,7 +647,8 @@
             "mimeType": "application/pdf",
             "size": "9528735"
           }
-        ]
+        ],
+        "total_files": 11
       },
       {
         "name": "Planchas",
@@ -725,7 +744,8 @@
                 "mimeType": "image/jpeg",
                 "size": "98540"
               }
-            ]
+            ],
+            "total_files": 11
           },
           {
             "name": "PC4",
@@ -949,7 +969,8 @@
                 "mimeType": "application/pdf",
                 "size": "3122809"
               }
-            ]
+            ],
+            "total_files": 31
           },
           {
             "name": "PC3",
@@ -1152,7 +1173,8 @@
                 "mimeType": "application/pdf",
                 "size": "277444"
               }
-            ]
+            ],
+            "total_files": 28
           },
           {
             "name": "PC2",
@@ -1376,7 +1398,8 @@
                 "mimeType": "application/pdf",
                 "size": "239743"
               }
-            ]
+            ],
+            "total_files": 31
           },
           {
             "name": "PC1",
@@ -1600,7 +1623,8 @@
                 "mimeType": "application/pdf",
                 "size": "5390880"
               }
-            ]
+            ],
+            "total_files": 31
           },
           {
             "name": "EP",
@@ -1803,7 +1827,8 @@
                 "mimeType": "application/pdf",
                 "size": "4458901"
               }
-            ]
+            ],
+            "total_files": 28
           },
           {
             "name": "ES",
@@ -1990,9 +2015,11 @@
                     "mimeType": "image/jpeg",
                     "size": "139094"
                   }
-                ]
+                ],
+                "total_files": 11
               }
-            ]
+            ],
+            "total_files": 25
           },
           {
             "name": "EF",
@@ -2188,7 +2215,8 @@
                 "mimeType": "application/pdf",
                 "size": "3559519"
               }
-            ]
+            ],
+            "total_files": 27
           },
           {
             "name": "REAL_COMPENDIO_DE_EXAMENES_MULTIVARIABLE.pdf",
@@ -2197,8 +2225,10 @@
             "mimeType": "application/pdf",
             "size": "51015478"
           }
-        ]
+        ],
+        "total_files": 214
       }
-    ]
+    ],
+    "total_files": 284
   }
 }

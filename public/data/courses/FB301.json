@@ -65,7 +65,8 @@
                     "mimeType": "application/pdf",
                     "size": "1171384"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Semana_7",
@@ -107,7 +108,8 @@
                     "mimeType": "application/pdf",
                     "size": "261340"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "Semana_12",
@@ -149,7 +151,8 @@
                     "mimeType": "application/pdf",
                     "size": "120846"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "Semana_6",
@@ -191,7 +194,8 @@
                     "mimeType": "application/pdf",
                     "size": "675913"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "Semana_9",
@@ -233,7 +237,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "1428584"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "Semana_15",
@@ -268,7 +273,8 @@
                     "mimeType": "application/pdf",
                     "size": "682894"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "Semana_1",
@@ -303,7 +309,8 @@
                     "mimeType": "application/pdf",
                     "size": "1543650"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "Semana_14",
@@ -338,7 +345,8 @@
                     "mimeType": "application/pdf",
                     "size": "94915"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "Semana_10",
@@ -394,7 +402,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "535196"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "Semana_13",
@@ -450,7 +459,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "199484"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "Semana_2",
@@ -485,7 +495,8 @@
                     "mimeType": "application/pdf",
                     "size": "15996"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "Semana_4",
@@ -548,7 +559,8 @@
                     "mimeType": "application/pdf",
                     "size": "1393055"
                   }
-                ]
+                ],
+                "total_files": 8
               },
               {
                 "name": "Semana_3",
@@ -611,7 +623,8 @@
                     "mimeType": "application/pdf",
                     "size": "107945"
                   }
-                ]
+                ],
+                "total_files": 8
               },
               {
                 "name": "Semana_11",
@@ -653,11 +666,14 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "1548143"
                   }
-                ]
+                ],
+                "total_files": 5
               }
-            ]
+            ],
+            "total_files": 73
           }
-        ]
+        ],
+        "total_files": 77
       },
       {
         "name": "Sílabo_Matemática_Discreta.pdf",
@@ -704,7 +720,8 @@
                 "mimeType": "image/jpeg",
                 "size": "2445954"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "PC3",
@@ -989,7 +1006,8 @@
                     "mimeType": "image/jpeg",
                     "size": "3287433"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "17-1",
@@ -1052,9 +1070,11 @@
                     "mimeType": "image/jpeg",
                     "size": "3143016"
                   }
-                ]
+                ],
+                "total_files": 8
               }
-            ]
+            ],
+            "total_files": 47
           },
           {
             "name": "PC2",
@@ -1404,7 +1424,8 @@
                 "mimeType": "image/jpeg",
                 "size": "3275543"
               }
-            ]
+            ],
+            "total_files": 49
           },
           {
             "name": "PC1",
@@ -1824,7 +1845,8 @@
                 "mimeType": "application/pdf",
                 "size": "92591"
               }
-            ]
+            ],
+            "total_files": 59
           },
           {
             "name": "PE",
@@ -2006,7 +2028,8 @@
                 "mimeType": "application/pdf",
                 "size": "755819"
               }
-            ]
+            ],
+            "total_files": 25
           },
           {
             "name": "ES",
@@ -2137,9 +2160,11 @@
                     "mimeType": "application/pdf",
                     "size": "32031"
                   }
-                ]
+                ],
+                "total_files": 2
               }
-            ]
+            ],
+            "total_files": 17
           },
           {
             "name": "EF",
@@ -2405,7 +2430,8 @@
                 "mimeType": "application/pdf",
                 "size": "136560"
               }
-            ]
+            ],
+            "total_files": 37
           },
           {
             "name": "links_de_Tocto",
@@ -2650,9 +2676,11 @@
                 "mimeType": "application/pdf",
                 "size": "105951"
               }
-            ]
+            ],
+            "total_files": 32
           }
-        ]
+        ],
+        "total_files": 270
       },
       {
         "name": "Libros",
@@ -2713,7 +2741,8 @@
                 "mimeType": "application/pdf",
                 "size": "302822690"
               }
-            ]
+            ],
+            "total_files": 7
           },
           {
             "name": "MD._Algoritmos.pdf",
@@ -2911,8 +2940,10 @@
             "mimeType": "application/pdf",
             "size": "6442885"
           }
-        ]
+        ],
+        "total_files": 35
       }
-    ]
+    ],
+    "total_files": 385
   }
 }

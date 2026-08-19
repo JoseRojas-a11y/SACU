@@ -34,7 +34,8 @@
             "mimeType": "application/msword",
             "size": "1003520"
           }
-        ]
+        ],
+        "total_files": 3
       },
       {
         "name": "LUJÁN",
@@ -137,7 +138,8 @@
                 "mimeType": "application/pdf",
                 "size": "2460662"
               }
-            ]
+            ],
+            "total_files": 13
           },
           {
             "name": "Clases",
@@ -291,7 +293,8 @@
                 "mimeType": "application/pdf",
                 "size": "143291"
               }
-            ]
+            ],
+            "total_files": 21
           },
           {
             "name": "WinQSB2.0_win7",
@@ -998,7 +1001,8 @@
                 "mimeType": "application/octet-stream",
                 "size": "200"
               }
-            ]
+            ],
+            "total_files": 100
           },
           {
             "name": "EP",
@@ -1040,7 +1044,8 @@
                 "mimeType": "application/pdf",
                 "size": "88612"
               }
-            ]
+            ],
+            "total_files": 5
           },
           {
             "name": "PC3",
@@ -1068,7 +1073,8 @@
                 "mimeType": "application/pdf",
                 "size": "257484"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "ES",
@@ -1089,7 +1095,8 @@
                 "mimeType": "application/pdf",
                 "size": "319382"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "PC1",
@@ -1117,7 +1124,8 @@
                 "mimeType": "application/pdf",
                 "size": "301825"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "PC4",
@@ -1145,7 +1153,8 @@
                 "mimeType": "application/pdf",
                 "size": "227287"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "EF",
@@ -1187,7 +1196,8 @@
                 "mimeType": "application/pdf",
                 "size": "228452"
               }
-            ]
+            ],
+            "total_files": 5
           },
           {
             "name": "PC2",
@@ -1222,7 +1232,8 @@
                 "mimeType": "application/pdf",
                 "size": "72583"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "Ruta_más_corta.pdf",
@@ -1245,7 +1256,8 @@
             "mimeType": "application/pdf",
             "size": "371763"
           }
-        ]
+        ],
+        "total_files": 162
       },
       {
         "name": "MEDINA",
@@ -1271,7 +1283,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "23622"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "PC2",
@@ -1299,13 +1312,15 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "99770"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "PC4",
             "type": "folder",
             "id": "1KUkxLGCRANUFa71X6T5oi95XEhplOI1t",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "PC1",
@@ -1354,7 +1369,8 @@
                 "mimeType": "application/pdf",
                 "size": "780810"
               }
-            ]
+            ],
+            "total_files": 6
           },
           {
             "name": "ES",
@@ -1375,7 +1391,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
                 "size": "95289"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "EF",
@@ -1396,7 +1413,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "24140"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "EP",
@@ -1445,7 +1463,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "73121"
               }
-            ]
+            ],
+            "total_files": 6
           },
           {
             "name": "Para_Teoria_de_Cola.xlsx",
@@ -1503,8 +1522,10 @@
             "mimeType": "application/pdf",
             "size": "10910949"
           }
-        ]
+        ],
+        "total_files": 29
       }
-    ]
+    ],
+    "total_files": 194
   }
 }

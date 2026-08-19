@@ -34,7 +34,8 @@
             "mimeType": "application/pdf",
             "size": "338043"
           }
-        ]
+        ],
+        "total_files": 3
       },
       {
         "name": "LESCANOLIBRO_2.0.pptx",
@@ -86,7 +87,8 @@
                     "mimeType": "application/pdf",
                     "size": "968464"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Semana_10_y_11",
@@ -135,7 +137,8 @@
                     "mimeType": "application/pdf",
                     "size": "879503"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "Semana_7_y_9",
@@ -184,7 +187,8 @@
                     "mimeType": "application/pdf",
                     "size": "224513"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "Semana_2_y_3",
@@ -226,7 +230,8 @@
                     "mimeType": "application/pdf",
                     "size": "538201"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "MATERIAL_DE_APOYO",
@@ -268,7 +273,8 @@
                     "mimeType": "application/pdf",
                     "size": "88098"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "FB202U[261]_Sample3.pdf",
@@ -310,7 +316,8 @@
                     "mimeType": "application/pdf",
                     "size": "1908677"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "Semana_4",
@@ -331,7 +338,8 @@
                     "mimeType": "application/pdf",
                     "size": "1590617"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Semana_13",
@@ -345,7 +353,8 @@
                     "mimeType": "application/pdf",
                     "size": "255933"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "Semana_12",
@@ -387,7 +396,8 @@
                     "mimeType": "application/pdf",
                     "size": "250353"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "Semana_14",
@@ -401,7 +411,8 @@
                     "mimeType": "application/pdf",
                     "size": "101593"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "Semana_1",
@@ -436,9 +447,11 @@
                     "mimeType": "application/pdf",
                     "size": "500404"
                   }
-                ]
+                ],
+                "total_files": 4
               }
-            ]
+            ],
+            "total_files": 43
           },
           {
             "name": "Carlos_Chafloque",
@@ -520,17 +533,21 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "2517895"
                   }
-                ]
+                ],
+                "total_files": 2
               }
-            ]
+            ],
+            "total_files": 10
           },
           {
             "name": "Daniel_Alcántara",
             "type": "folder",
             "id": "1Xgm0cPiTTiXhtcthSJLb8iTd_rEQ6N0c",
-            "children": []
+            "children": [],
+            "total_files": 0
           }
-        ]
+        ],
+        "total_files": 53
       },
       {
         "name": "Alcantaracuaderno_QUIM_II.pdf",
@@ -598,7 +615,8 @@
                 "mimeType": "application/pdf",
                 "size": "336508"
               }
-            ]
+            ],
+            "total_files": 6
           },
           {
             "name": "EP",
@@ -619,7 +637,8 @@
                 "mimeType": "application/pdf",
                 "size": "124035"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "Carlos_Chafloque",
@@ -659,7 +678,8 @@
                     "mimeType": "application/pdf",
                     "size": "375016"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "EF",
@@ -708,7 +728,8 @@
                     "mimeType": "application/pdf",
                     "size": "235763"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "EP",
@@ -729,7 +750,8 @@
                     "mimeType": "image/jpeg",
                     "size": "53583"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "PC4",
@@ -785,7 +807,8 @@
                     "mimeType": "application/pdf",
                     "size": "74257"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "PC3",
@@ -827,7 +850,8 @@
                     "mimeType": "application/pdf",
                     "size": "2105097"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "PC2",
@@ -848,7 +872,8 @@
                     "mimeType": "application/pdf",
                     "size": "5752562"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "PC1",
@@ -890,9 +915,11 @@
                     "mimeType": "image/jpeg",
                     "size": "381026"
                   }
-                ]
+                ],
+                "total_files": 5
               }
-            ]
+            ],
+            "total_files": 31
           },
           {
             "name": "Luis_Lescano",
@@ -988,7 +1015,8 @@
                     "mimeType": "application/pdf",
                     "size": "586557"
                   }
-                ]
+                ],
+                "total_files": 10
               },
               {
                 "name": "EF",
@@ -1037,7 +1065,8 @@
                     "mimeType": "application/pdf",
                     "size": "372413"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "EP",
@@ -1065,7 +1094,8 @@
                     "mimeType": "application/pdf",
                     "size": "1776668"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "PC4",
@@ -1128,7 +1158,8 @@
                     "mimeType": "image/jpeg",
                     "size": "147636"
                   }
-                ]
+                ],
+                "total_files": 8
               },
               {
                 "name": "PC3",
@@ -1219,7 +1250,8 @@
                     "mimeType": "application/pdf",
                     "size": "114203"
                   }
-                ]
+                ],
+                "total_files": 12
               },
               {
                 "name": "PC2",
@@ -1261,7 +1293,8 @@
                     "mimeType": "application/pdf",
                     "size": "405553"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "PC1",
@@ -1387,9 +1420,11 @@
                     "mimeType": "image/jpeg",
                     "size": "170452"
                   }
-                ]
+                ],
+                "total_files": 17
               }
-            ]
+            ],
+            "total_files": 63
           },
           {
             "name": "Daniel_Alcántara",
@@ -1415,7 +1450,8 @@
                     "mimeType": "image/jpeg",
                     "size": "66963"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "EF",
@@ -1464,7 +1500,8 @@
                     "mimeType": "image/jpeg",
                     "size": "77314"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "EP",
@@ -1478,7 +1515,8 @@
                     "mimeType": "application/pdf",
                     "size": "1488325"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC4",
@@ -1492,7 +1530,8 @@
                     "mimeType": "image/jpeg",
                     "size": "103183"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC3",
@@ -1520,7 +1559,8 @@
                     "mimeType": "application/pdf",
                     "size": "174591"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "PC2",
@@ -1541,7 +1581,8 @@
                     "mimeType": "application/pdf",
                     "size": "1122562"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "PC1",
@@ -1569,9 +1610,11 @@
                     "mimeType": "application/pdf",
                     "size": "258181"
                   }
-                ]
+                ],
+                "total_files": 3
               }
-            ]
+            ],
+            "total_files": 18
           },
           {
             "name": "Seminarios",
@@ -1641,9 +1684,11 @@
                 "mimeType": "application/pdf",
                 "size": "921574"
               }
-            ]
+            ],
+            "total_files": 9
           }
-        ]
+        ],
+        "total_files": 129
       },
       {
         "name": "Libros",
@@ -1664,7 +1709,8 @@
             "mimeType": "application/pdf",
             "size": "10266777"
           }
-        ]
+        ],
+        "total_files": 2
       },
       {
         "name": "silabo_quimica_2.pdf",
@@ -1673,6 +1719,7 @@
         "mimeType": "application/pdf",
         "size": "503376"
       }
-    ]
+    ],
+    "total_files": 192
   }
 }

@@ -15,6 +15,23 @@ interface TreeNodeProps {
   isFirstChild?: boolean
 }
 
+function countFolderTotalFiles(folder: DriveFolderNode): number {
+  if (typeof folder.total_files === 'number') {
+    return folder.total_files
+  }
+  let count = 0
+  const children = Array.isArray(folder.children) ? folder.children : []
+  for (const child of children) {
+    if (!child) continue
+    if (child.type === 'file') {
+      count += 1
+    } else if (child.type === 'folder') {
+      count += countFolderTotalFiles(child)
+    }
+  }
+  return count
+}
+
 function FolderTreeNode({
   folder,
   selectedFolder,
@@ -31,9 +48,7 @@ function FolderTreeNode({
   const subfolders = children.filter(
     (child): child is DriveFolderNode => Boolean(child && child.type === 'folder')
   )
-  const totalFiles = typeof folder.total_files === 'number'
-    ? folder.total_files
-    : children.filter((child) => Boolean(child && child.type === 'file')).length
+  const totalFiles = countFolderTotalFiles(folder)
 
   const displayName = formatDisplayName(folder.name || '')
 

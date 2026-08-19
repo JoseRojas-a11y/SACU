@@ -307,7 +307,8 @@
             "mimeType": "application/pdf",
             "size": "881803"
           }
-        ]
+        ],
+        "total_files": 42
       },
       {
         "name": "Chávarri",
@@ -326,7 +327,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "91387"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "PC3",
@@ -340,7 +342,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "39319"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "PC2",
@@ -354,7 +357,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "20680"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "PC1",
@@ -382,7 +386,8 @@
                 "mimeType": "application/pdf",
                 "size": "138972"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "Práctica_de_mapas_conceptuales",
@@ -396,7 +401,8 @@
                 "mimeType": "application/pdf",
                 "size": "941473"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "Práctica_de_normativa",
@@ -410,7 +416,8 @@
                 "mimeType": "application/pdf",
                 "size": "631458"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "Teoría",
@@ -429,7 +436,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "146003"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "Semana_14",
@@ -457,7 +465,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "64720"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "Semana_13",
@@ -520,7 +529,8 @@
                     "mimeType": "application/vnd.ms-powerpoint",
                     "size": "3927552"
                   }
-                ]
+                ],
+                "total_files": 8
               },
               {
                 "name": "Semana_12",
@@ -562,7 +572,8 @@
                     "mimeType": "application/pdf",
                     "size": "314709"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "Semana_11",
@@ -625,7 +636,8 @@
                     "mimeType": "application/pdf",
                     "size": "111941"
                   }
-                ]
+                ],
+                "total_files": 8
               },
               {
                 "name": "Semana_10",
@@ -667,7 +679,8 @@
                     "mimeType": "application/pdf",
                     "size": "150170"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "Semana_8",
@@ -702,7 +715,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "49826"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "Semana_7",
@@ -716,7 +730,8 @@
                     "mimeType": "application/vnd.ms-powerpoint",
                     "size": "2721792"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "Semana_6",
@@ -744,7 +759,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "291641"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "Semana_5",
@@ -786,7 +802,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "280811"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "Semana_4",
@@ -821,7 +838,8 @@
                     "mimeType": "application/vnd.ms-powerpoint",
                     "size": "6757376"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "Semana_3",
@@ -877,7 +895,8 @@
                     "mimeType": "application/vnd.ms-powerpoint",
                     "size": "9565184"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "Semana_2",
@@ -933,7 +952,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "4295753"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "Semana_1",
@@ -975,11 +995,14 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "19216364"
                   }
-                ]
+                ],
+                "total_files": 5
               }
-            ]
+            ],
+            "total_files": 66
           }
-        ]
+        ],
+        "total_files": 74
       },
       {
         "name": "Saúl_Acevedo",
@@ -1012,7 +1035,8 @@
                 "mimeType": "application/pdf",
                 "size": "138772"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "Teoría_y_tareas",
@@ -1052,7 +1076,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "13295793"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "Semana_13",
@@ -1080,7 +1105,8 @@
                     "mimeType": "application/msword",
                     "size": "818688"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "Semana_12",
@@ -1094,7 +1120,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "1620610"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "Semana_11",
@@ -1122,7 +1149,8 @@
                     "mimeType": "application/vnd.ms-powerpoint",
                     "size": "826368"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "Semana_10",
@@ -1178,7 +1206,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "2722644"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "Semana_9",
@@ -1234,7 +1263,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "5794541"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "Semana_7",
@@ -1269,7 +1299,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "16340"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "Semana_6",
@@ -1325,7 +1356,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "53255"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "Semana_5",
@@ -1381,7 +1413,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "313395"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "Semana_4",
@@ -1409,7 +1442,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "45113"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "Semana_3",
@@ -1458,7 +1492,8 @@
                     "mimeType": "application/pdf",
                     "size": "1264720"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "Semana_2",
@@ -1493,7 +1528,8 @@
                     "mimeType": "application/pdf",
                     "size": "438931"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "Semana_1",
@@ -1528,9 +1564,11 @@
                     "mimeType": "application/pdf",
                     "size": "786627"
                   }
-                ]
+                ],
+                "total_files": 4
               }
-            ]
+            ],
+            "total_files": 60
           },
           {
             "name": "Monografía_(Industria_de_la_telefonía_móvil)",
@@ -1558,7 +1596,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "93744"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "PC1",
@@ -1579,10 +1618,13 @@
                 "mimeType": "application/pdf",
                 "size": "482847"
               }
-            ]
+            ],
+            "total_files": 2
           }
-        ]
+        ],
+        "total_files": 68
       }
-    ]
+    ],
+    "total_files": 184
   }
 }

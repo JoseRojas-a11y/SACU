@@ -30,13 +30,15 @@
                     "mimeType": "application/pdf",
                     "size": "1209806"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "semana_8",
                 "type": "folder",
                 "id": "1W00uQGDT8iNbp3j2EcOlZw1Cta1I4S9I",
-                "children": []
+                "children": [],
+                "total_files": 0
               },
               {
                 "name": "semana_6",
@@ -50,7 +52,8 @@
                     "mimeType": "application/pdf",
                     "size": "1304177"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "semana_9",
@@ -92,7 +95,8 @@
                     "mimeType": "application/pdf",
                     "size": "801452"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "semana_5",
@@ -106,7 +110,8 @@
                     "mimeType": "application/pdf",
                     "size": "602354"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "semana_4",
@@ -148,7 +153,8 @@
                     "mimeType": "application/pdf",
                     "size": "542949"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "semana_2",
@@ -162,7 +168,8 @@
                     "mimeType": "application/pdf",
                     "size": "821414"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "semana_3",
@@ -197,9 +204,11 @@
                     "mimeType": "application/pdf",
                     "size": "525238"
                   }
-                ]
+                ],
+                "total_files": 4
               }
-            ]
+            ],
+            "total_files": 18
           },
           {
             "name": "EVIDENCIAS_20-1",
@@ -269,7 +278,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "29626"
               }
-            ]
+            ],
+            "total_files": 9
           },
           {
             "name": "107565934_2652878395031453_952078671582204357_n.jpg",
@@ -418,7 +428,8 @@
             "mimeType": "image/jpeg",
             "size": "36680"
           }
-        ]
+        ],
+        "total_files": 48
       },
       {
         "name": "Eloy_Ayala",
@@ -442,7 +453,8 @@
                     "mimeType": "application/pdf",
                     "size": "286234"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC4",
@@ -475,7 +487,8 @@
                         "mimeType": "image/jpeg",
                         "size": "161943"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "PC4_Eloy_23-1.pdf",
@@ -484,7 +497,8 @@
                     "mimeType": "application/pdf",
                     "size": "692264"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "PC3",
@@ -524,7 +538,8 @@
                         "mimeType": "image/jpeg",
                         "size": "136101"
                       }
-                    ]
+                    ],
+                    "total_files": 4
                   },
                   {
                     "name": "PC3_Eloy_23-1.pdf",
@@ -540,7 +555,8 @@
                     "mimeType": "application/pdf",
                     "size": "98968"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "PC2",
@@ -587,7 +603,8 @@
                         "mimeType": "image/jpeg",
                         "size": "19760"
                       }
-                    ]
+                    ],
+                    "total_files": 5
                   },
                   {
                     "name": "PC2_Eloy_23-1.pdf",
@@ -610,7 +627,8 @@
                     "mimeType": "application/pdf",
                     "size": "314586"
                   }
-                ]
+                ],
+                "total_files": 8
               },
               {
                 "name": "PC1",
@@ -636,7 +654,8 @@
                         "mimeType": "image/jpeg",
                         "size": "223393"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "PC1_22-1.pdf",
@@ -673,9 +692,11 @@
                     "mimeType": "application/pdf",
                     "size": "175097"
                   }
-                ]
+                ],
+                "total_files": 7
               }
-            ]
+            ],
+            "total_files": 26
           },
           {
             "name": "LECTURAS_ANALÍTICAS",
@@ -715,18 +736,23 @@
                     "mimeType": "image/jpeg",
                     "size": "1087208"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "LA_VINCULACIÓN_ENTRE_ÉTICA_Y_POLÍTICA_EN_ARISTÓTELES",
                 "type": "folder",
                 "id": "1INqE1q2C31bXgKAlpPhAMhuQZh9EqkYQ",
-                "children": []
+                "children": [],
+                "total_files": 0
               }
-            ]
+            ],
+            "total_files": 4
           }
-        ]
+        ],
+        "total_files": 30
       }
-    ]
+    ],
+    "total_files": 78
   }
 }

@@ -167,7 +167,8 @@
             "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
             "size": "307075"
           }
-        ]
+        ],
+        "total_files": 22
       },
       {
         "name": "Resumen_Formulario_del_Curso_-_Abanto.pdf",
@@ -219,7 +220,8 @@
                     "mimeType": "application/pdf",
                     "size": "1958226"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "Para_la_PC3",
@@ -254,7 +256,8 @@
                     "mimeType": "application/pdf",
                     "size": "2430040"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "Para_la_PC1",
@@ -296,9 +299,11 @@
                     "mimeType": "application/pdf",
                     "size": "500865"
                   }
-                ]
+                ],
+                "total_files": 5
               }
-            ]
+            ],
+            "total_files": 13
           },
           {
             "name": "Por_Semana",
@@ -336,7 +341,8 @@
                         "mimeType": "application/pdf",
                         "size": "1376004"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "SESION_IV_POTENCIAL_ELECTRICO-2025-I.pdf",
@@ -387,7 +393,8 @@
                     "mimeType": "application/pdf",
                     "size": "6197408"
                   }
-                ]
+                ],
+                "total_files": 10
               },
               {
                 "name": "SEMANA_9",
@@ -413,7 +420,8 @@
                         "mimeType": "application/pdf",
                         "size": "473136"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "SESION_IX_FUENTES_DE_CAMPO_MAGNÉTICO-LEY_DE_AMPERE-2025-I.pdf",
@@ -436,7 +444,8 @@
                     "mimeType": "application/pdf",
                     "size": "5564648"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "SEMANA_6",
@@ -546,7 +555,8 @@
                         "mimeType": "application/pdf",
                         "size": "603433"
                       }
-                    ]
+                    ],
+                    "total_files": 14
                   },
                   {
                     "name": "PRACTICA_DIRIGIDA_N°06_FISICA_II-CIRCUITOS_DE_CD-CIRCUITOS_RC.pdf",
@@ -590,7 +600,8 @@
                     "mimeType": "application/pdf",
                     "size": "1953789"
                   }
-                ]
+                ],
+                "total_files": 20
               },
               {
                 "name": "SEMANA_7",
@@ -658,7 +669,8 @@
                         "mimeType": "application/pdf",
                         "size": "81809"
                       }
-                    ]
+                    ],
+                    "total_files": 8
                   },
                   {
                     "name": "SESION_VII_CAMPO_Y_FUERZA_MAGNÉTICA_-2025-1.pdf",
@@ -709,7 +721,8 @@
                     "mimeType": "application/pdf",
                     "size": "16373984"
                   }
-                ]
+                ],
+                "total_files": 15
               },
               {
                 "name": "SEMANA_8",
@@ -730,7 +743,8 @@
                     "mimeType": "application/msword",
                     "size": "103424"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "SEMANA_5",
@@ -791,7 +805,8 @@
                         "mimeType": "application/pdf",
                         "size": "1497528"
                       }
-                    ]
+                    ],
+                    "total_files": 6
                   },
                   {
                     "name": "SESION_V_CONDENSADORES_Y_DIELECTRICOS_(barto).pdf",
@@ -842,7 +857,8 @@
                     "mimeType": "application/pdf",
                     "size": "121569"
                   }
-                ]
+                ],
+                "total_files": 14
               },
               {
                 "name": "SEMANA_11",
@@ -891,7 +907,8 @@
                     "mimeType": "application/pdf",
                     "size": "468738"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "SEMANA_3",
@@ -952,7 +969,8 @@
                         "mimeType": "application/pdf",
                         "size": "206440"
                       }
-                    ]
+                    ],
+                    "total_files": 7
                   },
                   {
                     "name": "SESION_III_CAMPO_ELECTRICO_LEY_DE_GAUSS-2025-I.pdf",
@@ -996,13 +1014,15 @@
                     "mimeType": "application/pdf",
                     "size": "2346502"
                   }
-                ]
+                ],
+                "total_files": 13
               },
               {
                 "name": "SEMANA_16",
                 "type": "folder",
                 "id": "1-8LX46Ec1jw3tHSyLXRkcDSTBmiLjt0V",
-                "children": []
+                "children": [],
+                "total_files": 0
               },
               {
                 "name": "SEMANA_12",
@@ -1058,7 +1078,8 @@
                     "mimeType": "application/vnd.ms-powerpoint",
                     "size": "1088512"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "SEMANA_13",
@@ -1093,7 +1114,8 @@
                     "mimeType": "application/pdf",
                     "size": "5059786"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "SEMANA_2",
@@ -1175,7 +1197,8 @@
                         "mimeType": "application/pdf",
                         "size": "182015"
                       }
-                    ]
+                    ],
+                    "total_files": 10
                   },
                   {
                     "name": "PRACTICA_DIRIGIDA_N°02_FISICA_II_-CAMPO_ELECTRICO.pdf",
@@ -1219,7 +1242,8 @@
                     "mimeType": "application/pdf",
                     "size": "2346502"
                   }
-                ]
+                ],
+                "total_files": 16
               },
               {
                 "name": "SEMANA_14",
@@ -1275,7 +1299,8 @@
                     "mimeType": "application/pdf",
                     "size": "5059786"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "SEMANA_1",
@@ -1343,7 +1368,8 @@
                         "mimeType": "application/pdf",
                         "size": "299634"
                       }
-                    ]
+                    ],
+                    "total_files": 8
                   },
                   {
                     "name": "SESION_I_CARGA_Y_LEY_DE_COLUOMB_2025-I.pdf",
@@ -1387,7 +1413,8 @@
                     "mimeType": "application/pdf",
                     "size": "311715"
                   }
-                ]
+                ],
+                "total_files": 14
               },
               {
                 "name": "SEMANA_10",
@@ -1436,7 +1463,8 @@
                     "mimeType": "application/pdf",
                     "size": "481056"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "SEMANA_15",
@@ -1471,9 +1499,11 @@
                     "mimeType": "application/pdf",
                     "size": "3866548"
                   }
-                ]
+                ],
+                "total_files": 4
               }
-            ]
+            ],
+            "total_files": 143
           },
           {
             "name": "MATERIAL_EXTRA",
@@ -1504,7 +1534,8 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                         "size": "84130"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "MATERIAL_DE_TAFUR",
@@ -1537,7 +1568,8 @@
                             "mimeType": "application/pdf",
                             "size": "206440"
                           }
-                        ]
+                        ],
+                        "total_files": 3
                       },
                       {
                         "name": "Semana_9",
@@ -1551,7 +1583,8 @@
                             "mimeType": "application/pdf",
                             "size": "3476623"
                           }
-                        ]
+                        ],
+                        "total_files": 1
                       },
                       {
                         "name": "Semana_10",
@@ -1572,7 +1605,8 @@
                             "mimeType": "application/pdf",
                             "size": "1884269"
                           }
-                        ]
+                        ],
+                        "total_files": 2
                       },
                       {
                         "name": "Semana_2",
@@ -1621,7 +1655,8 @@
                             "mimeType": "application/vnd.ms-powerpoint",
                             "size": "2433024"
                           }
-                        ]
+                        ],
+                        "total_files": 6
                       },
                       {
                         "name": "Semana_12",
@@ -1649,7 +1684,8 @@
                             "mimeType": "application/vnd.ms-powerpoint",
                             "size": "2263040"
                           }
-                        ]
+                        ],
+                        "total_files": 3
                       },
                       {
                         "name": "Semana_14",
@@ -1663,7 +1699,8 @@
                             "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                             "size": "5895549"
                           }
-                        ]
+                        ],
+                        "total_files": 1
                       },
                       {
                         "name": "Semana_6",
@@ -1684,7 +1721,8 @@
                             "mimeType": "application/pdf",
                             "size": "2412312"
                           }
-                        ]
+                        ],
+                        "total_files": 2
                       },
                       {
                         "name": "Semana_4",
@@ -1719,7 +1757,8 @@
                             "mimeType": "application/pdf",
                             "size": "1376004"
                           }
-                        ]
+                        ],
+                        "total_files": 4
                       },
                       {
                         "name": "Semana_11",
@@ -1733,7 +1772,8 @@
                             "mimeType": "application/pdf",
                             "size": "2864092"
                           }
-                        ]
+                        ],
+                        "total_files": 1
                       },
                       {
                         "name": "Semana_15",
@@ -1747,7 +1787,8 @@
                             "mimeType": "application/pdf",
                             "size": "1691857"
                           }
-                        ]
+                        ],
+                        "total_files": 1
                       },
                       {
                         "name": "Semana_1",
@@ -1803,9 +1844,11 @@
                             "mimeType": "application/pdf",
                             "size": "417640"
                           }
-                        ]
+                        ],
+                        "total_files": 7
                       }
-                    ]
+                    ],
+                    "total_files": 31
                   },
                   {
                     "name": "Cuestionarios_teóricos",
@@ -1833,7 +1876,8 @@
                         "mimeType": "application/pdf",
                         "size": "143263"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "Tafur_y_sus_seminarios_v",
@@ -1901,7 +1945,8 @@
                             "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                             "size": "3845748"
                           }
-                        ]
+                        ],
+                        "total_files": 8
                       },
                       {
                         "name": "Semana_7",
@@ -1943,7 +1988,8 @@
                             "mimeType": "application/pdf",
                             "size": "5668795"
                           }
-                        ]
+                        ],
+                        "total_files": 5
                       },
                       {
                         "name": "Semana_8",
@@ -1971,7 +2017,8 @@
                             "mimeType": "application/pdf",
                             "size": "774526"
                           }
-                        ]
+                        ],
+                        "total_files": 3
                       },
                       {
                         "name": "Semana_2",
@@ -2013,7 +2060,8 @@
                             "mimeType": "application/vnd.ms-powerpoint",
                             "size": "3384320"
                           }
-                        ]
+                        ],
+                        "total_files": 5
                       },
                       {
                         "name": "Semana_14",
@@ -2041,7 +2089,8 @@
                             "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                             "size": "5839596"
                           }
-                        ]
+                        ],
+                        "total_files": 3
                       },
                       {
                         "name": "Semana_5",
@@ -2090,7 +2139,8 @@
                             "mimeType": "application/pdf",
                             "size": "1482847"
                           }
-                        ]
+                        ],
+                        "total_files": 6
                       },
                       {
                         "name": "Semana_3",
@@ -2146,7 +2196,8 @@
                             "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                             "size": "1158484"
                           }
-                        ]
+                        ],
+                        "total_files": 7
                       },
                       {
                         "name": "Semana_13",
@@ -2174,7 +2225,8 @@
                             "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                             "size": "695219"
                           }
-                        ]
+                        ],
+                        "total_files": 3
                       },
                       {
                         "name": "Semana_12",
@@ -2195,7 +2247,8 @@
                             "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                             "size": "355967"
                           }
-                        ]
+                        ],
+                        "total_files": 2
                       },
                       {
                         "name": "Semana_4",
@@ -2244,7 +2297,8 @@
                             "mimeType": "application/vnd.ms-powerpoint",
                             "size": "1810944"
                           }
-                        ]
+                        ],
+                        "total_files": 6
                       },
                       {
                         "name": "Semana_11",
@@ -2265,7 +2319,8 @@
                             "mimeType": "application/pdf",
                             "size": "747294"
                           }
-                        ]
+                        ],
+                        "total_files": 2
                       },
                       {
                         "name": "Semana_10",
@@ -2286,7 +2341,8 @@
                             "mimeType": "application/vnd.ms-powerpoint",
                             "size": "1278464"
                           }
-                        ]
+                        ],
+                        "total_files": 2
                       },
                       {
                         "name": "Semana_1",
@@ -2328,7 +2384,8 @@
                             "mimeType": "application/pdf",
                             "size": "299634"
                           }
-                        ]
+                        ],
+                        "total_files": 5
                       },
                       {
                         "name": "SEMINARIO_02.pdf",
@@ -2351,7 +2408,8 @@
                         "mimeType": "application/pdf",
                         "size": "1755821"
                       }
-                    ]
+                    ],
+                    "total_files": 60
                   },
                   {
                     "name": "Seminarios",
@@ -2531,7 +2589,8 @@
                             "mimeType": "application/pdf",
                             "size": "177830"
                           }
-                        ]
+                        ],
+                        "total_files": 24
                       },
                       {
                         "name": "18-1",
@@ -2657,7 +2716,8 @@
                             "mimeType": "application/pdf",
                             "size": "842537"
                           }
-                        ]
+                        ],
+                        "total_files": 17
                       },
                       {
                         "name": "17-1",
@@ -2797,7 +2857,8 @@
                             "mimeType": "application/pdf",
                             "size": "376964"
                           }
-                        ]
+                        ],
+                        "total_files": 19
                       },
                       {
                         "name": "17-2",
@@ -2902,9 +2963,11 @@
                             "mimeType": "application/pdf",
                             "size": "165440"
                           }
-                        ]
+                        ],
+                        "total_files": 14
                       }
-                    ]
+                    ],
+                    "total_files": 74
                   },
                   {
                     "name": "PLANCHAS_DE_FÍSICA",
@@ -2968,7 +3031,8 @@
                                     "mimeType": "application/pdf",
                                     "size": "3837281"
                                   }
-                                ]
+                                ],
+                                "total_files": 6
                               },
                               {
                                 "name": "ef_solucion.docx",
@@ -3054,7 +3118,8 @@
                                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                                 "size": "588486"
                               }
-                            ]
+                            ],
+                            "total_files": 18
                           },
                           {
                             "name": "EX_FINAL_FB_401_20_2_SOLUCION.docx",
@@ -3154,7 +3219,8 @@
                             "mimeType": "image/jpeg",
                             "size": "1597019"
                           }
-                        ]
+                        ],
+                        "total_files": 32
                       },
                       {
                         "name": "Susti",
@@ -3217,7 +3283,8 @@
                             "mimeType": "application/pdf",
                             "size": "3768780"
                           }
-                        ]
+                        ],
+                        "total_files": 8
                       },
                       {
                         "name": "PC_5",
@@ -3329,7 +3396,8 @@
                             "mimeType": "image/jpeg",
                             "size": "4184808"
                           }
-                        ]
+                        ],
+                        "total_files": 15
                       },
                       {
                         "name": "PC_4",
@@ -3413,7 +3481,8 @@
                             "mimeType": "application/pdf",
                             "size": "1822449"
                           }
-                        ]
+                        ],
+                        "total_files": 11
                       },
                       {
                         "name": "Pc_1",
@@ -3525,7 +3594,8 @@
                             "mimeType": "application/pdf",
                             "size": "184135"
                           }
-                        ]
+                        ],
+                        "total_files": 15
                       },
                       {
                         "name": "Pc_2",
@@ -3670,7 +3740,8 @@
                                 "mimeType": "application/pdf",
                                 "size": "2197990"
                               }
-                            ]
+                            ],
+                            "total_files": 19
                           },
                           {
                             "name": "2PC_FB_401W_2020-2.docx",
@@ -3770,7 +3841,8 @@
                             "mimeType": "application/pdf",
                             "size": "152902"
                           }
-                        ]
+                        ],
+                        "total_files": 33
                       },
                       {
                         "name": "PC_3",
@@ -3903,7 +3975,8 @@
                             "mimeType": "application/pdf",
                             "size": "104231"
                           }
-                        ]
+                        ],
+                        "total_files": 18
                       },
                       {
                         "name": "Parcial",
@@ -4020,7 +4093,8 @@
                                 "mimeType": "image/jpeg",
                                 "size": "463793"
                               }
-                            ]
+                            ],
+                            "total_files": 15
                           },
                           {
                             "name": "F2_PARCIAL_18-2_V.pdf",
@@ -4106,7 +4180,8 @@
                             "mimeType": "image/jpeg",
                             "size": "3062338"
                           }
-                        ]
+                        ],
+                        "total_files": 27
                       },
                       {
                         "name": "Entrada",
@@ -4162,7 +4237,8 @@
                             "mimeType": "image/jpeg",
                             "size": "45193"
                           }
-                        ]
+                        ],
+                        "total_files": 7
                       },
                       {
                         "name": "Ejercicios-Resueltos-Faraday.pdf",
@@ -4185,7 +4261,8 @@
                         "mimeType": "application/pdf",
                         "size": "964673"
                       }
-                    ]
+                    ],
+                    "total_files": 169
                   },
                   {
                     "name": "Problemas_Ley_de_Gauss.pdf",
@@ -4208,7 +4285,8 @@
                     "mimeType": "application/pdf",
                     "size": "2070746"
                   }
-                ]
+                ],
+                "total_files": 342
               },
               {
                 "name": "Salcedo_n.n",
@@ -4339,7 +4417,8 @@
                         "mimeType": "application/pdf",
                         "size": "4484512"
                       }
-                    ]
+                    ],
+                    "total_files": 17
                   },
                   {
                     "name": "Jamboards",
@@ -4395,9 +4474,11 @@
                         "mimeType": "application/pdf",
                         "size": "1592648"
                       }
-                    ]
+                    ],
+                    "total_files": 7
                   }
-                ]
+                ],
+                "total_files": 24
               },
               {
                 "name": "TRABAJO_DE_ABP",
@@ -4425,9 +4506,11 @@
                     "mimeType": "application/pdf",
                     "size": "1486504"
                   }
-                ]
+                ],
+                "total_files": 3
               }
-            ]
+            ],
+            "total_files": 369
           },
           {
             "name": "Cuadernos",
@@ -4462,9 +4545,11 @@
                 "mimeType": "application/pdf",
                 "size": "41442542"
               }
-            ]
+            ],
+            "total_files": 4
           }
-        ]
+        ],
+        "total_files": 529
       },
       {
         "name": "Planchas",
@@ -4511,7 +4596,8 @@
                 "mimeType": "application/pdf",
                 "size": "1402745"
               }
-            ]
+            ],
+            "total_files": 5
           },
           {
             "name": "F_II_1.pdf",
@@ -4574,7 +4660,8 @@
                 "mimeType": "application/pdf",
                 "size": "676222"
               }
-            ]
+            ],
+            "total_files": 7
           },
           {
             "name": "Prof._Cañote",
@@ -4607,7 +4694,8 @@
                     "mimeType": "application/pdf",
                     "size": "286551"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "PC4",
@@ -4635,7 +4723,8 @@
                     "mimeType": "application/pdf",
                     "size": "134316"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "PC2",
@@ -4656,7 +4745,8 @@
                     "mimeType": "application/pdf",
                     "size": "153122"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "PC1",
@@ -4698,7 +4788,8 @@
                     "mimeType": "image/jpeg",
                     "size": "176595"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "PE",
@@ -4719,9 +4810,11 @@
                     "mimeType": "image/jpeg",
                     "size": "187911"
                   }
-                ]
+                ],
+                "total_files": 2
               }
-            ]
+            ],
+            "total_files": 15
           },
           {
             "name": "Prof._Zegarra",
@@ -4735,7 +4828,8 @@
                 "mimeType": "application/pdf",
                 "size": "187391"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "Prof._Salcedo",
@@ -4754,7 +4848,8 @@
                     "mimeType": "image/jpeg",
                     "size": "133862"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC4",
@@ -4768,7 +4863,8 @@
                     "mimeType": "image/jpeg",
                     "size": "85097"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC3",
@@ -4810,7 +4906,8 @@
                     "mimeType": "application/pdf",
                     "size": "557969"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "PC2",
@@ -4838,7 +4935,8 @@
                     "mimeType": "application/pdf",
                     "size": "388889"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "PC1",
@@ -4887,9 +4985,11 @@
                     "mimeType": "application/pdf",
                     "size": "390335"
                   }
-                ]
+                ],
+                "total_files": 6
               }
-            ]
+            ],
+            "total_files": 16
           },
           {
             "name": "ES",
@@ -4964,7 +5064,8 @@
                     "mimeType": "image/jpeg",
                     "size": "2893381"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "FB401_ES_21-2_Solucionario.pdf",
@@ -4987,7 +5088,8 @@
                 "mimeType": "application/pdf",
                 "size": "790751"
               }
-            ]
+            ],
+            "total_files": 12
           },
           {
             "name": "EF",
@@ -5153,7 +5255,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "22947"
                   }
-                ]
+                ],
+                "total_files": 11
               },
               {
                 "name": "FB401_EF_21-2_Solucionario.pdf",
@@ -5218,7 +5321,8 @@
                 "mimeType": "application/pdf",
                 "size": "580847"
               }
-            ]
+            ],
+            "total_files": 31
           },
           {
             "name": "EP",
@@ -5349,7 +5453,8 @@
                     "mimeType": "image/jpeg",
                     "size": "3083421"
                   }
-                ]
+                ],
+                "total_files": 9
               },
               {
                 "name": "FB401_EP_21-1_Solucionario.pdf",
@@ -5407,7 +5512,8 @@
                 "mimeType": "application/pdf",
                 "size": "355349"
               }
-            ]
+            ],
+            "total_files": 25
           },
           {
             "name": "Prof._Bartolomé",
@@ -5454,7 +5560,8 @@
                     "mimeType": "application/pdf",
                     "size": "377381"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "PC5",
@@ -5482,7 +5589,8 @@
                     "mimeType": "application/pdf",
                     "size": "416915"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "PC4",
@@ -5531,7 +5639,8 @@
                     "mimeType": "application/pdf",
                     "size": "214494"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "PC3",
@@ -5580,7 +5689,8 @@
                     "mimeType": "application/pdf",
                     "size": "212511"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "PC2",
@@ -5650,7 +5760,8 @@
                     "mimeType": "application/pdf",
                     "size": "203916"
                   }
-                ]
+                ],
+                "total_files": 9
               },
               {
                 "name": "PC1",
@@ -5713,11 +5824,14 @@
                     "mimeType": "application/pdf",
                     "size": "259348"
                   }
-                ]
+                ],
+                "total_files": 8
               }
-            ]
+            ],
+            "total_files": 37
           }
-        ]
+        ],
+        "total_files": 150
       },
       {
         "name": "Libros",
@@ -5804,7 +5918,8 @@
                     "mimeType": "application/pdf",
                     "size": "1908167"
                   }
-                ]
+                ],
+                "total_files": 10
               },
               {
                 "name": "Serway_en_partes",
@@ -5893,7 +6008,8 @@
                         "mimeType": "application/pdf",
                         "size": "7801499"
                       }
-                    ]
+                    ],
+                    "total_files": 11
                   },
                   {
                     "name": "30.Fuentes_del_campo_magnético.pdf",
@@ -5965,7 +6081,8 @@
                     "mimeType": "application/pdf",
                     "size": "602834"
                   }
-                ]
+                ],
+                "total_files": 21
               },
               {
                 "name": "Zemansky_en_partes",
@@ -6012,7 +6129,8 @@
                         "mimeType": "application/pdf",
                         "size": "771838"
                       }
-                    ]
+                    ],
+                    "total_files": 5
                   },
                   {
                     "name": "31.Corriente_alterna.pdf",
@@ -6098,7 +6216,8 @@
                     "mimeType": "application/pdf",
                     "size": "4071772"
                   }
-                ]
+                ],
+                "total_files": 17
               },
               {
                 "name": "fisica-3-hugo-medina.pdf",
@@ -6114,7 +6233,8 @@
                 "mimeType": "application/msword",
                 "size": "1475072"
               }
-            ]
+            ],
+            "total_files": 50
           },
           {
             "name": "Física_3_-_Hugo_Medina.pdf",
@@ -6172,7 +6292,8 @@
             "mimeType": "application/pdf",
             "size": "66386400"
           }
-        ]
+        ],
+        "total_files": 58
       },
       {
         "name": "Sílabo.pdf",
@@ -6181,6 +6302,7 @@
         "mimeType": "application/pdf",
         "size": "250830"
       }
-    ]
+    ],
+    "total_files": 761
   }
 }

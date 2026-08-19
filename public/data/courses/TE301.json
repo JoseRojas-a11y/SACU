@@ -17,7 +17,8 @@
             "name": "SEMANA_8",
             "type": "folder",
             "id": "1yws_k1bUirOEKdoCER0JE7dGyvTPYxlN",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "SEMANA_9",
@@ -45,7 +46,8 @@
                 "mimeType": "application/pdf",
                 "size": "439505"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "SEMANA_4",
@@ -80,43 +82,50 @@
                 "mimeType": "application/pdf",
                 "size": "451488"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "SEMANA_7",
             "type": "folder",
             "id": "1_f78UhCJCJNcE7xbz1ztWA4w3HJEFdyW",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "SEMANA_5",
             "type": "folder",
             "id": "1VuFV2Sg0HvNNuyyQMByotvIIZa45IlIx",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "SEMANA_6",
             "type": "folder",
             "id": "1s2r7cw2HzxiYFhFfcZ07s4UmTD4arx5t",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "SEMANA_12",
             "type": "folder",
             "id": "1p2wJfjMo2m8pAmg4BDuDDTAI0r53Krpp",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "SEMANA_10",
             "type": "folder",
             "id": "1prsDijGKwzee7cKYP6ZZJmbnXPzve3JI",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "SEMANA_11",
             "type": "folder",
             "id": "1ZSxAQeqes_dxueBQX2recK3WJJEGMc6y",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "SEMANA_3",
@@ -158,7 +167,8 @@
                 "mimeType": "application/pdf",
                 "size": "7478137"
               }
-            ]
+            ],
+            "total_files": 5
           },
           {
             "name": "SEMANA_2",
@@ -193,13 +203,15 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                 "size": "7210410"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "SEMANA_14",
             "type": "folder",
             "id": "1Z6fnFHnCU6v7QUxhNd-L-18mgr5j0tuO",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "SEMANA_13",
@@ -227,13 +239,15 @@
                 "mimeType": "application/pdf",
                 "size": "5939768"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "SEMANA_16",
             "type": "folder",
             "id": "1Ud3MKDBbsnAJXGZKCVlU-arCWCBRog66",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "SEMANA_1",
@@ -254,15 +268,18 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "11245911"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "SEMANA_15",
             "type": "folder",
             "id": "1Zk_J2xjUZAUz8N2WnPUKHuZUS_OC4UKX",
-            "children": []
+            "children": [],
+            "total_files": 0
           }
-        ]
+        ],
+        "total_files": 21
       },
       {
         "name": "LIBROS",
@@ -297,7 +314,8 @@
             "mimeType": "application/pdf",
             "size": "73676385"
           }
-        ]
+        ],
+        "total_files": 4
       },
       {
         "name": "PARCIALES.SOLUC.FICO.pdf",
@@ -306,6 +324,7 @@
         "mimeType": "application/pdf",
         "size": "16818994"
       }
-    ]
+    ],
+    "total_files": 26
   }
 }

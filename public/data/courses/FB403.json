@@ -116,7 +116,8 @@
                 "mimeType": "application/pdf",
                 "size": "3850864"
               }
-            ]
+            ],
+            "total_files": 13
           },
           {
             "name": "Arámbulo",
@@ -135,7 +136,8 @@
                     "mimeType": "application/pdf",
                     "size": "1552318"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "SEMANA_9",
@@ -156,7 +158,8 @@
                     "mimeType": "application/pdf",
                     "size": "416861"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "SEMANA_4",
@@ -205,13 +208,15 @@
                     "mimeType": "application/pdf",
                     "size": "5817581"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "SEMANA_8",
                 "type": "folder",
                 "id": "1DMvr6KJJ4MgQgZ0TQWduWWTYy0JdXV3L",
-                "children": []
+                "children": [],
+                "total_files": 0
               },
               {
                 "name": "SEMANA_5",
@@ -267,7 +272,8 @@
                     "mimeType": "application/pdf",
                     "size": "4060642"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "SEMANA_7",
@@ -281,7 +287,8 @@
                     "mimeType": "application/pdf",
                     "size": "621427"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "SEMANA_1",
@@ -330,7 +337,8 @@
                     "mimeType": "application/vnd.ms-powerpoint",
                     "size": "606208"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "SEMANA_14",
@@ -358,7 +366,8 @@
                     "mimeType": "application/pdf",
                     "size": "7961591"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "SEMANA_3",
@@ -400,7 +409,8 @@
                     "mimeType": "application/pdf",
                     "size": "3241237"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "SEMANA_13",
@@ -428,7 +438,8 @@
                     "mimeType": "application/pdf",
                     "size": "1794097"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "SEMANA_2",
@@ -449,7 +460,8 @@
                     "mimeType": "application/pdf",
                     "size": "1008682"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "SEMANA_11",
@@ -470,13 +482,15 @@
                     "mimeType": "application/pdf",
                     "size": "19583713"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "SEMANA_16",
                 "type": "folder",
                 "id": "1bVbuh0NF8jcnNz9_nxvZN-jJ1ob11bzI",
-                "children": []
+                "children": [],
+                "total_files": 0
               },
               {
                 "name": "SEMANA_10",
@@ -511,13 +525,15 @@
                     "mimeType": "application/pdf",
                     "size": "8424212"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "SEMANA_15",
                 "type": "folder",
                 "id": "12WrQDMDziJyOe_Tr6b4boWHWx_xQjBDs",
-                "children": []
+                "children": [],
+                "total_files": 0
               },
               {
                 "name": "SEMANA_12",
@@ -531,11 +547,14 @@
                     "mimeType": "application/pdf",
                     "size": "291773"
                   }
-                ]
+                ],
+                "total_files": 1
               }
-            ]
+            ],
+            "total_files": 43
           }
-        ]
+        ],
+        "total_files": 56
       },
       {
         "name": "Cuaderno_ED_25-1_(By_BrendaNicole).pdf",
@@ -664,7 +683,8 @@
                     "mimeType": "image/jpeg",
                     "size": "47693"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "Compendios",
@@ -699,7 +719,8 @@
                     "mimeType": "application/pdf",
                     "size": "137192"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "FB403_PC4_24-1.jpeg",
@@ -715,7 +736,8 @@
                 "mimeType": "application/pdf",
                 "size": "887433"
               }
-            ]
+            ],
+            "total_files": 20
           },
           {
             "name": "PC3",
@@ -846,7 +868,8 @@
                     "mimeType": "image/jpeg",
                     "size": "44333"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "FB403_PC3_24-3.pdf",
@@ -888,7 +911,8 @@
                     "mimeType": "application/pdf",
                     "size": "395297"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "FB403_PC3_24-1.jpeg",
@@ -911,7 +935,8 @@
                 "mimeType": "image/jpeg",
                 "size": "368917"
               }
-            ]
+            ],
+            "total_files": 25
           },
           {
             "name": "PC2",
@@ -1035,7 +1060,8 @@
                     "mimeType": "image/jpeg",
                     "size": "84101"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "FB403_PC2_24-3.pdf",
@@ -1077,7 +1103,8 @@
                     "mimeType": "application/pdf",
                     "size": "12846136"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "FB403_PC2_24-1.jpeg",
@@ -1100,7 +1127,8 @@
                 "mimeType": "image/jpeg",
                 "size": "419581"
               }
-            ]
+            ],
+            "total_files": 24
           },
           {
             "name": "PC1",
@@ -1147,7 +1175,8 @@
                     "mimeType": "image/jpeg",
                     "size": "2052628"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "FB403_PC1_20-1.pdf",
@@ -1252,7 +1281,8 @@
                     "mimeType": "application/pdf",
                     "size": "583384"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "FB403_PC1_24-2.jpeg",
@@ -1275,7 +1305,8 @@
                 "mimeType": "image/jpeg",
                 "size": "109334"
               }
-            ]
+            ],
+            "total_files": 22
           },
           {
             "name": "ES",
@@ -1364,7 +1395,8 @@
                     "mimeType": "application/pdf",
                     "size": "51122"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "FB403_ES_24-1.jpeg",
@@ -1380,7 +1412,8 @@
                 "mimeType": "image/jpeg",
                 "size": "228795"
               }
-            ]
+            ],
+            "total_files": 13
           },
           {
             "name": "EP",
@@ -1518,7 +1551,8 @@
                     "mimeType": "image/jpeg",
                     "size": "446395"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "FB403_EP_24-3.pdf",
@@ -1567,7 +1601,8 @@
                     "mimeType": "application/pdf",
                     "size": "524074"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "FB403_EP_24-2.pdf",
@@ -1590,7 +1625,8 @@
                 "mimeType": "application/pdf",
                 "size": "692298"
               }
-            ]
+            ],
+            "total_files": 27
           },
           {
             "name": "EF",
@@ -1735,7 +1771,8 @@
                     "mimeType": "application/pdf",
                     "size": "174273"
                   }
-                ]
+                ],
+                "total_files": 8
               },
               {
                 "name": "Compendios",
@@ -1791,9 +1828,11 @@
                     "mimeType": "image/jpeg",
                     "size": "3076924"
                   }
-                ]
+                ],
+                "total_files": 7
               }
-            ]
+            ],
+            "total_files": 26
           },
           {
             "name": "PE",
@@ -1875,7 +1914,8 @@
                     "mimeType": "application/pdf",
                     "size": "54374"
                   }
-                ]
+                ],
+                "total_files": 10
               },
               {
                 "name": "FB403_PE_20-2.pdf",
@@ -1982,9 +2022,11 @@
                 "mimeType": "image/jpeg",
                 "size": "64358"
               }
-            ]
+            ],
+            "total_files": 25
           }
-        ]
+        ],
+        "total_files": 182
       },
       {
         "name": "Bibliografía_recomendada",
@@ -2131,8 +2173,10 @@
             "mimeType": "application/pdf",
             "size": "27116101"
           }
-        ]
+        ],
+        "total_files": 20
       }
-    ]
+    ],
+    "total_files": 261
   }
 }

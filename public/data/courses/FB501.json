@@ -17,13 +17,15 @@
             "name": "Salazar",
             "type": "folder",
             "id": "1aMD_bi2vt2bSiVlEv_GNXc-RhmtSQnlz",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "Cueva",
             "type": "folder",
             "id": "1ZvEPh-16kigATk7j7drY7l4lH7oTEQlT",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "Tocto",
@@ -54,7 +56,8 @@
                         "mimeType": "application/pdf",
                         "size": "1874801"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "7._Lógica_Difusa",
@@ -68,7 +71,8 @@
                         "mimeType": "application/pdf",
                         "size": "296063"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "6._Redes_Neuronales",
@@ -89,7 +93,8 @@
                         "mimeType": "image/png",
                         "size": "470414"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "5._Modelos_Matemáticos",
@@ -103,7 +108,8 @@
                         "mimeType": "application/pdf",
                         "size": "1735505"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "4._Serie_de_Fourier",
@@ -131,7 +137,8 @@
                         "mimeType": "application/pdf",
                         "size": "4131969"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "3._Serie_de_Taylor,_Laurent_y_Teoría_de_Residuos",
@@ -152,7 +159,8 @@
                         "mimeType": "application/pdf",
                         "size": "158469"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "2._Integración_Compleja",
@@ -166,7 +174,8 @@
                         "mimeType": "application/pdf",
                         "size": "208703"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "1._Números_y_Funciones_Complejas",
@@ -208,13 +217,17 @@
                         "mimeType": "application/pdf",
                         "size": "106848"
                       }
-                    ]
+                    ],
+                    "total_files": 5
                   }
-                ]
+                ],
+                "total_files": 17
               }
-            ]
+            ],
+            "total_files": 17
           }
-        ]
+        ],
+        "total_files": 17
       },
       {
         "name": "Matemática_Aplicada_Sílabo.pdf",
@@ -275,7 +288,8 @@
                 "mimeType": "application/pdf",
                 "size": "281616"
               }
-            ]
+            ],
+            "total_files": 6
           },
           {
             "name": "PC3",
@@ -296,7 +310,8 @@
                 "mimeType": "application/pdf",
                 "size": "12702081"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "PC2",
@@ -331,7 +346,8 @@
                 "mimeType": "application/pdf",
                 "size": "147858"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "PC1",
@@ -380,7 +396,8 @@
                 "mimeType": "application/pdf",
                 "size": "54476"
               }
-            ]
+            ],
+            "total_files": 6
           },
           {
             "name": "EP",
@@ -457,7 +474,8 @@
                 "mimeType": "application/pdf",
                 "size": "27585435"
               }
-            ]
+            ],
+            "total_files": 10
           },
           {
             "name": "ES",
@@ -485,7 +503,8 @@
                 "mimeType": "application/pdf",
                 "size": "61844"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "EF",
@@ -534,7 +553,8 @@
                 "mimeType": "application/pdf",
                 "size": "53004"
               }
-            ]
+            ],
+            "total_files": 6
           },
           {
             "name": "PE",
@@ -555,7 +575,8 @@
                 "mimeType": "application/pdf",
                 "size": "233958"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "_MA_SILABUS.pdf",
@@ -564,7 +585,8 @@
             "mimeType": "application/pdf",
             "size": "114162"
           }
-        ]
+        ],
+        "total_files": 40
       },
       {
         "name": "Libros",
@@ -592,8 +614,10 @@
             "mimeType": "application/pdf",
             "size": "26806958"
           }
-        ]
+        ],
+        "total_files": 3
       }
-    ]
+    ],
+    "total_files": 61
   }
 }

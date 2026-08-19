@@ -83,7 +83,8 @@
             "mimeType": "application/pdf",
             "size": "1717995"
           }
-        ]
+        ],
+        "total_files": 10
       },
       {
         "name": "Examenes",
@@ -118,7 +119,8 @@
             "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
             "size": "76630"
           }
-        ]
+        ],
+        "total_files": 4
       },
       {
         "name": "Trabajos",
@@ -160,7 +162,8 @@
             "mimeType": "application/pdf",
             "size": "643880"
           }
-        ]
+        ],
+        "total_files": 5
       },
       {
         "name": "TOGAF_español.pdf",
@@ -197,6 +200,7 @@
         "mimeType": "application/pdf",
         "size": "11117167"
       }
-    ]
+    ],
+    "total_files": 24
   }
 }

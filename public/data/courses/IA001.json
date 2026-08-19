@@ -53,7 +53,8 @@
                 "mimeType": "image/jpeg",
                 "size": "54426"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "Trabajos",
@@ -88,7 +89,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "14277"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "PPT'S",
@@ -165,10 +167,13 @@
                 "mimeType": "application/pdf",
                 "size": "2007485"
               }
-            ]
+            ],
+            "total_files": 10
           }
-        ]
+        ],
+        "total_files": 19
       }
-    ]
+    ],
+    "total_files": 19
   }
 }

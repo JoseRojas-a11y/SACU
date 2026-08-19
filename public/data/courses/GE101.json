@@ -65,7 +65,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "11640917"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "semana_16",
@@ -107,7 +108,8 @@
                     "mimeType": "application/pdf",
                     "size": "955227"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "semana_14",
@@ -135,7 +137,8 @@
                     "mimeType": "application/pdf",
                     "size": "959023"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "semana_15",
@@ -149,7 +152,8 @@
                     "mimeType": "application/pdf",
                     "size": "752699"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "semana_12-13",
@@ -163,7 +167,8 @@
                     "mimeType": "application/pdf",
                     "size": "2149674"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "semana_5-6",
@@ -177,7 +182,8 @@
                     "mimeType": "application/pdf",
                     "size": "2009060"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "semana_9-10-11",
@@ -198,7 +204,8 @@
                     "mimeType": "application/msword",
                     "size": "55296"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "semana_7-8",
@@ -233,7 +240,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "179688"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "semana_3",
@@ -268,7 +276,8 @@
                     "mimeType": "application/msword",
                     "size": "58880"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "semana_4",
@@ -282,7 +291,8 @@
                     "mimeType": "application/pdf",
                     "size": "1284764"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "semana_2",
@@ -310,9 +320,11 @@
                     "mimeType": "application/pdf",
                     "size": "110480"
                   }
-                ]
+                ],
+                "total_files": 3
               }
-            ]
+            ],
+            "total_files": 30
           },
           {
             "name": "PC3",
@@ -340,7 +352,8 @@
                 "mimeType": "image/jpeg",
                 "size": "872635"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "PC4",
@@ -354,7 +367,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "15986"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "PC2",
@@ -410,7 +424,8 @@
                 "mimeType": "image/jpeg",
                 "size": "866796"
               }
-            ]
+            ],
+            "total_files": 7
           },
           {
             "name": "EP",
@@ -424,7 +439,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "2573650"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "PC1",
@@ -459,7 +475,8 @@
                 "mimeType": "image/jpeg",
                 "size": "997840"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "EF",
@@ -473,9 +490,11 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "14633"
               }
-            ]
+            ],
+            "total_files": 1
           }
-        ]
+        ],
+        "total_files": 47
       },
       {
         "name": "VILLANUEVA_(U)",
@@ -486,7 +505,8 @@
             "name": "PC2",
             "type": "folder",
             "id": "1hntJDFysoQxKOheMkRC_Ts4AXI7IP-6n",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "PC4",
@@ -507,25 +527,29 @@
                 "mimeType": "image/jpeg",
                 "size": "371004"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "EP",
             "type": "folder",
             "id": "1Bs2XntCwogG68c4tlr7M35paoIJOAOSO",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "PC3",
             "type": "folder",
             "id": "1yjzZ1IZfKPjsRV-K473loQQZ535Osocm",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "PC1",
             "type": "folder",
             "id": "1o83fuxlgM6TJomjRXT3zBnZHOO8MXGD3",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "EF",
@@ -546,10 +570,13 @@
                 "mimeType": "image/jpeg",
                 "size": "664779"
               }
-            ]
+            ],
+            "total_files": 2
           }
-        ]
+        ],
+        "total_files": 4
       }
-    ]
+    ],
+    "total_files": 52
   }
 }

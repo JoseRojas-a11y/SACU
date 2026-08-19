@@ -48,7 +48,8 @@
             "mimeType": "application/pdf",
             "size": "8022701"
           }
-        ]
+        ],
+        "total_files": 3
       },
       {
         "name": "Planchas",
@@ -88,10 +89,13 @@
                 "mimeType": "application/pdf",
                 "size": "307956"
               }
-            ]
+            ],
+            "total_files": 4
           }
-        ]
+        ],
+        "total_files": 4
       }
-    ]
+    ],
+    "total_files": 9
   }
 }

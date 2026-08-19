@@ -48,7 +48,8 @@
             "mimeType": "application/pdf",
             "size": "405629"
           }
-        ]
+        ],
+        "total_files": 5
       },
       {
         "name": "2_-_Moralidad_de_Sistemas",
@@ -153,7 +154,8 @@
             "mimeType": "application/vnd.ms-powerpoint",
             "size": "2275840"
           }
-        ]
+        ],
+        "total_files": 14
       },
       {
         "name": "3_-_Metodologia_de_Investigacion",
@@ -377,7 +379,8 @@
             "mimeType": "application/pdf",
             "size": "281791"
           }
-        ]
+        ],
+        "total_files": 31
       },
       {
         "name": "6_-_Ejemplos",
@@ -433,7 +436,8 @@
             "mimeType": "application/pdf",
             "size": "2164361"
           }
-        ]
+        ],
+        "total_files": 7
       },
       {
         "name": "5_-_Sistemas_Duros_y_Blandos",
@@ -482,7 +486,8 @@
             "mimeType": "application/pdf",
             "size": "1229920"
           }
-        ]
+        ],
+        "total_files": 6
       },
       {
         "name": "4_-_Investigacion_Cualitativa",
@@ -734,7 +739,8 @@
             "mimeType": "application/pdf",
             "size": "265740"
           }
-        ]
+        ],
+        "total_files": 35
       },
       {
         "name": "1_-_Filosofia_Teoria_de_Sistemas",
@@ -776,8 +782,10 @@
             "mimeType": "application/pdf",
             "size": "511549"
           }
-        ]
+        ],
+        "total_files": 5
       }
-    ]
+    ],
+    "total_files": 103
   }
 }

@@ -123,7 +123,8 @@
                 "mimeType": "application/pdf",
                 "size": "177361"
               }
-            ]
+            ],
+            "total_files": 14
           },
           {
             "name": "PPT_s_UNI",
@@ -298,7 +299,8 @@
                 "mimeType": "application/pdf",
                 "size": "878955"
               }
-            ]
+            ],
+            "total_files": 24
           },
           {
             "name": "PPT_s_Gladys_Cruz",
@@ -333,7 +335,8 @@
                 "mimeType": "application/pdf",
                 "size": "2927414"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "Broncano",
@@ -408,7 +411,8 @@
                     "mimeType": "application/pdf",
                     "size": "216651"
                   }
-                ]
+                ],
+                "total_files": 9
               },
               {
                 "name": "Asesorias",
@@ -422,7 +426,8 @@
                     "mimeType": "application/pdf",
                     "size": "2480699"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "Material",
@@ -534,11 +539,14 @@
                     "mimeType": "application/pdf",
                     "size": "2785692"
                   }
-                ]
+                ],
+                "total_files": 15
               }
-            ]
+            ],
+            "total_files": 25
           }
-        ]
+        ],
+        "total_files": 68
       },
       {
         "name": "Bibliografía_recomendada",
@@ -601,7 +609,8 @@
             "mimeType": "application/pdf",
             "size": "66136211"
           }
-        ]
+        ],
+        "total_files": 8
       },
       {
         "name": "Planchas",
@@ -774,7 +783,8 @@
                 "mimeType": "application/pdf",
                 "size": "776332"
               }
-            ]
+            ],
+            "total_files": 23
           },
           {
             "name": "Compendio_hasta_22-1",
@@ -858,7 +868,8 @@
                 "mimeType": "application/pdf",
                 "size": "27287"
               }
-            ]
+            ],
+            "total_files": 10
           },
           {
             "name": "EF",
@@ -1106,7 +1117,8 @@
                         "mimeType": "application/pdf",
                         "size": "1897320"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "22-2",
@@ -1120,11 +1132,14 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                         "size": "270858"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   }
-                ]
+                ],
+                "total_files": 2
               }
-            ]
+            ],
+            "total_files": 34
           },
           {
             "name": "EP",
@@ -1192,7 +1207,8 @@
                     "mimeType": "image/jpeg",
                     "size": "1928687"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "22-1",
@@ -1206,7 +1222,8 @@
                     "mimeType": "application/pdf",
                     "size": "689571"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "21-2",
@@ -1220,7 +1237,8 @@
                     "mimeType": "application/pdf",
                     "size": "290984"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "20-1",
@@ -1234,7 +1252,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "245639"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "EP_24-2_Sol..pdf",
@@ -1257,7 +1276,8 @@
                 "mimeType": "application/pdf",
                 "size": "8475796"
               }
-            ]
+            ],
+            "total_files": 14
           },
           {
             "name": "PC2",
@@ -1409,7 +1429,8 @@
                     "mimeType": "application/pdf",
                     "size": "5393190"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "PC2_25-2.jpg",
@@ -1439,7 +1460,8 @@
                 "mimeType": "application/pdf",
                 "size": "22578"
               }
-            ]
+            ],
+            "total_files": 24
           },
           {
             "name": "PC3",
@@ -1617,7 +1639,8 @@
                         "mimeType": "application/pdf",
                         "size": "937333"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "21-2_U",
@@ -1631,11 +1654,14 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                         "size": "1490878"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   }
-                ]
+                ],
+                "total_files": 2
               }
-            ]
+            ],
+            "total_files": 24
           },
           {
             "name": "PC1",
@@ -1687,7 +1713,8 @@
                         "mimeType": "image/jpeg",
                         "size": "3707808"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "20-1_U",
@@ -1701,7 +1728,8 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                         "size": "151359"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "2018-1",
@@ -1729,7 +1757,8 @@
                         "mimeType": "image/jpeg",
                         "size": "3452875"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "2017-1",
@@ -1750,7 +1779,8 @@
                         "mimeType": "image/jpeg",
                         "size": "3535086"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "2016-11",
@@ -1778,7 +1808,8 @@
                         "mimeType": "image/jpeg",
                         "size": "2801267"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "22-1_V,W,X",
@@ -1792,7 +1823,8 @@
                         "mimeType": "application/pdf",
                         "size": "791557"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "22-2",
@@ -1806,9 +1838,11 @@
                         "mimeType": "application/pdf",
                         "size": "2849980"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   }
-                ]
+                ],
+                "total_files": 13
               },
               {
                 "name": "PC1_hasta_24-2.pdf",
@@ -1943,7 +1977,8 @@
                 "mimeType": "application/pdf",
                 "size": "150028"
               }
-            ]
+            ],
+            "total_files": 35
           },
           {
             "name": "PE",
@@ -1997,7 +2032,8 @@
                     "mimeType": "image/jpeg",
                     "size": "101274"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "22-1_U",
@@ -2018,7 +2054,8 @@
                     "mimeType": "application/pdf",
                     "size": "359517"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "21-2",
@@ -2039,7 +2076,8 @@
                     "mimeType": "image/jpeg",
                     "size": "4700830"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "18-1",
@@ -2081,7 +2119,8 @@
                     "mimeType": "image/jpeg",
                     "size": "2388922"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "21-1_U",
@@ -2109,7 +2148,8 @@
                     "mimeType": "image/jpeg",
                     "size": "3839385"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "PE_hasta_24-2.pdf",
@@ -2125,9 +2165,11 @@
                 "mimeType": "image/jpeg",
                 "size": "4438296"
               }
-            ]
+            ],
+            "total_files": 20
           }
-        ]
+        ],
+        "total_files": 185
       },
       {
         "name": "Sílabo_Cálculo_Integral.pdf",
@@ -2157,6 +2199,7 @@
         "mimeType": "application/pdf",
         "size": "437284"
       }
-    ]
+    ],
+    "total_files": 265
   }
 }

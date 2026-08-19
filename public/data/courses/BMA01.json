@@ -200,7 +200,8 @@
                 "mimeType": "application/pdf",
                 "size": "554981"
               }
-            ]
+            ],
+            "total_files": 25
           },
           {
             "name": "Cernades",
@@ -240,7 +241,8 @@
                     "mimeType": "application/pdf",
                     "size": "462854"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "S10_Diferenciales.pdf",
@@ -319,7 +321,8 @@
                 "mimeType": "application/pdf",
                 "size": "390401"
               }
-            ]
+            ],
+            "total_files": 15
           },
           {
             "name": "Huamán",
@@ -408,9 +411,11 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "22889"
                   }
-                ]
+                ],
+                "total_files": 11
               }
-            ]
+            ],
+            "total_files": 11
           },
           {
             "name": "Ricardo_Chung_Ching",
@@ -429,7 +434,8 @@
                     "mimeType": "application/pdf",
                     "size": "2501773"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "Tareas_para_Chung",
@@ -483,7 +489,8 @@
                         "mimeType": "image/jpeg",
                         "size": "1801872"
                       }
-                    ]
+                    ],
+                    "total_files": 6
                   },
                   {
                     "name": "4PC",
@@ -567,7 +574,8 @@
                         "mimeType": "image/jpeg",
                         "size": "2091809"
                       }
-                    ]
+                    ],
+                    "total_files": 11
                   },
                   {
                     "name": "2PC",
@@ -609,7 +617,8 @@
                         "mimeType": "image/jpeg",
                         "size": "1329679"
                       }
-                    ]
+                    ],
+                    "total_files": 5
                   },
                   {
                     "name": "3PC",
@@ -693,7 +702,8 @@
                         "mimeType": "image/jpeg",
                         "size": "630363"
                       }
-                    ]
+                    ],
+                    "total_files": 11
                   },
                   {
                     "name": "EP",
@@ -763,7 +773,8 @@
                         "mimeType": "image/jpeg",
                         "size": "849720"
                       }
-                    ]
+                    ],
+                    "total_files": 9
                   },
                   {
                     "name": "1PC",
@@ -791,13 +802,17 @@
                         "mimeType": "image/jpeg",
                         "size": "1053221"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   }
-                ]
+                ],
+                "total_files": 45
               }
-            ]
+            ],
+            "total_files": 46
           }
-        ]
+        ],
+        "total_files": 97
       },
       {
         "name": "Prácticas_dirigidas",
@@ -881,7 +896,8 @@
             "mimeType": "application/pdf",
             "size": "307460"
           }
-        ]
+        ],
+        "total_files": 11
       },
       {
         "name": "Tabla_de_derivadas.pdf",
@@ -944,7 +960,8 @@
             "mimeType": "application/pdf",
             "size": "23927122"
           }
-        ]
+        ],
+        "total_files": 7
       },
       {
         "name": "Planchas",
@@ -1003,7 +1020,8 @@
                     "mimeType": "image/jpeg",
                     "size": "41131"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "BMA01_ES_20-2.pdf",
@@ -1089,7 +1107,8 @@
                 "mimeType": "application/pdf",
                 "size": "626369"
               }
-            ]
+            ],
+            "total_files": 17
           },
           {
             "name": "EP",
@@ -1164,7 +1183,8 @@
                     "mimeType": "application/pdf",
                     "size": "118659"
                   }
-                ]
+                ],
+                "total_files": 9
               },
               {
                 "name": "BMA01_EP_22-2.pdf",
@@ -1271,7 +1291,8 @@
                 "mimeType": "image/jpeg",
                 "size": "128259"
               }
-            ]
+            ],
+            "total_files": 24
           },
           {
             "name": "PC3",
@@ -1311,7 +1332,8 @@
                     "mimeType": "application/pdf",
                     "size": "77172"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "BMA01_PC3_24-1.pdf",
@@ -1432,7 +1454,8 @@
                 "mimeType": "application/pdf",
                 "size": "83968"
               }
-            ]
+            ],
+            "total_files": 21
           },
           {
             "name": "PC4",
@@ -1479,7 +1502,8 @@
                     "mimeType": "application/pdf",
                     "size": "112367"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "BMA01_PC4_26-1.jpg",
@@ -1600,7 +1624,8 @@
                 "mimeType": "image/jpeg",
                 "size": "3514167"
               }
-            ]
+            ],
+            "total_files": 22
           },
           {
             "name": "PC1",
@@ -1661,7 +1686,8 @@
                     "mimeType": "application/pdf",
                     "size": "158771"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "BMA01_PC1_25-1_Sol_Berrospi.jpg",
@@ -1761,7 +1787,8 @@
                 "mimeType": "image/jpeg",
                 "size": "81806"
               }
-            ]
+            ],
+            "total_files": 21
           },
           {
             "name": "PE",
@@ -1817,7 +1844,8 @@
                 "mimeType": "image/jpeg",
                 "size": "35998"
               }
-            ]
+            ],
+            "total_files": 7
           },
           {
             "name": "PC2",
@@ -1892,7 +1920,8 @@
                     "mimeType": "image/jpeg",
                     "size": "44045"
                   }
-                ]
+                ],
+                "total_files": 9
               },
               {
                 "name": "BMA01_PC2_23-2.pdf",
@@ -2027,7 +2056,8 @@
                 "mimeType": "image/jpeg",
                 "size": "117841"
               }
-            ]
+            ],
+            "total_files": 28
           },
           {
             "name": "EF",
@@ -2137,7 +2167,8 @@
                     "mimeType": "image/jpeg",
                     "size": "57124"
                   }
-                ]
+                ],
+                "total_files": 11
               },
               {
                 "name": "BMA01_EF_22-1.pdf",
@@ -2272,9 +2303,11 @@
                 "mimeType": "image/jpeg",
                 "size": "102157"
               }
-            ]
+            ],
+            "total_files": 33
           }
-        ]
+        ],
+        "total_files": 174
       },
       {
         "name": "Riquelmer_Diferencial_24-2.pdf",
@@ -2283,6 +2316,7 @@
         "mimeType": "application/pdf",
         "size": "15457510"
       }
-    ]
+    ],
+    "total_files": 292
   }
 }

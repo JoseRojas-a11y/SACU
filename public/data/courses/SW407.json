@@ -41,7 +41,8 @@
             "mimeType": "application/pdf",
             "size": "916161"
           }
-        ]
+        ],
+        "total_files": 4
       },
       {
         "name": "Observaciones",
@@ -76,7 +77,8 @@
             "mimeType": "application/pdf",
             "size": "31133896"
           }
-        ]
+        ],
+        "total_files": 3
       },
       {
         "name": "Planchas",
@@ -95,13 +97,15 @@
                 "mimeType": "application/pdf",
                 "size": "206009"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "PC4",
             "type": "folder",
             "id": "1DpRmyyu2OVFXYAjl-dWxFpE4jNzD28kb",
-            "children": []
+            "children": [],
+            "total_files": 0
           },
           {
             "name": "PC2",
@@ -129,7 +133,8 @@
                 "mimeType": "application/pdf",
                 "size": "2184807"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "PE",
@@ -143,7 +148,8 @@
                 "mimeType": "application/pdf",
                 "size": "209843"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "ES",
@@ -171,7 +177,8 @@
                 "mimeType": "application/pdf",
                 "size": "257454"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "EF",
@@ -185,7 +192,8 @@
                 "mimeType": "application/pdf",
                 "size": "481533"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "PC3",
@@ -199,7 +207,8 @@
                 "mimeType": "application/pdf",
                 "size": "321505"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "PC1",
@@ -234,7 +243,8 @@
                 "mimeType": "application/pdf",
                 "size": "151448"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "EP",
@@ -269,10 +279,13 @@
                 "mimeType": "application/pdf",
                 "size": "283528"
               }
-            ]
+            ],
+            "total_files": 4
           }
-        ]
+        ],
+        "total_files": 18
       }
-    ]
+    ],
+    "total_files": 26
   }
 }

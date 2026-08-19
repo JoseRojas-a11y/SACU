@@ -95,7 +95,8 @@
                 "mimeType": "application/pdf",
                 "size": "141283"
               }
-            ]
+            ],
+            "total_files": 11
           },
           {
             "name": "Quinteros",
@@ -130,7 +131,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
                 "size": "14099"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "CAICEDO",
@@ -156,7 +158,8 @@
                     "mimeType": "application/msword",
                     "size": "19052"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "clases",
@@ -196,7 +199,8 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                         "size": "1036611"
                       }
-                    ]
+                    ],
+                    "total_files": 4
                   },
                   {
                     "name": "Diseño_otrganizacional_Robbins_Cap_09.pdf",
@@ -247,7 +251,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "4138684"
                   }
-                ]
+                ],
+                "total_files": 11
               },
               {
                 "name": "evaluaciones",
@@ -303,7 +308,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "40613"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "SOLUCIONARIO_EXAMEN_PARCIAL_A_y_O_2021_(1).docx",
@@ -340,7 +346,8 @@
                 "mimeType": "application/pdf",
                 "size": "157576"
               }
-            ]
+            ],
+            "total_files": 25
           },
           {
             "name": "Sedano",
@@ -361,7 +368,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "19783"
               }
-            ]
+            ],
+            "total_files": 2
           },
           {
             "name": "matriz_de_procesos.docx",
@@ -398,7 +406,8 @@
             "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
             "size": "28024"
           }
-        ]
+        ],
+        "total_files": 47
       },
       {
         "name": "LIBROS",
@@ -433,8 +442,10 @@
             "mimeType": "application/pdf",
             "size": "18131173"
           }
-        ]
+        ],
+        "total_files": 4
       }
-    ]
+    ],
+    "total_files": 51
   }
 }

@@ -111,7 +111,8 @@
             "mimeType": "application/pdf",
             "size": "952894"
           }
-        ]
+        ],
+        "total_files": 14
       },
       {
         "name": "Teoría_Mg._Javier_Echeandia",
@@ -153,7 +154,8 @@
             "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
             "size": "18372949"
           }
-        ]
+        ],
+        "total_files": 5
       },
       {
         "name": "Prácticas_dirigidas",
@@ -193,7 +195,8 @@
                 "mimeType": "application/pdf",
                 "size": "354591"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "PD4",
@@ -228,7 +231,8 @@
                 "mimeType": "application/pdf",
                 "size": "193051"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "PD_Boni_24-1.pdf",
@@ -291,7 +295,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "225337"
               }
-            ]
+            ],
+            "total_files": 7
           },
           {
             "name": "PD1",
@@ -361,7 +366,8 @@
                 "mimeType": "application/pdf",
                 "size": "137519"
               }
-            ]
+            ],
+            "total_files": 9
           },
           {
             "name": "LIBRO_DE_EJERCICIOS_RESUELTOS_-_GEOMETRIA_ANALITICA.pdf",
@@ -370,7 +376,8 @@
             "mimeType": "application/pdf",
             "size": "14731621"
           }
-        ]
+        ],
+        "total_files": 26
       },
       {
         "name": "Planchas",
@@ -417,7 +424,8 @@
                 "mimeType": "image/jpeg",
                 "size": "259701"
               }
-            ]
+            ],
+            "total_files": 5
           },
           {
             "name": "Compendio_morado_hasta_22-3.pdf",
@@ -543,7 +551,8 @@
                 "mimeType": "application/pdf",
                 "size": "1305075"
               }
-            ]
+            ],
+            "total_files": 15
           },
           {
             "name": "EF",
@@ -606,7 +615,8 @@
                 "mimeType": "image/jpeg",
                 "size": "172615"
               }
-            ]
+            ],
+            "total_files": 8
           },
           {
             "name": "PC4",
@@ -662,7 +672,8 @@
                 "mimeType": "image/jpeg",
                 "size": "5355986"
               }
-            ]
+            ],
+            "total_files": 7
           },
           {
             "name": "PC3",
@@ -753,7 +764,8 @@
                 "mimeType": "image/jpeg",
                 "size": "187151"
               }
-            ]
+            ],
+            "total_files": 12
           },
           {
             "name": "PE",
@@ -816,7 +828,8 @@
                 "mimeType": "image/jpeg",
                 "size": "85370"
               }
-            ]
+            ],
+            "total_files": 8
           },
           {
             "name": "PC2",
@@ -928,7 +941,8 @@
                 "mimeType": "application/pdf",
                 "size": "1147594"
               }
-            ]
+            ],
+            "total_files": 15
           },
           {
             "name": "PC1",
@@ -1026,9 +1040,11 @@
                 "mimeType": "application/pdf",
                 "size": "2896310"
               }
-            ]
+            ],
+            "total_files": 13
           }
-        ]
+        ],
+        "total_files": 85
       },
       {
         "name": "Riquelmer_Analítica_25-1.pdf",
@@ -1037,6 +1053,7 @@
         "mimeType": "application/pdf",
         "size": "56481934"
       }
-    ]
+    ],
+    "total_files": 131
   }
 }

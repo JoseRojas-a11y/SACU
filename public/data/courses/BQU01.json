@@ -72,7 +72,8 @@
                     "mimeType": "application/pdf",
                     "size": "157577"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "PC3",
@@ -93,7 +94,8 @@
                     "mimeType": "application/pdf",
                     "size": "204213"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "PC2",
@@ -107,7 +109,8 @@
                     "mimeType": "application/pdf",
                     "size": "538974"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC1",
@@ -121,9 +124,11 @@
                     "mimeType": "application/pdf",
                     "size": "981020"
                   }
-                ]
+                ],
+                "total_files": 1
               }
-            ]
+            ],
+            "total_files": 7
           },
           {
             "name": "Nancy_Fukuda",
@@ -156,7 +161,8 @@
                     "mimeType": "application/pdf",
                     "size": "89455"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "EF",
@@ -198,7 +204,8 @@
                     "mimeType": "application/pdf",
                     "size": "142695"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "EP",
@@ -261,7 +268,8 @@
                     "mimeType": "application/pdf",
                     "size": "462736"
                   }
-                ]
+                ],
+                "total_files": 8
               },
               {
                 "name": "ES",
@@ -296,7 +304,8 @@
                     "mimeType": "application/pdf",
                     "size": "119372"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "PC4",
@@ -338,7 +347,8 @@
                     "mimeType": "application/pdf",
                     "size": "143664"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "PC3",
@@ -380,7 +390,8 @@
                     "mimeType": "application/pdf",
                     "size": "284008"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "PC2",
@@ -422,9 +433,11 @@
                     "mimeType": "application/pdf",
                     "size": "73778"
                   }
-                ]
+                ],
+                "total_files": 5
               }
-            ]
+            ],
+            "total_files": 35
           },
           {
             "name": "Petra_Rondinel",
@@ -457,7 +470,8 @@
                     "mimeType": "application/pdf",
                     "size": "1666449"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "PC3",
@@ -492,7 +506,8 @@
                     "mimeType": "application/pdf",
                     "size": "858392"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "PC2",
@@ -513,7 +528,8 @@
                     "mimeType": "application/pdf",
                     "size": "324363"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "PC1",
@@ -548,9 +564,11 @@
                     "mimeType": "application/pdf",
                     "size": "154437"
                   }
-                ]
+                ],
+                "total_files": 4
               }
-            ]
+            ],
+            "total_files": 13
           },
           {
             "name": "Susana_Gómez",
@@ -569,7 +587,8 @@
                     "mimeType": "application/pdf",
                     "size": "154449"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "EF",
@@ -590,7 +609,8 @@
                     "mimeType": "application/pdf",
                     "size": "552306"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "EP",
@@ -618,7 +638,8 @@
                     "mimeType": "application/pdf",
                     "size": "2024914"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "PC3",
@@ -632,7 +653,8 @@
                     "mimeType": "image/jpeg",
                     "size": "67484"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC2",
@@ -646,7 +668,8 @@
                     "mimeType": "image/jpeg",
                     "size": "78197"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC1",
@@ -660,9 +683,11 @@
                     "mimeType": "image/jpeg",
                     "size": "60187"
                   }
-                ]
+                ],
+                "total_files": 1
               }
-            ]
+            ],
+            "total_files": 9
           },
           {
             "name": "Bilma/Chaflo",
@@ -716,7 +741,8 @@
                     "mimeType": "application/pdf",
                     "size": "3045574"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "Teoría",
@@ -856,7 +882,8 @@
                     "mimeType": "application/pdf",
                     "size": "11611759"
                   }
-                ]
+                ],
+                "total_files": 19
               },
               {
                 "name": "ES",
@@ -912,7 +939,8 @@
                     "mimeType": "application/pdf",
                     "size": "187943"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "EP",
@@ -1017,7 +1045,8 @@
                     "mimeType": "application/pdf",
                     "size": "292658"
                   }
-                ]
+                ],
+                "total_files": 14
               },
               {
                 "name": "PE",
@@ -1045,7 +1074,8 @@
                     "mimeType": "image/jpeg",
                     "size": "42977"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "EF",
@@ -1157,7 +1187,8 @@
                     "mimeType": "application/pdf",
                     "size": "491970"
                   }
-                ]
+                ],
+                "total_files": 15
               },
               {
                 "name": "PC4",
@@ -1171,7 +1202,8 @@
                     "mimeType": "application/pdf",
                     "size": "369289"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC3",
@@ -1199,7 +1231,8 @@
                     "mimeType": "application/pdf",
                     "size": "136891"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "PC2",
@@ -1220,7 +1253,8 @@
                     "mimeType": "application/pdf",
                     "size": "67435"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "PC1",
@@ -1241,9 +1275,11 @@
                     "mimeType": "application/pdf",
                     "size": "407795"
                   }
-                ]
+                ],
+                "total_files": 2
               }
-            ]
+            ],
+            "total_files": 72
           },
           {
             "name": "Erik_Valenzuela",
@@ -1262,7 +1298,8 @@
                     "mimeType": "application/pdf",
                     "size": "342203"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC2",
@@ -1276,7 +1313,8 @@
                     "mimeType": "application/pdf",
                     "size": "170953"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "Teoría",
@@ -1374,9 +1412,11 @@
                     "mimeType": "application/pdf",
                     "size": "8134305"
                   }
-                ]
+                ],
+                "total_files": 13
               }
-            ]
+            ],
+            "total_files": 15
           },
           {
             "name": "Rosario_Reyes",
@@ -1395,7 +1435,8 @@
                     "mimeType": "application/pdf",
                     "size": "660157"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "EP",
@@ -1423,7 +1464,8 @@
                     "mimeType": "application/pdf",
                     "size": "1656597"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "PC3",
@@ -1437,7 +1479,8 @@
                     "mimeType": "application/pdf",
                     "size": "458319"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "Preinformes",
@@ -1535,7 +1578,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "931883"
                   }
-                ]
+                ],
+                "total_files": 13
               },
               {
                 "name": "EF",
@@ -1577,7 +1621,8 @@
                     "mimeType": "application/pdf",
                     "size": "95768"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "Teoría",
@@ -1759,7 +1804,8 @@
                     "mimeType": "application/pdf",
                     "size": "480207"
                   }
-                ]
+                ],
+                "total_files": 25
               },
               {
                 "name": "Tests_laboratorio",
@@ -1794,9 +1840,11 @@
                     "mimeType": "image/jpeg",
                     "size": "1493800"
                   }
-                ]
+                ],
+                "total_files": 4
               }
-            ]
+            ],
+            "total_files": 52
           },
           {
             "name": "Daniel_Alcántara",
@@ -1864,7 +1912,8 @@
                     "mimeType": "application/pdf",
                     "size": "604124"
                   }
-                ]
+                ],
+                "total_files": 8
               },
               {
                 "name": "EP_💀",
@@ -1969,7 +2018,8 @@
                     "mimeType": "application/pdf",
                     "size": "462736"
                   }
-                ]
+                ],
+                "total_files": 14
               },
               {
                 "name": "ES",
@@ -2046,7 +2096,8 @@
                     "mimeType": "application/pdf",
                     "size": "543302"
                   }
-                ]
+                ],
+                "total_files": 10
               },
               {
                 "name": "PC1",
@@ -2123,7 +2174,8 @@
                     "mimeType": "image/jpeg",
                     "size": "261667"
                   }
-                ]
+                ],
+                "total_files": 10
               },
               {
                 "name": "PC2",
@@ -2165,7 +2217,8 @@
                     "mimeType": "application/pdf",
                     "size": "92632"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "TESTS",
@@ -2193,7 +2246,8 @@
                     "mimeType": "image/jpeg",
                     "size": "4034183"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "PC4",
@@ -2221,7 +2275,8 @@
                     "mimeType": "application/pdf",
                     "size": "157577"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "PC3",
@@ -2249,7 +2304,8 @@
                     "mimeType": "image/jpeg",
                     "size": "8066983"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "Diapositivas/Material",
@@ -2438,7 +2494,8 @@
                     "mimeType": "application/pdf",
                     "size": "12476172"
                   }
-                ]
+                ],
+                "total_files": 26
               },
               {
                 "name": "Algunos_apuntes_de_clases_virtuales",
@@ -2466,7 +2523,8 @@
                     "mimeType": "text/plain",
                     "size": "1412"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "PE",
@@ -2501,7 +2559,8 @@
                     "mimeType": "image/jpeg",
                     "size": "76630"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "LIBRO_ALCANTARA[1].pdf",
@@ -2517,9 +2576,11 @@
                 "mimeType": "application/pdf",
                 "size": "22136779"
               }
-            ]
+            ],
+            "total_files": 91
           }
-        ]
+        ],
+        "total_files": 294
       },
       {
         "name": "Prácticas_dirigidas",
@@ -2855,7 +2916,8 @@
             "mimeType": "application/pdf",
             "size": "8668282"
           }
-        ]
+        ],
+        "total_files": 47
       },
       {
         "name": "Bibliografía_Recomendada",
@@ -2911,7 +2973,8 @@
             "mimeType": "application/pdf",
             "size": "7905708"
           }
-        ]
+        ],
+        "total_files": 7
       },
       {
         "name": "Guías_de_laboratorio",
@@ -3002,7 +3065,8 @@
             "mimeType": "application/pdf",
             "size": "19488"
           }
-        ]
+        ],
+        "total_files": 12
       },
       {
         "name": "Planchas_generales",
@@ -3077,7 +3141,8 @@
                 "mimeType": "application/pdf",
                 "size": "1466228"
               }
-            ]
+            ],
+            "total_files": 9
           },
           {
             "name": "EF",
@@ -3140,7 +3205,8 @@
                 "mimeType": "application/pdf",
                 "size": "427143"
               }
-            ]
+            ],
+            "total_files": 8
           },
           {
             "name": "EP",
@@ -3210,9 +3276,11 @@
                 "mimeType": "application/pdf",
                 "size": "346452"
               }
-            ]
+            ],
+            "total_files": 9
           }
-        ]
+        ],
+        "total_files": 26
       },
       {
         "name": "Cuaderno_de_quimica.pdf",
@@ -3221,6 +3289,7 @@
         "mimeType": "application/pdf",
         "size": "26445052"
       }
-    ]
+    ],
+    "total_files": 391
   }
 }

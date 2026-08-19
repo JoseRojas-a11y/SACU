@@ -25,7 +25,8 @@
                 "mimeType": "application/pdf",
                 "size": "1687249"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "PC1",
@@ -39,9 +40,11 @@
                 "mimeType": "application/pdf",
                 "size": "1135596"
               }
-            ]
+            ],
+            "total_files": 1
           }
-        ]
+        ],
+        "total_files": 2
       },
       {
         "name": "LP_alumnos_2021_2.pdf",
@@ -50,6 +53,7 @@
         "mimeType": "application/pdf",
         "size": "22137586"
       }
-    ]
+    ],
+    "total_files": 3
   }
 }

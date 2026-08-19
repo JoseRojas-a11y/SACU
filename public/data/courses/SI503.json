@@ -12,19 +12,22 @@
         "name": "04_Libros",
         "type": "folder",
         "id": "19esQDlNb24r8gfnFwDb6cfhPODaqYKLz",
-        "children": []
+        "children": [],
+        "total_files": 0
       },
       {
         "name": "03_Trabajos_y_Laboratorios",
         "type": "folder",
         "id": "1jEz7KHp1gmDl3XAq6F8MOUL7dT0zdAMi",
-        "children": []
+        "children": [],
+        "total_files": 0
       },
       {
         "name": "02_Material_de_Clase",
         "type": "folder",
         "id": "10XmSEK10YgwRjTyc50fL-lbVpE6_qhET",
-        "children": []
+        "children": [],
+        "total_files": 0
       },
       {
         "name": "01_Evaluaciones",
@@ -43,7 +46,8 @@
                 "mimeType": "application/pdf",
                 "size": "2077115"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "PC4",
@@ -57,7 +61,8 @@
                 "mimeType": "text/plain",
                 "size": "323"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "EP",
@@ -71,7 +76,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "66055"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "EF",
@@ -85,21 +91,25 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "15423"
               }
-            ]
+            ],
+            "total_files": 1
           }
-        ]
+        ],
+        "total_files": 4
       },
       {
         "name": "Oscar_Vento",
         "type": "folder",
         "id": "1OAHckD5Rk47BxfCyyQF_KSe9vilDmq6r",
-        "children": []
+        "children": [],
+        "total_files": 0
       },
       {
         "name": "Julio_Talaverano",
         "type": "folder",
         "id": "1sunH_OHoz5TyBiHsAhVPq5Al80JBqK_L",
-        "children": []
+        "children": [],
+        "total_files": 0
       },
       {
         "name": "Ninoska_Molina",
@@ -123,7 +133,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "15423"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "EP",
@@ -137,7 +148,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "66055"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC4",
@@ -151,7 +163,8 @@
                     "mimeType": "text/plain",
                     "size": "323"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC3",
@@ -165,7 +178,8 @@
                     "mimeType": "application/pdf",
                     "size": "2077115"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC2",
@@ -186,7 +200,8 @@
                     "mimeType": "application/pdf",
                     "size": "1155912"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "PE",
@@ -200,7 +215,8 @@
                     "mimeType": "application/pdf",
                     "size": "521281"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC1",
@@ -214,7 +230,8 @@
                     "mimeType": "text/plain",
                     "size": "118"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "Monografía",
@@ -242,9 +259,11 @@
                     "mimeType": "application/vnd.ms-excel.sheet.macroenabled.12",
                     "size": "751020"
                   }
-                ]
+                ],
+                "total_files": 3
               }
-            ]
+            ],
+            "total_files": 11
           },
           {
             "name": "Material",
@@ -296,7 +315,8 @@
                         "mimeType": "application/pdf",
                         "size": "1762360"
                       }
-                    ]
+                    ],
+                    "total_files": 5
                   },
                   {
                     "name": "CICLO_PHVA_&_5S.pdf",
@@ -312,7 +332,8 @@
                     "mimeType": "application/pdf",
                     "size": "9599474"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "Teoría_de_la_profesora",
@@ -380,7 +401,8 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                         "size": "524453"
                       }
-                    ]
+                    ],
+                    "total_files": 8
                   },
                   {
                     "name": "Sesión_Estructura_y_diseño_organizacional_(13.09).pptx",
@@ -410,7 +432,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "2689180"
                   }
-                ]
+                ],
+                "total_files": 12
               },
               {
                 "name": "Nota.txt",
@@ -419,22 +442,27 @@
                 "mimeType": "text/plain",
                 "size": "645"
               }
-            ]
+            ],
+            "total_files": 20
           }
-        ]
+        ],
+        "total_files": 31
       },
       {
         "name": "Eliana_Rizabal",
         "type": "folder",
         "id": "1ALAM7tGk0dkLHSJK_A6x4aVCA-W-1It6",
-        "children": []
+        "children": [],
+        "total_files": 0
       },
       {
         "name": "Alejandrina_Huarcaya",
         "type": "folder",
         "id": "1EPpuxSU9BU51orsUX53Q3Oa2__StWrib",
-        "children": []
+        "children": [],
+        "total_files": 0
       }
-    ]
+    ],
+    "total_files": 35
   }
 }

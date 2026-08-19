@@ -44,7 +44,8 @@
                     "mimeType": "image/gif",
                     "size": "115202"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "Ejemplo_1",
@@ -72,9 +73,11 @@
                     "mimeType": "image/gif",
                     "size": "125467"
                   }
-                ]
+                ],
+                "total_files": 3
               }
-            ]
+            ],
+            "total_files": 6
           },
           {
             "name": "RECOMENDACIÓN",
@@ -144,7 +147,8 @@
                 "mimeType": "application/pdf",
                 "size": "218861"
               }
-            ]
+            ],
+            "total_files": 8
           },
           {
             "name": "Tarea",
@@ -212,7 +216,8 @@
                     "mimeType": "image/gif",
                     "size": "370625"
                   }
-                ]
+                ],
+                "total_files": 8
               },
               {
                 "name": "Lista_Dispositivos_para_tarea",
@@ -401,7 +406,8 @@
                     "mimeType": "image/jpeg",
                     "size": "47788"
                   }
-                ]
+                ],
+                "total_files": 26
               },
               {
                 "name": "Tablas_tolerancias_dimensionales_2.pdf",
@@ -459,7 +465,8 @@
                 "mimeType": "application/pdf",
                 "size": "31076957"
               }
-            ]
+            ],
+            "total_files": 42
           },
           {
             "name": "Silabo_TE302-Diseño_Asistido_por_computadora_2026-I.pdf",
@@ -564,7 +571,8 @@
                 "mimeType": "application/pdf",
                 "size": "845448"
               }
-            ]
+            ],
+            "total_files": 13
           },
           {
             "name": "Planchas",
@@ -583,7 +591,8 @@
                     "mimeType": "application/pdf",
                     "size": "734544"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC7",
@@ -597,7 +606,8 @@
                     "mimeType": "application/pdf",
                     "size": "659762"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "PC6",
@@ -625,7 +635,8 @@
                     "mimeType": "application/pdf",
                     "size": "1169336"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "PC5",
@@ -674,7 +685,8 @@
                     "mimeType": "application/pdf",
                     "size": "214101"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "PC4",
@@ -730,7 +742,8 @@
                     "mimeType": "application/pdf",
                     "size": "347980"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "PC3",
@@ -772,7 +785,8 @@
                     "mimeType": "application/pdf",
                     "size": "257747"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "PC2",
@@ -849,7 +863,8 @@
                     "mimeType": "application/pdf",
                     "size": "220680"
                   }
-                ]
+                ],
+                "total_files": 10
               },
               {
                 "name": "PC1",
@@ -940,11 +955,14 @@
                     "mimeType": "application/pdf",
                     "size": "215101"
                   }
-                ]
+                ],
+                "total_files": 12
               }
-            ]
+            ],
+            "total_files": 45
           }
-        ]
+        ],
+        "total_files": 116
       },
       {
         "name": "Cieza_de_León",
@@ -991,7 +1009,8 @@
                 "mimeType": "application/pdf",
                 "size": "220458"
               }
-            ]
+            ],
+            "total_files": 5
           },
           {
             "name": "INVENTOR",
@@ -1117,7 +1136,8 @@
                 "mimeType": "application/pdf",
                 "size": "4915789"
               }
-            ]
+            ],
+            "total_files": 17
           },
           {
             "name": "AJUSTES_Y_TOLERANCIAS",
@@ -1194,7 +1214,8 @@
                 "mimeType": "application/pdf",
                 "size": "252002"
               }
-            ]
+            ],
+            "total_files": 10
           },
           {
             "name": "SECCIONES-CORTES",
@@ -1264,7 +1285,8 @@
                 "mimeType": "application/pdf",
                 "size": "1102471"
               }
-            ]
+            ],
+            "total_files": 9
           },
           {
             "name": "tipos_de_proyecciones.png",
@@ -1287,8 +1309,10 @@
             "mimeType": "text/html",
             "size": "154898"
           }
-        ]
+        ],
+        "total_files": 44
       }
-    ]
+    ],
+    "total_files": 160
   }
 }

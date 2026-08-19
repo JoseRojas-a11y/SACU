@@ -49,7 +49,8 @@
                         "mimeType": "image/jpeg",
                         "size": "45690"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "pc2_2.jpg",
@@ -79,7 +80,8 @@
                     "mimeType": "image/jpeg",
                     "size": "70816"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "GE602_PC2_ZÁRATE_21-1.pdf",
@@ -102,7 +104,8 @@
                 "mimeType": "application/pdf",
                 "size": "218485"
               }
-            ]
+            ],
+            "total_files": 10
           },
           {
             "name": "PC03",
@@ -170,7 +173,8 @@
                     "mimeType": "application/pdf",
                     "size": "135320"
                   }
-                ]
+                ],
+                "total_files": 8
               },
               {
                 "name": "CF_PC3_19-1_Leyton.pdf",
@@ -179,7 +183,8 @@
                 "mimeType": "application/pdf",
                 "size": "2204697"
               }
-            ]
+            ],
+            "total_files": 9
           },
           {
             "name": "FINAL",
@@ -263,7 +268,8 @@
                 "mimeType": "application/pdf",
                 "size": "450597"
               }
-            ]
+            ],
+            "total_files": 11
           },
           {
             "name": "SUSTI",
@@ -312,7 +318,8 @@
                 "mimeType": "application/pdf",
                 "size": "244451"
               }
-            ]
+            ],
+            "total_files": 6
           },
           {
             "name": "PC01",
@@ -326,7 +333,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "46502"
               }
-            ]
+            ],
+            "total_files": 1
           },
           {
             "name": "PC04",
@@ -359,7 +367,8 @@
                     "mimeType": "application/pdf",
                     "size": "306914"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "CF_PC4_19-2_U.pdf",
@@ -368,7 +377,8 @@
                 "mimeType": "application/pdf",
                 "size": "98996"
               }
-            ]
+            ],
+            "total_files": 4
           },
           {
             "name": "PARCIAL",
@@ -417,7 +427,8 @@
                 "mimeType": "application/pdf",
                 "size": "1105187"
               }
-            ]
+            ],
+            "total_files": 6
           },
           {
             "name": "Control_de_lectua_4.jpg",
@@ -447,7 +458,8 @@
             "mimeType": "image/jpeg",
             "size": "68380"
           }
-        ]
+        ],
+        "total_files": 51
       },
       {
         "name": "Material_Falconi",
@@ -471,7 +483,8 @@
                     "mimeType": "image/jpeg",
                     "size": "91836"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "examen_final",
@@ -492,7 +505,8 @@
                     "mimeType": "image/jpeg",
                     "size": "118469"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "examen_de_entrada",
@@ -520,7 +534,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "9469"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "4pc",
@@ -553,7 +568,8 @@
                         "mimeType": "image/jpeg",
                         "size": "44302"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "16-1",
@@ -574,11 +590,14 @@
                         "mimeType": "image/jpeg",
                         "size": "85509"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   }
-                ]
+                ],
+                "total_files": 5
               }
-            ]
+            ],
+            "total_files": 11
           },
           {
             "name": "Casos",
@@ -604,7 +623,8 @@
                     "mimeType": "application/vnd.ms-powerpoint",
                     "size": "178176"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "caso_motelaurora",
@@ -625,7 +645,8 @@
                     "mimeType": "application/vnd.ms-excel",
                     "size": "23040"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "caso_TiendaRopaprentiss",
@@ -646,7 +667,8 @@
                     "mimeType": "application/msword",
                     "size": "28672"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "caso_del_cafe_humeante",
@@ -667,7 +689,8 @@
                     "mimeType": "application/vnd.ms-excel",
                     "size": "21504"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "caso_Drogueoccidental",
@@ -688,7 +711,8 @@
                     "mimeType": "application/vnd.ms-excel",
                     "size": "25088"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "caso_ABC",
@@ -702,7 +726,8 @@
                     "mimeType": "application/msword",
                     "size": "24064"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "solucioherramientas.doc",
@@ -760,7 +785,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "24960"
               }
-            ]
+            ],
+            "total_files": 19
           },
           {
             "name": "Teoría_por_semanas",
@@ -814,7 +840,8 @@
                     "mimeType": "application/vnd.ms-powerpoint",
                     "size": "205824"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "Semana_9",
@@ -877,7 +904,8 @@
                     "mimeType": "application/vnd.ms-excel",
                     "size": "30208"
                   }
-                ]
+                ],
+                "total_files": 8
               },
               {
                 "name": "Semana_2",
@@ -926,7 +954,8 @@
                     "mimeType": "application/vnd.ms-powerpoint",
                     "size": "215552"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "Semana_13",
@@ -961,7 +990,8 @@
                     "mimeType": "application/pdf",
                     "size": "233945"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "Semana_3",
@@ -1031,7 +1061,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "14730"
                   }
-                ]
+                ],
+                "total_files": 9
               },
               {
                 "name": "Semana_11",
@@ -1059,7 +1090,8 @@
                     "mimeType": "application/pdf",
                     "size": "4279458"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "Semana_15",
@@ -1073,7 +1105,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "24873"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "Semana_5",
@@ -1122,7 +1155,8 @@
                     "mimeType": "application/pdf",
                     "size": "160395"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "Semana_14",
@@ -1150,7 +1184,8 @@
                     "mimeType": "application/pdf",
                     "size": "20224"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "Semana_12",
@@ -1171,7 +1206,8 @@
                     "mimeType": "application/pdf",
                     "size": "19616"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Semana_10",
@@ -1213,7 +1249,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "15540"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "Semana_4",
@@ -1234,7 +1271,8 @@
                     "mimeType": "application/pdf",
                     "size": "58209"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Semana_6",
@@ -1311,7 +1349,8 @@
                     "mimeType": "application/pdf",
                     "size": "9966"
                   }
-                ]
+                ],
+                "total_files": 10
               },
               {
                 "name": "Semana_1",
@@ -1367,9 +1406,11 @@
                     "mimeType": "application/pdf",
                     "size": "18325"
                   }
-                ]
+                ],
+                "total_files": 7
               }
-            ]
+            ],
+            "total_files": 72
           },
           {
             "name": "Contabilidad_8edi_Horngren.pdf",
@@ -1378,7 +1419,8 @@
             "mimeType": "application/pdf",
             "size": "46709085"
           }
-        ]
+        ],
+        "total_files": 103
       },
       {
         "name": "Material_Leyton",
@@ -1446,7 +1488,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                 "size": "1203715"
               }
-            ]
+            ],
+            "total_files": 8
           },
           {
             "name": "Monografía",
@@ -1474,7 +1517,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "1045717"
               }
-            ]
+            ],
+            "total_files": 3
           },
           {
             "name": "Planchas",
@@ -1521,7 +1565,8 @@
                     "mimeType": "image/jpeg",
                     "size": "50294"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "Parcial",
@@ -1570,7 +1615,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "22649"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "1pc",
@@ -1584,7 +1630,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "29968"
                   }
-                ]
+                ],
+                "total_files": 1
               },
               {
                 "name": "4pc",
@@ -1605,7 +1652,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "192277"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "2pc",
@@ -1633,7 +1681,8 @@
                     "mimeType": "application/pdf",
                     "size": "267658"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "Final",
@@ -1766,7 +1815,8 @@
                     "mimeType": "image/jpeg",
                     "size": "78814"
                   }
-                ]
+                ],
+                "total_files": 18
               },
               {
                 "name": "3pc",
@@ -1822,7 +1872,8 @@
                     "mimeType": "image/jpeg",
                     "size": "149773"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "2020_2_SECCION_U_PRIMER_CONTROL_DE_CONTABILIDAD_FINANCIERA.docx",
@@ -1838,7 +1889,8 @@
                 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                 "size": "48377"
               }
-            ]
+            ],
+            "total_files": 44
           },
           {
             "name": "2018_UNI_CF_CONTABILIDAD_CONCEPTOS_Y_GENERALIDADES.pptx",
@@ -1847,7 +1899,8 @@
             "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
             "size": "1147117"
           }
-        ]
+        ],
+        "total_files": 56
       },
       {
         "name": "Monografía_final_VALLE.docx",
@@ -1884,6 +1937,7 @@
         "mimeType": "application/pdf",
         "size": "109970"
       }
-    ]
+    ],
+    "total_files": 215
   }
 }

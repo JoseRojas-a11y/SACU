@@ -51,7 +51,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "83823"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "Soluciones",
@@ -70,7 +71,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "1384"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "22-2",
@@ -98,7 +100,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "2288"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "21-2",
@@ -112,7 +115,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "718"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "20-2",
@@ -126,7 +130,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "1453"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "16-3",
@@ -140,9 +145,11 @@
                         "mimeType": "application/octet-stream",
                         "size": "1453"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "24-2",
@@ -170,7 +177,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "47102"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "25-1",
@@ -198,7 +206,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "49801"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "PC2_S.F..pdf",
@@ -298,7 +307,8 @@
                 "mimeType": "image/jpeg",
                 "size": "4217941"
               }
-            ]
+            ],
+            "total_files": 30
           },
           {
             "name": "PC3",
@@ -331,7 +341,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "46741"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "25-1",
@@ -359,7 +370,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "47852"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "24-2",
@@ -387,7 +399,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "50879"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "PC3_S.F..pdf",
@@ -459,7 +472,8 @@
                 "mimeType": "image/jpeg",
                 "size": "2655938"
               }
-            ]
+            ],
+            "total_files": 19
           },
           {
             "name": "PC4",
@@ -492,7 +506,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "46841"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "PC4_22-1",
@@ -513,7 +528,8 @@
                     "mimeType": "application/pdf",
                     "size": "322009"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "PC4_22-2",
@@ -534,7 +550,8 @@
                     "mimeType": "application/pdf",
                     "size": "1341634"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "25-1",
@@ -562,7 +579,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "48335"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "24-2",
@@ -590,7 +608,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "48104"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "PC4_S.F..pdf",
@@ -641,7 +660,8 @@
                 "mimeType": "application/pdf",
                 "size": "456660"
               }
-            ]
+            ],
+            "total_files": 20
           },
           {
             "name": "PE",
@@ -684,7 +704,8 @@
                             "mimeType": "application/octet-stream",
                             "size": "581"
                           }
-                        ]
+                        ],
+                        "total_files": 3
                       },
                       {
                         "name": "PDE",
@@ -712,9 +733,11 @@
                             "mimeType": "application/octet-stream",
                             "size": "510"
                           }
-                        ]
+                        ],
+                        "total_files": 3
                       }
-                    ]
+                    ],
+                    "total_files": 6
                   },
                   {
                     "name": "UNI-ALGOR-PDE-Pregunta_3.pptx",
@@ -737,7 +760,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "47084"
                   }
-                ]
+                ],
+                "total_files": 9
               },
               {
                 "name": "PE_20-1.pdf",
@@ -753,7 +777,8 @@
                 "mimeType": "application/pdf",
                 "size": "171217"
               }
-            ]
+            ],
+            "total_files": 11
           },
           {
             "name": "ES",
@@ -791,7 +816,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "1204"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "22-1",
@@ -819,7 +845,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "2295"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "19-2",
@@ -847,9 +874,11 @@
                         "mimeType": "application/octet-stream",
                         "size": "1204"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   }
-                ]
+                ],
+                "total_files": 9
               },
               {
                 "name": "ES_22-2",
@@ -877,7 +906,8 @@
                     "mimeType": "application/pdf",
                     "size": "1258516"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "ES_22-1",
@@ -898,7 +928,8 @@
                     "mimeType": "application/pdf",
                     "size": "896290"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "24-2",
@@ -933,7 +964,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "49592"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "25-1",
@@ -954,7 +986,8 @@
                     "mimeType": "application/pdf",
                     "size": "333521"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "ES_17-2.jpg",
@@ -977,7 +1010,8 @@
                 "mimeType": "image/jpeg",
                 "size": "71727"
               }
-            ]
+            ],
+            "total_files": 23
           },
           {
             "name": "PC1",
@@ -1010,7 +1044,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "46639"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "25-2",
@@ -1038,7 +1073,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "47141"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "Soluciones",
@@ -1071,7 +1107,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "1355"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "22-2",
@@ -1099,7 +1136,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "1060"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "22-1",
@@ -1120,7 +1158,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "1008"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "20-2",
@@ -1148,7 +1187,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "868"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "21-2",
@@ -1176,7 +1216,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "1744"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "20-1",
@@ -1204,7 +1245,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "844"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "18-2",
@@ -1218,7 +1260,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "1080"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "19-3",
@@ -1232,7 +1275,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "1080"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "17-2",
@@ -1246,7 +1290,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "1362"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "16-3",
@@ -1267,9 +1312,11 @@
                         "mimeType": "application/octet-stream",
                         "size": "1058"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   }
-                ]
+                ],
+                "total_files": 22
               },
               {
                 "name": "24-2",
@@ -1297,7 +1344,8 @@
                     "mimeType": "application/pdf",
                     "size": "98382"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "25-1",
@@ -1325,7 +1373,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "47400"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "PC1_S.F..pdf",
@@ -1432,7 +1481,8 @@
                 "mimeType": "application/pdf",
                 "size": "143265"
               }
-            ]
+            ],
+            "total_files": 49
           },
           {
             "name": "EP",
@@ -1465,7 +1515,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "134428"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "Soluciones",
@@ -1484,7 +1535,8 @@
                         "mimeType": "application/pdf",
                         "size": "134118"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "22-2",
@@ -1498,7 +1550,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "5147"
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "19-3",
@@ -1517,9 +1570,11 @@
                             "mimeType": "application/octet-stream",
                             "size": "404"
                           }
-                        ]
+                        ],
+                        "total_files": 1
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   },
                   {
                     "name": "16-2",
@@ -1538,11 +1593,14 @@
                             "mimeType": "application/octet-stream",
                             "size": "1797"
                           }
-                        ]
+                        ],
+                        "total_files": 1
                       }
-                    ]
+                    ],
+                    "total_files": 1
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "25-1",
@@ -1563,7 +1621,8 @@
                     "mimeType": "application/pdf",
                     "size": "361111"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "24-2",
@@ -1598,7 +1657,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "51242"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "EP_24-1.pdf",
@@ -1705,7 +1765,8 @@
                 "mimeType": "image/jpeg",
                 "size": "57899"
               }
-            ]
+            ],
+            "total_files": 28
           },
           {
             "name": "EF",
@@ -1738,7 +1799,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "47692"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "Soluciones",
@@ -1785,7 +1847,8 @@
                         "mimeType": "text/plain",
                         "size": "281"
                       }
-                    ]
+                    ],
+                    "total_files": 5
                   },
                   {
                     "name": "21-_2",
@@ -1820,9 +1883,11 @@
                         "mimeType": "text/plain",
                         "size": "130"
                       }
-                    ]
+                    ],
+                    "total_files": 4
                   }
-                ]
+                ],
+                "total_files": 9
               },
               {
                 "name": "EF_22-1",
@@ -1850,7 +1915,8 @@
                     "mimeType": "text/plain",
                     "size": "40"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "EF_22-2",
@@ -1871,7 +1937,8 @@
                     "mimeType": "application/pdf",
                     "size": "961790"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "25-1",
@@ -1892,7 +1959,8 @@
                     "mimeType": "application/pdf",
                     "size": "328322"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "24-2",
@@ -1927,7 +1995,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "46633"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "EF_24-1.pdf",
@@ -1978,9 +2047,11 @@
                 "mimeType": "application/pdf",
                 "size": "383239"
               }
-            ]
+            ],
+            "total_files": 30
           }
-        ]
+        ],
+        "total_files": 210
       },
       {
         "name": "Material_Sotelo",
@@ -2071,7 +2142,8 @@
             "mimeType": "application/pdf",
             "size": "644591"
           }
-        ]
+        ],
+        "total_files": 12
       },
       {
         "name": "Material_Acosta",
@@ -2107,7 +2179,8 @@
                         "mimeType": "text/plain",
                         "size": "107"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "22-2,_pregunta_1",
@@ -2135,7 +2208,8 @@
                         "mimeType": "text/plain",
                         "size": "14"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "Susti_25-1",
@@ -2170,7 +2244,8 @@
                         "mimeType": "text/plain",
                         "size": "107"
                       }
-                    ]
+                    ],
+                    "total_files": 4
                   },
                   {
                     "name": "23-1,_pregunta_2.cpp",
@@ -2200,7 +2275,8 @@
                     "mimeType": "application/octet-stream",
                     "size": "1066"
                   }
-                ]
+                ],
+                "total_files": 13
               },
               {
                 "name": "PE",
@@ -2256,7 +2332,8 @@
                     "mimeType": "application/pdf",
                     "size": "101362"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "PC4",
@@ -2282,7 +2359,8 @@
                         "mimeType": "application/octet-stream",
                         "size": "2242"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "21-2,_pregunta_1.cpp",
@@ -2312,7 +2390,8 @@
                     "mimeType": "application/octet-stream",
                     "size": "588"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "Parcial",
@@ -2389,7 +2468,8 @@
                     "mimeType": "application/pdf",
                     "size": "142170"
                   }
-                ]
+                ],
+                "total_files": 10
               },
               {
                 "name": "PC2",
@@ -2459,7 +2539,8 @@
                     "mimeType": "application/pdf",
                     "size": "139341"
                   }
-                ]
+                ],
+                "total_files": 9
               },
               {
                 "name": "PC1",
@@ -2536,7 +2617,8 @@
                     "mimeType": "application/pdf",
                     "size": "98382"
                   }
-                ]
+                ],
+                "total_files": 10
               },
               {
                 "name": "Final",
@@ -2562,7 +2644,8 @@
                         "mimeType": "text/plain",
                         "size": "128"
                       }
-                    ]
+                    ],
+                    "total_files": 2
                   },
                   {
                     "name": "22-1,_pregunta_1",
@@ -2590,7 +2673,8 @@
                         "mimeType": "text/plain",
                         "size": "64"
                       }
-                    ]
+                    ],
+                    "total_files": 3
                   },
                   {
                     "name": "22-1,_pregunta_3.cpp",
@@ -2606,7 +2690,8 @@
                     "mimeType": "application/octet-stream",
                     "size": "3559"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "PC3",
@@ -2660,7 +2745,8 @@
                         "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                         "size": "34320"
                       }
-                    ]
+                    ],
+                    "total_files": 6
                   },
                   {
                     "name": "22-1,_PC3_pregunta_2.cpp",
@@ -2704,7 +2790,8 @@
                     "mimeType": "application/octet-stream",
                     "size": "1910"
                   }
-                ]
+                ],
+                "total_files": 12
               },
               {
                 "name": "tiene_algunas_pruebas.zip",
@@ -2713,7 +2800,8 @@
                 "mimeType": "application/zip",
                 "size": "1165516"
               }
-            ]
+            ],
+            "total_files": 75
           },
           {
             "name": "Clases_25-1",
@@ -2739,7 +2827,8 @@
                     "mimeType": "application/octet-stream",
                     "size": "1795"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Semana_5",
@@ -2767,7 +2856,8 @@
                     "mimeType": "application/octet-stream",
                     "size": "2172"
                   }
-                ]
+                ],
+                "total_files": 3
               },
               {
                 "name": "Semana_9",
@@ -2830,7 +2920,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "12540"
                   }
-                ]
+                ],
+                "total_files": 8
               },
               {
                 "name": "Semana_14",
@@ -2872,7 +2963,8 @@
                     "mimeType": "application/vnd.ms-powerpoint",
                     "size": "311808"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "Semana_3",
@@ -2935,7 +3027,8 @@
                     "mimeType": "application/octet-stream",
                     "size": "957"
                   }
-                ]
+                ],
+                "total_files": 8
               },
               {
                 "name": "Semana_2",
@@ -2991,7 +3084,8 @@
                     "mimeType": "application/octet-stream",
                     "size": "1476"
                   }
-                ]
+                ],
+                "total_files": 7
               },
               {
                 "name": "Semana_4",
@@ -3026,7 +3120,8 @@
                     "mimeType": "application/octet-stream",
                     "size": "1669"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "Semana_1",
@@ -3075,7 +3170,8 @@
                     "mimeType": "application/octet-stream",
                     "size": "520"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "Semana_13",
@@ -3180,7 +3276,8 @@
                     "mimeType": "application/vnd.ms-powerpoint",
                     "size": "333312"
                   }
-                ]
+                ],
+                "total_files": 14
               },
               {
                 "name": "Semana_15",
@@ -3215,7 +3312,8 @@
                     "mimeType": "application/octet-stream",
                     "size": "1453"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "Semana_12",
@@ -3355,7 +3453,8 @@
                     "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                     "size": "14932"
                   }
-                ]
+                ],
+                "total_files": 19
               },
               {
                 "name": "Semana_11",
@@ -3446,7 +3545,8 @@
                     "mimeType": "application/vnd.ms-powerpoint",
                     "size": "211968"
                   }
-                ]
+                ],
+                "total_files": 12
               },
               {
                 "name": "Semana_10",
@@ -3502,9 +3602,11 @@
                     "mimeType": "application/vnd.ms-powerpoint",
                     "size": "225280"
                   }
-                ]
+                ],
+                "total_files": 7
               }
-            ]
+            ],
+            "total_files": 99
           },
           {
             "name": "Clases_anteriores_(24-2)",
@@ -3558,7 +3660,8 @@
                     "mimeType": "application/octet-stream",
                     "size": "812"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "Semana_3",
@@ -3663,7 +3766,8 @@
                     "mimeType": "application/octet-stream",
                     "size": "698"
                   }
-                ]
+                ],
+                "total_files": 14
               },
               {
                 "name": "Semana_9",
@@ -3712,7 +3816,8 @@
                     "mimeType": "application/octet-stream",
                     "size": "1313"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "Semana_5",
@@ -3754,7 +3859,8 @@
                     "mimeType": "application/octet-stream",
                     "size": "989"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "Semana_10",
@@ -3775,7 +3881,8 @@
                     "mimeType": "application/octet-stream",
                     "size": "4145"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Semana_11",
@@ -3838,7 +3945,8 @@
                     "mimeType": "application/octet-stream",
                     "size": "412"
                   }
-                ]
+                ],
+                "total_files": 8
               },
               {
                 "name": "Semana_13",
@@ -3887,7 +3995,8 @@
                     "mimeType": "application/octet-stream",
                     "size": "829"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "Semana_7",
@@ -3908,7 +4017,8 @@
                     "mimeType": "application/octet-stream",
                     "size": "2176"
                   }
-                ]
+                ],
+                "total_files": 2
               },
               {
                 "name": "Semana_4",
@@ -3950,7 +4060,8 @@
                     "mimeType": "application/octet-stream",
                     "size": "989"
                   }
-                ]
+                ],
+                "total_files": 5
               },
               {
                 "name": "Semana_15",
@@ -3999,7 +4110,8 @@
                     "mimeType": "text/plain",
                     "size": "70"
                   }
-                ]
+                ],
+                "total_files": 6
               },
               {
                 "name": "Semana_6",
@@ -4034,13 +4146,15 @@
                     "mimeType": "application/octet-stream",
                     "size": "1795"
                   }
-                ]
+                ],
+                "total_files": 4
               },
               {
                 "name": "Semana_1",
                 "type": "folder",
                 "id": "1_E6k-D2GjXC81ucueFf6wdDw-nTWqqHh",
-                "children": []
+                "children": [],
+                "total_files": 0
               },
               {
                 "name": "Semana_14",
@@ -4082,12 +4196,16 @@
                     "mimeType": "text/plain",
                     "size": "112"
                   }
-                ]
+                ],
+                "total_files": 5
               }
-            ]
+            ],
+            "total_files": 69
           }
-        ]
+        ],
+        "total_files": 243
       }
-    ]
+    ],
+    "total_files": 466
   }
 }
