@@ -56,26 +56,23 @@ function FolderTreeNode({
   const shadowAlpha = Math.min(level * 0.04, 0.35)
   const darkAlpha = Math.min(level * 0.02, 0.2)
   const brightness = Math.max(100 - level * 2.25, 80)
+  const indentPx = `${Math.max(12, level * 14)}px`
 
-  // La sombra en la parte superior sólo se aplica al PRIMER elemento al descender de nivel
-  const treeNodeStyle = {
-    paddingLeft: `${Math.max(12, level * 14)}px`,
-    ...(!isSelected && level > 0 ? {
-      backgroundColor: `rgba(15, 23, 42, ${darkAlpha})`,
-      filter: `brightness(${brightness}%)`,
-      ...(isFirstChild ? {
-        boxShadow: `inset 0 3px 5px -1px rgba(0, 0, 0, ${shadowAlpha})`
-      } : {})
-    } : {})
-  }
+  const isNestedNode = !isSelected && level > 0
 
   return (
     <div className="select-none [direction:ltr]">
       <div
         onClick={() => onSelectFolder(folder)}
-        className={`tree-node-item group ${isSelected ? 'tree-node-item-selected' : 'tree-node-item-idle'
-          }`}
-        style={treeNodeStyle}
+        className={`tree-node-item group ${isSelected ? 'tree-node-item-selected' : 'tree-node-item-idle'} ${
+          isNestedNode ? 'tree-node-nested' : ''
+        } ${isNestedNode && isFirstChild ? 'tree-node-first-child' : ''}`}
+        style={{
+          '--tree-indent': indentPx,
+          '--tree-dark-alpha': darkAlpha,
+          '--tree-brightness': `${brightness}%`,
+          '--tree-shadow-alpha': shadowAlpha,
+        } as React.CSSProperties}
       >
         <div className="flex items-center min-w-0">
           {subfolders.length > 0 ? (

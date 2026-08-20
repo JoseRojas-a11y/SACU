@@ -5,6 +5,7 @@
 @import './styles/hero.css';
 @import './styles/repositorio.css';
 @import './styles/course-viewer.css';
+@import './styles/modal.css';
 @import './styles/footer.css';
 
 @layer base {

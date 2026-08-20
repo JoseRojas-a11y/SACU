@@ -61,10 +61,10 @@ export function UploadMaterialModal({
   }
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/65 backdrop-blur-xs animate-fade-in">
-      <div className="bg-white rounded-2xl w-full max-w-lg overflow-hidden shadow-2xl border border-slate-200">
+    <div className="modal-overlay animate-fade-in">
+      <div className="modal-dialog max-w-lg">
         {/* Header con colores del tema dinámico */}
-        <div className="px-6 py-4 bg-gradient-to-r from-[var(--theme-primary)] to-[var(--theme-primary-hover)] text-white flex items-center justify-between shadow-xs">
+        <div className="modal-header-gradient">
           <div className="flex items-center gap-3">
             <div className="w-9 h-9 rounded-xl bg-white/20 text-white flex items-center justify-center font-bold text-base shadow-inner border border-white/20">
               📤
@@ -76,7 +76,7 @@ export function UploadMaterialModal({
           </div>
           <button
             onClick={onClose}
-            className="w-8 h-8 rounded-full flex items-center justify-center text-white/80 hover:text-white hover:bg-white/20 transition-colors cursor-pointer"
+            className="modal-close-btn"
             title="Cerrar modal"
           >
             ✕
@@ -191,7 +191,7 @@ export function UploadMaterialModal({
           {/* Zona de Carga de Archivos alineada con el tema */}
           <div>
             <label className="block text-slate-800 font-bold mb-1">Archivo de la plancha (PDF / Img)</label>
-            <div className="border-2 border-dashed border-slate-300 hover:border-[var(--theme-primary)] rounded-xl p-4 text-center bg-slate-50 hover:bg-purple-50/30 transition-all group">
+            <div className="file-dropzone group">
               <input
                 type="file"
                 id="file-upload"

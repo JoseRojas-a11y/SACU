@@ -70,10 +70,20 @@
   align-items: center;
   justify-content: space-between;
   padding: 0.5rem 0.75rem;
+  padding-left: var(--tree-indent, 0.75rem);
   cursor: pointer;
   transition: all 0.15s ease;
   font-size: 0.75rem;
   font-weight: 600;
+}
+
+.tree-node-nested {
+  background-color: rgba(15, 23, 42, var(--tree-dark-alpha, 0.02));
+  filter: brightness(var(--tree-brightness, 100%));
+}
+
+.tree-node-first-child {
+  box-shadow: inset 0 3px 5px -1px rgba(0, 0, 0, var(--tree-shadow-alpha, 0.1));
 }
 
 .tree-node-item-selected {
@@ -326,3 +336,48 @@
   background-size: 200% 100%;
   animation: shimmerAnim 1.5s infinite;
 }
+
+/* CourseDetailView Specific Styles */
+.course-detail-subhero {
+  padding-top: 5rem;
+  padding-bottom: 2.5rem;
+  position: relative;
+  overflow: hidden;
+  color: #ffffff;
+  background: linear-gradient(155deg, #080e22 0%, #0f1b3d 50%, #172651 100%);
+}
+
+.tipo-category-card {
+  background-color: #ffffff;
+  border-radius: 1rem;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  transition: all 0.2s ease;
+  border-width: 1px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
+}
+
+.tipo-category-card-pc { border-color: #bfdbfe; }
+.tipo-category-card-ep { border-color: #ddd6fe; }
+.tipo-category-card-ef { border-color: #fecdd3; }
+.tipo-category-card-es { border-color: #bbf7d0; }
+.tipo-category-card-labo { border-color: #fed7aa; }
+.tipo-category-card-mono { border-color: #99f6e4; }
+.tipo-category-card-default { border-color: #e2e8f0; }
+
+.tipo-category-header-pc { background-color: #eff6ff; border-bottom: 1px solid #bfdbfe; color: #1d4ed8; }
+.tipo-category-header-ep { background-color: #f5f3ff; border-bottom: 1px solid #ddd6fe; color: #7c3aed; }
+.tipo-category-header-ef { background-color: #fff1f2; border-bottom: 1px solid #fecdd3; color: #be123c; }
+.tipo-category-header-es { background-color: #f0fdf4; border-bottom: 1px solid #bbf7d0; color: #15803d; }
+.tipo-category-header-labo { background-color: #fff7ed; border-bottom: 1px solid #fed7aa; color: #c2410c; }
+.tipo-category-header-mono { background-color: #f0fdfa; border-bottom: 1px solid #99f6e4; color: #0f766e; }
+.tipo-category-header-default { background-color: #f1f5f9; border-bottom: 1px solid #e2e8f0; color: #475569; }
+
+.tipo-badge-dot-pc { background-color: #1d4ed8; }
+.tipo-badge-dot-ep { background-color: #7c3aed; }
+.tipo-badge-dot-ef { background-color: #be123c; }
+.tipo-badge-dot-es { background-color: #15803d; }
+.tipo-badge-dot-labo { background-color: #c2410c; }
+.tipo-badge-dot-mono { background-color: #0f766e; }
+.tipo-badge-dot-default { background-color: #475569; }

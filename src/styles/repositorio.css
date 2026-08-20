@@ -227,3 +227,80 @@
   pointer-events: none;
   transition: transform 0.2s ease;
 }
+
+/* Material Card Component & TipoPill Styles */
+.material-card-item {
+  background-color: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 1rem;
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+  overflow: hidden;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
+  transition: all 0.2s ease-in-out;
+}
+
+.material-card-item:hover {
+  border-color: #c7d2fe;
+  box-shadow: 0 12px 32px rgba(79, 115, 255, 0.14), 0 2px 8px rgba(0, 0, 0, 0.04);
+  transform: translateY(-3px);
+}
+
+.card-icon-wrapper {
+  background-color: #f0f3fa;
+}
+
+.card-author-avatar {
+  background-color: #e0e7ff;
+  color: #4f46e5;
+}
+
+.card-ciclo-pill {
+  background-color: #eef2ff;
+  color: #4f73ff;
+  border: 1px solid #c7d2fe;
+}
+
+/* TipoPill variants */
+.tipo-pill-pc {
+  background-color: #eff6ff;
+  color: #1d4ed8;
+  border-color: #bfdbfe;
+}
+
+.tipo-pill-ep {
+  background-color: #f5f3ff;
+  color: #7c3aed;
+  border-color: #ddd6fe;
+}
+
+.tipo-pill-ef {
+  background-color: #fff1f2;
+  color: #be123c;
+  border-color: #fecdd3;
+}
+
+.tipo-pill-es {
+  background-color: #f0fdf4;
+  color: #15803d;
+  border-color: #bbf7d0;
+}
+
+.tipo-pill-labo {
+  background-color: #fff7ed;
+  color: #c2410c;
+  border-color: #fed7aa;
+}
+
+.tipo-pill-mono {
+  background-color: #f0fdfa;
+  color: #0f766e;
+  border-color: #99f6e4;
+}
+
+.tipo-pill-default {
+  background-color: #f1f5f9;
+  color: #475569;
+  border-color: #e2e8f0;
+}

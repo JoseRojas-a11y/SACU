@@ -45,21 +45,8 @@ export function FacultyDropdown({ faculties, value, onChange }: Props) {
       </button>
 
       {open && (
-        <div
-          className="absolute top-full left-0 mt-2 rounded-2xl z-50 py-2 overflow-hidden shadow-xl border border-[var(--theme-border)] animate-fade-in"
-          style={{
-            backgroundColor: 'rgba(255, 255, 255, 0.16)',
-            width: '272px',
-            boxShadow: '0 20px 40px -10px rgba(27, 2, 34, 0.15)',
-            backdropFilter: 'blur(12px)',
-            WebkitBackdropFilter: 'blur(12px)',
-          }}
-        >
-          <p className="px-3.5 pt-1 pb-2 text-[10px] font-bold text-slate-400 uppercase tracking-wider font-mono"
-            style={{
-              color: '#ffffff',
-            }}
-          >
+        <div className="faculty-dropdown-panel animate-fade-in">
+          <p className="faculty-dropdown-header">
             Seleccionar Facultad
           </p>
 
@@ -79,21 +66,11 @@ export function FacultyDropdown({ faculties, value, onChange }: Props) {
                     }`}
                 >
                   <div className="flex-1 min-w-0">
-                    <p
-                      className="text-xs font-bold truncate"
-                      style={{ color: isSelected ? 'var(--theme-primary)' : 'var(--theme-text-main)' }}
-                    >
+                    <p className={`text-xs font-bold truncate ${isSelected ? 'text-[var(--theme-primary)]' : 'text-[var(--theme-text-main)]'}`}>
                       {f.name}
                     </p>
                   </div>
-                  <span
-                    className="text-[10px] font-mono font-bold px-2 py-0.5 rounded-md flex-shrink-0 border"
-                    style={{
-                      backgroundColor: isSelected ? 'var(--theme-purple-bg)' : '#f2f4f6',
-                      color: isSelected ? 'var(--theme-primary)' : '#5c647a',
-                      borderColor: isSelected ? 'rgba(131, 0, 202, 0.2)' : '#e2e8f0',
-                    }}
-                  >
+                  <span className={isSelected ? 'faculty-dropdown-badge-selected' : 'faculty-dropdown-badge-idle'}>
                     {f.abbr}
                   </span>
                 </button>

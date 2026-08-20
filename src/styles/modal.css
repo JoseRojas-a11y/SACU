@@ -1,0 +1,74 @@
+/* Modal & Overlay Styles for SACU */
+
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  background-color: rgba(0, 0, 0, 0.65);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+}
+
+.modal-dialog {
+  background-color: #ffffff;
+  border-radius: 1rem;
+  width: 100%;
+  max-width: 32rem;
+  overflow: hidden;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--theme-border);
+}
+
+.modal-header-gradient {
+  padding: 1rem 1.5rem;
+  background: linear-gradient(to right, var(--theme-primary), var(--theme-primary-hover));
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+}
+
+.modal-header-dark {
+  padding: 1rem 1.5rem;
+  background-color: #0f1b3d;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.modal-close-btn {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 9999px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgba(255, 255, 255, 0.8);
+  transition: all 0.15s ease;
+  cursor: pointer;
+}
+
+.modal-close-btn:hover {
+  color: #ffffff;
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.file-dropzone {
+  border: 2px dashed var(--theme-border);
+  border-radius: 0.75rem;
+  padding: 1rem;
+  text-align: center;
+  background-color: var(--theme-bg-main);
+  transition: all 0.2s ease;
+}
+
+.file-dropzone:hover {
+  border-color: var(--theme-primary);
+  background-color: var(--theme-purple-bg);
+}

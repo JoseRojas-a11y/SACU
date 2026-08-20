@@ -10,10 +10,10 @@ export function ProfessorsModal({ isOpen, onClose, professors }: Props) {
   if (!isOpen) return null
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 backdrop-blur-xs animate-fade-in">
-      <div className="bg-white rounded-2xl w-full max-w-2xl overflow-hidden shadow-2xl border border-gray-100 max-h-[85vh] flex flex-col">
+    <div className="modal-overlay animate-fade-in">
+      <div className="modal-dialog max-w-2xl max-h-[85vh] flex flex-col">
         {/* Header */}
-        <div className="px-6 py-4 bg-[#0f1b3d] text-white flex items-center justify-between">
+        <div className="modal-header-dark">
           <div className="flex items-center gap-2.5">
             <div className="w-8 h-8 rounded-lg bg-indigo-500/20 text-indigo-300 flex items-center justify-center font-bold text-sm">
               👨‍🏫
@@ -25,7 +25,7 @@ export function ProfessorsModal({ isOpen, onClose, professors }: Props) {
           </div>
           <button
             onClick={onClose}
-            className="w-8 h-8 rounded-full flex items-center justify-center text-gray-400 hover:text-white hover:bg-white/10 transition-colors cursor-pointer"
+            className="modal-close-btn"
           >
             ✕
           </button>

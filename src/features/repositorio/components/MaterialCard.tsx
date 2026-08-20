@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import { Material } from '../../../core/types'
 
 interface Props {
@@ -6,16 +5,16 @@ interface Props {
   onDownload?: (material: Material) => void
 }
 
-const TIPO_STYLE: Record<string, { bg: string; color: string; border: string }> = {
-  PC1:  { bg: '#eff6ff', color: '#1d4ed8', border: '#bfdbfe' },
-  PC2:  { bg: '#eff6ff', color: '#1d4ed8', border: '#bfdbfe' },
-  PC3:  { bg: '#eff6ff', color: '#1d4ed8', border: '#bfdbfe' },
-  PC4:  { bg: '#eff6ff', color: '#1d4ed8', border: '#bfdbfe' },
-  EP:   { bg: '#f5f3ff', color: '#7c3aed', border: '#ddd6fe' },
-  EF:   { bg: '#fff1f2', color: '#be123c', border: '#fecdd3' },
-  ES:   { bg: '#f0fdf4', color: '#15803d', border: '#bbf7d0' },
-  Labo: { bg: '#fff7ed', color: '#c2410c', border: '#fed7aa' },
-  Mono: { bg: '#f0fdfa', color: '#0f766e', border: '#99f6e4' },
+const TIPO_CLASS: Record<string, string> = {
+  PC1: 'tipo-pill-pc',
+  PC2: 'tipo-pill-pc',
+  PC3: 'tipo-pill-pc',
+  PC4: 'tipo-pill-pc',
+  EP:  'tipo-pill-ep',
+  EF:  'tipo-pill-ef',
+  ES:  'tipo-pill-es',
+  Labo: 'tipo-pill-labo',
+  Mono: 'tipo-pill-mono',
 }
 
 const TIPO_ICON: Record<string, string> = {
@@ -24,11 +23,10 @@ const TIPO_ICON: Record<string, string> = {
 }
 
 export function TipoPill({ tipo, size = 'sm' }: { tipo: string; size?: 'sm' | 'xs' }) {
-  const s = TIPO_STYLE[tipo] ?? { bg: '#f1f5f9', color: '#475569', border: '#e2e8f0' }
+  const pillVariant = TIPO_CLASS[tipo] ?? 'tipo-pill-default'
   return (
     <span
-      style={{ backgroundColor: s.bg, color: s.color, borderColor: s.border }}
-      className={`inline-flex items-center font-mono font-semibold border rounded-full ${
+      className={`inline-flex items-center font-mono font-semibold border rounded-full ${pillVariant} ${
         size === 'xs' ? 'px-1.5 py-px text-[10px]' : 'px-2.5 py-0.5 text-xs'
       }`}
     >
@@ -38,30 +36,15 @@ export function TipoPill({ tipo, size = 'sm' }: { tipo: string; size?: 'sm' | 'x
 }
 
 export function MaterialCard({ material, onDownload }: Props) {
-  const [hovered, setHovered] = useState(false)
   const initials = material.author.split(' ').slice(0, 2).map(n => n[0]).join('')
 
   return (
-    <article
-      onMouseEnter={() => setHovered(true)}
-      onMouseLeave={() => setHovered(false)}
-      className="bg-white rounded-2xl flex flex-col cursor-pointer overflow-hidden transition-all duration-200"
-      style={{
-        border: hovered ? '1px solid #c7d2fe' : '1px solid #e5e7eb',
-        boxShadow: hovered
-          ? '0 12px 32px rgba(79, 115, 255, 0.14), 0 2px 8px rgba(0,0,0,0.04)'
-          : '0 1px 4px rgba(0,0,0,0.05)',
-        transform: hovered ? 'translateY(-3px)' : 'translateY(0)',
-      }}
-    >
+    <article className="material-card-item">
       {/* Card body */}
       <div className="p-4 flex flex-col gap-3 flex-1">
         {/* Top: icon + tipo */}
         <div className="flex items-start justify-between gap-2">
-          <div
-            className="w-10 h-10 rounded-xl flex items-center justify-center text-xl flex-shrink-0"
-            style={{ backgroundColor: '#f0f3fa' }}
-          >
+          <div className="w-10 h-10 rounded-xl flex items-center justify-center text-xl flex-shrink-0 card-icon-wrapper">
             {TIPO_ICON[material.tipo] ?? '📄'}
           </div>
           <TipoPill tipo={material.tipo} />
@@ -74,10 +57,7 @@ export function MaterialCard({ material, onDownload }: Props) {
 
         {/* Author */}
         <div className="flex items-center gap-2 mt-auto pt-2">
-          <div
-            className="w-6 h-6 rounded-full flex items-center justify-center flex-shrink-0 text-[10px] font-bold"
-            style={{ backgroundColor: '#e0e7ff', color: '#4f46e5' }}
-          >
+          <div className="w-6 h-6 rounded-full flex items-center justify-center flex-shrink-0 text-[10px] font-bold card-author-avatar">
             {initials}
           </div>
           <span className="text-xs text-gray-500 truncate font-medium">{material.author}</span>
@@ -85,19 +65,12 @@ export function MaterialCard({ material, onDownload }: Props) {
       </div>
 
       {/* Card footer */}
-      <div
-        className="flex items-center justify-between gap-1.5 px-4 py-2.5 border-t border-gray-100 bg-slate-50"
-      >
+      <div className="flex items-center justify-between gap-1.5 px-4 py-2.5 border-t border-gray-100 bg-slate-50">
         <div className="flex items-center gap-1.5 min-w-0">
-          <span
-            className="inline-flex items-center px-2 py-0.5 rounded-md text-[10px] font-mono font-semibold flex-shrink-0"
-            style={{ backgroundColor: '#eef2ff', color: '#4f73ff', border: '1px solid #c7d2fe' }}
-          >
+          <span className="inline-flex items-center px-2 py-0.5 rounded-md text-[10px] font-mono font-semibold flex-shrink-0 card-ciclo-pill">
             {material.ciclo}
           </span>
-          <span
-            className="inline-flex items-center px-2 py-0.5 rounded-md text-[10px] font-medium truncate bg-gray-100 text-gray-600 border border-gray-200"
-          >
+          <span className="inline-flex items-center px-2 py-0.5 rounded-md text-[10px] font-medium truncate bg-gray-100 text-gray-600 border border-gray-200">
             {material.course}
           </span>
         </div>
