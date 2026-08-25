@@ -7,7 +7,7 @@ import { LoadingFallback } from './core/components/LoadingFallback'
 import { useFaculties } from './features/repositorio/hooks/useFaculties'
 import { useMaterials } from './features/repositorio/hooks/useMaterials'
 import { useDriveCourses } from './features/repositorio/hooks/useDriveCourses'
-import { useUIStore } from './core/store/useUIStore'
+import { useUIStore, getViewFromUrl } from './core/store/useUIStore'
 import { Material } from './core/types'
 
 // Code splitting & Lazy Loading of feature modules
@@ -19,7 +19,11 @@ export default function App() {
   // Default faculty selected is always 'sistemas' (FIIS)
   const [selectedFaculty, setSelectedFaculty] = useState<string>('sistemas')
   const [searchQuery, setSearchQuery] = useState('')
-  const [selectedCourse, setSelectedCourse] = useState<string | null>(null)
+  const [selectedCourse, setSelectedCourse] = useState<string | null>(() => {
+    if (typeof window === 'undefined') return null
+    const params = new URLSearchParams(window.location.search)
+    return params.get('curso') || params.get('course')
+  })
 
   const activeView = useUIStore((state) => state.activeView)
   const setUploadModal = useUIStore((state) => state.setUploadModal)
@@ -29,6 +33,25 @@ export default function App() {
   const { data: materials = [] } = useMaterials({ faculty: selectedFaculty })
   const { totalCourses: driveTotalCourses = 0, totalFiles: driveTotalFiles = 0 } = useDriveCourses()
 
+  // Listener para sincronización con los botones de Navegación del Navegador (Atrás/Adelante)
+  useEffect(() => {
+    function handleUrlSync() {
+      const view = getViewFromUrl()
+      useUIStore.getState().setActiveView(view, false)
+
+      const params = new URLSearchParams(window.location.search)
+      const courseFromUrl = params.get('curso') || params.get('course')
+      setSelectedCourse(courseFromUrl)
+    }
+
+    window.addEventListener('popstate', handleUrlSync)
+    window.addEventListener('hashchange', handleUrlSync)
+    return () => {
+      window.removeEventListener('popstate', handleUrlSync)
+      window.removeEventListener('hashchange', handleUrlSync)
+    }
+  }, [])
+
   useEffect(() => {
     function handleScroll() {
       setScrolled(window.scrollY > 20)
@@ -36,6 +59,20 @@ export default function App() {
     window.addEventListener('scroll', handleScroll)
     return () => window.removeEventListener('scroll', handleScroll)
   }, [])
+
+  function handleSelectCourse(courseId: string | null) {
+    setSelectedCourse(courseId)
+    if (typeof window !== 'undefined') {
+      const url = new URL(window.location.href)
+      if (courseId) {
+        url.searchParams.set('curso', courseId)
+      } else {
+        url.searchParams.delete('curso')
+        url.searchParams.delete('course')
+      }
+      window.history.pushState({}, '', url.pathname + url.search)
+    }
+  }
 
   function handleDownload(m: Material) {
     setToast(`Iniciando descarga: ${m.title}`)
@@ -56,9 +93,9 @@ export default function App() {
         selectedFaculty={selectedFaculty}
         onFacultySelect={(id) => {
           setSelectedFaculty(id)
-          setSelectedCourse(null)
+          handleSelectCourse(null)
         }}
-        onResetCourse={() => setSelectedCourse(null)}
+        onResetCourse={() => handleSelectCourse(null)}
         onOpenUpload={() => setUploadModal(true)}
       />
 
@@ -71,7 +108,7 @@ export default function App() {
           selectedFaculty={selectedFaculty}
           onFacultySelect={(id) => {
             setSelectedFaculty(id)
-            setSelectedCourse(null)
+            handleSelectCourse(null)
           }}
           totalMaterials={totalMaterials}
           totalCourses={totalCourses}
@@ -86,7 +123,7 @@ export default function App() {
               selectedFaculty={selectedFaculty}
               searchQuery={searchQuery}
               selectedCourse={selectedCourse}
-              onSelectCourse={setSelectedCourse}
+              onSelectCourse={handleSelectCourse}
               onDownload={handleDownload}
             />
           )}

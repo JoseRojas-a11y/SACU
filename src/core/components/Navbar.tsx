@@ -79,16 +79,17 @@ export function Navbar({
               Docentes
             </button>
 
-            <FacultyDropdown
-              faculties={faculties}
-              value={selectedFaculty}
-              onChange={handleFacultyChange}
-            />
           </nav>
         </div>
 
         {/* Right action controls */}
         <div className="navbar-right">
+          <FacultyDropdown
+            faculties={faculties}
+            value={selectedFaculty}
+            onChange={handleFacultyChange}
+          />
+          {/*
           <button
             onClick={onOpenUpload}
             className="btn-upload"
@@ -99,6 +100,7 @@ export function Navbar({
             <span className="hidden sm:inline">Subir plancha</span>
             <span className="sm:hidden">Subir</span>
           </button>
+          */}
 
           {/* Mobile menu hamburger button */}
           <button

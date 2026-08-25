@@ -9,6 +9,7 @@ import { UndoSnackbar } from './components/UndoSnackbar'
 import { CsPHierarchicalTree } from './components/CsPHierarchicalTree'
 import { CsPInvertedSearch } from './components/CsPInvertedSearch'
 import { SyncedPdfInspector } from './components/SyncedPdfInspector'
+import { ScheduleGeneratorWidget } from './components/ScheduleGeneratorWidget'
 import { RoleType } from './types/profesor.types'
 import {
   GraduationCap,
@@ -21,6 +22,156 @@ import {
   Award,
   Users
 } from 'lucide-react'
+
+import AstronautImg from '@/core/public/astronauta.png'
+
+interface Trajectory {
+  startPos: { x: string; y: string }
+  endPos: { x: string; y: string }
+  startRotate: number
+  endRotate: number
+  scale: number
+}
+
+const ASTRONAUT_TRAJECTORIES: Trajectory[] = [
+  { startPos: { x: '-10%', y: '65%' }, endPos: { x: '105%', y: '10%' }, startRotate: -15, endRotate: 35, scale: 0.9 },
+  { startPos: { x: '105%', y: '15%' }, endPos: { x: '-15%', y: '75%' }, startRotate: 20, endRotate: -45, scale: 0.8 },
+  { startPos: { x: '-10%', y: '10%' }, endPos: { x: '105%', y: '80%' }, startRotate: 0, endRotate: 60, scale: 1.0 },
+  { startPos: { x: '105%', y: '85%' }, endPos: { x: '-15%', y: '5%' }, startRotate: 45, endRotate: -20, scale: 0.85 },
+  { startPos: { x: '15%', y: '105%' }, endPos: { x: '85%', y: '-25%' }, startRotate: -30, endRotate: 30, scale: 0.95 },
+]
+
+function FloatingAstronaut() {
+  const [currentIdx, setCurrentIdx] = React.useState(0)
+  const [stage, setStage] = React.useState<'idle' | 'floating' | 'fadingOut'>('idle')
+  const [key, setKey] = React.useState(0)
+
+  const traj = ASTRONAUT_TRAJECTORIES[currentIdx]
+
+  React.useEffect(() => {
+    // Paso 1: Iniciar movimiento tras montar la posición inicial
+    const startTimer = setTimeout(() => {
+      setStage('floating')
+    }, 100)
+
+    // Paso 2: Desvanecer suavemente 2s antes de completar la trayectoria
+    const fadeTimer = setTimeout(() => {
+      setStage('fadingOut')
+    }, 13500)
+
+    // Paso 3: Al finalizar el vuelo (15.5s), cambiar a la siguiente trayectoria en otra dirección
+    const resetTimer = setTimeout(() => {
+      setCurrentIdx((prev) => (prev + 1) % ASTRONAUT_TRAJECTORIES.length)
+      setKey((k) => k + 1)
+      setStage('idle')
+    }, 16500)
+
+    return () => {
+      clearTimeout(startTimer)
+      clearTimeout(fadeTimer)
+      clearTimeout(resetTimer)
+    }
+  }, [key])
+
+  const isMoving = stage === 'floating' || stage === 'fadingOut'
+  const isVisible = stage === 'floating'
+
+  return (
+    <div
+      key={key}
+      className="absolute pointer-events-none z-10 select-none hidden sm:block"
+      style={{
+        left: isMoving ? traj.endPos.x : traj.startPos.x,
+        top: isMoving ? traj.endPos.y : traj.startPos.y,
+        opacity: isVisible ? 0.9 : 0,
+        transform: `scale(${traj.scale}) rotate(${isMoving ? traj.endRotate : traj.startRotate}deg)`,
+        transition: isMoving
+          ? 'left 15.5s linear, top 15.5s linear, transform 15.5s linear, opacity 1.5s ease-in-out'
+          : 'none',
+      }}
+    >
+      <img
+        src={AstronautImg}
+        alt="Astronauta flotando"
+        className="w-24 h-24 sm:w-32 sm:h-32 object-contain filter drop-shadow-[0_10px_25px_rgba(168,85,247,0.6)] animate-pulse"
+      />
+    </div>
+  )
+}
+
+interface StarConfig {
+  id: number
+  style: React.CSSProperties
+  sizeClass: string
+  animationDelay: string
+  animationDuration: string
+  isCrossStar?: boolean
+}
+
+const HERO_STARS: StarConfig[] = [
+  // Bordes Superiores
+  { id: 1, style: { top: '6%', left: '4%' }, sizeClass: 'w-3 h-3', animationDelay: '0s', animationDuration: '6s', isCrossStar: true },
+  { id: 2, style: { top: '12%', left: '18%' }, sizeClass: 'w-1.5 h-1.5', animationDelay: '1.2s', animationDuration: '6.4s' },
+  { id: 3, style: { top: '5%', right: '22%' }, sizeClass: 'w-2 h-2', animationDelay: '2.4s', animationDuration: '5.8s' },
+  { id: 4, style: { top: '8%', right: '5%' }, sizeClass: 'w-3.5 h-3.5', animationDelay: '3.6s', animationDuration: '6.2s', isCrossStar: true },
+
+  // Bordes Izquierdos
+  { id: 5, style: { top: '32%', left: '3%' }, sizeClass: 'w-1.5 h-1.5', animationDelay: '4.8s', animationDuration: '6s' },
+  { id: 6, style: { top: '58%', left: '5%' }, sizeClass: 'w-3 h-3', animationDelay: '1.8s', animationDuration: '6.3s', isCrossStar: true },
+  { id: 7, style: { top: '80%', left: '4%' }, sizeClass: 'w-2 h-2', animationDelay: '3.2s', animationDuration: '5.7s' },
+
+  // Bordes Derechos
+  { id: 8, style: { top: '28%', right: '4%' }, sizeClass: 'w-2 h-2', animationDelay: '0.8s', animationDuration: '6.1s' },
+  { id: 9, style: { top: '55%', right: '3%' }, sizeClass: 'w-3.5 h-3.5', animationDelay: '4.2s', animationDuration: '6.5s', isCrossStar: true },
+  { id: 10, style: { top: '78%', right: '6%' }, sizeClass: 'w-1.5 h-1.5', animationDelay: '2.0s', animationDuration: '5.9s' },
+
+  // Bordes Inferiores
+  { id: 11, style: { bottom: '8%', left: '10%' }, sizeClass: 'w-3 h-3', animationDelay: '5.2s', animationDuration: '6s', isCrossStar: true },
+  { id: 12, style: { bottom: '6%', right: '8%' }, sizeClass: 'w-3.5 h-3.5', animationDelay: '0.4s', animationDuration: '6.2s', isCrossStar: true },
+]
+
+function HeroSpaceStars() {
+  return (
+    <div className="absolute inset-0 pointer-events-none z-0 overflow-hidden">
+      <style>{`
+        @keyframes heroStarShine {
+          0%, 75%, 100% {
+            transform: scale(1);
+            opacity: 0.35;
+            filter: drop-shadow(0 0 2px rgba(255, 255, 255, 0.4));
+          }
+          88% {
+            transform: scale(2.2);
+            opacity: 1;
+            filter: drop-shadow(0 0 8px rgba(192, 132, 252, 0.9)) drop-shadow(0 0 14px rgba(255, 255, 255, 1));
+          }
+        }
+      `}</style>
+      {HERO_STARS.map((star) => (
+        <div
+          key={star.id}
+          className="absolute flex items-center justify-center"
+          style={{
+            ...star.style,
+            animation: `heroStarShine ${star.animationDuration} ease-in-out infinite`,
+            animationDelay: star.animationDelay,
+          }}
+        >
+          {star.isCrossStar ? (
+            <svg
+              className={`${star.sizeClass} text-white fill-current`}
+              viewBox="0 0 24 24"
+            >
+              <path d="M12 0L14.59 9.41L24 12L14.59 14.59L12 24L9.41 14.59L0 12L9.41 9.41L12 0Z" />
+            </svg>
+          ) : (
+            <div className={`${star.sizeClass} rounded-full bg-white/90 shadow-[0_0_6px_rgba(255,255,255,0.8)]`} />
+          )}
+        </div>
+      ))}
+    </div>
+  )
+}
 
 export default function ProfesorFeature() {
   const activeTab = useProfesorStore((state) => state.activeTab)
@@ -59,6 +210,12 @@ export default function ProfesorFeature() {
         {/* Glow ambient light */}
         <div className="absolute top-0 right-1/4 w-96 h-96 bg-[var(--theme-accent)]/20 rounded-full blur-3xl pointer-events-none" />
         <div className="absolute bottom-0 left-1/4 w-96 h-96 bg-[#8300ca]/30 rounded-full blur-3xl pointer-events-none" />
+
+        {/* Estrellas Espaciales en los bordes */}
+        <HeroSpaceStars />
+
+        {/* Astronauta Flotante Dinámico */}
+        <FloatingAstronaut />
 
         <div className="max-w-7xl mx-auto relative z-10">
           <div className="flex flex-col items-center text-center max-w-3xl mx-auto space-y-4">
@@ -295,6 +452,7 @@ export default function ProfesorFeature() {
       <ProfessorReviewsModal />
       <ReportCommentModal />
       <UndoSnackbar />
+      <ScheduleGeneratorWidget />
     </div>
   )
 }
