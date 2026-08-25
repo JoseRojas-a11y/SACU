@@ -2,7 +2,7 @@
   "course_id": "BMA02",
   "course_name": "Cálculo_integral",
   "id": "1vkilNaHxEiHxMWsXblkWiI6g-fkfsur6",
-  "scanned_at": "2026-08-18T20:26:22.122119+00:00",
+  "scanned_at": "2026-08-22T08:53:36.681083+00:00",
   "tree": {
     "name": "Cálculo_integral",
     "type": "folder",
@@ -1986,6 +1986,13 @@
             "id": "1kycm8yWZXLDzIe4xTButcosan8jjtfTU",
             "children": [
               {
+                "name": "PE_BMA02_24-1_Arámbulo",
+                "type": "file",
+                "id": "1yIIM9I1zDJEiptIQpcKYxw-wQ8gLb6S0",
+                "mimeType": "image/jpeg",
+                "size": "50416"
+              },
+              {
                 "name": "PE_25-II.pdf",
                 "type": "file",
                 "id": "13HbEgZvBS8p7CcnibgeKBW_TyaIp1SZA",
@@ -2166,10 +2173,10 @@
                 "size": "4438296"
               }
             ],
-            "total_files": 20
+            "total_files": 21
           }
         ],
-        "total_files": 185
+        "total_files": 186
       },
       {
         "name": "Sílabo_Cálculo_Integral.pdf",
@@ -2200,6 +2207,6 @@
         "size": "437284"
       }
     ],
-    "total_files": 265
+    "total_files": 266
   }
 }

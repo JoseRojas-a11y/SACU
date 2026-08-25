@@ -2,7 +2,7 @@
   "course_id": "SI205",
   "course_name": "Algoritmia_y_estructura_de_datos",
   "id": "1v7kfRxH4GU-T70VZY8b9aKRA6YAlWnYB",
-  "scanned_at": "2026-08-18T20:18:57.951186+00:00",
+  "scanned_at": "2026-08-22T08:46:59.167906+00:00",
   "tree": {
     "name": "Algoritmia_y_estructura_de_datos",
     "type": "folder",
@@ -1053,6 +1053,13 @@
                 "id": "1pcjB6qBnjYit7DBf1yZedKz2tpdFWfrs",
                 "children": [
                   {
+                    "name": "UNI-SI205-PC1-Pregunta_1.pptx",
+                    "type": "file",
+                    "id": "1CSos5rTF05Lz-p3lhsa4LM4V96SrlT-u",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "size": "49441"
+                  },
+                  {
                     "name": "UNI-SI205-PC1-Pregunta_3.pptx",
                     "type": "file",
                     "id": "14fR4B2AvdIA82B2H9iMK_1DZZGVrhoEq",
@@ -1065,13 +1072,6 @@
                     "id": "1I4xM4tSrKuzcKe2HXxf7toDlR1cGoDAV",
                     "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                     "size": "46632"
-                  },
-                  {
-                    "name": "UNI-SI205-PC1-Pregunta_1.pptx",
-                    "type": "file",
-                    "id": "1CSos5rTF05Lz-p3lhsa4LM4V96SrlT-u",
-                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-                    "size": "47141"
                   }
                 ],
                 "total_files": 3

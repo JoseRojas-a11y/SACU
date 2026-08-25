@@ -2,7 +2,7 @@
   "course_id": "FB403",
   "course_name": "Ecuaciones_diferenciales",
   "id": "1CuQ_ETvnMiVuNSXwKQ1GYmhr1Gf8SBha",
-  "scanned_at": "2026-08-18T20:20:50.824156+00:00",
+  "scanned_at": "2026-08-22T08:48:39.373399+00:00",
   "tree": {
     "name": "Ecuaciones_diferenciales",
     "type": "folder",
@@ -1974,13 +1974,6 @@
                 "size": "487013"
               },
               {
-                "name": "FB403_PE_24-1_Arámbulo.jpeg",
-                "type": "file",
-                "id": "1TYu1VUGIuzeQ7nUNmPZCaQGJMKg4YryX",
-                "mimeType": "image/jpeg",
-                "size": "50416"
-              },
-              {
                 "name": "FB403_PE_24-1.jpeg",
                 "type": "file",
                 "id": "1nDG0C7sebL8s0FaInNhyKGMCZmsw0AFj",
@@ -2023,10 +2016,10 @@
                 "size": "64358"
               }
             ],
-            "total_files": 25
+            "total_files": 24
           }
         ],
-        "total_files": 182
+        "total_files": 181
       },
       {
         "name": "Bibliografía_recomendada",
@@ -2177,6 +2170,6 @@
         "total_files": 20
       }
     ],
-    "total_files": 261
+    "total_files": 260
   }
 }

@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import { Faculty } from '../types'
 import HeroImage from '../public/hero-image.png'
 import Astronauta from '../public/astronauta.png'
@@ -60,6 +60,45 @@ export function Hero({
 }: Props) {
   const animatedMaterials = useAnimatedCount(totalMaterials, 1800)
   const animatedCourses = useAnimatedCount(totalCourses, 1400)
+  const timerRef = useRef<ReturnType<typeof setTimeout> | null>(null)
+
+  const scrollToCourses = () => {
+    const catalogEl = document.getElementById('cursos-disponibles')
+    if (catalogEl) {
+      catalogEl.scrollIntoView({ behavior: 'smooth', block: 'start' })
+    }
+  }
+
+  useEffect(() => {
+    if (timerRef.current) {
+      clearTimeout(timerRef.current)
+      timerRef.current = null
+    }
+
+    if (searchQuery.trim()) {
+      timerRef.current = setTimeout(() => {
+        scrollToCourses()
+      }, 3000)
+    }
+
+    return () => {
+      if (timerRef.current) {
+        clearTimeout(timerRef.current)
+      }
+    }
+  }, [searchQuery])
+
+  const handleKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
+    if (e.key === 'Enter') {
+      if (timerRef.current) {
+        clearTimeout(timerRef.current)
+        timerRef.current = null
+      }
+      if (searchQuery.trim()) {
+        scrollToCourses()
+      }
+    }
+  }
 
   return (
     <section className="hero-card-container">
@@ -83,12 +122,19 @@ export function Hero({
                 type="text"
                 value={searchQuery}
                 onChange={(e) => onSearchChange(e.target.value)}
+                onKeyDown={handleKeyDown}
                 placeholder="Buscar curso por nombre o código (ej. BMA01, Algorítmica)..."
                 className="hero-search-input"
               />
               {searchQuery && (
                 <button
-                  onClick={() => onSearchChange('')}
+                  onClick={() => {
+                    onSearchChange('')
+                    if (timerRef.current) {
+                      clearTimeout(timerRef.current)
+                      timerRef.current = null
+                    }
+                  }}
                   className="text-xs text-[#cbd5e1] hover:text-white px-2 py-0.5 rounded bg-white/10"
                 >
                   Limpiar

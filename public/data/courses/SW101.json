@@ -2,7 +2,7 @@
   "course_id": "SW101",
   "course_name": "Intr._a_la_ingeniería_de_software",
   "id": "1aicpZFkeh4JPJY8N5ZOFBo4b91AN69HG",
-  "scanned_at": "2026-08-18T20:09:59.000559+00:00",
+  "scanned_at": "2026-08-22T08:38:12.405208+00:00",
   "tree": {
     "name": "Intr._a_la_ingeniería_de_software",
     "type": "folder",
@@ -46,6 +46,20 @@
                 "id": "1nOrrlzcdAdm5tpXI5_FtpSZv1YDRZVtB",
                 "children": [
                   {
+                    "name": "SW101_EP_26-1.pdf",
+                    "type": "file",
+                    "id": "1SIWtPCY7YQVpoRuxK6f3-eUpk4CxSa0U",
+                    "mimeType": "application/pdf",
+                    "size": "104975"
+                  },
+                  {
+                    "name": "SW101_EP_26-1_solucionario.pdf",
+                    "type": "file",
+                    "id": "1R8GGeDNXOXBGqy56PfWzWx2XuTFIVAx5",
+                    "mimeType": "application/pdf",
+                    "size": "152667"
+                  },
+                  {
                     "name": "SW101_EP_24-2.pdf",
                     "type": "file",
                     "id": "15U1SaMyd-jEUEoKLnqZSM1in7ObUNLq6",
@@ -53,13 +67,27 @@
                     "size": "34226"
                   }
                 ],
-                "total_files": 1
+                "total_files": 3
               },
               {
                 "name": "EF",
                 "type": "folder",
                 "id": "10mkR9u7Tcjk60RAjDGfCGDrHmQQBHPP2",
                 "children": [
+                  {
+                    "name": "SW101_EF_26-1_Solucion.pdf",
+                    "type": "file",
+                    "id": "1qs2eGvVu3FKsLjxXfgZPNiOlkcPfPHTN",
+                    "mimeType": "application/pdf",
+                    "size": "168844"
+                  },
+                  {
+                    "name": "SW101_EF_26-1.pdf",
+                    "type": "file",
+                    "id": "1bArzeFxaZSz2lOWBZosvZQ9gLQqR3da6",
+                    "mimeType": "application/pdf",
+                    "size": "115476"
+                  },
                   {
                     "name": "SW101_EF_25-1.webp",
                     "type": "file",
@@ -96,10 +124,10 @@
                     "size": "5105199"
                   }
                 ],
-                "total_files": 5
+                "total_files": 7
               }
             ],
-            "total_files": 8
+            "total_files": 12
           },
           {
             "name": "Sanchez",
@@ -273,7 +301,7 @@
             "total_files": 3
           }
         ],
-        "total_files": 21
+        "total_files": 25
       },
       {
         "name": "Observaciones",
@@ -321,13 +349,6 @@
             "type": "folder",
             "id": "1eFYXP8UZ2JH_7f_FCzpc0_D93gr44Tb4",
             "children": [
-              {
-                "name": "ZMensaje_a_la_nación.txt",
-                "type": "file",
-                "id": "171SXPD-VdO5mktXhFzNKOvxmYGQFDV0D",
-                "mimeType": "text/plain",
-                "size": "447"
-              },
               {
                 "name": "SEMANA_14.3.-_Administracion_de_Configuracion_del_SW.pdf",
                 "type": "file",
@@ -574,7 +595,7 @@
                 "size": "71315"
               }
             ],
-            "total_files": 36
+            "total_files": 35
           },
           {
             "name": "Antaurco",
@@ -648,7 +669,7 @@
             "total_files": 9
           }
         ],
-        "total_files": 45
+        "total_files": 44
       },
       {
         "name": "Silabus_Intro._a_la_Ing._Software.docx",
@@ -658,6 +679,6 @@
         "size": "77513"
       }
     ],
-    "total_files": 71
+    "total_files": 74
   }
 }

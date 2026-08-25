@@ -1,10 +1,12 @@
+import LogoImage from '../public/logo-sacu.png'
+
 export function Footer() {
   return (
     <footer className="sacu-footer">
       <div className="footer-container">
         <div className="footer-brand">
           <div className="footer-logo-box">
-            <img src="/logo-sacu.ico" alt="Logo SACU" />
+            <img src={LogoImage} alt="Logo SACU" />
           </div>
           <div>
             <span className="footer-brand-title">SACU</span>

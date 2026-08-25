@@ -1,0 +1,129 @@
+/* ==============================================================================
+   SACU - Módulo de Profesores & "Cómo sobrevivir a tu Profe" (CsP) Styles
+   ============================================================================== */
+
+.prof-hero-glow {
+  background: radial-gradient(circle at 50% 0%, rgba(204, 109, 254, 0.18) 0%, rgba(131, 0, 202, 0.04) 50%, transparent 80%);
+}
+
+.prof-bento-card {
+  background: var(--theme-surface);
+  border: 1px solid var(--theme-border);
+  border-radius: 1.25rem;
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.prof-bento-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 16px 32px -8px rgba(131, 0, 202, 0.12);
+  border-color: var(--theme-accent);
+}
+
+/* Badge de RoleType */
+.badge-role-teoria {
+  background: #f5f3ff;
+  color: #6d28d9;
+  border: 1px solid #ddd6fe;
+}
+
+.badge-role-practica {
+  background: #ecfdf5;
+  color: #047857;
+  border: 1px solid #a7f3d0;
+}
+
+.badge-role-laboratorio {
+  background: #fffbeb;
+  color: #b45309;
+  border: 1px solid #fde68a;
+}
+
+.badge-role-general {
+  background: #eff6ff;
+  color: #1d4ed8;
+  border: 1px solid #bfdbfe;
+}
+
+/* Sliders de Ponderación Interactivos */
+.weight-slider-input {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 8px;
+  border-radius: 9999px;
+  background: #e2e8f0;
+  outline: none;
+  transition: background 0.15s ease;
+}
+
+.weight-slider-input::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: var(--theme-primary);
+  border: 2.5px solid #ffffff;
+  box-shadow: 0 2px 6px rgba(131, 0, 202, 0.4);
+  cursor: pointer;
+  transition: transform 0.15s ease, background-color 0.15s ease;
+}
+
+.weight-slider-input::-webkit-slider-thumb:hover {
+  transform: scale(1.2);
+  background: var(--theme-primary-hover);
+}
+
+.weight-slider-input::-moz-range-thumb {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: var(--theme-primary);
+  border: 2.5px solid #ffffff;
+  box-shadow: 0 2px 6px rgba(131, 0, 202, 0.4);
+  cursor: pointer;
+  transition: transform 0.15s ease;
+}
+
+/* Barra de Distribución de Pesos */
+.weights-distribution-bar {
+  display: flex;
+  height: 10px;
+  border-radius: 9999px;
+  overflow: hidden;
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+/* Animación del Undo Grace Period Bar */
+@keyframes undoCountdown {
+  from {
+    width: 100%;
+  }
+  to {
+    width: 0%;
+  }
+}
+
+.animate-undo-countdown {
+  animation: undoCountdown 15s linear forwards;
+}
+
+/* Split-View Container para CsP */
+.csp-split-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+}
+
+@media (min-width: 1024px) {
+  .csp-split-container {
+    grid-template-columns: 1.2fr 0.8fr;
+  }
+}
+
+/* Resaltado del item activo en el índice CsP */
+.csp-index-active {
+  border-color: var(--theme-primary) !important;
+  background: rgba(131, 0, 202, 0.05) !important;
+  box-shadow: 0 4px 14px -2px rgba(131, 0, 202, 0.15);
+}

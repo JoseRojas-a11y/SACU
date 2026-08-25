@@ -241,7 +241,7 @@ export default function RepositorioFeature({
     <div className="min-h-screen bg-[#f7f9fb] text-[#191c1e]">
       <main className="max-w-7xl mx-auto px-4 sm:px-6 py-6 sm:py-8 space-y-8">
         {/* Course Catalog Section */}
-        <section className="space-y-6">
+        <section id="cursos-disponibles" className="space-y-6 scroll-mt-6">
           <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
             <div>
               <h2 className="text-xl sm:text-2xl font-extrabold text-[#191c1e] tracking-tight">

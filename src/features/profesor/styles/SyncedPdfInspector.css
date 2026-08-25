@@ -1,0 +1,365 @@
+/* ==============================================================================
+   SyncedPdfInspector.css - Estilos específicos del visor y split view de CsP
+   ============================================================================== */
+
+/* Contenedor principal del inspector (Vista Normal en Página) */
+.synced-inspector-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  width: 100%;
+}
+
+/* Portal de Pantalla Completa (Montado directamente en document.body) */
+.synced-fullscreen-portal {
+  position: fixed !important;
+  inset: 0 !important;
+  left: 0 !important;
+  top: 0 !important;
+  right: 0 !important;
+  bottom: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  z-index: 9999 !important;
+  background-color: #020617 !important; /* slate-950 puro */
+  padding: 0.6rem 0.85rem !important;
+  display: flex !important;
+  flex-direction: column !important;
+  overflow: hidden !important;
+  box-sizing: border-box !important;
+}
+
+/* Barra superior de navegación y acciones */
+.synced-inspector-topbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 0.875rem 1.25rem;
+  border-radius: 1rem;
+  background-color: #ffffff;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  flex-shrink: 0;
+}
+
+.synced-fullscreen-portal .synced-inspector-topbar {
+  background-color: #0f172a !important; /* slate-900 */
+  border-color: #1e293b !important;
+  color: #ffffff !important;
+}
+
+/* Grid del Split View Normal: Left (Visor 9 cols) & Right (Índice 3 cols) */
+.synced-inspector-grid {
+  display: grid;
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+  gap: 1.25rem;
+  flex: 1 1 0%;
+  min-height: 0;
+}
+
+@media (min-width: 1024px) {
+  .synced-inspector-grid {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+}
+
+/* Grid del Modo Comparativa: 2 Visores (6 cols y 6 cols = 100% visores) */
+.synced-compare-grid {
+  display: grid;
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+  gap: 1rem;
+  flex: 1 1 0%;
+  min-height: 0;
+}
+
+@media (min-width: 1024px) {
+  .synced-compare-grid {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+}
+
+/* Columna del Visor de PDF Individual (9 cols = 75%) */
+.synced-viewer-column {
+  background-color: #020617; /* slate-950 */
+  border-radius: 1.5rem;
+  border: 1px solid #1e293b; /* slate-800 */
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  min-height: 680px;
+  position: relative;
+}
+
+@media (min-width: 1024px) {
+  .synced-viewer-column {
+    grid-column: span 9 / span 9;
+    min-height: 820px;
+    height: 82vh;
+  }
+}
+
+.synced-fullscreen-portal .synced-viewer-column {
+  height: 100% !important;
+  min-height: 0 !important;
+  border-radius: 1rem;
+}
+
+/* Columna de Visor en Modo Comparativa (6 y 6 cols = 50%/50%) */
+.synced-viewer-compare-column {
+  background-color: #020617;
+  border-radius: 1.25rem;
+  border: 1px solid #1e293b;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  min-height: 560px;
+  position: relative;
+}
+
+@media (min-width: 1024px) {
+  .synced-viewer-compare-column {
+    grid-column: span 6 / span 6; /* 50% de ancho en desktop */
+    min-height: 750px;
+    height: 82vh;
+  }
+}
+
+.synced-fullscreen-portal .synced-viewer-compare-column {
+  height: 100% !important;
+  min-height: 0 !important;
+  border-radius: 1rem;
+}
+
+/* Contenedor del Iframe */
+.synced-iframe-wrapper {
+  flex: 1 1 0%;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  min-height: 500px;
+  background-color: #0b010e;
+}
+
+.synced-fullscreen-portal .synced-iframe-wrapper {
+  min-height: 0 !important;
+}
+
+.synced-drive-iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+  position: absolute;
+  inset: 0;
+}
+
+/* Columna del Índice Estructurado Fijo (Solo en Vista Normal de 1 solo documento) */
+.synced-index-column {
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  max-height: 820px;
+}
+
+@media (min-width: 1024px) {
+  .synced-index-column {
+    grid-column: span 3 / span 3;
+    height: 82vh;
+  }
+}
+
+.synced-fullscreen-portal .synced-index-column {
+  height: 100% !important;
+  max-height: none !important;
+  border-radius: 1rem;
+  background-color: #0f172a; /* slate-900 en fullscreen */
+  border-color: #1e293b;
+  color: #f8fafc;
+}
+
+/* ==============================================================================
+   PORTALES GLOBALES (Directos a document.body)
+   ============================================================================== */
+
+/* Backdrop global para Modales y Drawer */
+.synced-portal-backdrop {
+  position: fixed !important;
+  inset: 0 !important;
+  z-index: 10000 !important;
+  background-color: rgba(2, 6, 23, 0.8) !important;
+  backdrop-filter: blur(8px) !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 1rem !important;
+  box-sizing: border-box !important;
+}
+
+/* Panel Flotante / Drawer del Índice (Montado en document.body) */
+.synced-floating-index-drawer {
+  position: fixed !important;
+  top: 0 !important;
+  right: 0 !important;
+  bottom: 0 !important;
+  width: 100% !important;
+  max-width: 440px !important;
+  z-index: 10005 !important;
+  background-color: #ffffff !important;
+  border-left: 1px solid #e2e8f0 !important;
+  box-shadow: -12px 0 35px -5px rgba(0, 0, 0, 0.35) !important;
+  display: flex !important;
+  flex-direction: column !important;
+  padding: 1.25rem !important;
+  animation: slideInRight 0.22s cubic-bezier(0.16, 1, 0.3, 1) !important;
+  box-sizing: border-box !important;
+}
+
+@keyframes slideInRight {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+/* Pestaña / Barra Lateral Flotante del Índice (Pegada al borde derecho absoluto de la pantalla) */
+.synced-collapsed-index-tab {
+  position: fixed !important;
+  right: 0 !important;
+  top: 50% !important;
+  transform: translateY(-50%) !important;
+  z-index: 9998 !important;
+  background: linear-gradient(135deg, var(--theme-primary), #580084) !important;
+  color: #ffffff !important;
+  padding: 0.95rem 0.55rem !important;
+  border-top-left-radius: 1rem !important;
+  border-bottom-left-radius: 1rem !important;
+  box-shadow: -4px 0 20px -2px rgba(131, 0, 202, 0.55) !important;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  gap: 0.5rem !important;
+  cursor: pointer !important;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1) !important;
+  border: 1px solid rgba(255, 255, 255, 0.25) !important;
+  border-right: none !important;
+}
+
+.synced-collapsed-index-tab:hover {
+  transform: translateY(-50%) translateX(-4px) !important;
+  box-shadow: -8px 0 28px -2px rgba(131, 0, 202, 0.75) !important;
+  background: linear-gradient(135deg, #991be0, var(--theme-primary)) !important;
+}
+
+.synced-tab-vertical-text {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.18em;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+.synced-tab-badge {
+  font-size: 9px;
+  font-weight: 800;
+  font-family: monospace;
+  background-color: rgba(0, 0, 0, 0.35);
+  color: #f3e8ff;
+  padding: 0.15rem 0.35rem;
+  border-radius: 9999px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* Tarjeta individual del índice */
+.synced-index-card {
+  padding: 0.875rem;
+  border-radius: 1rem;
+  border: 1px solid #e2e8f0;
+  background-color: #ffffff;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  cursor: pointer;
+}
+
+.synced-fullscreen-portal .synced-index-card {
+  background-color: #1e293b;
+  border-color: #334155;
+  color: #f8fafc;
+}
+
+.synced-index-card:hover {
+  border-color: #e9d5ff;
+  background-color: rgba(243, 232, 255, 0.3);
+}
+
+.synced-index-card.is-active {
+  background-color: #fcfaff;
+  border-color: var(--theme-primary) !important;
+  border-width: 2px !important;
+  box-shadow: 0 6px 20px -2px rgba(131, 0, 202, 0.22);
+}
+
+.synced-fullscreen-portal .synced-index-card.is-active {
+  background-color: #1a162b;
+  border-color: #c084fc !important;
+}
+
+/* Selector desplegable de filtro de coincidencia en comparativa */
+.synced-match-filter-select {
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%238300ca' stroke-width='2'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' d='M19 9l-7 7-7-7'%3E%3C/path%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.6rem center;
+  background-size: 0.85rem;
+  padding-right: 1.75rem;
+}
+
+.synced-fullscreen-portal .synced-match-filter-select {
+  background-color: #1e293b;
+  border-color: #334155;
+  color: #f8fafc;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%23c084fc' stroke-width='2'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' d='M19 9l-7 7-7-7'%3E%3C/path%3E%3C/svg%3E");
+}
+
+/* Panel Desplegable de Reseñas y Calificaciones dentro de la tarjeta activa */
+.synced-index-review-panel {
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px dashed #e2e8f0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  animation: fadeIn 0.2s ease-in-out;
+}
+
+.synced-fullscreen-portal .synced-index-review-panel {
+  border-top-color: #334155;
+}
+
+/* Mini items de comentarios de estudiantes */
+.synced-mini-comment-item {
+  padding: 0.6rem 0.75rem;
+  border-radius: 0.75rem;
+  background-color: #f8fafc;
+  border: 1px solid #e2e8f0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.synced-fullscreen-portal .synced-mini-comment-item {
+  background-color: #0f172a;
+  border-color: #1e293b;
+}
