@@ -22,26 +22,34 @@ export async function fetchProfessorTuples(): Promise<ProfessorCourseTuple[]> {
       .select('*')
 
     if (!viewError && Array.isArray(viewData) && viewData.length > 0) {
-      return viewData.map((row) => ({
-        id: row.id,
-        professorId: row.professor_id,
-        professorName: row.professor_name || 'Docente Universitario',
-        professorEmail: row.professor_email || '',
-        department: row.faculty_name || 'Facultad de Ingeniería',
-        courseId: row.course_id,
-        courseCode: row.course_code || '',
-        courseName: row.course_name || 'Curso Universitario',
-        facultyId: row.faculty_id || row.faculty_code || 'sistemas',
-        facultyName: row.faculty_name || 'Facultad de Ingeniería',
-        roleType: (row.role_type as RoleType) || 'Teoria',
-        scores: {
-          ensenanza: Number(Number(row.avg_teaching || 4.0).toFixed(1)),
-          evaluacion: Number(Number(row.avg_difficulty || 3.5).toFixed(1)),
-          dedicacion: Number(Number(row.avg_dedication || 4.0).toFixed(1)),
-          dificultad: Number(Number(row.avg_difficulty || 3.5).toFixed(1)),
-        },
-        reviewCount: Number(row.review_count || 0),
-      }))
+      return viewData.map((row) => {
+        const tupleId = row.professor_course_id || row.id || ''
+        const revCount = Number(row.total_reviews ?? row.review_count ?? 0)
+        const tScore = Number(row.avg_teaching_score ?? row.avg_teaching ?? 0)
+        const diffScore = Number(row.avg_difficulty_score ?? row.avg_difficulty ?? 0)
+        const dedScore = Number(row.avg_dedication_score ?? row.avg_dedication ?? 0)
+
+        return {
+          id: tupleId,
+          professorId: row.professor_id,
+          professorName: row.professor_name || 'Docente Universitario',
+          professorEmail: row.professor_email || '',
+          department: row.faculty_name || 'Facultad de Ingeniería',
+          courseId: row.course_id,
+          courseCode: row.course_code || '',
+          courseName: row.course_name || 'Curso Universitario',
+          facultyId: row.faculty_id || row.faculty_code || 'sistemas',
+          facultyName: row.faculty_name || 'Facultad de Ingeniería',
+          roleType: (row.role_type as RoleType) || 'Teoria',
+          scores: {
+            ensenanza: revCount > 0 && tScore > 0 ? Number(tScore.toFixed(1)) : 4.0,
+            evaluacion: revCount > 0 && diffScore > 0 ? Number(diffScore.toFixed(1)) : 3.5,
+            dedicacion: revCount > 0 && dedScore > 0 ? Number(dedScore.toFixed(1)) : 4.0,
+            dificultad: revCount > 0 && diffScore > 0 ? Number(diffScore.toFixed(1)) : 3.5,
+          },
+          reviewCount: revCount,
+        }
+      })
     }
 
     // 2. Consulta relacional directa a 'professor_courses' según supabase.sql
@@ -185,6 +193,11 @@ export async function fetchReviewsByTuple(tupleId: string): Promise<Review[]> {
 export async function insertReviewApi(newReview: Omit<Review, 'id' | 'createdAt'>): Promise<Review> {
   if (!isSupabaseConfigured() || !supabase) {
     throw new Error('No hay conexión con la base de datos de Supabase.')
+  }
+
+  if (!newReview.professorCourseId || newReview.professorCourseId.trim() === '') {
+    console.error('[SACU Supabase] Error: professorCourseId es nulo o inválido:', newReview)
+    throw new Error('Identificador de cátedra (professor_course_id) inválido o ausente. No se puede registrar la reseña.')
   }
 
   await ensureAuthenticated()

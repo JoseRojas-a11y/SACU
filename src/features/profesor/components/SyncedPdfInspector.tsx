@@ -43,7 +43,7 @@ const CsPIndexReviewSection: React.FC<CsPIndexReviewSectionProps> = ({ tuple, en
 
   const handleOpenRateModal = (e: React.MouseEvent) => {
     e.stopPropagation()
-    if (tuple) {
+    if (tuple && tuple.id) {
       setSelectedTuple(tuple)
       setReviewsModalOpen(true)
     }
@@ -73,7 +73,7 @@ const CsPIndexReviewSection: React.FC<CsPIndexReviewSectionProps> = ({ tuple, en
         <button
           type="button"
           onClick={handleOpenRateModal}
-          disabled={!tuple}
+          disabled={!tuple || !tuple.id}
           className="inline-flex items-center gap-1 px-2.5 py-1 rounded-lg bg-[var(--theme-primary)] hover:bg-[var(--theme-primary-dark)] text-white text-[10px] font-bold shadow-xs transition-all cursor-pointer active:scale-95 disabled:opacity-50"
           title="Calificar a este docente y dejar un consejo"
         >

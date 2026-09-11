@@ -31,6 +31,10 @@ export const ProfessorReviewsModal: React.FC = () => {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault()
+    if (!selectedTuple?.id) {
+      setFormError('No se encontró el identificador de la cátedra seleccionada. Por favor, selecciona nuevamente el docente.')
+      return
+    }
     if (!formComment.trim()) {
       setFormError('Por favor escribe un comentario o consejo sobre el docente.')
       return
